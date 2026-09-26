@@ -27,12 +27,12 @@ def import_file(name: str, path: Path):
 
 def make_model(depth, leaf, feature_fraction):
     return ExtraTreesClassifier(
-        n_estimators=600,
+        n_estimators=300,
         max_depth=depth,
         min_samples_leaf=leaf,
         max_features=feature_fraction,
         class_weight="balanced",
-        random_state=20260919,
+        random_state=20260926,
         n_jobs=-1,
     )
 
@@ -79,14 +79,9 @@ def main():
         groups = np.asarray([row.group for row in rows])
         surfaces = np.asarray([row.surface for row in rows])
         folds = list(StratifiedGroupKFold(
-            n_splits=6, shuffle=True, random_state=20260919
+            n_splits=6, shuffle=True, random_state=20260926
         ).split(rows, outcomes, groups))
-        specifications = [
-            (depth, leaf, fraction)
-            for depth in (3, 5, 8, 12)
-            for leaf in (2, 3, 5)
-            for fraction in ("sqrt", 0.5)
-        ]
+        specifications = [(16, 2, 0.30)]
         results = []
         for depth, leaf, fraction in specifications:
             out_of_fold = np.zeros(len(rows), dtype=float)

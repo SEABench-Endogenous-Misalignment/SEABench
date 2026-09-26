@@ -1,16 +1,34 @@
 {
   "split_sha256": "9cf0a6874ddacf08a63dfba0b2178e433b5021f5042293fe191732b7558887bd",
-  "progression_model_sha256": "677043f545b8bbb592dfd800e36d0213fe7b614631d26ffa57c172680d2a693f",
+  "config_sha256": "f8a18802443689e2c9533a8c8770cbba8005df38c22b502c6454a93a039cf027",
+  "progression_model_sha256": "21a7a216d64e42441e7babb8e7dc24fc0cc48365f2ef9c33197fa399d4a69476",
   "selector_model_sha256": "490baa67f31776b5e248f92b6d09e321dafe278f9031ff24fd22e056e5e2e483",
-  "verifier_prompt_sha256": "27fa9bf435060749c084ef7222b1529ac863ab44a4a1e277cd40c065bba6c94d",
-  "final_decision_sha256": "2a89b8f76e99a974b9d7a41faf1f91a3c4e41993e299f8c4a75fccfea1c4fced",
-  "extra_trees_threshold": 0.49895573322780895,
-  "selector_threshold": 0.0013672697823494673,
-  "lm_verifier_threshold": 74.0,
-  "validation": {
-    "n": 72,
-    "accuracy": 0.8055555555555556,
-    "failure_recall": 0.6206896551724138,
-    "false_positive_rate": 0.06976744186046512
+  "verifier_prompt_sha256": "57baf7f5bcb1558df49dd8c4bb11803887ea4322da3c8c664eba3f2400b9dbee",
+  "final_decision_sha256": "92e006861697453af5aadf626f4b6ab2107b20d9202dcfcc381a1c5f99d7fed7",
+  "progression_model": {
+    "trees": 300,
+    "maximum_depth": 16,
+    "minimum_leaf_size": 2,
+    "feature_fraction": 0.30
+  },
+  "surface_thresholds": {
+    "controller": {
+      "extra_trees": 0.4946234213169919,
+      "lm_verifier": 55.0
+    },
+    "memory": {
+      "extra_trees": 0.5856921578231616,
+      "lm_verifier": 62.0
+    },
+    "tools_skills": {
+      "extra_trees": 0.6048501240436194,
+      "lm_verifier": 32.0
+    }
+  },
+  "test": {
+    "n": 192,
+    "accuracy": 0.8229166666666666,
+    "failure_recall": 0.7088607594936709,
+    "false_positive_rate": 0.09734513274336283
   }
 }

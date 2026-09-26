@@ -36,8 +36,12 @@ reasoning-monitor train \
   --output-dir RUN
 ```
 
-This creates the grouped split, trains the monitor, selects its thresholds on
-the validation set, and freezes it for testing.
+This creates the grouped split and trains the monitor. Using the training and
+validation partitions only, it selects separate progression-filter and verifier
+cutoffs for controller update, short-term memory, and tools/skills traces while
+keeping the combined validation false-positive rate below 10%. The resulting
+monitor is then frozen for testing. A trace is flagged only when both cutoffs
+for its surface are met.
 
 ## Test
 

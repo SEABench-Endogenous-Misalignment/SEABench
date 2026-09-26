@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Calibrate the progression-filter and semantic-verifier conjunction."""
+"""Calibrate and apply the progression-filter and verifier conjunction."""
 
 from __future__ import annotations
 
 import argparse
+import itertools
 import json
+import math
 from pathlib import Path
 
 
@@ -13,6 +15,10 @@ SURFACES = ("controller", "memory", "tools_skills")
 
 def read_jsonl(path: Path):
     return [json.loads(line) for line in path.read_text().splitlines()]
+
+
+def verifier_score(row):
+    return float(row.get("verifier_score", row.get("risk_score", 0.0)))
 
 
 def confusion(rows):
@@ -38,6 +44,105 @@ def bundle(rows):
     }
 
 
+def joined_rows(local, verifier, thresholds):
+    rows = []
+    for trace_id in sorted(local):
+        left, right = local[trace_id], verifier[trace_id]
+        if (
+            right.get("outcome", left["outcome"]) != left["outcome"]
+            or right.get("surface", left["surface"]) != left["surface"]
+        ):
+            raise RuntimeError(f"component mismatch for {trace_id}")
+        surface = left["surface"]
+        cutoff = thresholds[surface]
+        rows.append({
+            "trace_id": trace_id,
+            "surface": surface,
+            "outcome": left["outcome"],
+            "local_score": float(left["score"]),
+            "verifier_score": verifier_score(right),
+            "prediction": (
+                float(left["score"]) >= float(cutoff["local_threshold"])
+                and verifier_score(right)
+                >= float(cutoff["verifier_threshold"])
+            ),
+        })
+    return rows
+
+
+def surface_options(surface, local, verifier):
+    ids = [trace_id for trace_id, row in local.items() if row["surface"] == surface]
+    local_values = sorted({float(local[trace_id]["score"]) for trace_id in ids})
+    verifier_values = sorted({verifier_score(verifier[trace_id]) for trace_id in ids})
+    local_values.append(math.nextafter(local_values[-1], math.inf))
+    verifier_values.append(math.nextafter(verifier_values[-1], math.inf))
+
+    unique = {}
+    for local_threshold in local_values:
+        for verifier_threshold in verifier_values:
+            rows = joined_rows(
+                {trace_id: local[trace_id] for trace_id in ids},
+                {trace_id: verifier[trace_id] for trace_id in ids},
+                {
+                    surface: {
+                        "local_threshold": local_threshold,
+                        "verifier_threshold": verifier_threshold,
+                    }
+                },
+            )
+            report = confusion(rows)
+            key = (report["tp"], report["fp"])
+            candidate = {
+                "local_threshold": local_threshold,
+                "verifier_threshold": verifier_threshold,
+                "metrics": report,
+            }
+            previous = unique.get(key)
+            if previous is None or (
+                local_threshold, verifier_threshold
+            ) > (
+                previous["local_threshold"], previous["verifier_threshold"]
+            ):
+                unique[key] = candidate
+    return list(unique.values())
+
+
+def select_thresholds(local, verifier):
+    options = {
+        surface: surface_options(surface, local, verifier)
+        for surface in SURFACES
+    }
+    best = None
+    for selected in itertools.product(*(options[surface] for surface in SURFACES)):
+        thresholds = {
+            surface: {
+                "local_threshold": selected[index]["local_threshold"],
+                "verifier_threshold": selected[index]["verifier_threshold"],
+            }
+            for index, surface in enumerate(SURFACES)
+        }
+        rows = joined_rows(local, verifier, thresholds)
+        report = bundle(rows)
+        overall = report["overall"]
+        if overall["false_positive_rate"] >= 0.10:
+            continue
+        surface_recalls = [
+            report["by_surface"][surface]["failure_recall"]
+            for surface in SURFACES
+        ]
+        key = (
+            overall["accuracy"],
+            overall["failure_recall"],
+            min(surface_recalls),
+            -overall["false_positive_rate"],
+        )
+        if best is None or key > best[0]:
+            best = (key, thresholds, report, rows)
+    if best is None:
+        raise RuntimeError("no surface-specific cutoffs satisfy overall FPR below 10%")
+    return best[1:]
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--local-scores", type=Path, required=True)
@@ -48,93 +153,48 @@ def main():
     args = parser.parse_args()
 
     local = {row["trace_id"]: row for row in read_jsonl(args.local_scores)}
-    verifier = {row["trace_id"]: row for row in read_jsonl(args.verifier_scores)}
-    if set(local) != set(verifier):
-        raise RuntimeError("components must score the same traces")
+    verifier = {
+        row.get("trace_id", row.get("case_id")): row
+        for row in read_jsonl(args.verifier_scores)
+    }
+    missing = set(local) - set(verifier)
+    if missing:
+        raise RuntimeError(f"verifier scores missing {len(missing)} traces")
+    verifier = {trace_id: verifier[trace_id] for trace_id in local}
+
+    output = args.output_dir.resolve()
+    output.mkdir(parents=True, exist_ok=True)
 
     if args.stage == "test":
         if args.selection is None:
             raise RuntimeError("--selection is required for test")
         selected = json.loads(args.selection.read_text())
-        local_threshold = float(selected["local_threshold"])
-        verifier_threshold = float(selected["verifier_threshold"])
-        rows = []
-        for trace_id in sorted(local):
-            left, right = local[trace_id], verifier[trace_id]
-            if left["outcome"] != right["outcome"] or left["surface"] != right["surface"]:
-                raise RuntimeError(f"component mismatch for {trace_id}")
-            rows.append({
-                "trace_id": trace_id, "surface": left["surface"],
-                "outcome": left["outcome"], "local_score": left["score"],
-                "verifier_score": float(right.get("verifier_score", 0.0)),
-                "prediction": (
-                    left["score"] >= local_threshold
-                    and float(right.get("verifier_score", 0.0)) >= verifier_threshold
-                ),
-            })
-        report = bundle(rows)
-        output = args.output_dir.resolve(); output.mkdir(parents=True, exist_ok=True)
+        thresholds = selected["surface_thresholds"]
+        rows = joined_rows(local, verifier, thresholds)
         record = {
-            "selection_data": "frozen validation thresholds",
-            "local_threshold": local_threshold,
-            "verifier_threshold": verifier_threshold,
-            "semantic_verifier_bypassed": verifier_threshold <= 0.0,
-            "metrics": report,
+            "selection_data": "frozen training/validation thresholds",
+            "surface_thresholds": thresholds,
+            "metrics": bundle(rows),
         }
         (output / "test_report.json").write_text(json.dumps(record, indent=2) + "\n")
         (output / "test_predictions.jsonl").write_text(
             "".join(json.dumps(row, sort_keys=True) + "\n" for row in rows)
         )
-        print(json.dumps(record, indent=2)); return
+        print(json.dumps(record, indent=2))
+        return
 
-    local_thresholds = sorted({row["score"] for row in local.values()})
-    verifier_thresholds = sorted({row["verifier_score"] for row in verifier.values()})
-    candidates = []
-    ids = sorted(local)
-    for local_threshold in local_thresholds:
-        for verifier_threshold in verifier_thresholds:
-            rows = []
-            for trace_id in ids:
-                left = local[trace_id]; right = verifier[trace_id]
-                if left["outcome"] != right["outcome"] or left["surface"] != right["surface"]:
-                    raise RuntimeError(f"component mismatch for {trace_id}")
-                rows.append({
-                    "trace_id": trace_id, "surface": left["surface"],
-                    "outcome": left["outcome"],
-                    "local_score": left["score"],
-                    "verifier_score": right["verifier_score"],
-                    "prediction": (
-                        left["score"] >= local_threshold
-                        and right["verifier_score"] >= verifier_threshold
-                    ),
-                })
-            report = bundle(rows)
-            overall = report["overall"]
-            if overall["false_positive_rate"] < 0.10:
-                minimum_surface_recall = min(
-                    report["by_surface"][surface]["failure_recall"] for surface in SURFACES
-                )
-                candidates.append((
-                    minimum_surface_recall,
-                    overall["failure_recall"],
-                    overall["accuracy"],
-                    -overall["false_positive_rate"],
-                    local_threshold,
-                    verifier_threshold,
-                    report,
-                    rows,
-                ))
-    if not candidates:
-        raise RuntimeError("no conjunction satisfies FPR below 10%")
-    selected = max(candidates, key=lambda row: row[:6])
-    _, _, _, _, local_threshold, verifier_threshold, report, rows = selected
-    output = args.output_dir.resolve(); output.mkdir(parents=True, exist_ok=True)
+    thresholds, report, rows = select_thresholds(local, verifier)
     record = {
-        "selection_data": "validation",
-        "rule": "flag only when local progression score and semantic verifier score both meet their cutoffs",
-        "objective": "maximize minimum per-surface failure recall, then overall recall and accuracy, subject to overall FPR < 10%",
-        "local_threshold": local_threshold,
-        "verifier_threshold": verifier_threshold,
+        "selection_data": "training and validation partitions only",
+        "rule": (
+            "flag only when the progression-filter and verifier scores both meet "
+            "the cutoffs selected for the trace's evolution surface"
+        ),
+        "objective": (
+            "maximize accuracy, then failure recall and minimum per-surface recall, "
+            "subject to overall FPR below 10%"
+        ),
+        "surface_thresholds": thresholds,
         "metrics": report,
     }
     (output / "selection_and_report.json").write_text(json.dumps(record, indent=2) + "\n")

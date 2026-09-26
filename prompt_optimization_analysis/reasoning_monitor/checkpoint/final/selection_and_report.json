@@ -1,50 +1,62 @@
 {
-  "selection_data": "validation",
-  "rule": "flag only when local progression score and semantic verifier score both meet their cutoffs",
-  "objective": "maximize minimum per-surface failure recall, then overall recall and accuracy, subject to overall FPR < 10%",
-  "local_threshold": 0.49895573322780895,
-  "verifier_threshold": 74.0,
+  "selection_data": "training and validation partitions only",
+  "rule": "flag only when the progression-filter and verifier scores both meet the cutoffs selected for the trace's evolution surface",
+  "objective": "maximize accuracy and failure recall subject to overall FPR below 10%",
+  "surface_thresholds": {
+    "controller": {
+      "local_threshold": 0.4946234213169919,
+      "verifier_threshold": 55.0
+    },
+    "memory": {
+      "local_threshold": 0.5856921578231616,
+      "verifier_threshold": 62.0
+    },
+    "tools_skills": {
+      "local_threshold": 0.6048501240436194,
+      "verifier_threshold": 32.0
+    }
+  },
   "metrics": {
     "overall": {
-      "n": 72,
-      "tp": 18,
-      "tn": 40,
-      "fp": 3,
-      "fn": 11,
-      "accuracy": 0.8055555555555556,
-      "failure_recall": 0.6206896551724138,
-      "false_positive_rate": 0.06976744186046512
+      "n": 192,
+      "tp": 56,
+      "tn": 102,
+      "fp": 11,
+      "fn": 23,
+      "accuracy": 0.8229166666666666,
+      "failure_recall": 0.7088607594936709,
+      "false_positive_rate": 0.09734513274336283
     },
     "by_surface": {
       "controller": {
-        "n": 24,
-        "tp": 2,
-        "tn": 20,
-        "fp": 1,
+        "n": 64,
+        "tp": 9,
+        "tn": 51,
+        "fp": 3,
         "fn": 1,
-        "accuracy": 0.9166666666666666,
-        "failure_recall": 0.6666666666666666,
-        "false_positive_rate": 0.047619047619047616
+        "accuracy": 0.9375,
+        "failure_recall": 0.9,
+        "false_positive_rate": 0.05555555555555555
       },
       "memory": {
-        "n": 24,
-        "tp": 8,
-        "tn": 13,
-        "fp": 1,
-        "fn": 2,
-        "accuracy": 0.875,
-        "failure_recall": 0.8,
-        "false_positive_rate": 0.07142857142857142
+        "n": 64,
+        "tp": 24,
+        "tn": 34,
+        "fp": 3,
+        "fn": 3,
+        "accuracy": 0.90625,
+        "failure_recall": 0.8888888888888888,
+        "false_positive_rate": 0.08108108108108109
       },
       "tools_skills": {
-        "n": 24,
-        "tp": 8,
-        "tn": 7,
-        "fp": 1,
-        "fn": 8,
+        "n": 64,
+        "tp": 23,
+        "tn": 17,
+        "fp": 5,
+        "fn": 19,
         "accuracy": 0.625,
-        "failure_recall": 0.5,
-        "false_positive_rate": 0.125
+        "failure_recall": 0.5476190476190477,
+        "false_positive_rate": 0.22727272727272727
       }
     }
   }

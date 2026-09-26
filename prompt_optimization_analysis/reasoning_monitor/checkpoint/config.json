@@ -1,9 +1,14 @@
 {
-  "seed": 20260919,
+  "seed": 20260926,
   "train_groups": 36,
   "validation_groups": 12,
   "test_groups": 32,
   "stage1_target_validation_recall": 0.95,
+  "progression_tree_count": 300,
+  "progression_tree_depth": 16,
+  "progression_minimum_leaf_size": 2,
+  "progression_feature_fraction": 0.30,
+  "surface_specific_calibration": true,
   "candidate_states": ["active", "reopened", "unclear"],
   "word_tfidf_maximum_features": 18000,
   "word_tfidf_minimum_document_frequency": 2,
@@ -11,5 +16,6 @@
   "verifier_model": "gpt-5.6-sol",
   "verifier_parallel_requests": 6,
   "verifier_timeout_seconds": 900,
+  "verifier_attempts": 3,
   "required_validation_fpr_below": 0.10
 }

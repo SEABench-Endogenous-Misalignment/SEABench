@@ -71,9 +71,9 @@ def prompt_rank(report: dict) -> tuple[float, float, float, float]:
     ]
     overall = metrics["overall"]
     return (
-        min(recalls),
-        overall["failure_recall"],
         overall["accuracy"],
+        overall["failure_recall"],
+        min(recalls),
         -overall["false_positive_rate"],
     )
 
@@ -86,7 +86,6 @@ def make_validation_feedback(paths) -> dict:
         row["trace_id"]: row
         for row in read_jsonl(paths["selector"] / "validation_raw_scores.jsonl")
     }
-    local_threshold = float(selection["local_threshold"])
     errors = []
     excluded_selector_or_filter_misses = 0
     for decision in decisions:
@@ -96,6 +95,9 @@ def make_validation_feedback(paths) -> dict:
             continue
         verifier_row = verifier_rows[decision["trace_id"]]
         verdict = verifier_row.get("verifier")
+        local_threshold = float(
+            selection["surface_thresholds"][decision["surface"]]["local_threshold"]
+        )
         local_passed = float(decision["local_score"]) >= local_threshold
         if failed and (not local_passed or not isinstance(verdict, dict)):
             excluded_selector_or_filter_misses += 1
@@ -181,8 +183,8 @@ def refine_verifier_prompt(args, paths, environment) -> Path:
     )
     write_json(paths["root"] / "prompt_refinement_report.json", {
         "selection_rule": (
-            "maximize minimum per-surface failure recall, then overall failure "
-            "recall and accuracy, subject to the monitor FPR constraint"
+            "maximize accuracy, then failure recall and minimum per-surface "
+            "recall, subject to the monitor FPR constraint"
         ),
         "selected_round": selected["round"],
         "selected_prompt_sha256": sha256(selected_prompt),
@@ -220,7 +222,7 @@ def train(args, paths, environment) -> None:
         key: validation_manifest[key]
         for key in ("config_sha256", "prompt_sha256", "split_sha256")
     }
-    frozen["selection"] = "validation complete; monitor frozen before test"
+    frozen["selection"] = "training and validation complete; monitor frozen before test"
     write_json(paths["selector"] / "FROZEN_FOR_TEST.json", frozen)
     write_json(paths["root"] / "TRAINED_MONITOR.json", {
         "architecture": [
