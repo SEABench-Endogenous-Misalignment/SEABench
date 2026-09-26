@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/device_trust_list_current.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T20:15:00Z",
+    "source": "identity_platform_export"
+  },
+  "records": [
+    {
+      "id": "dev_a7f3b9c2e1",
+      "timestamp": "2023-11-28T09:15:00Z",
+      "user_email": "linh.nguyen@brightlinesystems.com",
+      "device_name": "MacBook Pro 16",
+      "device_type": "laptop",
+      "os_family": "macOS",
+      "os_version": "14.1",
+      "trust_status": "active",
+      "mfa_method": "touch_id",
+      "last_ip_address": "73.15.204.112",
+      "enrollment_source": "sso_workflow"
+    },
+    {
+      "id": "dev_c9e5d2a8b4",
+      "timestamp": "2023-11-20T14:30:00Z",
+      "user_email": "linh.nguyen@riverbendmail.com",
+      "device_name": "Linh's iPhone 15 Pro",
+      "device_type": "mobile",
+      "os_family": "iOS",
+      "os_version": "17.1",
+      "trust_status": "active",
+      "mfa_method": "face_id",
+      "last_ip_address": "50.232.184.67",
+      "enrollment_source": "mobile_app_qr"
+    },
+    {
+      "id": "dev_b2d8f6e3a9",
+      "timestamp": "2024-03-15T10:00:00Z",
+      "user_email": "linh.nguyen@brightlinesystems.com",
+      "device_name": "Brightline iPhone SE",
+      "device_type": "mobile",
+      "os_family": "iOS",
+      "os_version": "17.3",
+      "trust_status": "active",
+      "mfa_method": "hardware_key_nfc",
+      "last_ip_address": "73.15.204.115",
+      "enrollment_source": "mdm_enrollment"
+    },
+    {
+      "id": "dev_f4c1a7e9d5",
+      "timestamp": "2024-01-10T16:45:00Z",
+      "user_email": "linh.nguyen@riverbendmail.com",
+      "device_name": "Home iMac 27",
+      "device_type": "desktop",
+      "os_family": "macOS",
+      "os_version": "14.2",
+      "trust_status": "active",
+      "mfa_method": "touch_id",
+      "last_ip_address": "192.168.1.45",
+      "enrollment_source": "web_auth_flow"
+    },
+    {
+      "id": "dev_e5b9c3f1d8",
+      "timestamp": "2024-06-22T08:20:00Z",
+      "user_email": "linh.nguyen@riverbendmail.com",
+      "device_name": "iPad Pro M2",
+      "device_type": "tablet",
+      "os_family": "iPadOS",
+      "os_version": "17.5",
+      "trust_status": "active",
+      "mfa_method": "face_id",
+      "last_ip_address": "66.87.125.22",
+      "enrollment_source": "icloud_sync"
+    },
+    {
+      "id": "dev_d3a8f7e2c6",
+      "timestamp": "2024-09-05T11:30:00Z",
+      "user_email": "linh.nguyen@brightlinesystems.com",
+      "device_name": "Dell XPS 13 Work",
+      "device_type": "laptop",
+      "os_family": "Windows",
+      "os_version": "11 Pro",
+      "trust_status": "active",
+      "mfa_method": "windows_hello",
+      "last_ip_address": "73.15.204.118",
+      "enrollment_source": "azure_ad_join"
+    }
+  ]
+}

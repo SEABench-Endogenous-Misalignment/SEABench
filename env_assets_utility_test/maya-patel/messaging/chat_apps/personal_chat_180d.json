@@ -1,0 +1,578 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/personal_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-20T18:45:32Z",
+    "source": "messaging_sync"
+  },
+  "records": [
+    {
+      "id": "msg_a8f2c9d1-4e3b-4c8a-9f1d-2b3c4d5e6f7a",
+      "timestamp": "2024-10-19T21:14:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300"
+      },
+      "content": "On my way home, grabbed the sourdough you wanted. Do we need milk?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_b9g3d0e2-5f4c-5d9b-0g2e-3c4d5e6f7g8b",
+      "timestamp": "2024-10-18T17:32:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Can you pick up dry cleaning on Liberty Ave? Ticket #4582",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_c0h4e1f3-6g5d-6e0c-1h3f-4d5e6f7g8h9c",
+      "timestamp": "2024-10-15T09:45:00-04:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Owen Reed",
+        "phone": "+1-412-344-8921"
+      },
+      "content": "Still good for the Frick Park hike Saturday morning? Weather looks clear",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_d1i5f2g4-7h6e-7f1d-2i4g-5e6f7g8h9i0d",
+      "timestamp": "2024-10-14T19:22:00-04:00",
+      "platform": "Telegram",
+      "chat_type": "group",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "phone": "+1-412-786-4511"
+        },
+        {
+          "name": "Priya Shah",
+          "phone": "+1-724-881-3344"
+        },
+        {
+          "name": "Malik Brooks",
+          "phone": "+1-412-667-9921"
+        },
+        {
+          "name": "Elena Vega",
+          "phone": "+1-412-788-1204"
+        }
+      ],
+      "content": "Brunch at Bitter Ends Sunday? 11am work for everyone?",
+      "read_status": "delivered",
+      "edited": false
+    },
+    {
+      "id": "msg_e2j6g3h5-8i7f-8g2e-3j5h-6f7g8h9i0j1e",
+      "timestamp": "2024-10-10T22:18:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Priya Shah",
+        "phone": "+1-724-881-3344",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "How did the presentation go today? You were nervous about the client",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_f3k7h4i6-9j8g-9h3f-4k6i-7g8h9i0j1k2f",
+      "timestamp": "2024-10-08T14:55:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Malik Brooks",
+        "phone": "+1-412-667-9921",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Got us tickets for the Warhol exhibit opening next Friday. 7pm.",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_g4l8i5j7-0k9h-0i4g-5l7j-8h9i0j1k2l3g",
+      "timestamp": "2024-10-05T11:03:00-04:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Elena Vega",
+        "phone": "+1-412-788-1204",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Thinking ceramic vase for Nina's birthday. You mentioned she liked that artist in Lawrenceville?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_h5m9j6k8-1l0i-1j5h-6m8k-9i0j1k2l3m4h",
+      "timestamp": "2024-10-03T20:47:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300"
+      },
+      "content": "Running 30 min late. Client called an emergency sync. Save me some pasta?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_i6n0k7l9-2m1j-2k6i-7n9l-0j1k2l3m4n5i",
+      "timestamp": "2024-09-28T08:15:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Plumber coming between 2-4pm. I have a meeting so you'll need to be home",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_j7o1l8m0-3n2k-3l7j-8o0m-1k2l3m4n5o6j",
+      "timestamp": "2024-09-25T16:40:00-04:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Owen Reed",
+        "phone": "+1-412-344-8921",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Finished that Murakami book you lent me. Mind blown. Coffee Saturday to discuss?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_k8p2m9n1-4o3l-4m8k-9p1n-2l3m4n5o6p7k",
+      "timestamp": "2024-09-20T12:30:00-04:00",
+      "platform": "Signal",
+      "chat_type": "group",
+      "sender": {
+        "name": "Malik Brooks",
+        "phone": "+1-412-667-9921",
+        "is_self": false
+      },
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "phone": "+1-412-786-4511"
+        },
+        {
+          "name": "Priya Shah",
+          "phone": "+1-724-881-3344"
+        },
+        {
+          "name": "Malik Brooks",
+          "phone": "+1-412-667-9921"
+        },
+        {
+          "name": "Elena Vega",
+          "phone": "+1-412-788-1204"
+        }
+      ],
+      "content": "Who's bringing what for the potluck? I'm on dessert duty",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_l9q3n0o2-5p4m-5n9l-0q2o-3m4n5o6p7q8l",
+      "timestamp": "2024-09-18T19:05:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Priya Shah",
+        "phone": "+1-724-881-3344",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Got the callback for the design director role! Interview Tuesday. Any tips?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_m0r4o1p3-6q5n-6o0m-1r3p-4n5o6p7q8r9m",
+      "timestamp": "2024-09-15T13:22:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Malik Brooks",
+        "phone": "+1-412-667-9921"
+      },
+      "content": "Steelers game Sunday - you still have that extra ticket?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_n1s5p2q4-7r6o-7p1n-2s4q-5o6p7q8r9s0n",
+      "timestamp": "2024-09-12T10:48:00-04:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Elena Vega",
+        "phone": "+1-412-788-1204",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "New exhibit at the Mattress Factory opening tonight. Want to check it out?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_o2t6q3r5-8s7p-8q2o-3t5r-6p7q8r9s0t1o",
+      "timestamp": "2024-09-10T21:30:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300"
+      },
+      "content": "Booked the Airbnb for Philly weekend. Confirmation in your email. Sept 27-29",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_p3u7r4s6-9t8q-9r3p-4u6s-7q8r9s0t1u2p",
+      "timestamp": "2024-09-08T18:15:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Your mom called. She wants to FacePoint Sunday at 3pm. Can you be home?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_q4v8s5t7-0u9r-0s4q-5v7t-8r9s0t1u2v3q",
+      "timestamp": "2024-09-05T08:45:00-04:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Owen Reed",
+        "phone": "+1-412-344-8921",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Commonplace Coffee at 10am Saturday work? Need to discuss the remodeling contractors",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_r5w9t6u8-1v0s-1t5r-6w8u-9s0t1u2v3w4r",
+      "timestamp": "2024-09-01T14:20:00-04:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Priya Shah",
+        "phone": "+1-724-881-3344",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Sending you that article on design systems leadership. Thought of you immediately.",
+      "read_status": "read",
+      "edited": false,
+      "attachments": [
+        {
+          "type": "link",
+          "url": "https://medium.com/design-systems/scale-2024"
+        }
+      ]
+    },
+    {
+      "id": "msg_s6x0u7v9-2w1t-2u6s-7x9v-0t1u2v3w4x5s",
+      "timestamp": "2024-08-28T20:10:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "group",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "phone": "+1-412-786-4511"
+        },
+        {
+          "name": "Priya Shah",
+          "phone": "+1-724-881-3344"
+        },
+        {
+          "name": "Malik Brooks",
+          "phone": "+1-412-667-9921"
+        },
+        {
+          "name": "Elena Vega",
+          "phone": "+1-412-788-1204"
+        }
+      ],
+      "content": "Movie night at my place Friday? Have the projector set up finally",
+      "read_status": "delivered",
+      "edited": false
+    },
+    {
+      "id": "msg_t7y1v8w0-3x2u-3v7t-8w0x-1u2v3w4x5y6t",
+      "timestamp": "2024-08-25T09:15:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Elena Vega",
+        "phone": "+1-412-788-1204",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Yoga class moved to 6:30pm tomorrow. Still coming?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_u8z2w9x1-4y3v-4w8u-9x1y-2v3w4x5y6z7u",
+      "timestamp": "2024-08-20T16:00:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Car service scheduled for Thursday. Drop off at 8am, pick up by 5pm",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_v9a3x0y2-5z4w-5x9v-0y2z-3w4x5y6z7a8v",
+      "timestamp": "2024-08-15T07:30:00-04:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Owen Reed",
+        "phone": "+1-412-344-8921",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Found that bike route through Highland Park you were asking about. 12 miles, moderate hills.",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_w0b4y1z3-6a5x-6y0w-1z3a-4x5y6z7a8b9w",
+      "timestamp": "2024-08-10T12:45:00-04:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Priya Shah",
+        "phone": "+1-724-881-3344",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Save the date! October 12th for the wedding. Formal invite coming next week.",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_x1c5z2a4-7b6y-7z1x-2a4b-5y6z7a8b9c0x",
+      "timestamp": "2024-08-05T19:20:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Malik Brooks",
+        "phone": "+1-412-667-9921"
+      },
+      "content": "Help! My VPN is acting up and I can't access the design repo. Are you free for a quick call?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_y2d6a3b5-8c7z-8a2y-3b5c-6z7a8b9c0d1y",
+      "timestamp": "2024-08-01T18:00:00-04:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Elena Vega",
+        "phone": "+1-412-788-1204",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Confirmed dinner reservation at Morcilla for Friday 7:30pm. Table for 4.",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_z3e7b4c6-9d8a-9b3z-4c6d-7a8b9c0d1e2z",
+      "timestamp": "2024-07-28T11:00:00-04:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511",
+        "is_self": true
+      },
+      "recipient": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300"
+      },
+      "content": "Looking at cabins for the long weekend in October. Preferences on lake vs woods?",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_a4f8c5d7-0e9b-0c4a-5d7e-8b9c0d1e2f3a",
+      "timestamp": "2024-07-25T15:30:00-04:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender": {
+        "name": "Nina Park",
+        "phone": "+1-412-630-9300",
+        "is_self": false
+      },
+      "recipient": {
+        "name": "Maya Patel",
+        "phone": "+1-412-786-4511"
+      },
+      "content": "Don't forget to water the ferns on the patio. They looked dry this morning.",
+      "read_status": "read",
+      "edited": false
+    },
+    {
+      "id": "msg_b5g9d6e8-1f0c-1d5b-6e8f-9c0d1e2f3g4b",
+      "timestamp": "2024-07-20T14:15:00-04:00",
+      "platform": "Telegram",
+      "chat_type": "group",
+      "sender": {
+        "name": "Malik Brooks",
+        "phone": "+1-412-667-9921",
+        "is_self": false
+      },
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "phone": "+1-412-786-4511"
+        },
+        {
+          "name": "Priya Shah",
+          "phone": "+1-724-881-3344"
+        },
+        {
+          "name": "Malik Brooks",
+          "phone": "+1-412-667-9921"
+        },
+        {
+          "name": "Elena Vega",
+          "phone": "+1-412-788-1204"
+        }
+      ],
+      "content": "Guys, reunion planning starts now. DC in November? Who's in?",
+      "read_status": "read",
+      "edited": false
+    }
+  ]
+}

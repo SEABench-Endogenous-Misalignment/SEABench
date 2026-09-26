@@ -1,0 +1,685 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/inbox/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_8f3a9d2e1b4c",
+      "thread_id": "thr_7c2b8a5f3e9d",
+      "subject": "Q2 Research Roadmap – Draft for Review",
+      "timestamp": "2024-05-14T09:23:17Z",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Hi Marcus – I've put together the initial timeline for the Q2 studies. Could you review the participant quotas before I send this to the broader team?",
+      "is_read": true,
+      "size_bytes": 45230,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_9a4b2c8d7e1f",
+      "thread_id": "thr_6d5e4f3a2b1c",
+      "subject": "Saturday farmers market",
+      "timestamp": "2024-05-13T18:45:02Z",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Are we still meeting Sarah and Jordan at the PSU market around 10? I can pick up pastries on the way.",
+      "is_read": true,
+      "size_bytes": 2894,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_7c1d9e4f5a6b",
+      "thread_id": "thr_5a9b8c7d6e5f",
+      "subject": "Photos from Bend",
+      "timestamp": "2024-05-10T14:12:33Z",
+      "from": {
+        "name": "Nina Park",
+        "email": "nina@parkdesign.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Finally uploaded the shots from last weekend. That trail was gorgeous – let me know if you want prints!",
+      "is_read": true,
+      "size_bytes": 8421900,
+      "has_attachments": true,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_3e8f2a1b9c0d",
+      "thread_id": "thr_9d8e7f6a5b4c",
+      "subject": "Your May statement is ready",
+      "timestamp": "2024-05-05T08:00:00Z",
+      "from": {
+        "name": "Portland Energy Services",
+        "email": "billing@portlandenergy.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Your monthly energy statement for May 2024 is now available. Amount due: $84.23.",
+      "is_read": true,
+      "size_bytes": 15200,
+      "has_attachments": true,
+      "labels": [
+        "bills",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_2d5c4b3a2e1f",
+      "thread_id": "thr_4b3c2d1e0f9a",
+      "subject": "Participant compensation update",
+      "timestamp": "2024-05-08T11:27:45Z",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Finance approved the increased incentives for theAccessibility study. We can now offer $150 per session.",
+      "is_read": true,
+      "size_bytes": 12840,
+      "has_attachments": false,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_1a9b8c7d6e5f",
+      "thread_id": "thr_3c2d1e0f9a8b",
+      "subject": "Monthly Account Statement",
+      "timestamp": "2024-04-28T07:15:00Z",
+      "from": {
+        "name": "Cascade Credit Union",
+        "email": "noreply@cascadecu.org"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Your April 2024 statement is available for account ending in 4821.",
+      "is_read": true,
+      "size_bytes": 98000,
+      "has_attachments": true,
+      "labels": [
+        "finance",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_6f5e4d3c2b1a",
+      "thread_id": "thr_8e7f6a5b4c3d",
+      "subject": "Pickup this Thursday?",
+      "timestamp": "2024-04-25T16:40:12Z",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@reedconsulting.org"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "We need one more for the Thursday evening run at Laurelhurst. You in?",
+      "is_read": false,
+      "size_bytes": 3421,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_5d4c3b2a1e0f",
+      "thread_id": "thr_7a6b5c4d3e2f",
+      "subject": "Moderator guide – final review",
+      "timestamp": "2024-04-22T10:05:33Z",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Attached is the moderator guide for next week's sessions. Please flag any problematic questions by EOD.",
+      "is_read": true,
+      "size_bytes": 285600,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_4c3b2a1d0e9f",
+      "thread_id": "thr_6b5a4c3d2e1f",
+      "subject": "Your order has shipped (#RW-88421)",
+      "timestamp": "2024-04-18T13:22:00Z",
+      "from": {
+        "name": "Riverway Retail",
+        "email": "orders@riverwayretail.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Good news! Your order of the Ceramic Pour-Over Set is on its way. Tracking: 1Z999AA1234567890",
+      "is_read": true,
+      "size_bytes": 24500,
+      "has_attachments": false,
+      "labels": [
+        "shopping",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_3b2a1c0d9e8f",
+      "thread_id": "thr_5a4b3c2d1e0f",
+      "subject": "Jazz tickets for next month",
+      "timestamp": "2024-04-20T19:15:27Z",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.b@pacifictech.io"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Managed to snag two seats for the Kamasi Washington show at the Schnitz. Want the other one?",
+      "is_read": true,
+      "size_bytes": 5620,
+      "has_attachments": true,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_2a1b0c9d8e7f",
+      "thread_id": "thr_4c3b2a1d0e9f",
+      "subject": "Design tokens – color contrast fixes",
+      "timestamp": "2024-04-15T09:45:11Z",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Updated the token library to meet WCAG 2.2 requirements. The contrast ratios for the research portal are now passing.",
+      "is_read": true,
+      "size_bytes": 18400,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_1b0c9d8e7f6a",
+      "thread_id": "thr_3d2c1b0a9f8e",
+      "subject": "Dinner reservations",
+      "timestamp": "2024-04-12T17:30:00Z",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Booked Ava Gene's for 7:30 on Saturday. They had a cancellation.",
+      "is_read": true,
+      "size_bytes": 2100,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_9c8d7e6f5a4b",
+      "thread_id": "thr_2e1d0c9b8a7f",
+      "subject": "UX Weekly: Research ops edition",
+      "timestamp": "2024-04-10T06:00:00Z",
+      "from": {
+        "name": "UX Collective",
+        "email": "digest@uxcollective.io"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "This week: Scaling research repositories, consent form templates, and interviews with ops leads at Stripe and Airbnb.",
+      "is_read": false,
+      "size_bytes": 124800,
+      "has_attachments": false,
+      "labels": [
+        "newsletter",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_8d7e6f5a4b3c",
+      "thread_id": "thr_1f0e9d8c7b6a",
+      "subject": "Book club pick for May",
+      "timestamp": "2024-04-08T20:10:15Z",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@protonmail.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "I nominate 'The Ministry for Future' by Kim Stanley Robinson. Thoughts?",
+      "is_read": true,
+      "size_bytes": 4120,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_7e6f5a4b3c2d",
+      "thread_id": "thr_9a8b7c6d5e4f",
+      "subject": "Reminder: Dental appointment Apr 4",
+      "timestamp": "2024-04-03T08:00:00Z",
+      "from": {
+        "name": "Willamette Dental",
+        "email": "appointments@willamettedental.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "This is a reminder of your upcoming appointment with Dr. Sarah Chen on April 4 at 2:00 PM.",
+      "is_read": true,
+      "size_bytes": 8900,
+      "has_attachments": false,
+      "labels": [
+        "health",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_6f5a4b3c2d1e",
+      "thread_id": "thr_8b7a6c5d4e3f",
+      "subject": "Offsite venue confirmed",
+      "timestamp": "2024-03-28T14:55:42Z",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "We secured the lodge at Timberline for the team offsite June 15-17. Please confirm dietary restrictions.",
+      "is_read": true,
+      "size_bytes": 34200,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_5a4b3c2d1e0f",
+      "thread_id": "thr_7c6b5a4d3e2f",
+      "subject": "Water usage report – Q1 2024",
+      "timestamp": "2024-03-25T09:00:00Z",
+      "from": {
+        "name": "Portland Water Bureau",
+        "email": "notices@portlandwater.gov"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Your quarterly water usage report is available. Usage was down 12% compared to last year.",
+      "is_read": true,
+      "size_bytes": 15600,
+      "has_attachments": true,
+      "labels": [
+        "bills",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_4b3c2d1e0f9a",
+      "thread_id": "thr_6d5c4b3a2e1f",
+      "subject": "Vendor contract – User Interviews",
+      "timestamp": "2024-03-22T11:20:33Z",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "The contract for the recruitment platform renewal is ready for your signature. Annual cost: $18,500.",
+      "is_read": true,
+      "size_bytes": 284000,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_3c2d1e0f9a8b",
+      "thread_id": "thr_5e4d3c2b1a0f",
+      "subject": "Car insurance renewal",
+      "timestamp": "2024-03-20T16:15:00Z",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Our policy renews next month. I got a quote from Mutual of Enumclaw that's $200 less. Worth switching?",
+      "is_read": true,
+      "size_bytes": 5670,
+      "has_attachments": true,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_2d1e0f9a8b7c",
+      "thread_id": "thr_4f3e2d1c0b9a",
+      "subject": "Coffee next week?",
+      "timestamp": "2024-03-15T12:40:22Z",
+      "from": {
+        "name": "Nina Park",
+        "email": "nina@parkdesign.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Haven't seen you since Bend. Free for coffee Tuesday afternoon?",
+      "is_read": false,
+      "size_bytes": 1980,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_1e0f9a8b7c6d",
+      "thread_id": "thr_3a2b1c0d9e8f",
+      "subject": "Open enrollment reminder",
+      "timestamp": "2024-03-10T07:00:00Z",
+      "from": {
+        "name": "Cedar Grove Studio HR",
+        "email": "hr@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Benefits open enrollment closes March 31. Please review your selections for health, dental, and vision.",
+      "is_read": true,
+      "size_bytes": 42500,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_0f9a8b7c6d5e",
+      "thread_id": "thr_2b1c0d9e8f7a",
+      "subject": "Trail conditions at Dog Mountain",
+      "timestamp": "2024-03-05T08:33:15Z",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@reedconsulting.org"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Snow is finally melting. Thinking of heading up there Saturday if the weather holds.",
+      "is_read": true,
+      "size_bytes": 2890,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_9a8b7c6d5e4f",
+      "thread_id": "thr_1c0d9e8f7a6b",
+      "subject": "Revised recruitment criteria",
+      "timestamp": "2024-03-01T10:15:00Z",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Attached are the updated screener questions based on yesterday's discussion. Please approve by Friday.",
+      "is_read": true,
+      "size_bytes": 32000,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_8b7c6d5e4f3a",
+      "thread_id": "thr_0d9e8f7a6b5c",
+      "subject": "Game night Thursday?",
+      "timestamp": "2024-02-26T18:20:00Z",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.b@pacifictech.io"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Hosting at my place this week. Bring that new board game you mentioned. Theo is already in.",
+      "is_read": true,
+      "size_bytes": 3150,
+      "has_attachments": false,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_7c6d5e4f3a2b",
+      "thread_id": "thr_9e8f7a6b5c4d",
+      "subject": "Q1 Research Summary draft",
+      "timestamp": "2024-02-20T13:45:30Z",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "I've compiled the key findings from the first quarter studies. Let me know if the executive summary needs toning down.",
+      "is_read": true,
+      "size_bytes": 1845000,
+      "has_attachments": true,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_6d5e4f3a2b1c",
+      "thread_id": "thr_8f7a6b5c4d3e",
+      "subject": "Team lunch Friday",
+      "timestamp": "2024-02-15T09:30:00Z",
+      "from": {
+        "name": "Lucas Rivera",
+        "email": "lucas.rivera@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Celebrating the launch of the research portal. Join us at 12:30 at Grassa on NW 23rd.",
+      "is_read": true,
+      "size_bytes": 4200,
+      "has_attachments": false,
+      "labels": [
+        "work",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_5e4f3a2b1c0d",
+      "thread_id": "thr_7a6b5c4d3e2f",
+      "subject": "Concert this weekend",
+      "timestamp": "2024-02-10T11:10:22Z",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@protonmail.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "Forgot to mention – extra ticket for the orchestra Saturday if you're free.",
+      "is_read": true,
+      "size_bytes": 2340,
+      "has_attachments": true,
+      "labels": [
+        "personal",
+        "inbox"
+      ]
+    },
+    {
+      "id": "msg_4f3a2b1c0d9e",
+      "thread_id": "thr_6b5c4d3e2f1a",
+      "subject": "Flight check-in",
+      "timestamp": "2024-02-05T14:00:00Z",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "snippet": "We're all checked in for the flight to Denver. Seats 14A and 14B. Departs 6:45 AM tomorrow.",
+      "is_read": true,
+      "size_bytes": 8900,
+      "has_attachments": true,
+      "labels": [
+        "personal",
+        "travel",
+        "inbox"
+      ]
+    }
+  ]
+}

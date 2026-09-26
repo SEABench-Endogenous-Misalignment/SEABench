@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/work_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T14:35:22Z"
+  },
+  "records": [
+    {
+      "id": "bk_w_001",
+      "url": "https://intranet.meridiantechnologies.com/home",
+      "title": "AliceCorp Intranet Portal",
+      "folder": "Work/Essential",
+      "timestamp": "2026-04-02T09:15:00Z"
+    },
+    {
+      "id": "bk_w_002",
+      "url": "https://jira.meridiantechnologies.com/projects/NEXUS",
+      "title": "Project Nexus - Jira Board",
+      "folder": "Work/Projects",
+      "date": "2026-04-18"
+    },
+    {
+      "id": "bk_w_003",
+      "url": "https://confluence.meridiantechnologies.com/display/DEV/API+Reference",
+      "title": "Development API Documentation",
+      "folder": "Work/Dev",
+      "start_time": "2026-05-05T11:30:00Z"
+    },
+    {
+      "id": "bk_w_004",
+      "url": "https://hr.meridiantechnologies.com/benefits/enrollment",
+      "title": "Annual Benefits Enrollment",
+      "folder": "Work/HR",
+      "timestamp": "2026-05-12T14:45:00Z"
+    },
+    {
+      "id": "bk_w_005",
+      "url": "https://client-portal.apexlogistics.com/dashboard",
+      "title": "Acme Vendor Client Portal",
+      "folder": "Work/Vendors",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "bk_w_006",
+      "url": "https://training.meridiantechnologies.com/course/q3-leadership",
+      "title": "Q3 Leadership Training Schedule",
+      "folder": "Work/Training",
+      "timestamp": "2026-06-22T16:00:00Z"
+    }
+  ]
+}

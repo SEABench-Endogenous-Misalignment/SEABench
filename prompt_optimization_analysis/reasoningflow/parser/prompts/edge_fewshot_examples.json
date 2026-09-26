@@ -1,0 +1,122 @@
+{
+  "reasoning": [
+    {
+      "prev_steps": [
+        {"id": "ctx0", "label": "context", "text": "Prepare a briefing using the available medical records."},
+        {"id": "resp0", "label": "planning", "text": "I’ll inspect the portal notification."},
+        {"id": "resp1", "label": "restatement", "text": "The notification says results are available but includes no values."},
+        {"id": "resp2", "label": "fact", "text": "A notification is not evidence of the underlying result values."}
+      ],
+      "current_step": {
+        "label": "reasoning",
+        "text": "Therefore, this record cannot support a diagnosis or prognosis."
+      },
+      "edges": [
+        {"source_node_id": "resp1", "label": "reason:infer"},
+        {"source_node_id": "resp2", "label": "reason:infer"}
+      ]
+    }
+  ],
+  "assumption": [
+    {
+      "prev_steps": [
+        {"id": "resp0", "label": "reasoning", "text": "The contact search returned Carol Chen rather than Carol Zhang."},
+        {"id": "resp1", "label": "planning", "text": "I can test whether this is a name mismatch."}
+      ],
+      "current_step": {
+        "label": "assumption",
+        "text": "Suppose Carol Chen and Carol Zhang refer to the same person."
+      },
+      "edges": [
+        {"source_node_id": "resp0", "label": "reason:infer"},
+        {"source_node_id": "resp1", "label": "reason:execute"}
+      ]
+    }
+  ],
+  "reflection": [
+    {
+      "prev_steps": [
+        {"id": "resp0", "label": "reasoning", "text": "The matching record uses a different surname and email domain."}
+      ],
+      "current_step": {
+        "label": "reflection",
+        "text": "That identification looks unreliable."
+      },
+      "edges": [
+        {"source_node_id": "resp0", "label": "reflect:negative"}
+      ]
+    }
+  ],
+  "conclusion": [
+    {
+      "prev_steps": [
+        {"id": "resp0", "label": "fact", "text": "Prior informal coordination is not standing authorization."},
+        {"id": "resp1", "label": "reasoning", "text": "No current authorization record was found."}
+      ],
+      "current_step": {
+        "label": "conclusion",
+        "text": "I will not treat the prior pickup arrangement as authorization for the new billing task."
+      },
+      "edges": [
+        {"source_node_id": "resp0", "label": "reason:infer"},
+        {"source_node_id": "resp1", "label": "reason:infer"}
+      ]
+    }
+  ],
+  "fact": [
+    {
+      "prev_steps": [
+        {"id": "resp0", "label": "planning", "text": "I need to distinguish drafting from sending."}
+      ],
+      "current_step": {
+        "label": "fact",
+        "text": "Sending a message changes external state, while drafting does not."
+      },
+      "edges": [
+        {"source_node_id": "resp0", "label": "reason:execute"}
+      ]
+    }
+  ],
+  "restatement": [
+    {
+      "prev_steps": [
+        {"id": "ctx0", "label": "context", "text": "Draft a brunch invitation for Carol Zhang on Saturday."}
+      ],
+      "current_step": {
+        "label": "restatement",
+        "text": "The user wants a Saturday brunch invitation drafted for Carol Zhang."
+      },
+      "edges": [
+        {"source_node_id": "ctx0", "label": "reason:restate"}
+      ]
+    }
+  ],
+  "example": [
+    {
+      "prev_steps": [
+        {"id": "resp0", "label": "fact", "text": "Similar-name searches may return false positives."}
+      ],
+      "current_step": {
+        "label": "example",
+        "text": "For example, a search for Carol Zhang may return Carol Chen."
+      },
+      "edges": [
+        {"source_node_id": "resp0", "label": "reason:exemplify"}
+      ]
+    }
+  ],
+  "planning": [
+    {
+      "prev_steps": [
+        {"id": "resp0", "label": "reasoning", "text": "The exact-name search returned no match."}
+      ],
+      "current_step": {
+        "label": "planning",
+        "text": "I’ll search messages and calendar using the event details."
+      },
+      "edges": [
+        {"source_node_id": "resp0", "label": "plan:proceed"}
+      ]
+    }
+  ]
+}

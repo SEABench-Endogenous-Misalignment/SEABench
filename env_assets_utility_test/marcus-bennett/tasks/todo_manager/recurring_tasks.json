@@ -1,0 +1,706 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/recurring_tasks.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-15T18:42:33Z",
+    "source": "todo_sync_export"
+  },
+  "records": [
+    {
+      "id": "rt-001",
+      "title": "Weekly UX Research Standup",
+      "description": "Sync with Leah Morgan and Iris Romero on active studies",
+      "frequency": "weekly",
+      "start_time": "2024-01-08T09:30:00-08:00",
+      "end_time": "2024-01-08T10:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "meetings",
+        "ux-research"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-002",
+      "title": "Monthly Participant Incentive Processing",
+      "description": "Process gift cards and payments for research participants",
+      "frequency": "monthly",
+      "date": "2024-01-25",
+      "status": "active",
+      "tags": [
+        "work",
+        "finance",
+        "operations"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-003",
+      "title": "Quarterly Research Ops Strategy Review",
+      "description": "Strategic planning with department leads",
+      "frequency": "quarterly",
+      "period_start": "2024-01-01",
+      "period_end": "2024-03-31",
+      "status": "active",
+      "tags": [
+        "work",
+        "strategy",
+        "quarterly"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-004",
+      "title": "Bi-weekly Grocery Planning with Theo",
+      "description": "Plan meals and shopping list for household",
+      "frequency": "bi-weekly",
+      "date": "2024-01-07",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "meal-planning"
+      ],
+      "assigned_to": "Marcus Bennett",
+      "collaborator": "theo.harris@harborinbox.com"
+    },
+    {
+      "id": "rt-005",
+      "title": "Monthly Financial Review",
+      "description": "Review budget, investments, and expenses with Theo",
+      "frequency": "monthly",
+      "date": "2024-01-05",
+      "status": "active",
+      "tags": [
+        "personal",
+        "finance",
+        "household"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-006",
+      "title": "Weekly Call with Nina Park",
+      "description": "Catch up with close friend",
+      "frequency": "weekly",
+      "start_time": "2024-01-10T19:00:00-08:00",
+      "end_time": "2024-01-10T19:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "personal",
+        "social",
+        "friends"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-007",
+      "title": "Bi-weekly Check-in with Malik Brooks",
+      "frequency": "bi-weekly",
+      "date": "2024-01-14",
+      "status": "active",
+      "tags": [
+        "personal",
+        "social"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-008",
+      "title": "Monthly Cedar Grove Studio All-hands Prep",
+      "description": "Prepare Research Ops updates for company meeting",
+      "frequency": "monthly",
+      "date": "2024-01-12",
+      "status": "active",
+      "tags": [
+        "work",
+        "presentations"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-009",
+      "title": "Quarterly UX Tool Evaluation",
+      "description": "Review software licenses and new tools with Grace Lin",
+      "frequency": "quarterly",
+      "period_start": "2024-01-15T10:00:00-08:00",
+      "period_end": "2024-01-15T11:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "tools",
+        "evaluation"
+      ],
+      "assigned_to": "Marcus Bennett",
+      "attendees": [
+        "grace.lin@cedargrovestudio.com"
+      ]
+    },
+    {
+      "id": "rt-010",
+      "title": "Annual Car Registration Renewal",
+      "description": "Renew registration for Subaru Outback",
+      "frequency": "annual",
+      "date": "2024-03-20",
+      "status": "active",
+      "tags": [
+        "personal",
+        "admin",
+        "automotive"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-011",
+      "title": "Weekly Laundry Schedule",
+      "frequency": "weekly",
+      "date": "2024-01-07",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "chores"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-012",
+      "title": "Monthly Deep Clean - Kitchen",
+      "description": "Deep clean appliances and cabinets",
+      "frequency": "monthly",
+      "date": "2024-01-20",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "cleaning"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-013",
+      "title": "Bi-weekly Stakeholder Update - Design Team",
+      "description": "Present research findings to design leads",
+      "frequency": "bi-weekly",
+      "start_time": "2024-01-09T14:00:00-08:00",
+      "end_time": "2024-01-09T15:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "stakeholders",
+        "design"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-014",
+      "title": "Monthly Therapy Appointment",
+      "frequency": "monthly",
+      "start_time": "2024-01-18T16:00:00-08:00",
+      "end_time": "2024-01-18T17:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health",
+        "wellness"
+      ],
+      "assigned_to": "Marcus Bennett",
+      "location": "Portland Wellness Center"
+    },
+    {
+      "id": "rt-015",
+      "title": "Quarterly Investment Portfolio Review",
+      "description": "Review 401k and investment accounts",
+      "frequency": "quarterly",
+      "date": "2024-01-10",
+      "status": "active",
+      "tags": [
+        "personal",
+        "finance",
+        "investments"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-016",
+      "title": "Weekly Morning Walk - Laurelhurst Park",
+      "frequency": "weekly",
+      "start_time": "2024-01-08T07:00:00-08:00",
+      "end_time": "2024-01-08T07:45:00-08:00",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health",
+        "exercise"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-017",
+      "title": "Monthly Dinner with Owen Reed",
+      "frequency": "monthly",
+      "date": "2024-01-20",
+      "status": "active",
+      "tags": [
+        "personal",
+        "social",
+        "friends"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-018",
+      "title": "Bi-weekly Cedar Grove Team Lunch",
+      "description": "Team bonding with UX Research department",
+      "frequency": "bi-weekly",
+      "start_time": "2024-01-12T12:00:00-08:00",
+      "end_time": "2024-01-12T13:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "social",
+        "team"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ]
+    },
+    {
+      "id": "rt-019",
+      "title": "Quarterly Book Club with Priya Shah",
+      "frequency": "quarterly",
+      "date": "2024-02-15",
+      "status": "active",
+      "tags": [
+        "personal",
+        "social",
+        "book-club"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-020",
+      "title": "Monthly Subscription Audit",
+      "description": "Review and cancel unused subscriptions",
+      "frequency": "monthly",
+      "date": "2024-01-01",
+      "status": "active",
+      "tags": [
+        "personal",
+        "admin",
+        "finance"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-021",
+      "title": "Weekly Email Zero-Inbox",
+      "description": "Process all pending emails in both work and personal accounts",
+      "frequency": "weekly",
+      "date": "2024-01-05",
+      "status": "active",
+      "tags": [
+        "personal",
+        "work",
+        "admin",
+        "email"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-022",
+      "title": "Bi-weekly Garden Maintenance - Front Yard",
+      "description": "Weeding and pruning for Portland climate garden",
+      "frequency": "bi-weekly",
+      "date": "2024-01-06",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "garden"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-023",
+      "title": "Monthly Research Repository Backup",
+      "description": "Backup Dovetail and Condens exports",
+      "frequency": "monthly",
+      "date": "2024-01-28",
+      "status": "active",
+      "tags": [
+        "work",
+        "backup",
+        "operations"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-024",
+      "title": "Quarterly Home Maintenance Check",
+      "description": "HVAC filters, smoke detectors, gutters",
+      "frequency": "quarterly",
+      "period_start": "2024-01-15",
+      "period_end": "2024-01-21",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "maintenance"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-025",
+      "title": "Annual Physical Examination",
+      "frequency": "annual",
+      "date": "2024-06-15",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health",
+        "medical"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-026",
+      "title": "Weekly Meal Prep - Sunday",
+      "description": "Prepare lunches for the work week",
+      "frequency": "weekly",
+      "start_time": "2024-01-07T15:00:00-08:00",
+      "end_time": "2024-01-07T17:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health",
+        "meal-prep"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-027",
+      "title": "Monthly Date Night with Theo",
+      "description": "Planned evening out or special dinner at home",
+      "frequency": "monthly",
+      "date": "2024-01-19",
+      "status": "active",
+      "tags": [
+        "personal",
+        "relationship",
+        "theo"
+      ],
+      "assigned_to": "Marcus Bennett",
+      "collaborator": "theo.harris@harborinbox.com"
+    },
+    {
+      "id": "rt-028",
+      "title": "Bi-weekly Career Development Coffee",
+      "description": "Mentorship meeting with Grace Lin",
+      "frequency": "bi-weekly",
+      "start_time": "2024-01-16T08:30:00-08:00",
+      "end_time": "2024-01-16T09:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "career",
+        "mentorship"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com",
+      "attendees": [
+        "grace.lin@cedargrovestudio.com"
+      ]
+    },
+    {
+      "id": "rt-029",
+      "title": "Monthly Accessibility Audit",
+      "description": "Review research materials for WCAG compliance",
+      "frequency": "monthly",
+      "date": "2024-01-30",
+      "status": "active",
+      "tags": [
+        "work",
+        "accessibility",
+        "compliance"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-030",
+      "title": "Quarterly Vacation Planning Session",
+      "description": "Plan trips with Theo for upcoming quarter",
+      "frequency": "quarterly",
+      "date": "2024-01-13",
+      "status": "active",
+      "tags": [
+        "personal",
+        "travel",
+        "planning"
+      ],
+      "assigned_to": "Marcus Bennett",
+      "collaborator": "theo.harris@harborinbox.com"
+    },
+    {
+      "id": "rt-031",
+      "title": "Weekly Yoga Class - CorePower",
+      "frequency": "weekly",
+      "start_time": "2024-01-09T18:30:00-08:00",
+      "end_time": "2024-01-09T19:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health",
+        "fitness"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-032",
+      "title": "Monthly Call with Parents",
+      "frequency": "monthly",
+      "start_time": "2024-01-21T17:00:00-08:00",
+      "end_time": "2024-01-21T18:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "personal",
+        "family"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-033",
+      "title": "Bi-weekly 1:1 with Leah Morgan",
+      "description": "Direct manager check-in",
+      "frequency": "bi-weekly",
+      "start_time": "2024-01-10T10:00:00-08:00",
+      "end_time": "2024-01-10T10:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "1:1",
+        "management"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com"
+      ]
+    },
+    {
+      "id": "rt-034",
+      "title": "Quarterly Tax Document Organization",
+      "description": "Gather receipts and documents for accountant",
+      "frequency": "quarterly",
+      "date": "2024-01-31",
+      "status": "active",
+      "tags": [
+        "personal",
+        "taxes",
+        "admin"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-035",
+      "title": "Monthly Credit Card Statement Review",
+      "frequency": "monthly",
+      "date": "2024-01-03",
+      "status": "active",
+      "tags": [
+        "personal",
+        "finance",
+        "admin"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-036",
+      "title": "Weekly Trash and Recycling - Carts to Curb",
+      "frequency": "weekly",
+      "date": "2024-01-04",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "chores"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-037",
+      "title": "Annual Eye Examination",
+      "frequency": "annual",
+      "date": "2024-09-10",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health",
+        "medical"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-038",
+      "title": "Bi-weekly Car Maintenance Check",
+      "description": "Check tire pressure, oil level, washer fluid",
+      "frequency": "bi-weekly",
+      "date": "2024-01-14",
+      "status": "active",
+      "tags": [
+        "personal",
+        "automotive",
+        "maintenance"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-039",
+      "title": "Monthly Research Participant Database Cleanup",
+      "description": "Archive old records and update contact info",
+      "frequency": "monthly",
+      "timestamp": "2024-01-22T09:00:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "database",
+        "maintenance"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-040",
+      "title": "Quarterly Volunteer Day - Portland Food Bank",
+      "description": "Community service with Theo",
+      "frequency": "quarterly",
+      "date": "2024-02-10",
+      "status": "active",
+      "tags": [
+        "personal",
+        "volunteer",
+        "community"
+      ],
+      "assigned_to": "Marcus Bennett",
+      "collaborator": "theo.harris@harborinbox.com"
+    },
+    {
+      "id": "rt-041",
+      "title": "Weekly Monday Planning Session",
+      "description": "Review calendar and priorities for the week",
+      "frequency": "weekly",
+      "start_time": "2024-01-08T08:00:00-08:00",
+      "end_time": "2024-01-08T08:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "planning",
+        "productivity"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-042",
+      "title": "Monthly Password Security Review",
+      "description": "Review and update passwords for critical accounts",
+      "frequency": "monthly",
+      "date": "2024-01-02",
+      "status": "active",
+      "tags": [
+        "personal",
+        "security",
+        "admin"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-043",
+      "title": "Bi-weekly Sync with Calvin Price",
+      "description": "Budget and resource planning for UX Research",
+      "frequency": "bi-weekly",
+      "start_time": "2024-01-11T11:00:00-08:00",
+      "end_time": "2024-01-11T11:30:00-08:00",
+      "status": "active",
+      "tags": [
+        "work",
+        "finance",
+        "operations"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com",
+      "attendees": [
+        "calvin.price@cedargrovestudio.com"
+      ]
+    },
+    {
+      "id": "rt-044",
+      "title": "Monthly Deep Clean - Bathroom",
+      "frequency": "monthly",
+      "date": "2024-01-27",
+      "status": "active",
+      "tags": [
+        "personal",
+        "household",
+        "cleaning"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-045",
+      "title": "Quarterly Professional Development Planning",
+      "description": "Review goals and training opportunities",
+      "frequency": "quarterly",
+      "period_start": "2024-01-01",
+      "period_end": "2024-03-31",
+      "status": "active",
+      "tags": [
+        "work",
+        "career",
+        "development"
+      ],
+      "assigned_to": "marcus.bennett@harborinbox.com"
+    },
+    {
+      "id": "rt-046",
+      "title": "Weekly Friday Reflection",
+      "description": "Journal and review week's accomplishments",
+      "frequency": "weekly",
+      "date": "2024-01-05",
+      "status": "active",
+      "tags": [
+        "personal",
+        "wellness",
+        "reflection"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-047",
+      "title": "Monthly Social Media Digital Cleanup",
+      "description": "Review privacy settings and unused accounts",
+      "frequency": "monthly",
+      "date": "2024-01-08",
+      "status": "active",
+      "tags": [
+        "personal",
+        "digital",
+        "privacy"
+      ],
+      "assigned_to": "Marcus Bennett"
+    },
+    {
+      "id": "rt-048",
+      "title": "Annual Homeowners Insurance Review",
+      "frequency": "annual",
+      "date": "2024-05-15",
+      "status": "active",
+      "tags": [
+        "personal",
+        "insurance",
+        "finance"
+      ],
+      "assigned_to": "Marcus Bennett"
+    }
+  ]
+}

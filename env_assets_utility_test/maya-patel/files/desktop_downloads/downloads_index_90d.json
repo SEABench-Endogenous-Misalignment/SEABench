@@ -1,0 +1,213 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/downloads_index_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-15T18:42:31Z",
+    "source": "downloads_folder_index"
+  },
+  "records": [
+    {
+      "id": "dl_2024_07_a8f3c9e2",
+      "timestamp": "2024-07-18T09:23:14Z",
+      "filename": "Q3_Design_Review_Template_v2.key",
+      "file_type": "application/vnd.apple.keynote",
+      "file_size_bytes": 4520000,
+      "source_url": "https://docs.brightlinesystems.com/templates/Q3_Design_Review_Template_v2.key",
+      "download_path": "/Users/maya.patel/Downloads/Q3_Design_Review_Template_v2.key",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl_2024_07_b4e7d1a5",
+      "timestamp": "2024-07-22T11:45:33Z",
+      "filename": "Statement_2024-06_6452.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 840000,
+      "source_url": "https://secure.harborbank.com/statements/download?id=stmt_8842",
+      "download_path": "/Users/maya.patel/Downloads/Statement_2024-06_6452.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_07_c2a1f8d4",
+      "timestamp": "2024-07-25T16:12:08Z",
+      "filename": "Inter-4.0.zip",
+      "file_type": "application/zip",
+      "file_size_bytes": 12800000,
+      "source_url": "https://github.com/rsms/inter/releases/download/v4.0/Inter-4.0.zip",
+      "download_path": "/Users/maya.patel/Downloads/Inter-4.0.zip",
+      "browser": "Firefox"
+    },
+    {
+      "id": "dl_2024_08_d9e5b6c3",
+      "timestamp": "2024-08-03T13:56:42Z",
+      "filename": "Pittsburgh_to_Seattle_Reservation.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 320000,
+      "source_url": "https://www.alaskaair.com/travel/itinerary/download?pnr=KLM9XR",
+      "download_path": "/Users/maya.patel/Downloads/Pittsburgh_to_Seattle_Reservation.pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl_2024_08_e7f4a2b1",
+      "timestamp": "2024-08-10T10:30:15Z",
+      "filename": "UPMC_Insurance_Card_2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 210000,
+      "source_url": "https://member.upmchealthplan.com/documents/insuranceCard/download",
+      "download_path": "/Users/maya.patel/Downloads/UPMC_Insurance_Card_2024.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_08_f1c8d3e6",
+      "timestamp": "2024-08-15T19:22:51Z",
+      "filename": "2023_Tax_Return_1040_SIGNED.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 1500000,
+      "source_url": "https://app.turbotax.intuit.com/taxreturn/download/2023/final",
+      "download_path": "/Users/maya.patel/Downloads/2023_Tax_Return_1040_SIGNED.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_08_g5h2i9j7",
+      "timestamp": "2024-08-20T14:18:09Z",
+      "filename": "Figma-Desktop-116.15.4.dmg",
+      "file_type": "application/x-apple-diskimage",
+      "file_size_bytes": 89000000,
+      "source_url": "https://desktop.figma.com/mac/Figma-116.15.4.dmg",
+      "download_path": "/Users/maya.patel/Downloads/Figma-Desktop-116.15.4.dmg",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl_2024_08_h8k3l2m4",
+      "timestamp": "2024-08-22T09:45:22Z",
+      "filename": "Lease_Amendment_Laurel_Creek_2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 450000,
+      "source_url": "https://portal.greystar.com/documents/lease/amendment/download",
+      "download_path": "/Users/maya.patel/Downloads/Lease_Amendment_Laurel_Creek_2024.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_08_i9j4k5l6",
+      "timestamp": "2024-08-25T21:33:17Z",
+      "filename": "IMG_4482.jpeg",
+      "file_type": "image/jpeg",
+      "file_size_bytes": 3400000,
+      "source_url": "https://drive.google.com/uc?export=download&id=1B3x9Y2z4A7C5D8E6F0G",
+      "download_path": "/Users/maya.patel/Downloads/IMG_4482.jpeg",
+      "browser": "Chrome",
+      "referrer": "https://mail.google.com/mail/u/0/#inbox/FMfcgzGtxdQwNmQvxjFKdXvtrkQFhlGN"
+    },
+    {
+      "id": "dl_2024_09_j0k1l2m3",
+      "timestamp": "2024-09-02T12:10:45Z",
+      "filename": "Duquesne_Light_August_2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 280000,
+      "source_url": "https://www.duquesnelight.com/account/billing/download/8827361",
+      "download_path": "/Users/maya.patel/Downloads/Duquesne_Light_August_2024.pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl_2024_09_k2l3m4n5",
+      "timestamp": "2024-09-05T15:42:11Z",
+      "filename": "heroicons-2.1.1.zip",
+      "file_type": "application/zip",
+      "file_size_bytes": 4200000,
+      "source_url": "https://github.com/tailwindlabs/heroicons/archive/refs/tags/v2.1.1.zip",
+      "download_path": "/Users/maya.patel/Downloads/heroicons-2.1.1.zip",
+      "browser": "Firefox"
+    },
+    {
+      "id": "dl_2024_09_l3m4n5o6",
+      "timestamp": "2024-09-10T17:28:33Z",
+      "filename": "Design_Sync_Notes_Sep_10.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "file_size_bytes": 85000,
+      "source_url": "https://brightlinesystems.sharepoint.com/sites/design/_layouts/15/download.aspx?UniqueId=8a3c7e2d-5f1b-4c9d-8e6a-2b4c8d1e5f7a",
+      "download_path": "/Users/maya.patel/Downloads/Design_Sync_Notes_Sep_10.docx",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_09_m4n5o6p7",
+      "timestamp": "2024-09-12T08:55:19Z",
+      "filename": "Vanguard_August_Statement_2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 620000,
+      "source_url": "https://personal.vanguard.com/us/StmtPdf?id=stmt_202408_8842",
+      "download_path": "/Users/maya.patel/Downloads/Vanguard_August_Statement_2024.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_09_n5o6p7q8",
+      "timestamp": "2024-09-14T19:15:08Z",
+      "filename": "Giant_Eagle_Receipt_091424.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 180000,
+      "source_url": "https://www.gianteagle.com/receipts/download?tid=TXN7823641",
+      "download_path": "/Users/maya.patel/Downloads/Giant_Eagle_Receipt_091424.pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl_2024_09_o6p7q8r9",
+      "timestamp": "2024-09-18T10:22:41Z",
+      "filename": "UPMC_Visit_Summary_091824.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 340000,
+      "source_url": "https://myupmc.upmc.com/eph/access/yourdocs/download?encounter=ENC998877",
+      "download_path": "/Users/maya.patel/Downloads/UPMC_Visit_Summary_091824.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_09_p7q8r9s0",
+      "timestamp": "2024-09-20T06:45:12Z",
+      "filename": "apple_health_export_20240920.xml",
+      "file_type": "application/xml",
+      "file_size_bytes": 12500000,
+      "source_url": "https://health.apple.com/export/download?token=7a8b9c0d1e2f3g4h",
+      "download_path": "/Users/maya.patel/Downloads/apple_health_export_20240920.xml",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl_2024_09_q8r9s0t1",
+      "timestamp": "2024-09-22T14:30:55Z",
+      "filename": "Brightline_Client_Agreement_Redline.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 2100000,
+      "source_url": "https://docs.google.com/document/d/1Ab2Cd3Ef4Gh5Ij6Kl7Mn8Op9Qr0St1Uv/export?format=pdf",
+      "download_path": "/Users/maya.patel/Downloads/Brightline_Client_Agreement_Redline.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_09_r9s0t1u2",
+      "timestamp": "2024-09-25T11:18:27Z",
+      "filename": "bookmarks_2024_09_25.html",
+      "file_type": "text/html",
+      "file_size_bytes": 450000,
+      "source_url": "chrome://bookmarks/?export=1",
+      "download_path": "/Users/maya.patel/Downloads/bookmarks_2024_09_25.html",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_10_s0t1u2v3",
+      "timestamp": "2024-10-01T12:05:38Z",
+      "filename": "Owen_Reed_Wedding_Invite.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 1200000,
+      "source_url": "https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=9a8b7c6d&attid=0.1&permmsgid=msg-f:1773829165432123456&th=18f3a2b4c5d6e7f8&view=att&disp=inline&realattid=f_mnopqrs0&saddbat=ANGjdJ8",
+      "download_path": "/Users/maya.patel/Downloads/Owen_Reed_Wedding_Invite.pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl_2024_10_t1u2v3w4",
+      "timestamp": "2024-10-05T09:12:49Z",
+      "filename": "Adobe_Creative_Cloud_Invoice_Oct2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 95000,
+      "source_url": "https://account.adobe.com/documents/invoice/INV-8847362",
+      "download_path": "/Users/maya.patel/Downloads/Adobe_Creative_Cloud_Invoice_Oct2024.pdf",
+      "browser": "Safari"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/insurance_cards_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2026-06-29T14:35:22Z"
+  },
+  "records": [
+    {
+      "id": "ins_health_bcbs_001",
+      "provider_name": "Blue Cross Blue Shield",
+      "plan_type": "PPO Premium",
+      "member_id": "BCBS9988776655",
+      "group_number": "GRP112233TX",
+      "date": "2026-05-20",
+      "period_start": "2026-01-01",
+      "period_end": "2026-12-31",
+      "subscriber_name": "Alice R. Chen",
+      "copay_primary": 25,
+      "copay_emergency": 250,
+      "deductible_individual": 1500
+    },
+    {
+      "id": "ins_dental_dd_001",
+      "provider_name": "Delta Dental",
+      "plan_name": "Premium Care PPO",
+      "member_id": "DD4455667788",
+      "group_code": "DDG987654",
+      "date": "2026-04-15",
+      "period_start": "2026-04-01",
+      "period_end": "2027-03-31",
+      "annual_maximum": 2000,
+      "ortho_lifetime_max": 1500
+    },
+    {
+      "id": "ins_vision_vsp_001",
+      "provider_name": "VSP Global",
+      "plan_type": "Standard Option",
+      "member_id": "VSP2233445566",
+      "date": "2026-06-10",
+      "period_end": "2026-12-31",
+      "exam_copay": 10,
+      "frame_allowance": 150
+    },
+    {
+      "id": "ins_pharmacy_es_001",
+      "provider_name": "Express Scripts",
+      "plan_code": "ESSRX",
+      "member_id": "ES6677889900",
+      "group_number": "ESGRP3344",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:22:00Z",
+      "rx_bin": "610502",
+      "rx_pcn": "ESPCN",
+      "rx_group": "ESGRP3344"
+    },
+    {
+      "id": "ins_supplemental_af_001",
+      "provider_name": "Aflac",
+      "policy_type": "Accident Insurance",
+      "policy_number": "AF9988776655",
+      "date": "2026-05-01",
+      "period_start": "2026-05-01",
+      "period_end": "2027-04-30",
+      "monthly_premium": 45.5
+    },
+    {
+      "id": "ins_auto_sf_001",
+      "provider_name": "State Farm",
+      "policy_number": "SF-123-456-789-ABC",
+      "date": "2026-06-28",
+      "period_start": "2026-06-28",
+      "period_end": "2026-12-28",
+      "vin": "5YJ3E1EA7PF000001",
+      "vehicle_description": "2025 Toyota Camry LE",
+      "agent_code": "TX-4421-SF"
+    }
+  ]
+}

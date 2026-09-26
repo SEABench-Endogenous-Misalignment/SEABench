@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/vault_items_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-27T16:45:00Z",
+    "source": "password_manager_export"
+  },
+  "records": [
+    {
+      "id": "vi_8293ndk2",
+      "timestamp": "2024-11-20T14:32:00Z",
+      "item_type": "login",
+      "title": "Riverbend Mail - Personal",
+      "username": "linh.nguyen@riverbendmail.com",
+      "password": "K9#mP2$vL8@qR5",
+      "url": "https://mail.riverbendmail.com",
+      "folder": "Personal/Email"
+    },
+    {
+      "id": "vi_7451msl9",
+      "timestamp": "2024-11-25T09:15:00Z",
+      "item_type": "login",
+      "title": "Brightline Systems - Work Email",
+      "username": "linh.nguyen@brightlinesystems.com",
+      "password": "Bright2024!Secure#Line",
+      "url": "https://owa.brightlinesystems.com",
+      "folder": "Work/Email"
+    },
+    {
+      "id": "vi_6182kql4",
+      "timestamp": "2024-10-12T14:22:00Z",
+      "item_type": "login",
+      "title": "Summit Federal Credit Union",
+      "username": "linh.nguyen4072",
+      "password": "Summit#Hiking9!",
+      "url": "https://online.summitfcu.org",
+      "folder": "Finance/Banking",
+      "notes": "Security questions: First pet: Boulder, Mother's maiden: Tran"
+    },
+    {
+      "id": "vi_3957pwz8",
+      "timestamp": "2024-09-05T11:45:00Z",
+      "item_type": "card",
+      "title": "Chase Sapphire Reserve",
+      "cardholder_name": "Linh Nguyen",
+      "card_number": "4532123456789012",
+      "expiry_date": "09/27",
+      "cvv": "472",
+      "billing_zip": "80262",
+      "folder": "Finance/Cards"
+    },
+    {
+      "id": "vi_5629xbr3",
+      "timestamp": "2024-08-18T16:30:00Z",
+      "item_type": "wireless",
+      "title": "Home WiFi - Maple Hollow",
+      "ssid": "MapleHollow_5G",
+      "password": "Denver2024#Rockies",
+      "security_type": "WPA3",
+      "hidden": false,
+      "folder": "Personal/Network"
+    },
+    {
+      "id": "vi_9834tmn1",
+      "timestamp": "2024-11-10T20:05:00Z",
+      "item_type": "secure_note",
+      "title": "GitHub Recovery Codes - Work",
+      "content": "Backup codes: 8374-2910 5648-9032 1276-5498 9834-6712 4521-8903 7890-1234",
+      "associated_account": "linh-nguyen-work",
+      "folder": "Work/Development"
+    }
+  ]
+}

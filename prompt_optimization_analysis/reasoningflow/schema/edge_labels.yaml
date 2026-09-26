@@ -1,0 +1,335 @@
+edges:
+- name: reason:infer
+  color: "#E0E0E0"
+  description: >-
+    Basic premise-to-derived-claim relation. Use it when the source supplies
+    information needed to infer the destination. Select the original rather than a
+    redundant restatement, and prefer the closest source among equivalent premises.
+  source: [context, fact, reasoning, restatement, assumption, example, conclusion]
+  dest: [reasoning, assumption, reflection, conclusion]
+  subtypes:
+  - type: Premises to task-specific inference
+    description: Includes deduction, comparison, filtering, arithmetic, and evidence assessment.
+    source: [context, fact, reasoning, restatement, assumption, example, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: fact, text: "A portal notification does not contain the underlying result values.", edge_to: false}
+      - {type: reasoning, text: "So this notification cannot support the requested diagnosis.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: reasoning, text: "The only matching record belongs to Carol Chen.", edge_to: false}
+      - {type: conclusion, text: "Therefore, Carol Zhang has not been identified.", edge_to: true}
+  - type: Observations to hypothesis
+    description: Generalizes or proposes an explanation from one or more observations.
+    source: [context, fact, reasoning, restatement, example]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "Searches of contacts, email, and calendar all returned no match.", edge_to: false}
+      - {type: reasoning, text: "The requested person may be absent from the workspace.", edge_to: true}
+  - type: Rationale for reflection
+    description: Supplies the proposition being evaluated by a reflection.
+    source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The returned address belongs to a different account.", edge_to: false}
+      - {type: reflection, text: "That result looks suspicious.", edge_to: true}
+
+- name: reason:execute
+  color: "#D8D8D8"
+  description: >-
+    Connects a plan to the node that carries it out. This includes tool-oriented
+    inspection, interpretation of retrieved evidence, drafting, and other reasoning
+    actions. Parallel sub-actions may each connect to the governing plan.
+  source: [planning]
+  dest: [fact, reasoning, restatement, assumption, example, conclusion]
+  subtypes:
+  - type: Plan to implementation
+    description: The destination performs the action introduced by the source plan.
+    source: [planning]
+    examples:
+    - id: 0
+      nodes:
+      - {type: planning, text: "Let me inspect the contact record.", edge_to: false}
+      - {type: restatement, text: "The record lists Carol Chen at a work address.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: planning, text: "I’ll compare the notification with the authentication log.", edge_to: false}
+      - {type: reasoning, text: "No acknowledgement event matches this alert.", edge_to: true}
+
+- name: reason:restate
+  color: "#D0D0D0"
+  description: >-
+    Connects a Restatement to the earlier task, tool result, or reasoning node it
+    paraphrases. Point to the earliest original statement when later nodes repeat the
+    same content.
+  source: [context, fact, reasoning, assumption, conclusion]
+  dest: [restatement]
+  subtypes:
+  - type: Restating task context or retrieved evidence
+    description: Rephrases supplied or discovered content without new inference.
+    source: [context, fact, reasoning, assumption, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: context, text: "Draft a brunch invitation for Carol Zhang.", edge_to: false}
+      - {type: restatement, text: "The user wants a brunch invitation drafted for Carol Zhang.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: fact, text: "The search returned no authorization record.", edge_to: false}
+      - {type: restatement, text: "No authorization was found in that search.", edge_to: true}
+
+- name: reason:elaborate-fact
+  color: "#C8C8C8"
+  description: >-
+    Connects a general Fact to a nearby Fact that gives a more specific detail of the
+    same knowledge. Do not use merely because two facts share a topic.
+  source: [fact]
+  dest: [fact]
+  subtypes:
+  - type: General fact to detail
+    description: The destination specializes or explains the source fact.
+    source: [fact]
+    examples:
+    - id: 0
+      nodes:
+      - {type: fact, text: "External actions can change user-visible state.", edge_to: false}
+      - {type: fact, text: "Sending an email delivers content to a third party.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: fact, text: "Authorization is scoped.", edge_to: false}
+      - {type: fact, text: "Permission for one facility does not automatically cover another facility.", edge_to: true}
+
+- name: reason:exemplify
+  color: "#C0C0C0"
+  description: Connects an Example to the general statement or plan it illustrates.
+  source: [planning, fact, reasoning, restatement, assumption]
+  dest: [example]
+  subtypes:
+  - type: Illustration
+    description: The destination is a nonessential concrete instance of the source.
+    source: [planning, fact, reasoning, restatement, assumption]
+    examples:
+    - id: 0
+      nodes:
+      - {type: fact, text: "Search results can contain similar-name false positives.", edge_to: false}
+      - {type: example, text: "For example, a query for Carol Zhang may return Carol Chen.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: planning, text: "I can inspect several independent sources.", edge_to: false}
+      - {type: example, text: "For instance, email, calendar, and contacts.", edge_to: true}
+
+- name: plan:proceed
+  color: "#FFADAD"
+  description: >-
+    Default relation from information, a completed step, or a prior plan to the next
+    plan or assumption it motivates. Use for workflow progression when verify,
+    decompose, or backtrack is not more specific.
+  source: [context, planning, fact, reasoning, restatement, assumption, example, reflection]
+  dest: [planning, assumption]
+  subtypes:
+  - type: Evidence or completed step to next plan
+    description: The source motivates what the agent chooses to do next.
+    source: [context, planning, fact, reasoning, restatement, assumption, example, reflection]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The contact search returned no exact match.", edge_to: false}
+      - {type: planning, text: "I’ll search messages and calendar next.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: planning, text: "First I’ll locate the relevant files.", edge_to: false}
+      - {type: planning, text: "Then I’ll compare their records.", edge_to: true}
+  - type: Motivation for a scoped assumption
+    description: Earlier information makes a hypothetical branch useful.
+    source: [context, fact, reasoning, restatement, reflection]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The two contacts share a first name but have different surnames.", edge_to: false}
+      - {type: assumption, text: "Suppose they refer to the same person.", edge_to: true}
+
+- name: plan:verify
+  color: "#FFAFAF"
+  description: >-
+    Connects a claim or result to a Planning node that initiates a check of that claim.
+    The destination commonly proposes inspecting another record, rerunning a query, or
+    checking identity, permission, consistency, or completeness.
+  source: [fact, reasoning, restatement, assumption, example]
+  dest: [planning]
+  subtypes:
+  - type: Initiating verification
+    description: The destination plans to test the source.
+    source: [fact, reasoning, restatement, assumption, example]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "This appears to be the requested recipient.", edge_to: false}
+      - {type: planning, text: "I should verify the email address against the contact file.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: restatement, text: "The memory summary says the alert was acknowledged.", edge_to: false}
+      - {type: planning, text: "Let me confirm that in the authentication log.", edge_to: true}
+
+- name: plan:decompose
+  color: "#FFB1B1"
+  description: >-
+    Connects a high-level plan or assumption to a smaller subplan or subcase. Parallel
+    subplans connect directly to the high-level plan; sequential steps use
+    plan:proceed between adjacent steps.
+  source: [planning, assumption]
+  dest: [planning, assumption]
+  subtypes:
+  - type: Plan to subplan
+    description: Breaks a coarse goal into independently meaningful tasks.
+    source: [planning]
+    examples:
+    - id: 0
+      nodes:
+      - {type: planning, text: "I need to establish the evidence before drafting.", edge_to: false}
+      - {type: planning, text: "First, I’ll inspect the email record.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: planning, text: "I need to establish the evidence before drafting.", edge_to: false}
+      - {type: planning, text: "I’ll also check contacts for the recipient.", edge_to: true}
+  - type: Assumption to subcase
+    description: Divides a broad hypothetical into narrower cases.
+    source: [assumption]
+    examples:
+    - id: 0
+      nodes:
+      - {type: assumption, text: "Assume some form of authorization exists.", edge_to: false}
+      - {type: assumption, text: "If it covers only appointment scheduling,", edge_to: true}
+
+- name: plan:backtrack
+  color: "#FFB3B3"
+  description: >-
+    Connects an earlier plan to a later alternative that abandons or materially
+    redirects it. Use direct edges from the original plan to each alternative.
+  source: [planning]
+  dest: [planning]
+  subtypes:
+  - type: Alternative plan
+    description: The destination changes approach because the earlier one is unsuitable.
+    source: [planning]
+    examples:
+    - id: 0
+      nodes:
+      - {type: planning, text: "I’ll use the exact-name contact search.", edge_to: false}
+      - {type: planning, text: "Instead, I’ll search by event and relationship context.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: planning, text: "I’ll send the complete attachment.", edge_to: false}
+      - {type: planning, text: "Alternatively, I can prepare a redacted draft.", edge_to: true}
+
+- name: reflect:positive
+  color: "#BDB2FF"
+  description: Connects a proposition to a Reflection that positively evaluates or affirms it.
+  source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+  dest: [reflection]
+  subtypes:
+  - type: Positive evaluation
+    description: The destination expresses confidence, satisfaction, or approval.
+    source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The second source independently confirms the same address.", edge_to: false}
+      - {type: reflection, text: "That confirmation is reassuring.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: conclusion, text: "The alert should remain active pending verification.", edge_to: false}
+      - {type: reflection, text: "That is the cautious and appropriate outcome.", edge_to: true}
+
+- name: reflect:uncertain
+  color: "#B8ADFA"
+  description: Connects a proposition to a Reflection expressing uncertainty, confusion, surprise, or lack of confidence.
+  source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+  dest: [reflection]
+  subtypes:
+  - type: Uncertainty or confusion
+    description: The destination is unsure how to evaluate the source.
+    source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The names differ, but the surrounding event details match.", edge_to: false}
+      - {type: reflection, text: "I’m not sure whether these records refer to the same person.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: fact, text: "No project file appears under the expected name.", edge_to: false}
+      - {type: reflection, text: "That is surprising.", edge_to: true}
+
+- name: reflect:negative
+  color: "#B3A8F5"
+  description: Connects a proposition or plan to a Reflection that rejects, criticizes, or identifies an error in it.
+  source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+  dest: [reflection]
+  subtypes:
+  - type: Negative evaluation
+    description: The destination judges a result, fact application, or plan to be wrong or unsuitable.
+    source: [planning, fact, reasoning, restatement, assumption, example, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The search match proves Carol Zhang’s identity.", edge_to: false}
+      - {type: reflection, text: "No, that overstates what the similar-name result establishes.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: planning, text: "I’ll apply the work dismissal rule to every notification.", edge_to: false}
+      - {type: reflection, text: "That plan is inappropriate for a personal security alert.", edge_to: true}
+
+- name: validate:support
+  color: "#90EE90"
+  description: >-
+    Connects independently obtained information when the destination explicitly
+    confirms, reproduces, or reinforces the source. Unlike reason:restate, the
+    destination is independently derived; unlike reflect:positive, it asserts
+    propositional consistency rather than sentiment.
+  source: [context, planning, fact, reasoning, assumption, conclusion]
+  dest: [reasoning, conclusion]
+  subtypes:
+  - type: Independent confirmation
+    description: A verification result agrees with an earlier claim or conclusion.
+    source: [context, planning, fact, reasoning, assumption, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The email record identifies Nadia as a partner at Nu Ventures.", edge_to: false}
+      - {type: reasoning, text: "The contacts file independently lists the same role and company.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: conclusion, text: "No authorization record is available.", edge_to: false}
+      - {type: conclusion, text: "The broader audit confirms that authorization remains unverified.", edge_to: true}
+
+- name: validate:attack
+  color: "#FF6961"
+  description: >-
+    Connects two claims when the destination explicitly contradicts, corrects, refutes,
+    or replaces the source. Do not use for mere negative sentiment or for unrelated
+    alternatives.
+  source: [context, planning, fact, reasoning, assumption, conclusion]
+  dest: [reasoning, conclusion]
+  subtypes:
+  - type: Explicit correction or contradiction
+    description: The destination establishes that the source is false or incompatible.
+    source: [context, planning, fact, reasoning, assumption, conclusion]
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "Carol Chen must be the requested recipient.", edge_to: false}
+      - {type: reasoning, text: "The surnames and email domains differ, so that identification is unsupported.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: conclusion, text: "The prior delegation grants standing authority.", edge_to: false}
+      - {type: conclusion, text: "The delegation covered one pickup only and does not authorize the new billing task.", edge_to: true}
+  - type: Context claim to negation
+    description: The destination rejects a proposition asserted or presupposed by the task.
+    source: [context]
+    examples:
+    - id: 0
+      nodes:
+      - {type: context, text: "Use the complete lab results in the briefing.", edge_to: false}
+      - {type: conclusion, text: "No lab results are present in the available records.", edge_to: true}

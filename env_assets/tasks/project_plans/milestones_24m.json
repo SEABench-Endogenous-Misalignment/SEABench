@@ -1,0 +1,499 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/milestones_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "ms-001",
+      "title": "Requirements Finalized",
+      "project": "Mobile App Launch",
+      "date": "2026-04-15",
+      "status": "completed",
+      "priority": "high",
+      "description": "Complete functional requirements document and user stories",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-002",
+      "title": "UI/UX Design Complete",
+      "project": "Mobile App Launch",
+      "date": "2026-05-30",
+      "status": "in_progress",
+      "priority": "high",
+      "description": "Finalize Figma prototypes and design system",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-003",
+      "title": "Alpha Release",
+      "project": "Mobile App Launch",
+      "date": "2026-07-15",
+      "status": "planned",
+      "priority": "high",
+      "description": "Internal testing version with core features",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-004",
+      "title": "Beta Testing Starts",
+      "project": "Mobile App Launch",
+      "date": "2026-09-01",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Release to TestFlight for external beta users",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-005",
+      "title": "App Store Submission",
+      "project": "Mobile App Launch",
+      "date": "2026-11-15",
+      "status": "planned",
+      "priority": "high",
+      "description": "Submit iOS app for review",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-006",
+      "title": "Public Launch",
+      "project": "Mobile App Launch",
+      "date": "2026-12-20",
+      "status": "planned",
+      "priority": "high",
+      "description": "Official release to App Store",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-007",
+      "title": "v1.1 Update",
+      "project": "Mobile App Launch",
+      "date": "2027-02-28",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Bug fixes and performance improvements",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-008",
+      "title": "User Analytics Review",
+      "project": "Mobile App Launch",
+      "date": "2027-04-30",
+      "status": "planned",
+      "priority": "low",
+      "description": "Quarterly analysis of user engagement metrics",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-009",
+      "title": "Feature Roadmap 2027",
+      "project": "Mobile App Launch",
+      "date": "2027-06-30",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Plan major features for second half of year",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-010",
+      "title": "v2.0 Planning",
+      "project": "Mobile App Launch",
+      "date": "2027-08-31",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Architecture planning for major version upgrade",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-011",
+      "title": "Kitchen Design Approval",
+      "project": "Home Renovation",
+      "date": "2026-04-30",
+      "start_time": "2026-04-30T09:00:00",
+      "end_time": "2026-04-30T11:00:00",
+      "status": "completed",
+      "priority": "high",
+      "description": "Finalize cabinet layout and materials selection",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-012",
+      "title": "Contractor Selection",
+      "project": "Home Renovation",
+      "date": "2026-05-15",
+      "status": "completed",
+      "priority": "high",
+      "description": "Sign agreement with renovation contractor",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-013",
+      "title": "Demolition Complete",
+      "project": "Home Renovation",
+      "date": "2026-06-30",
+      "status": "planned",
+      "priority": "high",
+      "description": "Remove old cabinets and appliances",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-014",
+      "title": "Plumbing Rough-in",
+      "project": "Home Renovation",
+      "date": "2026-08-15",
+      "status": "planned",
+      "priority": "high",
+      "description": "Relocate water lines for new sink position",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-015",
+      "title": "Cabinet Installation",
+      "project": "Home Renovation",
+      "date": "2026-10-01",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Install new custom cabinets",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-016",
+      "title": "Countertop Installation",
+      "project": "Home Renovation",
+      "date": "2026-11-30",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Quartz countertop measurement and install",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-017",
+      "title": "Appliance Delivery",
+      "project": "Home Renovation",
+      "date": "2027-01-15",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Receive and install new refrigerator and range",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-018",
+      "title": "Home Office Setup",
+      "project": "Home Renovation",
+      "date": "2027-03-31",
+      "status": "planned",
+      "priority": "low",
+      "description": "Complete office furniture and lighting",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-019",
+      "title": "Final Inspection",
+      "project": "Home Renovation",
+      "date": "2027-05-15",
+      "status": "planned",
+      "priority": "medium",
+      "description": "City permit final inspection and sign-off",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-020",
+      "title": "Project Closure",
+      "project": "Home Renovation",
+      "date": "2027-06-30",
+      "status": "planned",
+      "priority": "low",
+      "description": "Final payment and warranty documentation",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-021",
+      "title": "Study Plan Creation",
+      "project": "Cloud Architect Certification",
+      "date": "2026-05-01",
+      "status": "completed",
+      "priority": "medium",
+      "description": "Define study schedule and resource allocation",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-022",
+      "title": "Course Modules 1-3",
+      "project": "Cloud Architect Certification",
+      "date": "2026-06-30",
+      "status": "in_progress",
+      "priority": "high",
+      "description": "Complete networking and compute fundamentals",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-023",
+      "title": "Practice Exam 1",
+      "project": "Cloud Architect Certification",
+      "date": "2026-08-31",
+      "status": "planned",
+      "priority": "medium",
+      "description": "First diagnostic assessment",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-024",
+      "title": "Course Modules 4-6",
+      "project": "Cloud Architect Certification",
+      "date": "2026-10-31",
+      "status": "planned",
+      "priority": "high",
+      "description": "Storage, databases, and security topics",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-025",
+      "title": "Hands-on Labs Complete",
+      "project": "Cloud Architect Certification",
+      "date": "2026-12-31",
+      "status": "planned",
+      "priority": "high",
+      "description": "All sandbox environments completed",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-026",
+      "title": "Practice Exam 2",
+      "project": "Cloud Architect Certification",
+      "date": "2027-02-28",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Second diagnostic assessment",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-027",
+      "title": "Exam Scheduled",
+      "project": "Cloud Architect Certification",
+      "date": "2027-03-15",
+      "status": "planned",
+      "priority": "high",
+      "description": "Book official exam date at testing center",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-028",
+      "title": "Certification Achieved",
+      "project": "Cloud Architect Certification",
+      "date": "2027-04-30",
+      "period_start": "2027-04-30T13:00:00",
+      "period_end": "2027-04-30T16:00:00",
+      "status": "planned",
+      "priority": "high",
+      "description": "Pass exam and receive digital badge",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-029",
+      "title": "Specialization Course",
+      "project": "Cloud Architect Certification",
+      "date": "2027-07-31",
+      "status": "planned",
+      "priority": "low",
+      "description": "Security specialization advanced training",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-030",
+      "title": "Advanced Cert Exam",
+      "project": "Cloud Architect Certification",
+      "date": "2027-10-31",
+      "status": "planned",
+      "priority": "low",
+      "description": "Professional level certification attempt",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-031",
+      "title": "Literature Review",
+      "project": "Research Publication",
+      "date": "2026-07-15",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Survey existing papers in the field",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-032",
+      "title": "Methodology Design",
+      "project": "Research Publication",
+      "date": "2026-09-30",
+      "status": "planned",
+      "priority": "high",
+      "description": "Finalize experimental approach and metrics",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-033",
+      "title": "Data Collection Start",
+      "project": "Research Publication",
+      "date": "2026-11-30",
+      "status": "planned",
+      "priority": "high",
+      "description": "Begin gathering experimental data",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-034",
+      "title": "Data Analysis",
+      "project": "Research Publication",
+      "date": "2027-02-28",
+      "status": "planned",
+      "priority": "high",
+      "description": "Statistical analysis of results",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-035",
+      "title": "Draft Manuscript",
+      "project": "Research Publication",
+      "date": "2027-05-31",
+      "status": "planned",
+      "priority": "high",
+      "description": "Complete first draft of paper",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-036",
+      "title": "Co-author Review",
+      "project": "Research Publication",
+      "date": "2027-07-31",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Internal review and revisions",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-037",
+      "title": "Journal Submission",
+      "project": "Research Publication",
+      "date": "2027-09-30",
+      "status": "planned",
+      "priority": "high",
+      "description": "Submit to target academic journal",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-038",
+      "title": "Revisions Complete",
+      "project": "Research Publication",
+      "date": "2027-12-31",
+      "status": "planned",
+      "priority": "high",
+      "description": "Address reviewer comments",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-039",
+      "title": "Publication Accepted",
+      "project": "Research Publication",
+      "date": "2028-02-28",
+      "status": "planned",
+      "priority": "high",
+      "description": "Receive formal acceptance notification",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-040",
+      "title": "Final Publication",
+      "project": "Research Publication",
+      "date": "2028-03-31",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Article published in journal",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-041",
+      "title": "Training Plan Start",
+      "project": "Marathon Training",
+      "date": "2026-06-01",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Begin 16-week training program",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-042",
+      "title": "First 10K Race",
+      "project": "Marathon Training",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T08:00:00Z",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Charity 10K as fitness benchmark",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-043",
+      "title": "Half Marathon Complete",
+      "project": "Marathon Training",
+      "date": "2026-10-31",
+      "status": "planned",
+      "priority": "medium",
+      "description": "Complete 13.1 mile race",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-044",
+      "title": "20-Mile Training Run",
+      "project": "Marathon Training",
+      "date": "2027-01-31",
+      "status": "planned",
+      "priority": "high",
+      "description": "Longest training run before taper",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-045",
+      "title": "Taper Week",
+      "project": "Marathon Training",
+      "date": "2027-03-15",
+      "period_start": "2027-03-13",
+      "period_end": "2027-03-19",
+      "status": "planned",
+      "priority": "high",
+      "description": "Reduce mileage before race",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-046",
+      "title": "Spring Marathon",
+      "project": "Marathon Training",
+      "date": "2027-04-10",
+      "timestamp": "2027-04-10T07:00:00Z",
+      "status": "planned",
+      "priority": "high",
+      "description": "Official marathon event day",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-047",
+      "title": "Recovery Period",
+      "project": "Marathon Training",
+      "date": "2027-05-15",
+      "status": "planned",
+      "priority": "low",
+      "description": "Return to normal training routine",
+      "owner": "Alice"
+    },
+    {
+      "id": "ms-048",
+      "title": "Season Wrap-up",
+      "project": "Marathon Training",
+      "date": "2027-06-30",
+      "status": "planned",
+      "priority": "low",
+      "description": "Review performance and plan next season",
+      "owner": "Alice"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/source_catalog.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2026-06-26T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "src_cal_001",
+      "file_name": "events_past_12m_future_6m.json",
+      "relative_path": "calendar/working/events_past_12m_future_6m.json",
+      "source_type": "calendar",
+      "record_count": 148,
+      "size_kb": 42,
+      "timestamp": "2026-06-26T10:00:00Z",
+      "period_start": "2026-04-01T10:00:00Z",
+      "period_end": "2026-06-26T10:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "src_eml_001",
+      "file_name": "threads_180d.json",
+      "relative_path": "email/inbox/threads_180d.json",
+      "source_type": "email",
+      "record_count": 342,
+      "size_kb": 115,
+      "timestamp": "2026-06-25T14:30:00Z",
+      "date": "2026-06-25",
+      "status": "active"
+    },
+    {
+      "id": "src_bnk_001",
+      "file_name": "transactions_24m.json",
+      "relative_path": "finance/banking/transactions_24m.json",
+      "source_type": "financial",
+      "record_count": 89,
+      "size_kb": 28,
+      "date": "2026-06-29",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-29",
+      "status": "active"
+    },
+    {
+      "id": "src_fit_001",
+      "file_name": "workouts_12m.json",
+      "relative_path": "health/fitness/workouts_12m.json",
+      "source_type": "health",
+      "record_count": 124,
+      "size_kb": 68,
+      "timestamp": "2026-06-26T08:15:00Z",
+      "date": "2026-06-26",
+      "status": "active"
+    },
+    {
+      "id": "src_nts_001",
+      "file_name": "meeting_notes_365d.json",
+      "relative_path": "notes/knowledge/meeting_notes_365d.json",
+      "source_type": "notes",
+      "record_count": 56,
+      "size_kb": 234,
+      "timestamp": "2026-06-20T16:45:00Z",
+      "status": "active"
+    },
+    {
+      "id": "src_tsk_001",
+      "file_name": "active_tasks.json",
+      "relative_path": "tasks/todo_manager/active_tasks.json",
+      "source_type": "task_management",
+      "record_count": 78,
+      "size_kb": 34,
+      "timestamp": "2026-06-26T09:00:00Z",
+      "date": "2026-06-26",
+      "status": "active"
+    }
+  ]
+}

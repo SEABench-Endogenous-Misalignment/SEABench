@@ -1,0 +1,360 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/banking/account_alerts_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-29T14:32:17Z"
+  },
+  "records": [
+    {
+      "id": "alert_2025_001",
+      "timestamp": "2025-07-01T09:15:00Z",
+      "alert_type": "direct_deposit_received",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "amount": 4250.0,
+      "description": "Payroll deposit received",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2025_002",
+      "timestamp": "2025-07-14T16:45:00Z",
+      "alert_type": "international_transaction",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "amount": 127.5,
+      "merchant": "GlobalTech Services Dublin",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2025_003",
+      "timestamp": "2025-08-02T11:30:00Z",
+      "alert_type": "low_balance_warning",
+      "account_number_masked": "****4521",
+      "severity": "high",
+      "balance": 125.4,
+      "threshold": 200.0,
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2025_004",
+      "timestamp": "2025-08-18T22:05:00Z",
+      "alert_type": "login_new_device",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "device": "iPhone 15 Pro",
+      "location": "Richmond, VA",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2025_005",
+      "timestamp": "2025-09-03T08:00:00Z",
+      "alert_type": "large_transaction",
+      "account_number_masked": "****7890",
+      "severity": "low",
+      "amount": 850.0,
+      "merchant": "Home Depot",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2025_006",
+      "timestamp": "2025-09-22T14:20:00Z",
+      "alert_type": "suspicious_activity",
+      "account_number_masked": "****7890",
+      "severity": "high",
+      "description": "Multiple rapid transactions detected",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2025_007",
+      "timestamp": "2025-10-05T10:15:00Z",
+      "alert_type": "statement_available",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "period_end": "2025-09-30",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2025_008",
+      "timestamp": "2025-10-28T19:45:00Z",
+      "alert_type": "withdrawal_alert",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "amount": 500.0,
+      "method": "ATM",
+      "location": "Charlottesville, VA",
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2025_009",
+      "timestamp": "2025-11-12T13:10:00Z",
+      "alert_type": "recurring_payment_failed",
+      "account_number_masked": "****9982",
+      "severity": "high",
+      "merchant": "City Power Utility",
+      "amount": 140.25,
+      "channel": "email"
+    },
+    {
+      "id": "alert_2025_010",
+      "timestamp": "2025-11-25T09:30:00Z",
+      "alert_type": "new_payee_added",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "payee_name": "Mountain View HOA",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2025_011",
+      "timestamp": "2025-12-01T07:00:00Z",
+      "alert_type": "year_end_statement",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "period_end": "2025-11-30",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2025_012",
+      "timestamp": "2025-12-26T15:22:00Z",
+      "alert_type": "card_not_present",
+      "account_number_masked": "****7890",
+      "severity": "low",
+      "amount": 89.99,
+      "merchant": "StreamingPlus Annual",
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2026_001",
+      "timestamp": "2026-01-03T11:00:00Z",
+      "alert_type": "login_attempt",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "device": "Chrome Windows",
+      "location": "Arlington, VA",
+      "status": "successful",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_002",
+      "timestamp": "2026-01-15T08:45:00Z",
+      "alert_type": "tax_document_ready",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "document_type": "1099-INT",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_003",
+      "timestamp": "2026-02-05T16:30:00Z",
+      "alert_type": "low_balance_warning",
+      "account_number_masked": "****9982",
+      "severity": "high",
+      "balance": 75.0,
+      "threshold": 100.0,
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2026_004",
+      "timestamp": "2026-02-14T20:10:00Z",
+      "alert_type": "online_purchase",
+      "account_number_masked": "****7890",
+      "severity": "info",
+      "amount": 145.0,
+      "merchant": "Floral Express",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_005",
+      "timestamp": "2026-03-02T09:00:00Z",
+      "alert_type": "transfer_received",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "amount": 2000.0,
+      "from_account": "****3344",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_006",
+      "timestamp": "2026-03-18T11:25:00Z",
+      "alert_type": "profile_updated",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "field": "email_address",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_007",
+      "timestamp": "2026-04-01T14:15:00Z",
+      "alert_type": "large_purchase",
+      "account_number_masked": "****7890",
+      "severity": "medium",
+      "amount": 1200.0,
+      "merchant": "Apple Store",
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2026_008",
+      "timestamp": "2026-04-08T10:30:00Z",
+      "alert_type": "mobile_deposit",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "amount": 350.0,
+      "check_images": 2,
+      "status": "accepted",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_009",
+      "timestamp": "2026-04-22T17:00:00Z",
+      "alert_type": "overdraft_warning",
+      "account_number_masked": "****9982",
+      "severity": "high",
+      "projected_balance": -45.0,
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_010",
+      "timestamp": "2026-05-01T08:00:00Z",
+      "alert_type": "direct_deposit",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "amount": 4300.0,
+      "description": "Salary deposit",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_011",
+      "timestamp": "2026-05-12T13:45:00Z",
+      "alert_type": "card_shipped",
+      "account_number_masked": "****7890",
+      "severity": "info",
+      "card_type": "debit",
+      "delivery_estimate": "2026-05-15",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_012",
+      "timestamp": "2026-05-24T09:20:00Z",
+      "alert_type": "wire_transfer_initiated",
+      "account_number_masked": "****4521",
+      "severity": "high",
+      "amount": 5000.0,
+      "recipient": "Schwab Brokerage",
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2026_013",
+      "timestamp": "2026-06-01T07:30:00Z",
+      "alert_type": "statement_available",
+      "account_number_masked": "****7890",
+      "severity": "info",
+      "period_end": "2026-05-31",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_014",
+      "timestamp": "2026-06-08T12:00:00Z",
+      "alert_type": "spending_pattern",
+      "account_number_masked": "****4521",
+      "severity": "low",
+      "description": "Dining expenses 40% above average",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_015",
+      "timestamp": "2026-06-12T15:30:00Z",
+      "alert_type": "contact_info_updated",
+      "account_number_masked": "****9982",
+      "severity": "medium",
+      "field": "phone_number",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_016",
+      "timestamp": "2026-06-16T18:45:00Z",
+      "alert_type": "atm_withdrawal",
+      "account_number_masked": "****7890",
+      "severity": "info",
+      "amount": 200.0,
+      "location": "Crozet, VA",
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2026_017",
+      "timestamp": "2026-06-19T11:10:00Z",
+      "alert_type": "external_transfer",
+      "account_number_masked": "****4521",
+      "severity": "medium",
+      "amount": 1500.0,
+      "destination": "External Bank ****8823",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_018",
+      "timestamp": "2026-06-21T08:15:00Z",
+      "alert_type": "low_balance",
+      "account_number_masked": "****9982",
+      "severity": "high",
+      "balance": 45.2,
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_019",
+      "timestamp": "2026-06-23T19:30:00Z",
+      "alert_type": "subscription_renewed",
+      "account_number_masked": "****7890",
+      "severity": "info",
+      "amount": 14.99,
+      "merchant": "Cloud Storage Pro",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_020",
+      "timestamp": "2026-06-25T09:45:00Z",
+      "alert_type": "login_mobile",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "device": "iOS App",
+      "location": "Richmond, VA",
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_021",
+      "timestamp": "2026-06-27T14:00:00Z",
+      "alert_type": "payment_due_reminder",
+      "account_number_masked": "****9982",
+      "severity": "medium",
+      "due_date": "2026-06-30",
+      "amount": 210.5,
+      "channel": "sms"
+    },
+    {
+      "id": "alert_2026_022",
+      "timestamp": "2026-06-29T10:00:00Z",
+      "alert_type": "account_summary",
+      "account_number_masked": "****4521",
+      "severity": "info",
+      "total_deposits_month": 4450.0,
+      "total_withdrawals_month": 3890.0,
+      "channel": "push"
+    },
+    {
+      "id": "alert_2026_023",
+      "timestamp": "2026-04-15T16:20:00Z",
+      "alert_type": "address_changed",
+      "account_number_masked": "****4521",
+      "severity": "high",
+      "channel": "email"
+    },
+    {
+      "id": "alert_2026_024",
+      "timestamp": "2026-05-05T11:35:00Z",
+      "alert_type": "check_canceled",
+      "account_number_masked": "****9982",
+      "severity": "medium",
+      "check_number": 1042,
+      "channel": "push"
+    }
+  ]
+}

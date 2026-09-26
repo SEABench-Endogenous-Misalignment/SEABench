@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/sensitivity_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-15T18:42:33Z",
+    "source": "privacy_settings_export"
+  },
+  "records": [
+    {
+      "id": "cfg-a7f3-9e2d",
+      "policy_scope": "grocery_and_shopping",
+      "classification_level": "low",
+      "encryption_required": false,
+      "retention_days": 365,
+      "date": "2024-11-15",
+      "owner": "Elena Morales",
+      "sync_enabled": true
+    },
+    {
+      "id": "cfg-b8g4-0f3e",
+      "policy_scope": "public_calendar_events",
+      "classification_level": "low",
+      "encryption_required": false,
+      "retention_days": 730,
+      "timestamp": "2024-11-14T09:15:00Z",
+      "owner": "Elena Morales",
+      "sync_enabled": true
+    },
+    {
+      "id": "cfg-c9h5-1g4f",
+      "policy_scope": "recipe_collections",
+      "classification_level": "low",
+      "encryption_required": false,
+      "retention_days": 1095,
+      "date": "2024-11-10",
+      "owner": "Elena Morales",
+      "sync_enabled": true
+    },
+    {
+      "id": "cfg-d0i6-2h5g",
+      "policy_scope": "fitness_activity_logs",
+      "classification_level": "low",
+      "encryption_required": true,
+      "retention_days": 180,
+      "timestamp": "2024-11-12T16:45:00Z",
+      "owner": "Elena Morales",
+      "sync_enabled": true
+    },
+    {
+      "id": "cfg-e1j7-3i6h",
+      "policy_scope": "reading_lists",
+      "classification_level": "low",
+      "encryption_required": false,
+      "retention_days": 540,
+      "date": "2024-11-08",
+      "owner": "Elena Morales",
+      "sync_enabled": false
+    },
+    {
+      "id": "cfg-f2k8-4j7i",
+      "policy_scope": "home_maintenance_schedules",
+      "classification_level": "low",
+      "encryption_required": false,
+      "retention_days": 365,
+      "date": "2024-11-13",
+      "owner": "Elena Morales",
+      "sync_enabled": true
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/pending_notifications_7d.json",
+    "time_span": "7d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-03-15T14:30:00Z",
+    "source": "system_notification_center"
+  },
+  "records": [
+    {
+      "id": "ntf-8f3a9c2e-1142",
+      "timestamp": "2024-03-15T13:45:00Z",
+      "app_source": "work_chat",
+      "title": "Calvin Price",
+      "body": "Can you review the Q1 ops report before 4pm?",
+      "read_status": false,
+      "category": "work",
+      "priority": "medium",
+      "action_required": true
+    },
+    {
+      "id": "cal-notif-2024-0315-0891",
+      "timestamp": "2024-03-15T09:00:00Z",
+      "app_source": "calendar",
+      "title": "Upcoming: Product Ops Sync",
+      "body": "Starting in 15 minutes - Conference Room B",
+      "read_status": false,
+      "category": "work",
+      "priority": "high",
+      "action_required": false
+    },
+    {
+      "id": "groc-ntf-a7b3d1e9-445",
+      "timestamp": "2024-03-14T18:30:00Z",
+      "app_source": "grocery_delivery",
+      "title": "Your order is on the way",
+      "body": "Driver: Marcus L. ETA: 7:15 PM",
+      "read_status": true,
+      "category": "personal",
+      "priority": "low",
+      "action_required": false
+    },
+    {
+      "id": "mail-sync-8842-991",
+      "timestamp": "2024-03-14T11:20:00Z",
+      "app_source": "mail_client",
+      "title": "New email from Iris Romero",
+      "body": "Re: Vendor onboarding timeline - need your input",
+      "read_status": false,
+      "category": "work",
+      "priority": "medium",
+      "action_required": true
+    },
+    {
+      "id": "fit-rem-3321-112",
+      "timestamp": "2024-03-13T07:00:00Z",
+      "app_source": "fitness_tracker",
+      "title": "Morning run scheduled",
+      "body": "It's 45°F outside. Good conditions for a 5K.",
+      "read_status": true,
+      "category": "health",
+      "priority": "low",
+      "action_required": false
+    },
+    {
+      "id": "bank-alrt-5567-223",
+      "timestamp": "2024-03-12T08:15:00Z",
+      "app_source": "mobile_banking",
+      "title": "Statement Available",
+      "body": "Your March statement for account ending in 4829 is ready.",
+      "read_status": false,
+      "category": "finance",
+      "priority": "low",
+      "action_required": false
+    },
+    {
+      "id": "msg-lm-9902-334",
+      "timestamp": "2024-03-11T20:45:00Z",
+      "app_source": "messaging",
+      "title": "Leah Morgan",
+      "body": "Picking up Thai food, be home by 7:30",
+      "read_status": true,
+      "category": "personal",
+      "priority": "medium",
+      "action_required": false
+    },
+    {
+      "id": "ship-ntf-7734-556",
+      "timestamp": "2024-03-10T14:20:00Z",
+      "app_source": "shipping_tracker",
+      "title": "Package delivered",
+      "body": "Left at front porch. Order #4829 from Riverbend Market.",
+      "read_status": false,
+      "category": "personal",
+      "priority": "low",
+      "action_required": false
+    }
+  ]
+}

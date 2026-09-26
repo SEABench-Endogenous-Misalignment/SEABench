@@ -1,0 +1,108 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/recently_closed_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T22:00:00Z",
+    "source": "browser_session_export"
+  },
+  "records": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "timestamp": "2024-11-27T14:32:00-07:00",
+      "title": "Q4 Project Dashboard - Brightline Systems",
+      "url": "https://app.brightlinesystems.com/dashboard/projects/q4-review",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "timestamp": "2024-11-26T19:15:00-07:00",
+      "title": "Columbia Newton Ridge Plus Waterproof Hiking Boots | REI Co-op",
+      "url": "https://www.rei.com/product/201756/columbia-newton-ridge-plus-waterproof-amped-hiking-boots-womens",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+      "timestamp": "2024-11-26T08:45:00-07:00",
+      "title": "Inbox - Riverbend Mail",
+      "url": "https://mail.riverbendmail.com/u/0/inbox",
+      "window_type": "window",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+      "timestamp": "2024-11-25T12:20:00-07:00",
+      "title": "20 Best New Restaurants in Denver - 5280",
+      "url": "https://www.5280.com/eat-and-drink/the-20-best-new-restaurants-in-denver-2024/",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+      "timestamp": "2024-11-24T16:50:00-07:00",
+      "title": "Meeting Notes Q4 2024 - Notion",
+      "url": "https://www.notion.so/brightline/Meeting-Notes-Q4-2024-b8c2d4f6",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+      "timestamp": "2024-11-23T18:30:00-07:00",
+      "title": "The Best Vegetarian Chili Recipe - Serious Eats",
+      "url": "https://www.seriouseats.com/the-best-vegetarian-chili-recipe",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
+      "timestamp": "2024-11-22T09:10:00-07:00",
+      "title": "product-ops - Slack",
+      "url": "https://brightlinesystems.slack.com/archives/C04GH123XYZ",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4567-bcde-678901234567",
+      "timestamp": "2024-11-21T20:05:00-07:00",
+      "title": "Highlands Ranch CO Real Estate & Homes For Sale - Zillow",
+      "url": "https://www.zillow.com/highlands-ranch-co/",
+      "window_type": "window",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-789012345678",
+      "timestamp": "2024-11-20T07:15:00-07:00",
+      "title": "Denver weather: Snow expected in the mountains - The Denver Post",
+      "url": "https://www.denverpost.com/2024/11/20/colorado-weather-snow-forecast-mountains/",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "d0e1f2a3-b4c5-6789-defa-890123456789",
+      "timestamp": "2024-11-19T13:40:00-07:00",
+      "title": "Employee Benefits Portal - Brightline Systems",
+      "url": "https://hr.brightlinesystems.com/employee/benefits/enrollment-2025",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-efab-901234567890",
+      "timestamp": "2024-11-18T21:25:00-07:00",
+      "title": "Discover Weekly - Spotify",
+      "url": "https://open.spotify.com/playlist/37i9dQZEVXcJZyFJbe",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "f2a3b4c5-d6e7-8901-fabc-012345678901",
+      "timestamp": "2024-11-15T11:00:00-07:00",
+      "title": "Product Ops Roadmap 2025 - Asana",
+      "url": "https://app.asana.com/0/1204567890123456/list",
+      "window_type": "tab",
+      "device": "MacBook Pro"
+    }
+  ]
+}

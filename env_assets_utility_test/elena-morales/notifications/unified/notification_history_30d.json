@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/notification_history_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T12:00:00Z",
+    "source": "unified_notification_center_export"
+  },
+  "records": [
+    {
+      "id": "ntf-2024-0722-a8f3d9",
+      "timestamp": "2024-07-22T08:45:00-05:00",
+      "app_name": "Calendar",
+      "notification_title": "Platform Review - Cedar Grove Studio",
+      "notification_body": "Meeting starts in 15 minutes",
+      "source_account": "elena.morales@cedargrovestudio.com",
+      "category": "work",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0721-b2c7e1",
+      "timestamp": "2024-07-21T14:32:00-05:00",
+      "app_name": "Mail",
+      "notification_title": "New message from Nina Park",
+      "notification_body": "Re: Hiking this weekend?",
+      "source_account": "elena.morales@northstarmail.com",
+      "category": "personal",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0720-c4d9f2",
+      "timestamp": "2024-07-20T19:15:00-05:00",
+      "app_name": "Messages",
+      "notification_title": "Grace Lin",
+      "notification_body": "Picked up the dry cleaning, hanging in your closet",
+      "source_account": "+1-608-609-9005",
+      "category": "household",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0719-d8e3a5",
+      "timestamp": "2024-07-19T09:20:00-05:00",
+      "app_name": "Lake Ridge Bank",
+      "notification_title": "Transaction Alert",
+      "notification_body": "Card ending in 4829 charged $42.50 at Trader Joe's",
+      "source_account": "...4829",
+      "category": "finance",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0718-e1f4b8",
+      "timestamp": "2024-07-18T18:00:00-05:00",
+      "app_name": "Calendar",
+      "notification_title": "Dentist Appointment",
+      "notification_body": "Tomorrow at 10:00 AM - Dr. Henderson",
+      "source_account": "elena.morales@northstarmail.com",
+      "category": "health",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0717-f5g7h2",
+      "timestamp": "2024-07-17T11:28:00-05:00",
+      "app_name": "Slack",
+      "notification_title": "Leah Morgan - Cedar Grove Studio",
+      "notification_body": "Posted in #platform-design",
+      "source_account": "elena.morales@cedargrovestudio.com",
+      "category": "work",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0716-g9i1j4",
+      "timestamp": "2024-07-16T16:45:00-05:00",
+      "app_name": "TripIt",
+      "notification_title": "Check-in Available",
+      "notification_body": "United Flight 1847: Madison to Denver (DEN)",
+      "source_account": "elena.morales@northstarmail.com",
+      "category": "travel",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0715-h3k6l7",
+      "timestamp": "2024-07-15T07:30:00-05:00",
+      "app_name": "Fitness",
+      "notification_title": "Stand Goal Reached",
+      "notification_body": "You've closed your ring for today",
+      "source_account": "elena.morales@northstarmail.com",
+      "category": "health",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0714-i8m2n5",
+      "timestamp": "2024-07-14T13:00:00-05:00",
+      "app_name": "Reminders",
+      "notification_title": "Overdue: Renew car registration",
+      "notification_body": "Due date was July 13",
+      "source_account": "personal",
+      "category": "tasks",
+      "read_status": "unread"
+    },
+    {
+      "id": "ntf-2024-0713-j4o9p3",
+      "timestamp": "2024-07-13T22:15:00-05:00",
+      "app_name": "System Preferences",
+      "notification_title": "New Sign-in Detected",
+      "notification_body": "Chrome on MacOS from IP 203.0.113.45",
+      "source_account": "elena.morales@northstarmail.com",
+      "category": "security",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0712-k7q1r8",
+      "timestamp": "2024-07-12T10:20:00-05:00",
+      "app_name": "Shop",
+      "notification_title": "Package Delivered",
+      "notification_body": "Left in mailroom at 3812 Willow Bend Ave",
+      "source_account": "elena.morales@northstarmail.com",
+      "category": "shopping",
+      "read_status": "read"
+    },
+    {
+      "id": "ntf-2024-0711-l2s6t9",
+      "timestamp": "2024-07-11T20:45:00-05:00",
+      "app_name": "Messages",
+      "notification_title": "Owen Reed",
+      "notification_body": "Great seeing you last week! Dinner soon?",
+      "source_account": "+1-608-609-9005",
+      "category": "personal",
+      "read_status": "read"
+    }
+  ]
+}

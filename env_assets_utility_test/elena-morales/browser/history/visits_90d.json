@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/visits_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T14:30:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "visit_a3f7b2d9e8c1",
+      "url": "https://app.cedargrovestudio.com/platform/dashboard",
+      "title": "Platform Dashboard - Cedar Grove Studio",
+      "timestamp": "2024-07-22T09:15:30-05:00",
+      "visit_duration_seconds": 420,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_b8e4c1f5a2d7",
+      "url": "https://app.notion.so/cedargrovestudio/roadmap-q3-2024",
+      "title": "Q3 2024 Roadmap - Notion",
+      "timestamp": "2024-07-21T14:32:00-05:00",
+      "visit_duration_seconds": 685,
+      "transition_type": "typed"
+    },
+    {
+      "id": "visit_c2d9e8a1b4f6",
+      "url": "https://mail.northstarmail.com/inbox",
+      "title": "Inbox - North Star Mail",
+      "timestamp": "2024-07-21T08:45:15-05:00",
+      "visit_duration_seconds": 180,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_d1a5f3c8e9b2",
+      "url": "https://www.figma.com/file/xK9m3vQ8/design-system-v2",
+      "title": "Design System v2 - Figma",
+      "timestamp": "2024-07-20T16:20:00-05:00",
+      "visit_duration_seconds": 920,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_e7b2c4d1a8f5",
+      "url": "https://github.com/cedargrove/analytics-module/pull/342",
+      "title": "PR #342: Analytics Module Updates - GitHub",
+      "timestamp": "2024-07-19T11:05:00-05:00",
+      "visit_duration_seconds": 340,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_f9c3e8b2d1a7",
+      "url": "https://madison.com/news/local/government/transportation/article_8f4c9e2b.html",
+      "title": "Madison Metro Transit Updates - Wisconsin State Journal",
+      "timestamp": "2024-07-18T19:15:00-05:00",
+      "visit_duration_seconds": 145,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_a1d5f8c3e9b4",
+      "url": "https://www.linkedin.com/in/elena-morales-8a9b2c1d/",
+      "title": "Elena Morales - LinkedIn Profile",
+      "timestamp": "2024-07-17T12:30:00-05:00",
+      "visit_duration_seconds": 210,
+      "transition_type": "typed"
+    },
+    {
+      "id": "visit_b6e2a9c4f1d8",
+      "url": "https://www.instacart.com/store/checkout",
+      "title": "Checkout - Instacart",
+      "timestamp": "2024-07-16T18:45:00-05:00",
+      "visit_duration_seconds": 380,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_c8f1b5d3a9e2",
+      "url": "https://medium.com/platform-design/okr-frameworks-for-product-teams",
+      "title": "OKR Frameworks for Product Teams - Medium",
+      "timestamp": "2024-07-15T20:00:00-05:00",
+      "visit_duration_seconds": 560,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_d4a7c2e8b1f9",
+      "url": "https://weather.com/weather/today/l/53716",
+      "title": "Madison, WI Weather Forecast",
+      "timestamp": "2024-07-14T07:30:00-05:00",
+      "visit_duration_seconds": 45,
+      "transition_type": "reload"
+    },
+    {
+      "id": "visit_e2b9f5c1d8a3",
+      "url": "https://open.spotify.com/playlist/3a9b2c4d5e6f7g8h",
+      "title": "Focus Music - Spotify",
+      "timestamp": "2024-07-10T15:45:00-05:00",
+      "visit_duration_seconds": 1800,
+      "transition_type": "auto_bookmark"
+    },
+    {
+      "id": "visit_f1c8e3b9a2d6",
+      "url": "https://www.target.com/s?searchTerm=office+chair",
+      "title": "Search: office chair - Target",
+      "timestamp": "2024-07-08T21:20:00-05:00",
+      "visit_duration_seconds": 240,
+      "transition_type": "typed"
+    },
+    {
+      "id": "visit_a7d2f9c5e1b8",
+      "url": "https://docs.google.com/document/d/1a2b3c4d5e6f7g8h9i0j/edit",
+      "title": "Q3 Planning Doc - Google Docs",
+      "timestamp": "2024-07-05T10:15:00-05:00",
+      "visit_duration_seconds": 1200,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_b3e8a1c9f4d2",
+      "url": "https://substack.com/inbox/post/tech-tuesday-42",
+      "title": "Tech Tuesday #42 - Substack",
+      "timestamp": "2024-07-01T08:00:00-05:00",
+      "visit_duration_seconds": 320,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_c9f4b2d8a1e7",
+      "url": "https://app.asana.com/0/projects/2193847562",
+      "title": "Platform Redesign - Asana",
+      "timestamp": "2024-06-28T13:30:00-05:00",
+      "visit_duration_seconds": 480,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_d8a1e7c3f9b5",
+      "url": "https://www.library.wisc.edu/research/guides/",
+      "title": "Research Guides - UW-Madison Libraries",
+      "timestamp": "2024-06-25T16:00:00-05:00",
+      "visit_duration_seconds": 95,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_e5c9f2b8d1a4",
+      "url": "https://www.netflix.com/title/80234304",
+      "title": "The Design Show - Netflix",
+      "timestamp": "2024-06-20T19:30:00-05:00",
+      "visit_duration_seconds": 2400,
+      "transition_type": "link"
+    },
+    {
+      "id": "visit_f2d8a4c1e9b7",
+      "url": "https://www.amazon.com/gp/order-history",
+      "title": "Your Orders - Amazon",
+      "timestamp": "2024-06-15T11:45:00-05:00",
+      "visit_duration_seconds": 180,
+      "transition_type": "typed"
+    },
+    {
+      "id": "visit_a9b3e7c2f1d8",
+      "url": "https://www.google.com/search?q=accessibility+testing+tools",
+      "title": "accessibility testing tools - Google Search",
+      "timestamp": "2024-06-10T09:30:00-05:00",
+      "visit_duration_seconds": 155,
+      "transition_type": "typed"
+    },
+    {
+      "id": "visit_b1f6d9a5c3e2",
+      "url": "https://wiki.cedargrovestudio.com/internal/onboarding",
+      "title": "Internal Onboarding - Cedar Grove Studio Wiki",
+      "timestamp": "2024-04-25T10:00:00-05:00",
+      "visit_duration_seconds": 200,
+      "transition_type": "link"
+    }
+  ]
+}

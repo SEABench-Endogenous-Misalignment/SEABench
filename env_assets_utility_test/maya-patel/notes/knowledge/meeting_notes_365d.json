@@ -1,0 +1,1012 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/meeting_notes_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T19:15:32Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "MN-2024-2847",
+      "title": "Weekly Design Sync: Component Status",
+      "date": "2024-10-18T10:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "team_sync",
+      "location": "Zoom",
+      "content": "Reviewed progress on button component variants. Decision made to deprecate legacy size tokens by end of Q4. Need to update documentation site with new usage guidelines. Iris to follow up on icon alignment issues in Safari.",
+      "tags": [
+        "design-system",
+        "weekly-sync",
+        "components"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2831",
+      "title": "1:1 with Leah Morgan",
+      "date": "2024-10-15T14:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "1:1",
+      "location": "Conference Room B",
+      "content": "Discussed team bandwidth for Q4 initiatives. Leah expressed concern about migration timeline for the old icon library. Agreed to extend deadline by two weeks. Also covered upcoming performance review schedule and conference attendance for 2025.",
+      "tags": [
+        "1:1",
+        "management",
+        "planning"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2815",
+      "title": "Client Strategy: Acme Corp Platform Refresh",
+      "date": "2024-10-10T11:30:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Sarah Jenkins",
+          "email": "s.jenkins@acmecorp.com"
+        }
+      ],
+      "meeting_type": "client_meeting",
+      "location": "Google Meet",
+      "content": "Presented initial design system audit findings. Client concerned about color contrast ratios in data visualization components. Action items: Provide alternative palette options by Oct 17, schedule deep-dive on accessibility compliance next week.",
+      "tags": [
+        "client",
+        "acme-corp",
+        "accessibility",
+        "strategy"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2799",
+      "title": "Q4 Planning Kickoff",
+      "date": "2024-10-03T09:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "planning",
+      "location": "Main Conference Room + Zoom",
+      "content": "Established Q4 OKRs for Design Systems team. Primary goal: Complete v3.0 migration for 80% of production applications. Secondary: Launch internal documentation redesign. Blockers identified: dependency on Platform team for caching infrastructure.",
+      "tags": [
+        "planning",
+        "q4",
+        "okrs",
+        "strategy"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2782",
+      "title": "Design Ops Review",
+      "date": "2024-09-27T13:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "review",
+      "location": "Zoom",
+      "content": "Reviewed Figma library analytics. 45% increase in component usage over last month. Identified 12 unused components candidates for deprecation. Discussed file organization cleanup scheduled for next maintenance window.",
+      "tags": [
+        "design-ops",
+        "analytics",
+        "maintenance"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2765",
+      "title": "Accessibility Audit Results Review",
+      "date": "2024-09-20T10:30:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Jordan Blake",
+          "email": "j.blake@accessconsulting.com"
+        }
+      ],
+      "meeting_type": "review",
+      "location": "Microsoft Teams",
+      "content": "Third-party audit revealed 8 critical issues in form component patterns. High priority fixes needed for date picker and multi-select dropdowns. Budget approved for remediation work. Target WCAG 2.1 AA compliance by November 15.",
+      "tags": [
+        "accessibility",
+        "audit",
+        "compliance",
+        "wcag"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2748",
+      "title": "Component Library Governance Meeting",
+      "date": "2024-09-16T15:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Derek Huang",
+          "email": "derek.huang@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "governance",
+      "location": "Conference Room 304",
+      "content": "Finalized contribution guidelines for external teams. New process requires design review before PR submission. Derek to update CI pipeline to check for token compliance. Agreement on semantic versioning strategy for breaking changes.",
+      "tags": [
+        "governance",
+        "components",
+        "contribution",
+        "process"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2731",
+      "title": "Vendor Evaluation: Figma Plugin Suite",
+      "date": "2024-09-10T11:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        },
+        {
+          "name": "Alex Rivera",
+          "email": "alex.rivera@designsync.io"
+        }
+      ],
+      "meeting_type": "vendor_review",
+      "location": "Zoom",
+      "content": "Demonstration of new token synchronization features. Pricing model discussed: $12/seat/month. Concerns about data residency and SOC2 compliance. Requested security documentation. Pilot program proposal tentative for October.",
+      "tags": [
+        "vendor",
+        "figma",
+        "tools",
+        "evaluation"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2714",
+      "title": "Cross-functional: Engineering Handoff Process",
+      "date": "2024-08-28T14:30:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Sam Torres",
+          "email": "sam.torres@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "cross_functional",
+      "location": "Combined Teams Area",
+      "content": "Streamlined handoff documentation requirements. Agreed on using Storybook as source of truth for component specs. Design to provide interaction states in Figma comments. Weekly sync established to review implementation fidelity.",
+      "tags": [
+        "handoff",
+        "engineering",
+        "cross-functional",
+        "process"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2697",
+      "title": "1:1 with Calvin Price",
+      "date": "2024-08-21T16:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "1:1",
+      "location": "Coffee Shop - Downtown",
+      "content": "Career development discussion. Calvin interested in moving into design ops full-time. Identified skill gaps in analytics and project management. Plan to assign mentorship with Grace for next quarter. Budget approved for DesignOps Summit registration.",
+      "tags": [
+        "1:1",
+        "career-development",
+        "design-ops"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2680",
+      "title": "Quarterly Review: Design Metrics",
+      "date": "2024-08-15T10:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "review",
+      "location": "Zoom",
+      "content": "Q3 metrics review: Component adoption rate at 78% (target 75%). Time-to-production reduced by 15%. NPS from internal designers increased to 42. Challenges: legacy page migration slower than expected. Adjusting Q4 projections accordingly.",
+      "tags": [
+        "metrics",
+        "quarterly-review",
+        "kpi"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2663",
+      "title": "Workshop: Design Tokens 101",
+      "date": "2024-08-09T13:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        },
+        {
+          "name": "Taylor Brooks",
+          "email": "taylor.brooks@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "workshop",
+      "location": "Training Room 2",
+      "content": "Onboarding session for new UX team members. Covered token hierarchy, naming conventions, and Figma variables. Hands-on exercise creating a semantic token set. Feedback: session length appropriate, need more examples for dark mode patterns.",
+      "tags": [
+        "workshop",
+        "training",
+        "design-tokens",
+        "onboarding"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2646",
+      "title": "Client Presentation: Widget Inc Rebrand",
+      "date": "2024-08-05T11:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@harborinbox.com"
+        },
+        {
+          "name": "Robert Chen",
+          "email": "r.chen@widgetinc.com"
+        }
+      ],
+      "meeting_type": "client_meeting",
+      "location": "Widget Inc Headquarters",
+      "content": "Final presentation of revised brand system. Client approved color palette and typography scale. Outstanding items: motion design guidelines and voice/tone documentation. Project timeline extended by three weeks to accommodate additional stakeholder feedback cycles.",
+      "tags": [
+        "client",
+        "widget-inc",
+        "rebrand",
+        "presentation"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2629",
+      "title": "Retrospective: Q2 Delivery Cycle",
+      "date": "2024-07-22T14:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "retrospective",
+      "location": "Offsite Location - Preserved Restaurant",
+      "content": "Went well: Early involvement of engineering in design process, new prototyping tools. Could improve: Communication of breaking changes, documentation update speed. Action items: Implement changelogs, establish office hours for support.",
+      "tags": [
+        "retrospective",
+        "q2",
+        "process-improvement"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2612",
+      "title": "Team Offsite Planning",
+      "date": "2024-07-16T10:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "planning",
+      "location": "Zoom",
+      "content": "Planning fall team offsite in Cleveland. Considering design museum visit and team building activities. Budget capped at $3,500. Need to book venue by end of month. Accessibility requirements for team member with mobility considerations to be confirmed.",
+      "tags": [
+        "offsite",
+        "planning",
+        "team-building",
+        "budget"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2595",
+      "title": "1:1 with Iris Romero",
+      "date": "2024-07-11T15:30:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "1:1",
+      "location": "Conference Room B",
+      "content": "Project workload check-in. Iris feeling stretched between component library maintenance and client project support. Discussed prioritization framework. Agreed to delay non-critical updates to focus on Acme Corp deliverables. Check-in again in two weeks.",
+      "tags": [
+        "1:1",
+        "workload",
+        "prioritization"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2578",
+      "title": "Executive Review: Brand Refresh Initiative",
+      "date": "2024-07-02T09:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "David Park",
+          "email": "david.park@brightlinesystems.com"
+        },
+        {
+          "name": "Susan Wright",
+          "email": "s.wright@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "executive_review",
+      "location": "Boardroom",
+      "content": "Presented brand refresh progress to executive team. Concerns raised about timeline overlap with product launch. Decision made to phase rollout: internal tools first, public-facing second. Additional resources approved for duration of October.",
+      "tags": [
+        "executive",
+        "brand",
+        "strategy",
+        "review"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2561",
+      "title": "Mid-year Goal Setting",
+      "date": "2024-06-24T13:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "review",
+      "location": "Zoom",
+      "content": "Reviewed progress on annual objectives. Met 3 of 5 goals so far. Adjusted targets for component adoption based on platform team delays. New focus: documentation quality and training completion rates. Professional development goal: complete advanced design systems certificate program.",
+      "tags": [
+        "goals",
+        "performance",
+        "mid-year",
+        "review"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2544",
+      "title": "Design System AMA",
+      "date": "2024-06-18T11:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "q_and_a",
+      "location": "All-hands Virtual",
+      "content": "Open forum for company-wide questions about design system usage. Common themes: customization boundaries, override policies, and support response times. Announced new Slack channel for quick questions. Recorded session for async viewing.",
+      "tags": [
+        "ama",
+        "q&a",
+        "adoption",
+        "community"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2527",
+      "title": "Workshop: Naming Conventions",
+      "date": "2024-06-11T14:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "workshop",
+      "location": "Design Lab",
+      "content": "Collaborative session to standardize naming conventions across tokens, components, and layers. Established BEM-inspired methodology for CSS classes. Created decision tree for when to create new tokens vs using existing. Documentation updated in Notion.",
+      "tags": [
+        "workshop",
+        "naming",
+        "conventions",
+        "standards"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2510",
+      "title": "Client Call: TechStart Solutions",
+      "date": "2024-06-06T10:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@harborinbox.com"
+        },
+        {
+          "name": "Jennifer Walsh",
+          "email": "j.walsh@techstartsolutions.com"
+        }
+      ],
+      "meeting_type": "client_meeting",
+      "location": "Zoom",
+      "content": "Kickoff call for dashboard redesign project. TechStart needs data-heavy UI components optimized for tablet use. Discussed technical constraints: must support older Android WebView versions. Deliverables due: wireframes by June 20, high-fidelity by July 15.",
+      "tags": [
+        "client",
+        "techstart",
+        "kickoff",
+        "requirements"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2493",
+      "title": "Budget Review: Tools & Licenses",
+      "date": "2024-05-29T11:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Finance Team",
+          "email": "procurement@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "budget_review",
+      "location": "Finance Conference Room",
+      "content": "Annual software license audit. Figma seats: 45 active, 3 dormant to remove. Storybook license renewal approved. New request: Poliigon textures for marketing team (denied, out of scope). Budget variance within 2% of forecast.",
+      "tags": [
+        "budget",
+        "tools",
+        "licenses",
+        "procurement"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2476",
+      "title": "1:1 with Grace Lin",
+      "date": "2024-05-21T16:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "1:1",
+      "location": "Walking Meeting - Riverfront Trail",
+      "content": "Check-in on component documentation project. Grace excelling at technical writing. Expressed interest in leading design tokens architecture next quarter. Supported proposal for attending Config 2025. Concerns about noise levels in open office plan discussed.",
+      "tags": [
+        "1:1",
+        "career",
+        "documentation",
+        "feedback"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2459",
+      "title": "Cross-functional: Product Sync",
+      "date": "2024-05-14T09:30:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Product Team Leads",
+          "email": "product@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "cross_functional",
+      "location": "Main Conference Room",
+      "content": "Aligned on roadmap dependencies for H2. Design system blocking: data visualization components needed by August for analytics feature launch. Product team committed to providing user research findings by June 1. Established bi-weekly sync to prevent drift.",
+      "tags": [
+        "cross-functional",
+        "product",
+        "roadmap",
+        "dependencies"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2442",
+      "title": "Design Critique: Mobile App Navigation",
+      "date": "2024-05-09T14:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@harborinbox.com"
+        }
+      ],
+      "meeting_type": "critique",
+      "location": "Design Studio",
+      "content": "Reviewed mobile navigation patterns for consumer app. Feedback: gesture controls not discoverable enough, icon metaphors confusing. Decision to implement tab bar for primary navigation with hamburger for secondary. Elena suggested progressive disclosure pattern from her previous work at Spotify.",
+      "tags": [
+        "critique",
+        "mobile",
+        "navigation",
+        "ux"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2425",
+      "title": "All-hands Prep: Design Systems Impact",
+      "date": "2024-05-02T10:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "planning",
+      "location": "Zoom",
+      "content": "Preparing 10-minute presentation for company all-hands. Key messages: 40% faster design-to-dev handoff, $200K saved in redundant design work. Created slide deck highlighting before/after metrics. Rehearsal scheduled for May 6.",
+      "tags": [
+        "all-hands",
+        "presentation",
+        "prep",
+        "metrics"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2408",
+      "title": "Strategy: 2024 H2 Priorities",
+      "date": "2024-04-24T13:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "strategy",
+      "location": "Executive Boardroom",
+      "content": "Strategic planning for second half. Three pillars: Scale (more teams onboarded), Quality (accessibility compliance), Education (internal academy). Resource allocation: hire one senior designer and one design technologist. Budget approved contingent on Q1 2024 performance review.",
+      "tags": [
+        "strategy",
+        "h2",
+        "planning",
+        "hiring"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2391",
+      "title": "Vendor Onboarding: Anima",
+      "date": "2024-04-18T11:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        },
+        {
+          "name": "Security Team",
+          "email": "security@brightlinesystems.com"
+        },
+        {
+          "name": "Anima Rep",
+          "email": "success@anima.io"
+        }
+      ],
+      "meeting_type": "vendor_review",
+      "location": "Zoom",
+      "content": "Security review and onboarding for Anima design-to-code platform. SOC2 Type II verified. Integration with GitHub Enterprise approved. Pilot group: 5 designers for 30 days. Security team requested additional DPA signed before full rollout.",
+      "tags": [
+        "vendor",
+        "onboarding",
+        "anima",
+        "security"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2374",
+      "title": "1:1 with Leah Morgan",
+      "date": "2024-04-11T15:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "1:1",
+      "location": "Conference Room B",
+      "content": "Regular check-in. Discussed upcoming reorganization rumors. Leah assured team stability for next quarter. Feedback received: team would benefit from more visibility into roadmap decisions. Action item: Leah to share quarterly planning docs with broader team earlier in cycle.",
+      "tags": [
+        "1:1",
+        "management",
+        "communication"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2357",
+      "title": "Workshop: Accessibility Standards",
+      "date": "2024-04-08T09:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Full Design Team",
+          "email": "design@brightlinesystems.com"
+        }
+      ],
+      "meeting_type": "workshop",
+      "location": "Training Center",
+      "content": "Mandatory training on WCAG 2.1 guidelines. Covered keyboard navigation, screen reader testing with NVDA/JAWS, and color contrast requirements. Hands-on audit of existing components. homework: Audit one feature area and report findings by April 15.",
+      "tags": [
+        "workshop",
+        "accessibility",
+        "training",
+        "wcag"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2340",
+      "title": "Financial Planning with Nina",
+      "date": "2024-03-20T19:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@harborinbox.com"
+        }
+      ],
+      "meeting_type": "personal",
+      "location": "Home Office",
+      "content": "Quarterly budget review for household. Discussed kitchen renovation savings goal: need $8K more by September. Reviewed investment portfolio rebalancing. Decision to increase 401K contributions by 2%. Also planned summer vacation budget to Lake Erie.",
+      "tags": [
+        "personal",
+        "financial-planning",
+        "household",
+        "budget"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2323",
+      "title": "Laurel Creek HOA Meeting",
+      "date": "2024-02-15T19:30:00-05:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@harborinbox.com"
+        },
+        {
+          "name": "Neighbors",
+          "email": "hoa@laurelcreek.org"
+        }
+      ],
+      "meeting_type": "personal",
+      "location": "Community Center",
+      "content": "Reviewed landscaping contract renewal. Vote passed for new playground equipment in south lot. Concerns raised about street parking during Steelers games. Maya volunteered to help with spring cleanup coordination. Next meeting: April 18.",
+      "tags": [
+        "personal",
+        "hoa",
+        "community",
+        "home"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2024-2306",
+      "title": "Career Coaching Session: Owen Reed",
+      "date": "2024-01-22T18:00:00-05:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@protonmail.com"
+        }
+      ],
+      "meeting_type": "personal",
+      "location": "Commonplace Coffee - Downtown",
+      "content": "Monthly mentoring session with Owen. He's transitioning from graphic design to UX. Reviewed his portfolio case studies. Advised on salary negotiation for upcoming job offer at CivicTech. Introductions made to hiring manager at Brightline for junior role.",
+      "tags": [
+        "personal",
+        "mentoring",
+        "career",
+        "coaching"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2023-2289",
+      "title": "Neighborhood Watch Planning",
+      "date": "2023-12-12T19:00:00-05:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@harborinbox.com"
+        },
+        {
+          "name": "Local Residents",
+          "email": "watch@laurelcreek.org"
+        }
+      ],
+      "meeting_type": "personal",
+      "location": "Fire Station 34 Community Room",
+      "content": "Organizing holiday season safety patrols. Discussion of new camera installation at north entrance. Elena offered to design flyers for package theft awareness. Scheduled social event for January 15. Police liaison Officer Harris provided crime statistics for area.",
+      "tags": [
+        "personal",
+        "community",
+        "safety",
+        "planning"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2023-2272",
+      "title": "Volunteer Coordination: Education Fund",
+      "date": "2023-11-08T17:30:00-05:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@harborinbox.com"
+        }
+      ],
+      "meeting_type": "personal",
+      "location": "Carnegie Library - Squirrel Hill",
+      "content": "Planning for annual scholarship fundraiser. Priya leading venue coordination. Maya handling digital marketing and design assets. Goal to raise $25K for local STEM programs. Silent auction items needed by December 1. Website updates required: add donor wall section.",
+      "tags": [
+        "personal",
+        "volunteer",
+        "fundraising",
+        "non-profit"
+      ],
+      "created_by": "Maya Patel"
+    },
+    {
+      "id": "MN-2023-2255",
+      "title": "Board Meeting: Pittsburgh Education Alliance",
+      "date": "2023-10-25T18:00:00-04:00",
+      "participants": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Board Members",
+          "email": "board@pgha.org"
+        }
+      ],
+      "meeting_type": "personal",
+      "location": "Virtual - Zoom",
+      "content": "Q3 financial review. Donations down 8% from last year. Strategic pivot to focus on after-school coding programs in underserved neighborhoods. Maya appointed to lead communications committee. Next steps: board retreat planning for January.",
+      "tags": [
+        "personal",
+        "board",
+        "non-profit",
+        "education"
+      ],
+      "created_by": "Maya Patel"
+    }
+  ]
+}

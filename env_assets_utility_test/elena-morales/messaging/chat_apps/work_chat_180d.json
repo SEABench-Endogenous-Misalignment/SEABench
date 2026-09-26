@@ -1,0 +1,552 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/work_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T14:35:00Z",
+    "source": "slack_workspace_export"
+  },
+  "records": [
+    {
+      "id": "1706191800.001001",
+      "timestamp": "2024-01-25T14:30:00Z",
+      "channel": "user-research",
+      "sender": {
+        "user_id": "U07K3M8N2P",
+        "display_name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "content": "Just uploaded the moderated session recordings from last week's usability tests. Key finding: 70% of participants struggled with the navigation hierarchy. Link in thread.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "eyes",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1706192100.001002",
+      "timestamp": "2024-01-25T14:35:00Z",
+      "channel": "user-research",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Thanks Iris. Can you add the timestamps for the critical moments to the Miro board before our sync tomorrow?",
+      "thread_ts": null,
+      "mentions": [
+        "@iris.romero"
+      ],
+      "reactions": []
+    },
+    {
+      "id": "1707728100.002003",
+      "timestamp": "2024-02-12T09:15:00Z",
+      "channel": "engineering-partners",
+      "sender": {
+        "user_id": "U07B4C5D6E",
+        "display_name": "Calvin Price",
+        "email": "calvin.price@cedargrovestudio.com"
+      },
+      "content": "Quick check: are we updating the design tokens for the new color palette in this sprint or next? Need to coordinate with the component library migration.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1709142300.003004",
+      "timestamp": "2024-02-28T16:45:00Z",
+      "channel": "platform-design",
+      "sender": {
+        "user_id": "U07C7D8E9F",
+        "display_name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "content": "Figma file for the checkout revision is ready for review. I've addressed the contrast issues flagged in the audit. @channel please comment by EOD.",
+      "thread_ts": null,
+      "mentions": [
+        "@channel"
+      ],
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1709143200.003005",
+      "timestamp": "2024-02-28T17:00:00Z",
+      "channel": "platform-design",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Left notes on screen 4 and 7. Overall direction looks solid.",
+      "thread_ts": "1709142300.003004",
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1709647200.004006",
+      "timestamp": "2024-03-05T11:20:00Z",
+      "channel": "general",
+      "sender": {
+        "user_id": "U07D9E0F1G",
+        "display_name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "content": "Moving standup to 10:30am today so I can finish the API integration testing first.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "ok",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1710426600.005007",
+      "timestamp": "2024-03-14T13:10:00Z",
+      "channel": "product-ops",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Do we have finalized dates for the Q2 roadmap review? Need to book the offsite space by Friday.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1710427500.005008",
+      "timestamp": "2024-03-14T13:25:00Z",
+      "channel": "product-ops",
+      "sender": {
+        "user_id": "U07E2F3G4H",
+        "display_name": "Jordan Taylor",
+        "email": "jordan.taylor@cedargrovestudio.com"
+      },
+      "content": "Targeting March 28th. I'll confirm by EOD after checking with Finance.",
+      "thread_ts": "1710426600.005007",
+      "mentions": [
+        "@elena.morales"
+      ],
+      "reactions": []
+    },
+    {
+      "id": "1711629600.006009",
+      "timestamp": "2024-03-28T10:00:00Z",
+      "channel": "general",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Heads up: I'll be OOO next Tuesday for a personal appointment. Leah is covering the stakeholder review.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "ok_hand",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "1711629900.006010",
+      "timestamp": "2024-03-28T10:05:00Z",
+      "channel": "general",
+      "sender": {
+        "user_id": "U07B4C5D6E",
+        "display_name": "Calvin Price",
+        "email": "calvin.price@cedargrovestudio.com"
+      },
+      "content": "Got it covered. Send over the deck by Monday evening?",
+      "thread_ts": "1711629600.006009",
+      "mentions": [
+        "@elena.morales"
+      ],
+      "reactions": []
+    },
+    {
+      "id": "1712767800.007011",
+      "timestamp": "2024-04-10T15:30:00Z",
+      "channel": "project-nova",
+      "sender": {
+        "user_id": "U07K3M8N2P",
+        "display_name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "content": "Client sent over the consolidated feedback from their legal team. Most concerning is the data retention clause in section 3.2. We need to assess technical feasibility before Friday.",
+      "thread_ts": null,
+      "mentions": [
+        "@elena.morales",
+        "@calvin.price"
+      ],
+      "reactions": [
+        {
+          "name": "warning",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1713776400.008012",
+      "timestamp": "2024-04-22T09:00:00Z",
+      "channel": "platform-design",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Scheduling the design critique for Thursday 2pm. Mandatory for Platform Design, optional for eng partners. Calendar invites going out shortly.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "calendar",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1714736700.009013",
+      "timestamp": "2024-05-03T11:45:00Z",
+      "channel": "design-system",
+      "sender": {
+        "user_id": "U07C7D8E9F",
+        "display_name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "content": "Updated the typography scale documentation to reflect the new weights we shipped last week. Also added usage guidelines for data-dense interfaces.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1714737600.009014",
+      "timestamp": "2024-05-03T12:00:00Z",
+      "channel": "design-system",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "This is exactly what the client team needed. Forwarding to them now.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "100",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1715788800.010015",
+      "timestamp": "2024-05-15T14:20:00Z",
+      "channel": "engineering-partners",
+      "sender": {
+        "user_id": "U07D9E0F1G",
+        "display_name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "content": "Found a regression in the preview environment: the modal overlay is rendering below the header z-index. Blocking UAT until fixed.",
+      "thread_ts": null,
+      "mentions": [
+        "@calvin.price"
+      ],
+      "reactions": [
+        {
+          "name": "rotating_light",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1715794800.010016",
+      "timestamp": "2024-05-15T16:00:00Z",
+      "channel": "engineering-partners",
+      "sender": {
+        "user_id": "U07B4C5D6E",
+        "display_name": "Calvin Price",
+        "email": "calvin.price@cedargrovestudio.com"
+      },
+      "content": "Fix deployed to staging. z-index scaling issue from the token update. Grace can you verify?",
+      "thread_ts": "1715788800.010015",
+      "mentions": [
+        "@grace.lin"
+      ],
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1716916200.011017",
+      "timestamp": "2024-05-28T17:30:00Z",
+      "channel": "product-ops",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Sprint retro notes are in Confluence. Action items: 1) Reduce WIP limit to 3, 2) Earlier design-dev handoff (Tuesday mid-day), 3) Async documentation review.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "memo",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1717587300.012018",
+      "timestamp": "2024-06-05T10:15:00Z",
+      "channel": "platform-design",
+      "sender": {
+        "user_id": "U07K3M8N2P",
+        "display_name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "content": "Accessibility audit results are in. We have 12 WCAG 2.1 AA violations, mostly color contrast and missing aria-labels on the new navigation components. Spreadsheet attached.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "accessibility",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1717590000.012019",
+      "timestamp": "2024-06-05T11:00:00Z",
+      "channel": "platform-design",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Assigning the high priority items to this sprint. Leah, can you pair with Grace on the navigation fixes?",
+      "thread_ts": null,
+      "mentions": [
+        "@leah.morgan",
+        "@grace.lin"
+      ],
+      "reactions": [
+        {
+          "name": "ok",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "id": "1718717100.013020",
+      "timestamp": "2024-06-18T13:45:00Z",
+      "channel": "product-ops",
+      "sender": {
+        "user_id": "U07F5G6H7I",
+        "display_name": "Sam Patel",
+        "email": "sam.patel@cedargrovestudio.com"
+      },
+      "content": "Q2 metrics are finalized. CSAT up 12%, time-to-completion down 8%. Deck is in the shared drive for the board presentation.",
+      "thread_ts": null,
+      "mentions": [
+        "@elena.morales"
+      ],
+      "reactions": [
+        {
+          "name": "chart_with_upwards_trend",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "1718718000.013021",
+      "timestamp": "2024-06-18T14:00:00Z",
+      "channel": "product-ops",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Excellent work team. Let's highlight the checkout flow improvements specifically—that's where we saw the biggest gains.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "clap",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1719331200.014022",
+      "timestamp": "2024-06-25T16:00:00Z",
+      "channel": "general",
+      "sender": {
+        "user_id": "U07C7D8E9F",
+        "display_name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "content": "🚀 We just shipped the redesigned mobile navigation to 100% of users! Huge thanks to everyone who pulled extra hours this week.",
+      "thread_ts": null,
+      "mentions": [
+        "@channel"
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "count": 8
+        },
+        {
+          "name": "rocket",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "id": "1719333000.014023",
+      "timestamp": "2024-06-25T16:30:00Z",
+      "channel": "general",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Proud of this team. The early metrics look promising—bounce rate already down 4% in the first two hours.",
+      "thread_ts": "1719331200.014022",
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "heart",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "1720427400.015024",
+      "timestamp": "2024-07-08T09:30:00Z",
+      "channel": "engineering-partners",
+      "sender": {
+        "user_id": "U07B4C5D6E",
+        "display_name": "Calvin Price",
+        "email": "calvin.price@cedargrovestudio.com"
+      },
+      "content": "Technical question: Are we using the new shadow tokens from @design-system v2.4 yet, or should I hold off until the next cycle?",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1720428300.015025",
+      "timestamp": "2024-07-08T09:45:00Z",
+      "channel": "engineering-partners",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Go ahead and implement. Leah confirmed the tokens are stable. Just update the documentation when you do.",
+      "thread_ts": "1720427400.015024",
+      "mentions": [
+        "@calvin.price"
+      ],
+      "reactions": [
+        {
+          "name": "ok_hand",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "1720778400.016026",
+      "timestamp": "2024-07-12T12:00:00Z",
+      "channel": "general",
+      "sender": {
+        "user_id": "U07D9E0F1G",
+        "display_name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "content": "Ordering from that new Thai place on Gorham for lunch. Let me know by 12:30 if you want in.",
+      "thread_ts": null,
+      "mentions": [],
+      "reactions": [
+        {
+          "name": "ramen",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1721301600.017027",
+      "timestamp": "2024-07-18T14:00:00Z",
+      "channel": "product-ops",
+      "sender": {
+        "user_id": "U07A1B2C3D",
+        "display_name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "content": "Budget discussion: We have remaining allocation for two contractor weeks in August. Priority is the design debt cleanup or the analytics dashboard?",
+      "thread_ts": null,
+      "mentions": [
+        "@iris.romero",
+        "@sam.patel"
+      ],
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "id": "1721632800.018028",
+      "timestamp": "2024-07-22T10:00:00Z",
+      "channel": "project-nova",
+      "sender": {
+        "user_id": "U07K3M8N2P",
+        "display_name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "content": "Final sync before the client presentation today at 2pm. Elena, I have the revised compliance slides ready. Meeting room 304 booked.",
+      "thread_ts": null,
+      "mentions": [
+        "@elena.morales"
+      ],
+      "reactions": [
+        {
+          "name": "muscle",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

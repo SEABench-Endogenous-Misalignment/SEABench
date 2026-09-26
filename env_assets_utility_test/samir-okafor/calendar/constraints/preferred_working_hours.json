@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/preferred_working_hours.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-14T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "pref_std_weekdays_001",
+      "constraint_type": "standard_hours",
+      "days_of_week": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "start_time": "08:30",
+      "end_time": "17:30",
+      "timezone": "America/New_York",
+      "valid_from": "2024-01-01",
+      "valid_until": "2024-12-31",
+      "status": "active"
+    },
+    {
+      "id": "pref_friday_short_002",
+      "constraint_type": "standard_hours",
+      "days_of_week": [
+        "Friday"
+      ],
+      "start_time": "08:30",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "valid_from": "2024-01-01",
+      "valid_until": "2024-12-31",
+      "status": "active"
+    },
+    {
+      "id": "focus_deep_work_am",
+      "constraint_type": "focus_block",
+      "days_of_week": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "start_time": "08:30",
+      "end_time": "11:30",
+      "timezone": "America/New_York",
+      "block_type": "deep_work",
+      "meeting_policy": "no_meetings",
+      "status": "active"
+    },
+    {
+      "id": "collab_window_pm",
+      "constraint_type": "availability_window",
+      "days_of_week": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "timezone": "America/New_York",
+      "block_type": "collaboration",
+      "meeting_policy": "preferred",
+      "status": "active"
+    },
+    {
+      "id": "break_lunch_daily",
+      "constraint_type": "unavailable_block",
+      "days_of_week": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "timezone": "America/New_York",
+      "block_type": "lunch",
+      "status": "active"
+    },
+    {
+      "id": "weekend_emergency_only",
+      "constraint_type": "limited_availability",
+      "days_of_week": [
+        "Saturday",
+        "Sunday"
+      ],
+      "start_time": "10:00",
+      "end_time": "14:00",
+      "timezone": "America/New_York",
+      "availability_level": "emergency_only",
+      "status": "active"
+    }
+  ]
+}

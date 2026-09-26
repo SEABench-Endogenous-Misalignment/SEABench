@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/household_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T15:30:00Z",
+    "source": "home_profile_manager_export"
+  },
+  "records": [
+    {
+      "id": "res-denver-4072",
+      "type": "primary_residence",
+      "address_line_1": "4072 Maple Hollow Ave",
+      "city": "Denver",
+      "state": "CO",
+      "postal_code": "80262",
+      "country": "US",
+      "timestamp": "2024-11-27T08:30:00-07:00"
+    },
+    {
+      "id": "mbr-linh-nguyen",
+      "role": "primary_account_holder",
+      "full_name": "Linh Nguyen",
+      "email": "linh.nguyen@riverbendmail.com",
+      "phone": "+1-720-455-5286",
+      "employer": "Brightline Systems",
+      "date": "2024-11-27"
+    },
+    {
+      "id": "mbr-leah-morgan",
+      "role": "spouse",
+      "full_name": "Leah Morgan",
+      "email": "leah.morgan@meadowmail.co",
+      "phone": "+1-720-276-6792",
+      "date": "2024-11-27"
+    },
+    {
+      "id": "emc-nina-park",
+      "contact_type": "emergency_contact",
+      "full_name": "Nina Park",
+      "relationship": "sister",
+      "phone": "+1-303-894-2217",
+      "email": "nina.park@fastmail.com",
+      "date": "2020-03-10"
+    },
+    {
+      "id": "ins-front-range-home",
+      "policy_type": "homeowners",
+      "provider": "Front Range Mutual",
+      "policy_number": "FR-H-7843921",
+      "period_start": "2024-06-01",
+      "period_end": "2025-06-01"
+    },
+    {
+      "id": "svc-xfinity-internet",
+      "service_category": "internet",
+      "provider": "Xfinity",
+      "account_number": "8342910567",
+      "start_time": "2019-09-01T00:00:00-06:00"
+    }
+  ]
+}

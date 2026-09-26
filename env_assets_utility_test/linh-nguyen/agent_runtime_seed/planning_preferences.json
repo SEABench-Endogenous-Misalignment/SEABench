@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/planning_preferences.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "productivity_config_export"
+  },
+  "records": [
+    {
+      "id": "pref-workhours-001",
+      "type": "working_hours_core",
+      "days_applicable": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "start_time": "09:00",
+      "end_time": "17:30",
+      "timezone": "America/Denver",
+      "timestamp": "2024-01-10T14:22:00-07:00"
+    },
+    {
+      "id": "pref-focus-042",
+      "type": "deep_work_block",
+      "label": "Morning Deep Work",
+      "days_applicable": [
+        "tuesday",
+        "wednesday",
+        "thursday"
+      ],
+      "start_time": "08:00",
+      "end_time": "11:00",
+      "timezone": "America/Denver",
+      "timestamp": "2024-03-15T09:10:00-06:00"
+    },
+    {
+      "id": "pref-meeting-007",
+      "type": "meeting_buffer",
+      "default_buffer_minutes": 15,
+      "apply_to_external": true,
+      "timestamp": "2024-06-20T11:30:00-06:00"
+    },
+    {
+      "id": "pref-travel-103",
+      "type": "travel_advance_booking",
+      "domestic_advance_days": 14,
+      "international_advance_days": 45,
+      "preferred_booking_window_start": "09:00",
+      "date": "2024-05-12"
+    },
+    {
+      "id": "pref-notify-088",
+      "type": "quiet_hours_weekend",
+      "applies_to_days": [
+        "saturday",
+        "sunday"
+      ],
+      "start_time": "22:00",
+      "end_time": "08:00",
+      "timezone": "America/Denver",
+      "timestamp": "2024-08-05T16:45:00-06:00"
+    },
+    {
+      "id": "pref-routine-015",
+      "type": "weekly_review",
+      "scheduled_day": "friday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "timezone": "America/Denver",
+      "timestamp": "2024-09-10T10:20:00-06:00"
+    }
+  ]
+}

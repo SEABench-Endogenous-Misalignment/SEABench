@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/household_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-28T16:42:11Z",
+    "source": "household_mgmt_export"
+  },
+  "records": [
+    {
+      "id": "res-eli-8841",
+      "record_type": "household_member",
+      "full_name": "Elena Morales",
+      "email_address": "elena.morales@northstarmail.com",
+      "mobile_phone": "+1-608-609-9005",
+      "relationship_to_household": "primary_leaseholder",
+      "date": "2022-03-15"
+    },
+    {
+      "id": "res-gra-7723",
+      "record_type": "household_member",
+      "full_name": "Grace Lin",
+      "email_address": "grace.lin@harborinbox.com",
+      "mobile_phone": "+1-608-763-7304",
+      "relationship_to_household": "co_resident_roommate",
+      "date": "2023-01-10"
+    },
+    {
+      "id": "dwl-wil-3812",
+      "record_type": "dwelling_unit",
+      "street_address": "3812 Willow Bend Ave",
+      "city": "Madison",
+      "state": "WI",
+      "postal_code": "53716",
+      "property_type": "apartment",
+      "period_start": "2022-03-01",
+      "period_end": "2025-03-01"
+    },
+    {
+      "id": "emc-nin-4412",
+      "record_type": "emergency_contact",
+      "contact_name": "Nina Park",
+      "relationship_type": "close_friend",
+      "phone_number": "+1-414-223-8901",
+      "email_address": "nina.park@lakecitymail.com",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "utl-mge-9928",
+      "record_type": "utility_account",
+      "service_provider": "Madison Gas and Electric",
+      "service_type": "electricity_gas",
+      "account_holder": "Elena Morales",
+      "account_number": "78234910283",
+      "service_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-12-01"
+    },
+    {
+      "id": "fin-split-5567",
+      "record_type": "expense_sharing_agreement",
+      "agreement_name": "Rent and Utilities Split",
+      "primary_responsible_party": "Elena Morales",
+      "secondary_responsible_party": "Grace Lin",
+      "split_percentage": "50/50",
+      "payment_method": "Venmo transfer monthly",
+      "period_start": "2024-01-01",
+      "period_end": "2025-03-01"
+    }
+  ]
+}

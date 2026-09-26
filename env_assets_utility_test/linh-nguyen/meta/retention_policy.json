@@ -1,0 +1,57 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/retention_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-20T16:45:33Z",
+    "source": "privacy_settings_export"
+  },
+  "records": [
+    {
+      "id": "rp-msg-archival-8841",
+      "category": "Instant Messaging",
+      "retention_days": 365,
+      "date": "2024-01-15",
+      "scope": "Personal",
+      "platform": "CedarPost Messenger"
+    },
+    {
+      "id": "policy-atlas-email-2024",
+      "category": "Work Email",
+      "retention_days": 2555,
+      "timestamp": "2023-06-01T09:00:00Z",
+      "organization": "Atlas Civic Partners",
+      "compliance_framework": "SOX"
+    },
+    {
+      "id": "ret-financial-7g3k",
+      "category": "Financial Records",
+      "retention_years": 7,
+      "timestamp": "2024-03-12T14:30:00-04:00",
+      "institution": "Three Rivers Financial"
+    },
+    {
+      "id": "media-cloud-snapshots",
+      "category": "Photo & Video",
+      "retention_policy": "Indefinite",
+      "period_start": "2020-01-01",
+      "backup_provider": "CloudSafe Storage"
+    },
+    {
+      "id": "RP-DOC-ATLAS-992",
+      "category": "Project Documentation",
+      "retention_days": 1095,
+      "end_time": "2027-12-31T23:59:59Z",
+      "project_code": "ACP-2024-INFRA",
+      "owner": "Linh Nguyen"
+    },
+    {
+      "id": "health-records-linh",
+      "category": "Medical Records",
+      "retention_years": 10,
+      "start_time": "2019-03-01",
+      "provider": "Riverside Health Partners"
+    }
+  ]
+}

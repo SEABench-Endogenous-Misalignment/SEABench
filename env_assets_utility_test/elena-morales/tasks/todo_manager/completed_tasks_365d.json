@@ -1,0 +1,431 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/completed_tasks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-20T18:45:30Z",
+    "source": "todo_manager_export"
+  },
+  "records": [
+    {
+      "id": "8f3a9b2c-1d4e-4f5a-9b6c-7d8e9f0a1b2c",
+      "title": "Finalize Q3 research ops budget for Brightline Systems",
+      "project": "Work",
+      "timestamp": "2024-05-18T16:00:00Z",
+      "priority": 2,
+      "tags": [
+        "budget",
+        "q3",
+        "planning"
+      ]
+    },
+    {
+      "id": "9c4b8d3e-2f5a-4g6b-0c7d-8e9f1a2b3c4d",
+      "title": "Review platform accessibility findings with Iris Romero",
+      "project": "Work",
+      "timestamp": "2024-05-10T14:30:00Z",
+      "priority": 1,
+      "tags": [
+        "accessibility",
+        "review"
+      ]
+    },
+    {
+      "id": "a2d5c9f4-3g6b-5h7c-1d8e-9f0a2b3c4d5e",
+      "title": "Schedule calibration session with Calvin Price",
+      "project": "Work",
+      "timestamp": "2024-04-28T09:15:00Z",
+      "priority": 3,
+      "tags": [
+        "calibration",
+        "scheduling"
+      ]
+    },
+    {
+      "id": "b3e6d0a5-4h7c-6i8d-2e9f-0a1b3c4d5e6f",
+      "title": "Submit expense report for ResearchOps Summit in Denver",
+      "project": "Work",
+      "timestamp": "2024-04-15T11:45:00Z",
+      "priority": 2,
+      "tags": [
+        "expenses",
+        "travel",
+        "denver"
+      ]
+    },
+    {
+      "id": "c4f7e1b6-5i8d-7j9e-3f0a-1b2c4d5e6f7g",
+      "title": "Update participant database schema for Platform Design",
+      "project": "Work",
+      "timestamp": "2024-04-02T13:20:00Z",
+      "priority": 1,
+      "tags": [
+        "database",
+        "schema"
+      ]
+    },
+    {
+      "id": "d5a8f2c7-6j9e-8k0f-4g1b-2c3d5e6f7g8h",
+      "title": "Archive Q1 interview recordings to cold storage",
+      "project": "Work",
+      "timestamp": "2024-03-20T15:00:00Z",
+      "priority": 3,
+      "tags": [
+        "archive",
+        "storage",
+        "q1"
+      ]
+    },
+    {
+      "id": "e6b9g3d8-7k0f-9l1g-5h2c-3d4e6f7g8h9i",
+      "title": "Draft GDPR compliance updates for consent forms",
+      "project": "Work",
+      "timestamp": "2024-03-12T10:30:00Z",
+      "priority": 1,
+      "tags": [
+        "gdpr",
+        "compliance",
+        "legal"
+      ]
+    },
+    {
+      "id": "f7c0h4e9-8l1g-0m2h-6i3d-4e5f7g8h9i0j",
+      "title": "Sync with Grace Lin on user recruitment criteria",
+      "project": "Work",
+      "timestamp": "2024-02-28T16:45:00Z",
+      "priority": 2,
+      "tags": [
+        "recruitment",
+        "sync"
+      ]
+    },
+    {
+      "id": "g8d1i5f0-9m2h-1n3i-7j4e-5f6g8h9i0j1k",
+      "title": "Prepare slides for Platform Design all-hands meeting",
+      "project": "Work",
+      "timestamp": "2024-02-15T09:00:00Z",
+      "priority": 2,
+      "tags": [
+        "presentation",
+        "all-hands"
+      ]
+    },
+    {
+      "id": "h9e2j6g1-0n3i-2o4j-8k5f-6g7h9i0j1k2l",
+      "title": "Order monitors and peripherals for research lab",
+      "project": "Work",
+      "timestamp": "2024-02-01T14:00:00Z",
+      "priority": 3,
+      "tags": [
+        "procurement",
+        "hardware"
+      ]
+    },
+    {
+      "id": "i0f3k7h2-1o4j-3p5k-9l6g-7h8i0j1k2l3m",
+      "title": "Weekly 1:1 meeting with Leah Morgan",
+      "project": "Work",
+      "timestamp": "2024-01-22T17:00:00Z",
+      "priority": 2,
+      "tags": [
+        "1:1",
+        "meeting"
+      ]
+    },
+    {
+      "id": "j1g4l8i3-2p5k-4q6l-0m7h-8i9j1k2l3m4n",
+      "title": "Evaluate Rev vs Otter.ai transcription contracts",
+      "project": "Work",
+      "timestamp": "2024-01-10T11:30:00Z",
+      "priority": 3,
+      "tags": [
+        "vendor",
+        "evaluation"
+      ]
+    },
+    {
+      "id": "k2h5m9j4-3q6l-5r7m-1n8i-9j0k2l3m4n5o",
+      "title": "Compile FY2023 research operations metrics",
+      "project": "Work",
+      "timestamp": "2023-12-28T10:00:00Z",
+      "priority": 1,
+      "tags": [
+        "metrics",
+        "fy2023",
+        "reporting"
+      ]
+    },
+    {
+      "id": "l3i6n0k5-4r7m-6s8n-2o9j-0k1l3m4n5o6p",
+      "title": "Book accommodation for Denver team offsite",
+      "project": "Work",
+      "timestamp": "2023-12-15T13:45:00Z",
+      "priority": 2,
+      "tags": [
+        "travel",
+        "offsite",
+        "denver"
+      ]
+    },
+    {
+      "id": "m4j7o1l6-5s8n-7t9o-3p0k-1l2m4n5o6p7q",
+      "title": "Publish research ops handbook version 3.2",
+      "project": "Work",
+      "timestamp": "2023-12-05T15:30:00Z",
+      "priority": 1,
+      "tags": [
+        "documentation",
+        "handbook"
+      ]
+    },
+    {
+      "id": "n5k8p2m7-6t9o-8u0p-4q1l-2m3n5o6p7q8r",
+      "title": "Schedule HVAC maintenance at 5874 Laurel Creek Road",
+      "project": "Home",
+      "timestamp": "2024-05-12T11:00:00Z",
+      "priority": 2,
+      "tags": [
+        "home",
+        "maintenance",
+        "hvac"
+      ]
+    },
+    {
+      "id": "o6l9q3n8-7u0p-9v1q-5r2m-3n4o6p7q8r9s",
+      "title": "Reserve table at Brewery Bhavana for anniversary dinner with Nina",
+      "project": "Personal",
+      "timestamp": "2024-05-01T19:30:00Z",
+      "priority": 1,
+      "tags": [
+        "anniversary",
+        "nina",
+        "dinner"
+      ]
+    },
+    {
+      "id": "p7m0r4o9-8v1q-0w2r-6s3n-4o5p7q8r9s0t",
+      "title": "Call Owen Reed about Umstead Trail run plans",
+      "project": "Personal",
+      "timestamp": "2024-04-22T20:00:00Z",
+      "priority": 3,
+      "tags": [
+        "owen",
+        "hiking",
+        "social"
+      ]
+    },
+    {
+      "id": "q8n1s5p0-9w2r-1x3s-7t4o-5p6q8r9s0t1u",
+      "title": "Renew NC vehicle registration online",
+      "project": "Personal",
+      "timestamp": "2024-04-08T12:00:00Z",
+      "priority": 2,
+      "tags": [
+        "dmv",
+        "registration",
+        "auto"
+      ]
+    },
+    {
+      "id": "r9o2t6q1-0x3s-2y4t-8u5p-6q7r9s0t1u2v",
+      "title": "Pick up dry cleaning from Creedmoor Cleaners",
+      "project": "Errands",
+      "timestamp": "2024-03-28T18:30:00Z",
+      "priority": 4,
+      "tags": [
+        "errands",
+        "cleaning"
+      ]
+    },
+    {
+      "id": "s0p3u7r2-1y4t-3z5u-9v6q-7r8s0t1u2v3w",
+      "title": "Order pottery wheel class gift for Priya Shah birthday",
+      "project": "Personal",
+      "timestamp": "2024-03-15T14:15:00Z",
+      "priority": 2,
+      "tags": [
+        "gift",
+        "priya",
+        "birthday"
+      ]
+    },
+    {
+      "id": "t1q4v8s3-2z5u-4a6v-0w7r-8s9t1u2v3w4x",
+      "title": "File federal and NC state tax returns",
+      "project": "Personal",
+      "timestamp": "2024-04-10T21:00:00Z",
+      "priority": 1,
+      "tags": [
+        "taxes",
+        "finance"
+      ]
+    },
+    {
+      "id": "u2r5w9t4-3a6v-5b7w-1x8s-9t0u2v3w4x5y",
+      "title": "Schedule dental cleaning with Dr. Hassan",
+      "project": "Health",
+      "timestamp": "2024-02-20T09:30:00Z",
+      "priority": 2,
+      "tags": [
+        "dental",
+        "health",
+        "appointment"
+      ]
+    },
+    {
+      "id": "v3s6x0u5-4b7w-6c8x-2y9t-0u1v3w4x5y6z",
+      "title": "Replace HVAC air filters at Laurel Creek house",
+      "project": "Home",
+      "timestamp": "2024-02-05T16:00:00Z",
+      "priority": 3,
+      "tags": [
+        "home",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "w4t7y1v6-5c8x-7d9y-3z0u-1v2w4x5y6z7a",
+      "title": "RSVP to Malik Brooks housewarming on Grovely Road",
+      "project": "Personal",
+      "timestamp": "2024-01-25T12:45:00Z",
+      "priority": 3,
+      "tags": [
+        "malik",
+        "social",
+        "rsvp"
+      ]
+    },
+    {
+      "id": "x5u8z2w7-6d9y-8e0z-4a1v-2w3x5y6z7a8b",
+      "title": "Transfer Duke Energy account to new billing address",
+      "project": "Home",
+      "timestamp": "2024-01-15T10:00:00Z",
+      "priority": 2,
+      "tags": [
+        "utilities",
+        "duke-energy"
+      ]
+    },
+    {
+      "id": "y6v9a3x8-7e0z-9f1a-5b2w-3x4y6z7a8b9c",
+      "title": "Backup MacBook Pro to Time Machine drive",
+      "project": "Tech",
+      "timestamp": "2023-12-30T22:00:00Z",
+      "priority": 2,
+      "tags": [
+        "backup",
+        "tech",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "z7w0b4y9-8f1a-0g2b-6c3x-4y5z7a8b9c0d",
+      "title": "Return books to Olivia Raney Local History Library",
+      "project": "Errands",
+      "timestamp": "2023-12-18T17:30:00Z",
+      "priority": 4,
+      "tags": [
+        "library",
+        "books",
+        "errands"
+      ]
+    },
+    {
+      "id": "a8x1c5z0-9g2b-1h3c-7d4y-5z6a8b9c0d1e",
+      "title": "Research standing desk options for home office",
+      "project": "Home",
+      "timestamp": "2023-12-08T13:00:00Z",
+      "priority": 3,
+      "tags": [
+        "furniture",
+        "research",
+        "office"
+      ]
+    },
+    {
+      "id": "b9y2d6a1-0h3c-2i4d-8e5z-6a7b9c0d1e2f",
+      "title": "Email Elena Vega about December book club selection",
+      "project": "Personal",
+      "timestamp": "2023-11-28T20:15:00Z",
+      "priority": 3,
+      "tags": [
+        "elena-vega",
+        "book-club",
+        "email"
+      ]
+    },
+    {
+      "id": "c0z3e7b2-1i4d-3j5e-9f6a-7b8c0d1e2f3g",
+      "title": "Plant winter rye cover crop in front garden",
+      "project": "Home",
+      "timestamp": "2023-11-15T15:30:00Z",
+      "priority": 4,
+      "tags": [
+        "garden",
+        "winter",
+        "home"
+      ]
+    },
+    {
+      "id": "d1a4f8c3-2j5e-4k6f-0g7b-8c9d1e2f3g4h",
+      "title": "Tune up bicycle at Trek Bicycle Store on Glenwood",
+      "project": "Errands",
+      "timestamp": "2023-10-28T11:00:00Z",
+      "priority": 3,
+      "tags": [
+        "bike",
+        "maintenance",
+        "trek"
+      ]
+    },
+    {
+      "id": "e2b5g9d4-3k6f-5l7g-1h8c-9d0e2f3g4h5i",
+      "title": "Schedule Luna's annual vet checkup at Care First Animal Hospital",
+      "project": "Personal",
+      "timestamp": "2023-10-15T09:45:00Z",
+      "priority": 2,
+      "tags": [
+        "luna",
+        "vet",
+        "health"
+      ]
+    },
+    {
+      "id": "f3c6h0e5-4l7g-6m8h-2i9d-0e1f3g4h5i6j",
+      "title": "Update emergency contact info with Brightline HR portal",
+      "project": "Work",
+      "timestamp": "2023-09-28T14:20:00Z",
+      "priority": 2,
+      "tags": [
+        "hr",
+        "emergency",
+        "admin"
+      ]
+    },
+    {
+      "id": "g4d7i1f6-5m8h-7n9i-3j0e-1f2g4h5i6j7k",
+      "title": "Renew homeowner's insurance with Nationwide",
+      "project": "Home",
+      "timestamp": "2023-09-15T11:00:00Z",
+      "priority": 1,
+      "tags": [
+        "insurance",
+        "home",
+        "nationwide"
+      ]
+    },
+    {
+      "id": "h5e8j2g7-6n9i-8o0j-4k1f-2g3h5i6j7k8l",
+      "title": "Organize garage shelving and tool storage",
+      "project": "Home",
+      "timestamp": "2023-08-20T13:30:00Z",
+      "priority": 3,
+      "tags": [
+        "garage",
+        "organization",
+        "home"
+      ]
+    }
+  ]
+}

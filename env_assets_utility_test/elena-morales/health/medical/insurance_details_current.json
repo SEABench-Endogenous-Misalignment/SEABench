@@ -1,0 +1,214 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/insurance_details_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-07-22T14:30:00Z",
+    "source": "hr_benefits_portal_export"
+  },
+  "records": [
+    {
+      "id": "ins-med-2024-8f3k9",
+      "policy_type": "medical",
+      "carrier_name": "Blue Ridge Health",
+      "plan_name": "Preferred PPO 2000",
+      "policy_number": "BRP-984712-XJ",
+      "member_id": "XJ847293100",
+      "group_number": "CGS2024MAD",
+      "policy_holder": {
+        "full_name": "Elena Morales",
+        "ssn": "608-72-9941",
+        "date_of_birth": "1988-03-15",
+        "relationship": "Self"
+      },
+      "effective_date": "2024-01-01",
+      "termination_date": null,
+      "employer_sponsored": true,
+      "employer_name": "Cedar Grove Studio",
+      "contacts": {
+        "customer_service_phone": "+1-844-732-8841",
+        "claims_phone": "+1-844-732-8842",
+        "provider_portal": "https://provider.blueridgehealth.com",
+        "member_portal": "https://members.blueridgehealth.com"
+      },
+      "coverage_details": {
+        "deductible_individual": 2000,
+        "deductible_family": 4000,
+        "out_of_pocket_max_individual": 7000,
+        "out_of_pocket_max_family": 14000,
+        "primary_care_copay": 25,
+        "specialist_copay": 45,
+        "urgent_care_copay": 75,
+        "emergency_room_copay": 300,
+        "prescription_drug_tier1": 15,
+        "prescription_drug_tier2": 35,
+        "prescription_drug_tier3": 60
+      },
+      "timestamp": "2024-07-22T14:30:00Z"
+    },
+    {
+      "id": "ins-den-2024-7j2m4",
+      "policy_type": "dental",
+      "carrier_name": "Zenith Dental Benefits",
+      "plan_name": "Complete Care PPO",
+      "policy_number": "ZDB-2024-7734",
+      "member_id": "ZDB7729401",
+      "group_number": "CGS2024DEN",
+      "policy_holder": {
+        "full_name": "Elena Morales",
+        "ssn": "608-72-9941",
+        "date_of_birth": "1988-03-15",
+        "relationship": "Self"
+      },
+      "effective_date": "2024-01-01",
+      "termination_date": null,
+      "employer_sponsored": true,
+      "employer_name": "Cedar Grove Studio",
+      "contacts": {
+        "customer_service_phone": "+1-833-492-0733",
+        "claims_phone": "+1-833-492-0734",
+        "member_portal": "https://www.zenithdental.net/members"
+      },
+      "coverage_details": {
+        "annual_maximum": 2000,
+        "deductible_individual": 50,
+        "deductible_family": 150,
+        "preventive_care_copay": 0,
+        "basic_services_coinsurance": 0.2,
+        "major_services_coinsurance": 0.5,
+        "orthodontia_lifetime_max": 1500
+      },
+      "timestamp": "2024-07-22T14:30:00Z"
+    },
+    {
+      "id": "ins-vis-2024-9k1p5",
+      "policy_type": "vision",
+      "carrier_name": "ClearView Vision",
+      "plan_name": "Standard Vision Plan",
+      "policy_number": "CVP-998312",
+      "member_id": "CVV8892017",
+      "group_number": "CGS2024VIS",
+      "policy_holder": {
+        "full_name": "Elena Morales",
+        "ssn": "608-72-9941",
+        "date_of_birth": "1988-03-15",
+        "relationship": "Self"
+      },
+      "effective_date": "2024-01-01",
+      "termination_date": null,
+      "employer_sponsored": true,
+      "employer_name": "Cedar Grove Studio",
+      "contacts": {
+        "customer_service_phone": "+1-877-331-9944",
+        "member_portal": "https://clearviewvision.com/members"
+      },
+      "coverage_details": {
+        "exam_copay": 10,
+        "materials_allowance": 150,
+        "frame_allowance": 150,
+        "contact_lens_allowance": 150,
+        "lens_options_copay": 25,
+        "exam_frequency": "12 months",
+        "materials_frequency": "12 months"
+      },
+      "timestamp": "2024-07-22T14:30:00Z"
+    },
+    {
+      "id": "ins-life-2024-3h8n2",
+      "policy_type": "life",
+      "carrier_name": "Summit Life Assurance",
+      "plan_name": "Basic Term Life - 2x Annual Earnings",
+      "policy_number": "SLA-445821-ELM",
+      "member_id": "SLA4458219",
+      "group_number": "CGS2024LIFE",
+      "policy_holder": {
+        "full_name": "Elena Morales",
+        "ssn": "608-72-9941",
+        "date_of_birth": "1988-03-15",
+        "relationship": "Self"
+      },
+      "effective_date": "2024-01-01",
+      "termination_date": null,
+      "employer_sponsored": true,
+      "employer_name": "Cedar Grove Studio",
+      "coverage_amount": 320000,
+      "beneficiaries": [
+        {
+          "name": "Priya Shah",
+          "relationship": "Friend",
+          "allocation_percent": 100,
+          "phone": "+1-608-443-9120"
+        }
+      ],
+      "contacts": {
+        "customer_service_phone": "+1-800-445-8821",
+        "claims_phone": "+1-800-445-8822",
+        "claims_portal": "https://claims.summitlife.com"
+      },
+      "timestamp": "2024-07-22T14:30:00Z"
+    },
+    {
+      "id": "ins-hsa-2024-5m9q7",
+      "policy_type": "hsa",
+      "carrier_name": "OptiSave HSA Bank",
+      "account_name": "Elena Morales HSA",
+      "account_number": "847291003",
+      "routing_number": "071000013",
+      "member_id": "OSA7729401",
+      "group_number": "CGS2024HSA",
+      "policy_holder": {
+        "full_name": "Elena Morales",
+        "ssn": "608-72-9941",
+        "date_of_birth": "1988-03-15",
+        "relationship": "Self"
+      },
+      "effective_date": "2024-01-01",
+      "account_open_date": "2024-01-01",
+      "employer_sponsored": true,
+      "employer_name": "Cedar Grove Studio",
+      "employer_contribution_annual": 800,
+      "employee_contribution_ytd": 2400,
+      "current_balance": 3450.75,
+      "investment_balance": 1200.5,
+      "cash_balance": 2250.25,
+      "contacts": {
+        "customer_service_phone": "+1-866-554-0921",
+        "member_portal": "https://www.optisavehsa.com/login"
+      },
+      "timestamp": "2024-07-22T14:30:00Z"
+    },
+    {
+      "id": "ins-std-2024-2b4v6",
+      "policy_type": "short_term_disability",
+      "carrier_name": "Guardian Assurance",
+      "plan_name": "STD - 60% Salary Replacement",
+      "policy_number": "GA-773920-ELM",
+      "member_id": "GA7739201",
+      "group_number": "CGS2024STD",
+      "policy_holder": {
+        "full_name": "Elena Morales",
+        "ssn": "608-72-9941",
+        "date_of_birth": "1988-03-15",
+        "relationship": "Self"
+      },
+      "effective_date": "2024-01-01",
+      "termination_date": null,
+      "employer_sponsored": true,
+      "employer_name": "Cedar Grove Studio",
+      "coverage_details": {
+        "benefit_percentage": 0.6,
+        "weekly_max_benefit": 1500,
+        "elimination_period_days": 7,
+        "maximum_duration_weeks": 26,
+        "definition_of_disability": "Own Occupation"
+      },
+      "contacts": {
+        "customer_service_phone": "+1-855-339-7744",
+        "claims_phone": "+1-855-339-7745",
+        "claims_portal": "https://guardianassurance.com/claims"
+      },
+      "timestamp": "2024-07-22T14:30:00Z"
+    }
+  ]
+}

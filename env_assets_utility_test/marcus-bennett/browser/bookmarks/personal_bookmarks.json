@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/personal_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T18:45:32Z",
+    "source": "browser_bookmark_export"
+  },
+  "records": [
+    {
+      "id": "bm_8f3a9c21",
+      "title": "Nighthawk Diner - Menu & Reservations",
+      "url": "https://nighthawkmpls.com/menu",
+      "timestamp": "2024-09-14T19:23:00-05:00",
+      "folder": "Dining",
+      "tags": [
+        "restaurants",
+        "date-night",
+        "minneapolis"
+      ]
+    },
+    {
+      "id": "bm_7e2b8d15",
+      "title": "Cedar Grove Garden Center - Landscaping Supplies",
+      "url": "https://cedargrovelawns.net/supplies",
+      "timestamp": "2024-10-03T14:15:00-05:00",
+      "folder": "Home",
+      "tags": [
+        "gardening",
+        "landscaping",
+        "home-maintenance"
+      ]
+    },
+    {
+      "id": "bm_9c4f1e82",
+      "title": "Summit Wealth Dashboard - Portfolio Overview",
+      "url": "https://dashboard.summitwealth.io/portfolio",
+      "timestamp": "2024-08-22T09:45:00-05:00",
+      "folder": "Finance",
+      "tags": [
+        "investments",
+        "retirement",
+        "personal-finance"
+      ]
+    },
+    {
+      "id": "bm_3a7k2m94",
+      "title": "Door County Vacation Rentals - Waterfront Cottages",
+      "url": "https://doorcountystays.com/waterfront",
+      "timestamp": "2024-11-05T20:18:00-06:00",
+      "folder": "Travel",
+      "tags": [
+        "vacation",
+        "wisconsin",
+        "summer-2025"
+      ]
+    },
+    {
+      "id": "bm_2d5h9j37",
+      "title": "Mid-Century Modern Archives - Furniture Reference",
+      "url": "https://mcmdigitalarchive.org/furniture",
+      "timestamp": "2024-07-11T12:30:00-05:00",
+      "folder": "Inspiration",
+      "tags": [
+        "design",
+        "reference",
+        "mid-century"
+      ]
+    },
+    {
+      "id": "bm_5g1i8l66",
+      "title": "Chain of Lakes Running Club - Schedule",
+      "url": "https://chainoflakesrun.org/schedule",
+      "timestamp": "2024-06-28T07:12:00-05:00",
+      "folder": "Health",
+      "tags": [
+        "running",
+        "fitness",
+        "minneapolis",
+        "outdoors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/recurring_tasks.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-01-15T08:30:00Z"
+  },
+  "records": [
+    {
+      "id": "rec_001",
+      "title": "Morning Meditation",
+      "description": "10-minute mindfulness practice",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "wellness",
+      "priority": "high",
+      "start_time": "07:00:00",
+      "end_time": "07:10:00",
+      "date": "2026-06-27",
+      "is_active": true,
+      "created_at": "2026-03-15T10:00:00Z",
+      "tags": [
+        "health",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "rec_002",
+      "title": "Grocery Shopping",
+      "description": "Weekly grocery run for fresh produce",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "errands",
+      "priority": "high",
+      "date": "2026-06-28",
+      "start_time": "10:00:00",
+      "end_time": "11:30:00",
+      "is_active": true,
+      "created_at": "2026-03-20T14:20:00Z",
+      "tags": [
+        "shopping",
+        "food"
+      ]
+    },
+    {
+      "id": "rec_003",
+      "title": "Deep House Cleaning",
+      "description": "Vacuum, mop, and dust entire apartment",
+      "frequency": "bi-weekly",
+      "interval": 14,
+      "category": "home_maintenance",
+      "priority": "medium",
+      "date": "2026-07-05",
+      "start_time": "09:00:00",
+      "end_time": "12:00:00",
+      "is_active": true,
+      "created_at": "2026-04-01T09:00:00Z",
+      "tags": [
+        "cleaning",
+        "home"
+      ]
+    },
+    {
+      "id": "rec_004",
+      "title": "Budget Review",
+      "description": "Review monthly expenses and categorize transactions",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "finance",
+      "priority": "high",
+      "date": "2026-07-01",
+      "timestamp": "2026-04-01T08:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T08:00:00Z",
+      "tags": [
+        "money",
+        "planning"
+      ]
+    },
+    {
+      "id": "rec_005",
+      "title": "Oil Change",
+      "description": "Vehicle maintenance and oil replacement",
+      "frequency": "quarterly",
+      "interval": 90,
+      "category": "automotive",
+      "priority": "medium",
+      "date": "2026-07-15",
+      "start_time": "14:00:00",
+      "end_time": "15:00:00",
+      "is_active": true,
+      "created_at": "2026-01-10T11:30:00Z",
+      "tags": [
+        "car",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "rec_006",
+      "title": "Annual Physical",
+      "description": "Routine health checkup with primary care",
+      "frequency": "yearly",
+      "interval": 365,
+      "category": "health",
+      "priority": "critical",
+      "date": "2027-04-10",
+      "timestamp": "2026-04-10T09:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-10T09:00:00Z",
+      "tags": [
+        "medical",
+        "checkup"
+      ]
+    },
+    {
+      "id": "rec_007",
+      "title": "Gym Session",
+      "description": "Strength training workout",
+      "frequency": "weekly",
+      "interval": 3,
+      "category": "fitness",
+      "priority": "medium",
+      "date": "2026-06-29",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "is_active": true,
+      "created_at": "2026-04-05T12:00:00Z",
+      "tags": [
+        "exercise",
+        "health"
+      ]
+    },
+    {
+      "id": "rec_008",
+      "title": "Vitamin Reminder",
+      "description": "Take daily multivitamin and supplements",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "health",
+      "priority": "medium",
+      "timestamp": "2026-06-27T08:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-02T08:00:00Z",
+      "tags": [
+        "supplements",
+        "routine"
+      ]
+    },
+    {
+      "id": "rec_009",
+      "title": "Book Club Meeting",
+      "description": "Monthly discussion with local book club",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "social",
+      "priority": "low",
+      "date": "2026-07-12",
+      "start_time": "19:00:00",
+      "end_time": "21:00:00",
+      "is_active": true,
+      "created_at": "2026-04-12T16:00:00Z",
+      "tags": [
+        "reading",
+        "social"
+      ]
+    },
+    {
+      "id": "rec_010",
+      "title": "Haircut Appointment",
+      "description": "Regular trim and style maintenance",
+      "frequency": "bi-monthly",
+      "interval": 60,
+      "category": "personal_care",
+      "priority": "medium",
+      "date": "2026-08-01",
+      "start_time": "10:00:00",
+      "end_time": "11:00:00",
+      "is_active": true,
+      "created_at": "2026-04-01T13:00:00Z",
+      "tags": [
+        "grooming",
+        "appearance"
+      ]
+    },
+    {
+      "id": "rec_011",
+      "title": "Investment Portfolio Review",
+      "description": "Check retirement accounts and rebalance if needed",
+      "frequency": "quarterly",
+      "interval": 90,
+      "category": "finance",
+      "priority": "high",
+      "date": "2026-07-01",
+      "timestamp": "2026-04-01T10:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T10:00:00Z",
+      "tags": [
+        "investing",
+        "retirement"
+      ]
+    },
+    {
+      "id": "rec_012",
+      "title": "Meal Prep Sunday",
+      "description": "Prepare lunches and dinners for the week",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "meal_planning",
+      "priority": "medium",
+      "date": "2026-06-29",
+      "start_time": "15:00:00",
+      "end_time": "18:00:00",
+      "is_active": true,
+      "created_at": "2026-04-06T11:00:00Z",
+      "tags": [
+        "cooking",
+        "health"
+      ]
+    },
+    {
+      "id": "rec_013",
+      "title": "Water Plants",
+      "description": "Water indoor and outdoor plants",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "home_maintenance",
+      "priority": "low",
+      "date": "2026-06-28",
+      "start_time": "08:00:00",
+      "end_time": "08:15:00",
+      "is_active": true,
+      "created_at": "2026-04-10T09:30:00Z",
+      "tags": [
+        "plants",
+        "garden"
+      ]
+    },
+    {
+      "id": "rec_014",
+      "title": "Backup Laptop",
+      "description": "Full system backup to external drive",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "digital",
+      "priority": "high",
+      "date": "2026-07-15",
+      "timestamp": "2026-04-15T22:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-15T22:00:00Z",
+      "tags": [
+        "tech",
+        "backup"
+      ]
+    },
+    {
+      "id": "rec_015",
+      "title": "Dental Cleaning",
+      "description": "Routine cleaning and checkup",
+      "frequency": "semi-annual",
+      "interval": 180,
+      "category": "health",
+      "priority": "medium",
+      "date": "2026-10-15",
+      "start_time": "09:00:00",
+      "end_time": "10:00:00",
+      "is_active": true,
+      "created_at": "2026-04-15T10:00:00Z",
+      "tags": [
+        "dental",
+        "medical"
+      ]
+    },
+    {
+      "id": "rec_016",
+      "title": "Laundry Day",
+      "description": "Wash, dry, and fold clothes",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "chores",
+      "priority": "medium",
+      "date": "2026-06-28",
+      "start_time": "10:00:00",
+      "end_time": "12:00:00",
+      "is_active": true,
+      "created_at": "2026-04-05T08:00:00Z",
+      "tags": [
+        "cleaning",
+        "clothes"
+      ]
+    },
+    {
+      "id": "rec_017",
+      "title": "10K Steps Goal",
+      "description": "Ensure daily step count reaches 10,000",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "fitness",
+      "priority": "medium",
+      "timestamp": "2026-06-27T20:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T07:00:00Z",
+      "tags": [
+        "walking",
+        "exercise"
+      ]
+    },
+    {
+      "id": "rec_018",
+      "title": "Mortgage Payment",
+      "description": "Manual verification of auto-payment",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "finance",
+      "priority": "critical",
+      "date": "2026-07-01",
+      "timestamp": "2026-04-01T09:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T09:00:00Z",
+      "tags": [
+        "housing",
+        "bills"
+      ]
+    },
+    {
+      "id": "rec_019",
+      "title": "Deep Clean Kitchen",
+      "description": "Clean appliances and organize pantry",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "home_maintenance",
+      "priority": "medium",
+      "date": "2026-07-10",
+      "start_time": "13:00:00",
+      "end_time": "16:00:00",
+      "is_active": true,
+      "created_at": "2026-04-10T14:00:00Z",
+      "tags": [
+        "kitchen",
+        "deep_clean"
+      ]
+    },
+    {
+      "id": "rec_020",
+      "title": "Eye Examination",
+      "description": "Annual vision check and prescription update",
+      "frequency": "yearly",
+      "interval": 365,
+      "category": "health",
+      "priority": "medium",
+      "date": "2027-05-20",
+      "start_time": "11:00:00",
+      "end_time": "12:00:00",
+      "is_active": true,
+      "created_at": "2026-05-20T10:00:00Z",
+      "tags": [
+        "vision",
+        "medical"
+      ]
+    },
+    {
+      "id": "rec_021",
+      "title": "Call Parents",
+      "description": "Weekly check-in call with family",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "family",
+      "priority": "high",
+      "date": "2026-06-29",
+      "start_time": "17:00:00",
+      "end_time": "17:30:00",
+      "is_active": true,
+      "created_at": "2026-04-01T12:00:00Z",
+      "tags": [
+        "family",
+        "communication"
+      ]
+    },
+    {
+      "id": "rec_022",
+      "title": "Team Sync",
+      "description": "Bi-weekly 1:1 with manager",
+      "frequency": "bi-weekly",
+      "interval": 14,
+      "category": "work",
+      "priority": "high",
+      "date": "2026-07-02",
+      "start_time": "14:00:00",
+      "end_time": "14:30:00",
+      "is_active": true,
+      "created_at": "2026-04-02T09:00:00Z",
+      "tags": [
+        "career",
+        "meetings"
+      ]
+    },
+    {
+      "id": "rec_023",
+      "title": "Subscription Audit",
+      "description": "Review and cancel unused subscriptions",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "finance",
+      "priority": "low",
+      "date": "2026-07-05",
+      "timestamp": "2026-04-05T19:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-05T19:00:00Z",
+      "tags": [
+        "budget",
+        "review"
+      ]
+    },
+    {
+      "id": "rec_024",
+      "title": "Tax Document Prep",
+      "description": "Organize receipts and documents for filing",
+      "frequency": "quarterly",
+      "interval": 90,
+      "category": "finance",
+      "priority": "high",
+      "date": "2026-09-30",
+      "start_time": "10:00:00",
+      "end_time": "12:00:00",
+      "is_active": true,
+      "created_at": "2026-04-01T11:00:00Z",
+      "tags": [
+        "taxes",
+        "documents"
+      ]
+    },
+    {
+      "id": "rec_025",
+      "title": "Credit Report Check",
+      "description": "Review credit score and report for errors",
+      "frequency": "annual",
+      "interval": 365,
+      "category": "finance",
+      "priority": "medium",
+      "date": "2027-04-01",
+      "timestamp": "2026-04-01T08:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T08:00:00Z",
+      "tags": [
+        "credit",
+        "finance"
+      ]
+    },
+    {
+      "id": "rec_026",
+      "title": "Evening Journal",
+      "description": "Write daily reflection and gratitude",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "wellness",
+      "priority": "medium",
+      "timestamp": "2026-06-27T21:30:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T20:00:00Z",
+      "tags": [
+        "writing",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": "rec_027",
+      "title": "Date Night",
+      "description": "Scheduled quality time with partner",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "relationship",
+      "priority": "high",
+      "date": "2026-06-28",
+      "start_time": "19:00:00",
+      "end_time": "22:00:00",
+      "is_active": true,
+      "created_at": "2026-04-01T15:00:00Z",
+      "tags": [
+        "relationship",
+        "social"
+      ]
+    },
+    {
+      "id": "rec_028",
+      "title": "Networking Event",
+      "description": "Professional networking or industry meetup",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "career",
+      "priority": "medium",
+      "date": "2026-07-20",
+      "start_time": "18:00:00",
+      "end_time": "20:00:00",
+      "is_active": true,
+      "created_at": "2026-04-20T10:00:00Z",
+      "tags": [
+        "networking",
+        "professional"
+      ]
+    },
+    {
+      "id": "rec_029",
+      "title": "Wardrobe Declutter",
+      "description": "Donate unused clothing items",
+      "frequency": "quarterly",
+      "interval": 90,
+      "category": "organization",
+      "priority": "low",
+      "date": "2026-07-30",
+      "start_time": "13:00:00",
+      "end_time": "15:00:00",
+      "is_active": true,
+      "created_at": "2026-04-30T11:00:00Z",
+      "tags": [
+        "organization",
+        "donation"
+      ]
+    },
+    {
+      "id": "rec_030",
+      "title": "Vehicle Registration",
+      "description": "Renew car registration and inspection",
+      "frequency": "annual",
+      "interval": 365,
+      "category": "automotive",
+      "priority": "high",
+      "date": "2027-04-15",
+      "timestamp": "2026-04-15T10:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-15T10:00:00Z",
+      "tags": [
+        "car",
+        "legal"
+      ]
+    },
+    {
+      "id": "rec_031",
+      "title": "Flu Vaccination",
+      "description": "Annual flu shot appointment",
+      "frequency": "annual",
+      "interval": 365,
+      "category": "health",
+      "priority": "medium",
+      "date": "2026-10-01",
+      "start_time": "10:00:00",
+      "end_time": "10:15:00",
+      "is_active": true,
+      "created_at": "2026-04-01T09:00:00Z",
+      "tags": [
+        "vaccination",
+        "health"
+      ]
+    },
+    {
+      "id": "rec_032",
+      "title": "Skincare Routine",
+      "description": "Evening cleanse and moisturize",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "personal_care",
+      "priority": "low",
+      "timestamp": "2026-06-27T22:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T21:00:00Z",
+      "tags": [
+        "beauty",
+        "routine"
+      ]
+    },
+    {
+      "id": "rec_033",
+      "title": "Trash and Recycling",
+      "description": "Take out bins for collection",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "chores",
+      "priority": "medium",
+      "date": "2026-06-30",
+      "start_time": "19:00:00",
+      "end_time": "19:10:00",
+      "is_active": true,
+      "created_at": "2026-04-01T18:00:00Z",
+      "tags": [
+        "waste",
+        "chores"
+      ]
+    },
+    {
+      "id": "rec_034",
+      "title": "Utility Bill Review",
+      "description": "Check electricity and water usage",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "finance",
+      "priority": "low",
+      "date": "2026-07-05",
+      "timestamp": "2026-04-05T20:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-05T20:00:00Z",
+      "tags": [
+        "utilities",
+        "bills"
+      ]
+    },
+    {
+      "id": "rec_035",
+      "title": "Garden Maintenance",
+      "description": "Prune, weed, and fertilize garden",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "home_maintenance",
+      "priority": "low",
+      "date": "2026-07-12",
+      "start_time": "09:00:00",
+      "end_time": "11:00:00",
+      "is_active": true,
+      "created_at": "2026-04-12T08:00:00Z",
+      "tags": [
+        "garden",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "rec_036",
+      "title": "Insurance Policy Review",
+      "description": "Review home and auto insurance coverage",
+      "frequency": "annual",
+      "interval": 365,
+      "category": "finance",
+      "priority": "medium",
+      "date": "2027-04-20",
+      "timestamp": "2026-04-20T14:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-20T14:00:00Z",
+      "tags": [
+        "insurance",
+        "protection"
+      ]
+    },
+    {
+      "id": "rec_037",
+      "title": "Language Practice",
+      "description": "Duolingo Spanish lesson",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "learning",
+      "priority": "medium",
+      "timestamp": "2026-06-27T12:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T11:00:00Z",
+      "tags": [
+        "education",
+        "spanish"
+      ]
+    },
+    {
+      "id": "rec_038",
+      "title": "Weekly Meal Planning",
+      "description": "Plan dinners and create shopping list",
+      "frequency": "weekly",
+      "interval": 7,
+      "category": "meal_planning",
+      "priority": "medium",
+      "date": "2026-06-28",
+      "start_time": "18:00:00",
+      "end_time": "18:30:00",
+      "is_active": true,
+      "created_at": "2026-04-05T17:00:00Z",
+      "tags": [
+        "planning",
+        "food"
+      ]
+    },
+    {
+      "id": "rec_039",
+      "title": "Massage Therapy",
+      "description": "Relaxation and muscle recovery session",
+      "frequency": "monthly",
+      "interval": 30,
+      "category": "wellness",
+      "priority": "low",
+      "date": "2026-07-25",
+      "start_time": "16:00:00",
+      "end_time": "17:00:00",
+      "is_active": true,
+      "created_at": "2026-04-25T15:00:00Z",
+      "tags": [
+        "relaxation",
+        "health"
+      ]
+    },
+    {
+      "id": "rec_040",
+      "title": "Financial Advisor Meeting",
+      "description": "Review investment strategy and goals",
+      "frequency": "quarterly",
+      "interval": 90,
+      "category": "finance",
+      "priority": "high",
+      "date": "2026-07-10",
+      "start_time": "10:00:00",
+      "end_time": "11:00:00",
+      "is_active": true,
+      "created_at": "2026-04-10T09:00:00Z",
+      "tags": [
+        "advisor",
+        "wealth"
+      ]
+    },
+    {
+      "id": "rec_041",
+      "title": "Tire Rotation Check",
+      "description": "Inspect tires and schedule rotation",
+      "frequency": "semi-annual",
+      "interval": 180,
+      "category": "automotive",
+      "priority": "medium",
+      "date": "2026-10-01",
+      "timestamp": "2026-04-01T09:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T09:00:00Z",
+      "tags": [
+        "car",
+        "safety"
+      ]
+    },
+    {
+      "id": "rec_042",
+      "title": "Vacuum Floors",
+      "description": "Vacuum all carpeted areas",
+      "frequency": "weekly",
+      "interval": 4,
+      "category": "chores",
+      "priority": "medium",
+      "date": "2026-06-28",
+      "start_time": "16:00:00",
+      "end_time": "16:30:00",
+      "is_active": true,
+      "created_at": "2026-04-05T15:00:00Z",
+      "tags": [
+        "cleaning",
+        "home"
+      ]
+    },
+    {
+      "id": "rec_043",
+      "title": "Inbox Zero",
+      "description": "Process and archive all emails",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "productivity",
+      "priority": "medium",
+      "timestamp": "2026-06-27T17:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T16:00:00Z",
+      "tags": [
+        "email",
+        "organization"
+      ]
+    },
+    {
+      "id": "rec_044",
+      "title": "Investment Contribution",
+      "description": "Transfer to brokerage account",
+      "frequency": "monthly",
+      "interval": 15,
+      "category": "finance",
+      "priority": "high",
+      "date": "2026-07-15",
+      "timestamp": "2026-04-15T08:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-15T08:00:00Z",
+      "tags": [
+        "saving",
+        "investing"
+      ]
+    },
+    {
+      "id": "rec_045",
+      "title": "HVAC Filter Change",
+      "description": "Replace air conditioning filters",
+      "frequency": "quarterly",
+      "interval": 90,
+      "category": "home_maintenance",
+      "priority": "medium",
+      "date": "2026-07-01",
+      "start_time": "11:00:00",
+      "end_time": "11:30:00",
+      "is_active": true,
+      "created_at": "2026-04-01T10:00:00Z",
+      "tags": [
+        "hvac",
+        "air_quality"
+      ]
+    },
+    {
+      "id": "rec_046",
+      "title": "Estate Planning Review",
+      "description": "Review will and beneficiary designations",
+      "frequency": "annual",
+      "interval": 365,
+      "category": "legal",
+      "priority": "medium",
+      "date": "2027-05-01",
+      "timestamp": "2026-05-01T13:00:00Z",
+      "is_active": true,
+      "created_at": "2026-05-01T13:00:00Z",
+      "tags": [
+        "legal",
+        "planning"
+      ]
+    },
+    {
+      "id": "rec_047",
+      "title": "Piano Practice",
+      "description": "Practice scales and repertoire",
+      "frequency": "weekly",
+      "interval": 3,
+      "category": "hobbies",
+      "priority": "low",
+      "date": "2026-06-29",
+      "start_time": "19:00:00",
+      "end_time": "20:00:00",
+      "is_active": true,
+      "created_at": "2026-04-05T18:00:00Z",
+      "tags": [
+        "music",
+        "skill"
+      ]
+    },
+    {
+      "id": "rec_048",
+      "title": "Gratitude Log",
+      "description": "Write three things grateful for",
+      "frequency": "daily",
+      "interval": 1,
+      "category": "wellness",
+      "priority": "low",
+      "timestamp": "2026-06-27T21:00:00Z",
+      "is_active": true,
+      "created_at": "2026-04-01T20:00:00Z",
+      "tags": [
+        "mental_health",
+        "positivity"
+      ]
+    }
+  ]
+}

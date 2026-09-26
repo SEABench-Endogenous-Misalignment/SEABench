@@ -1,0 +1,746 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/folders/travel_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T21:15:30Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg-2023-0115-hw-2845",
+      "timestamp": "2023-01-15T14:30:00-08:00",
+      "subject": "Booking Confirmation: Flight to New York (LGA)",
+      "sender_name": "Horizon Wings",
+      "sender_email": "bookings@flyhorizonwings.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Your flight HW2845 from Portland (PDX) to New York (LGA) on January 25, 2023 is confirmed. Departure: 6:45 AM.",
+      "has_attachments": true,
+      "size_bytes": 28472,
+      "labels": [
+        "Travel",
+        "Work",
+        "Confirmed"
+      ]
+    },
+    {
+      "id": "msg-2023-0116-th-8247",
+      "timestamp": "2023-01-16T09:15:00-08:00",
+      "subject": "Reservation Confirmed - Thistle Midtown Manhattan",
+      "sender_name": "Thistle Hotels",
+      "sender_email": "reservations@thistlehotels.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation: TH-824715. Check-in: January 25, 2023. 3 nights, King room.",
+      "has_attachments": false,
+      "size_bytes": 18542,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2023-0220-pc-892",
+      "timestamp": "2023-02-20T11:22:00-08:00",
+      "subject": "Your Pacific Crest flight is confirmed",
+      "sender_name": "Pacific Crest Airlines",
+      "sender_email": "confirm@pacificcrestair.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PC-892. Portland to Chicago (ORD) on March 3, 2023. 2:15 PM departure.",
+      "has_attachments": true,
+      "size_bytes": 32150,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0221-at-567",
+      "timestamp": "2023-02-21T08:45:00-08:00",
+      "subject": "Atlas Rent-A-Car Reservation Confirmed",
+      "sender_name": "Atlas Rent-A-Car",
+      "sender_email": "reservations@atlasrental.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation: A-567890. Pickup: ORD Terminal 3, March 3, 5:00 PM. Compact SUV.",
+      "has_attachments": false,
+      "size_bytes": 12400,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0310-hw-556",
+      "timestamp": "2023-03-10T16:20:00-08:00",
+      "subject": "Horizon Wings - Booking for Marcus Bennett and Theo Harris",
+      "sender_name": "Horizon Wings",
+      "sender_email": "bookings@flyhorizonwings.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation HW-556. Two passengers PDX to Miami (MIA) on March 20, 2023.",
+      "has_attachments": true,
+      "size_bytes": 28900,
+      "labels": [
+        "Travel",
+        "Personal",
+        "Theo"
+      ]
+    },
+    {
+      "id": "msg-2023-0311-wf-884",
+      "timestamp": "2023-03-11T10:05:00-08:00",
+      "subject": "Wayfarer Booking Confirmed - Miami Beach",
+      "sender_name": "Wayfarer",
+      "sender_email": "confirm@wayfarer.travel",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Property: Ocean Drive Studio. March 20-27, 2023. Code: WF-884291.",
+      "has_attachments": true,
+      "size_bytes": 45620,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0405-cg-auth",
+      "timestamp": "2023-04-05T13:40:00-07:00",
+      "subject": "Travel Authorization: Seattle User Research",
+      "sender_name": "Cedar Grove Studio",
+      "sender_email": "travel@cedargrovestudio.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Approved: April 12-14 travel to Seattle. Project code: UX-SEA-0423.",
+      "has_attachments": false,
+      "size_bytes": 9850,
+      "labels": [
+        "Travel",
+        "Work",
+        "Approved"
+      ]
+    },
+    {
+      "id": "msg-2023-0404-cr-501",
+      "timestamp": "2023-04-04T09:30:00-07:00",
+      "subject": "CoastLine Rail E-Ticket Confirmation",
+      "sender_name": "CoastLine Rail",
+      "sender_email": "tickets@coastlinerail.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Train 501, April 12, 8:00 AM, PDX to SEA. Seat 12A, Car 2.",
+      "has_attachments": true,
+      "size_bytes": 19200,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2023-0526-sa-334",
+      "timestamp": "2023-05-26T10:15:00-07:00",
+      "subject": "Steele Aviation Confirmation - Denver",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SA-334. PDX to DEN, May 28-June 1. 2 checked bags included.",
+      "has_attachments": true,
+      "size_bytes": 26500,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0527-lh-112",
+      "timestamp": "2023-05-27T11:20:00-07:00",
+      "subject": "Lark Hotels - Denver Downtown Confirmed",
+      "sender_name": "Lark Hotels",
+      "sender_email": "book@larkhotels.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation: LH-112233. Check-in May 28, 3 nights.",
+      "has_attachments": false,
+      "size_bytes": 15800,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0612-hw-901",
+      "timestamp": "2023-06-12T14:45:00-07:00",
+      "subject": "Flight Confirmed: Portland to Austin (AUS)",
+      "sender_name": "Horizon Wings",
+      "sender_email": "bookings@flyhorizonwings.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation HW-901. June 22, arrives 6:30 PM. Meeting with client team.",
+      "has_attachments": true,
+      "size_bytes": 27800,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2023-0613-cs-446",
+      "timestamp": "2023-06-13T09:10:00-07:00",
+      "subject": "Cooper & Stone Inns - Austin Reservation",
+      "sender_name": "Cooper & Stone Inns",
+      "sender_email": "reservations@cooperstoneinn.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation CS-446. June 22-25, Downtown Austin, Conference rate.",
+      "has_attachments": false,
+      "size_bytes": 17200,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2023-0708-pc-667",
+      "timestamp": "2023-07-08T15:30:00-07:00",
+      "subject": "Pacific Crest Airlines - Boston Confirmation",
+      "sender_name": "Pacific Crest Airlines",
+      "sender_email": "confirm@pacificcrestair.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PC-667. July 15-22, PDX to BOS nonstop.",
+      "has_attachments": true,
+      "size_bytes": 31000,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0709-at-223",
+      "timestamp": "2023-07-09T08:55:00-07:00",
+      "subject": "Atlas Rent-A-Car - Boston Logan",
+      "sender_name": "Atlas Rent-A-Car",
+      "sender_email": "reservations@atlasrental.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation A-223344. Pickup July 15, Full size sedan.",
+      "has_attachments": false,
+      "size_bytes": 13500,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0814-sa-112",
+      "timestamp": "2023-08-14T11:00:00-07:00",
+      "subject": "Steele Aviation - San Francisco Business Trip",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SA-112. August 28-30, SFO. Client meeting scheduled.",
+      "has_attachments": true,
+      "size_bytes": 24800,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2023-0815-sa-update",
+      "timestamp": "2023-08-15T16:40:00-07:00",
+      "subject": "Flight Change Notification - SA112",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "New departure time: 10:15 AM. Previous: 9:30 AM.",
+      "has_attachments": false,
+      "size_bytes": 8900,
+      "labels": [
+        "Travel",
+        "Work",
+        "Updated"
+      ]
+    },
+    {
+      "id": "msg-2023-0922-pc-449",
+      "timestamp": "2023-09-22T10:25:00-07:00",
+      "subject": "Pacific Crest - Vancouver (YVR) Booking",
+      "sender_name": "Pacific Crest Airlines",
+      "sender_email": "confirm@pacificcrestair.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PC-449. October 6-9, PDX to YVR.",
+      "has_attachments": true,
+      "size_bytes": 29500,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-0923-th-van",
+      "timestamp": "2023-09-23T13:15:00-07:00",
+      "subject": "Thistle Hotels Vancouver - Confirmation",
+      "sender_name": "Thistle Hotels",
+      "sender_email": "reservations@thistlehotels.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation TH-998877. Granville Street location, Oct 6-9.",
+      "has_attachments": false,
+      "size_bytes": 16500,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-1018-hw-778",
+      "timestamp": "2023-10-18T09:45:00-07:00",
+      "subject": "Horizon Wings - New York JFK Confirmation",
+      "sender_name": "Horizon Wings",
+      "sender_email": "bookings@flyhorizonwings.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation HW-778. Nov 3-6, NYC getaway.",
+      "has_attachments": true,
+      "size_bytes": 28200,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-1019-tb-729",
+      "timestamp": "2023-10-19T11:30:00-07:00",
+      "subject": "TrekBook Itinerary: Arthouse Hotel New York",
+      "sender_name": "TrekBook",
+      "sender_email": "noreply@trekbook.io",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Itinerary: 7293847562910. Nov 3-6, Upper West Side.",
+      "has_attachments": true,
+      "size_bytes": 34200,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-1122-sa-223",
+      "timestamp": "2023-11-22T08:00:00-08:00",
+      "subject": "Steele Aviation - Phoenix Thanksgiving Travel",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SA-223. Nov 22-26, PHX. Passenger: Marcus Bennett + 1 (Theo).",
+      "has_attachments": true,
+      "size_bytes": 27000,
+      "labels": [
+        "Travel",
+        "Personal",
+        "Theo"
+      ]
+    },
+    {
+      "id": "msg-2023-1123-db-998",
+      "timestamp": "2023-11-23T14:20:00-08:00",
+      "subject": "Desert Bloom Resort - Scottsdale Confirmed",
+      "sender_name": "Desert Bloom Resort",
+      "sender_email": "desk@desertbloomresort.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation DB-9982. Nov 22-26, King Suite.",
+      "has_attachments": false,
+      "size_bytes": 18900,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2023-1220-pc-112",
+      "timestamp": "2023-12-20T16:10:00-08:00",
+      "subject": "Pacific Crest Airlines - Honolulu Holiday",
+      "sender_name": "Pacific Crest Airlines",
+      "sender_email": "confirm@pacificcrestair.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PC-112. Dec 23-Jan 2, Honolulu (HNL). Passengers: Marcus Bennett, Theo Harris.",
+      "has_attachments": true,
+      "size_bytes": 32000,
+      "labels": [
+        "Travel",
+        "Personal",
+        "Theo"
+      ]
+    },
+    {
+      "id": "msg-2023-1221-ks-987",
+      "timestamp": "2023-12-21T10:05:00-08:00",
+      "subject": "Koa Shore Resorts - Confirmation",
+      "sender_name": "Koa Shore Resorts",
+      "sender_email": "bookings@koashore.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation KS-987654. Ocean View Room, Dec 23-Jan 2.",
+      "has_attachments": true,
+      "size_bytes": 41000,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0109-hw-445",
+      "timestamp": "2024-01-09T13:30:00-08:00",
+      "subject": "Horizon Wings Corporate - Atlanta",
+      "sender_name": "Horizon Wings",
+      "sender_email": "bookings@flyhorizonwings.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation HW-445. Jan 15-18, ATL. Corporate rate applied.",
+      "has_attachments": true,
+      "size_bytes": 26000,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2024-0110-at-789",
+      "timestamp": "2024-01-10T09:45:00-08:00",
+      "subject": "Atlas Rent-A-Car - Atlanta Hartsfield",
+      "sender_name": "Atlas Rent-A-Car",
+      "sender_email": "reservations@atlasrental.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation A-789456. Compact car, Jan 15 pickup.",
+      "has_attachments": false,
+      "size_bytes": 12800,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2024-0216-sa-193",
+      "timestamp": "2024-02-16T11:20:00-08:00",
+      "subject": "Steele Aviation - Salt Lake City Ski Trip",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SA-193. Feb 23-28, SLC. Ski equipment allowance: 2 bags.",
+      "has_attachments": true,
+      "size_bytes": 27500,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0217-ao-338",
+      "timestamp": "2024-02-17T15:40:00-08:00",
+      "subject": "Alpine Outfitters - Equipment Rental Confirmed",
+      "sender_name": "Alpine Outfitters",
+      "sender_email": "orders@alpineoutfitters.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Order AO-33891. Skis delivered to Alta Lodge, Feb 24-27.",
+      "has_attachments": false,
+      "size_bytes": 15400,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0305-pc-228",
+      "timestamp": "2024-03-05T10:10:00-08:00",
+      "subject": "Pacific Crest - Boston UXPA Conference",
+      "sender_name": "Pacific Crest Airlines",
+      "sender_email": "confirm@pacificcrestair.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PC-228. Mar 28-31, BOS. Conference attendee.",
+      "has_attachments": true,
+      "size_bytes": 29800,
+      "labels": [
+        "Travel",
+        "Work",
+        "Conference"
+      ]
+    },
+    {
+      "id": "msg-2024-0306-lh-998",
+      "timestamp": "2024-03-06T14:25:00-08:00",
+      "subject": "Lark Hotels Boston Waterfront - Confirmed",
+      "sender_name": "Lark Hotels",
+      "sender_email": "book@larkhotels.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation LH-998877. Conference rate, Mar 28-31.",
+      "has_attachments": false,
+      "size_bytes": 16700,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2024-0410-sa-445",
+      "timestamp": "2024-04-10T09:00:00-07:00",
+      "subject": "Steele Aviation - San Diego Spring Break",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SA-445. Apr 15-19, SAN.",
+      "has_attachments": true,
+      "size_bytes": 26200,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0411-ph-889",
+      "timestamp": "2024-04-11T11:15:00-07:00",
+      "subject": "The Pearl Hotel Group - San Diego",
+      "sender_name": "The Pearl Hotel Group",
+      "sender_email": "hello@thepearlhotelgroup.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PRL-8892. Point Loma, Apr 15-19.",
+      "has_attachments": false,
+      "size_bytes": 17800,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0507-cct-den",
+      "timestamp": "2024-05-07T12:00:00-07:00",
+      "subject": "Compass Corporate Travel - Denver Research",
+      "sender_name": "Compass Corporate Travel",
+      "sender_email": "itinerary@compasscorptravel.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Booking ref: CGS-DEN-2405. Approved May 20-22.",
+      "has_attachments": false,
+      "size_bytes": 11000,
+      "labels": [
+        "Travel",
+        "Work",
+        "Approved"
+      ]
+    },
+    {
+      "id": "msg-2024-0508-sa-update",
+      "timestamp": "2024-05-08T08:30:00-07:00",
+      "subject": "Flight Update: Steele Aviation SA334",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Gate change: Now departing Gate C12.",
+      "has_attachments": false,
+      "size_bytes": 9200,
+      "labels": [
+        "Travel",
+        "Work",
+        "Updated"
+      ]
+    },
+    {
+      "id": "msg-2024-0615-m-901",
+      "timestamp": "2024-06-15T10:45:00-07:00",
+      "subject": "Meridian Airlines - London Heathrow (LHR)",
+      "sender_name": "Meridian Airlines",
+      "sender_email": "service@meridian.aero",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation M-901. Jun 28-Jul 12. World Traveller Plus.",
+      "has_attachments": true,
+      "size_bytes": 35600,
+      "labels": [
+        "Travel",
+        "Personal",
+        "International"
+      ]
+    },
+    {
+      "id": "msg-2024-0616-th-lon",
+      "timestamp": "2024-06-16T13:20:00-07:00",
+      "subject": "Thistle County Hall London - Confirmed",
+      "sender_name": "Thistle Hotels",
+      "sender_email": "reservations@thistlehotels.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation LON-884422. County Hall, Jun 28-Jul 2.",
+      "has_attachments": false,
+      "size_bytes": 19200,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0702-er-884",
+      "timestamp": "2024-07-02T09:00:00+01:00",
+      "subject": "EuroRail Direct Booking Confirmation",
+      "sender_name": "EuroRail Direct",
+      "sender_email": "bookings@euroraildirect.eu",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "July 2, London St Pancras to Paris Gare du Nord. Ref: ES8849.",
+      "has_attachments": true,
+      "size_bytes": 21000,
+      "labels": [
+        "Travel",
+        "Personal",
+        "Rail"
+      ]
+    },
+    {
+      "id": "msg-2024-0703-rdlp-948",
+      "timestamp": "2024-07-03T11:30:00+02:00",
+      "subject": "Rue de la Paix Hotels - Paris Reservation",
+      "sender_name": "Rue de la Paix Hotels",
+      "sender_email": "reservations@rdlphotels.fr",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation RDLP-948372. Jul 2-8, 2nd Arrondissement.",
+      "has_attachments": false,
+      "size_bytes": 18500,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0805-m-rt",
+      "timestamp": "2024-08-05T14:00:00-07:00",
+      "subject": "Meridian Airlines - Return to Portland",
+      "sender_name": "Meridian Airlines",
+      "sender_email": "service@meridian.aero",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "July 12 departure CDG to PDX. Confirmation M-901-RT.",
+      "has_attachments": true,
+      "size_bytes": 32400,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-0820-ssl-bend",
+      "timestamp": "2024-08-20T10:30:00-07:00",
+      "subject": "Sixth Street Lodge - Team Retreat",
+      "sender_name": "Sixth Street Lodge",
+      "sender_email": "bookings@sixthstreetlodge.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SSL-240820. Bend, OR. Aug 28-30, 8 rooms.",
+      "has_attachments": false,
+      "size_bytes": 14500,
+      "labels": [
+        "Travel",
+        "Work",
+        "Retreat"
+      ]
+    },
+    {
+      "id": "msg-2024-0911-hw-334",
+      "timestamp": "2024-09-11T15:15:00-07:00",
+      "subject": "Horizon Wings - NYC Research Trip",
+      "sender_name": "Horizon Wings",
+      "sender_email": "bookings@flyhorizonwings.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation HW-334. Sep 25-27, LGA. User research sessions.",
+      "has_attachments": true,
+      "size_bytes": 26800,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2024-0912-hx-992",
+      "timestamp": "2024-09-12T09:45:00-07:00",
+      "subject": "The Hoxton Group - Brooklyn Booking",
+      "sender_name": "The Hoxton Group",
+      "sender_email": "stay@thehoxtongroup.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation HX-BK-992. Williamsburg, Sep 25-27.",
+      "has_attachments": false,
+      "size_bytes": 17100,
+      "labels": [
+        "Travel",
+        "Work"
+      ]
+    },
+    {
+      "id": "msg-2024-1004-pc-667",
+      "timestamp": "2024-10-04T11:00:00-07:00",
+      "subject": "Pacific Crest - San Francisco Weekend",
+      "sender_name": "Pacific Crest Airlines",
+      "sender_email": "confirm@pacificcrestair.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation PC-667. Oct 18-20, SFO.",
+      "has_attachments": true,
+      "size_bytes": 29000,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-1005-cd-229",
+      "timestamp": "2024-10-05T10:20:00-07:00",
+      "subject": "CityDrive Rentals - San Francisco",
+      "sender_name": "CityDrive Rentals",
+      "sender_email": "confirm@citydrive.net",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation CD-229944. Civic Center pickup, Oct 18-20.",
+      "has_attachments": false,
+      "size_bytes": 13800,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-1126-sa-223",
+      "timestamp": "2024-11-26T08:45:00-08:00",
+      "subject": "Steele Aviation - Phoenix Thanksgiving",
+      "sender_name": "Steele Aviation",
+      "sender_email": "hello@steeleaviation.co",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation SA-223. Nov 27-Dec 1, PHX.",
+      "has_attachments": true,
+      "size_bytes": 27200,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-1127-db-556",
+      "timestamp": "2024-11-27T13:10:00-08:00",
+      "subject": "Desert Bloom Resort - Scottsdale",
+      "sender_name": "Desert Bloom Resort",
+      "sender_email": "desk@desertbloomresort.com",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation DB-556677. Andaz package, Nov 27-Dec 1.",
+      "has_attachments": false,
+      "size_bytes": 18200,
+      "labels": [
+        "Travel",
+        "Personal"
+      ]
+    },
+    {
+      "id": "msg-2024-1218-m-334",
+      "timestamp": "2024-12-18T16:30:00-08:00",
+      "subject": "Meridian Airlines - Holiday Travel to Newark",
+      "sender_name": "Meridian Airlines",
+      "sender_email": "service@meridian.aero",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Confirmation M-334. Dec 23-30, EWR. First Class.",
+      "has_attachments": true,
+      "size_bytes": 34000,
+      "labels": [
+        "Travel",
+        "Personal",
+        "Holiday"
+      ]
+    },
+    {
+      "id": "msg-2024-1219-m-check",
+      "timestamp": "2024-12-19T09:00:00-08:00",
+      "subject": "Check-in for your flight to Newark (EWR)",
+      "sender_name": "Meridian Airlines",
+      "sender_email": "service@meridian.aero",
+      "recipient_email": "marcus.bennett@harborinbox.com",
+      "snippet": "Flight M334 departs 6:00 AM Dec 23. Check-in opens 24 hours prior.",
+      "has_attachments": false,
+      "size_bytes": 8900,
+      "labels": [
+        "Travel",
+        "Personal",
+        "Reminder"
+      ]
+    }
+  ]
+}

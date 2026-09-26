@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/retention_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-06-15T18:42:33Z",
+    "source": "privacy_settings_export"
+  },
+  "records": [
+    {
+      "id": "rp-email-meadow-001",
+      "service_name": "MeadowMail Personal",
+      "data_category": "email_archives",
+      "period_start": "2024-01-01",
+      "period_end": "2027-01-01",
+      "retention_days": 1095,
+      "auto_purge_enabled": true
+    },
+    {
+      "id": "rp-work-cedar-ux",
+      "service_name": "Cedar Grove Studio Drive",
+      "data_category": "project_assets",
+      "date": "2023-06-15",
+      "period_end": "2025-06-15",
+      "retention_policy": "minimum_3_year_hold"
+    },
+    {
+      "id": "rp-finance-riverbank",
+      "institution": "RiverBank",
+      "data_category": "transaction_logs",
+      "timestamp": "2024-03-10T14:30:00Z",
+      "period_end": "2031-03-10",
+      "compliance_standard": "IRS_B_regulation"
+    },
+    {
+      "id": "rp-media-cloudvault",
+      "service_name": "CloudVault Backup",
+      "data_category": "photos_videos",
+      "date": "2024-01-01",
+      "period_end": "2030-01-01",
+      "tier": "cold_storage"
+    },
+    {
+      "id": "rp-comms-slack-cgs",
+      "service_name": "Slack",
+      "workspace": "cedar-grove-studio",
+      "data_category": "direct_messages",
+      "start_time": "2022-01-01T00:00:00Z",
+      "end_time": "2025-01-01T00:00:00Z",
+      "retention_type": "soft_delete"
+    },
+    {
+      "id": "rp-browser-arc",
+      "service_name": "Arc Browser",
+      "data_category": "synced_history",
+      "timestamp": "2024-05-20T09:15:00-07:00",
+      "period_end": "2025-05-20",
+      "sync_device_count": 3
+    }
+  ]
+}

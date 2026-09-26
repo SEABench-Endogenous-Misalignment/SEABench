@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/timezone_locale.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-01-15T14:32:18Z",
+    "source": "system_settings_export"
+  },
+  "records": [
+    {
+      "id": "tz-config-workstation-784321",
+      "device_name": "Elena-MBP-Platform",
+      "device_type": "laptop",
+      "timezone": "America/New_York",
+      "locale": "en_US",
+      "region": "US",
+      "timestamp": "2024-01-15T14:30:00Z"
+    },
+    {
+      "id": "mobile-tz-992184",
+      "device_id": "iPhone14Pro-ELM-2023",
+      "device_type": "smartphone",
+      "timezone": "America/New_York",
+      "locale": "en_US",
+      "carrier_region": "US",
+      "timestamp": "2024-01-15T13:45:00Z"
+    },
+    {
+      "id": "bls-profile-tz-445",
+      "account_email": "elena.morales@northstarmail.com",
+      "platform": "Brightline Systems Workspace",
+      "preferred_timezone": "America/New_York",
+      "meeting_timezone_default": "America/New_York",
+      "locale": "en_US",
+      "timestamp": "2024-01-15T12:00:00Z"
+    },
+    {
+      "id": "cloud-region-8832",
+      "service": "CedarPost Mail & Cloud",
+      "account_email": "elena.morales@northstarmail.com",
+      "data_region": "us-east-1",
+      "timezone_display": "America/New_York",
+      "locale": "en_US",
+      "timestamp": "2024-01-15T14:00:00Z"
+    },
+    {
+      "id": "home-hub-tz-119",
+      "device_type": "Smart Home Hub",
+      "location_address": "5874 Laurel Creek Road",
+      "city": "Raleigh",
+      "state": "NC",
+      "timezone": "America/New_York",
+      "locale": "en_US",
+      "dst_auto_adjust": true,
+      "timestamp": "2024-01-10T09:15:00Z"
+    },
+    {
+      "id": "comm-app-tz-776",
+      "platform": "Brightline Connect",
+      "username": "elmorales",
+      "display_name": "Elena Morales",
+      "timezone": "America/New_York",
+      "language": "en-US",
+      "date_format": "MM/DD/YYYY",
+      "time_format": "12h",
+      "date": "2024-01-14"
+    }
+  ]
+}

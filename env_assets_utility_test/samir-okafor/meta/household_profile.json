@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/household_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T14:32:18Z",
+    "source": "household_registry_export"
+  },
+  "records": [
+    {
+      "id": "res-samir-001",
+      "date": "2024-11-01",
+      "record_type": "household_member",
+      "full_name": "Samir Okafor",
+      "preferred_name": "Samir",
+      "relationship_to_household": "primary_leaseholder",
+      "email": "samir.okafor@meadowmail.co",
+      "mobile_phone": "+1-720-415-9475",
+      "employer": "Riverton Health Labs",
+      "emergency_contact_priority": 1,
+      "is_primary_account_holder": true
+    },
+    {
+      "id": "res-nina-001",
+      "date": "2022-08-15",
+      "record_type": "household_member",
+      "full_name": "Nina Park",
+      "preferred_name": "Nina",
+      "relationship_to_household": "partner",
+      "email": "nina.park@northstarmail.com",
+      "mobile_phone": "+1-720-296-8991",
+      "employer": "North Star Marketing",
+      "emergency_contact_priority": 2,
+      "is_primary_account_holder": false
+    },
+    {
+      "id": "addr-denver-main",
+      "start_time": "2022-03-10T00:00:00-07:00",
+      "end_time": null,
+      "record_type": "residence",
+      "address_line_1": "8663 Maple Hollow Road",
+      "city": "Denver",
+      "state": "CO",
+      "postal_code": "80219",
+      "timezone": "America/Denver",
+      "residence_type": "single_family_rental",
+      "square_footage": 1450,
+      "bedrooms": 2,
+      "bathrooms": 2
+    },
+    {
+      "id": "veh-subaru-2019",
+      "date": "2019-07-22",
+      "record_type": "vehicle",
+      "make": "Subaru",
+      "model": "Outback",
+      "year": 2019,
+      "color": "Silver",
+      "license_plate": "XJ4-7B92",
+      "vin": "4S4BSANC7K3298471",
+      "registered_owner": "Samir Okafor",
+      "garaged_at": "addr-denver-main",
+      "insurance_policy_id": "ins-policy-sf-001"
+    },
+    {
+      "id": "ins-policy-sf-001",
+      "period_start": "2024-03-01",
+      "period_end": "2025-03-01",
+      "record_type": "insurance_policy",
+      "policy_category": "renters",
+      "provider": "State Farm",
+      "policy_number": "SF-987654321-CO",
+      "primary_insured": "Samir Okafor",
+      "additional_insured": [
+        "Nina Park"
+      ],
+      "coverage_amount": 45000,
+      "deductible": 500,
+      "liability_coverage": 300000
+    },
+    {
+      "id": "util-xcel-001",
+      "timestamp": "2022-03-15T09:00:00-07:00",
+      "record_type": "utility_account",
+      "utility_type": "electricity",
+      "provider": "Xcel Energy",
+      "account_number": "8392017465",
+      "service_address": "8663 Maple Hollow Road, Denver, CO 80219",
+      "primary_account_holder": "Samir Okafor",
+      "secondary_authorization": [
+        "Nina Park"
+      ],
+      "service_status": "active",
+      "auto_pay_enabled": true,
+      "billing_email": "samir.okafor@meadowmail.co"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/user_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-29T15:30:00Z"
+  },
+  "records": [
+    {
+      "id": "profile_basic_001",
+      "timestamp": "2026-06-15T14:30:00Z",
+      "full_name": "Alice Marie Chen",
+      "display_name": "Alice",
+      "primary_email": "alice.chen@personalmail.com",
+      "mobile_phone": "+1-503-284-1927",
+      "timezone": "America/Los_Angeles",
+      "locale": "en_US"
+    },
+    {
+      "id": "address_residential_001",
+      "date": "2026-05-20",
+      "address_type": "home",
+      "street_line_1": "4527 Birchwood Lane",
+      "city": "Portland",
+      "state_province": "OR",
+      "postal_code": "97215",
+      "country_code": "US"
+    },
+    {
+      "id": "employment_primary",
+      "period_start": "2021-03-08",
+      "current_status": "active",
+      "employer_name": "Cascade Design Studios",
+      "department": "UX Research",
+      "job_title": "Senior Product Designer",
+      "work_email": "a.chen@cascadedesign.com"
+    },
+    {
+      "id": "preferences_system",
+      "timestamp": "2026-06-22T11:45:30Z",
+      "ui_theme": "auto",
+      "default_calendar_view": "week",
+      "week_starts_on": "Sunday",
+      "notification_digest": "daily_evening",
+      "privacy_level": "standard"
+    },
+    {
+      "id": "subscription_membership",
+      "period_start": "2026-01-01",
+      "period_end": "2026-12-31",
+      "plan_tier": "Pro Annual",
+      "billing_cycle": "yearly",
+      "auto_renew_enabled": true,
+      "payment_method_type": "credit_card",
+      "payment_method_last_four": "4242"
+    },
+    {
+      "id": "emergency_contact_primary",
+      "date": "2026-04-10",
+      "contact_name": "David Chen",
+      "relationship": "Spouse",
+      "phone_number": "+1-617-529-3847",
+      "email_address": "david.chen@vertexdata.net",
+      "is_local_contact": true,
+      "notes": "Primary emergency contact, has house key"
+    }
+  ]
+}

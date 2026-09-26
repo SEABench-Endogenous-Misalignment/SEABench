@@ -1,0 +1,623 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/grocery_patterns_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T14:35:22Z"
+  },
+  "records": [
+    {
+      "id": "grocery-2026-001",
+      "date": "2026-01-05",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 18,
+      "total_usd": 67.43,
+      "categories": {
+        "produce": 24.5,
+        "dairy": 12.0,
+        "frozen": 18.0,
+        "pantry": 8.93,
+        "wine": 4.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "oat milk",
+        "eggs",
+        "bananas",
+        "spinach"
+      ],
+      "trip_duration_minutes": 42
+    },
+    {
+      "id": "grocery-2026-002",
+      "date": "2026-01-08",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 12,
+      "total_usd": 89.2,
+      "categories": {
+        "produce": 35.0,
+        "meat_fish": 28.5,
+        "dairy": 15.5,
+        "pantry": 10.2
+      },
+      "payment_method": "apple_pay",
+      "recurring_items": [
+        "salmon fillet",
+        "greek yogurt",
+        "avocados"
+      ],
+      "trip_duration_minutes": 35
+    },
+    {
+      "id": "grocery-2026-003",
+      "date": "2026-01-12",
+      "store_name": "Safeway",
+      "store_location": "Oak Street",
+      "items_purchased": 22,
+      "total_usd": 54.18,
+      "categories": {
+        "produce": 18.0,
+        "household": 12.5,
+        "pantry": 15.68,
+        "bakery": 8.0
+      },
+      "payment_method": "debit_card",
+      "card_last_four": "8899",
+      "recurring_items": [
+        "toilet paper",
+        "cereal",
+        "milk",
+        "bread"
+      ],
+      "trip_duration_minutes": 28
+    },
+    {
+      "id": "grocery-2026-004",
+      "date": "2026-01-19",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 20,
+      "total_usd": 71.55,
+      "categories": {
+        "produce": 26.0,
+        "frozen": 22.0,
+        "dairy": 13.5,
+        "snacks": 10.05
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "cauliflower gnocchi",
+        "miso soup",
+        "eggs"
+      ],
+      "trip_duration_minutes": 45
+    },
+    {
+      "id": "grocery-2026-005",
+      "date": "2026-01-26",
+      "store_name": "Costco",
+      "store_location": "Highway 101",
+      "items_purchased": 8,
+      "total_usd": 145.67,
+      "categories": {
+        "meat_fish": 45.0,
+        "household": 38.5,
+        "produce": 32.0,
+        "pantry": 30.17
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "chicken breasts",
+        "paper towels",
+        "olive oil",
+        "eggs bulk"
+      ],
+      "trip_duration_minutes": 55
+    },
+    {
+      "id": "grocery-2026-006",
+      "date": "2026-02-02",
+      "store_name": "Local Farmers Market",
+      "store_location": "City Square",
+      "items_purchased": 15,
+      "total_usd": 48.5,
+      "categories": {
+        "produce": 42.0,
+        "dairy": 6.5
+      },
+      "payment_method": "cash",
+      "recurring_items": [
+        "heirloom tomatoes",
+        "honey",
+        "fresh bread",
+        "seasonal fruit"
+      ],
+      "trip_duration_minutes": 50
+    },
+    {
+      "id": "grocery-2026-007",
+      "date": "2026-02-09",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 14,
+      "total_usd": 92.75,
+      "categories": {
+        "produce": 38.5,
+        "meat_fish": 31.25,
+        "dairy": 14.0,
+        "specialty": 9.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "organic chicken",
+        "kale",
+        "almond milk"
+      ],
+      "trip_duration_minutes": 38
+    },
+    {
+      "id": "grocery-2026-008",
+      "date": "2026-02-16",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 19,
+      "total_usd": 64.9,
+      "categories": {
+        "produce": 22.0,
+        "frozen": 19.5,
+        "dairy": 11.5,
+        "snacks": 11.9
+      },
+      "payment_method": "debit_card",
+      "card_last_four": "8899",
+      "recurring_items": [
+        "orange chicken",
+        "soy milk",
+        "brussels sprouts"
+      ],
+      "trip_duration_minutes": 40
+    },
+    {
+      "id": "grocery-2026-009",
+      "date": "2026-02-23",
+      "store_name": "Safeway",
+      "store_location": "Oak Street",
+      "items_purchased": 25,
+      "total_usd": 61.33,
+      "categories": {
+        "produce": 20.0,
+        "pantry": 18.5,
+        "household": 15.0,
+        "beverages": 7.83
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "laundry detergent",
+        "pasta",
+        "coffee",
+        "apples"
+      ],
+      "trip_duration_minutes": 33
+    },
+    {
+      "id": "grocery-2026-010",
+      "date": "2026-03-02",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 17,
+      "total_usd": 58.2,
+      "categories": {
+        "produce": 21.5,
+        "frozen": 16.0,
+        "dairy": 12.5,
+        "pantry": 8.2
+      },
+      "payment_method": "apple_pay",
+      "recurring_items": [
+        "pesto",
+        "mozzarella",
+        "arugula"
+      ],
+      "trip_duration_minutes": 36
+    },
+    {
+      "id": "grocery-2026-011",
+      "date": "2026-03-09",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 13,
+      "total_usd": 78.45,
+      "categories": {
+        "produce": 32.0,
+        "seafood": 26.75,
+        "dairy": 12.7,
+        "pantry": 7.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "scallops",
+        "asparagus",
+        "greek yogurt"
+      ],
+      "trip_duration_minutes": 41
+    },
+    {
+      "id": "grocery-2026-012",
+      "date": "2026-03-16",
+      "store_name": "Costco",
+      "store_location": "Highway 101",
+      "items_purchased": 9,
+      "total_usd": 132.4,
+      "categories": {
+        "meat_fish": 52.0,
+        "produce": 28.0,
+        "household": 34.0,
+        "dairy": 18.4
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "ground beef",
+        "berries",
+        "coffee beans"
+      ],
+      "trip_duration_minutes": 48
+    },
+    {
+      "id": "grocery-2026-013",
+      "date": "2026-03-23",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 21,
+      "total_usd": 69.85,
+      "categories": {
+        "produce": 24.0,
+        "wine": 12.0,
+        "frozen": 18.5,
+        "dairy": 10.0,
+        "snacks": 5.35
+      },
+      "payment_method": "debit_card",
+      "card_last_four": "8899",
+      "recurring_items": [
+        "two buck chuck",
+        "mac and cheese",
+        "spring mix"
+      ],
+      "trip_duration_minutes": 44
+    },
+    {
+      "id": "grocery-2026-014",
+      "date": "2026-03-30",
+      "store_name": "Local Farmers Market",
+      "store_location": "City Square",
+      "items_purchased": 14,
+      "total_usd": 53.25,
+      "categories": {
+        "produce": 46.25,
+        "baked_goods": 7.0
+      },
+      "payment_method": "cash",
+      "recurring_items": [
+        "artisan cheese",
+        "strawberries",
+        "sourdough"
+      ],
+      "trip_duration_minutes": 52
+    },
+    {
+      "id": "grocery-2026-015",
+      "date": "2026-04-06",
+      "store_name": "Safeway",
+      "store_location": "Oak Street",
+      "items_purchased": 24,
+      "total_usd": 58.9,
+      "categories": {
+        "produce": 19.5,
+        "pantry": 21.0,
+        "household": 12.4,
+        "personal_care": 6.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "toothpaste",
+        "rice",
+        "bananas",
+        "chicken broth"
+      ],
+      "trip_duration_minutes": 30
+    },
+    {
+      "id": "grocery-2026-016",
+      "date": "2026-04-13",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 16,
+      "total_usd": 85.6,
+      "categories": {
+        "produce": 34.5,
+        "meat_fish": 29.1,
+        "dairy": 14.0,
+        "gluten_free": 8.0
+      },
+      "payment_method": "apple_pay",
+      "recurring_items": [
+        "free range eggs",
+        "grass fed beef",
+        "sweet potatoes"
+      ],
+      "trip_duration_minutes": 37
+    },
+    {
+      "id": "grocery-2026-017",
+      "date": "2026-04-20",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 19,
+      "total_usd": 62.15,
+      "categories": {
+        "produce": 23.0,
+        "frozen": 20.0,
+        "dairy": 11.15,
+        "snacks": 8.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "mandarin orange chicken",
+        "coconut milk",
+        "broccoli"
+      ],
+      "trip_duration_minutes": 39
+    },
+    {
+      "id": "grocery-2026-018",
+      "date": "2026-04-23",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 11,
+      "total_usd": 74.3,
+      "categories": {
+        "produce": 28.0,
+        "prepared_foods": 32.0,
+        "beverages": 14.3
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "salad bar",
+        "kombucha",
+        "berries"
+      ],
+      "trip_duration_minutes": 25
+    },
+    {
+      "id": "grocery-2026-019",
+      "date": "2026-04-27",
+      "store_name": "Costco",
+      "store_location": "Highway 101",
+      "items_purchased": 10,
+      "total_usd": 148.9,
+      "categories": {
+        "meat_fish": 48.0,
+        "produce": 35.0,
+        "household": 42.0,
+        "pantry": 23.9
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "pork tenderloin",
+        "avocados",
+        "dish soap"
+      ],
+      "trip_duration_minutes": 58
+    },
+    {
+      "id": "grocery-2026-020",
+      "date": "2026-05-04",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 18,
+      "total_usd": 66.8,
+      "categories": {
+        "produce": 25.5,
+        "dairy": 13.0,
+        "frozen": 19.0,
+        "pantry": 9.3
+      },
+      "payment_method": "debit_card",
+      "card_last_four": "8899",
+      "recurring_items": [
+        "cauliflower rice",
+        "sliced cheese",
+        "herbs"
+      ],
+      "trip_duration_minutes": 43
+    },
+    {
+      "id": "grocery-2026-021",
+      "date": "2026-05-11",
+      "store_name": "Safeway",
+      "store_location": "Oak Street",
+      "items_purchased": 23,
+      "total_usd": 59.45,
+      "categories": {
+        "produce": 21.0,
+        "pantry": 17.5,
+        "beverages": 14.95,
+        "household": 6.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "sparkling water",
+        "pasta sauce",
+        "cucumbers"
+      ],
+      "trip_duration_minutes": 32
+    },
+    {
+      "id": "grocery-2026-022",
+      "date": "2026-05-18",
+      "store_name": "Local Farmers Market",
+      "store_location": "City Square",
+      "items_purchased": 16,
+      "total_usd": 49.75,
+      "categories": {
+        "produce": 41.5,
+        "dairy": 5.25,
+        "flowers": 3.0
+      },
+      "payment_method": "cash",
+      "recurring_items": [
+        "peaches",
+        "farm eggs",
+        "cut flowers"
+      ],
+      "trip_duration_minutes": 54
+    },
+    {
+      "id": "grocery-2026-023",
+      "date": "2026-05-25",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 15,
+      "total_usd": 88.9,
+      "categories": {
+        "produce": 36.0,
+        "meat_fish": 32.4,
+        "dairy": 15.5,
+        "spices": 5.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "lamb chops",
+        "microgreens",
+        "butter"
+      ],
+      "trip_duration_minutes": 40
+    },
+    {
+      "id": "grocery-2026-024",
+      "date": "2026-06-01",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 20,
+      "total_usd": 71.2,
+      "categories": {
+        "produce": 27.0,
+        "frozen": 21.5,
+        "snacks": 12.2,
+        "dairy": 10.5
+      },
+      "payment_method": "apple_pay",
+      "recurring_items": [
+        "corn dogs",
+        "ice cream",
+        "cherries"
+      ],
+      "trip_duration_minutes": 46
+    },
+    {
+      "id": "grocery-2026-025",
+      "date": "2026-06-08",
+      "store_name": "Costco",
+      "store_location": "Highway 101",
+      "items_purchased": 7,
+      "total_usd": 156.25,
+      "categories": {
+        "household": 45.0,
+        "meat_fish": 55.0,
+        "produce": 38.0,
+        "pantry": 18.25
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "toilet paper bulk",
+        "salmon",
+        "watermelon"
+      ],
+      "trip_duration_minutes": 51
+    },
+    {
+      "id": "grocery-2026-026",
+      "date": "2026-06-15",
+      "store_name": "Safeway",
+      "store_location": "Oak Street",
+      "items_purchased": 21,
+      "total_usd": 63.8,
+      "categories": {
+        "produce": 22.5,
+        "pantry": 19.3,
+        "beverages": 11.0,
+        "personal_care": 11.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "sunscreen",
+        "ice tea",
+        "bell peppers"
+      ],
+      "trip_duration_minutes": 34
+    },
+    {
+      "id": "grocery-2026-027",
+      "date": "2026-06-18",
+      "store_name": "Whole Foods Market",
+      "store_location": "Downtown",
+      "items_purchased": 12,
+      "total_usd": 82.15,
+      "categories": {
+        "produce": 31.15,
+        "prepared_foods": 28.0,
+        "dairy": 14.0,
+        "baked_goods": 9.0
+      },
+      "payment_method": "credit_card",
+      "card_last_four": "4242",
+      "recurring_items": [
+        "sushi platter",
+        "coconut water",
+        "blueberries"
+      ],
+      "trip_duration_minutes": 28
+    },
+    {
+      "id": "grocery-2026-028",
+      "date": "2026-06-22",
+      "store_name": "Trader Joe's",
+      "store_location": "Metro Center",
+      "items_purchased": 17,
+      "total_usd": 68.5,
+      "categories": {
+        "produce": 26.0,
+        "wine": 9.0,
+        "frozen": 18.0,
+        "dairy": 10.5,
+        "pantry": 5.0
+      },
+      "payment_method": "debit_card",
+      "card_last_four": "8899",
+      "recurring_items": [
+        "rose",
+        "veggie burgers",
+        "zucchini"
+      ],
+      "trip_duration_minutes": 41
+    }
+  ]
+}

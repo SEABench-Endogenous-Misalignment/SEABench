@@ -1,0 +1,493 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/sent/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "sent_2026_001",
+      "timestamp": "2026-01-05T14:30:00Z",
+      "date": "2026-01-05",
+      "subject": "Phoenix Project Q1 Roadmap - Draft Review",
+      "to": [
+        "robert.chen@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Attached is the draft roadmap for Q1. Please review the milestone dates...",
+      "thread_id": "thread_phoenix_q1",
+      "labels": [
+        "work",
+        "phoenix-project",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_002",
+      "timestamp": "2026-01-12T10:15:00Z",
+      "date": "2026-01-12",
+      "subject": "Re: Client Feedback - Meridian Corp",
+      "to": [
+        "sarah.jones@meridiancorp.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Thanks for the detailed feedback. I've incorporated the changes...",
+      "thread_id": "thread_meridian_feedback",
+      "labels": [
+        "work",
+        "meridian",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_003",
+      "timestamp": "2026-01-20T16:00:00Z",
+      "date": "2026-01-20",
+      "subject": "Mom's 70th Birthday Party Planning",
+      "to": [
+        "david.smith@email.com",
+        "lisa.smith@email.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Thinking we should book the garden venue at Miller's Greenhouse...",
+      "thread_id": "thread_mom_bday",
+      "labels": [
+        "personal",
+        "family",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_004",
+      "timestamp": "2026-01-28T09:00:00Z",
+      "date": "2026-01-28",
+      "subject": "Refinance Application - Document Request",
+      "to": [
+        "james.wilson@citymortgage.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Please find attached the W2s and bank statements for the application...",
+      "thread_id": "thread_mortgage_refi",
+      "labels": [
+        "financial",
+        "mortgage",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_005",
+      "timestamp": "2026-02-03T11:30:00Z",
+      "date": "2026-02-03",
+      "subject": "Weekly Sync - Scheduling Change",
+      "to": [
+        "team-alpha@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Can we move Thursday's sync to Friday 2pm due to client call...",
+      "thread_id": "thread_team_sync",
+      "labels": [
+        "work",
+        "team-alpha",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_006",
+      "timestamp": "2026-02-10T15:45:00Z",
+      "date": "2026-02-10",
+      "subject": "Update on Dr. Patterson Appointment",
+      "to": [
+        "mom@family.net"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Spoke with the clinic. They moved your cardiology follow-up to March 4th...",
+      "thread_id": "thread_mom_health",
+      "labels": [
+        "personal",
+        "health",
+        "family",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_007",
+      "timestamp": "2026-02-14T08:20:00Z",
+      "date": "2026-02-14",
+      "subject": "Appointment Confirmation - Dr. Lee Dental",
+      "to": [
+        "reception@oakdental.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Confirming my cleaning appointment for March 3rd at 10am...",
+      "thread_id": "thread_dental_appt",
+      "labels": [
+        "health",
+        "appointments",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_008",
+      "timestamp": "2026-02-18T13:00:00Z",
+      "date": "2026-02-18",
+      "subject": "Portfolio Rebalancing - Q1 Strategy",
+      "to": [
+        "advisor@wealthplanning.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Given current volatility, I'd like to shift 10% from equities to bonds...",
+      "thread_id": "thread_investments",
+      "labels": [
+        "financial",
+        "investments",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_009",
+      "timestamp": "2026-02-25T17:10:00Z",
+      "date": "2026-02-25",
+      "subject": "FY2026 Budget Approval Needed",
+      "to": [
+        "finance@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Requesting approval for the $45K server upgrade for Phoenix...",
+      "thread_id": "thread_budget_2026",
+      "labels": [
+        "work",
+        "finance",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_010",
+      "timestamp": "2026-03-02T10:00:00Z",
+      "date": "2026-03-02",
+      "subject": "Unit 4B - Water Damage Inquiry",
+      "to": [
+        "management@condoassoc.org"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Regarding the leak from 5B into my unit on Feb 28. Damage assessment attached...",
+      "thread_id": "thread_condo_leak",
+      "labels": [
+        "personal",
+        "housing",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_011",
+      "timestamp": "2026-03-08T14:30:00Z",
+      "date": "2026-03-08",
+      "subject": "Architecture Review Notes",
+      "to": [
+        "dev-team@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Key decisions: 1) Postgres 15 upgrade approved, 2) API gateway migration postponed...",
+      "thread_id": "thread_arch_review",
+      "labels": [
+        "work",
+        "architecture",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_012",
+      "timestamp": "2026-03-12T09:15:00Z",
+      "date": "2026-03-12",
+      "subject": "Dinner Saturday?",
+      "to": [
+        "sarah.miller@gmail.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Are you free Saturday at 7? Found that new Italian place on Maple...",
+      "thread_id": "thread_dinner_sarah",
+      "labels": [
+        "personal",
+        "social",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_013",
+      "timestamp": "2026-03-15T11:00:00Z",
+      "date": "2026-03-15",
+      "subject": "Tax Documents - 2025 Return",
+      "to": [
+        "prep@acctservices.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Attached are the remaining 1099s and charitable donation receipts...",
+      "thread_id": "thread_taxes_2025",
+      "labels": [
+        "financial",
+        "taxes",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_014",
+      "timestamp": "2026-03-18T16:30:00Z",
+      "date": "2026-03-18",
+      "subject": "Session Rescheduling Request",
+      "to": [
+        "scheduling@mindfultherapy.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "I need to move Thursday's appointment to next Tuesday same time...",
+      "thread_id": "thread_therapy_appt",
+      "labels": [
+        "health",
+        "therapy",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_015",
+      "timestamp": "2026-03-22T10:45:00Z",
+      "date": "2026-03-22",
+      "subject": "Contract Questions - Vendor Agreement",
+      "to": [
+        "legal@vendorx.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Section 4.2 regarding liability limits seems inconsistent with our prior discussion...",
+      "thread_id": "thread_vendor_contract",
+      "labels": [
+        "work",
+        "legal",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_016",
+      "timestamp": "2026-03-28T08:00:00Z",
+      "date": "2026-03-28",
+      "subject": "Cancellation Request - Membership",
+      "to": [
+        "support@fitlife-gym.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Please cancel my membership effective April 30 due to relocation...",
+      "thread_id": "thread_gym_cancel",
+      "labels": [
+        "personal",
+        "membership",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_017",
+      "timestamp": "2026-04-05T13:20:00Z",
+      "date": "2026-04-05",
+      "subject": "Sprint 12 Retrospective Summary",
+      "to": [
+        "phoenix-team@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Action items: 1) Improve CI pipeline speed, 2) Refactor authentication module...",
+      "thread_id": "thread_retro_12",
+      "labels": [
+        "work",
+        "agile",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_018",
+      "timestamp": "2026-04-12T11:00:00Z",
+      "date": "2026-04-12",
+      "subject": "Lake Tahoe Rental - Booking Confirmation",
+      "to": [
+        "tahorentals@vacay.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Confirming the June 20-27 booking. Sending deposit confirmation shortly...",
+      "thread_id": "thread_tahoe_rental",
+      "labels": [
+        "personal",
+        "travel",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_019",
+      "timestamp": "2026-04-18T09:30:00Z",
+      "date": "2026-04-18",
+      "subject": "Policy #H89234 - Renewal Questions",
+      "to": [
+        "service@homeguardins.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Why did the premium increase 18% this year despite no claims...",
+      "thread_id": "thread_insurance_renew",
+      "labels": [
+        "financial",
+        "insurance",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_020",
+      "timestamp": "2026-04-25T15:00:00Z",
+      "date": "2026-04-25",
+      "subject": "Q1 Performance Review - Self Assessment",
+      "to": [
+        "hr@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Attached is my self-assessment and revised goals for Q2...",
+      "thread_id": "thread_perf_review",
+      "labels": [
+        "work",
+        "hr",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_021",
+      "timestamp": "2026-05-03T10:10:00Z",
+      "date": "2026-05-03",
+      "subject": "Claim #998877 - Follow Up Required",
+      "to": [
+        "claims@seniorcareins.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Dad's physical therapy claim was denied. Requesting review of medical necessity...",
+      "thread_id": "thread_insurance_claim",
+      "labels": [
+        "family",
+        "insurance",
+        "health",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_022",
+      "timestamp": "2026-05-10T14:00:00Z",
+      "date": "2026-05-10",
+      "subject": "Onboarding Schedule - New Developer",
+      "to": [
+        "hiring@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "I've blocked Tuesday for system architecture overview and Thursday for codebase walkthrough...",
+      "thread_id": "thread_onboarding_may",
+      "labels": [
+        "work",
+        "hiring",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_023",
+      "timestamp": "2026-05-16T11:30:00Z",
+      "date": "2026-05-16",
+      "subject": "Consultation Request - Contract Dispute",
+      "to": [
+        "intake@legalpartners.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "I need to discuss interpretation of a non-compete clause in my previous employment agreement...",
+      "thread_id": "thread_legal_consult",
+      "labels": [
+        "legal",
+        "employment",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_024",
+      "timestamp": "2026-05-22T09:00:00Z",
+      "date": "2026-05-22",
+      "subject": "Re: Wedding Invitation",
+      "to": [
+        "cousin.emily@yahoo.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "So excited for August! Confirming plus one attendance and dietary preferences...",
+      "thread_id": "thread_wedding_rsvp",
+      "labels": [
+        "personal",
+        "family",
+        "events",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_025",
+      "timestamp": "2026-05-28T16:45:00Z",
+      "date": "2026-05-28",
+      "subject": "Project Handover Documentation",
+      "to": [
+        "successor@techsolutions.io",
+        "manager@techsolutions.io"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Complete documentation attached. Access credentials will be transferred via secure channel...",
+      "thread_id": "thread_handover_may",
+      "labels": [
+        "work",
+        "transition",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_026",
+      "timestamp": "2026-06-05T10:30:00Z",
+      "date": "2026-06-05",
+      "subject": "Wire Transfer Inquiry",
+      "to": [
+        "service@nationalbank.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Checking status on transfer reference #WT884321 to First National Escrow...",
+      "thread_id": "thread_wire_transfer",
+      "labels": [
+        "financial",
+        "banking",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_027",
+      "timestamp": "2026-06-15T13:15:00Z",
+      "date": "2026-06-15",
+      "subject": "Flight Itinerary - Confirmation",
+      "to": [
+        "bookings@airtravel.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "Please confirm aisle seat selection for flight AA224 on July 10...",
+      "thread_id": "thread_flight_conf",
+      "labels": [
+        "travel",
+        "personal",
+        "sent"
+      ]
+    },
+    {
+      "id": "sent_2026_028",
+      "timestamp": "2026-06-24T11:00:00Z",
+      "date": "2026-06-24",
+      "subject": "Final Deliverables - Meridian Sign-off",
+      "to": [
+        "stakeholders@meridiancorp.com"
+      ],
+      "from": "alice@personal-domain.com",
+      "snippet": "All acceptance criteria met. Awaiting final signatures to close the project...",
+      "thread_id": "thread_meridian_final",
+      "labels": [
+        "work",
+        "meridian",
+        "project-closure",
+        "sent"
+      ]
+    }
+  ]
+}

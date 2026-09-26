@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/source_catalog.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-05-17T14:32:11Z",
+    "source": "integration_registry_export"
+  },
+  "records": [
+    {
+      "id": "conn-exch-cedar-7a3f",
+      "timestamp": "2023-08-14T16:30:00Z",
+      "service_name": "Microsoft Exchange Online",
+      "account_identifier": "marcus.bennett@harborinbox.com",
+      "connection_type": "oauth2",
+      "sync_status": "active"
+    },
+    {
+      "id": "conn-imap-meadow-9k2m",
+      "timestamp": "2023-09-02T11:15:00Z",
+      "service_name": "MeadowMail IMAP",
+      "account_identifier": "marcus.bennett@harborinbox.com",
+      "connection_type": "password_secure",
+      "sync_status": "active"
+    },
+    {
+      "id": "conn-cal-google-4p8q",
+      "timestamp": "2023-08-14T16:35:00Z",
+      "service_name": "Google Calendar",
+      "account_identifier": "marcus.bennett@harborinbox.com",
+      "connection_type": "oauth2",
+      "sync_status": "active"
+    },
+    {
+      "id": "conn-cloud-dropbox-2t5n",
+      "timestamp": "2023-10-05T14:22:00Z",
+      "service_name": "Dropbox Business",
+      "account_identifier": "marcus.bennett@harborinbox.com",
+      "connection_type": "oauth2",
+      "sync_status": "active"
+    },
+    {
+      "id": "conn-pm-asana-8v1c",
+      "timestamp": "2023-11-12T09:45:00Z",
+      "service_name": "Asana",
+      "account_identifier": "marcus.bennett@harborinbox.com",
+      "connection_type": "oauth2",
+      "sync_status": "active"
+    },
+    {
+      "id": "conn-finance-ynab-5x9j",
+      "timestamp": "2024-01-08T20:10:00Z",
+      "service_name": "YNAB",
+      "account_identifier": "marcus.b@meadowmail.co",
+      "connection_type": "oauth2",
+      "sync_status": "active"
+    }
+  ]
+}

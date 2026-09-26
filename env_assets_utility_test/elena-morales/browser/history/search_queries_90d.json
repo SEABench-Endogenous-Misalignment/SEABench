@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/search_queries_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-15T14:30:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "a7f3c9e2-8d5b-4e1a-9c6d-3b8f2e1a5c9d",
+      "timestamp": "2024-07-12T10:15:00-05:00",
+      "query": "Cedar Grove Studio quarterly roadmap 2024",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Cedar+Grove+Studio+quarterly+roadmap+2024",
+      "clicked_result_url": "https://internal.cedargrovestudio.com/wiki/q3-roadmap",
+      "clicked_result_title": "Q3 2024 Roadmap - Platform Design - Cedar Grove Studio Wiki"
+    },
+    {
+      "id": "b8e4d1f3-9e6c-4f2b-0d7e-4c9g3f2b6d0e",
+      "timestamp": "2024-07-10T14:22:00-05:00",
+      "query": "Figma variables tutorial advanced components",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Figma+variables+tutorial+advanced+components",
+      "clicked_result_url": "https://help.figma.com/hc/en-us/articles/15339657135383-Guide-to-variables",
+      "clicked_result_title": "Guide to variables - Figma Help Center"
+    },
+    {
+      "id": "c9f5e2a4-0f7d-5e3c-1e8f-5d0h4g3c7e1f",
+      "timestamp": "2024-07-08T19:45:00-05:00",
+      "query": "Madison WI Olbrich Gardens concert series July",
+      "search_engine": "DuckDuckGo",
+      "search_url": "https://duckduckgo.com/?q=Madison+WI+Olbrich+Gardens+concert+series+July",
+      "clicked_result_url": "https://www.olbrich.org/gardens/concerts.cfm",
+      "clicked_result_title": "Concerts in the Gardens - Olbrich Botanical Gardens"
+    },
+    {
+      "id": "d0a6f3b5-1e8e-6f4d-2f9g-6e1i5h4d8f2g",
+      "timestamp": "2024-07-05T09:30:00-05:00",
+      "query": "Leah Morgan Cedar Grove Studio LinkedIn",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Leah+Morgan+Cedar+Grove+Studio+LinkedIn",
+      "clicked_result_url": "https://www.linkedin.com/in/leah-morgan-4a8b2c1d",
+      "clicked_result_title": "Leah Morgan - Senior Director of Product - Cedar Grove Studio"
+    },
+    {
+      "id": "e1b7g4c6-2f9f-7g5e-3h0h-7f2j6i5e9g3h",
+      "timestamp": "2024-07-01T20:15:00-05:00",
+      "query": "best price standing desk electric adjustable",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=best+price+standing+desk+electric+adjustable",
+      "clicked_result_url": "https://www.fully.com/jarvis-standing-desk.html",
+      "clicked_result_title": "Jarvis Adjustable Standing Desk - Fully"
+    },
+    {
+      "id": "f2c8h5d7-3g0g-8h6f-4i1i-8g3k7j6f0h4i",
+      "timestamp": "2024-06-28T11:00:00-05:00",
+      "query": "Platform Design System accessibility audit checklist WCAG",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Platform+Design+System+accessibility+audit+checklist+WCAG",
+      "clicked_result_url": "https://www.w3.org/WAI/test-evaluate/",
+      "clicked_result_title": "Evaluating Web Accessibility - W3C WAI"
+    },
+    {
+      "id": "a3d9i6e8-4h1h-9i7g-5j2j-9h4l8k7g1i5j",
+      "timestamp": "2024-06-25T16:45:00-05:00",
+      "query": "Grace Lin harborinbox contact",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Grace+Lin+harborinbox+contact",
+      "clicked_result_url": "https://harborinbox.com/contacts/grace.lin",
+      "clicked_result_title": "Grace Lin - Contact Card - Harbor Inbox"
+    },
+    {
+      "id": "b4e0j7f9-5i2i-0j8h-6k3k-0i5m9l8h2j6k",
+      "timestamp": "2024-06-20T13:20:00-05:00",
+      "query": "product manager behavioral interview questions examples",
+      "search_engine": "Bing",
+      "search_url": "https://www.bing.com/search?q=product+manager+behavioral+interview+questions+examples",
+      "clicked_result_url": "https://www.interviewkickstart.com/blogs/product-management/interview-questions",
+      "clicked_result_title": "Product Manager Interview Questions - Interview Kickstart"
+    },
+    {
+      "id": "c5f1k8g0-6j3j-1k9i-7l4l-1j6n0m9i3k7l",
+      "timestamp": "2024-06-18T10:30:00-05:00",
+      "query": "Nina Park pottery workshop July 2024 Madison",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Nina+Park+pottery+workshop+July+2024+Madison",
+      "clicked_result_url": "https://www.madisonpottery.com/workshops/summer-series",
+      "clicked_result_title": "Summer Pottery Workshops - Madison Pottery Studio"
+    },
+    {
+      "id": "d6g2l9h1-7k4k-2l0j-8m5m-2k7o1n0j4l8m",
+      "timestamp": "2024-06-15T15:10:00-05:00",
+      "query": "Calvin Price design portfolio Behance",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Calvin+Price+design+portfolio+Behance",
+      "clicked_result_url": "https://www.behance.net/calvinprice",
+      "clicked_result_title": "Calvin Price - Graphic Designer - Behance"
+    },
+    {
+      "id": "e7h3m0i2-8l5l-3m1k-9n6n-3l8p2o1k5m9n",
+      "timestamp": "2024-06-12T08:45:00-05:00",
+      "query": "Amtrak Madison to Chicago train schedule times",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Amtrak+Madison+to+Chicago+train+schedule+times",
+      "clicked_result_url": "https://www.amtrak.com/routes/empire-builder-train",
+      "clicked_result_title": "Empire Builder Train - Amtrak"
+    },
+    {
+      "id": "f8i4n1j3-9m6m-4n2l-0o7o-4m9q3p2l6n0o",
+      "timestamp": "2024-06-10T11:30:00-05:00",
+      "query": "Iris Romero Medium design systems articles",
+      "search_engine": "DuckDuckGo",
+      "search_url": "https://duckduckgo.com/?q=Iris+Romero+Medium+design+systems+articles",
+      "clicked_result_url": "https://medium.com/@iris.romero/design-systems-at-scale-9e8c7d6f5a4b",
+      "clicked_result_title": "Design Systems at Scale - Iris Romero - Medium"
+    },
+    {
+      "id": "a9j5o2k4-0n7n-5o3m-1p8p-5n0r4q3m7o1p",
+      "timestamp": "2024-06-05T21:00:00-05:00",
+      "query": "Owen Reed concert tickets Majestic Theatre Madison",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Owen+Reed+concert+tickets+Majestic+Theatre+Madison",
+      "clicked_result_url": "https://www.majesticmadison.com/events/owen-reed-band",
+      "clicked_result_title": "Owen Reed Band - Majestic Theatre Madison"
+    },
+    {
+      "id": "b0k6p3l5-1o8o-6p4n-2q9q-6o1s5r4n8p2q",
+      "timestamp": "2024-06-01T14:20:00-05:00",
+      "query": "Priya Shah book recommendation literary fiction 2024",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Priyah+Shah+book+recommendation+literary+fiction+2024",
+      "clicked_result_url": "https://www.goodreads.com/list/show/170256.Best_Literary_Fiction_2024",
+      "clicked_result_title": "Best Literary Fiction 2024 - Goodreads"
+    },
+    {
+      "id": "c1l7q4m6-2p9p-7q5o-3r0r-7p2t6s5o9q3r",
+      "timestamp": "2024-05-28T12:00:00-05:00",
+      "query": "Malik Brooks photography exhibit Overture Center",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Malik+Brooks+photography+exhibit+Overture+Center",
+      "clicked_result_url": "https://overture.org/events/malik-brooks-lens-on-madison",
+      "clicked_result_title": "Malik Brooks: Lens on Madison - Overture Center for the Arts"
+    },
+    {
+      "id": "d2m8r5n7-3q0q-8r6p-4s1s-8q3u7t6p0r4s",
+      "timestamp": "2024-05-25T09:15:00-05:00",
+      "query": "northstarmail email settings IMAP server",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=northstarmail+email+settings+IMAP+server",
+      "clicked_result_url": "https://support.northstarmail.com/hc/en-us/articles/214578902-Email-Client-Settings",
+      "clicked_result_title": "Email Client Settings - North Star Mail Support"
+    },
+    {
+      "id": "e3n9s6o8-4r1r-9s7q-5t2t-9r4v8u7q1s5t",
+      "timestamp": "2024-05-20T18:30:00-05:00",
+      "query": "3812 Willow Bend Ave Madison property tax assessment",
+      "search_engine": "Bing",
+      "search_url": "https://www.bing.com/search?q=3812+Willow+Bend+Ave+Madison+property+tax+assessment",
+      "clicked_result_url": "https://www.cityofmadison.com/assessor/property/lookup",
+      "clicked_result_title": "Property Assessment Lookup - City of Madison"
+    },
+    {
+      "id": "f4o0t7p9-5s2s-0t8r-6u3u-0s5w9v8r2t6u",
+      "timestamp": "2024-05-15T11:45:00-05:00",
+      "query": "Senior Product Manager salary range Madison WI 2024",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Senior+Product+Manager+salary+range+Madison+WI+2024",
+      "clicked_result_url": "https://www.glassdoor.com/Salaries/madison-senior-product-manager-salary",
+      "clicked_result_title": "Senior Product Manager Salaries in Madison - Glassdoor"
+    },
+    {
+      "id": "a5p1u8q0-6t3t-1u9s-7v4v-1t6x0w9s3u7v",
+      "timestamp": "2024-05-10T10:00:00-05:00",
+      "query": "Cedar Grove Studio employee benefits portal login",
+      "search_engine": "Google",
+      "search_url": "https://www.google.com/search?q=Cedar+Grove+Studio+employee+benefits+portal+login",
+      "clicked_result_url": "https://benefits.cedargrovestudio.com/login",
+      "clicked_result_title": "Employee Benefits Portal - Cedar Grove Studio"
+    },
+    {
+      "id": "b6q2v9r1-7u4u-2v0t-8w5w-2u7y1x0t4v8w",
+      "timestamp": "2024-04-20T16:00:00-05:00",
+      "query": "dispute parking ticket Madison WI 53716",
+      "search_engine": "DuckDuckGo",
+      "search_url": "https://duckduckgo.com/?q=dispute+parking+ticket+Madison+WI+53716",
+      "clicked_result_url": "https://www.cityofmadison.com/finance/parking/tickets/contest",
+      "clicked_result_title": "Contest a Parking Ticket - City of Madison"
+    }
+  ]
+}

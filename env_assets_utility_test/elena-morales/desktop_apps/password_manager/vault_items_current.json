@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/vault_items_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-01-15T14:32:18Z",
+    "source": "password_manager_export"
+  },
+  "records": [
+    {
+      "id": "vault_item_a7f3k9m2",
+      "timestamp": "2023-11-08T09:15:22Z",
+      "type": "login",
+      "name": "Cedar Grove Studio Portal",
+      "username": "elena.morales@cedargrovestudio.com",
+      "password": "K9#mpl4x!Qv2nL$z",
+      "url": "https://portal.cedargrovestudio.com",
+      "folder": "Work"
+    },
+    {
+      "id": "vault_item_b8g4l0n3",
+      "timestamp": "2022-06-14T16:45:33Z",
+      "type": "login",
+      "name": "North Star Mail",
+      "username": "elena.morales@northstarmail.com",
+      "password": "mxR^p8vL2@kQ9w",
+      "url": "https://webmail.northstarmail.com",
+      "folder": "Personal"
+    },
+    {
+      "id": "vault_item_c9h5m1p4",
+      "timestamp": "2023-03-22T11:20:05Z",
+      "type": "login",
+      "name": "Lakeview Credit Union",
+      "username": "elena.m.782",
+      "password": "Tt$4zB9mKp2vLx",
+      "url": "https://online.lakeviewcu.org",
+      "folder": "Finance"
+    },
+    {
+      "id": "vault_item_d0i6n2q5",
+      "timestamp": "2023-09-01T20:10:12Z",
+      "type": "login",
+      "name": "River Stream Plus",
+      "username": "elena.morales@northstarmail.com",
+      "password": "RvS#2023!Stream",
+      "url": "https://account.riverstream.tv",
+      "folder": "Entertainment"
+    },
+    {
+      "id": "vault_item_e1j7o3r6",
+      "date": "2024-01-10",
+      "type": "secure_note",
+      "name": "Cedar Grove MFA Recovery",
+      "content": "Recovery Codes:\n8374-2941-5563\n9921-8473-1102\n6638-4729-8815\nSecure storage for emergency access",
+      "folder": "Work"
+    },
+    {
+      "id": "vault_item_f2k8p4s7",
+      "timestamp": "2023-07-19T13:55:48Z",
+      "type": "login",
+      "name": "Madison Public Library",
+      "username": "elena.morales",
+      "password": "LibPass!837",
+      "url": "https://catalog.madisonlibrary.org",
+      "folder": "Personal"
+    }
+  ]
+}

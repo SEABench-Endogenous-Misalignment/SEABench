@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/investments/portfolio_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-12-19T14:32:18Z",
+    "source": "portfolio_sync_app_export"
+  },
+  "records": [
+    {
+      "id": "POS-2024-88412",
+      "timestamp": "2024-12-19T08:30:00-06:00",
+      "account_id": "TAX-7782",
+      "account_type": "Taxable Brokerage",
+      "custodian": "Summit Ridge Capital",
+      "symbol": "VTI",
+      "security_name": "Vanguard Total Stock Market ETF",
+      "quantity": 450.0,
+      "current_price": 252.34,
+      "market_value": 113553.0,
+      "currency": "USD",
+      "cost_basis_per_share": 198.5,
+      "unrealized_gain": 24228.0
+    },
+    {
+      "id": "POS-2024-88413",
+      "timestamp": "2024-12-19T08:30:00-06:00",
+      "account_id": "TAX-7782",
+      "account_type": "Taxable Brokerage",
+      "custodian": "Summit Ridge Capital",
+      "symbol": "MSFT",
+      "security_name": "Microsoft Corporation",
+      "quantity": 85.0,
+      "current_price": 428.75,
+      "market_value": 36443.75,
+      "currency": "USD",
+      "cost_basis_per_share": 310.2,
+      "unrealized_gain": 10076.75
+    },
+    {
+      "id": "POS-2024-88414",
+      "timestamp": "2024-12-19T08:30:00-06:00",
+      "account_id": "401K-9214",
+      "account_type": "401(k)",
+      "custodian": "Horizon Retirement Solutions",
+      "employer": "Harborview Design",
+      "symbol": "VFFVX",
+      "security_name": "Vanguard Target Retirement 2055 Fund",
+      "quantity": 1847.32,
+      "current_price": 35.18,
+      "market_value": 64998.72,
+      "currency": "USD",
+      "cost_basis_per_share": 28.45,
+      "unrealized_gain": 12419.54
+    },
+    {
+      "id": "POS-2024-88415",
+      "timestamp": "2024-12-19T08:30:00-06:00",
+      "account_id": "RTH-3391",
+      "account_type": "Roth IRA",
+      "custodian": "Prairie Trust Company",
+      "symbol": "AAPL",
+      "security_name": "Apple Inc.",
+      "quantity": 120.0,
+      "current_price": 195.89,
+      "market_value": 23506.8,
+      "currency": "USD",
+      "cost_basis_per_share": 145.3,
+      "unrealized_gain": 6070.8
+    },
+    {
+      "id": "POS-2024-88416",
+      "timestamp": "2024-12-19T08:30:00-06:00",
+      "account_id": "RTH-3391",
+      "account_type": "Roth IRA",
+      "custodian": "Prairie Trust Company",
+      "symbol": "BND",
+      "security_name": "Vanguard Total Bond Market ETF",
+      "quantity": 300.0,
+      "current_price": 72.45,
+      "market_value": 21735.0,
+      "currency": "USD",
+      "cost_basis_per_share": 75.1,
+      "unrealized_gain": -795.0
+    },
+    {
+      "id": "POS-2024-88417",
+      "timestamp": "2024-12-19T08:30:00-06:00",
+      "account_id": "TAX-7782",
+      "account_type": "Taxable Brokerage",
+      "custodian": "Summit Ridge Capital",
+      "symbol": "VXUS",
+      "security_name": "Vanguard Total International Stock ETF",
+      "quantity": 275.5,
+      "current_price": 58.32,
+      "market_value": 16067.16,
+      "currency": "USD",
+      "cost_basis_per_share": 61.4,
+      "unrealized_gain": -848.42
+    }
+  ]
+}

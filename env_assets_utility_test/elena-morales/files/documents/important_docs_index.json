@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/important_docs_index.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-23T16:45:00Z",
+    "source": "document_vault_export"
+  },
+  "records": [
+    {
+      "id": "DOC-2024-LEASE-001",
+      "document_type": "Lease Agreement",
+      "title": "Willow Bend Avenue Lease - 2024-2025",
+      "location": "files/documents/housing/lease_2024.pdf",
+      "date": "2024-01-15",
+      "period_start": "2024-02-01",
+      "period_end": "2025-01-31"
+    },
+    {
+      "id": "DOC-2023-EMP-014",
+      "document_type": "Employment Contract",
+      "title": "Senior Product Manager Employment Agreement",
+      "location": "files/documents/employment/cedar_grove_contract_2023.pdf",
+      "date": "2023-03-01",
+      "timestamp": "2023-03-01T09:00:00-06:00"
+    },
+    {
+      "id": "DOC-2024-INS-003",
+      "document_type": "Insurance Policy",
+      "title": "Group Health Insurance Policy - Cedar Grove Studio",
+      "location": "files/documents/insurance/health_policy_2024.pdf",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    },
+    {
+      "id": "DOC-2022-ID-007",
+      "document_type": "Government ID",
+      "title": "Wisconsin Driver's License - Elena Morales",
+      "location": "files/documents/identity/drivers_license_scan.pdf",
+      "date": "2022-05-20",
+      "end_time": "2028-05-20"
+    },
+    {
+      "id": "DOC-2024-TAX-001",
+      "document_type": "Tax Document",
+      "title": "Federal and State Tax Return 2023",
+      "location": "files/documents/taxes/tax_return_2023.pdf",
+      "date": "2024-04-12"
+    },
+    {
+      "id": "DOC-2024-FIN-008",
+      "document_type": "Financial Document",
+      "title": "401(k) Beneficiary Designation Update",
+      "location": "files/documents/finance/beneficiary_update_2024.pdf",
+      "timestamp": "2024-06-15T14:30:00-05:00"
+    }
+  ]
+}

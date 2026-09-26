@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/people_entities.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-18T22:45:30Z",
+    "source": "relationship_graph_export"
+  },
+  "records": [
+    {
+      "id": "pe-7f3a9c2b",
+      "name": "Samir Okafor",
+      "display_name": "Samir",
+      "entity_type": "person",
+      "relationship_type": "self",
+      "primary_email": "samir.okafor@meadowmail.co",
+      "work_email": "samir.okafor@meadowmail.co",
+      "mobile_phone": "+1-412-278-1532",
+      "home_city": "Pittsburgh",
+      "home_state": "PA",
+      "timezone": "America/New_York",
+      "employer": "Brightline Systems",
+      "department": "Platform Design",
+      "timestamp": "2024-01-10T08:00:00Z"
+    },
+    {
+      "id": "pe-9e2d1f4a",
+      "name": "Theo Harris",
+      "display_name": "Theo",
+      "entity_type": "person",
+      "relationship_type": "partner",
+      "primary_email": "theo.harris@meadowmail.co",
+      "mobile_phone": "+1-412-746-6436",
+      "home_city": "Pittsburgh",
+      "home_state": "PA",
+      "timestamp": "2024-01-10T08:05:00Z"
+    },
+    {
+      "id": "pe-3c8b5a1d",
+      "name": "Nina Park",
+      "display_name": "Nina",
+      "entity_type": "person",
+      "relationship_type": "friend",
+      "primary_email": "nina.park@meridian-consulting.net",
+      "mobile_phone": "+1-312-489-3267",
+      "home_city": "Chicago",
+      "home_state": "IL",
+      "timestamp": "2024-03-15T14:22:00Z"
+    },
+    {
+      "id": "pe-4d6f2c9e",
+      "name": "Priya Shah",
+      "display_name": "Priya",
+      "entity_type": "person",
+      "relationship_type": "friend",
+      "primary_email": "priya.shah@clouddrift.io",
+      "mobile_phone": "+1-617-244-8891",
+      "home_city": "Cambridge",
+      "home_state": "MA",
+      "timestamp": "2024-02-20T11:10:00Z"
+    },
+    {
+      "id": "pe-8a1e3b5c",
+      "name": "Leah Morgan",
+      "display_name": "Leah",
+      "entity_type": "person",
+      "relationship_type": "colleague",
+      "primary_email": "leah.morgan@brightlinesystems.com",
+      "mobile_phone": "+1-412-332-7810",
+      "home_city": "Pittsburgh",
+      "home_state": "PA",
+      "employer": "Brightline Systems",
+      "timestamp": "2024-05-05T09:30:00Z"
+    },
+    {
+      "id": "pe-2b7f9a1d",
+      "name": "Grace Lin",
+      "display_name": "Grace",
+      "entity_type": "person",
+      "relationship_type": "colleague",
+      "primary_email": "grace.lin@brightlinesystems.com",
+      "mobile_phone": "+1-724-556-0923",
+      "home_city": "Wexford",
+      "home_state": "PA",
+      "employer": "Brightline Systems",
+      "timestamp": "2024-05-12T16:45:00Z"
+    }
+  ]
+}

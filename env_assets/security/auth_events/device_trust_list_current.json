@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/device_trust_list_current.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-26T10:00:00Z"
+  },
+  "records": [
+    {
+      "id": "dev-trust-001",
+      "timestamp": "2026-04-15T14:30:00Z",
+      "device_name": "Alice iPhone 15 Pro",
+      "device_type": "mobile",
+      "trust_status": "trusted",
+      "os_version": "iOS 18.4",
+      "last_ip": "192.168.1.105"
+    },
+    {
+      "id": "dev-trust-002",
+      "timestamp": "2026-05-02T09:15:00Z",
+      "device_name": "MacBook Pro M3",
+      "device_type": "laptop",
+      "trust_status": "trusted",
+      "os_version": "macOS 15.2",
+      "last_ip": "192.168.1.110"
+    },
+    {
+      "id": "dev-trust-003",
+      "date": "2026-04-22",
+      "device_name": "Living Room iPad Air",
+      "device_type": "tablet",
+      "trust_status": "trusted",
+      "os_version": "iPadOS 18.1",
+      "last_ip": "192.168.1.115"
+    },
+    {
+      "id": "dev-trust-004",
+      "timestamp": "2026-05-18T16:45:00Z",
+      "device_name": "Office Windows Desktop",
+      "device_type": "desktop",
+      "trust_status": "revoked",
+      "os_version": "Windows 11 24H2",
+      "last_ip": "10.0.0.45"
+    },
+    {
+      "id": "dev-trust-005",
+      "start_time": "2026-06-10T08:00:00Z",
+      "device_name": "Conference Room Kiosk",
+      "device_type": "kiosk",
+      "trust_status": "temporary",
+      "os_version": "Ubuntu 22.04 LTS",
+      "last_ip": "10.0.0.80"
+    },
+    {
+      "id": "dev-trust-006",
+      "period_start": "2026-04-01T00:00:00Z",
+      "period_end": "2026-06-26T00:00:00Z",
+      "device_name": "Apple Watch Series 10",
+      "device_type": "wearable",
+      "trust_status": "trusted",
+      "os_version": "watchOS 11.0",
+      "last_ip": "192.168.1.120"
+    }
+  ]
+}

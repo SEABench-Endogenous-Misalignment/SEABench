@@ -1,0 +1,576 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/travel_blocks_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T14:32:00Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "evt_2023_0610_001",
+      "start_time": "2023-06-10T08:00:00-04:00",
+      "end_time": "2023-06-11T20:00:00-04:00",
+      "summary": "Weekend museum tour",
+      "location": "New York, NY",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "priya.shah@riverbendmail.com"
+      ]
+    },
+    {
+      "id": "evt_2023_0620_001",
+      "start_time": "2023-06-20T06:00:00-04:00",
+      "end_time": "2023-06-23T19:00:00-04:00",
+      "summary": "Healthcare UX Summit",
+      "location": "Chicago, IL",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "iris.romero@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_0708_001",
+      "start_time": "2023-07-08T07:00:00-04:00",
+      "end_time": "2023-07-16T21:00:00-04:00",
+      "summary": "Rocky Mountain hiking trip",
+      "location": "Denver, CO",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "nina.park@fastmail.fm"
+      ]
+    },
+    {
+      "id": "evt_2023_0728_001",
+      "start_time": "2023-07-28T16:00:00-04:00",
+      "end_time": "2023-07-30T18:00:00-04:00",
+      "summary": "Q3 Team Offsite",
+      "location": "Deep Creek Lake, MD",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "calvin.price@rivertonhealthlabs.com",
+        "leah.morgan@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_0803_001",
+      "start_time": "2023-08-03T07:30:00-04:00",
+      "end_time": "2023-08-04T20:00:00-04:00",
+      "summary": "Client stakeholder meetings",
+      "location": "Philadelphia, PA",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "grace.lin@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_0819_001",
+      "start_time": "2023-08-19T09:00:00-04:00",
+      "end_time": "2023-08-23T19:00:00-04:00",
+      "summary": "Summer family reunion",
+      "location": "Orlando, FL",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "malik.brooks@outlook.com"
+      ]
+    },
+    {
+      "id": "evt_2023_0915_001",
+      "start_time": "2023-09-15T10:00:00-04:00",
+      "end_time": "2023-09-20T18:00:00-04:00",
+      "summary": "Annual Research Conference",
+      "location": "Seattle, WA",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "leah.morgan@rivertonhealthlabs.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_0928_001",
+      "start_time": "2023-09-28T13:00:00-04:00",
+      "end_time": "2023-09-29T17:00:00-04:00",
+      "summary": "Work visa renewal & site visit",
+      "location": "Toronto, ON",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2023_1011_001",
+      "start_time": "2023-10-11T08:00:00-04:00",
+      "end_time": "2023-10-13T17:00:00-04:00",
+      "summary": "User research sessions",
+      "location": "Boston, MA",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "iris.romero@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_1027_001",
+      "start_time": "2023-10-27T18:00:00-04:00",
+      "end_time": "2023-10-29T20:00:00-04:00",
+      "summary": "Visit to see Owen",
+      "location": "Cleveland, OH",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "owen.reed@posteo.net"
+      ]
+    },
+    {
+      "id": "evt_2023_1109_001",
+      "start_time": "2023-11-09T08:00:00-05:00",
+      "end_time": "2023-11-10T17:00:00-05:00",
+      "summary": "Compliance training module",
+      "location": "Columbus, OH",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "grace.lin@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_1122_001",
+      "start_time": "2023-11-22T16:00:00-05:00",
+      "end_time": "2023-11-26T20:00:00-05:00",
+      "summary": "Thanksgiving with parents",
+      "location": "Hartford, CT",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "priya.shah@riverbendmail.com"
+      ]
+    },
+    {
+      "id": "evt_2023_1218_001",
+      "start_time": "2023-12-18T11:00:00-05:00",
+      "end_time": "2023-12-22T19:00:00-05:00",
+      "summary": "Year-end strategic review",
+      "location": "San Francisco, CA",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "leah.morgan@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2023_1228_001",
+      "start_time": "2023-12-28T09:00:00-05:00",
+      "end_time": "2023-12-31T19:00:00-05:00",
+      "summary": "New Year ski getaway",
+      "location": "Stowe, VT",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "elena.vega@icloud.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0112_001",
+      "start_time": "2024-01-12T17:00:00-05:00",
+      "end_time": "2024-01-14T20:00:00-05:00",
+      "summary": "Ski weekend",
+      "location": "Seven Springs, PA",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "priya.shah@riverbendmail.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0122_001",
+      "start_time": "2024-01-22T07:00:00-05:00",
+      "end_time": "2024-01-24T18:00:00-05:00",
+      "summary": "Midwest UX offsite",
+      "location": "Indianapolis, IN",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0205_001",
+      "start_time": "2024-02-05T09:00:00-05:00",
+      "end_time": "2024-02-09T17:00:00-05:00",
+      "summary": "Advanced analytics training",
+      "location": "Denver, CO",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0216_001",
+      "start_time": "2024-02-16T16:00:00-05:00",
+      "end_time": "2024-02-19T20:00:00-05:00",
+      "summary": "Long weekend in Charleston",
+      "location": "Charleston, SC",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "nina.park@fastmail.fm"
+      ]
+    },
+    {
+      "id": "evt_2024_0315_001",
+      "start_time": "2024-03-15T08:00:00-04:00",
+      "end_time": "2024-03-22T20:00:00-04:00",
+      "summary": "Spring break Spain trip",
+      "location": "Barcelona, Spain",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "malik.brooks@outlook.com",
+        "elena.vega@icloud.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0328_001",
+      "start_time": "2024-03-28T09:00:00-04:00",
+      "end_time": "2024-03-29T16:00:00-04:00",
+      "summary": "Presentation at Johns Hopkins",
+      "location": "Baltimore, MD",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0410_001",
+      "start_time": "2024-04-10T10:00:00-04:00",
+      "end_time": "2024-04-12T17:00:00-04:00",
+      "summary": "Atlanta site visit",
+      "location": "Atlanta, GA",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0425_001",
+      "start_time": "2024-04-25T17:00:00-04:00",
+      "end_time": "2024-04-28T20:00:00-04:00",
+      "summary": "Jazz Fest weekend",
+      "location": "New Orleans, LA",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "malik.brooks@outlook.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0503_001",
+      "start_time": "2024-05-03T08:00:00-04:00",
+      "end_time": "2024-05-05T18:00:00-04:00",
+      "summary": "Regional sync meeting",
+      "location": "Cincinnati, OH",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0524_001",
+      "start_time": "2024-05-24T15:00:00-04:00",
+      "end_time": "2024-05-27T19:00:00-04:00",
+      "summary": "Memorial Day at the lake",
+      "location": "Lake Erie, PA",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "priya.shah@riverbendmail.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0603_001",
+      "start_time": "2024-06-03T07:00:00-04:00",
+      "end_time": "2024-06-07T20:00:00-04:00",
+      "summary": "Product launch week",
+      "location": "New York, NY",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "iris.romero@rivertonhealthlabs.com",
+        "grace.lin@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0621_001",
+      "start_time": "2024-06-21T16:00:00-04:00",
+      "end_time": "2024-06-23T18:00:00-04:00",
+      "summary": "Camping trip",
+      "location": "Allegheny National Forest, PA",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "priya.shah@riverbendmail.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0704_001",
+      "start_time": "2024-07-04T09:00:00-04:00",
+      "end_time": "2024-07-07T21:00:00-04:00",
+      "summary": "Independence Day in DC",
+      "location": "Washington, DC",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0719_001",
+      "start_time": "2024-07-19T12:00:00-04:00",
+      "end_time": "2024-07-28T22:00:00-04:00",
+      "summary": "Japan vacation",
+      "location": "Tokyo, Japan",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0814_001",
+      "start_time": "2024-08-14T10:00:00-04:00",
+      "end_time": "2024-08-16T17:00:00-04:00",
+      "summary": "Design systems workshop",
+      "location": "Minneapolis, MN",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_0830_001",
+      "start_time": "2024-08-30T17:00:00-04:00",
+      "end_time": "2024-09-02T20:00:00-04:00",
+      "summary": "Labor Day Chicago trip",
+      "location": "Chicago, IL",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "owen.reed@posteo.net"
+      ]
+    },
+    {
+      "id": "evt_2024_0905_001",
+      "start_time": "2024-09-05T14:00:00-04:00",
+      "end_time": "2024-09-08T19:00:00-04:00",
+      "summary": "Beach weekend",
+      "location": "Outer Banks, NC",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "nina.park@fastmail.fm"
+      ]
+    },
+    {
+      "id": "evt_2024_0923_001",
+      "start_time": "2024-09-23T09:00:00-04:00",
+      "end_time": "2024-09-25T17:00:00-04:00",
+      "summary": "Q3 compliance audit",
+      "location": "Nashville, TN",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_1004_001",
+      "start_time": "2024-10-04T15:00:00-04:00",
+      "end_time": "2024-10-06T20:00:00-04:00",
+      "summary": "Fall foliage hiking",
+      "location": "Stowe, VT",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "owen.reed@posteo.net"
+      ]
+    },
+    {
+      "id": "evt_2024_1011_001",
+      "start_time": "2024-10-11T10:00:00-04:00",
+      "end_time": "2024-10-15T18:00:00-04:00",
+      "summary": "HealthTech Symposium",
+      "location": "Austin, TX",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_1114_001",
+      "start_time": "2024-11-14T08:00:00-05:00",
+      "end_time": "2024-11-16T17:00:00-05:00",
+      "summary": "Raleigh project review",
+      "location": "Raleigh, NC",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2024_1127_001",
+      "start_time": "2024-11-27T14:00:00-05:00",
+      "end_time": "2024-11-30T20:00:00-05:00",
+      "summary": "Friendsgiving in the mountains",
+      "location": "Asheville, NC",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "owen.reed@posteo.net"
+      ]
+    },
+    {
+      "id": "evt_2024_1205_001",
+      "start_time": "2024-12-05T10:00:00-05:00",
+      "end_time": "2024-12-07T18:00:00-05:00",
+      "summary": "Holiday party and 2025 planning",
+      "location": "Denver, CO",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "leah.morgan@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2024_1220_001",
+      "start_time": "2024-12-20T08:00:00-05:00",
+      "end_time": "2024-12-28T21:00:00-05:00",
+      "summary": "Winter holiday trip",
+      "location": "Montreal, QC",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0115_001",
+      "start_time": "2025-01-15T11:00:00-05:00",
+      "end_time": "2025-01-17T19:00:00-05:00",
+      "summary": "Q1 Kickoff meeting",
+      "location": "Miami, FL",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "iris.romero@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0124_001",
+      "start_time": "2025-01-24T06:00:00-05:00",
+      "end_time": "2025-01-26T19:00:00-05:00",
+      "summary": "Ice climbing weekend",
+      "location": "Adirondacks, NY",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "elena.vega@icloud.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0206_001",
+      "start_time": "2025-02-06T14:00:00-05:00",
+      "end_time": "2025-02-08T20:00:00-05:00",
+      "summary": "West Coast UX Conference",
+      "location": "San Diego, CA",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0220_001",
+      "start_time": "2025-02-20T17:00:00-05:00",
+      "end_time": "2025-02-23T20:00:00-05:00",
+      "summary": "Nashville music weekend",
+      "location": "Nashville, TN",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "elena.vega@icloud.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0310_001",
+      "start_time": "2025-03-10T09:00:00-04:00",
+      "end_time": "2025-03-14T17:00:00-04:00",
+      "summary": "HIPAA compliance training",
+      "location": "Washington, DC",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0320_001",
+      "start_time": "2025-03-20T18:00:00-04:00",
+      "end_time": "2025-03-23T23:00:00-04:00",
+      "summary": "Solo trip to Portugal",
+      "location": "Lisbon, Portugal",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0405_001",
+      "start_time": "2025-04-05T09:00:00-04:00",
+      "end_time": "2025-04-10T21:00:00-04:00",
+      "summary": "California coast road trip",
+      "location": "San Francisco to Big Sur, CA",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "malik.brooks@outlook.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0418_001",
+      "start_time": "2025-04-18T12:00:00-04:00",
+      "end_time": "2025-04-21T19:00:00-04:00",
+      "summary": "Desert summit",
+      "location": "Phoenix, AZ",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0515_001",
+      "start_time": "2025-05-15T08:00:00-04:00",
+      "end_time": "2025-05-18T17:00:00-04:00",
+      "summary": "Partner summit",
+      "location": "Chicago, IL",
+      "trip_type": "work",
+      "attendees": [
+        "maya.patel@brightlinesystems.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ]
+    },
+    {
+      "id": "evt_2025_0523_001",
+      "start_time": "2025-05-23T16:00:00-04:00",
+      "end_time": "2025-05-26T20:00:00-04:00",
+      "summary": "Memorial Day wine tour",
+      "location": "Finger Lakes, NY",
+      "trip_type": "personal",
+      "attendees": [
+        "maya.patel@harborinbox.com",
+        "priya.shah@riverbendmail.com"
+      ]
+    }
+  ]
+}

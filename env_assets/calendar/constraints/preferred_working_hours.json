@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/preferred_working_hours.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T10:00:00Z"
+  },
+  "records": [
+    {
+      "id": "pref-wh-001",
+      "label": "Standard Weekday Core Hours",
+      "days_of_week": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "timezone": "America/New_York",
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "pref-wh-002",
+      "label": "Summer Friday Early Release",
+      "days_of_week": [
+        "Friday"
+      ],
+      "start_time": "08:00",
+      "end_time": "14:00",
+      "timezone": "America/New_York",
+      "period_start": "2026-06-01",
+      "period_end": "2026-08-31",
+      "timestamp": "2026-05-20T09:15:00Z"
+    },
+    {
+      "id": "pref-wh-003",
+      "label": "Daily Deep Work Block",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "recurrence": "daily",
+      "timestamp": "2026-04-10T11:00:00Z"
+    },
+    {
+      "id": "pref-wh-004",
+      "label": "Client Call Window",
+      "days_of_week": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "timezone": "America/New_York",
+      "period_start": "2026-04-15",
+      "timestamp": "2026-04-14T16:45:00Z"
+    },
+    {
+      "id": "pref-wh-005",
+      "label": "Project Sprint Overtime",
+      "days_of_week": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "08:00",
+      "end_time": "19:00",
+      "timezone": "America/New_York",
+      "period_start": "2026-05-01",
+      "period_end": "2026-05-15",
+      "timestamp": "2026-04-28T10:20:00Z"
+    },
+    {
+      "id": "pref-wh-006",
+      "label": "Post-Vacation Limited Hours",
+      "days_of_week": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "timezone": "America/New_York",
+      "period_start": "2026-06-22",
+      "period_end": "2026-06-26",
+      "timestamp": "2026-06-20T09:00:00Z"
+    }
+  ]
+}

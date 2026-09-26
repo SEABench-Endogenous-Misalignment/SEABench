@@ -1,0 +1,119 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/user_intent_profile.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T14:35:22Z",
+    "source": "personal_ai_assistant_export"
+  },
+  "records": [
+    {
+      "id": "intent-work-offsite-q3-2024",
+      "timestamp": "2024-06-15T09:23:00-05:00",
+      "intent_type": "work_coordination",
+      "description": "Organize Cedar Grove Studio Platform Design team offsite in early September",
+      "priority": "high",
+      "status": "active",
+      "context_tags": [
+        "work",
+        "travel",
+        "team"
+      ],
+      "associated_contacts": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "related_data_sources": [
+        "calendar/working/events_past_12m_future_6m.json",
+        "email/inbox/threads_180d.json"
+      ]
+    },
+    {
+      "id": "intent-health-annual-checkup-2024",
+      "timestamp": "2024-05-20T14:10:00-05:00",
+      "intent_type": "health_maintenance",
+      "description": "Book annual physical and dental cleaning before end of year",
+      "priority": "medium",
+      "status": "pending",
+      "context_tags": [
+        "health",
+        "appointment"
+      ],
+      "related_data_sources": [
+        "health/medical/appointments_24m.json"
+      ],
+      "preferred_location": "Madison East Clinic"
+    },
+    {
+      "id": "intent-social-hike-devils-lake",
+      "timestamp": "2024-07-08T19:45:00-05:00",
+      "intent_type": "social_coordination",
+      "description": "Coordinate a hiking trip to Devil's Lake State Park with Grace",
+      "priority": "medium",
+      "status": "active",
+      "associated_contacts": [
+        "Grace Lin"
+      ],
+      "context_tags": [
+        "outdoor",
+        "weekend",
+        "fitness"
+      ],
+      "proposed_date": "2024-08-03"
+    },
+    {
+      "id": "intent-finance-insurance-renewal",
+      "timestamp": "2024-06-28T11:30:00-05:00",
+      "intent_type": "financial_admin",
+      "description": "Review and renew renters insurance policy for Willow Bend Ave apartment",
+      "priority": "high",
+      "status": "active",
+      "context_tags": [
+        "finance",
+        "home",
+        "insurance"
+      ],
+      "related_data_sources": [
+        "security/identity_docs/insurance_cards_current.json"
+      ]
+    },
+    {
+      "id": "intent-learning-figma-advanced",
+      "timestamp": "2024-04-10T16:00:00-05:00",
+      "intent_type": "skill_development",
+      "description": "Complete advanced Figma prototyping course for platform design work",
+      "priority": "low",
+      "status": "paused",
+      "context_tags": [
+        "learning",
+        "design",
+        "career"
+      ],
+      "completion_target": "2024-09-30"
+    },
+    {
+      "id": "intent-social-college-reunion",
+      "timestamp": "2024-07-18T20:15:00-05:00",
+      "intent_type": "social_coordination",
+      "description": "Plan dinner reunion with Nina, Owen, and Priya during their visit to Madison",
+      "priority": "medium",
+      "status": "active",
+      "associated_contacts": [
+        "Nina Park",
+        "Owen Reed",
+        "Priya Shah"
+      ],
+      "context_tags": [
+        "social",
+        "dining",
+        "friends"
+      ],
+      "venue_preferences": [
+        "Graze",
+        "The Old Fashioned"
+      ]
+    }
+  ]
+}

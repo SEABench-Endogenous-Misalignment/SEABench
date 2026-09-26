@@ -1,0 +1,497 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/work_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T14:32:18Z",
+    "source": "contact_manager_export"
+  },
+  "records": [
+    {
+      "id": "cnt_8f3a9b2c",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@rivertonhealthlabs.com",
+      "phone": "+1-412-653-8274",
+      "organization": "Riverton Health Labs",
+      "job_title": "Senior UX Researcher",
+      "department": "UX Research",
+      "timestamp": "2024-05-12T14:33:00Z",
+      "notes": "Manager for Q3 usability studies"
+    },
+    {
+      "id": "cnt_7c2d8e1a",
+      "name": "Calvin Price",
+      "email": "calvin.price@rivertonhealthlabs.com",
+      "phone": "+1-412-724-9152",
+      "organization": "Riverton Health Labs",
+      "job_title": "Data Engineer",
+      "department": "Engineering",
+      "timestamp": "2024-03-08T11:20:00Z",
+      "notes": "EPIC integration lead"
+    },
+    {
+      "id": "cnt_9e4b1f3d",
+      "name": "Iris Romero",
+      "email": "iris.romero@rivertonhealthlabs.com",
+      "phone": "+1-412-339-6401",
+      "organization": "Riverton Health Labs",
+      "job_title": "Product Manager",
+      "department": "Product",
+      "timestamp": "2024-01-15T09:45:00Z",
+      "notes": "Clinical data platform roadmap"
+    },
+    {
+      "id": "cnt_3a5c7b8e",
+      "name": "Grace Lin",
+      "email": "grace.lin@rivertonhealthlabs.com",
+      "phone": "+1-412-567-2849",
+      "organization": "Riverton Health Labs",
+      "job_title": "Clinical Analyst",
+      "department": "Research",
+      "timestamp": "2024-02-28T16:10:00Z",
+      "notes": "FDA submission support"
+    },
+    {
+      "id": "cnt_2d9f4a6b",
+      "name": "David Chen",
+      "email": "david.chen@rivertonhealthlabs.com",
+      "phone": "+1-412-488-3921",
+      "organization": "Riverton Health Labs",
+      "job_title": "Senior UX Designer",
+      "department": "UX Research",
+      "timestamp": "2023-11-03T10:15:00Z"
+    },
+    {
+      "id": "cnt_5e1b8c4f",
+      "name": "Sarah Williams",
+      "email": "sarah.williams@rivertonhealthlabs.com",
+      "phone": "+1-724-221-5647",
+      "organization": "Riverton Health Labs",
+      "job_title": "Clinical Data Analyst",
+      "department": "Data Science",
+      "timestamp": "2023-09-20T13:40:00Z"
+    },
+    {
+      "id": "cnt_4a7d3e9c",
+      "name": "James Rodriguez",
+      "email": "james.rodriguez@rivertonhealthlabs.com",
+      "phone": "+1-412-996-3412",
+      "organization": "Riverton Health Labs",
+      "job_title": "Biostatistician",
+      "department": "Biostatistics",
+      "timestamp": "2023-07-12T08:25:00Z"
+    },
+    {
+      "id": "cnt_6f2a5b8d",
+      "name": "Emily Johnson",
+      "email": "emily.johnson@rivertonhealthlabs.com",
+      "phone": "+1-724-556-7890",
+      "organization": "Riverton Health Labs",
+      "job_title": "Research Coordinator",
+      "department": "Clinical Operations",
+      "timestamp": "2023-12-01T15:50:00Z"
+    },
+    {
+      "id": "cnt_1c8e4a7b",
+      "name": "Michael Brown",
+      "email": "michael.brown@rivertonhealthlabs.com",
+      "phone": "+1-412-334-8765",
+      "organization": "Riverton Health Labs",
+      "job_title": "VP of Product",
+      "department": "Executive",
+      "timestamp": "2023-10-18T11:05:00Z"
+    },
+    {
+      "id": "cnt_9b3f6d2e",
+      "name": "Jessica Davis",
+      "email": "jessica.davis@rivertonhealthlabs.com",
+      "phone": "+1-412-778-2341",
+      "organization": "Riverton Health Labs",
+      "job_title": "Regulatory Affairs Manager",
+      "department": "Compliance",
+      "timestamp": "2023-08-30T14:20:00Z"
+    },
+    {
+      "id": "cnt_7e5a1c9f",
+      "name": "Matthew Wilson",
+      "email": "matthew.wilson@rivertonhealthlabs.com",
+      "phone": "+1-724-889-4567",
+      "organization": "Riverton Health Labs",
+      "job_title": "Software Engineer",
+      "department": "Engineering",
+      "timestamp": "2023-06-22T09:30:00Z"
+    },
+    {
+      "id": "cnt_3d8b2f5a",
+      "name": "Ashley Miller",
+      "email": "ashley.miller@rivertonhealthlabs.com",
+      "phone": "+1-412-445-6789",
+      "organization": "Riverton Health Labs",
+      "job_title": "Quality Assurance Lead",
+      "department": "QA",
+      "timestamp": "2023-04-14T16:45:00Z"
+    },
+    {
+      "id": "cnt_5c1e7a4b",
+      "name": "Christopher Moore",
+      "email": "christopher.moore@rivertonhealthlabs.com",
+      "phone": "+1-412-992-3344",
+      "organization": "Riverton Health Labs",
+      "job_title": "Data Scientist",
+      "department": "Data Science",
+      "timestamp": "2023-05-28T12:10:00Z"
+    },
+    {
+      "id": "cnt_8f4c9d1e",
+      "name": "Amanda Taylor",
+      "email": "amanda.taylor@rivertonhealthlabs.com",
+      "phone": "+1-724-667-8899",
+      "organization": "Riverton Health Labs",
+      "job_title": "Project Manager",
+      "department": "Operations",
+      "timestamp": "2023-03-19T10:55:00Z"
+    },
+    {
+      "id": "cnt_2a6b8e3c",
+      "name": "Joshua Anderson",
+      "email": "joshua.anderson@rivertonhealthlabs.com",
+      "phone": "+1-412-223-5566",
+      "organization": "Riverton Health Labs",
+      "job_title": "DevOps Engineer",
+      "department": "Infrastructure",
+      "timestamp": "2023-01-25T14:15:00Z"
+    },
+    {
+      "id": "cnt_4d9f2a7b",
+      "name": "Stephanie Thomas",
+      "email": "stephanie.thomas@pittresearch.edu",
+      "phone": "+1-412-434-7788",
+      "organization": "University of Pittsburgh Medical Center",
+      "job_title": "Research Director",
+      "department": "University Relations",
+      "timestamp": "2023-02-10T11:30:00Z",
+      "notes": "Collaborative grant PI"
+    },
+    {
+      "id": "cnt_7e1c5b8a",
+      "name": "Daniel Jackson",
+      "email": "daniel.jackson@upmcresearch.org",
+      "phone": "+1-724-556-9900",
+      "organization": "UPMC Research Institute",
+      "job_title": "Clinical Informatics Specialist",
+      "department": "Medical Informatics",
+      "timestamp": "2023-07-05T09:20:00Z"
+    },
+    {
+      "id": "cnt_3f8a4d6e",
+      "name": "Rachel White",
+      "email": "rachel.white@pittresearch.edu",
+      "phone": "+1-412-677-1122",
+      "organization": "University of Pittsburgh",
+      "job_title": "Grant Administrator",
+      "department": "Administration",
+      "timestamp": "2023-09-12T13:45:00Z"
+    },
+    {
+      "id": "cnt_6b2e9c1f",
+      "name": "Ryan Harris",
+      "email": "ryan.harris@upmcsolutions.com",
+      "phone": "+1-412-788-3344",
+      "organization": "UPMC Solutions",
+      "job_title": "Biomedical Engineer",
+      "department": "R&D",
+      "timestamp": "2023-11-28T08:50:00Z"
+    },
+    {
+      "id": "cnt_9c5a7f3d",
+      "name": "Nicole Martin",
+      "email": "nicole.martin@pitthealthsci.org",
+      "phone": "+1-724-889-5566",
+      "organization": "Pittsburgh Health Sciences",
+      "job_title": "Lab Coordinator",
+      "department": "Laboratory Services",
+      "timestamp": "2023-04-03T15:25:00Z"
+    },
+    {
+      "id": "cnt_1e8b4a2c",
+      "name": "Kevin Thompson",
+      "email": "kevin.thompson@pittstats.org",
+      "phone": "+1-412-990-7788",
+      "organization": "Pittsburgh Biostatistics Collaborative",
+      "job_title": "Statistician",
+      "department": "Biostatistics",
+      "timestamp": "2023-06-15T10:40:00Z"
+    },
+    {
+      "id": "cnt_5d3f7e9b",
+      "name": "Melissa Garcia",
+      "email": "melissa.garcia@medtech-partners.com",
+      "phone": "+1-215-334-5566",
+      "organization": "MedTech Partners",
+      "job_title": "Account Manager",
+      "department": "Client Services",
+      "timestamp": "2023-08-08T14:05:00Z"
+    },
+    {
+      "id": "cnt_8a1c6d4f",
+      "name": "Jason Martinez",
+      "email": "jason.martinez@clinicalsys.org",
+      "phone": "+1-206-445-7788",
+      "organization": "Clinical Systems Inc",
+      "job_title": "Implementation Specialist",
+      "department": "Professional Services",
+      "timestamp": "2023-10-22T11:55:00Z"
+    },
+    {
+      "id": "cnt_2e7b5a8d",
+      "name": "Laura Robinson",
+      "email": "laura.robinson@healthdata.io",
+      "phone": "+1-415-556-9900",
+      "organization": "HealthData.io",
+      "job_title": "Sales Director",
+      "department": "Business Development",
+      "timestamp": "2023-12-18T09:10:00Z"
+    },
+    {
+      "id": "cnt_4f9c3e1a",
+      "name": "Brandon Clark",
+      "email": "brandon.clark@novasourcemedical.com",
+      "phone": "+1-312-667-1122",
+      "organization": "Novasource Medical",
+      "job_title": "Technical Lead",
+      "department": "Integration",
+      "timestamp": "2022-11-05T16:30:00Z"
+    },
+    {
+      "id": "cnt_7b2d8f5c",
+      "name": "Rebecca Lewis",
+      "email": "rebecca.lewis@steelcityanalytics.com",
+      "phone": "+1-617-778-3344",
+      "organization": "Steel City Analytics",
+      "job_title": "Customer Success Manager",
+      "department": "Customer Success",
+      "timestamp": "2022-09-14T10:20:00Z"
+    },
+    {
+      "id": "cnt_3e6a1b9f",
+      "name": "Justin Lee",
+      "email": "justin.lee@unifiedhealthtech.com",
+      "phone": "+1-512-889-5566",
+      "organization": "Unified Health Tech",
+      "job_title": "Integration Architect",
+      "department": "Solutions",
+      "timestamp": "2022-07-22T13:50:00Z"
+    },
+    {
+      "id": "cnt_9d4c7a2e",
+      "name": "Michelle Walker",
+      "email": "michelle.walker@emrvision.com",
+      "phone": "+1-303-990-7788",
+      "organization": "EMR Vision",
+      "job_title": "Product Specialist",
+      "department": "Sales Engineering",
+      "timestamp": "2022-05-18T09:15:00Z"
+    },
+    {
+      "id": "cnt_1f8e3b6d",
+      "name": "Eric Hall",
+      "email": "eric.hall@securehealthdata.net",
+      "phone": "+1-404-334-5566",
+      "organization": "Secure Health Data",
+      "job_title": "Compliance Officer",
+      "department": "Security",
+      "timestamp": "2022-12-03T14:40:00Z"
+    },
+    {
+      "id": "cnt_5a2f9c4b",
+      "name": "Kimberly Allen",
+      "email": "kimberly.allen@talentbridgehealth.com",
+      "phone": "+1-203-445-7788",
+      "organization": "Talent Bridge Health",
+      "job_title": "Senior Recruiter",
+      "department": "Talent Acquisition",
+      "timestamp": "2022-10-28T11:25:00Z"
+    },
+    {
+      "id": "cnt_8e7d1a3f",
+      "name": "Steven Young",
+      "email": "steven.young@medstaffpros.com",
+      "phone": "+1-919-556-9900",
+      "organization": "MedStaff Professionals",
+      "job_title": "Healthcare IT Recruiter",
+      "department": "Staffing",
+      "timestamp": "2022-08-12T08:45:00Z"
+    },
+    {
+      "id": "cnt_4b6c8e2a",
+      "name": "Amy Hernandez",
+      "email": "amy.hernandez@rivertonhealthlabs.com",
+      "phone": "+1-412-667-1122",
+      "organization": "Riverton Health Labs",
+      "job_title": "HR Business Partner",
+      "department": "Human Resources",
+      "timestamp": "2022-06-30T15:55:00Z"
+    },
+    {
+      "id": "cnt_2f9a5d7c",
+      "name": "Andrew King",
+      "email": "andrew.king@healthtechinsights.org",
+      "phone": "+1-202-778-3344",
+      "organization": "Health Tech Insights",
+      "job_title": "Industry Analyst",
+      "department": "Market Research",
+      "timestamp": "2022-04-22T10:10:00Z"
+    },
+    {
+      "id": "cnt_7c3e8b1d",
+      "name": "Michelle Wright",
+      "email": "michelle.wright@pittsburghtechsummit.org",
+      "phone": "+1-412-889-5566",
+      "organization": "Pittsburgh Tech Summit",
+      "job_title": "Conference Coordinator",
+      "department": "Events",
+      "timestamp": "2022-02-14T13:35:00Z"
+    },
+    {
+      "id": "cnt_1a5f7e9b",
+      "name": "Nicholas Lopez",
+      "email": "nicholas.lopez@summithealthadvisors.com",
+      "phone": "+1-214-990-7788",
+      "organization": "Summit Health Advisors",
+      "job_title": "Management Consultant",
+      "department": "Strategy",
+      "timestamp": "2022-01-10T09:50:00Z"
+    },
+    {
+      "id": "cnt_6d8b2c4f",
+      "name": "Elizabeth Hill",
+      "email": "elizabeth.hill@journalsdigitalhealth.org",
+      "phone": "+1-215-334-5566",
+      "organization": "Journal of Digital Health",
+      "job_title": "Managing Editor",
+      "department": "Publishing",
+      "timestamp": "2022-03-25T16:20:00Z"
+    },
+    {
+      "id": "cnt_3e9c1a7d",
+      "name": "Tyler Scott",
+      "email": "tyler.scott@healthinformaticsreview.org",
+      "phone": "+1-310-445-7788",
+      "organization": "Health Informatics Review",
+      "job_title": "Peer Reviewer",
+      "department": "Academic",
+      "timestamp": "2022-05-07T11:45:00Z"
+    },
+    {
+      "id": "cnt_9f4e6b2a",
+      "name": "Megan Green",
+      "email": "megan.green@federalhealthgrants.org",
+      "phone": "+1-301-556-9900",
+      "organization": "Federal Health Grants Administration",
+      "job_title": "Grant Officer",
+      "department": "Government",
+      "timestamp": "2022-07-19T14:30:00Z"
+    },
+    {
+      "id": "cnt_5b1d8f3e",
+      "name": "Benjamin Adams",
+      "email": "benjamin.adams@ctsipitt.org",
+      "phone": "+1-412-667-1122",
+      "organization": "Clinical Translational Science Institute",
+      "job_title": "IRB Coordinator",
+      "department": "Research Ethics",
+      "timestamp": "2022-09-03T08:15:00Z"
+    },
+    {
+      "id": "cnt_2c7a4e9f",
+      "name": "Hannah Baker",
+      "email": "hannah.baker@hslibrary.net",
+      "phone": "+1-724-778-3344",
+      "organization": "Health Sciences Library",
+      "job_title": "Health Sciences Librarian",
+      "department": "Library",
+      "timestamp": "2022-11-20T12:50:00Z"
+    },
+    {
+      "id": "cnt_8e3f5b1d",
+      "name": "Samuel Nelson",
+      "email": "samuel.nelson@knoxlegalpartners.com",
+      "phone": "+1-412-889-5566",
+      "organization": "Knox Legal Partners",
+      "job_title": "Patent Attorney",
+      "department": "Intellectual Property",
+      "timestamp": "2022-12-28T10:05:00Z"
+    },
+    {
+      "id": "cnt_4a9c2e7b",
+      "name": "Victoria Carter",
+      "email": "victoria.carter@innovationpitt.org",
+      "phone": "+1-412-990-7788",
+      "organization": "Pittsburgh Innovation Institute",
+      "job_title": "Technology Transfer Officer",
+      "department": "Commercialization",
+      "timestamp": "2022-10-05T15:15:00Z"
+    },
+    {
+      "id": "cnt_6f1d8a3c",
+      "name": "Jonathan Mitchell",
+      "email": "jonathan.mitchell@apexclinicalsupplies.com",
+      "phone": "+1-617-334-5566",
+      "organization": "Apex Clinical Supplies",
+      "job_title": "Clinical Research Associate",
+      "department": "Clinical Trials",
+      "timestamp": "2022-08-25T09:40:00Z"
+    },
+    {
+      "id": "cnt_3b5e9c2f",
+      "name": "Christina Perez",
+      "email": "christina.perez@alleghenyclinical.org",
+      "phone": "+1-412-445-7788",
+      "organization": "Allegheny Clinical Research",
+      "job_title": "Site Coordinator",
+      "department": "Clinical Research",
+      "timestamp": "2022-06-12T14:25:00Z"
+    },
+    {
+      "id": "cnt_7f2a6d1e",
+      "name": "Gregory Roberts",
+      "email": "gregory.roberts@nextgenbiosciences.com",
+      "phone": "+1-215-556-9900",
+      "organization": "NextGen Biosciences",
+      "job_title": "CEO",
+      "department": "Executive",
+      "timestamp": "2022-04-05T11:10:00Z"
+    },
+    {
+      "id": "cnt_1e8c4b7a",
+      "name": "Lauren Turner",
+      "email": "lauren.turner@healthfoundationsnational.org",
+      "phone": "+1-609-667-1122",
+      "organization": "National Health Foundations",
+      "job_title": "Senior Grant Writer",
+      "department": "Philanthropy",
+      "timestamp": "2022-02-28T16:55:00Z"
+    },
+    {
+      "id": "cnt_9d3f7c5e",
+      "name": "Alexander Phillips",
+      "email": "alexander.phillips@fdaguidance.com",
+      "phone": "+1-202-778-3344",
+      "organization": "FDA Guidance Consultants",
+      "job_title": "Regulatory Consultant",
+      "department": "Compliance",
+      "timestamp": "2022-01-18T08:35:00Z"
+    },
+    {
+      "id": "cnt_5a8e2b4d",
+      "name": "Katherine Campbell",
+      "email": "katherine.campbell@copethics.org",
+      "phone": "+1-412-889-5566",
+      "organization": "Committee on Publication Ethics",
+      "job_title": "Ethics Reviewer",
+      "department": "Bioethics",
+      "timestamp": "2022-03-08T13:20:00Z"
+    }
+  ]
+}

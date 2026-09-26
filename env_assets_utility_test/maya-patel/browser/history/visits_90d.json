@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/visits_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-20T18:45:32Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "visit-a7b3c9d2-4815",
+      "timestamp": "2024-10-20T14:23:17-04:00",
+      "url": "https://portal.brightlinesystems.com/client-strategy/dashboard",
+      "title": "Brightline Systems | Client Strategy Dashboard",
+      "domain": "brightlinesystems.com",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-m2n8p4q1-7729",
+      "timestamp": "2024-10-19T09:45:22-04:00",
+      "url": "https://webmail.harborinbox.com/mail/inbox",
+      "title": "Harbor Inbox - Inbox (42)",
+      "domain": "harborinbox.com",
+      "visit_type": "personal",
+      "device": "mobile"
+    },
+    {
+      "id": "visit-k4j7h9g3-1156",
+      "timestamp": "2024-10-18T11:12:05-04:00",
+      "url": "https://www.figma.com/file/Xk9mQ2Lr/design-system-v3",
+      "title": "Design System v3 - Figma",
+      "domain": "figma.com",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-p8v2c6x9-3341",
+      "timestamp": "2024-10-15T16:38:44-04:00",
+      "url": "https://www.linkedin.com/in/leah-morgan-brightline",
+      "title": "Leah Morgan - Client Strategy Lead | LinkedIn",
+      "domain": "linkedin.com",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-r5t9y3w7-9982",
+      "timestamp": "2024-10-12T07:15:33-04:00",
+      "url": "https://weather.com/weather/today/l/Pittsburgh+PA",
+      "title": "Pittsburgh, PA Weather Forecast",
+      "domain": "weather.com",
+      "visit_type": "personal",
+      "device": "mobile"
+    },
+    {
+      "id": "visit-d1f6g8h4-5567",
+      "timestamp": "2024-10-08T20:42:18-04:00",
+      "url": "https://www.zillow.com/pittsburgh-pa/sold",
+      "title": "Recently Sold Homes in Pittsburgh, PA",
+      "domain": "zillow.com",
+      "visit_type": "personal",
+      "device": "tablet"
+    },
+    {
+      "id": "visit-s3e5r7t9-2234",
+      "timestamp": "2024-10-05T12:05:51-04:00",
+      "url": "https://workplace.net/brightline-systems",
+      "title": "Brightline Systems - Workplace",
+      "domain": "workplace.net",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-u6i8o0p2-8876",
+      "timestamp": "2024-10-01T15:27:39-04:00",
+      "url": "https://www.fidelity.com/accounts/retirement-planning",
+      "title": "Retirement Planning - Fidelity Investments",
+      "domain": "fidelity.com",
+      "visit_type": "personal",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-q2w4e6r8-4412",
+      "timestamp": "2024-09-28T10:19:56-04:00",
+      "url": "https://www.ahn.org/doctors/schedule-appointment",
+      "title": "Schedule an Appointment - Allegheny Health Network",
+      "domain": "ahn.org",
+      "visit_type": "personal",
+      "device": "mobile"
+    },
+    {
+      "id": "visit-z5x7c9v1-7733",
+      "timestamp": "2024-09-25T19:33:12-04:00",
+      "url": "https://open.spotify.com/collection/tracks",
+      "title": "Your Library - Spotify",
+      "domain": "spotify.com",
+      "visit_type": "personal",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-b4n6m8l0-3365",
+      "timestamp": "2024-09-22T08:45:00-04:00",
+      "url": "https://calendar.google.com/calendar/u/0/r/week",
+      "title": "Google Calendar - Week of September 22",
+      "domain": "calendar.google.com",
+      "visit_type": "personal",
+      "device": "mobile"
+    },
+    {
+      "id": "visit-h2j4k6l8-9921",
+      "timestamp": "2024-09-18T13:12:47-04:00",
+      "url": "https://www.notion.so/brightline/Meeting-Notes-Client-Checkins",
+      "title": "Meeting Notes: Client Checkins",
+      "domain": "notion.so",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-f3d5s7a9-1148",
+      "timestamp": "2024-09-15T21:05:22-04:00",
+      "url": "https://www.nytimes.com/2024/09/15/technology/design-systems-accessibility.html",
+      "title": "Design Systems and Accessibility - The New York Times",
+      "domain": "nytimes.com",
+      "visit_type": "personal",
+      "device": "tablet"
+    },
+    {
+      "id": "visit-g7h9j1k3-6678",
+      "timestamp": "2024-09-10T11:48:35-04:00",
+      "url": "https://www.post-gazette.com/local/pittsburgh",
+      "title": "Pittsburgh Local News - Pittsburgh Post-Gazette",
+      "domain": "post-gazette.com",
+      "visit_type": "personal",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-l5o9i2u6-3390",
+      "timestamp": "2024-09-05T14:22:18-04:00",
+      "url": "https://calendly.com/maya-patel-brightline/client-strategy-session",
+      "title": "Client Strategy Session - Maya Patel - Calendly",
+      "domain": "calendly.com",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-t7r1e4w9-7754",
+      "timestamp": "2024-08-28T09:15:42-04:00",
+      "url": "https://github.com/brightline-systems/design-tokens",
+      "title": "GitHub - brightline-systems/design-tokens",
+      "domain": "github.com",
+      "visit_type": "work",
+      "device": "desktop"
+    },
+    {
+      "id": "visit-y4u8i3o7-2287",
+      "timestamp": "2024-08-22T18:30:15-04:00",
+      "url": "https://www.amazon.com/gp/your-account/order-history",
+      "title": "Your Orders - Amazon.com",
+      "domain": "amazon.com",
+      "visit_type": "personal",
+      "device": "mobile"
+    },
+    {
+      "id": "visit-c6v9b2n5-5543",
+      "timestamp": "2024-08-15T20:17:09-04:00",
+      "url": "https://www.goodreads.com/review/list/982347",
+      "title": "Maya's Bookshelf - Goodreads",
+      "domain": "goodreads.com",
+      "visit_type": "personal",
+      "device": "tablet"
+    },
+    {
+      "id": "visit-m8k3l7p1-8812",
+      "timestamp": "2024-08-09T07:45:33-04:00",
+      "url": "https://www.google.com/maps/dir/6452+Laurel+Creek+Court,+Pittsburgh,+PA/Brightline+Systems+HQ,+500+Technology+Dr,+Pittsburgh,+PA+15219",
+      "title": "6452 Laurel Creek Court to Brightline Systems HQ - Google Maps",
+      "domain": "google.com",
+      "visit_type": "personal",
+      "device": "mobile"
+    },
+    {
+      "id": "visit-x4z8c2v6-4467",
+      "timestamp": "2024-07-25T22:10:49-04:00",
+      "url": "https://www.netflix.com/browse",
+      "title": "Netflix - Home",
+      "domain": "netflix.com",
+      "visit_type": "personal",
+      "device": "desktop"
+    }
+  ]
+}

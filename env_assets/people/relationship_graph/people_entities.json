@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/people_entities.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-06-29T14:35:22Z"
+  },
+  "records": [
+    {
+      "id": "pe-2026-001",
+      "full_name": "Sarah Chen",
+      "relation_type": "colleague",
+      "context": "Project Alpha co-lead",
+      "email": "s.chen@techsolutions.net",
+      "phone": "+1-415-0198",
+      "date": "2026-04-12",
+      "source_ref": "email/inbox/threads_180d.json"
+    },
+    {
+      "id": "pe-2026-002",
+      "full_name": "Marcus Johnson",
+      "relation_type": "fitness_partner",
+      "context": "Tuesday morning run club",
+      "location": "Riverside Park",
+      "timestamp": "2026-05-03T07:30:00Z",
+      "notes": "Pace group 8:00 min/mile",
+      "source_ref": "health/fitness/workouts_12m.json"
+    },
+    {
+      "id": "pe-2026-003",
+      "full_name": "Dr. Emily Watson",
+      "relation_type": "healthcare_provider",
+      "specialty": "General Practitioner",
+      "clinic": "Metro Health Center",
+      "start_time": "2026-06-15T09:00:00Z",
+      "appointment_type": "Annual physical",
+      "source_ref": "calendar/working/events_past_12m_future_6m.json"
+    },
+    {
+      "id": "pe-2026-004",
+      "full_name": "Robert Kim",
+      "relation_type": "financial_advisor",
+      "institution": "Example Financial Services",
+      "period_start": "2026-04-01",
+      "period_end": "2026-12-31",
+      "service_type": "Retirement planning",
+      "email": "r.kim@meridianfinancial.com",
+      "source_ref": "finance/banking/transactions_24m.json"
+    },
+    {
+      "id": "pe-2026-005",
+      "full_name": "Jennifer Walsh",
+      "relation_type": "friend",
+      "context": "College roommate - State University",
+      "end_time": "2026-06-20T18:00:00Z",
+      "activity": "Dinner at Bistro 42",
+      "source_ref": "notes/knowledge/meeting_notes_365d.json"
+    },
+    {
+      "id": "pe-2026-006",
+      "full_name": "David Park",
+      "relation_type": "neighbor",
+      "context": "Apartment 4B, building wing B",
+      "date": "2026-05-20",
+      "interests": [
+        "photography",
+        "hiking"
+      ],
+      "emergency_contact": true
+    }
+  ]
+}

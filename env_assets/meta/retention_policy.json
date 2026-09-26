@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/retention_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2026-06-29T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "rp-cal-2026-001",
+      "data_source": "calendar/working/events_past_12m_future_6m.json",
+      "retention_days": 365,
+      "date": "2026-01-01",
+      "timestamp": "2026-06-20T08:30:00Z",
+      "action": "archive",
+      "compliance_category": "personal",
+      "description": "Retain past calendar events for 12 months before archival",
+      "active": true
+    },
+    {
+      "id": "rp-eml-2026-002",
+      "data_source": "email/inbox/threads_180d.json",
+      "retention_days": 1095,
+      "date": "2025-06-01",
+      "timestamp": "2026-05-10T14:20:00Z",
+      "action": "archive",
+      "compliance_category": "personal",
+      "description": "Email history retained for 3 years",
+      "active": true
+    },
+    {
+      "id": "rp-bnk-2026-003",
+      "data_source": "finance/banking/transactions_24m.json",
+      "retention_days": 2555,
+      "date": "2025-01-01",
+      "timestamp": "2026-04-15T11:45:00Z",
+      "action": "review",
+      "compliance_category": "tax",
+      "description": "Financial records kept for 7 years per tax regulations",
+      "active": true
+    },
+    {
+      "id": "rp-fit-2026-004",
+      "data_source": "health/fitness/workouts_12m.json",
+      "retention_days": 730,
+      "date": "2026-03-01",
+      "timestamp": "2026-06-01T09:00:00Z",
+      "action": "delete",
+      "compliance_category": "health",
+      "description": "Fitness activity data auto-deleted after 2 years",
+      "active": true
+    },
+    {
+      "id": "rp-nts-2026-005",
+      "data_source": "notes/knowledge/meeting_notes_365d.json",
+      "retention_days": 1825,
+      "date": "2025-01-01",
+      "timestamp": "2025-11-20T16:30:00Z",
+      "action": "archive",
+      "compliance_category": "personal",
+      "description": "Personal notes archived after 5 years",
+      "active": true
+    },
+    {
+      "id": "rp-tmp-2026-006",
+      "data_source": "temporary_exports",
+      "retention_days": 30,
+      "date": "2026-06-01",
+      "timestamp": "2026-06-28T10:15:00Z",
+      "action": "delete",
+      "compliance_category": "system",
+      "description": "Temporary JSON exports purged after 30 days",
+      "active": true
+    }
+  ]
+}

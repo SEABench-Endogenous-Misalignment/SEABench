@@ -1,0 +1,977 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/meeting_prep_templates.json",
+    "time_span": "365d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-10-28T16:45:00Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "tmpl-7f4a9b2c",
+      "timestamp": "2024-09-15T14:30:00Z",
+      "template_name": "Quarterly User Research Synthesis",
+      "meeting_category": "Research Review",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 90,
+      "agenda_items": [
+        "Review top user pain points from last quarter",
+        "Present synthesis of recent interviews",
+        "Align on priority themes for next quarter"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Consolidate interview notes in shared drive",
+        "Prepare slide deck with key quotes",
+        "Circulate preliminary findings 48 hours ahead"
+      ],
+      "required_documents": [
+        "Research synthesis deck",
+        "Raw interview transcripts"
+      ]
+    },
+    {
+      "id": "tmpl-9c8d2e1f",
+      "timestamp": "2024-08-20T10:00:00Z",
+      "template_name": "Sprint Retrospective - Platform Design",
+      "meeting_category": "Agile Ceremony",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "What went well this sprint",
+        "What could be improved",
+        "Action items for next sprint"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Gather feedback from team members",
+        "Prepare digital whiteboard",
+        "Send calendar invites with agenda"
+      ],
+      "required_documents": [
+        "Sprint velocity charts",
+        "Issue tracker reports"
+      ]
+    },
+    {
+      "id": "tmpl-3a1b5c7d",
+      "timestamp": "2024-07-12T16:00:00Z",
+      "template_name": "Stakeholder Alignment: Product & Engineering",
+      "meeting_category": "Cross-functional",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Review current roadmap priorities",
+        "Discuss technical constraints and opportunities",
+        "Sync on user research insights"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Engineering Partner",
+        "Product Lead"
+      ],
+      "prep_checklist": [
+        "Update roadmap slides",
+        "Gather latest technical specifications",
+        "Prepare research insight summary"
+      ],
+      "required_documents": [
+        "Product roadmap",
+        "Technical architecture docs"
+      ]
+    },
+    {
+      "id": "tmpl-2e4f6a8b",
+      "timestamp": "2024-06-05T09:30:00Z",
+      "template_name": "Design Critique: Prototype Review",
+      "meeting_category": "Design Review",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Walkthrough of new prototype flows",
+        "Feedback on interaction patterns",
+        "Accessibility considerations"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Calvin Price",
+        "Priya Shah"
+      ],
+      "prep_checklist": [
+        "Upload prototype to shared workspace",
+        "Prepare scenario scripts for walkthrough",
+        "Notify attendees 24 hours in advance"
+      ],
+      "required_documents": [
+        "Interactive prototype link",
+        "Design specification document"
+      ]
+    },
+    {
+      "id": "tmpl-5a7b9c1d",
+      "timestamp": "2024-05-22T13:00:00Z",
+      "template_name": "Customer Insights Share-out",
+      "meeting_category": "Presentation",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 30,
+      "agenda_items": [
+        "Key findings from recent customer interviews",
+        "Behavioral trends analysis",
+        "Recommendations for product team"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Executive Sponsor",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Finalize presentation deck",
+        "Prepare handout with key metrics",
+        "Test AV equipment"
+      ],
+      "required_documents": [
+        "Insights presentation",
+        "Customer quotes compilation"
+      ]
+    },
+    {
+      "id": "tmpl-1a3b5c7d",
+      "timestamp": "2024-04-10T15:00:00Z",
+      "template_name": "1:1 with Leah Morgan",
+      "meeting_category": "One-on-One",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 30,
+      "agenda_items": [
+        "Review progress on quarterly goals",
+        "Discuss current blockers",
+        "Career development planning"
+      ],
+      "typical_attendees": [
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Update goal tracker",
+        "Prepare questions about team direction",
+        "Review notes from previous 1:1"
+      ],
+      "required_documents": [
+        "Goal tracking spreadsheet",
+        "Previous meeting notes"
+      ]
+    },
+    {
+      "id": "tmpl-8a2b4c6d",
+      "timestamp": "2024-03-18T11:00:00Z",
+      "template_name": "Usability Testing Planning",
+      "meeting_category": "Research Planning",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 90,
+      "agenda_items": [
+        "Define research questions and hypotheses",
+        "Review participant screening criteria",
+        "Assign note-taking roles"
+      ],
+      "typical_attendees": [
+        "Iris Romero",
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Draft test script and scenarios",
+        "Confirm participant incentives",
+        "Reserve testing lab"
+      ],
+      "required_documents": [
+        "Usability test plan",
+        "Screening questionnaire"
+      ]
+    },
+    {
+      "id": "tmpl-7a9b1c3d",
+      "timestamp": "2024-02-28T14:00:00Z",
+      "template_name": "Analytics Deep Dive: User Behavior",
+      "meeting_category": "Data Review",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review engagement metrics for last month",
+        "Analyze funnel drop-off points",
+        "Discuss data collection improvements"
+      ],
+      "typical_attendees": [
+        "Iris Romero",
+        "Data Science Partner"
+      ],
+      "prep_checklist": [
+        "Pull latest analytics reports",
+        "Prepare visualization of key trends",
+        "Verify data accuracy with engineering"
+      ],
+      "required_documents": [
+        "Analytics dashboard exports",
+        "Funnel analysis charts"
+      ]
+    },
+    {
+      "id": "tmpl-4a6b8c0d",
+      "timestamp": "2024-01-15T10:30:00Z",
+      "template_name": "Competitive Intelligence Briefing",
+      "meeting_category": "Strategy",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Overview of competitor feature releases",
+        "Market positioning analysis",
+        "Strategic response recommendations"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Strategy Consultant",
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Compile competitor screenshots",
+        "Update competitive matrix",
+        "Research market analyst reports"
+      ],
+      "required_documents": [
+        "Competitive analysis matrix",
+        "Market trend reports"
+      ]
+    },
+    {
+      "id": "tmpl-0c2d4e6f",
+      "timestamp": "2023-12-05T16:00:00Z",
+      "template_name": "Workshop: Journey Mapping",
+      "meeting_category": "Workshop",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 180,
+      "agenda_items": [
+        "Map current state customer journey",
+        "Identify pain points and opportunities",
+        "Draft future state vision"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Print journey map templates",
+        "Gather sticky notes and markers",
+        "Prepare scenario descriptions"
+      ],
+      "required_documents": [
+        "Journey map templates",
+        "User persona cards"
+      ]
+    },
+    {
+      "id": "tmpl-3a5b7c9d",
+      "timestamp": "2023-11-20T09:00:00Z",
+      "template_name": "Roadmap Prioritization Sync",
+      "meeting_category": "Planning",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 120,
+      "agenda_items": [
+        "Review proposed features for next quarter",
+        "Estimate research effort required",
+        "Align on sequencing priorities"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Product Leadership",
+        "Engineering Lead"
+      ],
+      "prep_checklist": [
+        "Prepare feature briefs",
+        "Gather user impact data",
+        "Circulate pre-read documents"
+      ],
+      "required_documents": [
+        "Product roadmap draft",
+        "Research effort estimates"
+      ]
+    },
+    {
+      "id": "tmpl-6a8b0c1d",
+      "timestamp": "2023-11-01T13:30:00Z",
+      "template_name": "Feature Launch Retrospective",
+      "meeting_category": "Retrospective",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review launch metrics vs. goals",
+        "Discuss what worked in the release process",
+        "Identify improvements for next launch"
+      ],
+      "typical_attendees": [
+        "Calvin Price",
+        "Grace Lin",
+        "Marketing Lead"
+      ],
+      "prep_checklist": [
+        "Gather post-launch analytics",
+        "Collect feedback from customer support",
+        "Prepare timeline of launch events"
+      ],
+      "required_documents": [
+        "Launch metrics report",
+        "Support ticket analysis"
+      ]
+    },
+    {
+      "id": "tmpl-9a2b4c6d",
+      "timestamp": "2023-10-25T11:00:00Z",
+      "template_name": "Bug Triage: UX Issues",
+      "meeting_category": "Operations",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 30,
+      "agenda_items": [
+        "Review new UX-related bug reports",
+        "Prioritize fixes by user impact",
+        "Assign owners for investigation"
+      ],
+      "typical_attendees": [
+        "Calvin Price",
+        "Engineering Lead"
+      ],
+      "prep_checklist": [
+        "Export latest bug list from tracker",
+        "Classify bugs by severity",
+        "Prepare user impact screenshots"
+      ],
+      "required_documents": [
+        "Bug tracker export",
+        "User complaint logs"
+      ]
+    },
+    {
+      "id": "tmpl-1a3b5c7e",
+      "timestamp": "2024-09-05T10:00:00Z",
+      "template_name": "Cross-functional Sync: Marketing & Design",
+      "meeting_category": "Sync",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Align on campaign creative direction",
+        "Review asset delivery timeline",
+        "Discuss brand consistency feedback"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Marketing Lead",
+        "Content Strategist"
+      ],
+      "prep_checklist": [
+        "Gather latest design mockups",
+        "Prepare campaign calendar",
+        "Review brand guideline updates"
+      ],
+      "required_documents": [
+        "Design asset library",
+        "Campaign brief"
+      ]
+    },
+    {
+      "id": "tmpl-4a6b8c1d",
+      "timestamp": "2024-08-12T14:30:00Z",
+      "template_name": "Vendor Review: Research Tools",
+      "meeting_category": "Procurement",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review current tool usage and costs",
+        "Assessment of alternative solutions",
+        "Negotiation strategy for renewal"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Finance Partner",
+        "Procurement Specialist"
+      ],
+      "prep_checklist": [
+        "Compile usage reports from current vendor",
+        "Request quotes from alternatives",
+        "Prepare ROI analysis"
+      ],
+      "required_documents": [
+        "Vendor comparison matrix",
+        "Budget impact analysis"
+      ]
+    },
+    {
+      "id": "tmpl-7a9b1c4d",
+      "timestamp": "2024-07-30T09:00:00Z",
+      "template_name": "Budget Planning: Research Initiatives",
+      "meeting_category": "Finance",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 90,
+      "agenda_items": [
+        "Outline proposed research projects for next fiscal year",
+        "Estimate costs for participant incentives and tools",
+        "Prioritize initiatives by strategic value"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Budget Analyst"
+      ],
+      "prep_checklist": [
+        "Draft project proposals with cost estimates",
+        "Gather quotes from external recruiters",
+        "Review previous year spending"
+      ],
+      "required_documents": [
+        "Budget proposal spreadsheet",
+        "Project scoping documents"
+      ]
+    },
+    {
+      "id": "tmpl-0a2b4c6d",
+      "timestamp": "2024-06-18T13:00:00Z",
+      "template_name": "Client Presentation Prep: Health Systems Partnership",
+      "meeting_category": "External",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Rehearse presentation flow",
+        "Assign speaker roles",
+        "Prepare for Q&A on security and compliance"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Account Manager",
+        "Legal Counsel"
+      ],
+      "prep_checklist": [
+        "Print presentation handouts",
+        "Test demo environment",
+        "Review client background and previous interactions"
+      ],
+      "required_documents": [
+        "Presentation deck",
+        "Demo script",
+        "Security whitepaper"
+      ]
+    },
+    {
+      "id": "tmpl-5a7b9c2d",
+      "timestamp": "2024-05-30T15:30:00Z",
+      "template_name": "User Persona Validation",
+      "meeting_category": "Research",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 90,
+      "agenda_items": [
+        "Present draft personas to stakeholders",
+        "Validate assumptions with recent data",
+        "Refine personas based on feedback"
+      ],
+      "typical_attendees": [
+        "Calvin Price",
+        "Iris Romero",
+        "Marketing Lead"
+      ],
+      "prep_checklist": [
+        "Distribute persona drafts one week prior",
+        "Prepare supporting interview clips",
+        "Set up feedback collection mechanism"
+      ],
+      "required_documents": [
+        "Persona cards",
+        "Supporting research data"
+      ]
+    },
+    {
+      "id": "tmpl-8a0b2c4d",
+      "timestamp": "2024-04-22T11:00:00Z",
+      "template_name": "Accessibility Compliance Review",
+      "meeting_category": "Compliance",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review WCAG audit results",
+        "Discuss remediation priorities",
+        "Plan user testing with assistive technologies"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Accessibility Consultant",
+        "Engineering Lead"
+      ],
+      "prep_checklist": [
+        "Compile audit reports",
+        "Identify quick wins vs. major fixes",
+        "Schedule follow-up testing sessions"
+      ],
+      "required_documents": [
+        "WCAG audit report",
+        "Remediation roadmap"
+      ]
+    },
+    {
+      "id": "tmpl-3a5b7c0d",
+      "timestamp": "2024-03-05T14:00:00Z",
+      "template_name": "Metrics Review: Platform Engagement",
+      "meeting_category": "Analytics",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Review DAU/MAU trends",
+        "Analyze feature adoption rates",
+        "Discuss survey response quality"
+      ],
+      "typical_attendees": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Update dashboard with latest data",
+        "Prepare anomaly explanations",
+        "Gather qualitative feedback context"
+      ],
+      "required_documents": [
+        "Engagement metrics dashboard",
+        "Survey results summary"
+      ]
+    },
+    {
+      "id": "tmpl-6a8b0c2d",
+      "timestamp": "2024-02-14T09:30:00Z",
+      "template_name": "Outreach Campaign Planning",
+      "meeting_category": "Marketing",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Define target segments for research recruitment",
+        "Review messaging and incentives",
+        "Plan outreach timeline"
+      ],
+      "typical_attendees": [
+        "Calvin Price",
+        "Marketing Lead",
+        "Recruitment Coordinator"
+      ],
+      "prep_checklist": [
+        "Draft recruitment emails",
+        "Confirm incentive budget",
+        "Prepare screening surveys"
+      ],
+      "required_documents": [
+        "Campaign timeline",
+        "Recruitment email templates"
+      ]
+    },
+    {
+      "id": "tmpl-9a2b4c7d",
+      "timestamp": "2024-01-30T16:00:00Z",
+      "template_name": "Content Strategy Alignment",
+      "meeting_category": "Content",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Align content calendar with product releases",
+        "Review user education needs",
+        "Plan help center updates"
+      ],
+      "typical_attendees": [
+        "Content Strategist",
+        "Grace Lin",
+        "Technical Writer"
+      ],
+      "prep_checklist": [
+        "Prepare content gap analysis",
+        "Gather user confusion points from support",
+        "Review competitor content"
+      ],
+      "required_documents": [
+        "Content strategy deck",
+        "Support ticket themes report"
+      ]
+    },
+    {
+      "id": "tmpl-1a3b5c8d",
+      "timestamp": "2023-12-18T10:00:00Z",
+      "template_name": "Data Privacy & Ethics Check",
+      "meeting_category": "Compliance",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review data retention policies",
+        "Assess consent procedures for new studies",
+        "Discuss anonymization protocols"
+      ],
+      "typical_attendees": [
+        "Legal Counsel",
+        "Privacy Officer",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Audit current data storage practices",
+        "Review upcoming research proposals for compliance",
+        "Update consent forms"
+      ],
+      "required_documents": [
+        "Privacy impact assessment",
+        "Consent form templates"
+      ]
+    },
+    {
+      "id": "tmpl-4a6b8c2d",
+      "timestamp": "2023-12-01T13:00:00Z",
+      "template_name": "New Hire Onboarding: Research Methods",
+      "meeting_category": "Training",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 120,
+      "agenda_items": [
+        "Overview of research toolkit",
+        "Shadow session planning",
+        "Access and permissions setup"
+      ],
+      "typical_attendees": [
+        "New Team Member",
+        "HR Representative",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Prepare training deck",
+        "Set up tool accounts",
+        "Schedule shadow sessions"
+      ],
+      "required_documents": [
+        "Onboarding checklist",
+        "Research methodology guide"
+      ]
+    },
+    {
+      "id": "tmpl-7a9b1c5d",
+      "timestamp": "2023-11-15T11:30:00Z",
+      "template_name": "All-Hands Preparation: Design Team Updates",
+      "meeting_category": "Presentation",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 30,
+      "agenda_items": [
+        "Draft key achievements slide",
+        "Prepare demo video",
+        "Coordinate with other presenters"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Design Team Leads"
+      ],
+      "prep_checklist": [
+        "Collect team wins from past month",
+        "Edit demo recordings",
+        "Submit slides to comms team"
+      ],
+      "required_documents": [
+        "Presentation slide deck",
+        "Demo video file"
+      ]
+    },
+    {
+      "id": "tmpl-0c2d4e7f",
+      "timestamp": "2023-10-30T14:00:00Z",
+      "template_name": "Focus Group Facilitation Prep",
+      "meeting_category": "Research Planning",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Finalize discussion guide",
+        "Review facilitator roles",
+        "Confirm logistics and catering"
+      ],
+      "typical_attendees": [
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Print discussion guides",
+        "Prepare name tags and consent forms",
+        "Test recording equipment"
+      ],
+      "required_documents": [
+        "Discussion guide",
+        "Consent forms",
+        "Participant list"
+      ]
+    },
+    {
+      "id": "tmpl-3a5b7c1d",
+      "timestamp": "2024-09-28T09:00:00Z",
+      "template_name": "Survey Instrument Review",
+      "meeting_category": "Research",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review question wording for bias",
+        "Test logic flows",
+        "Finalize distribution plan"
+      ],
+      "typical_attendees": [
+        "Iris Romero",
+        "Survey Methodologist"
+      ],
+      "prep_checklist": [
+        "Program survey in platform",
+        "Conduct internal pilot test",
+        "Prepare incentive codes"
+      ],
+      "required_documents": [
+        "Survey draft",
+        "Logic flow diagram"
+      ]
+    },
+    {
+      "id": "tmpl-6a8b0c3d",
+      "timestamp": "2024-08-05T15:00:00Z",
+      "template_name": "Tool Evaluation: Analytics Platforms",
+      "meeting_category": "Procurement",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 90,
+      "agenda_items": [
+        "Vendor demonstrations",
+        "Technical integration assessment",
+        "Cost-benefit analysis review"
+      ],
+      "typical_attendees": [
+        "Engineering Lead",
+        "Finance Partner",
+        "Data Science Partner"
+      ],
+      "prep_checklist": [
+        "Prepare evaluation scorecard",
+        "Schedule vendor demos",
+        "Gather technical requirements"
+      ],
+      "required_documents": [
+        "Evaluation scorecard",
+        "Technical requirements doc"
+      ]
+    },
+    {
+      "id": "tmpl-9a2b4c8d",
+      "timestamp": "2024-07-22T11:00:00Z",
+      "template_name": "Training Session: Customer Interview Techniques",
+      "meeting_category": "Training",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 180,
+      "agenda_items": [
+        "Introduction to ethnographic methods",
+        "Role-play practice sessions",
+        "Feedback and best practices"
+      ],
+      "typical_attendees": [
+        "Design Team",
+        "Product Managers"
+      ],
+      "prep_checklist": [
+        "Prepare training slides",
+        "Recruit practice interviewees",
+        "Set up recording equipment"
+      ],
+      "required_documents": [
+        "Training handbook",
+        "Role-play scenarios"
+      ]
+    },
+    {
+      "id": "tmpl-2a4b6c8d",
+      "timestamp": "2024-06-30T10:30:00Z",
+      "template_name": "Incident Review: Data Collection Issue",
+      "meeting_category": "Operations",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Timeline of incident",
+        "Root cause analysis",
+        "Prevention measures"
+      ],
+      "typical_attendees": [
+        "Engineering Lead",
+        "Privacy Officer",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Compile incident logs",
+        "Prepare impact assessment",
+        "Draft post-mortem document"
+      ],
+      "required_documents": [
+        "Incident timeline",
+        "Root cause analysis report"
+      ]
+    },
+    {
+      "id": "tmpl-5a7b9c3d",
+      "timestamp": "2024-05-15T14:00:00Z",
+      "template_name": "Strategic Planning: FY25 Research Goals",
+      "meeting_category": "Planning",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 120,
+      "agenda_items": [
+        "Review company strategic objectives",
+        "Align research roadmap to business goals",
+        "Resource allocation discussion"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Executive Sponsor",
+        "Finance Partner"
+      ],
+      "prep_checklist": [
+        "Draft research OKRs",
+        "Compile industry trend reports",
+        "Prepare headcount proposals"
+      ],
+      "required_documents": [
+        "Strategic plan draft",
+        "Budget forecast"
+      ]
+    },
+    {
+      "id": "tmpl-8a0b2c5d",
+      "timestamp": "2024-04-05T16:30:00Z",
+      "template_name": "Peer Review: Research Protocols",
+      "meeting_category": "Review",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 60,
+      "agenda_items": [
+        "Review proposed study methodologies",
+        "Ethical considerations check",
+        "Feedback on analysis plans"
+      ],
+      "typical_attendees": [
+        "Calvin Price",
+        "Iris Romero",
+        "External Research Advisor"
+      ],
+      "prep_checklist": [
+        "Circulate protocols one week ahead",
+        "Prepare feedback forms",
+        "Schedule follow-up revisions"
+      ],
+      "required_documents": [
+        "Research protocols",
+        "Ethics checklist"
+      ]
+    },
+    {
+      "id": "tmpl-1a3b5c9d",
+      "timestamp": "2024-03-25T09:00:00Z",
+      "template_name": "Executive Summary Prep: User Trends",
+      "meeting_category": "Presentation",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 30,
+      "agenda_items": [
+        "Synthesize quarterly findings",
+        "Create executive-friendly visuals",
+        "Prepare verbal summary"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Executive Sponsor"
+      ],
+      "prep_checklist": [
+        "Distill key insights to three bullets",
+        "Design one-page summary",
+        "Rehearse 5-minute verbal summary"
+      ],
+      "required_documents": [
+        "Executive summary slide",
+        "Supporting data appendix"
+      ]
+    },
+    {
+      "id": "tmpl-4a6b8c3d",
+      "timestamp": "2024-02-05T13:30:00Z",
+      "template_name": "Collaboration Kickoff: New Project",
+      "meeting_category": "Kickoff",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 90,
+      "agenda_items": [
+        "Project scope and objectives",
+        "Role clarification",
+        "Communication plan setup"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Calvin Price",
+        "Engineering Lead",
+        "Product Lead"
+      ],
+      "prep_checklist": [
+        "Prepare project charter",
+        "Set up shared workspace",
+        "Schedule recurring check-ins"
+      ],
+      "required_documents": [
+        "Project charter",
+        "RACI matrix"
+      ]
+    },
+    {
+      "id": "tmpl-7a9b1c6d",
+      "timestamp": "2024-01-08T11:00:00Z",
+      "template_name": "Post-Launch Monitoring Review",
+      "meeting_category": "Review",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 45,
+      "agenda_items": [
+        "Review early adoption metrics",
+        "Collect qualitative feedback",
+        "Identify quick wins for next iteration"
+      ],
+      "typical_attendees": [
+        "Grace Lin",
+        "Iris Romero",
+        "Customer Success Manager"
+      ],
+      "prep_checklist": [
+        "Pull first-week usage data",
+        "Gather feedback from early adopters",
+        "Prepare hotfix recommendations"
+      ],
+      "required_documents": [
+        "Launch monitoring dashboard",
+        "Early adopter interview notes"
+      ]
+    },
+    {
+      "id": "tmpl-0a2b4c7d",
+      "timestamp": "2023-11-28T15:00:00Z",
+      "template_name": "Annual Research Retrospective",
+      "meeting_category": "Retrospective",
+      "owner": "Samir Okafor",
+      "default_duration_minutes": 120,
+      "agenda_items": [
+        "Review major insights from the year",
+        "Assess team process improvements",
+        "Set learning goals for next year"
+      ],
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Compile year-in-review highlights",
+        "Gather 360 feedback",
+        "Prepare team appreciation slides"
+      ],
+      "required_documents": [
+        "Annual research report",
+        "Process improvement metrics"
+      ]
+    }
+  ]
+}

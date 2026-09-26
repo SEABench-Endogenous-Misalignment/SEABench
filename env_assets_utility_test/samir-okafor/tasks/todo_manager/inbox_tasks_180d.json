@@ -1,0 +1,399 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/inbox_tasks_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-15T14:32:18Z",
+    "source": "todo_sync_export"
+  },
+  "records": [
+    {
+      "id": "tsk_a7k3m9p2q1",
+      "title": "Review Q4 research metrics with Leah Morgan",
+      "timestamp": "2023-07-20T09:15:00Z",
+      "date": "2023-07-25",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "work",
+        "research",
+        "quarterly"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_b8n4p0r3s2",
+      "title": "Schedule dentist appointment",
+      "timestamp": "2023-07-22T11:30:00Z",
+      "date": "2023-08-05",
+      "priority": "medium",
+      "status": "active",
+      "tags": [
+        "personal",
+        "health"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_c9o5q1t4u3",
+      "title": "Order birthday gift for Theo",
+      "timestamp": "2023-08-01T14:20:00Z",
+      "date": "2023-08-15",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "shopping",
+        "household"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_d0p6r2u5v4",
+      "title": "Review platform architecture feedback from Calvin Price",
+      "timestamp": "2023-08-10T10:00:00Z",
+      "date": "2023-08-18",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "work",
+        "platform",
+        "review"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_e1q7s3v6w5",
+      "title": "Call mom",
+      "timestamp": "2023-08-15T16:45:00Z",
+      "date": "2023-08-16",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "family",
+        "calls"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_f2r8t4w7x6",
+      "title": "Fix kitchen faucet leak",
+      "timestamp": "2023-08-25T08:00:00Z",
+      "date": "2023-09-01",
+      "priority": "low",
+      "status": "active",
+      "tags": [
+        "home",
+        "maintenance",
+        "household"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_g3s9u5x8y7",
+      "title": "Prepare slides for design ops presentation",
+      "timestamp": "2023-09-05T13:10:00Z",
+      "date": "2023-09-12",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "work",
+        "presentation",
+        "design-ops"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_h4t0v6y9z8",
+      "title": "Renew car insurance policy",
+      "timestamp": "2023-09-10T09:30:00Z",
+      "date": "2023-09-30",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "finance",
+        "auto"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_i5u1w7z0a9",
+      "title": "Reply to Nina Park about hiking trip plans",
+      "timestamp": "2023-09-18T15:20:00Z",
+      "date": "2023-09-20",
+      "priority": "medium",
+      "status": "active",
+      "tags": [
+        "personal",
+        "friends",
+        "outdoor"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_j6v2x8a1b0",
+      "title": "Order replacement laptop charger",
+      "timestamp": "2023-09-25T11:00:00Z",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "shopping",
+        "tech"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_k7w3y9b2c1",
+      "title": "Submit expense report for Denver conference",
+      "timestamp": "2023-10-02T10:15:00Z",
+      "date": "2023-10-05",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "work",
+        "finance",
+        "travel"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_l8x4z0c3d2",
+      "title": "Plan weekend dinner with Owen Reed",
+      "timestamp": "2023-10-12T17:30:00Z",
+      "date": "2023-10-14",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "friends",
+        "social"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_m9y5a1d4e3",
+      "title": "Update research participant consent database",
+      "timestamp": "2023-10-20T09:00:00Z",
+      "date": "2023-10-30",
+      "priority": "high",
+      "status": "active",
+      "tags": [
+        "work",
+        "research",
+        "compliance"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_n0z6b2e5f4",
+      "title": "Book flights for UX Research conference",
+      "timestamp": "2023-11-01T14:00:00Z",
+      "date": "2023-11-07",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "work",
+        "travel",
+        "conference"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_o1a7c3f6g5",
+      "title": "Water indoor plants",
+      "timestamp": "2023-11-10T08:30:00Z",
+      "date": "2023-11-11",
+      "priority": "low",
+      "status": "completed",
+      "tags": [
+        "home",
+        "routine",
+        "household"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_p2b8d4g7h6",
+      "title": "Review Priya Shah user interview transcript",
+      "timestamp": "2023-11-15T13:45:00Z",
+      "date": "2023-11-17",
+      "priority": "medium",
+      "status": "active",
+      "tags": [
+        "work",
+        "research",
+        "interviews"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_q3c9e5h8i7",
+      "title": "Pay Duquesne Light electric bill",
+      "timestamp": "2023-11-22T10:00:00Z",
+      "date": "2023-12-01",
+      "priority": "high",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "finance",
+        "utilities"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_r4d0f6i9j8",
+      "title": "Call plumber for bathroom sink clog",
+      "timestamp": "2023-12-01T09:15:00Z",
+      "date": "2023-12-05",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "home",
+        "maintenance",
+        "repairs"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_s5e1g7j0k9",
+      "title": "Sync with Iris Romero on accessibility audit results",
+      "timestamp": "2023-12-08T11:30:00Z",
+      "date": "2023-12-12",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "work",
+        "accessibility",
+        "compliance"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_t6f2h8k1l0",
+      "title": "Grocery shopping: milk, eggs, sourdough",
+      "timestamp": "2023-12-15T16:00:00Z",
+      "priority": "low",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "shopping",
+        "household"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_u7g3i9l2m1",
+      "title": "Read article on generative research methods",
+      "timestamp": "2023-12-20T20:00:00Z",
+      "priority": "low",
+      "status": "active",
+      "tags": [
+        "work",
+        "research",
+        "learning"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_v8h4j0m3n2",
+      "title": "Schedule 1:1 with Grace Lin",
+      "timestamp": "2023-12-28T09:00:00Z",
+      "date": "2024-01-05",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "work",
+        "meetings",
+        "1-1"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_w9i5k1n4o3",
+      "title": "Cancel Adobe Creative Cloud subscription",
+      "timestamp": "2024-01-02T10:30:00Z",
+      "date": "2024-01-10",
+      "priority": "low",
+      "status": "active",
+      "tags": [
+        "personal",
+        "finance",
+        "subscriptions"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_x0j6l2o5p4",
+      "title": "Pick up dry cleaning from Juniper Court",
+      "timestamp": "2024-01-05T12:00:00Z",
+      "date": "2024-01-08",
+      "priority": "low",
+      "status": "active",
+      "tags": [
+        "personal",
+        "errands",
+        "household"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_y1k7m3p6q5",
+      "title": "Draft research ops handbook v2 updates",
+      "timestamp": "2023-11-28T14:00:00Z",
+      "date": "2023-12-15",
+      "priority": "high",
+      "status": "active",
+      "tags": [
+        "work",
+        "documentation",
+        "handbook"
+      ],
+      "source": "web_app"
+    },
+    {
+      "id": "tsk_z2l8n4q7r6",
+      "title": "RSVP to Malik Brooks housewarming party",
+      "timestamp": "2023-10-28T11:00:00Z",
+      "date": "2023-11-03",
+      "priority": "medium",
+      "status": "completed",
+      "tags": [
+        "personal",
+        "friends",
+        "social"
+      ],
+      "source": "email_forward"
+    },
+    {
+      "id": "tsk_3m9o5r8s7",
+      "title": "Backup external hard drive to NAS",
+      "timestamp": "2023-09-14T18:00:00Z",
+      "priority": "low",
+      "status": "active",
+      "tags": [
+        "personal",
+        "tech",
+        "backup"
+      ],
+      "source": "mobile_app"
+    },
+    {
+      "id": "tsk_4n0p6s9t8",
+      "title": "Review Q1 budget projections with finance team",
+      "timestamp": "2024-01-08T09:30:00Z",
+      "date": "2024-01-16",
+      "priority": "high",
+      "status": "active",
+      "tags": [
+        "work",
+        "finance",
+        "quarterly"
+      ],
+      "source": "email_forward"
+    }
+  ]
+}

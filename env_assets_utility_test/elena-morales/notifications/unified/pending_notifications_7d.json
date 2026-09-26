@@ -1,0 +1,92 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/pending_notifications_7d.json",
+    "time_span": "7d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-07-22T16:00:00Z",
+    "source": "unified_notification_center_export"
+  },
+  "records": [
+    {
+      "id": "nc-20240722-001",
+      "timestamp": "2024-07-22T10:55:00-05:00",
+      "app_name": "Cedar Grove Calendar",
+      "title": "Meeting starting soon",
+      "body": "Design Sync with Iris Romero starts in 5 minutes",
+      "category": "calendar",
+      "priority": "high",
+      "read": false
+    },
+    {
+      "id": "msg-sig-8842",
+      "timestamp": "2024-07-22T08:15:00-05:00",
+      "app_name": "Signal",
+      "title": "Grace Lin",
+      "body": "Can you pick up almond milk on your way home?",
+      "category": "messaging",
+      "priority": "normal",
+      "read": false
+    },
+    {
+      "id": "tsk-todo-7719",
+      "timestamp": "2024-07-21T19:00:00-05:00",
+      "app_name": "Things",
+      "title": "Reminder: Submit expense report",
+      "body": "Due tomorrow at noon",
+      "category": "productivity",
+      "priority": "high",
+      "read": false
+    },
+    {
+      "id": "eml-nst-9921",
+      "timestamp": "2024-07-20T16:42:00-05:00",
+      "app_name": "Mail",
+      "title": "New email from Calvin Price",
+      "body": "Re: Q3 budget approvals",
+      "category": "email",
+      "priority": "normal",
+      "read": false
+    },
+    {
+      "id": "dvr-nest-4451",
+      "timestamp": "2024-07-19T11:30:00-05:00",
+      "app_name": "Google Home",
+      "title": "Air filter replacement",
+      "body": "Your HVAC filter may need replacement",
+      "category": "home",
+      "priority": "low",
+      "read": false
+    },
+    {
+      "id": "bnk-hsb-3321",
+      "timestamp": "2024-07-18T09:15:00-05:00",
+      "app_name": "Horizon State Bank",
+      "title": "Weekly balance summary",
+      "body": "Your checking account balance is $432.15",
+      "category": "finance",
+      "priority": "normal",
+      "read": false
+    },
+    {
+      "id": "sys-mac-1192",
+      "timestamp": "2024-07-17T14:20:00-05:00",
+      "app_name": "System Preferences",
+      "title": "Software update available",
+      "body": "macOS Sonoma 14.5 is ready to install",
+      "category": "system",
+      "priority": "low",
+      "read": false
+    },
+    {
+      "id": "shp-ams-5567",
+      "timestamp": "2024-07-22T09:45:00-05:00",
+      "app_name": "Amazon Shopping",
+      "title": "Out for delivery",
+      "body": "Your package will arrive by 9:00 PM today",
+      "category": "shopping",
+      "priority": "normal",
+      "read": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/sensitivity_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-15T14:32:18Z",
+    "source": "privacy_center_export"
+  },
+  "records": [
+    {
+      "id": "scp-cal-2024-001",
+      "data_type": "Calendar Events",
+      "owner_id": "linh-nguyen",
+      "classification_tier": "internal",
+      "retention_days": 365,
+      "auto_purge_enabled": true,
+      "timestamp": "2024-03-12T09:15:00Z"
+    },
+    {
+      "id": "scp-shop-2024-002",
+      "data_type": "Shopping Lists",
+      "owner_id": "linh-nguyen",
+      "classification_tier": "internal",
+      "retention_days": 90,
+      "auto_purge_enabled": true,
+      "timestamp": "2024-05-20T14:22:00Z"
+    },
+    {
+      "id": "scp-fit-2024-003",
+      "data_type": "Fitness Metrics",
+      "owner_id": "linh-nguyen",
+      "classification_tier": "restricted",
+      "retention_days": 730,
+      "auto_purge_enabled": false,
+      "timestamp": "2024-01-08T11:45:00Z"
+    },
+    {
+      "id": "scp-fin-2024-004",
+      "data_type": "Financial Summaries",
+      "owner_id": "linh-nguyen",
+      "classification_tier": "restricted",
+      "retention_days": 2555,
+      "auto_purge_enabled": false,
+      "timestamp": "2024-07-30T16:10:00Z"
+    },
+    {
+      "id": "scp-loc-2024-005",
+      "data_type": "Location Check-ins",
+      "owner_id": "linh-nguyen",
+      "classification_tier": "internal",
+      "retention_days": 180,
+      "auto_purge_enabled": true,
+      "timestamp": "2024-09-14T08:55:00Z"
+    },
+    {
+      "id": "scp-note-2024-006",
+      "data_type": "Draft Notes",
+      "owner_id": "linh-nguyen",
+      "classification_tier": "internal",
+      "retention_days": 365,
+      "auto_purge_enabled": true,
+      "timestamp": "2024-11-02T19:30:00Z"
+    }
+  ]
+}

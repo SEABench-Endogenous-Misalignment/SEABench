@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/active_tasks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-03-28T16:45:00Z"
+  },
+  "records": [
+    {
+      "id": "task_2026_001",
+      "title": "Submit Q2 project proposal",
+      "status": "in_progress",
+      "priority": "high",
+      "timestamp": "2026-04-15T17:00:00",
+      "created_at": "2026-04-01T09:00:00",
+      "category": "work",
+      "tags": [
+        "project-alpha",
+        "deadline"
+      ]
+    },
+    {
+      "id": "task_2026_002",
+      "title": "Schedule dentist appointment",
+      "status": "pending",
+      "priority": "medium",
+      "date": "2026-05-10",
+      "created_at": "2026-04-02T10:30:00",
+      "category": "health",
+      "tags": [
+        "dental",
+        "checkup"
+      ]
+    },
+    {
+      "id": "task_2026_003",
+      "title": "Buy groceries for weekend dinner",
+      "status": "pending",
+      "priority": "medium",
+      "timestamp": "2026-04-05T18:00:00",
+      "category": "personal",
+      "tags": [
+        "shopping",
+        "errands"
+      ]
+    },
+    {
+      "id": "task_2026_004",
+      "title": "Review March bank statements",
+      "status": "pending",
+      "priority": "low",
+      "date": "2026-04-10",
+      "category": "finance",
+      "tags": [
+        "banking",
+        "monthly-review"
+      ]
+    },
+    {
+      "id": "task_2026_005",
+      "title": "Prepare presentation slides for team meeting",
+      "status": "in_progress",
+      "priority": "high",
+      "start_time": "2026-04-08T09:00:00",
+      "end_time": "2026-04-08T12:00:00",
+      "category": "work",
+      "tags": [
+        "meeting",
+        "presentation"
+      ]
+    },
+    {
+      "id": "task_2026_006",
+      "title": "Replace HVAC air filter",
+      "status": "pending",
+      "priority": "medium",
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-15",
+      "category": "home_maintenance",
+      "tags": [
+        "hvac",
+        "maintenance"
+      ]
+    }
+  ]
+}

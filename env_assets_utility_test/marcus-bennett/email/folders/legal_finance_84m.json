@@ -1,0 +1,1693 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/folders/legal_finance_84m.json",
+    "time_span": "84m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-12-19T20:15:30Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_7f8a9d2e-4b1c-4e5f-9a8b-7c6d5e4f3a2b",
+      "timestamp": "2024-04-15T10:23:00-05:00",
+      "sender": {
+        "name": "Internal Revenue Service",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Acknowledgment: Your 2023 Form 1040 Has Been Accepted",
+      "body_preview": "Your federal tax return for 2023 was accepted on 04/15/2024. Confirmation: 20240415001234. SSN ending in 8842. Expected refund $3,240 to be deposited to Chase account ending in 7742 within 21 days.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2023",
+        "refund_pending"
+      ],
+      "sensitivity_flags": [
+        "contains_ssn_last4",
+        "contains_bank_account_last4"
+      ]
+    },
+    {
+      "id": "msg_9c3b8e1d-5a2f-4c6e-8b9a-1d2e3f4a5b6c",
+      "timestamp": "2024-02-20T14:15:00-06:00",
+      "sender": {
+        "name": "David Chen",
+        "email": "david.chen@anderson-tax.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@riverbendmail.com"
+        }
+      ],
+      "subject": "Engagement Letter 2024 - Anderson & Associates Tax Services",
+      "body_preview": "Please review and sign the attached engagement letter for preparation of your 2024 federal and state returns. Fee schedule: $850 for joint filing with Schedule C and itemized deductions. Contact: +1-612-443-2198.",
+      "attachments": [
+        "engagement_letter_2024_bennett.pdf",
+        "privacy_policy.pdf"
+      ],
+      "tags": [
+        "tax",
+        "cpa",
+        "engagement"
+      ],
+      "sensitivity_flags": [
+        "contains_fee_schedule"
+      ]
+    },
+    {
+      "id": "msg_2d5e7f9a-8b3c-4d1e-6f5a-9b8c7d6e5f4a",
+      "timestamp": "2024-11-28T09:00:00-06:00",
+      "sender": {
+        "name": "Chase Bank",
+        "email": "alerts@chase.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Annual Privacy Notice Update - Account ending in 7742",
+      "body_preview": "Updates to our privacy policy effective January 2025. Your rights under the Gramm-Leach-Bliley Act. To opt out of sharing, call +1-800-772-1213 or visit chase.com/privacy.",
+      "attachments": [
+        "privacy_notice_2024.pdf"
+      ],
+      "tags": [
+        "banking",
+        "privacy",
+        "annual_notice"
+      ],
+      "sensitivity_flags": []
+    },
+    {
+      "id": "msg_1a3b5c7d-9e2f-4a6b-8c1d-3e5f7a9b2c4d",
+      "timestamp": "2024-09-12T16:45:00-05:00",
+      "sender": {
+        "name": "Lakeview Legal Group",
+        "email": "documents@lakeviewlegal.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@riverbendmail.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Rebecca Torres",
+          "email": "rtorres@lakeviewlegal.com"
+        }
+      ],
+      "subject": "Closing Documents - Refinance 7520 Laurel Creek Court",
+      "body_preview": "Attached are the signed closing disclosure, deed of trust, and promissory note for your refinance with US Bank. Loan amount: $415,000. Rate: 6.125%. Contact attorney Rebecca Torres at +1-952-876-3344 with questions.",
+      "attachments": [
+        "closing_disclosure_091224.pdf",
+        "deed_of_trust.pdf",
+        "promissory_note.pdf"
+      ],
+      "tags": [
+        "legal",
+        "real_estate",
+        "refinance",
+        "closing"
+      ],
+      "sensitivity_flags": [
+        "contains_loan_number",
+        "contains_property_address",
+        "contains_financial_terms"
+      ]
+    },
+    {
+      "id": "msg_8f2e4d6c-1b3a-5c7e-9d2f-4a6b8c1d3e5f",
+      "timestamp": "2024-06-15T11:30:00-05:00",
+      "sender": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "subject": "Mutual NDA - TechFlow Partnership",
+      "body_preview": "Please execute the attached mutual non-disclosure agreement for the TechFlow data partnership evaluation. Term: 3 years. Governing law: Minnesota. Return signed copy to Legal.",
+      "attachments": [
+        "Mutual_NDA_TechFlow_2024.pdf"
+      ],
+      "tags": [
+        "work",
+        "legal",
+        "nda",
+        "contract"
+      ],
+      "sensitivity_flags": [
+        "contains_contract_terms"
+      ]
+    },
+    {
+      "id": "msg_4c6d8e0f-2b4a-6c8e-0f1d-3a5b7c9d1e2f",
+      "timestamp": "2024-07-22T13:20:00-05:00",
+      "sender": {
+        "name": "State Farm Claims",
+        "email": "claims@statefarm.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Claim SF-2024-884291 - Settlement Authorization Needed",
+      "body_preview": "Your auto claim for the 06/15/2024 incident has been approved. Settlement amount: $8,750 less $500 deductible. Net payment: $8,250. Sign attached release form. Questions: Agent Sarah Miller +1-612-489-3321.",
+      "attachments": [
+        "settlement_release.pdf",
+        "repair_estimate.pdf"
+      ],
+      "tags": [
+        "insurance",
+        "auto",
+        "claim",
+        "settlement"
+      ],
+      "sensitivity_flags": [
+        "contains_claim_number",
+        "contains_financial_amount"
+      ]
+    },
+    {
+      "id": "msg_5e7f9a0b-3c5d-7e9f-1b2c-4d6e8f0a1b3c",
+      "timestamp": "2024-10-05T08:15:00-05:00",
+      "sender": {
+        "name": "Riverbend Medical Center HR",
+        "email": "hr@riverbendmed.org"
+      },
+      "recipients": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@riverbendmail.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "W-2 Form 2024 - Nina Park",
+      "body_preview": "Your W-2 for 2024 is attached. Box 1 wages: $67,450. Box 2 federal tax: $9,860. SSN: XXX-XX-6565. Contact HR at +1-612-344-9987 for corrections.",
+      "attachments": [
+        "W2_2024_Nina_Park.pdf"
+      ],
+      "tags": [
+        "tax",
+        "employment",
+        "w2",
+        "spouse"
+      ],
+      "sensitivity_flags": [
+        "contains_ssn_full",
+        "contains_wages"
+      ]
+    },
+    {
+      "id": "msg_6f8a0b1c-4d6e-8f0a-2c3d-5e7f9a0b4c6d",
+      "timestamp": "2024-08-18T10:00:00-05:00",
+      "sender": {
+        "name": "Fidelity Investments",
+        "email": "secure@fidelity.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Beneficiary Update Confirmation - Account ending in 9934",
+      "body_preview": "Your primary beneficiary has been updated to Nina Park (SSN ending in 6565, DOB 03/14/1989). Contingent: Owen Reed (SSN ending in 7721). Change effective 08/18/2024.",
+      "attachments": [
+        "beneficiary_confirmation.pdf"
+      ],
+      "tags": [
+        "investment",
+        "beneficiary",
+        "estate_planning"
+      ],
+      "sensitivity_flags": [
+        "contains_ssn_last4",
+        "contains_dob",
+        "contains_beneficiary_info"
+      ]
+    },
+    {
+      "id": "msg_7f9b1c2d-5e7f-9a1b-3c4d-6e8f0a2b4c6e",
+      "timestamp": "2023-04-18T09:45:00-05:00",
+      "sender": {
+        "name": "Internal Revenue Service",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Extension Filed - 2022 Tax Return",
+      "body_preview": "Your request for an automatic 6-month extension for 2022 has been approved. New due date: October 16, 2023. Estimated tax due: $2,400. Pay by original due date to avoid penalties.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2022",
+        "extension"
+      ],
+      "sensitivity_flags": [
+        "contains_tax_liability"
+      ]
+    },
+    {
+      "id": "msg_8f0c2d3e-6f8a-0b2c-4d5e-7f9a1b3c5d6e",
+      "timestamp": "2023-03-15T11:20:00-05:00",
+      "sender": {
+        "name": "Hennepin County Tax Assessor",
+        "email": "taxes@hennepin.us"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@riverbendmail.com"
+        }
+      ],
+      "subject": "2023 Property Tax Statement - 7520 Laurel Creek Court",
+      "body_preview": "First half due May 15, 2023. Amount due: $2,100. Total estimated tax 2023: $4,200. Assessment: $485,000. Pay online or mail to: Hennepin County, PO Box 1234, Minneapolis, MN 55485.",
+      "attachments": [
+        "tax_statement_2023_7520_laurel.pdf"
+      ],
+      "tags": [
+        "property_tax",
+        "real_estate",
+        "county"
+      ],
+      "sensitivity_flags": [
+        "contains_property_address",
+        "contains_assessment_value"
+      ]
+    },
+    {
+      "id": "msg_9f1d3e4f-7f9b-1c3d-5e6f-8f0a2b4c6d7e",
+      "timestamp": "2023-12-28T14:00:00-06:00",
+      "sender": {
+        "name": "Charles Schwab",
+        "email": "statements@schwab.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Year-End Statement 2023 - Accounts ...9934 and ...7742",
+      "body_preview": "Your combined statement is ready. Realized gains: $12,450. 1099-DIV and 1099-B attached. Cost basis reporting summary included.",
+      "attachments": [
+        "yearend_2023_statement.pdf",
+        "1099_composite.pdf"
+      ],
+      "tags": [
+        "investment",
+        "tax",
+        "1099",
+        "year_end"
+      ],
+      "sensitivity_flags": [
+        "contains_investment_gains",
+        "contains_account_numbers_masked"
+      ]
+    },
+    {
+      "id": "msg_0f2e4f5f-8f0c-2d4e-6f7f-9f1a3b5c7d8e",
+      "timestamp": "2023-07-30T16:30:00-05:00",
+      "sender": {
+        "name": "Rebecca Torres",
+        "email": "rtorres@lakeviewlegal.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Draft Will and Testament - Marcus Bennett",
+      "body_preview": "Attached is the draft of your pour-over will. Executors: Nina Park (primary), Owen Reed (alternate). Guardianship provisions for minor children (if applicable) included per our discussion.",
+      "attachments": [
+        "will_draft_bennett_073023.docx"
+      ],
+      "tags": [
+        "legal",
+        "estate_planning",
+        "will"
+      ],
+      "sensitivity_flags": [
+        "contains_estate_documents",
+        "contains_executor_names"
+      ]
+    },
+    {
+      "id": "msg_1f3f5f6f-9f1d-3e5f-7f8f-0f2a4b6c8d9e",
+      "timestamp": "2023-09-14T10:15:00-05:00",
+      "sender": {
+        "name": "State Farm Insurance",
+        "email": "policy@statefarm.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Homeowners Policy Renewal - 7520 Laurel Creek Court",
+      "body_preview": "Policy #34-HF-77291 renewal effective 10/14/2023. Premium: $1,840. Coverage A increased to $520,000. Deductible: $2,500. Mortgagee: US Bank NA.",
+      "attachments": [
+        "dec_page_2023_2024.pdf"
+      ],
+      "tags": [
+        "insurance",
+        "homeowners",
+        "renewal"
+      ],
+      "sensitivity_flags": [
+        "contains_policy_number",
+        "contains_property_address"
+      ]
+    },
+    {
+      "id": "msg_2f4f6f7f-0f2e-4f6f-8f9f-1f3a5b7c8d9e",
+      "timestamp": "2023-01-20T08:00:00-06:00",
+      "sender": {
+        "name": "Harborview Design HR",
+        "email": "hr@harborviewdesign.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "subject": "Form W-2 2023",
+      "body_preview": "W-2 for 2023 attached. Wages: $127,500. Federal withholding: $28,450. Box 12 shows $19,500 401k deferral. Contact HR for W-2c if needed.",
+      "attachments": [
+        "W2_2023_Bennett.pdf"
+      ],
+      "tags": [
+        "tax",
+        "employment",
+        "w2"
+      ],
+      "sensitivity_flags": [
+        "contains_wages",
+        "contains_tax_id"
+      ]
+    },
+    {
+      "id": "msg_3f5f7f8f-1f3f-5f7f-9f0f-2f4a6b8c9d0e",
+      "timestamp": "2023-11-03T13:45:00-05:00",
+      "sender": {
+        "name": "Minnesota College Savings Plan",
+        "email": "info@mnsaves.org"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Contribution Confirmation - Account 883421",
+      "body_preview": "Contribution received: $5,000 on 11/03/2023. Beneficiary: Future Bennett Child (TBD). Gift from Marcus Bennett. Tax deduction eligible for 2023 MN return.",
+      "attachments": [
+        "contribution_receipt_1103.pdf"
+      ],
+      "tags": [
+        "529",
+        "education",
+        "tax_deduction"
+      ],
+      "sensitivity_flags": [
+        "contains_account_number",
+        "contains_financial_amount"
+      ]
+    },
+    {
+      "id": "msg_4f6f8f9f-2f4f-6f8f-0f1f-3f5a7b8c9d0f",
+      "timestamp": "2023-05-22T09:30:00-05:00",
+      "sender": {
+        "name": "Minnesota DMV",
+        "email": "renewals@dvs.dps.mn.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Registration Renewal - 2020 Toyota Camry (Plate ABC-237)",
+      "body_preview": "Registration expires 06/30/2023. Fee: $59. Vehicle ID: 4T1BF1FK7HU123456. Renew online or at deputy registrar.",
+      "attachments": [
+        "renewal_notice_2023.pdf"
+      ],
+      "tags": [
+        "vehicle",
+        "registration",
+        "dmv"
+      ],
+      "sensitivity_flags": [
+        "contains_vin",
+        "contains_license_plate"
+      ]
+    },
+    {
+      "id": "msg_5f7f9f0f-3f5f-7f9f-1f2f-4f6a8b9c0d1f",
+      "timestamp": "2022-04-18T10:00:00-05:00",
+      "sender": {
+        "name": "Internal Revenue Service",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2021 Tax Return Accepted",
+      "body_preview": "Form 1040 filed 04/18/2022 accepted. Refund of $1,850 processed. Direct deposit to Chase ****7742 scheduled 04/25/2022.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2021",
+        "refund"
+      ],
+      "sensitivity_flags": [
+        "contains_bank_account_last4"
+      ]
+    },
+    {
+      "id": "msg_6f8f0f1f-4f6f-8f0f-2f3f-5f7a9b0c1d2f",
+      "timestamp": "2022-03-02T15:20:00-06:00",
+      "sender": {
+        "name": "David Chen",
+        "email": "david.chen@anderson-tax.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Tax Organizer 2021",
+      "body_preview": "Please complete the attached organizer and upload documents to secure portal. Items needed: 1099-NEC from Harborview, property tax receipt for new home, closing docs.",
+      "attachments": [
+        "tax_organizer_2021.xlsx"
+      ],
+      "tags": [
+        "tax",
+        "organizer",
+        "cpa"
+      ],
+      "sensitivity_flags": []
+    },
+    {
+      "id": "msg_7f9f1f2f-5f7f-9f1f-3f4f-6f8a0b1c2d3f",
+      "timestamp": "2022-12-28T11:00:00-06:00",
+      "sender": {
+        "name": "US Bank Home Mortgage",
+        "email": "mortgage@usbank.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Form 1098 - Mortgage Interest Statement 2022",
+      "body_preview": "Mortgage interest paid 2022: $18,400. Property taxes paid via escrow: $4,150. Loan number: 77429187. Property: 7520 Laurel Creek Court.",
+      "attachments": [
+        "1098_2022.pdf"
+      ],
+      "tags": [
+        "tax",
+        "mortgage",
+        "interest",
+        "1098"
+      ],
+      "sensitivity_flags": [
+        "contains_loan_number",
+        "contains_property_address",
+        "contains_financial_amount"
+      ]
+    },
+    {
+      "id": "msg_8f0f2f3f-6f8f-0f2f-4f5f-7f9a1b2c3d4f",
+      "timestamp": "2022-08-10T14:30:00-05:00",
+      "sender": {
+        "name": "Twin Cities Home Remodeling",
+        "email": "billing@tchomeremodel.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Contract - Kitchen Renovation 7520 Laurel Creek",
+      "body_preview": "Contract attached for kitchen renovation. Total: $24,500. Deposit: $7,350. Start date: 09/01/2022. License #BC123456. Insurance cert attached.",
+      "attachments": [
+        "contract_kitchen_2022.pdf",
+        "insurance_cert.pdf"
+      ],
+      "tags": [
+        "contract",
+        "home_improvement",
+        "invoice"
+      ],
+      "sensitivity_flags": [
+        "contains_contract_value",
+        "contains_property_address"
+      ]
+    },
+    {
+      "id": "msg_9f1f3f4f-7f9f-1f3f-5f6f-8f0a2b3c4d5f",
+      "timestamp": "2022-06-30T09:15:00-05:00",
+      "sender": {
+        "name": "Lakeview Legal Group",
+        "email": "rtorres@lakeviewlegal.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Joint Tenancy Deed Preparation",
+      "body_preview": "Draft deed to add Nina Park as joint tenant with right of survivorship to 7520 Laurel Creek Court. Recording fee: $50. Title insurance endorsement required: $175.",
+      "attachments": [
+        "draft_deed_joint_tenancy.pdf"
+      ],
+      "tags": [
+        "legal",
+        "real_estate",
+        "deed"
+      ],
+      "sensitivity_flags": [
+        "contains_property_address",
+        "contains_spouse_name"
+      ]
+    },
+    {
+      "id": "msg_0f2f4f5f-8f0f-2f4f-6f7f-9f1a3b4c5d6f",
+      "timestamp": "2022-09-15T10:45:00-05:00",
+      "sender": {
+        "name": "Capital One Auto Finance",
+        "email": "customer.service@capitalone.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Loan Paid in Full - Congratulations",
+      "body_preview": "Your auto loan 456789123 has been paid in full. Title release processing to Hennepin County. Lien satisfaction letter attached.",
+      "attachments": [
+        "lien_release.pdf"
+      ],
+      "tags": [
+        "auto",
+        "loan",
+        "paid_off"
+      ],
+      "sensitivity_flags": [
+        "contains_account_number"
+      ]
+    },
+    {
+      "id": "msg_1f3f5f6f-9f1f-3f5f-7f8f-0f2a4b5c6d7f",
+      "timestamp": "2022-11-20T16:00:00-06:00",
+      "sender": {
+        "name": "Minnesota Public Radio",
+        "email": "membership@mpr.org"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2022 Tax Receipt - $240 Donation",
+      "body_preview": "Thank you for your support. Tax ID: 41-0953924. Donation date: 12/31/2022. No goods or services provided in exchange.",
+      "attachments": [
+        "tax_receipt_2022.pdf"
+      ],
+      "tags": [
+        "charity",
+        "donation",
+        "tax_receipt"
+      ],
+      "sensitivity_flags": [
+        "contains_donation_amount"
+      ]
+    },
+    {
+      "id": "msg_2f4f6f7f-0f2f-4f6f-8f9f-1f3a5b6c7d8f",
+      "timestamp": "2022-01-31T08:30:00-06:00",
+      "sender": {
+        "name": "Harborview Design Legal",
+        "email": "legal@harborviewdesign.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "subject": "Stock Option Grant - 2022 Award",
+      "body_preview": "Non-qualified stock option grant agreement attached. Grant date: 02/15/2022. Shares: 2,500. Strike price: $12.40. Vesting: 4-year monthly. 83(b) election info attached.",
+      "attachments": [
+        "stock_option_agreement_2022.pdf",
+        "83b_election_form.pdf"
+      ],
+      "tags": [
+        "equity",
+        "stock_options",
+        "employment"
+      ],
+      "sensitivity_flags": [
+        "contains_equity_terms",
+        "contains_compensation"
+      ]
+    },
+    {
+      "id": "msg_3f5f7f8f-1f3f-5f7f-9f0f-2f4a6b7c8d9f",
+      "timestamp": "2021-04-15T11:00:00-05:00",
+      "sender": {
+        "name": "Internal Revenue Service",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2020 Tax Return Accepted - Balance Due",
+      "body_preview": "Your return was accepted. Amount due: $2,100. Payment options: direct debit, check, or credit card. Pay by 04/15/2021 to avoid penalties.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2020",
+        "balance_due"
+      ],
+      "sensitivity_flags": [
+        "contains_tax_liability"
+      ]
+    },
+    {
+      "id": "msg_4f6f8f9f-2f4f-6f8f-0f1f-3f5a7b8c9d0f",
+      "timestamp": "2021-03-22T13:00:00-05:00",
+      "sender": {
+        "name": "David Chen",
+        "email": "david.chen@anderson-tax.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "First-Time Homebuyer Tax Benefits",
+      "body_preview": "Based on your July 2021 closing, you may be eligible for certain deductions. Please provide closing disclosure and initial tax bills for 2021 filing.",
+      "attachments": [
+        "homebuyer_tax_guide.pdf"
+      ],
+      "tags": [
+        "tax",
+        "first_time_buyer",
+        "real_estate"
+      ],
+      "sensitivity_flags": []
+    },
+    {
+      "id": "msg_5f7f9f0f-3f5f-7f9f-1f2f-4f6a8b9c0d1f",
+      "timestamp": "2021-12-31T09:00:00-06:00",
+      "sender": {
+        "name": "Hennepin County Treasurer",
+        "email": "treasurer@hennepin.us"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Property Tax Payment Confirmation 2021",
+      "body_preview": "Payment received 12/31/2021: $3,850. Parcel ID: 05-123-45-6789. 7520 Laurel Creek Court. Remaining balance: $0.",
+      "attachments": [
+        "receipt_2021.pdf"
+      ],
+      "tags": [
+        "property_tax",
+        "payment_confirmation"
+      ],
+      "sensitivity_flags": [
+        "contains_property_address",
+        "contains_parcel_id"
+      ]
+    },
+    {
+      "id": "msg_6f8f0f1f-4f6f-8f0f-2f3f-5f7a9b0c1d2f",
+      "timestamp": "2021-07-15T15:30:00-05:00",
+      "sender": {
+        "name": "First American Title",
+        "email": "closing@firstam.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@riverbendmail.com"
+        }
+      ],
+      "subject": "Closing Disclosure - 7520 Laurel Creek Court",
+      "body_preview": "CDE attached for review 3 days prior to closing. Loan amount: $485,000. Cash to close: $24,500. Closing date: 07/22/2021. Location: First American Office, 123 Main St.",
+      "attachments": [
+        "closing_disclosure_071521.pdf"
+      ],
+      "tags": [
+        "real_estate",
+        "closing",
+        "mortgage"
+      ],
+      "sensitivity_flags": [
+        "contains_financial_amount",
+        "contains_closing_date"
+      ]
+    },
+    {
+      "id": "msg_7f9f1f2f-5f7f-9f1f-3f4f-6f8a0b1c2d3f",
+      "timestamp": "2021-06-18T10:00:00-05:00",
+      "sender": {
+        "name": "US Bank Mortgage",
+        "email": "loans@usbank.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Conditional Loan Commitment Letter",
+      "body_preview": "Loan commitment $485,000 subject to appraisal, title insurance, and verification of employment. Rate locked 3.25% until 08/15/2021. Conditions listed in attachment.",
+      "attachments": [
+        "commitment_letter_061821.pdf"
+      ],
+      "tags": [
+        "mortgage",
+        "commitment",
+        "loan"
+      ],
+      "sensitivity_flags": [
+        "contains_loan_amount",
+        "contains_interest_rate"
+      ]
+    },
+    {
+      "id": "msg_8f0f2f3f-6f8f-0f2f-4f5f-7f9a1b2c3d4f",
+      "timestamp": "2021-08-05T14:00:00-05:00",
+      "sender": {
+        "name": "HomeInspect Pro",
+        "email": "reports@homeinspectpro.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Inspection Report - 7520 Laurel Creek Court",
+      "body_preview": "Full inspection report attached. Major items: Roof estimated 5 years remaining (photo evidence), HVAC serviced 2020. Recommend renegotiation for gutter repair $1,200.",
+      "attachments": [
+        "inspection_report_080521.pdf",
+        "photos.zip"
+      ],
+      "tags": [
+        "inspection",
+        "real_estate",
+        "report"
+      ],
+      "sensitivity_flags": [
+        "contains_property_address",
+        "contains_inspection_findings"
+      ]
+    },
+    {
+      "id": "msg_9f1f3f4f-7f9f-1f3f-5f6f-8f0a2b3c4d5f",
+      "timestamp": "2021-09-30T09:00:00-05:00",
+      "sender": {
+        "name": "State Farm Insurance",
+        "email": "policy@statefarm.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Insurance Binder - New Home Policy",
+      "body_preview": "Binder effective 10/01/2021 through 10/01/2022. Coverage A: $500,000. Deductible: $2,500. Mortgagee clause: US Bank ISAOA/ATIMA.",
+      "attachments": [
+        "binder_2021.pdf"
+      ],
+      "tags": [
+        "insurance",
+        "binder",
+        "new_home"
+      ],
+      "sensitivity_flags": [
+        "contains_policy_details"
+      ]
+    },
+    {
+      "id": "msg_0f2f4f5f-8f0f-2f4f-6f7f-9f1a3b4c5d6f",
+      "timestamp": "2021-11-12T11:30:00-06:00",
+      "sender": {
+        "name": "Hennepin County Recorder",
+        "email": "recorder@hennepin.us"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Recorded Document - Warranty Deed",
+      "body_preview": "Document #20211112001234 recorded 11/12/2021 09:45 AM. Grantor: Johnson Family Trust. Grantee: Marcus Bennett. Property: 7520 Laurel Creek Court. Recording fees: $120.",
+      "attachments": [
+        "recorded_deed.pdf"
+      ],
+      "tags": [
+        "deed",
+        "recording",
+        "county"
+      ],
+      "sensitivity_flags": [
+        "contains_property_address",
+        "contains_recordation_details"
+      ]
+    },
+    {
+      "id": "msg_1f3f5f6f-9f1f-3f5f-7f8f-0f2a4b5c6d7f",
+      "timestamp": "2020-07-20T10:00:00-05:00",
+      "sender": {
+        "name": "Wells Fargo Mortgage",
+        "email": "mortgage@wellsfargo.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Pre-Approval Letter - $500,000",
+      "body_preview": "Pre-approval valid 90 days. Based on credit score 782 and income verification. Max purchase price $550,000 with 10% down. Contact loan officer James Wilson at +1-612-876-3342.",
+      "attachments": [
+        "preapproval_072020.pdf"
+      ],
+      "tags": [
+        "mortgage",
+        "preapproval"
+      ],
+      "sensitivity_flags": [
+        "contains_credit_score",
+        "contains_max_loan"
+      ]
+    },
+    {
+      "id": "msg_2f4f6f7f-0f2f-4f6f-8f9f-1f3a5b6c7d8f",
+      "timestamp": "2020-09-15T16:00:00-05:00",
+      "sender": {
+        "name": "Lakeside Realty",
+        "email": "agent@lakesiderealty.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Purchase Agreement Signed - Counter Offer Accepted",
+      "body_preview": "Seller accepted your counter at $525,000 with $5,000 seller credit. Closing set for 11/15/2020 (later extended). Earnest money $10,000 due to title company within 2 days.",
+      "attachments": [
+        "purchase_agreement_signed.pdf"
+      ],
+      "tags": [
+        "real_estate",
+        "purchase_agreement",
+        "offer"
+      ],
+      "sensitivity_flags": [
+        "contains_purchase_price",
+        "contains_closing_date"
+      ]
+    },
+    {
+      "id": "msg_3f5f7f8f-1f3f-5f7f-9f0f-2f4a6b7c8d9f",
+      "timestamp": "2020-10-20T09:30:00-05:00",
+      "sender": {
+        "name": "First American Title",
+        "email": "escrow@firstam.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Earnest Money Deposit Confirmed",
+      "body_preview": "Wire transfer received $10,000.00. Reference: Laurel Creek. Held in trust account #445521. Credited to buyer at closing or returned if contract terminated per terms.",
+      "attachments": [
+        "receipt_earnest_money.pdf"
+      ],
+      "tags": [
+        "escrow",
+        "earnest_money",
+        "real_estate"
+      ],
+      "sensitivity_flags": [
+        "contains_financial_amount",
+        "contains_escrow_details"
+      ]
+    },
+    {
+      "id": "msg_4f6f8f9f-2f4f-6f8f-0f1f-3f5a7b8c9d0f",
+      "timestamp": "2020-04-15T10:00:00-05:00",
+      "sender": {
+        "name": "IRS",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2019 Tax Return Accepted",
+      "body_preview": "Refund of $2,400 approved. Direct deposit scheduled. First EIP (stimulus) eligibility confirmed. No action needed.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2019",
+        "stimulus"
+      ],
+      "sensitivity_flags": []
+    },
+    {
+      "id": "msg_5f7f9f0f-3f5f-7f9f-1f2f-4f6a8b9c0d1f",
+      "timestamp": "2020-12-28T11:00:00-06:00",
+      "sender": {
+        "name": "Vanguard",
+        "email": "taxcenter@vanguard.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2020 Charitable Contributions Summary",
+      "body_preview": "Total qualified contributions: $3,600. DAF contributions: $2,000. Securities donated: $1,600. 8283 forms attached for non-cash donations over $500.",
+      "attachments": [
+        "contribution_summary_2020.pdf",
+        "form_8283.pdf"
+      ],
+      "tags": [
+        "charity",
+        "tax",
+        "donations"
+      ],
+      "sensitivity_flags": [
+        "contains_donation_amounts"
+      ]
+    },
+    {
+      "id": "msg_6f8f0f1f-4f6f-8f0f-2f3f-5f7a9b0c1d2f",
+      "timestamp": "2020-11-03T14:00:00-06:00",
+      "sender": {
+        "name": "Progressive Insurance",
+        "email": "policy@progressive.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Auto Policy Declaration Page",
+      "body_preview": "Policy effective 11/03/2020. Vehicles: 2020 Toyota Camry, 2018 Honda CR-V. Premium: $1,240/6 months. Coverage limits: 100/300/100.",
+      "attachments": [
+        "dec_page_auto_2020.pdf"
+      ],
+      "tags": [
+        "insurance",
+        "auto",
+        "policy"
+      ],
+      "sensitivity_flags": [
+        "contains_vehicle_info",
+        "contains_policy_limits"
+      ]
+    },
+    {
+      "id": "msg_7f9f1f2f-5f7f-9f1f-3f4f-6f8a0b1c2d3f",
+      "timestamp": "2020-08-12T09:00:00-05:00",
+      "sender": {
+        "name": "Fidelity Investments",
+        "email": "welcome@fidelity.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Account Opened - Taxable Brokerage 9934",
+      "body_preview": "Welcome to Fidelity. Account number XXXXXXXXX9934 opened. Funding initiated from Chase ****7742 for $25,000. Online access credentials sent separately.",
+      "attachments": [
+        "account_agreement.pdf"
+      ],
+      "tags": [
+        "investment",
+        "account_opened",
+        "brokerage"
+      ],
+      "sensitivity_flags": [
+        "contains_account_number_masked",
+        "contains_bank_account_last4"
+      ]
+    },
+    {
+      "id": "msg_8f0f2f3f-6f8f-0f2f-4f5f-7f9a1b2c3d4f",
+      "timestamp": "2020-02-28T08:00:00-06:00",
+      "sender": {
+        "name": "Harborview Design HR",
+        "email": "hr@harborviewdesign.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborviewdesign.com"
+        }
+      ],
+      "subject": "Employment Agreement - Research Operations Lead",
+      "body_preview": "Attached is your signed employment agreement. Start date: 03/01/2020. Salary: $115,000. Signing bonus: $10,000. Benefits enrollment deadline: 03/15/2020.",
+      "attachments": [
+        "employment_agreement_bennett.pdf",
+        "benefits_guide.pdf"
+      ],
+      "tags": [
+        "employment",
+        "contract",
+        "onboarding"
+      ],
+      "sensitivity_flags": [
+        "contains_salary",
+        "contains_start_date"
+      ]
+    },
+    {
+      "id": "msg_9f1f3f4f-7f9f-1f3f-5f6f-8f0a2b3c4d5f",
+      "timestamp": "2019-04-15T09:00:00-05:00",
+      "sender": {
+        "name": "IRS",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2018 Tax Return Accepted",
+      "body_preview": "Return accepted. Balance due $850 paid via direct debit on 04/15/2019. Confirmation: 20190415000884.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2018",
+        "paid"
+      ],
+      "sensitivity_flags": []
+    },
+    {
+      "id": "msg_0f2f4f5f-8f0f-2f4f-6f7f-9f1a3b4c5d6f",
+      "timestamp": "2019-03-10T10:00:00-06:00",
+      "sender": {
+        "name": "IRS",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Refund Deposited - 2018 Tax Year",
+      "body_preview": "Your refund of $1,200 has been direct deposited to account ending in 4432 on 03/10/2019. If not received in 5 days, contact your bank.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "refund",
+        "2018"
+      ],
+      "sensitivity_flags": [
+        "contains_bank_account_last4"
+      ]
+    },
+    {
+      "id": "msg_1f3f5f6f-9f1f-3f5f-7f8f-0f2a4b5c6d7f",
+      "timestamp": "2019-07-22T11:00:00-05:00",
+      "sender": {
+        "name": "Apex Property Management",
+        "email": "leasing@apexproperty.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Lease Renewal 2020 - Apartment 304",
+      "body_preview": "Current lease expires 01/31/2020. Renewal offer: $1,450/month. 12-month term. Market rate $1,550. Respond by 08/15/2019 to secure rate.",
+      "attachments": [
+        "renewal_offer_2020.pdf"
+      ],
+      "tags": [
+        "lease",
+        "rental",
+        "housing"
+      ],
+      "sensitivity_flags": [
+        "contains_rental_amount"
+      ]
+    },
+    {
+      "id": "msg_2f4f6f7f-0f2f-4f6f-8f9f-1f3a5b6c7d8f",
+      "timestamp": "2019-11-15T14:30:00-06:00",
+      "sender": {
+        "name": "American Express",
+        "email": "account.services@americanexpress.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Account Closure Confirmation - Card ending 1001",
+      "body_preview": "Your request to close account XXXXXX1001 has been processed. Final statement generated. Remaining balance of $0.00. Credit reported to bureaus as closed by consumer.",
+      "attachments": [
+        "closure_letter.pdf"
+      ],
+      "tags": [
+        "credit_card",
+        "closure",
+        "account"
+      ],
+      "sensitivity_flags": [
+        "contains_account_number_masked"
+      ]
+    },
+    {
+      "id": "msg_3f5f7f8f-1f3f-5f7f-9f0f-2f4a6b7c8d9f",
+      "timestamp": "2019-09-05T09:15:00-05:00",
+      "sender": {
+        "name": "Navient",
+        "email": "borrower.communications@navient.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Student Loan Paid in Full - Congratulations",
+      "body_preview": "Your student loan account ending in 8234 is paid in full. Paid ahead status removed. Tax documents will be available January 2020. Thank you for your business.",
+      "attachments": [
+        "paid_in_full_letter.pdf"
+      ],
+      "tags": [
+        "student_loan",
+        "paid_off",
+        "debt"
+      ],
+      "sensitivity_flags": [
+        "contains_account_number_masked"
+      ]
+    },
+    {
+      "id": "msg_4f6f8f9f-2f4f-6f8f-0f1f-3f5a7b8c9d0f",
+      "timestamp": "2019-01-20T08:00:00-06:00",
+      "sender": {
+        "name": "TechSolutions Inc HR",
+        "email": "hr@techsolutions.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Form W-2 2019",
+      "body_preview": "W-2 for employment period 01/01/2019 - 12/31/2019. Wages: $98,000. Federal withholding: $19,600. This was your final year with TechSolutions.",
+      "attachments": [
+        "W2_2019_TechSolutions.pdf"
+      ],
+      "tags": [
+        "tax",
+        "w2",
+        "previous_employer"
+      ],
+      "sensitivity_flags": [
+        "contains_wages",
+        "contains_employment_history"
+      ]
+    },
+    {
+      "id": "msg_5f7f9f0f-3f5f-7f9f-1f2f-4f6a8b9c0d1f",
+      "timestamp": "2019-06-12T10:00:00-05:00",
+      "sender": {
+        "name": "State Farm Renter's Insurance",
+        "email": "policy@statefarm.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Renter's Policy Renewal - Apartment 304",
+      "body_preview": "Policy #34-RN-99121 renewing 07/01/2019. Premium: $185 annually. Personal property coverage: $25,000. Deductible $500.",
+      "attachments": [
+        "renewal_dec.pdf"
+      ],
+      "tags": [
+        "insurance",
+        "renters",
+        "renewal"
+      ],
+      "sensitivity_flags": [
+        "contains_policy_details",
+        "contains_coverage_amounts"
+      ]
+    },
+    {
+      "id": "msg_6f8f0f1f-4f6f-8f0f-2f3f-5f7a9b0c1d2f",
+      "timestamp": "2019-10-30T15:00:00-05:00",
+      "sender": {
+        "name": "Minnesota DMV",
+        "email": "motor.vehicles@state.mn.us"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Title Transfer Completed - 2015 Toyota Camry",
+      "body_preview": "Title issued 10/28/2019. Owner: Marcus Bennett. VIN: 4T1BF1FK7FU987654. Previous owner: Midwest Auto Sales. No liens recorded.",
+      "attachments": [
+        "title_copy.pdf"
+      ],
+      "tags": [
+        "vehicle",
+        "title",
+        "dmv"
+      ],
+      "sensitivity_flags": [
+        "contains_vin",
+        "contains_previous_owner"
+      ]
+    },
+    {
+      "id": "msg_7f9f1f2f-5f7f-9f1f-3f4f-6f8a0b1c2d3f",
+      "timestamp": "2018-04-17T09:30:00-05:00",
+      "sender": {
+        "name": "IRS",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "2017 Tax Return Late Filing Accepted",
+      "body_preview": "Your return filed 04/17/2018 has been accepted. Late filing penalty assessed: $210. Balance paid in full. No further action required.",
+      "attachments": [],
+      "tags": [
+        "tax",
+        "2017",
+        "penalty"
+      ],
+      "sensitivity_flags": [
+        "contains_penalty_amount"
+      ]
+    },
+    {
+      "id": "msg_8f0f2f3f-6f8f-0f2f-4f5f-7f9a1b2c3d4f",
+      "timestamp": "2018-02-14T11:00:00-06:00",
+      "sender": {
+        "name": "Hennepin County Vital Records",
+        "email": "vital.records@hennepin.us"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@riverbendmail.com"
+        }
+      ],
+      "subject": "Marriage Certificate - Recorded",
+      "body_preview": "Marriage license #2018-004421 recorded 02/14/2018. Officiant: Judge Maria Rodriguez. Certified copies available at $15 each.",
+      "attachments": [
+        "marriage_certificate.pdf"
+      ],
+      "tags": [
+        "legal",
+        "marriage",
+        "certificate"
+      ],
+      "sensitivity_flags": [
+        "contains_spouse_name",
+        "contains_officiant"
+      ]
+    },
+    {
+      "id": "msg_9f1f3f4f-7f9f-1f3f-5f6f-8f0a2b3c4d5f",
+      "timestamp": "2018-03-22T10:00:00-05:00",
+      "sender": {
+        "name": "IRS",
+        "email": "no-reply@irs.gov"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Installment Agreement Accepted",
+      "body_preview": "Payment plan for 2017 taxes approved. Monthly payment $150 due 28th of each month. Setup fee: $31. Direct debit from account ending in 4432.",
+      "attachments": [
+        "installment_agreement.pdf"
+      ],
+      "tags": [
+        "tax",
+        "payment_plan",
+        "irs"
+      ],
+      "sensitivity_flags": [
+        "contains_payment_terms",
+        "contains_bank_account_last4"
+      ]
+    },
+    {
+      "id": "msg_0f2f4f5f-8f0f-2f4f-6f7f-9f1a3b4c5d6f",
+      "timestamp": "2018-08-14T14:00:00-05:00",
+      "sender": {
+        "name": "Metro Small Claims Court",
+        "email": "clerk@hennepin.courts.state.mn.us"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Judgment Entered - Case #27-SC-2018-8842",
+      "body_preview": "Judgment in your favor against Tires Plus. Amount: $1,200 plus court costs $75. Satisfaction of judgment to be filed upon payment.",
+      "attachments": [
+        "judgment_order.pdf"
+      ],
+      "tags": [
+        "legal",
+        "court",
+        "judgment"
+      ],
+      "sensitivity_flags": [
+        "contains_case_number",
+        "contains_judgment_amount"
+      ]
+    },
+    {
+      "id": "msg_1f3f5f6f-9f1f-3f5f-7f8f-0f2a4b5c6d7f",
+      "timestamp": "2018-12-28T09:00:00-06:00",
+      "sender": {
+        "name": "Vanguard Retirement",
+        "email": "retirement@vanguard.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "401k Rollover Completed",
+      "body_preview": "Rollover from TechSolutions 401k to Traditional IRA completed. Amount: $45,200. Check deposited 12/26/2018. No withholding applied.",
+      "attachments": [
+        "rollover_confirmation.pdf"
+      ],
+      "tags": [
+        "retirement",
+        "rollover",
+        "401k"
+      ],
+      "sensitivity_flags": [
+        "contains_retirement_amount",
+        "contains_account_transfer"
+      ]
+    },
+    {
+      "id": "msg_2f4f6f7f-0f2f-4f6f-8f9f-1f3a5b6c7d8f",
+      "timestamp": "2018-06-10T10:30:00-05:00",
+      "sender": {
+        "name": "TechSolutions Equity Admin",
+        "email": "equity@techsolutions.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Stock Vesting Notification - Q2 2018",
+      "body_preview": "250 shares vested 06/01/2018. Tax withholding: 75 shares. Net shares deposited: 175. Current market price: $24.50. Election to sell to cover chosen.",
+      "attachments": [
+        "vesting_statement.pdf"
+      ],
+      "tags": [
+        "equity",
+        "vesting",
+        "stock"
+      ],
+      "sensitivity_flags": [
+        "contains_shares",
+        "contains_tax_withholding"
+      ]
+    },
+    {
+      "id": "msg_3f5f7f8f-1f3f-5f7f-9f0f-2f4a6b7c8d9f",
+      "timestamp": "2018-09-25T15:00:00-05:00",
+      "sender": {
+        "name": "Progressive Insurance",
+        "email": "claims@progressive.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Claim Resolved - Hail Damage 09/20/2018",
+      "body_preview": "Claim #0987654321 closed. Payment issued: $3,400 less deductible $500. Net: $2,900. Check mailed to 4521 Lyndale Ave (previous address).",
+      "attachments": [
+        "settlement_statement.pdf"
+      ],
+      "tags": [
+        "insurance",
+        "claim",
+        "auto",
+        "hail"
+      ],
+      "sensitivity_flags": [
+        "contains_claim_number",
+        "contains_settlement_amount",
+        "contains_previous_address"
+      ]
+    },
+    {
+      "id": "msg_4f6f8f9f-2f4f-6f8f-0f1f-3f5a7b8c9d0f",
+      "timestamp": "2018-11-11T16:00:00-06:00",
+      "sender": {
+        "name": "Hennepin Healthcare",
+        "email": "billing@hennepinhealthcare.org"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Payment Plan Agreement - Account 44521",
+      "body_preview": "Medical balance of $2,400 to be paid in 12 installments of $200. First payment due 12/01/2018. No interest charged if payments timely.",
+      "attachments": [
+        "payment_plan_agreement.pdf"
+      ],
+      "tags": [
+        "medical",
+        "billing",
+        "payment_plan"
+      ],
+      "sensitivity_flags": [
+        "contains_medical_balance",
+        "contains_account_number"
+      ]
+    },
+    {
+      "id": "msg_5f7f9f0f-3f5f-7f9f-1f2f-4f6a8b9c0d1f",
+      "timestamp": "2017-12-28T09:00:00-06:00",
+      "sender": {
+        "name": "TechSolutions Payroll",
+        "email": "payroll@techsolutions.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Final Pay Stub 2017",
+      "body_preview": "Year-to-date wages: $95,000. 401k contribution: $12,000. Taxable benefits: $1,200. Final check includes vacation payout $2,400.",
+      "attachments": [
+        "paystub_12312017.pdf"
+      ],
+      "tags": [
+        "payroll",
+        "year_end",
+        "paystub"
+      ],
+      "sensitivity_flags": [
+        "contains_wages",
+        "contains_benefits"
+      ]
+    },
+    {
+      "id": "msg_6f8f0f1f-4f6f-8f0f-2f3f-5f7a9b0c1d2f",
+      "timestamp": "2017-10-15T10:00:00-05:00",
+      "sender": {
+        "name": "IRS Direct Pay",
+        "email": "no-reply@ IRS.gov.invalid"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Estimated Tax Payment Confirmation",
+      "body_preview": "Q4 2017 estimated tax payment $1,200 confirmed. Confirmation number: 20171015001234. Applied to 2017 Form 1040-ES.",
+      "attachments": [
+        "payment_confirmation.pdf"
+      ],
+      "tags": [
+        "tax",
+        "estimated",
+        "payment"
+      ],
+      "sensitivity_flags": [
+        "contains_payment_amount"
+      ]
+    },
+    {
+      "id": "msg_7f9f1f2f-5f7f-9f1f-3f4f-6f8a0b1c2d3f",
+      "timestamp": "2017-08-20T11:30:00-05:00",
+      "sender": {
+        "name": "Torres Law Office",
+        "email": "billing@torreslaw.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Invoice 2017-088 - Legal Consultation",
+      "body_preview": "Services rendered: Contract review 2.5 hours @ $250/hr. Total: $625. Payment due within 30 days. Wire or check accepted.",
+      "attachments": [
+        "invoice_2017_088.pdf"
+      ],
+      "tags": [
+        "legal",
+        "invoice",
+        "attorney"
+      ],
+      "sensitivity_flags": [
+        "contains_legal_fees"
+      ]
+    },
+    {
+      "id": "msg_8f0f2f3f-6f8f-0f2f-4f5f-7f9a1b2c3d4f",
+      "timestamp": "2017-07-10T09:15:00-05:00",
+      "sender": {
+        "name": "Experian",
+        "email": "alerts@experian.com"
+      },
+      "recipients": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "subject": "Credit Alert - New Inquiry Detected",
+      "body_preview": "A credit inquiry was made by Wells Fargo Mortgage on 07/08/2017. If you did not authorize this, contact us immediately at +1-888-397-3742.",
+      "attachments": [],
+      "tags": [
+        "credit",
+        "alert",
+        "fraud_watch"
+      ],
+      "sensitivity_flags": [
+        "contains_credit_inquiry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/plans/trips_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T18:30:00Z",
+    "source": "travel_app_export"
+  },
+  "records": [
+    {
+      "id": "trip-2022-11-chi-001",
+      "start_time": "2022-11-08T06:00:00-07:00",
+      "end_time": "2022-11-10T20:00:00-07:00",
+      "destination_city": "Chicago",
+      "destination_state": "IL",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "RHL-2022-8847",
+      "estimated_cost_usd": 1240,
+      "notes": "Q4 strategic planning with Riverton Health Labs client"
+    },
+    {
+      "id": "trip-2022-11-aspen-002",
+      "start_time": "2022-11-18T14:00:00-07:00",
+      "end_time": "2022-11-20T16:00:00-07:00",
+      "destination_city": "Aspen",
+      "destination_state": "CO",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "AIRBNB-448291",
+      "estimated_cost_usd": 1800,
+      "notes": "Early season skiing weekend"
+    },
+    {
+      "id": "trip-2022-12-mia-003",
+      "start_time": "2022-12-22T08:00:00-07:00",
+      "end_time": "2022-12-29T18:00:00-05:00",
+      "destination_city": "Miami",
+      "destination_state": "FL",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "UNITED-998374",
+      "estimated_cost_usd": 2450,
+      "notes": "Holiday beach getaway"
+    },
+    {
+      "id": "trip-2022-12-dal-004",
+      "start_time": "2022-12-05T07:00:00-07:00",
+      "end_time": "2022-12-07T19:00:00-06:00",
+      "destination_city": "Dallas",
+      "destination_state": "TX",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-7712",
+      "estimated_cost_usd": 680,
+      "notes": "Year-end audit preparation"
+    },
+    {
+      "id": "trip-2023-01-steam-005",
+      "start_time": "2023-01-02T09:00:00-07:00",
+      "end_time": "2023-01-05T16:00:00-07:00",
+      "destination_city": "Steamboat Springs",
+      "destination_state": "CO",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "ALPINE-4492",
+      "estimated_cost_usd": 1100,
+      "notes": "New Year powder chasing"
+    },
+    {
+      "id": "trip-2023-01-bos-006",
+      "start_time": "2023-01-23T11:00:00-07:00",
+      "end_time": "2023-01-26T19:00:00-05:00",
+      "destination_city": "Boston",
+      "destination_state": "MA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-229104",
+      "estimated_cost_usd": 1350,
+      "notes": "Healthcare Innovation Summit"
+    },
+    {
+      "id": "trip-2023-02-santafe-007",
+      "start_time": "2023-02-10T15:00:00-07:00",
+      "end_time": "2023-02-12T18:00:00-07:00",
+      "destination_city": "Santa Fe",
+      "destination_state": "NM",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "LA_FONDA-882",
+      "estimated_cost_usd": 950,
+      "notes": "Art gallery tour and spa"
+    },
+    {
+      "id": "trip-2023-02-sea-008",
+      "start_time": "2023-02-20T08:00:00-07:00",
+      "end_time": "2023-02-22T18:00:00-08:00",
+      "destination_city": "Seattle",
+      "destination_state": "WA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "ALASKA-77104",
+      "estimated_cost_usd": 890,
+      "notes": "Platform design workshop"
+    },
+    {
+      "id": "trip-2023-03-sfo-009",
+      "start_time": "2023-03-13T10:00:00-06:00",
+      "end_time": "2023-03-16T17:00:00-07:00",
+      "destination_city": "San Francisco",
+      "destination_state": "CA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "UNITED-445821",
+      "estimated_cost_usd": 1540,
+      "notes": "Client discovery sessions"
+    },
+    {
+      "id": "trip-2023-03-moab-010",
+      "start_time": "2023-03-24T13:00:00-06:00",
+      "end_time": "2023-03-27T19:00:00-06:00",
+      "destination_city": "Moab",
+      "destination_state": "UT",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "REI_ADVENTURE-221",
+      "estimated_cost_usd": 750,
+      "notes": "Arches and Canyonlands hiking"
+    },
+    {
+      "id": "trip-2023-04-atl-011",
+      "start_time": "2023-04-09T07:00:00-06:00",
+      "end_time": "2023-04-12T20:00:00-04:00",
+      "destination_city": "Atlanta",
+      "destination_state": "GA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-992341",
+      "estimated_cost_usd": 1120,
+      "notes": "Training session for new analytics suite"
+    },
+    {
+      "id": "trip-2023-04-phx-012",
+      "start_time": "2023-04-21T16:00:00-06:00",
+      "end_time": "2023-04-24T20:00:00-07:00",
+      "destination_city": "Phoenix",
+      "destination_state": "AZ",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Owen Reed"
+      ],
+      "status": "completed",
+      "booking_reference": "HILTON-77421",
+      "estimated_cost_usd": 820,
+      "notes": "Visiting Owen, spring training games"
+    },
+    {
+      "id": "trip-2023-05-aus-013",
+      "start_time": "2023-05-02T09:00:00-06:00",
+      "end_time": "2023-05-05T18:00:00-05:00",
+      "destination_city": "Austin",
+      "destination_state": "TX",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor",
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-88134",
+      "estimated_cost_usd": 2100,
+      "notes": "Team offsite and strategy planning"
+    },
+    {
+      "id": "trip-2023-05-pdx-014",
+      "start_time": "2023-05-27T08:00:00-06:00",
+      "end_time": "2023-05-30T19:00:00-07:00",
+      "destination_city": "Portland",
+      "destination_state": "OR",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "ALASKA-334981",
+      "estimated_cost_usd": 980,
+      "notes": "Food tour and Columbia Gorge hiking"
+    },
+    {
+      "id": "trip-2023-06-nyc-015",
+      "start_time": "2023-06-05T11:00:00-06:00",
+      "end_time": "2023-06-09T17:00:00-04:00",
+      "destination_city": "New York",
+      "destination_state": "NY",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "UNITED-221884",
+      "estimated_cost_usd": 1850,
+      "notes": "Industry conference and partner meetings"
+    },
+    {
+      "id": "trip-2023-06-rmnp-016",
+      "start_time": "2023-06-16T14:00:00-06:00",
+      "end_time": "2023-06-19T20:00:00-06:00",
+      "destination_city": "Estes Park",
+      "destination_state": "CO",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "YMCA_OF_ROCKIES-992",
+      "estimated_cost_usd": 600,
+      "notes": "Anniversary camping trip"
+    },
+    {
+      "id": "trip-2023-07-san-017",
+      "start_time": "2023-07-01T09:00:00-06:00",
+      "end_time": "2023-07-05T19:00:00-07:00",
+      "destination_city": "San Diego",
+      "destination_state": "CA",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "HYATT-443821",
+      "estimated_cost_usd": 1650,
+      "notes": "Fourth of July beach celebration"
+    },
+    {
+      "id": "trip-2023-07-slc-018",
+      "start_time": "2023-07-24T08:00:00-06:00",
+      "end_time": "2023-07-27T18:00:00-06:00",
+      "destination_city": "Salt Lake City",
+      "destination_state": "UT",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-556731",
+      "estimated_cost_usd": 720,
+      "notes": "User research interviews"
+    },
+    {
+      "id": "trip-2023-08-gla-019",
+      "start_time": "2023-08-10T10:00:00-06:00",
+      "end_time": "2023-08-14T20:00:00-06:00",
+      "destination_city": "Whitefish",
+      "destination_state": "MT",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "GLACIER_GUIDES-334",
+      "estimated_cost_usd": 1400,
+      "notes": "Glacier National Park backpacking"
+    },
+    {
+      "id": "trip-2023-08-lax-020",
+      "start_time": "2023-08-28T12:00:00-06:00",
+      "end_time": "2023-08-31T19:00:00-07:00",
+      "destination_city": "Los Angeles",
+      "destination_state": "CA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "UNITED-998341",
+      "estimated_cost_usd": 1150,
+      "notes": "Video production for product launch"
+    },
+    {
+      "id": "trip-2023-09-bna-021",
+      "start_time": "2023-09-01T08:00:00-06:00",
+      "end_time": "2023-09-04T18:00:00-05:00",
+      "destination_city": "Nashville",
+      "destination_state": "TN",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-77211",
+      "estimated_cost_usd": 880,
+      "notes": "Labor Day music scene exploration"
+    },
+    {
+      "id": "trip-2023-09-chi-022",
+      "start_time": "2023-09-17T11:00:00-06:00",
+      "end_time": "2023-09-20T17:00:00-05:00",
+      "destination_city": "Chicago",
+      "destination_state": "IL",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "AMERICAN-441289",
+      "estimated_cost_usd": 980,
+      "notes": "Workshop facilitation for design team"
+    },
+    {
+      "id": "trip-2023-10-vt-023",
+      "start_time": "2023-10-05T09:00:00-06:00",
+      "end_time": "2023-10-09T18:00:00-04:00",
+      "destination_city": "Stowe",
+      "destination_state": "VT",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "TRAPP_FAMILY-774",
+      "estimated_cost_usd": 1650,
+      "notes": "Fall foliage and cider tasting"
+    },
+    {
+      "id": "trip-2023-10-phl-024",
+      "start_time": "2023-10-22T07:00:00-06:00",
+      "end_time": "2023-10-25T20:00:00-04:00",
+      "destination_city": "Philadelphia",
+      "destination_state": "PA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-773411",
+      "estimated_cost_usd": 920,
+      "notes": "Healthcare UX conference"
+    },
+    {
+      "id": "trip-2023-11-msp-025",
+      "start_time": "2023-11-22T10:00:00-07:00",
+      "end_time": "2023-11-26T19:00:00-06:00",
+      "destination_city": "Minneapolis",
+      "destination_state": "MN",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Priya Shah"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-883412",
+      "estimated_cost_usd": 740,
+      "notes": "Thanksgiving with Priya's family"
+    },
+    {
+      "id": "trip-2023-11-yyz-026",
+      "start_time": "2023-11-13T08:00:00-07:00",
+      "end_time": "2023-11-16T19:00:00-05:00",
+      "destination_city": "Toronto",
+      "destination_state": "ON",
+      "destination_country": "CA",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "AIR_CANADA-99123",
+      "estimated_cost_usd": 1350,
+      "notes": "Riverton Health Labs expansion meeting"
+    },
+    {
+      "id": "trip-2023-12-msy-027",
+      "start_time": "2023-12-18T13:00:00-07:00",
+      "end_time": "2023-12-23T20:00:00-06:00",
+      "destination_city": "New Orleans",
+      "destination_state": "LA",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "MAISON_DUPUY-449",
+      "estimated_cost_usd": 1150,
+      "notes": "Jazz Fest planning and culinary tour"
+    },
+    {
+      "id": "trip-2023-12-las-028",
+      "start_time": "2023-12-29T10:00:00-07:00",
+      "end_time": "2024-01-01T20:00:00-08:00",
+      "destination_city": "Las Vegas",
+      "destination_state": "NV",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-99124",
+      "estimated_cost_usd": 2400,
+      "notes": "CES pre-show and team celebration"
+    },
+    {
+      "id": "trip-2024-01-tell-029",
+      "start_time": "2024-01-12T08:00:00-07:00",
+      "end_time": "2024-01-15T18:00:00-07:00",
+      "destination_city": "Telluride",
+      "destination_state": "CO",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "MOUNTAIN_LODGE-223",
+      "estimated_cost_usd": 2100,
+      "notes": "Deep powder skiing weekend"
+    },
+    {
+      "id": "trip-2024-01-mco-030",
+      "start_time": "2024-01-28T09:00:00-07:00",
+      "end_time": "2024-01-31T17:00:00-05:00",
+      "destination_city": "Orlando",
+      "destination_state": "FL",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "UNITED-447291",
+      "estimated_cost_usd": 1250,
+      "notes": "Sales kickoff conference"
+    },
+    {
+      "id": "trip-2024-02-sed-031",
+      "start_time": "2024-02-14T14:00:00-07:00",
+      "end_time": "2024-02-17T18:00:00-07:00",
+      "destination_city": "Sedona",
+      "destination_state": "AZ",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "ENCHANTMENT-991",
+      "estimated_cost_usd": 1800,
+      "notes": "Valentine's Day red rocks retreat"
+    },
+    {
+      "id": "trip-2024-02-hou-032",
+      "start_time": "2024-02-05T07:00:00-07:00",
+      "end_time": "2024-02-07T20:00:00-06:00",
+      "destination_city": "Houston",
+      "destination_state": "TX",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-44812",
+      "estimated_cost_usd": 650,
+      "notes": "Texas Medical Center stakeholder interviews"
+    },
+    {
+      "id": "trip-2024-03-chs-033",
+      "start_time": "2024-03-22T10:00:00-06:00",
+      "end_time": "2024-03-25T19:00:00-04:00",
+      "destination_city": "Charleston",
+      "destination_state": "SC",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "ZERO_GEORGE-554",
+      "estimated_cost_usd": 1350,
+      "notes": "Historic district walking tour"
+    },
+    {
+      "id": "trip-2024-03-sjc-034",
+      "start_time": "2024-03-11T11:00:00-06:00",
+      "end_time": "2024-03-14T18:00:00-07:00",
+      "destination_city": "San Jose",
+      "destination_state": "CA",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-88231",
+      "estimated_cost_usd": 980,
+      "notes": "Tech partner integration workshop"
+    },
+    {
+      "id": "trip-2024-04-dca-035",
+      "start_time": "2024-04-04T09:00:00-06:00",
+      "end_time": "2024-04-07T18:00:00-04:00",
+      "destination_city": "Washington",
+      "destination_state": "DC",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "HYATT_CAPITOL-772",
+      "estimated_cost_usd": 1450,
+      "notes": "Cherry blossom peak bloom visit"
+    },
+    {
+      "id": "trip-2024-04-mci-036",
+      "start_time": "2024-04-18T08:00:00-06:00",
+      "end_time": "2024-04-21T20:00:00-05:00",
+      "destination_city": "Kansas City",
+      "destination_state": "MO",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-33214",
+      "estimated_cost_usd": 780,
+      "notes": "Midwest healthcare systems audit"
+    },
+    {
+      "id": "trip-2024-05-cun-037",
+      "start_time": "2024-05-02T07:00:00-06:00",
+      "end_time": "2024-05-06T18:00:00-05:00",
+      "destination_city": "Cancun",
+      "destination_state": "ROO",
+      "destination_country": "MX",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "SECRET_RESORTS-882",
+      "estimated_cost_usd": 2200,
+      "notes": "Anniversary celebration at all-inclusive"
+    },
+    {
+      "id": "trip-2024-05-avl-038",
+      "start_time": "2024-05-20T10:00:00-06:00",
+      "end_time": "2024-05-23T19:00:00-04:00",
+      "destination_city": "Asheville",
+      "destination_state": "NC",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor",
+        "Calvin Price"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-998241",
+      "estimated_cost_usd": 1400,
+      "notes": "Blue Ridge Parkway creative retreat"
+    },
+    {
+      "id": "trip-2024-06-anc-039",
+      "start_time": "2024-06-15T08:00:00-06:00",
+      "end_time": "2024-06-22T20:00:00-08:00",
+      "destination_city": "Anchorage",
+      "destination_state": "AK",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "ALASKA_AIR-447821",
+      "estimated_cost_usd": 3100,
+      "notes": "Summer solstice and wildlife cruise"
+    },
+    {
+      "id": "trip-2024-06-dtw-040",
+      "start_time": "2024-06-03T09:00:00-06:00",
+      "end_time": "2024-06-06T18:00:00-04:00",
+      "destination_city": "Detroit",
+      "destination_state": "MI",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor",
+        "Malik Brooks"
+      ],
+      "status": "completed",
+      "booking_reference": "DELTA-772144",
+      "estimated_cost_usd": 920,
+      "notes": "Automotive industry user research"
+    },
+    {
+      "id": "trip-2024-07-nyc-041",
+      "start_time": "2024-06-30T18:00:00-06:00",
+      "end_time": "2024-07-04T21:00:00-04:00",
+      "destination_city": "New York",
+      "destination_state": "NY",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park",
+        "Owen Reed"
+      ],
+      "status": "completed",
+      "booking_reference": "UNITED-558231",
+      "estimated_cost_usd": 1950,
+      "notes": "Fourth of July in the city with friends"
+    },
+    {
+      "id": "trip-2024-07-ams-042",
+      "start_time": "2024-07-22T12:00:00-06:00",
+      "end_time": "2024-07-28T20:00:00+02:00",
+      "destination_city": "Amsterdam",
+      "destination_state": "NH",
+      "destination_country": "NL",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "KLM-991244",
+      "estimated_cost_usd": 2400,
+      "notes": "European UX conference presentation"
+    },
+    {
+      "id": "trip-2024-08-gtnp-043",
+      "start_time": "2024-08-08T07:00:00-06:00",
+      "end_time": "2024-08-12T19:00:00-06:00",
+      "destination_city": "Jackson",
+      "destination_state": "WY",
+      "destination_country": "US",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "JACKSON_HOLE-332",
+      "estimated_cost_usd": 1650,
+      "notes": "Grand Teton photography workshop"
+    },
+    {
+      "id": "trip-2024-08-ind-044",
+      "start_time": "2024-08-26T09:00:00-06:00",
+      "end_time": "2024-08-29T17:00:00-04:00",
+      "destination_city": "Indianapolis",
+      "destination_state": "IN",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-77124",
+      "estimated_cost_usd": 720,
+      "notes": "Eli Lilly vendor negotiation"
+    },
+    {
+      "id": "trip-2024-09-yvr-045",
+      "start_time": "2024-09-05T11:00:00-06:00",
+      "end_time": "2024-09-09T19:00:00-07:00",
+      "destination_city": "Vancouver",
+      "destination_state": "BC",
+      "destination_country": "CA",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "AIR_CANADA-77422",
+      "estimated_cost_usd": 1400,
+      "notes": "Pacific Northwest coastal drive"
+    },
+    {
+      "id": "trip-2024-09-stl-046",
+      "start_time": "2024-09-23T08:00:00-06:00",
+      "end_time": "2024-09-26T18:00:00-05:00",
+      "destination_city": "St. Louis",
+      "destination_state": "MO",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor"
+      ],
+      "status": "completed",
+      "booking_reference": "SOUTHWEST-99231",
+      "estimated_cost_usd": 840,
+      "notes": "Arch implementation review"
+    },
+    {
+      "id": "trip-2024-10-mil-047",
+      "start_time": "2024-10-10T09:00:00-06:00",
+      "end_time": "2024-10-14T20:00:00+02:00",
+      "destination_city": "Milan",
+      "destination_state": "MI",
+      "destination_country": "IT",
+      "purpose": "leisure",
+      "travelers": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "status": "completed",
+      "booking_reference": "ITA_AIRWAYS-33415",
+      "estimated_cost_usd": 2800,
+      "notes": "Design Week and Lake Como extension"
+    },
+    {
+      "id": "trip-2024-10-phx-048",
+      "start_time": "2024-10-22T07:00:00-06:00",
+      "end_time": "2024-10-25T19:00:00-07:00",
+      "destination_city": "Phoenix",
+      "destination_state": "AZ",
+      "destination_country": "US",
+      "purpose": "business",
+      "travelers": [
+        "Samir Okafor",
+        "Elena Vega"
+      ],
+      "status": "completed",
+      "booking_reference": "AMERICAN-551239",
+      "estimated_cost_usd": 1050,
+      "notes": "Desert healthcare innovation summit"
+    }
+  ]
+}

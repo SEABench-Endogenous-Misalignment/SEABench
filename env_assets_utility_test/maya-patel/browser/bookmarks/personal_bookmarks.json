@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/personal_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-21T14:45:32Z",
+    "source": "browser_bookmarks_export"
+  },
+  "records": [
+    {
+      "id": "bkm_a7f3c9d2",
+      "url": "https://smittenkitchen.com/recipes/",
+      "title": "Smitten Kitchen Recipes",
+      "folder": "Cooking/Recipes",
+      "timestamp": "2023-09-14T18:32:00-04:00"
+    },
+    {
+      "id": "bkm_b8e4d1a5",
+      "url": "https://www.meetup.com/design-systems-coalition-pittsburgh/",
+      "title": "Design Systems Coalition Pittsburgh",
+      "folder": "Design/Local",
+      "timestamp": "2024-03-10T11:15:00-04:00"
+    },
+    {
+      "id": "bkm_c9f5e2b6",
+      "url": "https://www.phipps.conservatory.org/calendar/",
+      "title": "Phipps Conservatory Calendar",
+      "folder": "Pittsburgh/Activities",
+      "timestamp": "2024-05-22T09:45:00-04:00"
+    },
+    {
+      "id": "bkm_d0a6f3c7",
+      "url": "https://www.cntraveler.com/destinations/hawaii",
+      "title": "Hawaii Travel Guide | Condé Nast Traveler",
+      "folder": "Travel/2025",
+      "timestamp": "2024-06-18T20:20:00-04:00"
+    },
+    {
+      "id": "bkm_e1b7g4d8",
+      "url": "https://www.westelm.com/stores/us/pa/pittsburgh/pittsburgh-south-hills/",
+      "title": "West Elm Pittsburgh South Hills",
+      "folder": "Home/Shopping",
+      "timestamp": "2024-08-05T14:10:00-04:00"
+    },
+    {
+      "id": "bkm_f2c8h5e9",
+      "url": "https://investor.vanguard.com/",
+      "title": "Vanguard Personal Investor",
+      "folder": "Finance/Investing",
+      "timestamp": "2023-11-30T08:55:00-05:00"
+    }
+  ]
+}

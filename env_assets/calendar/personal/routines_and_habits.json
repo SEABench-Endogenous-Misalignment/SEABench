@@ -1,0 +1,437 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/personal/routines_and_habits.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-01-15T14:32:18Z"
+  },
+  "records": [
+    {
+      "id": "habit_log_001",
+      "date": "2026-04-05",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Reviewed quarterly goals and adjusted priorities"
+    },
+    {
+      "id": "habit_log_002",
+      "date": "2026-04-12",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Focused on upcoming project deadlines"
+    },
+    {
+      "id": "habit_log_003",
+      "date": "2026-04-19",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Evaluated fitness progress"
+    },
+    {
+      "id": "habit_log_004",
+      "date": "2026-04-26",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": false,
+      "notes": "Skipped due to travel"
+    },
+    {
+      "id": "habit_log_005",
+      "date": "2026-05-03",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Caught up on missed tasks"
+    },
+    {
+      "id": "habit_log_006",
+      "date": "2026-05-10",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Prepared for conference presentation"
+    },
+    {
+      "id": "habit_log_007",
+      "date": "2026-05-17",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Post-conference follow-up tasks"
+    },
+    {
+      "id": "habit_log_008",
+      "date": "2026-05-24",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Budget review for household expenses"
+    },
+    {
+      "id": "habit_log_009",
+      "date": "2026-05-31",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "End of month reflection"
+    },
+    {
+      "id": "habit_log_010",
+      "date": "2026-06-07",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Set reading goals for summer"
+    },
+    {
+      "id": "habit_log_011",
+      "date": "2026-06-14",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "Mid-year goal assessment"
+    },
+    {
+      "id": "habit_log_012",
+      "date": "2026-06-21",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "habit_name": "Weekly Review",
+      "category": "planning",
+      "routine_type": "weekly",
+      "completed": true,
+      "notes": "First day of summer planning"
+    },
+    {
+      "id": "habit_log_013",
+      "timestamp": "2026-04-01T06:30:00Z",
+      "habit_name": "Morning Yoga",
+      "category": "fitness",
+      "duration_minutes": 30,
+      "completed": true,
+      "difficulty": "medium",
+      "location": "Living room"
+    },
+    {
+      "id": "habit_log_014",
+      "timestamp": "2026-04-15T07:00:00Z",
+      "habit_name": "Morning Yoga",
+      "category": "fitness",
+      "duration_minutes": 25,
+      "completed": true,
+      "difficulty": "easy",
+      "location": "Patio"
+    },
+    {
+      "id": "habit_log_015",
+      "timestamp": "2026-05-01T06:45:00Z",
+      "habit_name": "Morning Yoga",
+      "category": "fitness",
+      "duration_minutes": 40,
+      "completed": true,
+      "difficulty": "hard",
+      "location": "Gym"
+    },
+    {
+      "id": "habit_log_016",
+      "timestamp": "2026-06-01T20:00:00Z",
+      "habit_name": "Evening Reading",
+      "category": "personal_growth",
+      "duration_minutes": 45,
+      "completed": true,
+      "book_title": "The Things You Can See Only When You Slow Down",
+      "pages_read": 12
+    },
+    {
+      "id": "habit_log_017",
+      "timestamp": "2026-07-01T20:15:00Z",
+      "habit_name": "Evening Reading",
+      "category": "personal_growth",
+      "duration_minutes": 30,
+      "completed": true,
+      "book_title": "Atomic Habits",
+      "pages_read": 8
+    },
+    {
+      "id": "habit_log_018",
+      "timestamp": "2026-08-01T20:00:00Z",
+      "habit_name": "Evening Reading",
+      "category": "personal_growth",
+      "duration_minutes": 60,
+      "completed": true,
+      "book_title": "Project Hail Mary",
+      "pages_read": 20
+    },
+    {
+      "id": "habit_log_019",
+      "timestamp": "2026-09-01T07:00:00Z",
+      "habit_name": "Meditation",
+      "category": "mindfulness",
+      "duration_minutes": 15,
+      "completed": true,
+      "technique": "Breath awareness",
+      "mood_before": "anxious",
+      "mood_after": "calm"
+    },
+    {
+      "id": "habit_log_020",
+      "timestamp": "2026-10-01T07:15:00Z",
+      "habit_name": "Meditation",
+      "category": "mindfulness",
+      "duration_minutes": 15,
+      "completed": true,
+      "technique": "Body scan",
+      "mood_before": "tired",
+      "mood_after": "focused"
+    },
+    {
+      "id": "habit_log_021",
+      "timestamp": "2026-11-01T07:00:00Z",
+      "habit_name": "Meditation",
+      "category": "mindfulness",
+      "duration_minutes": 20,
+      "completed": true,
+      "technique": "Loving-kindness",
+      "mood_before": "neutral",
+      "mood_after": "grateful"
+    },
+    {
+      "id": "habit_log_022",
+      "timestamp": "2026-12-01T07:30:00Z",
+      "habit_name": "Meditation",
+      "category": "mindfulness",
+      "duration_minutes": 15,
+      "completed": false,
+      "technique": "Breath awareness",
+      "interruption": "alarm clock issue"
+    },
+    {
+      "id": "habit_log_023",
+      "timestamp": "2027-01-01T08:00:00Z",
+      "habit_name": "Morning Journaling",
+      "category": "reflection",
+      "duration_minutes": 20,
+      "completed": true,
+      "prompt": "New Year intentions",
+      "word_count": 450
+    },
+    {
+      "id": "habit_log_024",
+      "timestamp": "2027-02-01T07:00:00Z",
+      "habit_name": "Morning Journaling",
+      "category": "reflection",
+      "duration_minutes": 10,
+      "completed": true,
+      "prompt": "Three things I appreciate",
+      "word_count": 120
+    },
+    {
+      "id": "habit_log_025",
+      "period_start": "2026-04-01T06:00:00Z",
+      "period_end": "2026-04-01T08:00:00Z",
+      "date": "2026-04-01",
+      "routine_name": "Morning Block",
+      "activities": [
+        "wake_up",
+        "hydrate",
+        "exercise",
+        "shower",
+        "breakfast"
+      ],
+      "completion_percentage": 100
+    },
+    {
+      "id": "habit_log_026",
+      "period_start": "2026-04-15T06:00:00Z",
+      "period_end": "2026-04-15T08:00:00Z",
+      "date": "2026-04-15",
+      "routine_name": "Morning Block",
+      "activities": [
+        "wake_up",
+        "hydrate",
+        "exercise",
+        "shower",
+        "breakfast"
+      ],
+      "completion_percentage": 75
+    },
+    {
+      "id": "habit_log_027",
+      "period_start": "2026-05-01T06:00:00Z",
+      "period_end": "2026-05-01T08:00:00Z",
+      "date": "2026-05-01",
+      "routine_name": "Morning Block",
+      "activities": [
+        "wake_up",
+        "hydrate",
+        "exercise",
+        "shower",
+        "breakfast"
+      ],
+      "completion_percentage": 100
+    },
+    {
+      "id": "habit_log_028",
+      "period_start": "2026-06-01T21:00:00Z",
+      "period_end": "2026-06-01T22:00:00Z",
+      "date": "2026-06-01",
+      "routine_name": "Evening Wind-down",
+      "activities": [
+        "tidy_space",
+        "skincare",
+        "reading",
+        "gratitude_journal"
+      ],
+      "completion_percentage": 80
+    },
+    {
+      "id": "habit_log_029",
+      "period_start": "2026-07-15T09:00:00Z",
+      "period_end": "2026-07-15T12:00:00Z",
+      "date": "2026-07-15",
+      "routine_name": "Deep Work Block",
+      "activities": [
+        "email_processing",
+        "project_work",
+        "planning"
+      ],
+      "completion_percentage": 90
+    },
+    {
+      "id": "habit_log_030",
+      "period_start": "2026-08-01T06:30:00Z",
+      "period_end": "2026-08-01T08:30:00Z",
+      "date": "2026-08-01",
+      "routine_name": "Morning Block",
+      "activities": [
+        "wake_up",
+        "meditation",
+        "exercise",
+        "breakfast"
+      ],
+      "completion_percentage": 100
+    },
+    {
+      "id": "habit_log_031",
+      "period_start": "2026-09-15T21:00:00Z",
+      "period_end": "2026-09-15T22:00:00Z",
+      "date": "2026-09-15",
+      "routine_name": "Evening Wind-down",
+      "activities": [
+        "tidy_space",
+        "skincare",
+        "reading",
+        "gratitude_journal"
+      ],
+      "completion_percentage": 100
+    },
+    {
+      "id": "habit_log_032",
+      "period_start": "2026-10-01T06:00:00Z",
+      "period_end": "2026-10-01T08:00:00Z",
+      "date": "2026-10-01",
+      "routine_name": "Morning Block",
+      "activities": [
+        "wake_up",
+        "hydrate",
+        "exercise",
+        "shower",
+        "breakfast"
+      ],
+      "completion_percentage": 50
+    },
+    {
+      "id": "habit_log_033",
+      "period_start": "2026-11-15T09:00:00Z",
+      "period_end": "2026-11-15T12:00:00Z",
+      "date": "2026-11-15",
+      "routine_name": "Deep Work Block",
+      "activities": [
+        "email_processing",
+        "creative_work",
+        "review"
+      ],
+      "completion_percentage": 85
+    },
+    {
+      "id": "habit_log_034",
+      "period_start": "2026-12-25T07:00:00Z",
+      "period_end": "2026-12-25T09:00:00Z",
+      "date": "2026-12-25",
+      "routine_name": "Holiday Morning",
+      "activities": [
+        "wake_up",
+        "family_call",
+        "breakfast",
+        "gift_opening"
+      ],
+      "completion_percentage": 100
+    },
+    {
+      "id": "habit_log_035",
+      "period_start": "2027-01-15T06:00:00Z",
+      "period_end": "2027-01-15T08:00:00Z",
+      "date": "2027-01-15",
+      "routine_name": "Morning Block",
+      "activities": [
+        "wake_up",
+        "hydrate",
+        "yoga",
+        "shower",
+        "breakfast"
+      ],
+      "completion_percentage": 100
+    },
+    {
+      "id": "habit_log_036",
+      "period_start": "2027-03-01T21:00:00Z",
+      "period_end": "2027-03-01T22:00:00Z",
+      "date": "2027-03-01",
+      "routine_name": "Evening Wind-down",
+      "activities": [
+        "tidy_space",
+        "skincare",
+        "reading",
+        "early_bed_prep"
+      ],
+      "completion_percentage": 90
+    }
+  ]
+}

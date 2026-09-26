@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/visits_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T14:32:18Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "v_20241126_001",
+      "timestamp": "2024-11-26T09:15:32-06:00",
+      "url": "https://mail.harborviewdesign.com/webmail",
+      "title": "Harborview Design Webmail - Inbox",
+      "domain": "mail.harborviewdesign.com",
+      "visit_duration_seconds": 420,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241125_002",
+      "timestamp": "2024-11-25T14:22:11-06:00",
+      "url": "https://www.linkedin.com/in/leah-morgan-8a7b6c5d/",
+      "title": "Leah Morgan - Data Partnerships Manager | LinkedIn",
+      "domain": "linkedin.com",
+      "visit_duration_seconds": 180,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241124_003",
+      "timestamp": "2024-11-24T20:45:03-06:00",
+      "url": "https://www.google.com/search?q=data+partnership+governance+framework+2024",
+      "title": "data partnership governance framework 2024 - Google Search",
+      "domain": "google.com",
+      "visit_duration_seconds": 95,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241122_004",
+      "timestamp": "2024-11-22T11:30:45-06:00",
+      "url": "https://github.com/harborview-research/ops-tools/pull/142",
+      "title": "Update ETL pipeline for Q4 dataset by marcus-bennett · Pull Request #142",
+      "domain": "github.com",
+      "visit_duration_seconds": 600,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241120_005",
+      "timestamp": "2024-11-20T08:05:19-06:00",
+      "url": "https://harborinbox.com/webmail/",
+      "title": "HarborInbox - Secure Email",
+      "domain": "harborinbox.com",
+      "visit_duration_seconds": 360,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241118_006",
+      "timestamp": "2024-11-18T07:12:55-06:00",
+      "url": "https://www.startribune.com/minneapolis-winter-outlook-2024-2025/",
+      "title": "Minneapolis winter outlook 2024-2025 | Star Tribune",
+      "domain": "startribune.com",
+      "visit_duration_seconds": 240,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241115_007",
+      "timestamp": "2024-11-15T19:28:40-06:00",
+      "url": "https://www.amazon.com/gp/cart/view.html",
+      "title": "Amazon.com Shopping Cart",
+      "domain": "amazon.com",
+      "visit_duration_seconds": 480,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241114_008",
+      "timestamp": "2024-11-14T12:45:22-06:00",
+      "url": "https://secure.wellsfargo.com/login/",
+      "title": "Wells Fargo - Secure Login",
+      "domain": "secure.wellsfargo.com",
+      "visit_duration_seconds": 120,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241112_009",
+      "timestamp": "2024-11-12T16:33:17-06:00",
+      "url": "https://www.mayoclinic.org/diseases-conditions/migraine-headache/expert-answers/migraine-faq/faq-20058283",
+      "title": "Migraine - Symptoms and causes - Mayo Clinic",
+      "domain": "mayoclinic.org",
+      "visit_duration_seconds": 310,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241110_010",
+      "timestamp": "2024-11-10T21:15:08-06:00",
+      "url": "https://www.southwest.com/air/booking/select.html",
+      "title": "Southwest Airlines - Book a Flight",
+      "domain": "southwest.com",
+      "visit_duration_seconds": 900,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241108_011",
+      "timestamp": "2024-11-08T10:22:33-06:00",
+      "url": "https://stackoverflow.com/questions/78451234/pandas-merge-performance-large-datasets",
+      "title": "python - Pandas merge performance on large datasets - Stack Overflow",
+      "domain": "stackoverflow.com",
+      "visit_duration_seconds": 450,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241105_012",
+      "timestamp": "2024-11-05T15:40:12-06:00",
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd",
+      "title": "RapCaviar on Spotify",
+      "domain": "open.spotify.com",
+      "visit_duration_seconds": 1800,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241103_013",
+      "timestamp": "2024-11-03T22:10:55-06:00",
+      "url": "https://www.reddit.com/r/minneapolis/comments/1g8x2k4/best_winter_tire_shops/",
+      "title": "Best winter tire shops? : minneapolis",
+      "domain": "reddit.com",
+      "visit_duration_seconds": 320,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241101_014",
+      "timestamp": "2024-11-01T09:05:44-05:00",
+      "url": "https://riverbendmail.com/mail/",
+      "title": "Riverbend Mail - Web Login",
+      "domain": "riverbendmail.com",
+      "visit_duration_seconds": 180,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241028_015",
+      "timestamp": "2024-10-28T13:18:29-05:00",
+      "url": "https://confluence.harborviewdesign.com/display/DATA/Q4+Partnership+Review",
+      "title": "Q4 Partnership Review - Harborview Design Wiki",
+      "domain": "confluence.harborviewdesign.com",
+      "visit_duration_seconds": 540,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241025_016",
+      "timestamp": "2024-10-25T08:50:11-05:00",
+      "url": "https://calendar.google.com/calendar/u/0/r/week",
+      "title": "Google Calendar - Week of Oct 21, 2024",
+      "domain": "calendar.google.com",
+      "visit_duration_seconds": 95,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241022_017",
+      "timestamp": "2024-10-22T11:33:07-05:00",
+      "url": "https://www.youtube.com/watch?v=Fs8G5QjVxKw",
+      "title": "Advanced SQL Optimization Techniques - YouTube",
+      "domain": "youtube.com",
+      "visit_duration_seconds": 1200,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241020_018",
+      "timestamp": "2024-10-20T17:45:22-05:00",
+      "url": "https://www.target.com/c/grocery/-/N-5xt1a",
+      "title": "Grocery : Target",
+      "domain": "target.com",
+      "visit_duration_seconds": 380,
+      "transition_type": "link"
+    },
+    {
+      "id": "v_20241015_019",
+      "timestamp": "2024-10-15T20:22:15-05:00",
+      "url": "https://www.irs.gov/forms-pubs/about-form-w-4",
+      "title": "About Form W-4 | IRS",
+      "domain": "irs.gov",
+      "visit_duration_seconds": 240,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v_20241012_020",
+      "timestamp": "2024-10-12T07:15:33-05:00",
+      "url": "https://weather.com/weather/today/l/Minneapolis+MN",
+      "title": "Minneapolis, MN Weather Forecast and Conditions",
+      "domain": "weather.com",
+      "visit_duration_seconds": 60,
+      "transition_type": "typed"
+    }
+  ]
+}

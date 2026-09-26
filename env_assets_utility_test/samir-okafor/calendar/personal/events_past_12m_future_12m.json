@@ -1,0 +1,638 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/personal/events_past_12m_future_12m.json",
+    "time_span": "rolling 24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T16:45:30Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "7a8f9d2e-4b1c-4a5f-9c8d-3e2f1a0b5c6d",
+      "summary": "Weekend hike with Malik",
+      "start_time": "2023-05-20T09:00:00-04:00",
+      "end_time": "2023-05-20T13:00:00-04:00",
+      "location": "Frick Park, Pittsburgh",
+      "attendees": [
+        "malik.brooks@fastmail.com"
+      ],
+      "description": "Morning trail run and picnic",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "9c8b7a6f-5e4d-4c3b-2a19-8f7e6d5c4b3a",
+      "summary": "Platform Design Sync",
+      "start_time": "2023-06-14T10:00:00-04:00",
+      "end_time": "2023-06-14T11:00:00-04:00",
+      "location": "Brightline Systems - Conference Room B",
+      "attendees": [
+        "calvin.price@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "description": "Weekly design team alignment",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "summary": "Dinner with Theo",
+      "start_time": "2023-06-28T19:00:00-04:00",
+      "end_time": "2023-06-28T21:30:00-04:00",
+      "location": "Altius Restaurant, Mt. Washington",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Anniversary dinner reservation",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "summary": "1:1 with Leah Morgan",
+      "start_time": "2023-07-12T14:00:00-04:00",
+      "end_time": "2023-07-12T14:30:00-04:00",
+      "location": "Brightline Systems - Leah's Office",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "description": "Biweekly check-in",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "summary": "Help Owen move",
+      "start_time": "2023-07-26T10:00:00-04:00",
+      "end_time": "2023-07-26T16:00:00-04:00",
+      "location": "Owen's new apartment, Oakland",
+      "attendees": [
+        "owen.reed@meadowmail.co",
+        "nina.park@gmail.com"
+      ],
+      "description": "Moving day - bring packing tape and boxes",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "summary": "Dentist appointment",
+      "start_time": "2023-08-09T15:30:00-04:00",
+      "end_time": "2023-08-09T16:30:00-04:00",
+      "location": "Downtown Dental Associates, 3718 Fifth Avenue",
+      "attendees": [],
+      "description": "Routine cleaning with Dr. Chen",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "summary": "Q3 Planning Session",
+      "start_time": "2023-08-23T13:00:00-04:00",
+      "end_time": "2023-08-23T17:00:00-04:00",
+      "location": "Brightline Systems - Main Auditorium",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Quarterly roadmap planning",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "summary": "Labor Day weekend trip",
+      "start_time": "2023-09-02T08:00:00-04:00",
+      "end_time": "2023-09-04T20:00:00-04:00",
+      "location": "Deep Creek Lake, MD",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Lake house rental with hiking",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "summary": "Dinner with Priya",
+      "start_time": "2023-09-20T18:30:00-04:00",
+      "end_time": "2023-09-20T20:00:00-04:00",
+      "location": "Sienna Mercato, Downtown Pittsburgh",
+      "attendees": [
+        "priya.shah@proton.me"
+      ],
+      "description": "Catch up after her trip to India",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "summary": "Theo's birthday dinner",
+      "start_time": "2023-10-04T19:00:00-04:00",
+      "end_time": "2023-10-04T22:00:00-04:00",
+      "location": "Bar Marco, Strip District",
+      "attendees": [
+        "theo.harris@meadowmail.co",
+        "nina.park@gmail.com",
+        "owen.reed@meadowmail.co"
+      ],
+      "description": "Surprise dinner - don't tell!",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "summary": "DesignOps Summit",
+      "start_time": "2023-10-18T09:00:00-04:00",
+      "end_time": "2023-10-20T17:00:00-04:00",
+      "location": "Virtual Conference",
+      "attendees": [],
+      "description": "Remote attendance - block calendar",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "summary": "1:1 with Calvin Price",
+      "start_time": "2023-11-01T11:00:00-04:00",
+      "end_time": "2023-11-01T11:30:00-04:00",
+      "location": "Zoom",
+      "attendees": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "Project Atlas discussion",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+      "summary": "Thanksgiving at Theo's parents",
+      "start_time": "2023-11-23T12:00:00-05:00",
+      "end_time": "2023-11-23T19:00:00-05:00",
+      "location": "Harris Residence, Squirrel Hill",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Bring pie and wine",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+      "summary": "Car service appointment",
+      "start_time": "2023-11-29T09:00:00-05:00",
+      "end_time": "2023-11-29T11:00:00-05:00",
+      "location": "Walter's Automotive, Lawrenceville",
+      "attendees": [],
+      "description": "Oil change and tire rotation",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+      "summary": "Year-end team lunch",
+      "start_time": "2023-12-13T12:00:00-05:00",
+      "end_time": "2023-12-13T14:00:00-05:00",
+      "location": "Gaucho Parrilla Argentina, Downtown",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Platform Design holiday celebration",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+      "summary": "Winter holiday",
+      "start_time": "2023-12-27T00:00:00-05:00",
+      "end_time": "2023-12-29T23:59:00-05:00",
+      "location": "Working from home",
+      "attendees": [],
+      "description": "PTO days",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+      "summary": "Annual physical",
+      "start_time": "2024-01-10T09:00:00-05:00",
+      "end_time": "2024-01-10T10:00:00-05:00",
+      "location": "UPMC Shadyside - Dr. Rodriguez",
+      "attendees": [],
+      "description": "Yearly checkup and bloodwork",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+      "summary": "Project Atlas Kickoff",
+      "start_time": "2024-01-24T10:00:00-05:00",
+      "end_time": "2024-01-24T12:00:00-05:00",
+      "location": "Brightline Systems - Innovation Lab",
+      "attendees": [
+        "calvin.price@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com",
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "description": "Q1 major initiative launch",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+      "summary": "Valentine's Day planning",
+      "start_time": "2024-02-07T18:00:00-05:00",
+      "end_time": "2024-02-07T19:00:00-05:00",
+      "location": "Home",
+      "attendees": [],
+      "description": "Research restaurants and gifts",
+      "status": "tentative",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+      "summary": "Museum visit with Nina",
+      "start_time": "2024-02-21T14:00:00-05:00",
+      "end_time": "2024-02-21T16:00:00-05:00",
+      "location": "Carnegie Museum of Natural History",
+      "attendees": [
+        "nina.park@gmail.com"
+      ],
+      "description": "Egyptian exhibit tour",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
+      "summary": "HVAC maintenance",
+      "start_time": "2024-03-06T13:00:00-05:00",
+      "end_time": "2024-03-06T15:00:00-05:00",
+      "location": "8075 Juniper Road",
+      "attendees": [],
+      "description": "Spring tune-up and filter replacement",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e",
+      "summary": "Tax preparation meeting",
+      "start_time": "2024-03-20T16:00:00-04:00",
+      "end_time": "2024-03-20T17:30:00-04:00",
+      "location": "H&R Block, Shadyside",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Joint filing preparation",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+      "summary": "Malik's housewarming",
+      "start_time": "2024-04-03T18:00:00-04:00",
+      "end_time": "2024-04-03T22:00:00-04:00",
+      "location": "Malik's new condo, South Side",
+      "attendees": [
+        "malik.brooks@fastmail.com",
+        "owen.reed@meadowmail.co",
+        "priya.shah@proton.me"
+      ],
+      "description": "BYOB - housewarming gift",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+      "summary": "Strategy session with Grace",
+      "start_time": "2024-04-17T11:00:00-04:00",
+      "end_time": "2024-04-17T12:00:00-04:00",
+      "location": "Brightline Systems - Grace's Office",
+      "attendees": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Research operations roadmap",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+      "summary": "Therapy appointment",
+      "start_time": "2024-05-08T17:00:00-04:00",
+      "end_time": "2024-05-08T18:00:00-04:00",
+      "location": "Thrive Psychology, Downtown",
+      "attendees": [],
+      "description": "Weekly session",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c",
+      "summary": "Mom's birthday dinner",
+      "start_time": "2024-05-22T18:30:00-04:00",
+      "end_time": "2024-05-22T20:30:00-04:00",
+      "location": "Tessaro's, Bloomfield",
+      "attendees": [
+        "amara.okafor@icloud.com",
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Family dinner for Mom's 65th",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d",
+      "summary": "Pittsburgh Pride",
+      "start_time": "2024-06-05T10:00:00-04:00",
+      "end_time": "2024-06-05T16:00:00-04:00",
+      "location": "Downtown Pittsburgh",
+      "attendees": [
+        "theo.harris@meadowmail.co",
+        "nina.park@gmail.com"
+      ],
+      "description": "Parade and festival with friends",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e",
+      "summary": "Q2 Review Meeting",
+      "start_time": "2024-06-19T14:00:00-04:00",
+      "end_time": "2024-06-19T16:00:00-04:00",
+      "location": "Brightline Systems - Main Conference Room",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "Quarterly performance review",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+      "summary": "Weekend in Philadelphia",
+      "start_time": "2024-06-26T17:00:00-04:00",
+      "end_time": "2024-06-28T20:00:00-04:00",
+      "location": "Airbnb in Rittenhouse Square",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Anniversary weekend getaway",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
+      "summary": "1:1 with Iris Romero",
+      "start_time": "2024-07-10T15:00:00-04:00",
+      "end_time": "2024-07-10T15:30:00-04:00",
+      "location": "Zoom",
+      "attendees": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "description": "Mentorship session",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
+      "summary": "Owen's birthday drinks",
+      "start_time": "2024-07-24T19:00:00-04:00",
+      "end_time": "2024-07-24T22:00:00-04:00",
+      "location": "Independent Brewing Company, Squirrel Hill",
+      "attendees": [
+        "owen.reed@meadowmail.co",
+        "malik.brooks@fastmail.com"
+      ],
+      "description": "30th birthday celebration",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "0f1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c",
+      "summary": "Personal training",
+      "start_time": "2024-08-07T07:00:00-04:00",
+      "end_time": "2024-08-07T08:00:00-04:00",
+      "location": "LA Fitness, Oakland",
+      "attendees": [],
+      "description": "Session with trainer Marcus",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6e",
+      "summary": "Nina's art opening",
+      "start_time": "2024-08-21T18:00:00-04:00",
+      "end_time": "2024-08-21T21:00:00-04:00",
+      "location": "The Mine Factory, Braddock",
+      "attendees": [
+        "nina.park@gmail.com",
+        "priya.shah@proton.me"
+      ],
+      "description": "Mixed media exhibition opening night",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7f",
+      "summary": "Labor Day barbecue",
+      "start_time": "2024-09-04T13:00:00-04:00",
+      "end_time": "2024-09-04T19:00:00-04:00",
+      "location": "8075 Juniper Road",
+      "attendees": [
+        "theo.harris@meadowmail.co",
+        "owen.reed@meadowmail.co",
+        "malik.brooks@fastmail.com"
+      ],
+      "description": "End of summer cookout",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8a",
+      "summary": "Platform Design Retro",
+      "start_time": "2024-09-18T11:00:00-04:00",
+      "end_time": "2024-09-18T12:30:00-04:00",
+      "location": "Brightline Systems - Conference Room A",
+      "attendees": [
+        "calvin.price@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Sprint retrospective and planning",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9b",
+      "summary": "Columbus Day hike",
+      "start_time": "2024-10-02T09:00:00-04:00",
+      "end_time": "2024-10-02T14:00:00-04:00",
+      "location": "McCune Trail, Ohiopyle",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Fall foliage hike",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0c",
+      "summary": "Halloween party at Priya's",
+      "start_time": "2024-10-16T20:00:00-04:00",
+      "end_time": "2024-10-17T00:00:00-04:00",
+      "location": "Priya's apartment, Bloomfield",
+      "attendees": [
+        "priya.shah@proton.me",
+        "nina.park@gmail.com",
+        "owen.reed@meadowmail.co"
+      ],
+      "description": "Costume party - start planning outfit",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1d",
+      "summary": "Election Day",
+      "start_time": "2024-10-30T07:00:00-04:00",
+      "end_time": "2024-10-30T08:30:00-04:00",
+      "location": "Local polling station",
+      "attendees": [],
+      "description": "Vote before work",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2e",
+      "summary": "Thanksgiving travel",
+      "start_time": "2024-11-13T15:00:00-05:00",
+      "end_time": "2024-11-13T19:00:00-05:00",
+      "location": "Pittsburgh to Boston",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Flight to visit Theo's sister",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3f",
+      "summary": "Black Friday shopping",
+      "start_time": "2024-11-27T09:00:00-05:00",
+      "end_time": "2024-11-27T13:00:00-05:00",
+      "location": "Ross Park Mall",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Early bird deals",
+      "status": "tentative",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4a",
+      "summary": "Year-end review with Calvin",
+      "start_time": "2024-12-11T13:00:00-05:00",
+      "end_time": "2024-12-11T14:00:00-05:00",
+      "location": "Brightline Systems - Conference Room B",
+      "attendees": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "2024 performance evaluation",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5b",
+      "summary": "Christmas with family",
+      "start_time": "2024-12-25T11:00:00-05:00",
+      "end_time": "2024-12-25T20:00:00-05:00",
+      "location": "Okafor family home, Mt. Lebanon",
+      "attendees": [
+        "amara.okafor@icloud.com",
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Annual family gathering",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6c",
+      "summary": "2025 Strategy Planning",
+      "start_time": "2025-01-08T09:00:00-05:00",
+      "end_time": "2025-01-08T17:00:00-05:00",
+      "location": "Brightline Systems - Executive Boardroom",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Annual planning session",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7d",
+      "summary": "Ski trip to Seven Springs",
+      "start_time": "2025-01-22T07:00:00-05:00",
+      "end_time": "2025-01-24T20:00:00-05:00",
+      "location": "Seven Springs Mountain Resort",
+      "attendees": [
+        "theo.harris@meadowmail.co",
+        "owen.reed@meadowmail.co"
+      ],
+      "description": "Weekend ski trip",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8e",
+      "summary": "Valentine's getaway",
+      "start_time": "2025-02-05T16:00:00-05:00",
+      "end_time": "2025-02-07T11:00:00-05:00",
+      "location": "Bedford Springs Resort",
+      "attendees": [
+        "theo.harris@meadowmail.co"
+      ],
+      "description": "Romantic weekend",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9f",
+      "summary": "ResearchOps Connect",
+      "start_time": "2025-02-19T09:00:00-05:00",
+      "end_time": "2025-02-21T17:00:00-05:00",
+      "location": "Seattle, WA",
+      "attendees": [],
+      "description": "Industry conference - book flights",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0a",
+      "summary": "Dentist checkup",
+      "start_time": "2025-03-05T10:00:00-05:00",
+      "end_time": "2025-03-05T11:00:00-05:00",
+      "location": "Downtown Dental Associates",
+      "attendees": [],
+      "description": "6-month cleaning",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1b",
+      "summary": "Sibling visit",
+      "start_time": "2025-03-19T14:00:00-04:00",
+      "end_time": "2025-03-19T18:00:00-04:00",
+      "location": "8075 Juniper Road",
+      "attendees": [
+        "amara.okafor@icloud.com"
+      ],
+      "description": "Amara visiting from DC",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    }
+  ]
+}

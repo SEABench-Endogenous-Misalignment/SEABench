@@ -1,0 +1,493 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/pinned_threads_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "chat_platform_export"
+  },
+  "records": [
+    {
+      "id": "thread_a7f3k9m2",
+      "timestamp": "2024-11-26T09:23:00-07:00",
+      "platform": "slack",
+      "thread_title": "Q4 Research Wrap-up",
+      "participants": [
+        "Linh Nguyen",
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "message_count": 47,
+      "creator": "Iris Romero",
+      "category": "work"
+    },
+    {
+      "id": "thread_b8g4l0n3",
+      "timestamp": "2024-11-20T14:15:00-07:00",
+      "platform": "whatsapp",
+      "thread_title": "Kitchen Backsplash Options",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 23,
+      "creator": "Leah Morgan",
+      "category": "personal"
+    },
+    {
+      "id": "thread_c9h5m1o4",
+      "timestamp": "2024-11-15T11:45:00-07:00",
+      "platform": "teams",
+      "thread_title": "User Interview Incentives",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin"
+      ],
+      "message_count": 15,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_d0i6n2p5",
+      "timestamp": "2024-11-10T16:30:00-07:00",
+      "platform": "signal",
+      "thread_title": "Book Club: December Pick",
+      "participants": [
+        "Linh Nguyen",
+        "Nina Park",
+        "Priya Shah"
+      ],
+      "message_count": 34,
+      "creator": "Nina Park",
+      "category": "social"
+    },
+    {
+      "id": "thread_e1j7o3q6",
+      "timestamp": "2024-11-05T10:00:00-07:00",
+      "platform": "slack",
+      "thread_title": "2025 Conference Submissions",
+      "participants": [
+        "Linh Nguyen",
+        "Iris Romero"
+      ],
+      "message_count": 28,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_f2k8p4r7",
+      "timestamp": "2024-10-28T13:20:00-06:00",
+      "platform": "telegram",
+      "thread_title": "Hiking: Mt. Evans Conditions",
+      "participants": [
+        "Linh Nguyen",
+        "Malik Brooks"
+      ],
+      "message_count": 19,
+      "creator": "Malik Brooks",
+      "category": "social"
+    },
+    {
+      "id": "thread_g3l9q5s8",
+      "timestamp": "2024-10-22T09:00:00-06:00",
+      "platform": "slack",
+      "thread_title": "Participant NDA Updates",
+      "participants": [
+        "Linh Nguyen",
+        "Calvin Price"
+      ],
+      "message_count": 12,
+      "creator": "Calvin Price",
+      "category": "work"
+    },
+    {
+      "id": "thread_h4m0r6t9",
+      "timestamp": "2024-10-15T15:45:00-06:00",
+      "platform": "whatsapp",
+      "thread_title": "Thanksgiving Menu Planning",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 41,
+      "creator": "Linh Nguyen",
+      "category": "personal"
+    },
+    {
+      "id": "thread_i5n1s7u0",
+      "timestamp": "2024-10-08T11:30:00-06:00",
+      "platform": "teams",
+      "thread_title": "Vendor Security Review",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin"
+      ],
+      "message_count": 22,
+      "creator": "Grace Lin",
+      "category": "work"
+    },
+    {
+      "id": "thread_j6o2t8v1",
+      "timestamp": "2024-10-01T14:00:00-06:00",
+      "platform": "signal",
+      "thread_title": "Neighborhood Garage Sale",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan",
+        "Maple Hollow Neighbors"
+      ],
+      "message_count": 56,
+      "creator": "Leah Morgan",
+      "category": "community"
+    },
+    {
+      "id": "thread_k7p3u9w2",
+      "timestamp": "2024-09-25T10:15:00-06:00",
+      "platform": "slack",
+      "thread_title": "Research Ops Tool Migration",
+      "participants": [
+        "Linh Nguyen",
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "message_count": 73,
+      "creator": "Iris Romero",
+      "category": "work"
+    },
+    {
+      "id": "thread_l8q4v0x3",
+      "timestamp": "2024-09-18T16:45:00-06:00",
+      "platform": "telegram",
+      "thread_title": "Fantasy Football Week 3",
+      "participants": [
+        "Linh Nguyen",
+        "Owen Reed",
+        "Malik Brooks"
+      ],
+      "message_count": 38,
+      "creator": "Owen Reed",
+      "category": "social"
+    },
+    {
+      "id": "thread_m9r5w1y4",
+      "timestamp": "2024-09-12T09:30:00-06:00",
+      "platform": "teams",
+      "thread_title": "Q3 Metrics Presentation",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin"
+      ],
+      "message_count": 14,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_n0s6x2z5",
+      "timestamp": "2024-09-05T13:00:00-06:00",
+      "platform": "whatsapp",
+      "thread_title": "Parent Care Discussion",
+      "participants": [
+        "Linh Nguyen",
+        "Minh Nguyen",
+        "Thi Nguyen"
+      ],
+      "message_count": 27,
+      "creator": "Minh Nguyen",
+      "category": "family"
+    },
+    {
+      "id": "thread_o1t7y3a6",
+      "timestamp": "2024-08-28T11:20:00-06:00",
+      "platform": "slack",
+      "thread_title": "Accessibility Audit Findings",
+      "participants": [
+        "Linh Nguyen",
+        "Calvin Price"
+      ],
+      "message_count": 31,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_p2u8z4b7",
+      "timestamp": "2024-08-22T15:30:00-06:00",
+      "platform": "signal",
+      "thread_title": "Summer Trip Photos",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan",
+        "Nina Park"
+      ],
+      "message_count": 64,
+      "creator": "Leah Morgan",
+      "category": "personal"
+    },
+    {
+      "id": "thread_q3v9a5c8",
+      "timestamp": "2024-08-15T10:45:00-06:00",
+      "platform": "slack",
+      "thread_title": "New Hire Onboarding Checklist",
+      "participants": [
+        "Linh Nguyen",
+        "Iris Romero"
+      ],
+      "message_count": 18,
+      "creator": "Iris Romero",
+      "category": "work"
+    },
+    {
+      "id": "thread_r4w0b6d9",
+      "timestamp": "2024-08-08T14:10:00-06:00",
+      "platform": "telegram",
+      "thread_title": "Concert Tickets: Red Rocks",
+      "participants": [
+        "Linh Nguyen",
+        "Priya Shah",
+        "Owen Reed"
+      ],
+      "message_count": 29,
+      "creator": "Priya Shah",
+      "category": "social"
+    },
+    {
+      "id": "thread_s5x1c7e0",
+      "timestamp": "2024-08-01T09:00:00-06:00",
+      "platform": "teams",
+      "thread_title": "Data Retention Policy Review",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin"
+      ],
+      "message_count": 21,
+      "creator": "Grace Lin",
+      "category": "work"
+    },
+    {
+      "id": "thread_t6y2d8f1",
+      "timestamp": "2024-07-25T16:00:00-06:00",
+      "platform": "whatsapp",
+      "thread_title": "Garden Harvest Recipes",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 33,
+      "creator": "Linh Nguyen",
+      "category": "personal"
+    },
+    {
+      "id": "thread_u7z3e9g2",
+      "timestamp": "2024-07-18T11:30:00-06:00",
+      "platform": "slack",
+      "thread_title": "Research Participant Pool",
+      "participants": [
+        "Linh Nguyen",
+        "Calvin Price"
+      ],
+      "message_count": 45,
+      "creator": "Calvin Price",
+      "category": "work"
+    },
+    {
+      "id": "thread_v8a4f0h3",
+      "timestamp": "2024-07-12T10:15:00-06:00",
+      "platform": "signal",
+      "thread_title": "Birthday Planning: Leah",
+      "participants": [
+        "Linh Nguyen",
+        "Nina Park",
+        "Malik Brooks"
+      ],
+      "message_count": 52,
+      "creator": "Nina Park",
+      "category": "social"
+    },
+    {
+      "id": "thread_w9b5g1i4",
+      "timestamp": "2024-07-05T14:45:00-06:00",
+      "platform": "teams",
+      "thread_title": "Quarterly Compliance Docs",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin"
+      ],
+      "message_count": 16,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_x0c6h2j5",
+      "timestamp": "2024-06-28T09:30:00-06:00",
+      "platform": "whatsapp",
+      "thread_title": "Car Maintenance Schedule",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 19,
+      "creator": "Leah Morgan",
+      "category": "personal"
+    },
+    {
+      "id": "thread_y1d7i3k6",
+      "timestamp": "2024-06-21T11:00:00-06:00",
+      "platform": "slack",
+      "thread_title": "Participant Incentive Budget",
+      "participants": [
+        "Linh Nguyen",
+        "Iris Romero"
+      ],
+      "message_count": 24,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_z2e8j4l7",
+      "timestamp": "2024-06-14T15:20:00-06:00",
+      "platform": "telegram",
+      "thread_title": "Hiking: Longs Peak Prep",
+      "participants": [
+        "Linh Nguyen",
+        "Malik Brooks"
+      ],
+      "message_count": 41,
+      "creator": "Malik Brooks",
+      "category": "social"
+    },
+    {
+      "id": "thread_a3f9k5m8",
+      "timestamp": "2024-06-07T10:45:00-06:00",
+      "platform": "signal",
+      "thread_title": "Home Warranty Claim",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 26,
+      "creator": "Linh Nguyen",
+      "category": "personal"
+    },
+    {
+      "id": "thread_b4g0l6n9",
+      "timestamp": "2024-05-31T13:30:00-06:00",
+      "platform": "teams",
+      "thread_title": "Q2 Research Report",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "message_count": 38,
+      "creator": "Grace Lin",
+      "category": "work"
+    },
+    {
+      "id": "thread_c5h1m7o0",
+      "timestamp": "2024-05-24T09:15:00-06:00",
+      "platform": "whatsapp",
+      "thread_title": "Wedding Planning: Owen",
+      "participants": [
+        "Linh Nguyen",
+        "Owen Reed",
+        "Jordan Lee"
+      ],
+      "message_count": 57,
+      "creator": "Owen Reed",
+      "category": "social"
+    },
+    {
+      "id": "thread_d6i2n8p1",
+      "timestamp": "2024-05-17T16:00:00-06:00",
+      "platform": "slack",
+      "thread_title": "Research Ethics Board",
+      "participants": [
+        "Linh Nguyen",
+        "Iris Romero"
+      ],
+      "message_count": 13,
+      "creator": "Iris Romero",
+      "category": "work"
+    },
+    {
+      "id": "thread_e7j3o9q2",
+      "timestamp": "2024-05-10T11:45:00-06:00",
+      "platform": "signal",
+      "thread_title": "Tax Document Organization",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 31,
+      "creator": "Leah Morgan",
+      "category": "personal"
+    },
+    {
+      "id": "thread_f8k4p0r3",
+      "timestamp": "2024-05-03T14:30:00-06:00",
+      "platform": "teams",
+      "thread_title": "Tool Stack Evaluation",
+      "participants": [
+        "Linh Nguyen",
+        "Calvin Price"
+      ],
+      "message_count": 29,
+      "creator": "Calvin Price",
+      "category": "work"
+    },
+    {
+      "id": "thread_g9l5q1s4",
+      "timestamp": "2024-04-26T10:00:00-06:00",
+      "platform": "telegram",
+      "thread_title": "Family Reunion 2024",
+      "participants": [
+        "Linh Nguyen",
+        "Minh Nguyen",
+        "Thi Nguyen",
+        "David Nguyen"
+      ],
+      "message_count": 48,
+      "creator": "David Nguyen",
+      "category": "family"
+    },
+    {
+      "id": "thread_h0m6r2t5",
+      "timestamp": "2024-04-19T15:15:00-06:00",
+      "platform": "slack",
+      "thread_title": "Product Ops Workshop",
+      "participants": [
+        "Linh Nguyen",
+        "Grace Lin"
+      ],
+      "message_count": 22,
+      "creator": "Linh Nguyen",
+      "category": "work"
+    },
+    {
+      "id": "thread_i1n7s3u6",
+      "timestamp": "2024-04-12T09:45:00-06:00",
+      "platform": "signal",
+      "thread_title": "Running Group Schedule",
+      "participants": [
+        "Linh Nguyen",
+        "Nina Park"
+      ],
+      "message_count": 17,
+      "creator": "Nina Park",
+      "category": "social"
+    },
+    {
+      "id": "thread_j2o8t4v7",
+      "timestamp": "2024-04-05T13:00:00-06:00",
+      "platform": "whatsapp",
+      "thread_title": "Insurance Policy Review",
+      "participants": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "message_count": 20,
+      "creator": "Linh Nguyen",
+      "category": "personal"
+    }
+  ]
+}

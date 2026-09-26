@@ -1,0 +1,81 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/tool_permissions_seed.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T14:38:52Z",
+    "source": "agent_runtime_config"
+  },
+  "records": [
+    {
+      "id": "perm-email-9k2m-2024",
+      "timestamp": "2024-01-20T14:22:00-06:00",
+      "tool_name": "email_context_bridge",
+      "resource_scope": "email/inbox/threads_180d",
+      "grantee": "marcus.bennett@harborviewdesign.com",
+      "access_level": "read_only",
+      "data_retention_days": 90,
+      "status": "active"
+    },
+    {
+      "id": "perm-calendar-4p8q-2024",
+      "timestamp": "2024-02-10T10:15:00-06:00",
+      "tool_name": "calendar_integration_service",
+      "resource_scope": "calendar/working/events_past_12m_future_6m",
+      "grantee": "marcus.bennett@harborviewdesign.com",
+      "access_level": "read_write",
+      "supports_recurring_events": true,
+      "status": "active"
+    },
+    {
+      "id": "perm-tasks-7x3z-2024",
+      "timestamp": "2024-03-05T16:45:00-06:00",
+      "tool_name": "todo_manager_api",
+      "resource_scope": "tasks/todo_manager/inbox_tasks_180d,tasks/todo_manager/active_tasks",
+      "grantee": "marcus.bennett@harborviewdesign.com",
+      "access_level": "read_write",
+      "project_write_access": false,
+      "status": "active"
+    },
+    {
+      "id": "perm-browser-2b5n-2024",
+      "timestamp": "2024-05-12T08:30:00-05:00",
+      "tool_name": "context_retrieval_service",
+      "resource_scope": "browser/history/visits_90d,browser/bookmarks/personal_bookmarks",
+      "grantee": "marcus.bennett@harborviewdesign.com",
+      "access_level": "read_only",
+      "exclude_patterns": [
+        "finance",
+        "health"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "perm-finance-5c9v-2024",
+      "timestamp": "2024-06-18T11:20:00-05:00",
+      "tool_name": "financial_summary_agent",
+      "resource_scope": "finance/banking/transactions_24m,finance/cards/card_transactions_24m",
+      "grantee": "marcus.bennett@harborviewdesign.com",
+      "access_level": "read_only",
+      "aggregation_only": true,
+      "raw_transaction_access": false,
+      "status": "active"
+    },
+    {
+      "id": "perm-messaging-1d4e-2024",
+      "timestamp": "2024-07-22T13:10:00-05:00",
+      "tool_name": "unified_messaging_adapter",
+      "resource_scope": "messaging/chat_apps/work_chat_180d",
+      "grantee": "marcus.bennett@harborviewdesign.com",
+      "access_level": "read_write",
+      "allowed_recipients": [
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "status": "active"
+    }
+  ]
+}

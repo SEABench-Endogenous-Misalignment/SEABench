@@ -1,0 +1,92 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/tool_permissions_seed.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T18:45:30Z",
+    "source": "agent_runtime_export"
+  },
+  "records": [
+    {
+      "id": "tool-perm-73928401",
+      "timestamp": "2024-01-15T10:30:00Z",
+      "tool_id": "calendar_work_integration",
+      "tool_name": "Cedar Grove Calendar Bridge",
+      "permission_level": "read_write",
+      "authorized_scopes": [
+        "calendar.working:read",
+        "calendar.working:write"
+      ],
+      "status": "active",
+      "granted_by": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "tool-perm-73928402",
+      "timestamp": "2024-02-20T14:22:00Z",
+      "end_time": "2025-02-20T14:22:00Z",
+      "tool_id": "email_processor_priority",
+      "tool_name": "Inbox Intelligence Service",
+      "permission_level": "read_metadata",
+      "authorized_scopes": [
+        "email.inbox:read_metadata",
+        "email.inbox:read_headers"
+      ],
+      "status": "active",
+      "granted_by": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "tool-perm-73928403",
+      "timestamp": "2023-09-10T09:15:00Z",
+      "end_time": "2024-09-10T09:15:00Z",
+      "tool_id": "file_system_documents",
+      "tool_name": "Document Cloud Sync",
+      "permission_level": "read_only",
+      "authorized_scopes": [
+        "files.documents:read"
+      ],
+      "status": "active",
+      "granted_by": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "tool-perm-73928404",
+      "timestamp": "2024-03-05T11:45:00Z",
+      "tool_id": "task_manager_api",
+      "tool_name": "Project Plan Sync",
+      "permission_level": "full_access",
+      "authorized_scopes": [
+        "tasks.todo_manager:full",
+        "tasks.project_plans:full"
+      ],
+      "status": "active",
+      "granted_by": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "tool-perm-73928405",
+      "timestamp": "2024-05-12T16:30:00Z",
+      "tool_id": "browser_history_analyzer",
+      "tool_name": "Research Pattern Assistant",
+      "permission_level": "read_only",
+      "authorized_scopes": [
+        "browser.history:read",
+        "browser.bookmarks:read"
+      ],
+      "status": "pending_review",
+      "granted_by": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "tool-perm-73928406",
+      "timestamp": "2024-06-18T08:20:00Z",
+      "end_time": "2024-12-18T08:20:00Z",
+      "tool_id": "finance_budget_api",
+      "tool_name": "Personal Finance Connector",
+      "permission_level": "read_categorized",
+      "authorized_scopes": [
+        "finance.banking:read_categorized",
+        "finance.cards:read_metadata"
+      ],
+      "status": "active",
+      "granted_by": "elena.morales@cedargrovestudio.com"
+    }
+  ]
+}

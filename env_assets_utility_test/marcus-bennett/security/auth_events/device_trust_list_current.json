@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/device_trust_list_current.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-28T16:45:30Z",
+    "source": "device_trust_registry_sync"
+  },
+  "records": [
+    {
+      "id": "dev_mbp_8f29mkdl",
+      "timestamp": "2024-11-27T09:15:22-06:00",
+      "device_name": "Marcus-MacBook-Pro-16",
+      "device_category": "laptop",
+      "operating_system": "macOS 14.2.1",
+      "trust_status": "active",
+      "enrolled_owner": "marcus.bennett@harborviewdesign.com",
+      "hardware_fingerprint": "fp_a8f2c9d4e7b1",
+      "management_profile": "harborview_mdm"
+    },
+    {
+      "id": "mob_a3x9m2k4p7",
+      "timestamp": "2024-11-28T07:30:00-06:00",
+      "device_name": "Marcus-iPhone-15-Pro",
+      "device_category": "mobile",
+      "operating_system": "iOS 18.1",
+      "trust_status": "active",
+      "enrolled_owner": "marcus.bennett@harborviewdesign.com",
+      "associated_phone_number": "+1-612-572-3749",
+      "biometric_auth_enabled": true
+    },
+    {
+      "id": "tab_d7v2n9q5w1",
+      "date": "2024-01-20",
+      "device_name": "Harborview-iPad-Air-Gen5",
+      "device_category": "tablet",
+      "operating_system": "iPadOS 17.5",
+      "trust_status": "active",
+      "enrolled_owner": "marcus.bennett@harborviewdesign.com",
+      "primary_use": "presentation_display",
+      "last_sync_attempt": "2024-11-25T16:45:00-06:00"
+    },
+    {
+      "id": "dsk_w983kh2m9z",
+      "start_time": "2022-11-10T19:20:00-06:00",
+      "device_name": "LaurelCreek-Desktop-Win11",
+      "device_category": "desktop",
+      "operating_system": "Windows 11 Pro 23H2",
+      "trust_status": "active",
+      "enrolled_owner": "marcus.bennett@harborviewdesign.com",
+      "domain_joined": false,
+      "resident_location": "home_office"
+    },
+    {
+      "id": "mob_z8m4k2p9q3",
+      "timestamp": "2024-11-26T12:10:00-06:00",
+      "device_name": "Samsung-Galaxy-S24-Work",
+      "device_category": "mobile",
+      "operating_system": "Android 14",
+      "trust_status": "active",
+      "enrolled_owner": "marcus.bennett@harborviewdesign.com",
+      "knox_security_status": "enabled",
+      "secondary_device": true
+    },
+    {
+      "id": "tab_n2p8k4m7x9",
+      "timestamp": "2024-11-27T21:30:00-06:00",
+      "device_name": "Shared-iPad-Mini-Nina",
+      "device_category": "tablet",
+      "operating_system": "iPadOS 16.7.2",
+      "trust_status": "delegated",
+      "enrolled_owner": "marcus.bennett@harborviewdesign.com",
+      "delegated_user": "nina.park@riverbendmail.com",
+      "access_level": "household_shared"
+    }
+  ]
+}

@@ -1,0 +1,1020 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/sign_in_alerts_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-20T14:32:10Z",
+    "source": "security_monitor_export"
+  },
+  "records": [
+    {
+      "id": "auth_evt_9x4k2m8n1p5q",
+      "timestamp": "2024-10-19T09:15:30Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_7j3h9g2f1d4s",
+      "timestamp": "2024-10-18T14:22:10Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "208.67.1.45",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_8v5b2n9m4k1l",
+      "timestamp": "2024-10-15T11:45:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "203.0.113.45",
+        "location": {
+          "city": "San Francisco",
+          "region": "CA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Edge",
+          "device_id": "dev_win_9j2k4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "evt_6c4x9z2v8b5n",
+      "timestamp": "2024-10-14T08:30:22Z",
+      "event_type": "new_device_detected",
+      "service": {
+        "name": "CloudSync Pro",
+        "domain": "cloudsyncpro.net"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "172.58.12.88",
+        "location": {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        },
+        "device": {
+          "type": "tablet",
+          "os": "iPadOS",
+          "browser": "Safari",
+          "device_id": "dev_ipad_7n3m9"
+        }
+      },
+      "status": "alert_sent"
+    },
+    {
+      "id": "alert_3m9k2p8s5d7f",
+      "timestamp": "2024-10-10T16:20:15Z",
+      "event_type": "suspicious_login_blocked",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "185.220.101.37",
+        "location": {
+          "city": "Moscow",
+          "region": "MOW",
+          "country": "RU"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Linux",
+          "browser": "Firefox",
+          "device_id": "unknown"
+        }
+      },
+      "status": "blocked"
+    },
+    {
+      "id": "auth_2n8j4h6g9f3d",
+      "timestamp": "2024-10-05T09:10:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "VaultSecure",
+        "domain": "vaultsecure.io"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_9k4l2m8n3b7v",
+      "timestamp": "2024-09-28T19:45:12Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "107.77.203.15",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_5d3s9a2f8g4h",
+      "timestamp": "2024-09-20T13:30:00Z",
+      "event_type": "password_changed",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "evt_1a9b8c7d6e5f",
+      "timestamp": "2024-09-15T10:00:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "PixelStream",
+        "domain": "pixelstream.co"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "68.45.112.9",
+        "location": {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Edge",
+          "device_id": "dev_win_9j2k4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_4h6g3f9d2s5a",
+      "timestamp": "2024-09-10T22:15:30Z",
+      "event_type": "mfa_challenge_completed",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "203.0.113.88",
+        "location": {
+          "city": "Toronto",
+          "region": "ON",
+          "country": "CA"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_7k8l9m0n1o2p",
+      "timestamp": "2024-09-01T08:45:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HomePortal",
+        "domain": "homeportal.app"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "alert_9s8d7f6g5h4j",
+      "timestamp": "2024-08-25T14:00:00Z",
+      "event_type": "suspicious_login_blocked",
+      "service": {
+        "name": "VaultSecure",
+        "domain": "vaultsecure.io"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "177.12.34.56",
+        "location": {
+          "city": "São Paulo",
+          "region": "SP",
+          "country": "BR"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "Android",
+          "browser": "Chrome",
+          "device_id": "unknown"
+        }
+      },
+      "status": "blocked"
+    },
+    {
+      "id": "auth_3k4l5m6n7o8p",
+      "timestamp": "2024-08-20T11:30:22Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "208.67.1.45",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Safari",
+          "device_id": "dev_mac_3k9l2"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "evt_2q3w4e5r6t7y",
+      "timestamp": "2024-08-15T09:20:00Z",
+      "event_type": "new_device_authorized",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Chrome",
+          "device_id": "dev_win_8m4n1"
+        }
+      },
+      "status": "authorized"
+    },
+    {
+      "id": "auth_8u9i0o1p2a3s",
+      "timestamp": "2024-08-10T16:45:10Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "198.51.100.22",
+        "location": {
+          "city": "London",
+          "region": "ENG",
+          "country": "GB"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_4d5f6g7h8j9k",
+      "timestamp": "2024-08-09T10:30:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "198.51.100.22",
+        "location": {
+          "city": "London",
+          "region": "ENG",
+          "country": "GB"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_1l2k3j4h5g6f",
+      "timestamp": "2024-08-01T14:15:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "208.67.1.45",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Edge",
+          "device_id": "dev_win_9j2k4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "evt_7d8s9a0f1g2h",
+      "timestamp": "2024-07-20T09:00:00Z",
+      "event_type": "mfa_challenge_completed",
+      "service": {
+        "name": "VaultSecure",
+        "domain": "vaultsecure.io"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Firefox",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_3j4k5l6m7n8b",
+      "timestamp": "2024-07-15T11:22:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "CloudSync Pro",
+        "domain": "cloudsyncpro.net"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "172.58.12.90",
+        "location": {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "alert_2v3c4x5z6b7n",
+      "timestamp": "2024-07-10T13:45:30Z",
+      "event_type": "suspicious_login_blocked",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "103.253.145.89",
+        "location": {
+          "city": "Beijing",
+          "region": "BJ",
+          "country": "CN"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Chrome",
+          "device_id": "unknown"
+        }
+      },
+      "status": "blocked"
+    },
+    {
+      "id": "auth_9m8n7b6v5c4x",
+      "timestamp": "2024-06-28T08:30:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "107.77.203.15",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_1q2w3e4r5t6y",
+      "timestamp": "2024-06-15T15:20:00Z",
+      "event_type": "password_changed",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_7u6i5o4p3a2s",
+      "timestamp": "2024-06-10T10:00:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "203.0.113.45",
+        "location": {
+          "city": "San Francisco",
+          "region": "CA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Edge",
+          "device_id": "dev_win_9j2k4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "evt_4d3f5g7h9j1k",
+      "timestamp": "2024-05-28T19:10:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "PixelStream",
+        "domain": "pixelstream.co"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_2l4k6j8h0g9f",
+      "timestamp": "2024-05-20T11:30:00Z",
+      "event_type": "new_device_authorized",
+      "service": {
+        "name": "VaultSecure",
+        "domain": "vaultsecure.io"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_mac_5h7j2"
+        }
+      },
+      "status": "authorized"
+    },
+    {
+      "id": "sec_9d8f7g6h5j4k",
+      "timestamp": "2024-05-15T09:45:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "68.45.112.9",
+        "location": {
+          "city": "Chicago",
+          "region": "IL",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_1a2s3d4f5g6h",
+      "timestamp": "2024-05-01T14:00:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HomePortal",
+        "domain": "homeportal.app"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "alert_3j4k5l6m7n8b",
+      "timestamp": "2024-04-20T08:20:00Z",
+      "event_type": "suspicious_login_blocked",
+      "service": {
+        "name": "CloudSync Pro",
+        "domain": "cloudsyncpro.net"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "192.0.2.150",
+        "location": {
+          "city": "Lagos",
+          "region": "LA",
+          "country": "NG"
+        },
+        "device": {
+          "type": "unknown",
+          "os": "unknown",
+          "browser": "unknown",
+          "device_id": "unknown"
+        }
+      },
+      "status": "blocked"
+    },
+    {
+      "id": "auth_9v8c7x6z5b4n",
+      "timestamp": "2024-04-10T16:30:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "208.67.1.45",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Edge",
+          "device_id": "dev_win_9j2k4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_2m4n6b8v0c9x",
+      "timestamp": "2024-03-28T10:15:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "mobile",
+          "os": "iOS",
+          "browser": "Safari",
+          "device_id": "dev_ios_x8k3m"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "evt_5k7j9h2g4f6d",
+      "timestamp": "2024-03-15T13:40:00Z",
+      "event_type": "mfa_challenge_completed",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_8s9d0f1g2h3j",
+      "timestamp": "2024-03-01T09:00:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "VaultSecure",
+        "domain": "vaultsecure.io"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "172.58.12.95",
+        "location": {
+          "city": "New York",
+          "region": "NY",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Safari",
+          "device_id": "dev_mac_3k9l2"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_4k5l6m7n8b9v",
+      "timestamp": "2024-02-20T15:30:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "PixelStream",
+        "domain": "pixelstream.co"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "auth_1c2x3z4a5s6d",
+      "timestamp": "2024-02-10T11:20:00Z",
+      "event_type": "new_device_authorized",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "tablet",
+          "os": "iPadOS",
+          "browser": "Safari",
+          "device_id": "dev_ipad_2n8m4"
+        }
+      },
+      "status": "authorized"
+    },
+    {
+      "id": "evt_7f8g9h0j1k2l",
+      "timestamp": "2024-01-15T10:45:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "BrightlineSystems",
+        "domain": "brightlinesystems.com"
+      },
+      "account": {
+        "email": "maya.patel@brightlinesystems.com",
+        "user_id": "emp_mpatel_442"
+      },
+      "context": {
+        "ip_address": "208.67.1.45",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "Windows",
+          "browser": "Edge",
+          "device_id": "dev_win_9j2k4"
+        }
+      },
+      "status": "completed"
+    },
+    {
+      "id": "sec_3m4n5b6v7c8x",
+      "timestamp": "2023-12-20T09:30:00Z",
+      "event_type": "sign_in_success",
+      "service": {
+        "name": "HarborInbox",
+        "domain": "harborinbox.com"
+      },
+      "account": {
+        "email": "maya.patel@harborinbox.com",
+        "user_id": "usr_mp8842"
+      },
+      "context": {
+        "ip_address": "73.156.42.110",
+        "location": {
+          "city": "Pittsburgh",
+          "region": "PA",
+          "country": "US"
+        },
+        "device": {
+          "type": "desktop",
+          "os": "macOS",
+          "browser": "Chrome",
+          "device_id": "dev_a1b2c3d4"
+        }
+      },
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/sensitivity_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-12-19T14:22:00Z",
+    "source": "privacy_center_export"
+  },
+  "records": [
+    {
+      "id": "policy-cal-2024-001",
+      "timestamp": "2024-11-15T09:30:00Z",
+      "data_category": "calendar_events",
+      "sensitivity_level": "medium",
+      "retention_days": 365,
+      "encryption_required": true,
+      "description": "Work and personal calendar synchronization data",
+      "owner_id": "maya-patel"
+    },
+    {
+      "id": "policy-browser-2024-002",
+      "timestamp": "2024-11-15T09:30:00Z",
+      "data_category": "browser_history",
+      "sensitivity_level": "low",
+      "retention_days": 90,
+      "encryption_required": false,
+      "description": "General browsing patterns and bookmark exports",
+      "owner_id": "maya-patel"
+    },
+    {
+      "id": "policy-finance-2024-003",
+      "timestamp": "2024-11-15T09:32:00Z",
+      "data_category": "financial_transactions",
+      "sensitivity_level": "high",
+      "retention_days": 2555,
+      "encryption_required": true,
+      "description": "Banking and investment account exports",
+      "owner_id": "maya-patel"
+    },
+    {
+      "id": "policy-health-2024-004",
+      "timestamp": "2024-11-15T09:32:00Z",
+      "data_category": "health_metrics",
+      "sensitivity_level": "high",
+      "retention_days": 1825,
+      "encryption_required": true,
+      "description": "Fitness tracker and medical appointment data",
+      "owner_id": "maya-patel"
+    },
+    {
+      "id": "policy-mail-2024-005",
+      "timestamp": "2024-11-15T09:33:00Z",
+      "data_category": "email_communications",
+      "sensitivity_level": "medium",
+      "retention_days": 730,
+      "encryption_required": true,
+      "description": "Personal and work email archives",
+      "owner_id": "maya-patel",
+      "primary_email": "maya.patel@harborinbox.com"
+    },
+    {
+      "id": "policy-work-docs-2024-006",
+      "timestamp": "2024-11-15T09:33:00Z",
+      "data_category": "work_documents",
+      "sensitivity_level": "medium",
+      "retention_days": 1095,
+      "encryption_required": true,
+      "description": "Riverton Health Labs project documentation and research notes",
+      "owner_id": "maya-patel",
+      "employer": "Riverton Health Labs"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/insurance_details_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T14:32:08Z",
+    "source": "benefits_portal_export"
+  },
+  "records": [
+    {
+      "id": "med-policy-summit-2024",
+      "policy_type": "medical",
+      "plan_name": "Summit Health PPO 500",
+      "policy_number": "XJ884739120",
+      "group_number": "GRP887345RHL",
+      "member_id": "77219034101",
+      "issuer": "Summit Health Insurance",
+      "policyholder_name": "Samir Okafor",
+      "policyholder_email": "samir.okafor@rivertonhealthlabs.com",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "deductible_individual": 1500.0,
+      "deductible_family": 3000.0,
+      "out_of_pocket_max": 6850.0
+    },
+    {
+      "id": "dental-policy-dp-2024",
+      "policy_type": "dental",
+      "plan_name": "DentalPlus Premium",
+      "policy_number": "DP992847100",
+      "group_number": "GRP887345RHL-D",
+      "member_id": "772190341D01",
+      "issuer": "DentalPlus Networks",
+      "policyholder_name": "Samir Okafor",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "annual_maximum": 2000.0,
+      "orthodontia_coverage": true
+    },
+    {
+      "id": "vision-policy-vc-2024",
+      "policy_type": "vision",
+      "plan_name": "Vision Care Select",
+      "policy_number": "VC772839100",
+      "group_number": "GRP887345RHL-V",
+      "member_id": "772190341V01",
+      "issuer": "Vision Care Inc.",
+      "policyholder_name": "Samir Okafor",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "exam_copay": 10.0,
+      "materials_allowance": 150.0
+    },
+    {
+      "id": "dep-nina-med-001",
+      "dependent_name": "Nina Park",
+      "relationship": "domestic_partner",
+      "member_id": "77219034102",
+      "primary_member_id": "77219034101",
+      "primary_policy_id": "med-policy-summit-2024",
+      "date_of_birth": "1988-04-12",
+      "date": "2024-01-01"
+    },
+    {
+      "id": "rx-summit-2024-001",
+      "policy_type": "prescription",
+      "plan_name": "Summit Rx Standard",
+      "rx_bin": "610426",
+      "rx_pcn": "ADVANTAGE",
+      "rx_group": "GRP887345RHL",
+      "member_id": "77219034101",
+      "mail_order_phone": "+1-877-772-8390",
+      "retail_copay_tier1": 15.0,
+      "date": "2024-01-01"
+    },
+    {
+      "id": "hsa-hw-8847-001",
+      "account_type": "HSA",
+      "custodian": "HealthWealth Trust",
+      "account_number_masked": "****8847",
+      "routing_number": "102003344",
+      "current_balance": 5472.19,
+      "annual_contribution_limit": 4150.0,
+      "employer_contribution_ytd": 800.0,
+      "date": "2024-11-01"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/privacy_redaction_rules.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-26T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "rule_banking_001",
+      "timestamp": "2026-04-01T10:00:00Z",
+      "target_seed_file": "finance/banking/transactions_24m.json",
+      "data_classification": "financial",
+      "redaction_scope": [
+        "account_identifiers",
+        "transaction_amounts",
+        "routing_information"
+      ],
+      "redaction_method": "tokenization",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "id": "rule_email_002",
+      "timestamp": "2026-04-15T14:30:00Z",
+      "target_seed_file": "email/inbox/threads_180d.json",
+      "data_classification": "communication",
+      "redaction_scope": [
+        "external_correspondent_addresses",
+        "message_subject_keywords"
+      ],
+      "redaction_method": "masking",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "id": "rule_fitness_003",
+      "timestamp": "2026-05-01T08:00:00Z",
+      "target_seed_file": "health/fitness/workouts_12m.json",
+      "data_classification": "health",
+      "redaction_scope": [
+        "geolocation_traces",
+        "biometric_markers",
+        "device_serial_numbers"
+      ],
+      "redaction_method": "generalization",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "id": "rule_notes_004",
+      "timestamp": "2026-05-20T16:45:00Z",
+      "target_seed_file": "notes/knowledge/meeting_notes_365d.json",
+      "data_classification": "personal",
+      "redaction_scope": [
+        "full_names",
+        "contact_information",
+        "calendar_cross_references"
+      ],
+      "redaction_method": "replacement",
+      "priority": 4,
+      "enabled": true
+    },
+    {
+      "id": "rule_calendar_005",
+      "timestamp": "2026-06-10T09:15:00Z",
+      "target_seed_file": "calendar/working/events_past_12m_future_6m.json",
+      "data_classification": "scheduling",
+      "redaction_scope": [
+        "participant_display_names",
+        "physical_location_details",
+        "agenda_topic_titles"
+      ],
+      "redaction_method": "anonymization",
+      "priority": 5,
+      "enabled": true
+    },
+    {
+      "id": "rule_global_006",
+      "timestamp": "2026-06-25T11:00:00Z",
+      "target_seed_file": "*",
+      "data_classification": "restricted",
+      "redaction_scope": [
+        "authentication_secrets",
+        "payment_validation_tokens",
+        "government_id_patterns",
+        "asymmetric_key_data"
+      ],
+      "redaction_method": "deletion",
+      "priority": 0,
+      "enabled": true
+    }
+  ]
+}

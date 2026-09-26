@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seabench-reasoning-monitor"
+version = "1.0.0"
+description = "Reproducible reasoning-trace safety monitor"
+requires-python = ">=3.11"
+dependencies = [
+  "joblib>=1.3",
+  "numpy>=1.26",
+  "openai>=1.50",
+  "scikit-learn>=1.4",
+  "scipy>=1.11",
+  "torch>=2.2",
+]
+
+[project.scripts]
+reasoning-monitor = "reasoning_monitor.cli:main"
+derive-verifier-prompt = "reasoning_monitor.derive_verifier_prompt:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+reasoning_monitor = [
+  "config.json",
+  "verifier_prompt.md",
+  "verifier_prompt_derivation.md",
+  "verifier_schema.json",
+]

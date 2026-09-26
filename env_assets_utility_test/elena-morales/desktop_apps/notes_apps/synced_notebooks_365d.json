@@ -1,0 +1,615 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/notes_apps/synced_notebooks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T14:35:00Z",
+    "source": "notes_app_sync_export"
+  },
+  "records": [
+    {
+      "id": "nb-7f8a9b2c-4d5e-11ee-8c99-00155d3d9201",
+      "timestamp": "2024-07-22T09:15:00-05:00",
+      "title": "Q3 Roadmap Alignment - Cedar Grove",
+      "notebook": "Work - Strategy",
+      "content_preview": "Key decisions from leadership sync: mobile-first redesign prioritized for Q3, backend migration pushed to Q4. Action items assigned to Platform Design...",
+      "tags": [
+        "work",
+        "roadmap",
+        "q3-planning",
+        "leadership"
+      ],
+      "word_count": 456,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16",
+      "last_modified_by": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "nb-8c9d0e1f-5a6b-22ff-9d00-00266e4e0312",
+      "timestamp": "2024-07-12T18:30:00-05:00",
+      "title": "Grocery List - Weekend BBQ with Grace",
+      "notebook": "Household Shared",
+      "content_preview": "Charcoal, portobello mushrooms, veggie burgers, corn, watermelon, lemonade. Check if Grace has enough propane for the grill...",
+      "tags": [
+        "household",
+        "groceries",
+        "weekend",
+        "grace-lin"
+      ],
+      "word_count": 89,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-9e1f2a3b-6c7d-33aa-be11-00377f5f1423",
+      "timestamp": "2024-07-02T14:20:00-05:00",
+      "title": "Nina's Birthday Gift Ideas",
+      "notebook": "Personal",
+      "content_preview": "Considering: pottery class at Midwest Clay Project, ceramic coffee dripper, or subscription to that literary journal she mentioned. Budget: $75-100...",
+      "tags": [
+        "personal",
+        "gift-ideas",
+        "nina-park",
+        "birthday"
+      ],
+      "word_count": 124,
+      "sync_status": "synced",
+      "device": "iPad-Pro-12"
+    },
+    {
+      "id": "nb-0a2b3c4d-7e8f-44bb-cf22-004488060534",
+      "timestamp": "2024-06-22T10:45:00-05:00",
+      "title": "Platform Performance Metrics Q2",
+      "notebook": "Work - Analytics",
+      "content_preview": "Page load times improved 23% after CDN implementation. Mobile bounce rate still higher than target (34% vs 28% goal). Calvin suggested A/B testing...",
+      "tags": [
+        "work",
+        "metrics",
+        "performance",
+        "q2-review",
+        "calvin-price"
+      ],
+      "word_count": 312,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-1b3c4d5e-8f9a-55cc-d033-015599171645",
+      "timestamp": "2024-06-12T11:00:00-05:00",
+      "title": "1:1 with Leah - June Check-in",
+      "notebook": "Work - 1:1s",
+      "content_preview": "Discussed career progression to Staff PM. Leah recommended focusing on cross-team influence. Need to prepare presentation for August review cycle...",
+      "tags": [
+        "work",
+        "1-1",
+        "career",
+        "leah-morgan",
+        "growth"
+      ],
+      "word_count": 278,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-2c4d5e6f-9a0b-66dd-e144-0266aa282756",
+      "timestamp": "2024-06-02T16:15:00-05:00",
+      "title": "Apartment Maintenance - AC Filter Replacement",
+      "notebook": "Household Shared",
+      "content_preview": "Replaced filters in both units (16x25x1). Next replacement: September 1st. Grace reminded me to vacuum the intake vents this weekend...",
+      "tags": [
+        "household",
+        "maintenance",
+        "grace-lin",
+        "apartment"
+      ],
+      "word_count": 95,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-3d5e6f7a-0b1c-77ee-f255-0377bb393867",
+      "timestamp": "2024-05-23T09:30:00-05:00",
+      "title": "Design System Component Audit",
+      "notebook": "Work - Design Systems",
+      "content_preview": "Audit complete: 42 components need accessibility updates. Prioritized button variants and form inputs. Iris coordinating with frontend team on timeline...",
+      "tags": [
+        "work",
+        "design-system",
+        "accessibility",
+        "iris-romero"
+      ],
+      "word_count": 234,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-4e6f7a8b-1c2d-88ff-0366-0488cc4a4978",
+      "timestamp": "2024-05-13T20:00:00-05:00",
+      "title": "Weekend Trip to Door County Planning",
+      "notebook": "Personal - Travel",
+      "content_preview": "Reservations confirmed: cottage in Fish Creek Friday-Sunday. Winery tour Saturday afternoon. Owen and Malik joining. Need to pack hiking boots...",
+      "tags": [
+        "personal",
+        "travel",
+        "door-county",
+        "owen-reed",
+        "malik-brooks"
+      ],
+      "word_count": 156,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-5f7a8b9c-2d3e-9900-1477-0599dd5b5089",
+      "timestamp": "2024-05-03T14:45:00-05:00",
+      "title": "User Research Synthesis - Mobile Onboarding",
+      "notebook": "Work - Research",
+      "content_preview": "Five key pain points identified: unclear value prop, too many permission requests, confusing navigation patterns. Recommended simplifying to three steps...",
+      "tags": [
+        "work",
+        "user-research",
+        "mobile",
+        "onboarding"
+      ],
+      "word_count": 389,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-6a8b9c0d-3e4f-aa11-2588-0600ee6c6090",
+      "timestamp": "2024-04-23T15:30:00-05:00",
+      "title": "Calvin's Feedback on API Documentation",
+      "notebook": "Work - Engineering",
+      "content_preview": "Calvin reviewed the draft and suggested adding rate limiting examples. Also noted missing error codes for 429 responses. Update needed before Thursday...",
+      "tags": [
+        "work",
+        "api",
+        "documentation",
+        "calvin-price",
+        "engineering"
+      ],
+      "word_count": 178,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-7b9c0d1e-4f5a-bb22-3699-0711ff7d7101",
+      "timestamp": "2024-04-13T11:00:00-05:00",
+      "title": "Monthly Budget Review - April",
+      "notebook": "Personal - Finance",
+      "content_preview": "Overspent on dining out by $120. Utility bills lower than expected due to mild weather. Increased investment contribution to align with year-end goals...",
+      "tags": [
+        "personal",
+        "finance",
+        "budget",
+        "april"
+      ],
+      "word_count": 203,
+      "sync_status": "synced",
+      "device": "iPad-Pro-12"
+    },
+    {
+      "id": "nb-8c0d1e2f-5a6b-cc33-4700-0822aa8e8212",
+      "timestamp": "2024-04-03T10:15:00-05:00",
+      "title": "Vendor Negotiation Notes - Iris Romero",
+      "notebook": "Work - Procurement",
+      "content_preview": "Negotiated 15% discount on annual Figma licenses by committing to two-year contract. Legal needs to review modified terms by next Tuesday...",
+      "tags": [
+        "work",
+        "vendor",
+        "procurement",
+        "iris-romero",
+        "figma"
+      ],
+      "word_count": 167,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-9d1e2f3a-6b7c-dd44-5811-0933bb9f9323",
+      "timestamp": "2024-03-24T13:45:00-05:00",
+      "title": "Spring Cleaning Checklist",
+      "notebook": "Household Shared",
+      "content_preview": "Deep clean: windows, baseboards, refrigerator coils. Declutter closet for donation pickup. Grace handling kitchen organization, I'll take living room...",
+      "tags": [
+        "household",
+        "cleaning",
+        "spring",
+        "grace-lin"
+      ],
+      "word_count": 134,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-0e2f3a4b-7c8d-ee55-6922-0a44cc0g0434",
+      "timestamp": "2024-03-14T09:00:00-05:00",
+      "title": "Product Strategy Offsite Notes",
+      "notebook": "Work - Strategy",
+      "content_preview": "Day 2: Defined three-year vision for Platform Design. Key initiative: AI-assisted workflows. Leah presented competitive analysis showing market gap...",
+      "tags": [
+        "work",
+        "strategy",
+        "offsite",
+        "leah-morgan",
+        "planning"
+      ],
+      "word_count": 567,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-1f3a4b5c-8d9e-ff66-7a33-0b55dd1h1545",
+      "timestamp": "2024-03-04T19:30:00-06:00",
+      "title": "Physical Therapy Exercises - Knee",
+      "notebook": "Personal - Health",
+      "content_preview": "Week 4 routine: quad sets, straight leg raises, heel slides. Increase resistance band to blue level. Next appointment: March 18th at Orthopedic Associates...",
+      "tags": [
+        "personal",
+        "health",
+        "pt",
+        "recovery",
+        "exercises"
+      ],
+      "word_count": 145,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-2a4b5c6d-9e0f-0077-8b44-0c66ee2i2656",
+      "timestamp": "2024-02-23T17:00:00-06:00",
+      "title": "Valentine's Dinner Planning",
+      "notebook": "Personal",
+      "content_preview": "Reservations at L'Etoile for 7:30pm. Menu research complete - leaning toward the tasting menu. Need to confirm dietary restrictions with Priya and Owen...",
+      "tags": [
+        "personal",
+        "valentines",
+        "dinner",
+        "priya-shah",
+        "owen-reed"
+      ],
+      "word_count": 112,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-3b5c6d7e-0f1a-1188-9c55-0d77ff3j3767",
+      "timestamp": "2024-02-13T14:00:00-06:00",
+      "title": "Quarterly Planning Prep with Leadership",
+      "notebook": "Work - Planning",
+      "content_preview": "Prep complete for tomorrow's session: slides finalized, budget projections approved by finance. Key ask: additional headcount for Q3 (2 senior designers)...",
+      "tags": [
+        "work",
+        "quarterly-planning",
+        "leadership",
+        "budget"
+      ],
+      "word_count": 298,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-4c6d7e8f-1a2b-2299-ad66-0e88aa4k4878",
+      "timestamp": "2024-02-03T16:20:00-06:00",
+      "title": "Book Recommendations from Priya",
+      "notebook": "Personal - Reading",
+      "content_preview": "Priya suggested: 'The Ministry for the Future' by Kim Stanley Robinson, 'Doughnut Economics' by Kate Raworth, and 'Project Hail Mary' for lighter reading...",
+      "tags": [
+        "personal",
+        "books",
+        "reading",
+        "priya-shah",
+        "recommendations"
+      ],
+      "word_count": 89,
+      "sync_status": "synced",
+      "device": "iPad-Pro-12"
+    },
+    {
+      "id": "nb-5d7e8f9a-2b3c-33aa-be77-0f99bb5l5989",
+      "timestamp": "2024-01-24T10:30:00-06:00",
+      "title": "Annual Performance Review Draft",
+      "notebook": "Work - Career",
+      "content_preview": "Accomplishments: Led platform redesign reducing tech debt by 40%, mentored two junior PMs, improved sprint velocity by 25%. Goals: Cross-functional leadership...",
+      "tags": [
+        "work",
+        "performance-review",
+        "career",
+        "growth"
+      ],
+      "word_count": 445,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-6e8f9a0b-3c4d-44bb-cf88-0f00cc6m6090",
+      "timestamp": "2024-01-14T09:45:00-06:00",
+      "title": "Wisconsin Winter Hiking Trails",
+      "notebook": "Personal - Outdoors",
+      "content_preview": "Researching snowshoe trails near Madison: Indian Lake County Park, Pheasant Branch Conservancy. Gear check: need new gaiters before next weekend...",
+      "tags": [
+        "personal",
+        "hiking",
+        "winter",
+        "madison",
+        "outdoors"
+      ],
+      "word_count": 134,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-7f9a0b1c-4d5e-55dd-e099-0f11dd7n7101",
+      "timestamp": "2024-01-04T11:00:00-06:00",
+      "title": "2024 Goals and Intentions",
+      "notebook": "Personal",
+      "content_preview": "Professional: Transition to Staff PM level, speak at one conference. Personal: Visit 3 new states, maintain PT routine, monthly digital detox weekends...",
+      "tags": [
+        "personal",
+        "goals",
+        "2024",
+        "intentions",
+        "planning"
+      ],
+      "word_count": 267,
+      "sync_status": "synced",
+      "device": "iPad-Pro-12"
+    },
+    {
+      "id": "nb-8a0b1c2d-5e6f-66ee-f1aa-0f22ee8o8212",
+      "timestamp": "2023-12-25T20:00:00-06:00",
+      "title": "Holiday Reflections 2023",
+      "notebook": "Personal - Journal",
+      "content_preview": "Quiet Christmas with Grace and Nina. Grateful for the new role at Cedar Grove and the apartment. Looking forward to more stability in 2024...",
+      "tags": [
+        "personal",
+        "journal",
+        "holidays",
+        "reflection",
+        "nina-park"
+      ],
+      "word_count": 234,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-9b1c2d3e-6f7a-77ff-02bb-0f33ff9p9323",
+      "timestamp": "2023-12-15T16:30:00-06:00",
+      "title": "Year-End Project Retrospective",
+      "notebook": "Work - Retrospectives",
+      "content_preview": "What worked: Early user involvement, weekly design critiques. What didn't: Third-party integration delays, scope creep on v2.1. Action items for Q1...",
+      "tags": [
+        "work",
+        "retrospective",
+        "year-end",
+        "lessons-learned"
+      ],
+      "word_count": 356,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-0c2d3e4f-7a8b-8800-13cc-0f44aa0q0434",
+      "timestamp": "2023-12-05T19:15:00-06:00",
+      "title": "Gift Exchange with Grace",
+      "notebook": "Household Shared",
+      "content_preview": "Agreed on $50 limit. Grace wants baking supplies, I need new headphones. Exchange date: December 22nd before she leaves for Boston...",
+      "tags": [
+        "household",
+        "holidays",
+        "gift-exchange",
+        "grace-lin",
+        "budget"
+      ],
+      "word_count": 98,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-1d3e4f5a-8b9c-9911-24dd-0f55bb1r1545",
+      "timestamp": "2023-11-25T15:00:00-06:00",
+      "title": "Thanksgiving Weekend Notes",
+      "notebook": "Personal",
+      "content_preview": "Hosted Friendsgiving at the apartment. Owen brought pie, Malik handled music. Grace's stuffing was a hit. Cleanup strategy worked well...",
+      "tags": [
+        "personal",
+        "thanksgiving",
+        "friendsgiving",
+        "owen-reed",
+        "malik-brooks"
+      ],
+      "word_count": 178,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-2e4f5a6b-9c0d-aa22-35ee-0f66cc2s2656",
+      "timestamp": "2023-11-15T10:00:00-06:00",
+      "title": "Platform v2.3 Launch Retrospective",
+      "notebook": "Work - Retrospectives",
+      "content_preview": "Launch successful: 99.9% uptime during rollout, positive user feedback on new dashboard. Minor issues with Safari 16 compatibility quickly patched...",
+      "tags": [
+        "work",
+        "launch",
+        "v2-3",
+        "retro",
+        "platform"
+      ],
+      "word_count": 289,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-3f5a6b7c-0d1e-bb33-46ff-0f77dd3t3767",
+      "timestamp": "2023-11-05T14:30:00-06:00",
+      "title": "Conversation with Owen About Career Change",
+      "notebook": "Personal",
+      "content_preview": "Owen considering pivot to UX research. Shared contacts at Cedar Grove and offered to review his portfolio. Suggested he talk to Iris about the transition...",
+      "tags": [
+        "personal",
+        "career",
+        "owen-reed",
+        "advice",
+        "networking"
+      ],
+      "word_count": 198,
+      "sync_status": "synced",
+      "device": "iPad-Pro-12"
+    },
+    {
+      "id": "nb-4a6b7c8d-1e2f-cc44-5800-0f88ee4u4878",
+      "timestamp": "2023-10-26T11:30:00-05:00",
+      "title": "Design Critique Session Notes",
+      "notebook": "Work - Design",
+      "content_preview": "Reviewed new navigation patterns. Feedback: increase contrast on secondary actions, reduce animation duration by 200ms. Calvin providing dev effort estimates...",
+      "tags": [
+        "work",
+        "design-critique",
+        "ux",
+        "calvin-price",
+        "feedback"
+      ],
+      "word_count": 212,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-5b7c8d9e-2f3a-dd55-6911-0f99ff5v5989",
+      "timestamp": "2023-10-16T21:00:00-05:00",
+      "title": "Malik's Podcast Recommendation List",
+      "notebook": "Personal - Media",
+      "content_preview": "Malik recommended: 'Darknet Diaries' for security, 'How I Built This' for entrepreneurship, 'Maintenance Phase' for wellness. Queue updated...",
+      "tags": [
+        "personal",
+        "podcasts",
+        "malik-brooks",
+        "recommendations",
+        "media"
+      ],
+      "word_count": 87,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-6c8d9e0f-3a4b-ee66-7a22-0f00aa6w6090",
+      "timestamp": "2023-10-06T17:45:00-05:00",
+      "title": "Home Office Setup Optimization",
+      "notebook": "Household Shared",
+      "content_preview": "New monitor arm installed, cable management improved. Grace helped rearrange furniture for better lighting. Ergonomic assessment complete...",
+      "tags": [
+        "household",
+        "office-setup",
+        "ergonomics",
+        "grace-lin",
+        "workspace"
+      ],
+      "word_count": 156,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-7d9e0f1a-4b5c-ff77-8b33-0f11bb7x7101",
+      "timestamp": "2023-09-26T09:00:00-05:00",
+      "title": "Q4 Resource Planning",
+      "notebook": "Work - Planning",
+      "content_preview": "Headcount allocated: 3 engineers, 1 designer for Analytics Dashboard project. Budget approved for contractor support November-December...",
+      "tags": [
+        "work",
+        "q4",
+        "resource-planning",
+        "budget",
+        "hiring"
+      ],
+      "word_count": 234,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-8e0f1a2b-5c6d-0088-9c44-0f22cc8y8212",
+      "timestamp": "2023-09-16T08:30:00-05:00",
+      "title": "Farmers Market Saturday Routine",
+      "notebook": "Personal",
+      "content_preview": "Regular stops: Driftless Organics for vegetables, Lazy Jane's for scones. New vendor with sheep cheese. Budget: $40 cash to avoid overspending...",
+      "tags": [
+        "personal",
+        "farmers-market",
+        "routine",
+        "madison",
+        "shopping"
+      ],
+      "word_count": 112,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-9f1a2b3c-6d7e-1199-ad55-0f33dd9z9323",
+      "timestamp": "2023-09-06T14:15:00-05:00",
+      "title": "Onboarding Flow User Testing Results",
+      "notebook": "Work - Research",
+      "content_preview": "Five participants completed tasks. Completion rate improved to 94% from 76%. Remaining friction: email verification delay, unclear password requirements...",
+      "tags": [
+        "work",
+        "user-testing",
+        "onboarding",
+        "research",
+        "ux"
+      ],
+      "word_count": 298,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-0a2b3c4d-7e8f-22aa-be66-0f44ee0a0434",
+      "timestamp": "2023-08-27T16:00:00-05:00",
+      "title": "Lake Mendota Sunset Spots",
+      "notebook": "Personal - Madison",
+      "content_preview": "Best viewing: James Madison Park (north shore), Union Terrace (south shore). Picnic supplies checklist for next weekend with Nina and Priya...",
+      "tags": [
+        "personal",
+        "madison",
+        "lake-mendota",
+        "sunset",
+        "nina-park",
+        "priya-shah"
+      ],
+      "word_count": 145,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    },
+    {
+      "id": "nb-1b3c4d5e-8f9a-33bb-cf77-0f55ff1b1545",
+      "timestamp": "2023-08-17T10:30:00-05:00",
+      "title": "Sprint 34 Planning Meeting",
+      "notebook": "Work - Agile",
+      "content_preview": "Velocity target: 42 points. Committed to: dark mode implementation, CSV export feature, bug fixes for payment flow. Leah joining as stakeholder...",
+      "tags": [
+        "work",
+        "sprint-planning",
+        "agile",
+        "sprint-34",
+        "leah-morgan"
+      ],
+      "word_count": 267,
+      "sync_status": "synced",
+      "device": "MacBook-Pro-16"
+    },
+    {
+      "id": "nb-2c4d5e6f-9a0b-44cc-e088-0f66aa2c2656",
+      "timestamp": "2023-08-07T18:45:00-05:00",
+      "title": "Moving Day Essentials - New Apartment",
+      "notebook": "Household Shared",
+      "content_preview": "Box labels: Kitchen fragile, Bedroom linens, Office electronics. Utilities transfer confirmed for August 1st. Grace handling change of address forms...",
+      "tags": [
+        "household",
+        "moving",
+        "apartment",
+        "grace-lin",
+        "logistics"
+      ],
+      "word_count": 189,
+      "sync_status": "synced",
+      "device": "iPhone-15-Pro"
+    }
+  ]
+}

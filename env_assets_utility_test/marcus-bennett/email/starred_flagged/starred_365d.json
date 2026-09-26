@@ -1,0 +1,668 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/starred_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T14:32:10Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_8f4e2c1a9d7b",
+      "timestamp": "2024-12-18T09:15:32Z",
+      "subject": "Q4 Research Wrap-Up & Budget Carryover",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Marcus, confirmed we can roll over the remaining $4,200 from Q4 into Q1 participant incentives. Great work keeping costs down."
+    },
+    {
+      "id": "msg_3a7b1d5f9e2c",
+      "timestamp": "2024-12-15T18:45:00Z",
+      "subject": "Flight booked for Denver trip",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Got us both on the 10:15 AM departure on January 8th. Confirmation code XB7R9L attached."
+    },
+    {
+      "id": "msg_9c2e4f8a1b3d",
+      "timestamp": "2024-12-02T14:22:10Z",
+      "subject": "Re: Vendor Agreement - Northwind Solutions",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@northwindsolutions.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Contract amendments look good. I'll have the final version countersigned by Wednesday for your records."
+    },
+    {
+      "id": "msg_1d5f8a3c7e9b",
+      "timestamp": "2024-11-25T08:30:00Z",
+      "subject": "Multnomah County Property Tax Statement Available",
+      "from": {
+        "name": "Multnomah County Tax Collector",
+        "email": "noreply@multco.us"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "body_preview": "Your 2024-2025 property tax statement for the property at 7464 Laurel Creek Street is now available..."
+    },
+    {
+      "id": "msg_5a8c2e7f1b4d",
+      "timestamp": "2024-11-20T19:10:15Z",
+      "subject": "Opening night details - Hawthorne Gallery",
+      "from": {
+        "name": "Nina Park",
+        "email": "ninapark@maritimeanalytics.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "The show opens at 6 PM next Friday. I put you and Theo on the guest list plus one if you want to bring Leah."
+    },
+    {
+      "id": "msg_2b9d5f1e8a3c",
+      "timestamp": "2024-11-15T11:05:45Z",
+      "subject": "Consent forms backlog cleared",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "All 24 participant consent forms for the banking app study are now signed and archived. Ready to proceed with interviews."
+    },
+    {
+      "id": "msg_7e3a9c5f2b1d",
+      "timestamp": "2024-11-08T16:40:00Z",
+      "subject": "Design System Sync - Notes",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Attached are the notes from Thursday's session. We agreed on the new color palette tokens for the research dashboard."
+    },
+    {
+      "id": "msg_4f1c8a3e9b7d",
+      "timestamp": "2024-10-30T10:15:00Z",
+      "subject": "Appointment Confirmation: Dr. Sarah Chen",
+      "from": {
+        "name": "Rose City Medical Group",
+        "email": "appointments@rosecitymed.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "This confirms your annual physical on November 12th at 9:00 AM with Dr. Chen. Please arrive 15 minutes early."
+    },
+    {
+      "id": "msg_8d2e6b1f5c9a",
+      "timestamp": "2024-10-22T07:50:22Z",
+      "subject": "Trail maps for Eagle Creek",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@brightwell.co"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Found the loop we talked about. 8.2 miles with good water access at mile 3. Bring the waterproof boots."
+    },
+    {
+      "id": "msg_3c9f7a5e2b8d",
+      "timestamp": "2024-10-05T13:20:00Z",
+      "subject": "EPIC 2024 Conference - Registration Complete",
+      "from": {
+        "name": "EPIC Conference",
+        "email": "info@epiconference.org"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Your registration for the EPIC 2024 conference in San Diego is confirmed. Workshop schedule attached."
+    },
+    {
+      "id": "msg_6e1b4d9c3a8f",
+      "timestamp": "2024-09-28T15:45:00Z",
+      "subject": "RE: NDA for Healthcare Client",
+      "from": {
+        "name": "Sarah Jenkins",
+        "email": "s.jenkins@hartwicklegal.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "body_preview": "Please review the mutual NDA attached. We need this executed before you can begin participant observation at Mercy General."
+    },
+    {
+      "id": "msg_9f4c2e8b1d5a",
+      "timestamp": "2024-09-20T12:10:00Z",
+      "subject": "Homeowners insurance renewal docs",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Renewal is $200 less this year. I signed the docs but flagged this for your review since we changed coverage levels."
+    },
+    {
+      "id": "msg_2a8f5c3e7b1d",
+      "timestamp": "2024-09-15T17:30:00Z",
+      "subject": "Next book - The Ministry for the Future?",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@greenfield.org"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Thought this might be a good pick for October given the climate panel you're moderating. Let me know by Tuesday?"
+    },
+    {
+      "id": "msg_5d3b9f2e1c8a",
+      "timestamp": "2024-09-05T09:00:00Z",
+      "subject": "Draft: Q3 Research Operations Plan",
+      "from": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@cedargrovestudio.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Attached is the draft ops plan for the Q3 studies. Please comment by Friday so we can finalize the recruit screener."
+    },
+    {
+      "id": "msg_8e2c7f4a1b9d",
+      "timestamp": "2024-08-25T11:00:00Z",
+      "subject": "Quarterly portfolio summary available",
+      "from": {
+        "name": "Vanguard",
+        "email": "service@vanguard.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Your Q3 2024 account statement for accounts ending in 7741 and 2293 is ready for download."
+    },
+    {
+      "id": "msg_4a9e2c8f5b3d",
+      "timestamp": "2024-08-18T20:15:00Z",
+      "subject": "Got the tickets - Row C",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@vertexdesign.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Two tickets for the December 14th show at Crystal Ballroom. Transferring via Ticketmaster now."
+    },
+    {
+      "id": "msg_7c1f5a9e3b2d",
+      "timestamp": "2024-08-10T14:45:30Z",
+      "subject": "Follow-up: Recruitment timeline",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@northwindsolutions.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Checking in on the participant demographics we discussed. Can you send the finalized quotas by next Thursday?"
+    },
+    {
+      "id": "msg_3f8e1c9a7b4d",
+      "timestamp": "2024-07-22T16:20:00Z",
+      "subject": "Roof repair estimate - $4,850",
+      "from": {
+        "name": "Cascade Roofing",
+        "email": "estimates@cascaderoofingpdx.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "body_preview": "Attached is the full estimate for the moss damage repair and gutter replacement. Valid for 30 days."
+    },
+    {
+      "id": "msg_9b5d2f8e1c7a",
+      "timestamp": "2024-07-15T10:30:00Z",
+      "subject": "Usability Test Results - Mobile Banking",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Key finding: 80% of users failed task 3 (transfer between accounts). Recommend navigation redesign before launch."
+    },
+    {
+      "id": "msg_2e7c4a9f5b1d",
+      "timestamp": "2024-07-08T12:00:00Z",
+      "subject": "Brunch reservation - 11am Sunday",
+      "from": {
+        "name": "Nina Park",
+        "email": "ninapark@maritimeanalytics.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        },
+        {
+          "name": "Theo Harris",
+          "email": "theo.harris@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Tusk on Burnside, Sunday 11 AM for four. You, Theo, me and Owen. Don't know if Priya can make it yet."
+    },
+    {
+      "id": "msg_6a3f9e2c8b5d",
+      "timestamp": "2024-07-01T09:15:00Z",
+      "subject": "Congratulations on the promotion!",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Officially announced this morning. Director of Research Operations - well deserved! Let's discuss transition planning next week."
+    },
+    {
+      "id": "msg_1c8f4e2b9d7a",
+      "timestamp": "2024-06-20T14:10:00Z",
+      "subject": "Flight Confirmation: PDX to BOS",
+      "from": {
+        "name": "Delta Air Lines",
+        "email": "confirmation@delta.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Confirmation GJ8H29. Departing PDX 6:00 AM June 28, arriving BOS 2:45 PM. Seat 12C."
+    },
+    {
+      "id": "msg_5e2b9c7f4a1d",
+      "timestamp": "2024-06-15T11:30:00Z",
+      "subject": "IRB Approval Notice - Protocol #2024-089",
+      "from": {
+        "name": "Western IRB",
+        "email": "notifications@wirb.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Your protocol 'Understanding Financial Behaviors in Underserved Communities' has been approved with minor modifications noted."
+    },
+    {
+      "id": "msg_8a4d1f9e3c7b",
+      "timestamp": "2024-06-05T20:00:00Z",
+      "subject": "2023 Tax return files ready for CPA",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Compiled everything in the shared folder. Charitable donations, mortgage interest, and your studio equipment receipts are all labeled."
+    },
+    {
+      "id": "msg_3f9c2e8b5a1d",
+      "timestamp": "2024-05-28T09:45:00Z",
+      "subject": "Boxes ready for pickup this weekend",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@brightwell.co"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Clearing out the garage. Have about twenty book boxes if you and Theo want them for the basement storage project."
+    },
+    {
+      "id": "msg_7b1e5a9c3f8d",
+      "timestamp": "2024-05-20T15:30:00Z",
+      "subject": "Sent: Research Proposal - Portland Art Museum",
+      "from": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Elena Vargas",
+          "email": "elena.vargas@portlandartmuseum.org"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Attached please find our proposal for the visitor experience study. Budget and timeline detailed in section 4."
+    },
+    {
+      "id": "msg_4c8f2e7b1d9a",
+      "timestamp": "2024-05-12T08:20:00Z",
+      "subject": "Loan application approved",
+      "from": {
+        "name": "OnPoint Community Credit Union",
+        "email": "lending@onpointcu.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Congratulations! Your home equity line of credit application has been approved. Rate locked at 7.25% for 60 months."
+    },
+    {
+      "id": "msg_9e3b8c5f2a1d",
+      "timestamp": "2024-05-03T13:15:00Z",
+      "subject": "Workshop feedback synthesis",
+      "from": {
+        "name": "Jordan Alvarez",
+        "email": "jordan.alvarez@studiocoop.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Here's the summary of participant feedback from last week's co-design workshop. Themes are attached in the spreadsheet."
+    },
+    {
+      "id": "msg_2d7a1f9e5c3b",
+      "timestamp": "2024-04-25T10:00:00Z",
+      "subject": "Cleaning appointment reminder",
+      "from": {
+        "name": "Laurelhurst Dentistry",
+        "email": "reminders@laurelhurstdentistry.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "This is a reminder of your cleaning appointment on May 2nd at 10:00 AM with Dr. Park. Please confirm."
+    },
+    {
+      "id": "msg_5f9c3e8b2a7d",
+      "timestamp": "2024-04-18T19:30:00Z",
+      "subject": "That curry recipe you asked about",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@greenfield.org"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Finally found it. Uses coconut cream instead of yogurt. Cooking time is longer than I remembered - 45 minutes."
+    },
+    {
+      "id": "msg_8a1e5c9f4b3d",
+      "timestamp": "2024-04-10T14:00:00Z",
+      "subject": "Accessibility audit results - Phase 1",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "We have 12 WCAG 2.1 violations in the participant portal. Priority fixes embedded in the report attached."
+    },
+    {
+      "id": "msg_3c7f2e9b5a1d",
+      "timestamp": "2024-03-28T09:10:00Z",
+      "subject": "Oliver's annual checkup reminder",
+      "from": {
+        "name": "Broadway Veterinary Hospital",
+        "email": "reminders@broadwayvetpdx.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Oliver is due for his annual exam and vaccinations. Available slots next week: Tuesday afternoon or Thursday morning."
+    },
+    {
+      "id": "msg_6e1a9c5f3b8d",
+      "timestamp": "2024-03-15T11:45:00Z",
+      "subject": "Budget cut - need to discuss",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "body_preview": "Finance just flagged a 15% reduction in our FY budget. We need to prioritize which Q2 studies to cut. Can you meet today?"
+    },
+    {
+      "id": "msg_9d4b8f2e1c5a",
+      "timestamp": "2024-03-02T16:20:00Z",
+      "subject": "Headshot proofs are ready",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@vertexdesign.net"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Gallery link expires Friday. I recommend the outdoor shots from the pearl district - natural light worked great with your complexion."
+    },
+    {
+      "id": "msg_2f8e5c1a9b7d",
+      "timestamp": "2024-02-14T12:00:00Z",
+      "subject": "Reservation at Canard",
+      "from": {
+        "name": "Theo Harris",
+        "email": "theo.harris@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "8 PM tonight. Wear the blue shirt. Love you."
+    },
+    {
+      "id": "msg_7c3a9f5e2b1d",
+      "timestamp": "2023-12-22T10:00:00Z",
+      "subject": "Year-end bonus notification",
+      "from": {
+        "name": "Cedar Grove Studio HR",
+        "email": "hr@cedargrovestudio.com"
+      },
+      "to": [
+        {
+          "name": "Marcus Bennett",
+          "email": "marcus.bennett@harborinbox.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "body_preview": "Your year-end performance bonus will be deposited December 29th. Thank you for your leadership this year."
+    }
+  ]
+}

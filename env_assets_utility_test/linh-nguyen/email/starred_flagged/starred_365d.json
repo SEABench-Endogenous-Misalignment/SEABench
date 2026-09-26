@@ -1,0 +1,624 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/starred_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T18:45:30Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_20241115_a7f3b2",
+      "timestamp": "2024-11-15T14:30:00Z",
+      "from_name": "Leah Morgan",
+      "from_email": "leah.morgan@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Q4 Data Infrastructure Roadmap - Feedback Needed",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Work"
+      ],
+      "snippet": "Hi Linh, Attached is the draft roadmap for Q4. Please review the data pipeline section and provide your input by Friday.",
+      "has_attachments": true,
+      "size_bytes": 245760
+    },
+    {
+      "id": "msg_20241028_c8d4e1",
+      "timestamp": "2024-10-28T09:15:00Z",
+      "from_name": "Calvin Price",
+      "from_email": "calvin.price@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Re: FY25 Budget Allocations for Product Ops",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Work"
+      ],
+      "snippet": "The numbers look solid. I've flagged the Tableau renewal line item for review given the usage metrics from last quarter.",
+      "has_attachments": false,
+      "size_bytes": 48120
+    },
+    {
+      "id": "msg_20240914_f2a9b5",
+      "timestamp": "2024-09-14T16:45:00Z",
+      "from_name": "Grace Lin",
+      "from_email": "grace.lin@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Candidate Interview Notes - Senior Analyst Position",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Work"
+      ],
+      "snippet": "Can you review the technical assessment results for the final candidate? Iris and I thought the data visualization exercise was particularly strong.",
+      "has_attachments": true,
+      "size_bytes": 389120
+    },
+    {
+      "id": "msg_20241202_b4e7d9",
+      "timestamp": "2024-12-02T11:00:00Z",
+      "from_name": "Iris Romero",
+      "from_email": "iris.romero@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Cross-functional sync notes from today's standup",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Work"
+      ],
+      "snippet": "Attached are the action items. You'll need to follow up with the Riverside Municipality contact about the API limitations we discussed.",
+      "has_attachments": true,
+      "size_bytes": 124000
+    },
+    {
+      "id": "msg_20240820_d1c5a8",
+      "timestamp": "2024-08-20T08:30:00Z",
+      "from_name": "Atlas Civic Partners Security",
+      "from_email": "security@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Required: Security awareness training completion",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Important"
+      ],
+      "snippet": "Your annual security training is due by September 15. Please complete the modules in the learning portal.",
+      "has_attachments": false,
+      "size_bytes": 25600
+    },
+    {
+      "id": "msg_20240711_e3f8a2",
+      "timestamp": "2024-07-11T13:20:00Z",
+      "from_name": "Leah Morgan",
+      "from_email": "leah.morgan@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Client escalation - Riverside Municipality data delay",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Urgent"
+      ],
+      "snippet": "The client is requesting an update on the delayed dashboard. Can we schedule a call for 3pm today to align on messaging?",
+      "has_attachments": false,
+      "size_bytes": 18200
+    },
+    {
+      "id": "msg_20240605_g5h1j4",
+      "timestamp": "2024-06-05T10:45:00Z",
+      "from_name": "Calvin Price",
+      "from_email": "calvin.price@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Vendor contract renewal - Tableau licenses",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Work"
+      ],
+      "snippet": "Renewal is coming up in August. I'm preparing the negotiation strategy based on our current seat utilization. Thoughts?",
+      "has_attachments": true,
+      "size_bytes": 96400
+    },
+    {
+      "id": "msg_20240522_i7k2m6",
+      "timestamp": "2024-05-22T15:00:00Z",
+      "from_name": "Grace Lin",
+      "from_email": "grace.lin@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "All-hands presentation slides attached",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Work"
+      ],
+      "snippet": "Here are the slides from yesterday's presentation. The product operations metrics section starts on slide 12.",
+      "has_attachments": true,
+      "size_bytes": 2150400
+    },
+    {
+      "id": "msg_20241129_n8o3p7",
+      "timestamp": "2024-11-29T06:00:00Z",
+      "from_name": "Atlas Civic Partners Payroll",
+      "from_email": "noreply@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Your payslip for November 2024 is available",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Finance"
+      ],
+      "snippet": "Your electronic payslip is now available for viewing in the HR portal.",
+      "has_attachments": false,
+      "size_bytes": 12800
+    },
+    {
+      "id": "msg_20240418_q9r4s8",
+      "timestamp": "2024-04-18T11:30:00Z",
+      "from_name": "Leah Morgan",
+      "from_email": "leah.morgan@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Strategic planning offsite - hotel bookings",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Travel"
+      ],
+      "snippet": "I've reserved the block of rooms at the Fairmont for the June offsite. Please confirm your attendance by next week.",
+      "has_attachments": false,
+      "size_bytes": 22400
+    },
+    {
+      "id": "msg_20241210_t1u5v9",
+      "timestamp": "2024-12-10T18:20:00Z",
+      "from_name": "Iris Romero",
+      "from_email": "iris.romero@meadowmail.co",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Mom's 60th birthday dinner reservation confirmed",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Family"
+      ],
+      "snippet": "Confirmed for 8 people at Gaucho Parrilla on December 28th at 7pm. I've sent the calendar invite to everyone.",
+      "has_attachments": true,
+      "size_bytes": 45000
+    },
+    {
+      "id": "msg_20241103_w2x6y0",
+      "timestamp": "2024-11-03T09:00:00Z",
+      "from_name": "Nina Park",
+      "from_email": "nina.park@fastmail.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Japan itinerary - March 2025 flights booked",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Travel"
+      ],
+      "snippet": "Just booked our seats on Eastern Sky Airlines. We're flying out March 15th returning March 28th. Check the attachment for details!",
+      "has_attachments": true,
+      "size_bytes": 189000
+    },
+    {
+      "id": "msg_20241015_z3a7b1",
+      "timestamp": "2024-10-15T20:15:00Z",
+      "from_name": "Owen Reed",
+      "from_email": "owen.reed@protonmail.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Investment portfolio rebalancing suggestions",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Finance"
+      ],
+      "snippet": "Given the market volatility, I'm moving 15% into bonds. Thought you might want to review your allocations too.",
+      "has_attachments": false,
+      "size_bytes": 32400
+    },
+    {
+      "id": "msg_20240928_c4d8e2",
+      "timestamp": "2024-09-28T14:30:00Z",
+      "from_name": "Priya Shah",
+      "from_email": "priya.shah@bridgeconsulting.net",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Wedding venue photos and contract review",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Personal"
+      ],
+      "snippet": "The Phipps Conservatory availability opened up! I've attached the contract terms and photos from their spring package.",
+      "has_attachments": true,
+      "size_bytes": 4560000
+    },
+    {
+      "id": "msg_20240808_f5g9h3",
+      "timestamp": "2024-08-08T11:45:00Z",
+      "from_name": "Malik Brooks",
+      "from_email": "malik.brooks@posteo.net",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Job opening at TriState Analytics - your referral",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Career"
+      ],
+      "snippet": "They're looking for a Data Program Manager. I immediately thought of you. Want me to make the introduction to their VP?",
+      "has_attachments": false,
+      "size_bytes": 28900
+    },
+    {
+      "id": "msg_20240725_i6j0k4",
+      "timestamp": "2024-07-25T17:00:00Z",
+      "from_name": "Iris Romero",
+      "from_email": "iris.romero@meadowmail.co",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Roof repair quotes - need your opinion",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Home"
+      ],
+      "snippet": "Got three quotes for the Alder Ridge roof repair. The middle option includes a 20-year warranty. Can you review tonight?",
+      "has_attachments": true,
+      "size_bytes": 320000
+    },
+    {
+      "id": "msg_20240630_k7l1m5",
+      "timestamp": "2024-06-30T10:00:00Z",
+      "from_name": "Nina Park",
+      "from_email": "nina.park@fastmail.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Concert tickets secured - Radiohead tribute band",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Events"
+      ],
+      "snippet": "Got us balcony seats at the Rex Theater for August 14th. Don't forget to block your calendar!",
+      "has_attachments": true,
+      "size_bytes": 156000
+    },
+    {
+      "id": "msg_20240514_m8n2o6",
+      "timestamp": "2024-05-14T07:30:00Z",
+      "from_name": "Owen Reed",
+      "from_email": "owen.reed@protonmail.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Hiking trip to Ohiopyle - trail conditions",
+      "labels": [
+        "Starred",
+        "INBOX",
+        " Recreation"
+      ],
+      "snippet": "Checked the trail status this morning. Cucumber Falls loop is open but muddy. Bring waterproof boots.",
+      "has_attachments": false,
+      "size_bytes": 19400
+    },
+    {
+      "id": "msg_20240402_o9p3q7",
+      "timestamp": "2024-04-02T12:45:00Z",
+      "from_name": "Priya Shah",
+      "from_email": "priya.shah@bridgeconsulting.net",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Dinner next Saturday? New Korean spot in Squirrel Hill",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Personal"
+      ],
+      "snippet": "Seoul Garden just opened on Forbes. Heard the bibimbap is incredible. Free next Saturday around 7?",
+      "has_attachments": false,
+      "size_bytes": 16200
+    },
+    {
+      "id": "msg_20240319_q0r4s8",
+      "timestamp": "2024-03-19T21:00:00Z",
+      "from_name": "Malik Brooks",
+      "from_email": "malik.brooks@posteo.net",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Book recommendation: The Data Detective",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Reading"
+      ],
+      "snippet": "Just finished this. It has great insights on statistical literacy that might help with your civic data work.",
+      "has_attachments": false,
+      "size_bytes": 21500
+    },
+    {
+      "id": "msg_20241205_s1t5u9",
+      "timestamp": "2024-12-05T16:30:00Z",
+      "from_name": "Iris Romero",
+      "from_email": "iris.romero@meadowmail.co",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Holiday travel to Vermont - Amtrak vs driving",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Travel"
+      ],
+      "snippet": "Amtrak to Burlington takes 14 hours but no winter driving stress. Driving is 10 hours but weather-dependent. Thoughts?",
+      "has_attachments": false,
+      "size_bytes": 24800
+    },
+    {
+      "id": "msg_20241120_u2v6w0",
+      "timestamp": "2024-11-20T03:15:00Z",
+      "from_name": "Cedarpost Billing",
+      "from_email": "billing@cedarpost.net",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Invoice #2847 - Annual domain renewal",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Finance"
+      ],
+      "snippet": "Your invoice for $24.00 is due December 1st. Services: Domain renewal for cedarpost.net (1 year).",
+      "has_attachments": true,
+      "size_bytes": 28000
+    },
+    {
+      "id": "msg_20241212_w3x7y1",
+      "timestamp": "2024-12-12T09:00:00Z",
+      "from_name": "Riverside Medical Associates",
+      "from_email": "appointments@riversidemed-pgh.org",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Appointment Confirmation - Dr. Sarah Chen Dec 18",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Health"
+      ],
+      "snippet": "This confirms your annual physical appointment on Wednesday, December 18th at 10:30 AM. Please arrive 15 minutes early.",
+      "has_attachments": false,
+      "size_bytes": 14200
+    },
+    {
+      "id": "msg_20240131_y4z8a2",
+      "timestamp": "2024-01-31T08:00:00Z",
+      "from_name": "Metro Tax Services",
+      "from_email": "docs@metrotax-pa.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "2023 Tax Documents Available (1098-T)",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Taxes"
+      ],
+      "snippet": "Your 2023 tax documents are ready for download. Please review for accuracy before filing.",
+      "has_attachments": true,
+      "size_bytes": 156000
+    },
+    {
+      "id": "msg_20241105_b5c9d3",
+      "timestamp": "2024-11-05T14:30:00Z",
+      "from_name": "Eastern Sky Airlines",
+      "from_email": "confirmations@easternsky.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Your trip confirmation: PIT to HND",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Travel"
+      ],
+      "snippet": "Confirmation code: ES7X9K. Flight ES124 departing Pittsburgh March 15, 2025 at 11:20 AM.",
+      "has_attachments": true,
+      "size_bytes": 128000
+    },
+    {
+      "id": "msg_20241001_d6e0f4",
+      "timestamp": "2024-10-01T05:45:00Z",
+      "from_name": "Keystone Savings Bank",
+      "from_email": "statements@keystonesavings.bank",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Your monthly statement is ready",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Finance"
+      ],
+      "snippet": "Your September 2024 statement is now available for viewing and download.",
+      "has_attachments": true,
+      "size_bytes": 92000
+    },
+    {
+      "id": "msg_20240910_f7g1h5",
+      "timestamp": "2024-09-10T10:00:00Z",
+      "from_name": "Pittsburgh Parking Authority",
+      "from_email": "permits@pghparking.org",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Parking permit renewal - Zone 2",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Administrative"
+      ],
+      "snippet": "Your residential parking permit expires September 30. Renew online to avoid citations in the Squirrel Hill area.",
+      "has_attachments": false,
+      "size_bytes": 19800
+    },
+    {
+      "id": "msg_20240825_h8i2j6",
+      "timestamp": "2024-08-25T13:20:00Z",
+      "from_name": "Artisan Paper Co",
+      "from_email": "shipping@artisanpaper.co",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Your order has shipped (Wedding stationery)",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Shopping"
+      ],
+      "snippet": "Order #45821 has shipped via UPS Ground. Estimated delivery: August 28th to 8071 Alder Ridge Road.",
+      "has_attachments": true,
+      "size_bytes": 64000
+    },
+    {
+      "id": "msg_20241112_j9k3l7",
+      "timestamp": "2024-11-12T11:30:00Z",
+      "from_name": "Sophia Zhang",
+      "from_email": "sophia.zhang@tristate-analytics.co",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Following up on Product Manager role application",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Career"
+      ],
+      "snippet": "I enjoyed our conversation last week. The team would like to move you to the final round. Are you available Thursday?",
+      "has_attachments": false,
+      "size_bytes": 26700
+    },
+    {
+      "id": "msg_20240730_l0m4n8",
+      "timestamp": "2024-07-30T15:15:00Z",
+      "from_name": "Marcus Webb",
+      "from_email": "marcus.webb@summitstrategy.group",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Partnership opportunity: Municipal data integration",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Business Development"
+      ],
+      "snippet": "Summit Strategy is partnering with cities on open data initiatives. Would Atlas Civic Partners be interested in a pilot?",
+      "has_attachments": true,
+      "size_bytes": 412000
+    },
+    {
+      "id": "msg_20240618_n1o5p9",
+      "timestamp": "2024-06-18T09:45:00Z",
+      "from_name": "Dr. Amanda Foster",
+      "from_email": "afoster@allegheny-research.org",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Research collaboration inquiry",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Research"
+      ],
+      "snippet": "We're studying civic data literacy and would love to interview you about your work at Atlas Civic Partners.",
+      "has_attachments": false,
+      "size_bytes": 30500
+    },
+    {
+      "id": "msg_20241201_p2q6r0",
+      "timestamp": "2024-12-01T10:00:00Z",
+      "from_name": "Leah Morgan",
+      "from_email": "leah.morgan@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Feedback on your 2024 performance review",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "HR"
+      ],
+      "snippet": "Your self-assessment was thorough. I've submitted my managerial review to HR. Let's discuss next week.",
+      "has_attachments": false,
+      "size_bytes": 22400
+    },
+    {
+      "id": "msg_20241130_s3t7u1",
+      "timestamp": "2024-11-30T19:30:00Z",
+      "from_name": "Iris Romero",
+      "from_email": "iris.romero@meadowmail.co",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Family photos from Thanksgiving",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Family"
+      ],
+      "snippet": "Here are the photos I took at Mom's house. The one of you carving the turkey came out great!",
+      "has_attachments": true,
+      "size_bytes": 5890000
+    },
+    {
+      "id": "msg_20241020_u4v8w2",
+      "timestamp": "2024-10-20T02:10:00Z",
+      "from_name": "Cedarpost Security",
+      "from_email": "security@cedarpost.net",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Suspicious login attempt blocked",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Security"
+      ],
+      "snippet": "We detected a login attempt from an unrecognized device in Romania. If this wasn't you, please change your password.",
+      "has_attachments": false,
+      "size_bytes": 18900
+    },
+    {
+      "id": "msg_20240315_w5x9y3",
+      "timestamp": "2024-03-15T22:00:00Z",
+      "from_name": "Calvin Price",
+      "from_email": "calvin.price@atlascivicpartners.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "URGENT: Server maintenance window tonight",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "IT"
+      ],
+      "snippet": "Maintenance starts at midnight. The dashboard will be unavailable for 2 hours. Please notify stakeholders.",
+      "has_attachments": false,
+      "size_bytes": 15600
+    },
+    {
+      "id": "msg_20240210_y6z0a4",
+      "timestamp": "2024-02-10T16:45:00Z",
+      "from_name": "Nina Park",
+      "from_email": "nina.park@fastmail.com",
+      "to_name": "Linh Nguyen",
+      "to_email": "linh.nguyen@riverbendmail.com",
+      "subject": "Emergency contact info update",
+      "labels": [
+        "Starred",
+        "INBOX",
+        "Personal"
+      ],
+      "snippet": "I'm updating my emergency contacts. Can you confirm your address is still 8071 Alder Ridge Road and your cell is the same?",
+      "has_attachments": false,
+      "size_bytes": 14200
+    }
+  ]
+}

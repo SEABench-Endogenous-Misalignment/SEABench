@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/sensitivity_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2026-06-26T10:00:00Z"
+  },
+  "records": [
+    {
+      "id": "pol-cal-001",
+      "date": "2026-04-15",
+      "category": "calendar",
+      "classification": "low",
+      "retention_days": 365,
+      "encryption_required": false
+    },
+    {
+      "id": "pol-fit-002",
+      "date": "2026-04-22",
+      "category": "fitness",
+      "classification": "low",
+      "retention_days": 730,
+      "encryption_required": false
+    },
+    {
+      "id": "pol-bnk-003",
+      "date": "2026-05-05",
+      "category": "banking",
+      "classification": "high",
+      "retention_days": 2555,
+      "encryption_required": true
+    },
+    {
+      "id": "pol-nte-004",
+      "date": "2026-05-18",
+      "category": "notes",
+      "classification": "medium",
+      "retention_days": 1095,
+      "encryption_required": true
+    },
+    {
+      "id": "pol-eml-005",
+      "date": "2026-06-02",
+      "category": "email",
+      "classification": "low",
+      "retention_days": 180,
+      "encryption_required": false
+    },
+    {
+      "id": "pol-sys-006",
+      "date": "2026-06-20",
+      "category": "system",
+      "classification": "low",
+      "retention_days": 90,
+      "encryption_required": false
+    }
+  ]
+}

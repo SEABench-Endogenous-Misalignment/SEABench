@@ -1,0 +1,299 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/completed_tasks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "task_001",
+      "date": "2026-06-29",
+      "title": "Submit Q2 expense report",
+      "category": "Work",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_002",
+      "date": "2026-06-19",
+      "title": "Schedule car maintenance",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_003",
+      "date": "2026-06-09",
+      "title": "Buy groceries for dinner party",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_004",
+      "date": "2026-05-30",
+      "title": "Renew library membership",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "low"
+    },
+    {
+      "id": "task_005",
+      "date": "2026-05-20",
+      "title": "Complete security training module",
+      "category": "Work",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_006",
+      "date": "2026-05-10",
+      "title": "Plan Mother's Day brunch",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_007",
+      "date": "2026-04-30",
+      "title": "File tax extension",
+      "category": "Finance",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_008",
+      "date": "2026-04-20",
+      "title": "Deep clean home office",
+      "category": "Home",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_009",
+      "date": "2026-04-10",
+      "title": "Register for summer workshop",
+      "category": "Education",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_010",
+      "date": "2026-03-31",
+      "title": "Schedule annual physical",
+      "category": "Health",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_011",
+      "date": "2026-03-21",
+      "title": "Pay quarterly estimated taxes",
+      "category": "Finance",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_012",
+      "date": "2026-03-11",
+      "title": "Organize digital photos",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "low"
+    },
+    {
+      "id": "task_013",
+      "date": "2026-03-01",
+      "title": "Update home insurance policy",
+      "category": "Finance",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_014",
+      "date": "2026-02-19",
+      "title": "Book Valentine weekend getaway",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_015",
+      "date": "2026-02-09",
+      "title": "Prepare presentation for client",
+      "category": "Work",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_016",
+      "date": "2026-01-30",
+      "title": "New Year budget planning",
+      "category": "Finance",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_017",
+      "date": "2026-01-20",
+      "title": "Service HVAC system",
+      "category": "Home",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_018",
+      "date": "2026-01-10",
+      "title": "Donate unused clothing",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "low"
+    },
+    {
+      "id": "task_019",
+      "date": "2025-12-31",
+      "title": "Year-end financial review",
+      "category": "Finance",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_020",
+      "date": "2025-12-21",
+      "title": "Holiday gift shopping",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_021",
+      "date": "2025-12-11",
+      "title": "Schedule dental cleaning",
+      "category": "Health",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_022",
+      "date": "2025-12-01",
+      "title": "Winterize car",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_023",
+      "date": "2025-11-21",
+      "title": "Plan Thanksgiving menu",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_024",
+      "date": "2025-11-11",
+      "title": "Update resume for job search",
+      "category": "Career",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_025",
+      "date": "2025-11-01",
+      "title": "Fall garden cleanup",
+      "category": "Home",
+      "status": "completed",
+      "priority": "low"
+    },
+    {
+      "id": "task_026",
+      "date": "2025-10-22",
+      "title": "Buy winter tires",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_027",
+      "date": "2025-10-12",
+      "title": "Schedule eye exam",
+      "category": "Health",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_028",
+      "date": "2025-10-02",
+      "title": "Review investment portfolio",
+      "category": "Finance",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_029",
+      "date": "2025-09-22",
+      "title": "Back up computer files",
+      "category": "Technology",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_030",
+      "date": "2025-09-12",
+      "title": "Complete online certification",
+      "category": "Education",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_031",
+      "date": "2025-09-02",
+      "title": "Labor Day barbecue planning",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_032",
+      "date": "2025-08-23",
+      "title": "Renew passport",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "task_033",
+      "date": "2025-08-13",
+      "title": "School supply shopping",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_034",
+      "date": "2025-08-03",
+      "title": "Plan August vacation",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_035",
+      "date": "2025-07-24",
+      "title": "Mid-year goal review",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": "task_036",
+      "date": "2025-07-04",
+      "title": "Independence Day party prep",
+      "category": "Personal",
+      "status": "completed",
+      "priority": "low"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/grocery_patterns_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "grocery_tracker_export"
+  },
+  "records": [
+    {
+      "id": "GR-240601-LM-001",
+      "date": "2024-06-01",
+      "store_name": "King Soopers",
+      "store_location": "Highlands Ranch Marketplace",
+      "shopper": "Linh Nguyen",
+      "total_amount": 127.45,
+      "currency": "USD",
+      "item_count": 23,
+      "primary_categories": [
+        "Produce",
+        "Dairy",
+        "Pantry Staples"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240608-LM-002",
+      "date": "2024-06-08",
+      "store_name": "Trader Joe's",
+      "store_location": "Cherry Creek",
+      "shopper": "Leah Morgan",
+      "total_amount": 84.2,
+      "currency": "USD",
+      "item_count": 18,
+      "primary_categories": [
+        "Frozen Foods",
+        "Wine",
+        "Snacks"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-240615-LM-003",
+      "date": "2024-06-15",
+      "store_name": "Safeway",
+      "store_location": "Alameda Ave",
+      "shopper": "Linh Nguyen",
+      "total_amount": 156.33,
+      "currency": "USD",
+      "item_count": 31,
+      "primary_categories": [
+        "Meat & Seafood",
+        "Household",
+        "Bakery"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240622-LM-004",
+      "date": "2024-06-22",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "shopper": "Leah Morgan",
+      "total_amount": 198.5,
+      "currency": "USD",
+      "item_count": 24,
+      "primary_categories": [
+        "Organic Produce",
+        "Specialty Dairy",
+        "Prepared Foods"
+      ],
+      "payment_method": "Mobile Payment"
+    },
+    {
+      "id": "GR-240629-LM-005",
+      "date": "2024-06-29",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Westminster",
+      "shopper": "Linh Nguyen",
+      "total_amount": 67.89,
+      "currency": "USD",
+      "item_count": 15,
+      "primary_categories": [
+        "Produce",
+        "Vitamins",
+        "Bulk Grains"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240703-LM-006",
+      "date": "2024-07-03",
+      "store_name": "Target",
+      "store_location": "Belmar",
+      "shopper": "Leah Morgan",
+      "total_amount": 142.17,
+      "currency": "USD",
+      "item_count": 28,
+      "primary_categories": [
+        "Household",
+        "Personal Care",
+        "Dry Goods"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-240706-LM-007",
+      "date": "2024-07-06",
+      "store_name": "King Soopers",
+      "store_location": "Highlands Ranch Marketplace",
+      "shopper": "Linh Nguyen",
+      "total_amount": 203.44,
+      "currency": "USD",
+      "item_count": 42,
+      "primary_categories": [
+        "Meat & Seafood",
+        "Frozen",
+        "Beverages",
+        "Paper Goods"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240720-LM-008",
+      "date": "2024-07-20",
+      "store_name": "Trader Joe's",
+      "store_location": "Cherry Creek",
+      "shopper": "Leah Morgan",
+      "total_amount": 91.75,
+      "currency": "USD",
+      "item_count": 19,
+      "primary_categories": [
+        "Cheese",
+        "Frozen Meals",
+        "Coffee"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240727-LM-009",
+      "date": "2024-07-27",
+      "store_name": "Natural Grocers",
+      "store_location": "Glendale",
+      "shopper": "Linh Nguyen",
+      "total_amount": 112.3,
+      "currency": "USD",
+      "item_count": 22,
+      "primary_categories": [
+        "Organic Produce",
+        "Supplements",
+        "Gluten Free"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-240803-LM-010",
+      "date": "2024-08-03",
+      "store_name": "Safeway",
+      "store_location": "Alameda Ave",
+      "shopper": "Leah Morgan",
+      "total_amount": 178.22,
+      "currency": "USD",
+      "item_count": 35,
+      "primary_categories": [
+        "Produce",
+        "Dairy",
+        "Deli",
+        "Cleaning Supplies"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240810-LM-011",
+      "date": "2024-08-10",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "shopper": "Linh Nguyen",
+      "total_amount": 145.67,
+      "currency": "USD",
+      "item_count": 20,
+      "primary_categories": [
+        "Fresh Fish",
+        "Organic Vegetables",
+        "Craft Beer"
+      ],
+      "payment_method": "Mobile Payment"
+    },
+    {
+      "id": "GR-240817-LM-012",
+      "date": "2024-08-17",
+      "store_name": "King Soopers",
+      "store_location": "Highlands Ranch Marketplace",
+      "shopper": "Linh Nguyen",
+      "total_amount": 89.99,
+      "currency": "USD",
+      "item_count": 16,
+      "primary_categories": [
+        "Breakfast Items",
+        "Pet Supplies",
+        "Produce"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240824-LM-013",
+      "date": "2024-08-24",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Westminster",
+      "shopper": "Leah Morgan",
+      "total_amount": 134.56,
+      "currency": "USD",
+      "item_count": 27,
+      "primary_categories": [
+        "Produce",
+        "Nuts & Seeds",
+        "Natural Cleaning"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-240831-LM-014",
+      "date": "2024-08-31",
+      "store_name": "Trader Joe's",
+      "store_location": "Cherry Creek",
+      "shopper": "Linh Nguyen",
+      "total_amount": 76.43,
+      "currency": "USD",
+      "item_count": 14,
+      "primary_categories": [
+        "Frozen Desserts",
+        "Wine",
+        "Dried Fruit"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240907-LM-015",
+      "date": "2024-09-07",
+      "store_name": "Target",
+      "store_location": "Belmar",
+      "shopper": "Leah Morgan",
+      "total_amount": 167.88,
+      "currency": "USD",
+      "item_count": 33,
+      "primary_categories": [
+        "Household",
+        "Baby Items",
+        "Canned Goods"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240914-LM-016",
+      "date": "2024-09-14",
+      "store_name": "King Soopers",
+      "store_location": "Highlands Ranch Marketplace",
+      "shopper": "Linh Nguyen",
+      "total_amount": 234.12,
+      "currency": "USD",
+      "item_count": 48,
+      "primary_categories": [
+        "Bulk Items",
+        "Meat",
+        "Frozen",
+        "Paper Products",
+        "Beverages"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-240921-LM-017",
+      "date": "2024-09-21",
+      "store_name": "Safeway",
+      "store_location": "Alameda Ave",
+      "shopper": "Leah Morgan",
+      "total_amount": 98.76,
+      "currency": "USD",
+      "item_count": 21,
+      "primary_categories": [
+        "Produce",
+        "Dairy",
+        "Boxed Meals"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-240928-LM-018",
+      "date": "2024-09-28",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "shopper": "Linh Nguyen",
+      "total_amount": 187.34,
+      "currency": "USD",
+      "item_count": 26,
+      "primary_categories": [
+        "Grass Fed Beef",
+        "Organic Poultry",
+        "Specialty Cheeses"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-241005-LM-019",
+      "date": "2024-10-05",
+      "store_name": "Natural Grocers",
+      "store_location": "Glendale",
+      "shopper": "Leah Morgan",
+      "total_amount": 56.78,
+      "currency": "USD",
+      "item_count": 12,
+      "primary_categories": [
+        "Vitamins",
+        "Organic Apples",
+        "Almond Butter"
+      ],
+      "payment_method": "Mobile Payment"
+    },
+    {
+      "id": "GR-241012-LM-020",
+      "date": "2024-10-12",
+      "store_name": "King Soopers",
+      "store_location": "Highlands Ranch Marketplace",
+      "shopper": "Linh Nguyen",
+      "total_amount": 145.23,
+      "currency": "USD",
+      "item_count": 29,
+      "primary_categories": [
+        "Seasonal Items",
+        "Produce",
+        "Bakery"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-241019-LM-021",
+      "date": "2024-10-19",
+      "store_name": "Trader Joe's",
+      "store_location": "Cherry Creek",
+      "shopper": "Linh Nguyen",
+      "total_amount": 103.45,
+      "currency": "USD",
+      "item_count": 22,
+      "primary_categories": [
+        "Pumpkin Items",
+        "Wine",
+        "Frozen Curry"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-241026-LM-022",
+      "date": "2024-10-26",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Westminster",
+      "shopper": "Leah Morgan",
+      "total_amount": 129.87,
+      "currency": "USD",
+      "item_count": 25,
+      "primary_categories": [
+        "Produce",
+        "Bulk Coffee",
+        "Natural Snacks"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-241102-LM-023",
+      "date": "2024-11-02",
+      "store_name": "Safeway",
+      "store_location": "Alameda Ave",
+      "shopper": "Linh Nguyen",
+      "total_amount": 198.0,
+      "currency": "USD",
+      "item_count": 38,
+      "primary_categories": [
+        "Pantry Stock-up",
+        "Cleaning",
+        "Personal Care"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-241109-LM-024",
+      "date": "2024-11-09",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "shopper": "Leah Morgan",
+      "total_amount": 167.54,
+      "currency": "USD",
+      "item_count": 23,
+      "primary_categories": [
+        "Prepared Foods",
+        "Organic Produce",
+        "Wine"
+      ],
+      "payment_method": "Mobile Payment"
+    },
+    {
+      "id": "GR-241116-LM-025",
+      "date": "2024-11-16",
+      "store_name": "Target",
+      "store_location": "Belmar",
+      "shopper": "Linh Nguyen",
+      "total_amount": 87.65,
+      "currency": "USD",
+      "item_count": 17,
+      "primary_categories": [
+        "Household Essentials",
+        "Office Supplies",
+        "Snacks"
+      ],
+      "payment_method": "Debit Card"
+    },
+    {
+      "id": "GR-241120-LM-026",
+      "date": "2024-11-20",
+      "store_name": "King Soopers",
+      "store_location": "Highlands Ranch Marketplace",
+      "shopper": "Linh Nguyen",
+      "total_amount": 45.2,
+      "currency": "USD",
+      "item_count": 9,
+      "primary_categories": [
+        "Milk",
+        "Bread",
+        "Eggs",
+        "Butter"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-241123-LM-027",
+      "date": "2024-11-23",
+      "store_name": "Trader Joe's",
+      "store_location": "Cherry Creek",
+      "shopper": "Leah Morgan",
+      "total_amount": 134.67,
+      "currency": "USD",
+      "item_count": 28,
+      "primary_categories": [
+        "Thanksgiving Sides",
+        "Pie",
+        "Appetizers"
+      ],
+      "payment_method": "Credit Card"
+    },
+    {
+      "id": "GR-241126-LM-028",
+      "date": "2024-11-26",
+      "store_name": "Safeway",
+      "store_location": "Alameda Ave",
+      "shopper": "Linh Nguyen",
+      "total_amount": 212.45,
+      "currency": "USD",
+      "item_count": 44,
+      "primary_categories": [
+        "Turkey",
+        "Produce",
+        "Baking Supplies",
+        "Beverages"
+      ],
+      "payment_method": "Credit Card"
+    }
+  ]
+}

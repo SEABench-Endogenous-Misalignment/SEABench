@@ -1,0 +1,300 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/quick_notes/notes_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T18:45:32Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "note_7f3a9b2c",
+      "timestamp": "2024-07-21T09:15:00-05:00",
+      "title": "Grocery run - Sunday",
+      "content": "Milk, eggs, sourdough bread, avocados, coffee beans (Ethiopian), dish soap. Check if Grace needs anything from the co-op.",
+      "tags": [
+        "shopping",
+        "household"
+      ]
+    },
+    {
+      "id": "note_a8e4d1f5",
+      "timestamp": "2024-07-18T14:30:00-05:00",
+      "title": "Platform Design retro notes",
+      "content": "Key takeaway from Q2 review: loading state animations need consistency across mobile web. Sync with Iris Romero on component library updates before Aug sprint.",
+      "tags": [
+        "work",
+        "cedar-grove",
+        "design"
+      ]
+    },
+    {
+      "id": "note_2b5c8e1a",
+      "timestamp": "2024-07-15T20:45:00-05:00",
+      "title": "Book rec from Nina",
+      "content": "Nina Park suggested 'The Ministry of Time' - sci-fi romance with time travel bureaucracy. Check if available at Madison Public Library or grab on Kindle.",
+      "tags": [
+        "reading",
+        "friends"
+      ]
+    },
+    {
+      "id": "note_9d4f7e3b",
+      "timestamp": "2024-07-10T08:00:00-05:00",
+      "title": "Rent reminder",
+      "content": "Transfer $950 to Grace for July rent. Use Zelle to grace.lin@harborinbox.com or Venmo. Confirm utilities split ($47 electric).",
+      "tags": [
+        "finance",
+        "household"
+      ]
+    },
+    {
+      "id": "note_1c6a3d8f",
+      "timestamp": "2024-07-05T12:20:00-05:00",
+      "title": "Owen's birthday ideas",
+      "content": "Ideas for Owen Reed - vintage vinyl (check B-Side Records on State St), craft beer tasting at The Vintage, or outdoor gear from Fontana Sports. Party on 8/3?",
+      "tags": [
+        "gifts",
+        "friends",
+        "events"
+      ]
+    },
+    {
+      "id": "note_e5b2a9c4",
+      "timestamp": "2024-06-28T16:45:00-05:00",
+      "title": "Meeting prep template tweak",
+      "content": "Calvin Price requested we add 'decision owner' column to our standup notes. Update the shared doc template before next Tuesday's sync.",
+      "tags": [
+        "work",
+        "process"
+      ]
+    },
+    {
+      "id": "note_4d8f1e7a",
+      "timestamp": "2024-06-25T11:10:00-05:00",
+      "title": "Dentist appointment",
+      "content": "Dr. Henderson - Aug 14th at 10am. 5240 E Terrace Dr, Suite 200. They confirmed via text to +1-608-609-9005.",
+      "tags": [
+        "health",
+        "appointments"
+      ]
+    },
+    {
+      "id": "note_3a9c5b2e",
+      "timestamp": "2024-06-20T19:30:00-05:00",
+      "title": "Recipe: summer pasta",
+      "content": "Cherry tomatoes, garlic, basil, burrata. Roast tomatoes at 400°F for 20 min. Toss with fresh pasta and good olive oil. Save for dinner with Priya Shah next week?",
+      "tags": [
+        "cooking",
+        "recipes"
+      ]
+    },
+    {
+      "id": "note_f7e2d8c1",
+      "timestamp": "2024-06-15T07:45:00-05:00",
+      "title": "Quote from article",
+      "content": "'The best product managers are translators, not dictators.' - need to find the source article for team meeting. Think it was from Intercom blog or First Round Review.",
+      "tags": [
+        "work",
+        "quotes",
+        "pm"
+      ]
+    },
+    {
+      "id": "note_b5a3f9d2",
+      "timestamp": "2024-06-10T13:15:00-05:00",
+      "title": "Q3 roadmap checkpoint",
+      "content": "Milestone check: API integration delayed by 1 week. Need to flag risk to Leah Morgan before Friday leadership review. Mobile release still on track.",
+      "tags": [
+        "work",
+        "planning"
+      ]
+    },
+    {
+      "id": "note_8c4e1a6b",
+      "timestamp": "2024-06-05T21:00:00-05:00",
+      "title": "Weekend trip idea",
+      "content": "Door County with Grace? Look at Airbnb in Fish Creek for Labor Day weekend. Check ferry schedules to Washington Island.",
+      "tags": [
+        "travel",
+        "weekend"
+      ]
+    },
+    {
+      "id": "note_2e7f9c5a",
+      "timestamp": "2024-05-28T10:30:00-05:00",
+      "title": "Standing desk research",
+      "content": "Fully Jarvis vs Uplift V2. Both have good reviews. Measure home office space - max width 48 inches. Budget ~$600.",
+      "tags": [
+        "home-office",
+        "shopping"
+      ]
+    },
+    {
+      "id": "note_9a3d8f4c",
+      "timestamp": "2024-05-20T15:45:00-05:00",
+      "title": "Gift for Priya",
+      "content": "Art supplies - she mentioned wanting to try gouache. Check Blick on University Ave or order from dickblick.com. Maybe get her that ceramic palette too.",
+      "tags": [
+        "gifts",
+        "friends"
+      ]
+    },
+    {
+      "id": "note_6b2e5a9f",
+      "timestamp": "2024-05-15T09:00:00-05:00",
+      "title": "HVAC filter",
+      "content": "Change furnace filter. Size 16x25x4. Last changed in March. Buy extras at Menards on Mineral Point Rd.",
+      "tags": [
+        "home",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "note_1d8c3f7e",
+      "timestamp": "2024-05-10T18:20:00-05:00",
+      "title": "Running goal",
+      "content": "Target: 15 miles/week for June. Current avg: 11. Routes: Arboretum loop (3.5mi) or Capital City Trail (4mi). Register for Mad City 10K by June 1st.",
+      "tags": [
+        "fitness",
+        "health"
+      ]
+    },
+    {
+      "id": "note_5f9a2b4d",
+      "timestamp": "2024-05-05T12:00:00-05:00",
+      "title": "Budget calc - June",
+      "content": "Rent $950, utilities ~$120, groceries $400, gym $45, subscriptions $35. Remaining for discretionary: check after 401k contribution.",
+      "tags": [
+        "finance",
+        "budget"
+      ]
+    },
+    {
+      "id": "note_c4e7b1a8",
+      "timestamp": "2024-04-28T20:15:00-05:00",
+      "title": "Movie rec",
+      "content": "Malik Brooks recommended 'Past Lives' - A24 film about childhood friends reconnecting. Playing at Sundance Cinemas or streaming on Paramount+.",
+      "tags": [
+        "movies",
+        "friends"
+      ]
+    },
+    {
+      "id": "note_7a3f9e2b",
+      "timestamp": "2024-04-20T11:30:00-05:00",
+      "title": "Leah's contact",
+      "content": "Leah Morgan - leah.morgan@cedargrovestudio.com. Mobile +1-608-742-8812. Preferred contact Slack during work hours, text only for urgent blockers.",
+      "tags": [
+        "work",
+        "contacts"
+      ]
+    },
+    {
+      "id": "note_e8c5a1f4",
+      "timestamp": "2024-04-15T14:00:00-05:00",
+      "title": "Design principle thought",
+      "content": "Micro-interactions should clarify, not decorate. If the animation doesn't communicate state change, it's noise. Review with Platform Design team.",
+      "tags": [
+        "work",
+        "design",
+        "ux"
+      ]
+    },
+    {
+      "id": "note_3b9e7d2a",
+      "timestamp": "2024-04-10T16:30:00-05:00",
+      "title": "Confirmation: UW Credit Union",
+      "content": "Appointment confirmed for mortgage pre-approval discussion. April 22, 2pm. Bring W2s and recent statements. Reference #CU-78291.",
+      "tags": [
+        "finance",
+        "appointments"
+      ]
+    },
+    {
+      "id": "note_f2c8e5b1",
+      "timestamp": "2024-03-28T10:45:00-05:00",
+      "title": "Team building idea",
+      "content": "Escape room for Cedar Grove Studio Platform team? Enigma Escape Rooms on Regent St. Check availability for 8 people (me, Leah, Calvin, Iris, +4).",
+      "tags": [
+        "work",
+        "team",
+        "planning"
+      ]
+    },
+    {
+      "id": "note_9e5a3c7f",
+      "timestamp": "2024-03-20T19:00:00-05:00",
+      "title": "Malik's bday",
+      "content": "May 12th. He likes single malt scotch and jazz. Maybe tickets to Jazz at Five concert series? Or vinyl from Strictly Discs on Monroe St.",
+      "tags": [
+        "gifts",
+        "friends",
+        "reminders"
+      ]
+    },
+    {
+      "id": "note_4d1b8e6a",
+      "timestamp": "2024-03-15T08:30:00-05:00",
+      "title": "Email Calvin",
+      "content": "Follow up on API documentation. He promised the OpenAPI spec by Wed. elena.morales@cedargrovestudio.com needs to send reminder by EOD.",
+      "tags": [
+        "work",
+        "tasks"
+      ]
+    },
+    {
+      "id": "note_b7f3e9c2",
+      "timestamp": "2024-03-10T13:00:00-05:00",
+      "title": "Plant shopping",
+      "content": "Snake plant for bedroom (low light). Maybe a pothos for kitchen shelf. Check Westside Gardens on Nakoma Rd. Call ahead: +1-608-238-9775.",
+      "tags": [
+        "home",
+        "shopping",
+        "plants"
+      ]
+    },
+    {
+      "id": "note_a6c4f8e3",
+      "timestamp": "2024-02-28T17:15:00-06:00",
+      "title": "Insurance renewal",
+      "content": "Auto insurance renews March 15. Current provider: American Family. Shop around? Progressive quote requested. Deductible $500. Policy #AF-338291.",
+      "tags": [
+        "finance",
+        "insurance"
+      ]
+    },
+    {
+      "id": "note_2f9e5b8d",
+      "timestamp": "2024-02-20T09:45:00-06:00",
+      "title": "Coffee meet with Owen",
+      "content": "Scholar's Coffee Shop, 3pm Thursday. Discuss his startup idea. He wants feedback on pricing model. Bring notebook.",
+      "tags": [
+        "meetings",
+        "friends"
+      ]
+    },
+    {
+      "id": "note_c8a1f7e4",
+      "timestamp": "2024-02-15T20:30:00-06:00",
+      "title": "Password hint",
+      "content": "Netflix login hint: 'city where I met Grace + favorite number'. Not the actual password - just a reminder clue.",
+      "tags": [
+        "passwords",
+        "personal"
+      ]
+    },
+    {
+      "id": "note_5e3b9a2f",
+      "timestamp": "2024-01-25T12:00:00-06:00",
+      "title": "Concert tickets",
+      "content": "Wilco at Sylvee on June 8th. Buy 2 tickets - one for me, one for Grace? Or ask Nina Park if she wants to go. Check Ticketmaster.",
+      "tags": [
+        "events",
+        "music",
+        "friends"
+      ]
+    }
+  ]
+}

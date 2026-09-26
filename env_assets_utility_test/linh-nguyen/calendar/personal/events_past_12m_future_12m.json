@@ -1,0 +1,948 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/personal/events_past_12m_future_12m.json",
+    "time_span": "rolling 24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "7c9a3b12-8f45-4d2e-9c7a-1b3d5f7e9a8c",
+      "title": "Q1 2024 Planning Session",
+      "start_time": "2024-01-10T09:00:00-05:00",
+      "end_time": "2024-01-10T12:00:00-05:00",
+      "location": "Atlas Civic Partners, Conference Room A",
+      "description": "Quarterly strategic planning for Product Operations",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "a8d5e9f1-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
+      "title": "Dental Cleaning",
+      "start_time": "2024-01-18T08:30:00-05:00",
+      "end_time": "2024-01-18T09:30:00-05:00",
+      "location": "Shadyside Dental Associates, 5800 Baum Blvd",
+      "description": "Routine cleaning with Dr. Park",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "b2c4d6e8-0f1a-2b3c-4d5e-6f7a8b9c0d1e",
+      "title": "Dinner with Nina",
+      "start_time": "2024-01-30T19:00:00-05:00",
+      "end_time": "2024-01-30T21:00:00-05:00",
+      "location": "Gaucho Parrilla Argentina, 1601 Penn Ave",
+      "description": "Catch-up dinner",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@designwest.io"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "c4e6g8i0-2k4l-6m8n-0o2p-4q6r8s0t2u4v",
+      "title": "Project Phoenix Kickoff",
+      "start_time": "2024-02-20T14:00:00-05:00",
+      "end_time": "2024-02-20T15:30:00-05:00",
+      "location": "Atlas Civic Partners, Innovation Lab",
+      "description": "Initial planning for new civic data initiative",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@atlascivicpartners.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "d5f7h9j1-3l5m-7n9o-1q3r-5s7t9u1v3w5x",
+      "title": "Annual Physical Examination",
+      "start_time": "2024-02-22T09:00:00-05:00",
+      "end_time": "2024-02-22T10:00:00-05:00",
+      "location": "UPMC Magee-Womens Hospital, 300 Halket St",
+      "description": "Yearly check-up with Dr. Henderson",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "e6g8i0k2-4m6o-8p0q-2r4s-6t8u0v2w4x6y",
+      "title": "Performance Review",
+      "start_time": "2024-03-15T11:00:00-04:00",
+      "end_time": "2024-03-15T12:00:00-04:00",
+      "location": "Atlas Civic Partners, Leah's Office",
+      "description": "Annual 1:1 performance discussion",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "f7h9j1l3-5n7p-9q1r-3s5t-7u9v1w3x5y7z",
+      "title": "Morning Hike - Frick Park",
+      "start_time": "2024-03-16T09:00:00-04:00",
+      "end_time": "2024-03-16T12:00:00-04:00",
+      "location": "Frick Park Environmental Center",
+      "description": "Trail hiking with Owen",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@techflow.org"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "g8i0k2m4-6o8q-0r2s-4t6u-8v0w2x4y6z8a",
+      "title": "Car Maintenance",
+      "start_time": "2024-03-28T16:00:00-04:00",
+      "end_time": "2024-03-28T18:00:00-04:00",
+      "location": "Baum Boulevard Auto Service",
+      "description": "Oil change and tire rotation",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "h9j1l3n5-7p9r-1s3t-5u7v-9w1x3y5z7a9b",
+      "title": "Advanced Analytics Training",
+      "start_time": "2024-04-03T10:00:00-04:00",
+      "end_time": "2024-04-03T12:00:00-04:00",
+      "location": "Atlas Civic Partners, Training Room C",
+      "description": "Workshop on new Tableau features",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "i0k2m4o6-8q0s-2t4u-6v8w-0x2y4z6a8b0c",
+      "title": "Therapy Session",
+      "start_time": "2024-04-25T17:00:00-04:00",
+      "end_time": "2024-04-25T18:00:00-04:00",
+      "location": "Downtown Therapy Center, 401 Liberty Ave",
+      "description": "Bi-weekly appointment",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "j1l3n5p7-9r1t-3u5v-7w9x-1y3z5a7b9c1d",
+      "title": "Civic Data Client Check-in",
+      "start_time": "2024-05-08T13:00:00-04:00",
+      "end_time": "2024-05-08T14:00:00-04:00",
+      "location": "Zoom Meeting",
+      "description": "Mid-project review with city stakeholders",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "k2m4o6q8-0s2u-4v6w-8x0y-2z4a6b8c0d2e",
+      "title": "Haircut Appointment",
+      "start_time": "2024-05-14T17:30:00-04:00",
+      "end_time": "2024-05-14T18:30:00-04:00",
+      "location": "Bloom Salon, 3718 Fifth Ave",
+      "description": "Regular trim",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "l3n5p7r9-1t3v-5w7x-9y1z-3a5b7c9d1e3f",
+      "title": "Concert - The War on Drugs",
+      "start_time": "2024-05-21T20:00:00-04:00",
+      "end_time": "2024-05-21T23:00:00-04:00",
+      "location": "Stage AE, 400 North Shore Dr",
+      "description": "Live music with Priya",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@urbanarch.studio"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "m4o6q8s0-2u4w-6x8y-0z2a-4b6c8d0e2f4g",
+      "title": "Strategy Offsite",
+      "start_time": "2024-06-12T09:00:00-04:00",
+      "end_time": "2024-06-12T17:00:00-04:00",
+      "location": "Ace Hotel Pittsburgh",
+      "description": "Full-day strategic planning retreat",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "n5p7r9t1-3v5x-7y9z-1a3b-5c7d9e1f3g5h",
+      "title": "Game Night",
+      "start_time": "2024-07-13T19:00:00-04:00",
+      "end_time": "2024-07-13T23:00:00-04:00",
+      "location": "8071 Alder Ridge Road",
+      "description": "Board games and pizza",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@silverbirch.llc"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "o6q8s0u2-4w6y-8z0a-2b4c-6d8e0f2g4h6i",
+      "title": "Product Ops Team Lunch",
+      "start_time": "2024-07-19T12:00:00-04:00",
+      "end_time": "2024-07-19T13:30:00-04:00",
+      "location": "Conflict Kitchen, Schenley Plaza",
+      "description": "Monthly team outing",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@atlascivicpartners.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "p7r9t1v3-5x7z-9a1b-3c5d-7e9f1g3h5i7j",
+      "title": "1:1 with Grace",
+      "start_time": "2024-08-07T10:00:00-04:00",
+      "end_time": "2024-08-07T10:30:00-04:00",
+      "location": "Atlas Civic Partners, Grace's Office",
+      "description": "Bi-weekly sync",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "q8s0u2w4-6y8a-0b2c-4d6e-8f0g2h4i6j8k",
+      "title": "Iris Birthday Dinner",
+      "start_time": "2024-08-11T19:00:00-04:00",
+      "end_time": "2024-08-11T21:00:00-04:00",
+      "location": "Morcilla, 3518 Fifth Ave",
+      "description": "Celebrating sibling's birthday",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "r9t1v3x5-7z9b-1c3d-5e7f-9g1h3i5j7k9l",
+      "title": "Q3 Budget Review",
+      "start_time": "2024-09-09T14:00:00-04:00",
+      "end_time": "2024-09-09T15:30:00-04:00",
+      "location": "Atlas Civic Partners, Finance Wing",
+      "description": "Department budget allocation discussion",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "s0u2w4y6-8a0c-2d4e-6f8g-0h2i4j6k8l0m",
+      "title": "Book Club - Trust",
+      "start_time": "2024-09-24T19:00:00-04:00",
+      "end_time": "2024-09-24T21:00:00-04:00",
+      "location": "8071 Alder Ridge Road",
+      "description": "Discussing Hernan Diaz novel",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@designwest.io"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@urbanarch.studio"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "t1v3x5z7-9b1d-3e5f-7g9h-1i3j5k7l9m1n",
+      "title": "NYC Weekend Trip",
+      "start_time": "2024-10-05T08:00:00-04:00",
+      "end_time": "2024-10-07T20:00:00-04:00",
+      "location": "New York, NY",
+      "description": "Weekend getaway",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "u2w4y6a8-0c2e-4f6g-8h0i-2j4k6l8m0n2o",
+      "title": "Q4 2024 Planning Session",
+      "start_time": "2024-10-15T10:00:00-04:00",
+      "end_time": "2024-10-15T12:00:00-04:00",
+      "location": "Atlas Civic Partners, Conference Room B",
+      "description": "Quarterly planning for Product Operations",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "v3x5z7b9-1d3f-5g7h-9i1j-3k5l7m9n1o3p",
+      "title": "Flight to Boston",
+      "start_time": "2024-11-15T06:30:00-05:00",
+      "end_time": "2024-11-15T08:30:00-05:00",
+      "location": "Pittsburgh International Airport",
+      "description": "PIT to BOS for conference",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "w4y6a8c0-2e4g-6h8i-0j2k-4l6m8n0o2p4q",
+      "title": "Sprint Retrospective",
+      "start_time": "2024-11-22T14:00:00-05:00",
+      "end_time": "2024-11-22T15:00:00-05:00",
+      "location": "Atlas Civic Partners, Zoom Room 2",
+      "description": "End of sprint review",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "x5z7b9d1-3f5h-7i9j-1k3l-5m7n9o1p3q5r",
+      "title": "Thanksgiving Dinner",
+      "start_time": "2024-11-28T16:00:00-05:00",
+      "end_time": "2024-11-28T20:00:00-05:00",
+      "location": "8071 Alder Ridge Road",
+      "description": "Family dinner",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "y6a8c0e2-4g6i-8j0k-2l4m-6n8o0p2q4r6s",
+      "title": "Holiday Shopping",
+      "start_time": "2024-12-14T10:00:00-05:00",
+      "end_time": "2024-12-14T14:00:00-05:00",
+      "location": "Downtown Pittsburgh",
+      "description": "Gift shopping with Iris",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "z7b9d1f3-5h7j-9k1l-3m5n-7o9p1q3r5s7t",
+      "title": "New Year Dinner",
+      "start_time": "2025-01-01T18:00:00-05:00",
+      "end_time": "2025-01-01T21:00:00-05:00",
+      "location": "Fish nor Fowl, 5528 Walnut St",
+      "description": "Celebrating with sibling",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "a8c0e2g4-6i8k-0l2m-4n6o-8p0q2r4s6t8u",
+      "title": "1:1 with Leah",
+      "start_time": "2025-01-08T09:00:00-05:00",
+      "end_time": "2025-01-08T09:30:00-05:00",
+      "location": "Atlas Civic Partners, Zoom Room 1",
+      "description": "Weekly manager check-in",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "b9d1f3h5-7j9l-1m3n-5o7p-9q1r3s5t7u9v",
+      "title": "Product Operations Sync",
+      "start_time": "2025-02-12T13:00:00-05:00",
+      "end_time": "2025-02-12T14:00:00-05:00",
+      "location": "Atlas Civic Partners, Main Conference Room",
+      "description": "Cross-functional team alignment",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@atlascivicpartners.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "c0e2g4i6-8k0m-2n4o-6p8q-0r2s4t6u8v0w",
+      "title": "Dinner with Nina",
+      "start_time": "2025-02-18T19:00:00-05:00",
+      "end_time": "2025-02-18T21:00:00-05:00",
+      "location": "Dinette, 5996 Centre Ave",
+      "description": "Birthday celebration dinner",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@designwest.io"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "d1f3h5j7-9l1n-3o5p-7q9r-1s3t5u7v9w1x",
+      "title": "Tax Preparation Appointment",
+      "start_time": "2025-02-22T14:00:00-05:00",
+      "end_time": "2025-02-22T15:00:00-05:00",
+      "location": "H&R Block, 4200 Fifth Ave",
+      "description": "Annual tax filing",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "e2g4i6k8-0m2o-4p6q-8r0s-2t4u6v8w0x2y",
+      "title": "All-Hands Meeting",
+      "start_time": "2025-03-05T10:00:00-05:00",
+      "end_time": "2025-03-05T11:30:00-05:00",
+      "location": "Atlas Civic Partners, Town Hall",
+      "description": "Company-wide quarterly update",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "f3h5j7l9-1n3p-5q7r-9s1t-3u5v7w9x1y3z",
+      "title": "Sunday Brunch",
+      "start_time": "2025-03-09T11:00:00-04:00",
+      "end_time": "2025-03-09T13:00:00-04:00",
+      "location": "Coca Cafe, 3811 Fifth Ave",
+      "description": "Sibling brunch",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "g4i6k8m0-2o4q-6r8s-0t2u-4v6w8x0y2z4a",
+      "title": "Mom's Birthday Call",
+      "start_time": "2025-04-05T19:00:00-04:00",
+      "end_time": "2025-04-05T19:30:00-04:00",
+      "location": "Phone",
+      "description": "Remider to call mom",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "h5j7l9n1-3p5r-7s9t-1u3v-5w7x9y1z3a5b",
+      "title": "Hiking - North Park",
+      "start_time": "2025-04-13T10:00:00-04:00",
+      "end_time": "2025-04-13T14:00:00-04:00",
+      "location": "North Park, Irwin",
+      "description": "Spring hiking with Owen",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@techflow.org"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "i6k8m0o2-4q6s-8t0u-2v4w-6x8y0z2a4b6c",
+      "title": "Data Program Review",
+      "start_time": "2025-04-17T15:00:00-04:00",
+      "end_time": "2025-04-17T16:00:00-04:00",
+      "location": "Atlas Civic Partners, Conference Room C",
+      "description": "Mid-quarter progress review",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "j7l9n1p3-5r7t-9u1v-3w5x-7y9z1a3b5c7d",
+      "title": "Seattle Conference",
+      "start_time": "2025-04-22T07:00:00-04:00",
+      "end_time": "2025-04-25T20:00:00-04:00",
+      "location": "Seattle, WA",
+      "description": "Data visualization conference",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "work"
+    },
+    {
+      "id": "k8m0o2q4-6s8u-0v2w-4x6y-8z0a2b4c6d8e",
+      "title": "Memorial Day Cookout",
+      "start_time": "2025-05-26T15:00:00-04:00",
+      "end_time": "2025-05-26T19:00:00-04:00",
+      "location": "Schenley Park, Pittsburgh",
+      "description": "BBQ with family",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "l9n1p3r5-7t9v-1w3x-5y7z-9a1b3c5d7e9f",
+      "title": "Eye Examination",
+      "start_time": "2025-06-10T10:00:00-04:00",
+      "end_time": "2025-06-10T11:00:00-04:00",
+      "location": "Eyetique Squirrel Hill, 5827 Forbes Ave",
+      "description": "Annual vision check",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "m0o2q4s6-8u0w-2x4y-6z8a-0b2c4d6e8f0g",
+      "title": "Summer Trip Planning",
+      "start_time": "2025-06-21T10:00:00-04:00",
+      "end_time": "2025-06-21T12:00:00-04:00",
+      "location": "8071 Alder Ridge Road",
+      "description": "Planning session with Iris",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "n1p3r5t7-9v1x-3y5z-7a9b-1c3d5e7f9g1h",
+      "title": "Theater - Hamlet",
+      "start_time": "2025-06-28T19:30:00-04:00",
+      "end_time": "2025-06-28T22:30:00-04:00",
+      "location": "O'Reilly Theater, 621 Penn Ave",
+      "description": "Pittsburgh Public Theater with Priya",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@urbanarch.studio"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "o2q4s6u8-0w2y-4z6a-8b0c-2d4e6f8g0h2i",
+      "title": "California Visit",
+      "start_time": "2025-07-08T18:00:00-04:00",
+      "end_time": "2025-07-15T22:00:00-04:00",
+      "location": "San Francisco, CA",
+      "description": "Visiting friends",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "p3r5t7v9-1x3z-5a7b-9c1d-3e5f7g9h1i3j",
+      "title": "Dental Checkup",
+      "start_time": "2025-07-15T08:00:00-04:00",
+      "end_time": "2025-07-15T09:00:00-04:00",
+      "location": "Shadyside Dental Associates",
+      "description": "Six-month cleaning",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "q4s6u8w0-2y4a-6b8c-0d2e-4f6g8h0i2j4k",
+      "title": "Board Game Cafe",
+      "start_time": "2025-08-16T14:00:00-04:00",
+      "end_time": "2025-08-16T18:00:00-04:00",
+      "location": "Games Unlimited, 411 S Craig St",
+      "description": "Afternoon gaming with Malik",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@silverbirch.llc"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "r5t7v9x1-3z5b-7c9d-1e3f-5g7h9i1j3k5l",
+      "title": "Annual Physical",
+      "start_time": "2025-08-20T09:30:00-04:00",
+      "end_time": "2025-08-20T10:30:00-04:00",
+      "location": "UPMC Magee-Womens Hospital",
+      "description": "Yearly check-up",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "s6u8w0y2-4a6c-8d0e-2f4g-6h8i0j2k4l6m",
+      "title": "Vehicle Inspection",
+      "start_time": "2025-09-12T14:00:00-04:00",
+      "end_time": "2025-09-12T15:00:00-04:00",
+      "location": "PennDOT Inspection Station, 300 Liberty Ave",
+      "description": "Annual state inspection",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "t7v9x2z3-5b7d-9e1f-3g5h-7i9j1k3l5m7n",
+      "title": "Therapy Session",
+      "start_time": "2025-10-30T17:00:00-04:00",
+      "end_time": "2025-10-30T18:00:00-04:00",
+      "location": "Downtown Therapy Center",
+      "description": "Bi-weekly appointment",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    },
+    {
+      "id": "u8w0y2a4-6c8e-0f2g-4h6i-8j0k2l4m6n8o",
+      "title": "Apartment Lease Renewal",
+      "start_time": "2025-11-30T09:00:00-05:00",
+      "end_time": "2025-11-30T09:30:00-05:00",
+      "location": "Online Portal",
+      "description": "Review and sign new lease",
+      "attendees": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar": "personal"
+    }
+  ]
+}

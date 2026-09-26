@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/notification_history_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T16:30:00Z",
+    "source": "unified_notification_sync"
+  },
+  "records": [
+    {
+      "id": "ntf_a7b3c9d2",
+      "timestamp": "2024-11-25T09:15:00-07:00",
+      "source_app": "calendar",
+      "category": "event_reminder",
+      "title": "Meeting in 15 minutes: Q4 Roadmap Sync",
+      "body": "With Calvin Price and Grace Lin in Conference Room B",
+      "read_status": true,
+      "interaction": "opened"
+    },
+    {
+      "id": "ntf_b8d4e0f3",
+      "timestamp": "2024-11-24T18:30:00-07:00",
+      "source_app": "messages",
+      "category": "personal_message",
+      "title": "Leah Morgan",
+      "body": "Running late at the clinic. Can you grab sourdough at Highlands Market on your way home?",
+      "read_status": true,
+      "interaction": "replied"
+    },
+    {
+      "id": "ntf_c9e5f1a4",
+      "timestamp": "2024-11-22T14:45:00-07:00",
+      "source_app": "mail",
+      "category": "email",
+      "title": "New email from Calvin Price",
+      "body": "RE: Product Operations Budget Review - Q4 Final Numbers Attached",
+      "read_status": false,
+      "interaction": null
+    },
+    {
+      "id": "ntf_d0f6a2b5",
+      "timestamp": "2024-11-20T08:00:00-07:00",
+      "source_app": "health_calendar",
+      "category": "appointment_reminder",
+      "title": "Upcoming Appointment Tomorrow",
+      "body": "Dental cleaning with Dr. Sarah Chen at 10:00 AM, Peak Dental Arts",
+      "read_status": true,
+      "interaction": "confirmed"
+    },
+    {
+      "id": "ntf_e1a7b3c6",
+      "timestamp": "2024-11-18T19:12:00-07:00",
+      "source_app": "alpine_courier",
+      "category": "delivery",
+      "title": "Package Delivered",
+      "body": "Left at front door. Order #8392-LL from Riverbend Books. No signature required.",
+      "read_status": true,
+      "interaction": "dismissed"
+    },
+    {
+      "id": "ntf_f2b8c4d7",
+      "timestamp": "2024-11-15T11:30:00-07:00",
+      "source_app": "rmcu_mobile",
+      "category": "transaction_alert",
+      "title": "Debit Card Transaction",
+      "body": "$42.50 at Highlands Market. Available balance: $3,247.89",
+      "read_status": true,
+      "interaction": null
+    },
+    {
+      "id": "ntf_3c9d5e8f",
+      "timestamp": "2024-11-14T09:00:00-07:00",
+      "source_app": "flysummit",
+      "category": "travel",
+      "title": "Check-in Now Available",
+      "body": "Flight SA 427 Denver (DEN) to Portland (PDX) on Nov 21. Select your seat and get your boarding pass.",
+      "read_status": true,
+      "interaction": "opened"
+    },
+    {
+      "id": "ntf_4d0e6f9a",
+      "timestamp": "2024-11-12T15:20:00-07:00",
+      "source_app": "brightline_chat",
+      "category": "mention",
+      "title": "Iris Romero mentioned you",
+      "body": "In #product-ops: '@Linh Nguyen can you review the Q1 headcount projections by EOD?'",
+      "read_status": true,
+      "interaction": "viewed"
+    },
+    {
+      "id": "ntf_5e1f7a0b",
+      "timestamp": "2024-11-10T10:45:00-07:00",
+      "source_app": "security_center",
+      "category": "security_alert",
+      "title": "New Sign-in Detected",
+      "body": "Chrome on Windows 11 from Denver, CO. If this wasn't you, review your account security.",
+      "read_status": true,
+      "interaction": "verified"
+    },
+    {
+      "id": "ntf_6f2a8b1c",
+      "timestamp": "2024-11-08T17:15:00-07:00",
+      "source_app": "calendar",
+      "category": "event_reminder",
+      "title": "Anniversary Dinner Reservation",
+      "body": "Tonight at 7:30 PM at Café Margot. Table for 2 confirmed.",
+      "read_status": true,
+      "interaction": "opened"
+    },
+    {
+      "id": "ntf_7a3b9c2d",
+      "timestamp": "2024-11-05T13:30:00-07:00",
+      "source_app": "mail",
+      "category": "billing",
+      "title": "New invoice from Mile High Plumbing",
+      "body": "Amount due: $185.00 for service on Oct 28. Pay by Nov 20, 2024.",
+      "read_status": true,
+      "interaction": "archived"
+    },
+    {
+      "id": "ntf_8b4c0d3e",
+      "timestamp": "2024-11-02T08:45:00-06:00",
+      "source_app": "system_preferences",
+      "category": "system_update",
+      "title": "macOS Sonoma 14.6.1 Update Available",
+      "body": "Security improvements and bug fixes. Install now or schedule for tonight.",
+      "read_status": true,
+      "interaction": "scheduled"
+    }
+  ]
+}

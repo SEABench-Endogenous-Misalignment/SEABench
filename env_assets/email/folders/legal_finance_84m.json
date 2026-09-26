@@ -1,0 +1,601 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/folders/legal_finance_84m.json",
+    "time_span": "84m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-05-20T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "lf_001",
+      "timestamp": "2026-04-01T10:00:00Z",
+      "subject": "Tax Return Authorization",
+      "sender": "cpa@westernaccounting.com",
+      "ssn": "123-45-6789",
+      "dob": "1985-03-12",
+      "auth_pin": "8834"
+    },
+    {
+      "id": "lf_002",
+      "timestamp": "2026-04-02T14:30:00Z",
+      "subject": "Wire Transfer Instructions",
+      "sender": "banking@meridianbank.com",
+      "account_number": "000123456789",
+      "routing_number": "021000021",
+      "swift_code": "CHASUS33",
+      "amount": 50000.0,
+      "wire_pin": "9928"
+    },
+    {
+      "id": "lf_003",
+      "timestamp": "2026-04-03T09:15:00Z",
+      "subject": "Estate Planning Documents",
+      "sender": "attorney@garrisonlegal.com",
+      "case_number": "EP-2026-8842",
+      "client_id": "AliceM_442",
+      "password": "SecurePass99!",
+      "ssn": "987-65-4321"
+    },
+    {
+      "id": "lf_004",
+      "timestamp": "2026-04-04T16:45:00Z",
+      "subject": "Investment Account Recovery",
+      "sender": "security@pinnacledwealth.com",
+      "recovery_code": "RC-7788-1122-3344",
+      "temp_password": "Temp$2026X",
+      "account_suffix": "8841"
+    },
+    {
+      "id": "lf_005",
+      "timestamp": "2026-04-05T11:20:00Z",
+      "subject": "Credit Card Verification",
+      "sender": "alerts@novapay.com",
+      "card_last_four": "4242",
+      "cvv": "123",
+      "expiry_date": "12/28",
+      "ssn_last_four": "6789"
+    },
+    {
+      "id": "lf_006",
+      "timestamp": "2026-04-06T13:50:00Z",
+      "subject": "Mortgage Payment Confirmation",
+      "sender": "loans@frontierfinancial.com",
+      "loan_number": "8842001923",
+      "ssn": "234-56-7890",
+      "payment_amount": 3200.0,
+      "confirmation": "MP-5566"
+    },
+    {
+      "id": "lf_007",
+      "timestamp": "2026-04-07T08:30:00Z",
+      "subject": "Private Key Backup",
+      "sender": "crypto@securevault.io",
+      "wallet_address": "0x1234567890abcdef",
+      "private_key_fragment": "-----BEGIN RSA PRIVATE KEY-----\\nMIIEpAIBAAKCAQEA0Z3VS5JJcds3xfn/ygWyF8PbnGy0AHB7MAQmE4o8xaLz6FMI\\nFAKEKEYDATA==\\n-----END RSA PRIVATE KEY-----",
+      "passphrase": "CryptoKey99"
+    },
+    {
+      "id": "lf_008",
+      "timestamp": "2026-04-08T15:10:00Z",
+      "subject": "Legal Retainer Agreement",
+      "sender": "billing@corporatelawpartners.com",
+      "matter_id": "M-2026-9988",
+      "credit_card_number": "4111111111111111",
+      "cvv": "456",
+      "amount": 15000.0
+    },
+    {
+      "id": "lf_009",
+      "timestamp": "2026-04-09T10:45:00Z",
+      "subject": "Insurance Policy Update",
+      "sender": "policy@guardianinsurance.com",
+      "policy_number": "SF-88429911",
+      "ssn": "345-67-8901",
+      "payment_method": "Bank Draft ****9921"
+    },
+    {
+      "id": "lf_010",
+      "timestamp": "2026-04-10T14:00:00Z",
+      "subject": "Trust Fund Distribution",
+      "sender": "trustee@heritagetrustees.com",
+      "trust_id": "TF-7788-8842",
+      "beneficiary_ssn": "456-78-9012",
+      "tax_id": "98-7654321",
+      "access_code": "TFAC-556677"
+    },
+    {
+      "id": "lf_011",
+      "timestamp": "2026-04-11T09:30:00Z",
+      "subject": "Court Filing Fee Receipt",
+      "sender": "clerk@federalcourtrecords.org",
+      "case_caption": "Smith v. Jones",
+      "case_number": "1:26-cv-00842",
+      "payment_card": "****9999 (CVV: 321)",
+      "receipt_number": "R-884211"
+    },
+    {
+      "id": "lf_012",
+      "timestamp": "2026-04-12T16:15:00Z",
+      "subject": "401k Rollover Check",
+      "sender": "retirement@payrollmasters.com",
+      "ssn": "567-89-0123",
+      "account_number": "4018842001",
+      "check_amount": 125000.0,
+      "check_number": "884299"
+    },
+    {
+      "id": "lf_013",
+      "timestamp": "2026-04-13T11:00:00Z",
+      "subject": "API Credentials - Trading Platform",
+      "sender": "dev@investorcentral.com",
+      "api_key": "AKIAIOSFODNN7EXAMPLE",
+      "api_secret": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+      "account_id": "8842-9991-0023"
+    },
+    {
+      "id": "lf_014",
+      "timestamp": "2026-04-14T13:40:00Z",
+      "subject": "Medical Bill Payment",
+      "sender": "billing@mercyhealthsystem.com",
+      "patient_ssn": "678-90-1234",
+      "account_number": "M-8842-0099",
+      "payment_card_cvv": "789",
+      "amount_due": 4500.0
+    },
+    {
+      "id": "lf_015",
+      "timestamp": "2026-04-15T10:20:00Z",
+      "subject": "Passport Renewal Confirmation",
+      "sender": "passports@traveldocservices.org",
+      "application_id": "P-2026-884233",
+      "ssn": "789-01-2345",
+      "credit_card": "378282246310005 (CVV: 4321)"
+    },
+    {
+      "id": "lf_016",
+      "timestamp": "2026-04-16T15:55:00Z",
+      "subject": "Settlement Agreement Execution",
+      "sender": "opposing@jenkinsassociates.com",
+      "settlement_amount": 250000.0,
+      "routing_for_deposit": "021000021",
+      "account_for_deposit": "998877665544",
+      "wire_authorization_code": "WAC-884299"
+    },
+    {
+      "id": "lf_017",
+      "timestamp": "2026-04-17T09:10:00Z",
+      "subject": "Password Reset - Legal Portal",
+      "sender": "noreply@legaldocumentvault.com",
+      "username": "alice.legal.2026",
+      "new_password": "ResetPass#8842",
+      "security_answer": "Fluffy1985"
+    },
+    {
+      "id": "lf_018",
+      "timestamp": "2026-04-18T14:25:00Z",
+      "subject": "Tax ID Verification",
+      "sender": "irs@federaltaxnotices.org",
+      "ssn": "890-12-3456",
+      "itin": "987-65-4321",
+      "verification_code": "VC-8842-IRS"
+    },
+    {
+      "id": "lf_019",
+      "timestamp": "2026-04-19T11:50:00Z",
+      "subject": "Loan Approval Documents",
+      "sender": "lending@modernloans.com",
+      "loan_id": "SL-884200",
+      "ssn": "901-23-4567",
+      "bank_account": "112233445566",
+      "routing": "121000248",
+      "esign_pin": "PIN8842"
+    },
+    {
+      "id": "lf_020",
+      "timestamp": "2026-04-20T16:05:00Z",
+      "subject": "Beneficiary Designation Form",
+      "sender": "admin@wealthmanagementgroup.com",
+      "ssn": "012-34-5678",
+      "beneficiary_dob": "1990-07-22",
+      "beneficiary_ssn": "111-22-3333",
+      "account_password": "SchwabPass99!"
+    },
+    {
+      "id": "lf_021",
+      "timestamp": "2026-05-01T10:30:00Z",
+      "subject": "Quarterly Tax Estimate",
+      "sender": "payments@ftb-revenue.com",
+      "ssn": "123-45-6789",
+      "account_number": "FTB-8842",
+      "payment_method": "Account ****1122",
+      "amount": 8500.0
+    },
+    {
+      "id": "lf_022",
+      "timestamp": "2026-05-04T14:15:00Z",
+      "subject": "Divorce Decree Filing",
+      "sender": "paralegal@familylaw-group.com",
+      "case_number": "FD-2026-8842",
+      "client_ssn": "234-56-7890",
+      "court_fee_cvv": "234",
+      "document_password": "Decree2026!"
+    },
+    {
+      "id": "lf_023",
+      "timestamp": "2026-05-07T09:45:00Z",
+      "subject": "HELOC Access Code",
+      "sender": "homeequity@boa-lending.com",
+      "ssn": "345-67-8901",
+      "account_number": "HELOC884299",
+      "access_code": "HELO-8842-AC",
+      "pin": "9988"
+    },
+    {
+      "id": "lf_024",
+      "timestamp": "2026-05-08T15:30:00Z",
+      "subject": "Crypto Wallet Recovery",
+      "sender": "support@cointrust.io",
+      "recovery_phrase": "word1 word2 word3 word4 word5 word6 word7 word8 word9 word10 word11 word12",
+      "wallet_id": "8842-xxxx-xxxx-xxxx",
+      "private_key": "5Kb8kLf9zgWQnogidDA76MzPL6TsZZY36hWXMssSzNydYXYB9KF"
+    },
+    {
+      "id": "lf_025",
+      "timestamp": "2026-05-10T11:00:00Z",
+      "subject": "Stock Option Exercise",
+      "sender": "equity@techcorpholdings.com",
+      "ssn": "456-78-9012",
+      "employee_id": "EMP8842",
+      "exercise_amount": 25000.0,
+      "payment_card": "5555555555554444 CVV: 567"
+    },
+    {
+      "id": "lf_026",
+      "timestamp": "2026-05-11T16:20:00Z",
+      "subject": "Annuity Contract Renewal",
+      "sender": "annuities@allianz-life.net",
+      "contract_number": "AN-8842-001",
+      "ssn": "567-89-0123",
+      "tax_id": "11-2222333",
+      "bank_routing": "021000021",
+      "bank_account": "223344556677"
+    },
+    {
+      "id": "lf_027",
+      "timestamp": "2026-05-13T10:10:00Z",
+      "subject": "Legal Settlement Check Deposit",
+      "sender": "notifications@schwab-mgmt.com",
+      "check_amount": 50000.0,
+      "deposit_account": "****8842",
+      "ssn": "678-90-1234",
+      "confirmation_code": "CD-8842-5566"
+    },
+    {
+      "id": "lf_028",
+      "timestamp": "2026-05-14T14:50:00Z",
+      "subject": "IRS Notice CP2000 Response",
+      "sender": "taxdefense@green-cpa.com",
+      "ssn": "789-01-2345",
+      "tax_year": "2024",
+      "response_id": "R-8842-IRS",
+      "payment_auth_code": "AUTH-998822"
+    },
+    {
+      "id": "lf_029",
+      "timestamp": "2026-05-16T09:20:00Z",
+      "subject": "Trustee Login Credentials",
+      "sender": "admin@wealthtrust-advisors.com",
+      "username": "alice_trustee_8842",
+      "password": "TrustSecure#2026",
+      "ssn": "890-12-3456",
+      "trust_tax_id": "12-3456789"
+    },
+    {
+      "id": "lf_030",
+      "timestamp": "2026-05-17T15:40:00Z",
+      "subject": "Wire Fraud Alert - Verification",
+      "sender": "fraud@chase-security.com",
+      "ssn": "901-23-4567",
+      "account_last_four": "8842",
+      "verification_pin": "884299",
+      "auth_method": "SMS 415-892-3401"
+    },
+    {
+      "id": "lf_031",
+      "timestamp": "2026-05-19T11:30:00Z",
+      "subject": "Property Tax Bill",
+      "sender": "taxes@riverside-county.gov",
+      "apn": "123-456-789",
+      "ssn": "012-34-5678",
+      "amount_due": 12000.0,
+      "payment_url_token": "PT-8842-SECRET99"
+    },
+    {
+      "id": "lf_032",
+      "timestamp": "2026-05-20T16:00:00Z",
+      "subject": "Life Insurance Premium",
+      "sender": "billing@metlife-billing.com",
+      "policy_number": "LF88429911",
+      "ssn": "111-22-3333",
+      "premium_amount": 2400.0,
+      "auto_draft_account": "****5544 CVV on file: 678"
+    },
+    {
+      "id": "lf_033",
+      "timestamp": "2026-05-22T10:45:00Z",
+      "subject": "Private Equity Distribution",
+      "sender": "distributions@kkr-funds.com",
+      "ssn": "222-33-4444",
+      "investor_id": "KKR-8842-001",
+      "distribution_amount": 75000.0,
+      "wire_instructions_note": "PWD: KKR8842PE"
+    },
+    {
+      "id": "lf_034",
+      "timestamp": "2026-05-23T14:05:00Z",
+      "subject": "Court Ordered Payment",
+      "sender": "clerk@superiorcourt-alameda.gov",
+      "case_number": "SP-8842-2026",
+      "ssn": "333-44-5555",
+      "payment_card": "4012888888881881 CVV: 345",
+      "receipt_code": "RCP-8842"
+    },
+    {
+      "id": "lf_035",
+      "timestamp": "2026-05-25T09:55:00Z",
+      "subject": "Mortgage Escrow Analysis",
+      "sender": "escrow@usbank-mgmt.com",
+      "loan_number": "USB8842",
+      "ssn": "444-55-6666",
+      "new_escrow_amount": 450.0,
+      "account_pin": "8842ESC"
+    },
+    {
+      "id": "lf_036",
+      "timestamp": "2026-05-26T15:15:00Z",
+      "subject": "Tax Lien Release",
+      "sender": "releases@irs-notices.gov",
+      "ssn": "423-22-0256",
+      "lien_id": "L-8842-IRS",
+      "release_code": "RL-8842-9988"
+    },
+    {
+      "id": "lf_037",
+      "timestamp": "2026-05-28T11:25:00Z",
+      "subject": "Retirement Account Beneficiary Update",
+      "sender": "benefits@fidelity-plans.com",
+      "ssn": "666-77-8888",
+      "account_number": "401K-8842-99",
+      "new_beneficiary_ssn": "777-88-9999",
+      "verification_password": "Fiduciary2026!"
+    },
+    {
+      "id": "lf_038",
+      "timestamp": "2026-05-30T10:00:00Z",
+      "subject": "Legal Invoice Payment - Confidential",
+      "sender": "billing@whiteshoelaw.com",
+      "matter_number": "M-00842-C",
+      "ssn": "777-88-9999",
+      "payment_method": "Wire from Acct 9998887766",
+      "amount": 35000.0
+    },
+    {
+      "id": "lf_039",
+      "timestamp": "2026-05-31T14:35:00Z",
+      "subject": "Social Security Benefits Statement",
+      "sender": "ssa@ssa-official.gov",
+      "ssn": "888-99-0000",
+      "claim_number": "C1-8842-SSA",
+      "direct_deposit_account": "****1122",
+      "access_code": "SSACODE8842"
+    },
+    {
+      "id": "lf_040",
+      "timestamp": "2026-05-31T16:45:00Z",
+      "subject": "Car Loan Title Release",
+      "sender": "titles@meridianfinance.com",
+      "ssn": "999-00-1111",
+      "loan_number": "COAF8842",
+      "title_pin": "TITLE8842"
+    },
+    {
+      "id": "lf_041",
+      "timestamp": "2026-06-01T09:30:00Z",
+      "subject": "Probate Filing Fee",
+      "sender": "probate@westfieldcourt.gov",
+      "case_number": "PB-8842-2026",
+      "decedent_ssn": "000-11-2222",
+      "personal_rep_ssn": "111-22-3333",
+      "payment_cvv": "901"
+    },
+    {
+      "id": "lf_042",
+      "timestamp": "2026-06-02T14:20:00Z",
+      "subject": "Investment Advisory Agreement",
+      "sender": "contracts@harringtonassociates.com",
+      "ssn": "222-33-4444",
+      "contract_id": "IA-8842-RJ",
+      "signature_password": "RJ-Sign-8842",
+      "account_number": "8842990011"
+    },
+    {
+      "id": "lf_043",
+      "timestamp": "2026-06-04T10:50:00Z",
+      "subject": "Back Taxes Payment Plan",
+      "sender": "installments@nationalrevenue.gov",
+      "ssn": "333-44-5555",
+      "plan_id": "PIP-8842-2026",
+      "monthly_draft_amount": 1200.0,
+      "draft_account": "****3344"
+    },
+    {
+      "id": "lf_044",
+      "timestamp": "2026-06-05T16:10:00Z",
+      "subject": "Will Codicil Authentication",
+      "sender": "estates@bridgewaterlegal.com",
+      "client_ssn": "444-55-6666",
+      "matter_id": "WILL-8842",
+      "document_password": "Codicil$8842",
+      "witness_ssn": "423-22-0256"
+    },
+    {
+      "id": "lf_045",
+      "timestamp": "2026-06-07T11:40:00Z",
+      "subject": "Stock Certificate Delivery",
+      "sender": "transfer@apexregistry.com",
+      "ssn": "423-22-0256",
+      "certificate_number": "CS-8842-999",
+      "cusip": "123456789",
+      "account_pin": "CERT8842"
+    },
+    {
+      "id": "lf_046",
+      "timestamp": "2026-06-08T15:55:00Z",
+      "subject": "Homeowners Insurance Claim Check",
+      "sender": "claims@pioneercoverage.com",
+      "ssn": "666-77-8888",
+      "claim_number": "CL-8842-5566",
+      "check_amount": 18500.0,
+      "deposit_auth_code": "DAC-8842"
+    },
+    {
+      "id": "lf_047",
+      "timestamp": "2026-06-09T09:05:00Z",
+      "subject": "Pension Lump Sum Election",
+      "sender": "pension@sentinelretirement.com",
+      "ssn": "777-88-9999",
+      "pension_id": "PN-8842-99",
+      "election_form_password": "Pension$8842",
+      "lump_sum": 250000.0
+    },
+    {
+      "id": "lf_048",
+      "timestamp": "2026-06-11T14:45:00Z",
+      "subject": "Credit Report Security Freeze",
+      "sender": "security@guardianbureau.com",
+      "ssn": "888-99-0000",
+      "pin": "EX-8842-PIN",
+      "freeze_lift_code": "FLC-8842-EXP"
+    },
+    {
+      "id": "lf_049",
+      "timestamp": "2026-06-12T10:15:00Z",
+      "subject": "Business Formation Filing",
+      "sender": "secretary@commonwealth.gov",
+      "ssn": "999-00-1111",
+      "ein": "11-2222333",
+      "entity_id": "E-8842-CORP",
+      "payment_confirmation": "PC-8842-SOS"
+    },
+    {
+      "id": "lf_050",
+      "timestamp": "2026-06-13T16:30:00Z",
+      "subject": "Trust Distribution Authorization",
+      "sender": "trustee@lakesidefiduciary.com",
+      "ssn": "000-11-2222",
+      "trust_number": "NT-8842-001",
+      "distribution_code": "DIST-8842-99",
+      "beneficiary_tax_id": "22-3333444"
+    },
+    {
+      "id": "lf_051",
+      "timestamp": "2026-06-15T11:00:00Z",
+      "subject": "Loan Payoff Statement",
+      "sender": "payoffs@velocitylending.com",
+      "ssn": "111-22-3333",
+      "loan_number": "ALLY8842",
+      "payoff_amount": 28456.89,
+      "good_through": "2026-06-30"
+    },
+    {
+      "id": "lf_052",
+      "timestamp": "2026-06-16T15:20:00Z",
+      "subject": "Legal Retainer Refund",
+      "sender": "accounting@morrisbenson.com",
+      "ssn": "222-33-4444",
+      "matter_number": "M-8842-REF",
+      "refund_amount": 7500.0,
+      "refund_method": "Check to SSN last four 4444"
+    },
+    {
+      "id": "lf_053",
+      "timestamp": "2026-06-18T09:40:00Z",
+      "subject": "Medicare Part B Enrollment",
+      "sender": "enrollment@nationalhealth.gov",
+      "ssn": "333-44-5555",
+      "medicare_number": "MC-8842-B",
+      "automatic_debit_account": "****5566 CVV: 112"
+    },
+    {
+      "id": "lf_054",
+      "timestamp": "2026-06-19T14:00:00Z",
+      "subject": "Safe Deposit Box Access",
+      "sender": "vault@mercantilevault.com",
+      "ssn": "444-55-6666",
+      "box_number": "8842",
+      "access_code": "KEY8842-VAULT",
+      "emergency_key_location": "Office safe combination 12-34-56"
+    },
+    {
+      "id": "lf_055",
+      "timestamp": "2026-06-20T10:30:00Z",
+      "subject": "Tax Refund Direct Deposit",
+      "sender": "refunds@taxrefund.gov",
+      "ssn": "423-22-0256",
+      "refund_amount": 4200.0,
+      "routing": "021000021",
+      "account": "****8842",
+      "deposit_date": "2026-06-21"
+    },
+    {
+      "id": "lf_056",
+      "timestamp": "2026-06-22T16:50:00Z",
+      "subject": "Estate Tax Closing Letter",
+      "sender": "estategift@estatetax.gov",
+      "ssn_of_decedent": "666-77-8888",
+      "estate_tax_id": "EIN-12-3456789",
+      "closing_letter_id": "CL-8842-IRS"
+    },
+    {
+      "id": "lf_057",
+      "timestamp": "2026-06-23T11:10:00Z",
+      "subject": "529 Plan Distribution",
+      "sender": "plans@cornerstoneplans.com",
+      "ssn": "777-88-9999",
+      "account_owner_ssn": "888-99-0000",
+      "distribution_amount": 15000.0,
+      "beneficiary_ssn": "999-00-1111"
+    },
+    {
+      "id": "lf_058",
+      "timestamp": "2026-06-25T15:35:00Z",
+      "subject": "Power of Attorney Recording",
+      "sender": "recorder@oaklandcounty.gov",
+      "ssn": "888-99-0000",
+      "poa_id": "POA-8842-2026",
+      "grantor_ssn": "999-00-1111",
+      "recording_fee_paid": "$45.00"
+    },
+    {
+      "id": "lf_059",
+      "timestamp": "2026-06-27T09:50:00Z",
+      "subject": "Final Divorce Decree - Recorded",
+      "sender": "court@hillsboroughfamily.gov",
+      "ssn_petitioner": "999-00-1111",
+      "ssn_respondent": "000-11-2222",
+      "case_number": "FD-8842-FINAL",
+      "seal_code": "SEAL8842"
+    },
+    {
+      "id": "lf_060",
+      "timestamp": "2026-06-29T14:15:00Z",
+      "subject": "Year-End Tax Documents Checklist",
+      "sender": "taxprep@hblock.com",
+      "ssn": "000-11-2222",
+      "tax_year": "2026",
+      "document_bundle_password": "TaxPrep2026!",
+      "payment_for_services": "Card ending 9999 CVV 223"
+    }
+  ]
+}

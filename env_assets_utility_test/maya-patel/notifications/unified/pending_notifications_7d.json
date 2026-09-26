@@ -1,0 +1,92 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/pending_notifications_7d.json",
+    "time_span": "7d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-10-20T14:32:17Z",
+    "source": "notification_center_export"
+  },
+  "records": [
+    {
+      "id": "ntf-8f4d9a2b-1c3e",
+      "timestamp": "2024-10-20T13:00:00Z",
+      "app_source": "Calendar",
+      "type": "event_reminder",
+      "title": "Upcoming: Weekly Design Sync",
+      "body": "Meeting with Calvin Price and Iris Romero in 15 minutes",
+      "status": "unread",
+      "priority": "normal"
+    },
+    {
+      "id": "ntf-7e3b1d5f-9a8c",
+      "timestamp": "2024-10-19T22:45:00Z",
+      "app_source": "Messages",
+      "type": "direct_message",
+      "title": "Nina Park",
+      "body": "Don't forget to pick up milk on the way home!",
+      "status": "unread",
+      "priority": "low"
+    },
+    {
+      "id": "ntf-2a1c8e4d-6b7f",
+      "timestamp": "2024-10-19T14:00:00Z",
+      "app_source": "Tasks",
+      "type": "task_due",
+      "title": "Task Due: Q4 Roadmap Draft",
+      "body": "Complete initial draft for client strategy review by EOD",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "id": "ntf-9d5e2f8a-3b4c",
+      "timestamp": "2024-10-18T16:30:00Z",
+      "app_source": "Mail",
+      "type": "travel_alert",
+      "title": "Alaska Airlines: Check-in Open",
+      "body": "Your upcoming trip to Seattle (SEA) on Tuesday - check in now",
+      "status": "unread",
+      "priority": "normal"
+    },
+    {
+      "id": "ntf-4c8b0a6d-2e1f",
+      "timestamp": "2024-10-18T19:20:00Z",
+      "app_source": "Work Chat",
+      "type": "mention",
+      "title": "Grace Lin mentioned you",
+      "body": "Hey Maya, can you review the component library updates before tomorrow?",
+      "status": "unread",
+      "priority": "high"
+    },
+    {
+      "id": "ntf-1f3e7c9a-5d6b",
+      "timestamp": "2024-10-17T21:00:00Z",
+      "app_source": "Calendar",
+      "type": "event_reminder",
+      "title": "Dinner Reservation Reminder",
+      "body": "Reservation at Morcilla for 7:00 PM with Elena Vega and Priya Shah",
+      "status": "unread",
+      "priority": "normal"
+    },
+    {
+      "id": "ntf-6b2d4f8e-0a9c",
+      "timestamp": "2024-10-16T12:00:00Z",
+      "app_source": "Health",
+      "type": "appointment_reminder",
+      "title": "Upcoming: Annual Physical",
+      "body": "Appointment with Dr. Rosenberg tomorrow at 10:00 AM",
+      "status": "pending",
+      "priority": "normal"
+    },
+    {
+      "id": "ntf-0e9a7b3c-8f2d",
+      "timestamp": "2024-10-15T20:00:00Z",
+      "app_source": "Home",
+      "type": "chore_alert",
+      "title": "Household Task Reminder",
+      "body": "Water plants in living room and kitchen (weekly schedule)",
+      "status": "unread",
+      "priority": "low"
+    }
+  ]
+}

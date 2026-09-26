@@ -1,0 +1,498 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/milestones_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T14:32:18Z",
+    "source": "project_management_export"
+  },
+  "records": [
+    {
+      "id": "MIL-2024-ROI-001",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Vendor Selection for Recruitment CRM",
+      "description": "Finalize vendor evaluation matrix and sign contract with selected recruitment platform vendor.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "MIL-2024-ROI-002",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Legacy Data Migration Phase 1",
+      "description": "Migrate historical participant data from legacy spreadsheets to new CRM.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "high",
+      "start_time": "2024-02-01T09:00:00-08:00",
+      "end_time": "2024-02-15T17:00:00-08:00"
+    },
+    {
+      "id": "MIL-2024-ROI-003",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Integration Testing with Scheduling Tools",
+      "description": "Complete API integration testing between CRM and calendar scheduling systems.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "medium",
+      "date": "2024-03-10"
+    },
+    {
+      "id": "MIL-2024-ROI-004",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Team Training Rollout",
+      "description": "Conduct training sessions for UX Research team on new CRM workflows.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-04-05"
+    },
+    {
+      "id": "MIL-2024-ROI-005",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Q2 Automation Sprint",
+      "description": "Implement automated reminder and follow-up sequences for participant recruitment.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "medium",
+      "start_time": "2024-05-01T09:00:00-07:00",
+      "end_time": "2024-05-14T17:00:00-07:00"
+    },
+    {
+      "id": "MIL-2024-ROI-006",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Compliance Audit Preparation",
+      "description": "Prepare documentation for internal audit of participant data handling procedures.",
+      "status": "completed",
+      "assignee": "Grace Lin",
+      "priority": "high",
+      "date": "2024-06-01"
+    },
+    {
+      "id": "MIL-2024-ROI-007",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Advanced Reporting Dashboard",
+      "description": "Deploy custom analytics dashboard for recruitment funnel metrics.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "medium",
+      "date": "2024-07-12"
+    },
+    {
+      "id": "MIL-2024-ROI-008",
+      "project_name": "ResearchOps Infrastructure 2024",
+      "title": "Annual System Review",
+      "description": "Complete performance review and optimization of ResearchOps tooling stack.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "low",
+      "date": "2024-08-30"
+    },
+    {
+      "id": "MIL-2023-PEP-001",
+      "project_name": "Participant Experience Platform",
+      "title": "Discovery Interviews",
+      "description": "Conduct stakeholder interviews to define requirements for participant portal.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "MIL-2023-PEP-002",
+      "project_name": "Participant Experience Platform",
+      "title": "Wireframe Approval",
+      "description": "Finalize UX wireframes for participant self-service dashboard.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "high",
+      "date": "2023-11-05"
+    },
+    {
+      "id": "MIL-2024-PEP-003",
+      "project_name": "Participant Experience Platform",
+      "title": "Beta Portal Launch",
+      "description": "Launch beta version of participant portal to internal test group.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "high",
+      "date": "2024-01-20"
+    },
+    {
+      "id": "MIL-2024-PEP-004",
+      "project_name": "Participant Experience Platform",
+      "title": "Pilot Program Period",
+      "description": "Run pilot program with select research studies using new platform.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "period_start": "2024-03-01",
+      "period_end": "2024-03-31"
+    },
+    {
+      "id": "MIL-2024-PEP-005",
+      "project_name": "Participant Experience Platform",
+      "title": "Feedback Integration",
+      "description": "Incorporate pilot feedback and fix critical usability issues.",
+      "status": "completed",
+      "assignee": "Grace Lin",
+      "priority": "high",
+      "date": "2024-05-15"
+    },
+    {
+      "id": "MIL-2024-PEP-006",
+      "project_name": "Participant Experience Platform",
+      "title": "Full Production Release",
+      "description": "Deploy portal to all active research participants.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-07-01"
+    },
+    {
+      "id": "MIL-2024-GRE-001",
+      "project_name": "Global Research Expansion",
+      "title": "International Vendor Shortlist",
+      "description": "Identify and evaluate research vendors in EMEA and APAC regions.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "high",
+      "date": "2024-02-28"
+    },
+    {
+      "id": "MIL-2024-GRE-002",
+      "project_name": "Global Research Expansion",
+      "title": "Translation Workflow Setup",
+      "description": "Establish localization process for research materials and consent forms.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "medium",
+      "date": "2024-04-18"
+    },
+    {
+      "id": "MIL-2024-GRE-003",
+      "project_name": "Global Research Expansion",
+      "title": "Kickoff Workshop",
+      "description": "Conduct cross-regional kickoff workshop with local research leads.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "timestamp": "2024-06-15T10:30:00Z"
+    },
+    {
+      "id": "MIL-2024-GRE-004",
+      "project_name": "Global Research Expansion",
+      "title": "First International Study Launch",
+      "description": "Launch inaugural usability study in three international markets.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "high",
+      "date": "2024-08-22"
+    },
+    {
+      "id": "MIL-2024-GRE-005",
+      "project_name": "Global Research Expansion",
+      "title": "Quarterly Global Review",
+      "description": "Analyze findings from first quarter of international research operations.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "medium",
+      "date": "2024-10-10"
+    },
+    {
+      "id": "MIL-2023-UXM-001",
+      "project_name": "UX Metrics Standardization",
+      "title": "Metric Framework Definition",
+      "description": "Define core UX metrics framework across all product teams.",
+      "status": "completed",
+      "assignee": "Grace Lin",
+      "priority": "high",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "MIL-2024-UXM-002",
+      "project_name": "UX Metrics Standardization",
+      "title": "Data Collection Specification",
+      "description": "Document technical requirements for automated metrics collection.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "high",
+      "date": "2024-01-08"
+    },
+    {
+      "id": "MIL-2024-UXM-003",
+      "project_name": "UX Metrics Standardization",
+      "title": "Instrumentation Sprint",
+      "description": "Implement tracking code across primary user journeys.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "high",
+      "start_time": "2024-03-10T09:00:00-07:00",
+      "end_time": "2024-03-24T17:00:00-07:00"
+    },
+    {
+      "id": "MIL-2024-UXM-004",
+      "project_name": "UX Metrics Standardization",
+      "title": "Baseline Report Generation",
+      "description": "Generate first quarterly standardized UX metrics report.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "medium",
+      "date": "2024-06-05"
+    },
+    {
+      "id": "MIL-2024-UXM-005",
+      "project_name": "UX Metrics Standardization",
+      "title": "Stakeholder Presentation",
+      "description": "Present baseline metrics to executive leadership and product directors.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-09-12"
+    },
+    {
+      "id": "MIL-2024-UXM-006",
+      "project_name": "UX Metrics Standardization",
+      "title": "Framework Iteration",
+      "description": "Refine metrics based on stakeholder feedback and industry reference metrics.",
+      "status": "in_progress",
+      "assignee": "Grace Lin",
+      "priority": "medium",
+      "date": "2024-11-20"
+    },
+    {
+      "id": "MIL-2023-CGI-001",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Knowledge Base Architecture",
+      "description": "Design information architecture for centralized research repository.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "high",
+      "date": "2023-08-20"
+    },
+    {
+      "id": "MIL-2023-CGI-002",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Taxonomy Development",
+      "description": "Create standardized tagging and categorization system for research insights.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2023-12-01"
+    },
+    {
+      "id": "MIL-2024-CGI-003",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Search Indexing Implementation",
+      "description": "Implement elastic search indexing for document and video content.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "medium",
+      "date": "2024-03-15"
+    },
+    {
+      "id": "MIL-2024-CGI-004",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Closed Beta Period",
+      "description": "Conduct closed beta with UX Research team and select product managers.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "high",
+      "period_start": "2024-05-01",
+      "period_end": "2024-06-30"
+    },
+    {
+      "id": "MIL-2024-CGI-005",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Security Review Completion",
+      "description": "Complete security audit and penetration testing of portal infrastructure.",
+      "status": "completed",
+      "assignee": "Grace Lin",
+      "priority": "high",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "MIL-2024-CGI-006",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Company-Wide Launch",
+      "description": "Launch insight portal to entire Cedar Grove Studio organization.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-09-30"
+    },
+    {
+      "id": "MIL-2024-CGI-007",
+      "project_name": "Cedar Grove Insight Portal",
+      "title": "Adoption Metrics Review",
+      "description": "Analyze usage patterns and engagement metrics post-launch.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "medium",
+      "date": "2024-12-10"
+    },
+    {
+      "id": "MIL-2024-MLD-001",
+      "project_name": "Mobile Lab Deployment",
+      "title": "Equipment Procurement",
+      "description": "Purchase mobile testing kits and recording equipment for field research.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-01-30"
+    },
+    {
+      "id": "MIL-2024-MLD-002",
+      "project_name": "Mobile Lab Deployment",
+      "title": "Lab Vehicle Setup",
+      "description": "Configure transit van with mobile lab installation and power systems.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "medium",
+      "timestamp": "2024-04-10T14:00:00-07:00"
+    },
+    {
+      "id": "MIL-2024-MLD-003",
+      "project_name": "Mobile Lab Deployment",
+      "title": "Pilot Field Study",
+      "description": "Conduct first field research study using mobile lab in rural communities.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "high",
+      "date": "2024-06-18"
+    },
+    {
+      "id": "MIL-2024-MLD-004",
+      "project_name": "Mobile Lab Deployment",
+      "title": "Data Sync Infrastructure",
+      "description": "Implement secure data synchronization from field to cloud storage.",
+      "status": "completed",
+      "assignee": "Grace Lin",
+      "priority": "high",
+      "date": "2024-09-05"
+    },
+    {
+      "id": "MIL-2024-MLD-005",
+      "project_name": "Mobile Lab Deployment",
+      "title": "Operations Manual Finalization",
+      "description": "Complete standard operating procedures for mobile lab deployments.",
+      "status": "in_progress",
+      "assignee": "Marcus Bennett",
+      "priority": "medium",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "MIL-2024-REC-001",
+      "project_name": "Research Ethics & Compliance Update",
+      "title": "Policy Review Workshop",
+      "description": "Facilitate workshop to review current ethics policies against new regulations.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "high",
+      "date": "2024-03-22"
+    },
+    {
+      "id": "MIL-2024-REC-002",
+      "project_name": "Research Ethics & Compliance Update",
+      "title": "Consent Form Redesign",
+      "description": "Redesign digital consent forms for improved accessibility and comprehension.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "date": "2024-06-30"
+    },
+    {
+      "id": "MIL-2024-REC-003",
+      "project_name": "Research Ethics & Compliance Update",
+      "title": "IRB Submission Update",
+      "description": "Submit updated IRB protocols reflecting new research methodologies.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "high",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "MIL-2024-REC-004",
+      "project_name": "Research Ethics & Compliance Update",
+      "title": "Training Certification Rollout",
+      "description": "Deploy new ethics training modules and certify all researchers.",
+      "status": "in_progress",
+      "assignee": "Grace Lin",
+      "priority": "high",
+      "date": "2024-11-30"
+    },
+    {
+      "id": "MIL-2023-CFW-001",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Stakeholder Mapping",
+      "description": "Map touchpoints between UX Research and Product, Engineering, and Design teams.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "medium",
+      "date": "2023-09-01"
+    },
+    {
+      "id": "MIL-2023-CFW-002",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Process Documentation",
+      "description": "Document current state workflows and identify integration pain points.",
+      "status": "completed",
+      "assignee": "Calvin Price",
+      "priority": "high",
+      "date": "2023-11-20"
+    },
+    {
+      "id": "MIL-2024-CFW-003",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Jira Integration Setup",
+      "description": "Configure bidirectional sync between research tools and Jira project management.",
+      "status": "completed",
+      "assignee": "Iris Romero",
+      "priority": "high",
+      "date": "2024-02-10"
+    },
+    {
+      "id": "MIL-2024-CFW-004",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Slack Workflow Automation",
+      "description": "Implement automated notifications and report delivery via Slack integrations.",
+      "status": "completed",
+      "assignee": "Leah Morgan",
+      "priority": "medium",
+      "date": "2024-05-05"
+    },
+    {
+      "id": "MIL-2024-CFW-005",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Q3 Workflow Optimization Sprint",
+      "description": "Dedicated sprint to optimize handoff processes and documentation standards.",
+      "status": "completed",
+      "assignee": "Marcus Bennett",
+      "priority": "high",
+      "start_time": "2024-07-01T09:00:00-07:00",
+      "end_time": "2024-07-31T17:00:00-07:00"
+    },
+    {
+      "id": "MIL-2024-CFW-006",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Feedback Loop Implementation",
+      "description": "Establish regular feedback sessions with partner teams to refine workflows.",
+      "status": "completed",
+      "assignee": "Grace Lin",
+      "priority": "medium",
+      "date": "2024-09-20"
+    },
+    {
+      "id": "MIL-2024-CFW-007",
+      "project_name": "Cross-Functional Workflow Integration",
+      "title": "Annual Workflow Review",
+      "description": "Comprehensive review of integrated workflows and efficiency metrics.",
+      "status": "not_started",
+      "assignee": "Marcus Bennett",
+      "priority": "low",
+      "date": "2024-12-05"
+    }
+  ]
+}

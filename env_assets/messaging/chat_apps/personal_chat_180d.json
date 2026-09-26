@@ -1,0 +1,319 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/personal_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T14:22:11Z"
+  },
+  "records": [
+    {
+      "id": "msg_20260108_001",
+      "timestamp": "2026-01-08T19:30:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-212-0142",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Are we still on for dinner at Giuseppe's tomorrow?",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260115_002",
+      "timestamp": "2026-01-15T14:22:00Z",
+      "platform": "SMS",
+      "contact_name": "Mom",
+      "contact_phone": "+1-305-0189",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Don't forget to call grandma this weekend, she misses you! ❤️",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260203_003",
+      "timestamp": "2026-02-03T20:15:00Z",
+      "platform": "iMessage",
+      "contact_name": "Carol Zhang",
+      "contact_phone": "+1-415-0127",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Movie night at my place Friday? I have that new thriller you wanted to see.",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260214_004",
+      "timestamp": "2026-02-14T09:00:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Work Group",
+      "contact_phone": "+1-512-0100",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Alice: Please review the Q1 projections by EOD.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260220_005",
+      "timestamp": "2026-02-20T16:45:00Z",
+      "platform": "Signal",
+      "contact_name": "Dave Park",
+      "contact_phone": "+1-617-0198",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Can we move our sync to the secure channel? Sending the docs via email now.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260305_006",
+      "timestamp": "2026-03-05T08:50:00Z",
+      "platform": "iMessage",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-213-0142",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Running 10 mins late, traffic on 95 is brutal.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260312_007",
+      "timestamp": "2026-03-12T11:30:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Sarah Miller",
+      "contact_phone": "+1-312-0165",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Class is moved to 6pm tonight, studio double booking.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260325_008",
+      "timestamp": "2026-03-25T21:00:00Z",
+      "platform": "Telegram",
+      "contact_name": "Hiking Club",
+      "contact_phone": "+1-404-0133",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Count me in for the Blue Ridge trail this weekend. Bringing snacks.",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260402_009",
+      "timestamp": "2026-04-02T13:15:00Z",
+      "platform": "SMS",
+      "contact_name": "Dr. Chen Office",
+      "contact_phone": "+1-206-0204",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Reminder: Dental cleaning appt on April 5th at 10:00 AM. Reply C to confirm.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260410_010",
+      "timestamp": "2026-04-10T09:30:00Z",
+      "platform": "iMessage",
+      "contact_name": "Mom",
+      "contact_phone": "+1-702-0189",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Happy Birthday Mom! 🎂 Hope you like the flowers, they should arrive by noon.",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260418_011",
+      "timestamp": "2026-04-18T07:45:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-214-0142",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Gym at 6? Leg day waits for no one.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260422_012",
+      "timestamp": "2026-04-22T15:20:00Z",
+      "platform": "Signal",
+      "contact_name": "Dave Park",
+      "contact_phone": "+1-303-0198",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Meeting location changed to the downtown library, third floor.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260503_013",
+      "timestamp": "2026-05-03T18:40:00Z",
+      "platform": "iMessage",
+      "contact_name": "Carol Zhang",
+      "contact_phone": "+1-503-0127",
+      "direction": "received",
+      "message_type": "image",
+      "content": "[Photo] Look at this sunset from my balcony!",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260508_014",
+      "timestamp": "2026-05-08T10:00:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Manager Tom",
+      "contact_phone": "+1-718-0177",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Alice, can you cover the client call at 2pm? I'm stuck in another meeting.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260515_015",
+      "timestamp": "2026-05-15T12:05:00Z",
+      "platform": "iMessage",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-602-0142",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Lunch at the new ramen place? Heard it's amazing.",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260520_016",
+      "timestamp": "2026-05-20T19:00:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Landlord",
+      "contact_phone": "+1-615-0155",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Hi, just sent the rent via Zelle. Let me know if you need anything else.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260528_017",
+      "timestamp": "2026-05-28T06:30:00Z",
+      "platform": "iMessage",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-704-0142",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Up for a run? Morning is perfect, nice and cool.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260605_018",
+      "timestamp": "2026-06-05T14:00:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Sister Emma",
+      "contact_phone": "+1-801-0234",
+      "direction": "received",
+      "message_type": "video",
+      "content": "Little Tommy took his first steps today! Video incoming 🥹",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260610_019",
+      "timestamp": "2026-06-10T11:20:00Z",
+      "platform": "Telegram",
+      "contact_name": "Book Club",
+      "contact_phone": "+1-919-0191",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Loved the ending of 'The Midnight Library'. Who's hosting next month?",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260615_020",
+      "timestamp": "2026-06-15T16:50:00Z",
+      "platform": "SMS",
+      "contact_name": "CVS Pharmacy",
+      "contact_phone": "+1-203-0299",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Your prescription is ready for pickup. Hours: 9AM-9PM.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260618_021",
+      "timestamp": "2026-06-18T20:30:00Z",
+      "platform": "iMessage",
+      "contact_name": "Carol Zhang",
+      "contact_phone": "+1-415-283-7492",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "That meeting was brutal. Drinks tomorrow to decompress?",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260125_022",
+      "timestamp": "2026-01-25T09:15:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Dave Park",
+      "contact_phone": "+1-212-483-1098",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Thanks for the coffee! Great chat about the project.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260228_023",
+      "timestamp": "2026-02-28T17:00:00Z",
+      "platform": "Signal",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-503-621-4242",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Switching to Signal for this convo, more private.",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260315_024",
+      "timestamp": "2026-03-15T12:30:00Z",
+      "platform": "iMessage",
+      "contact_name": "Mom",
+      "contact_phone": "+1-206-339-5189",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Got your care package! The cookies are already half gone 😅",
+      "status": "delivered"
+    },
+    {
+      "id": "msg_20260405_025",
+      "timestamp": "2026-04-05T22:00:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "TicketMaster",
+      "contact_phone": "+1-617-244-8300",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Secured two tickets for Saturday! Section B, row 4.",
+      "status": "sent"
+    },
+    {
+      "id": "msg_20260425_026",
+      "timestamp": "2026-04-25T08:00:00Z",
+      "platform": "iMessage",
+      "contact_name": "Dave Park",
+      "contact_phone": "+1-713-821-3234",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Shared folder updated with the latest mockups. Check when you can.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260622_027",
+      "timestamp": "2026-06-22T13:45:00Z",
+      "platform": "WhatsApp",
+      "contact_name": "Mom",
+      "contact_phone": "+1-305-431-9876",
+      "direction": "received",
+      "message_type": "text",
+      "content": "Flight lands at 4:30 on Thursday, can you pick me up? Terminal B.",
+      "status": "read"
+    },
+    {
+      "id": "msg_20260628_028",
+      "timestamp": "2026-06-28T19:20:00Z",
+      "platform": "iMessage",
+      "contact_name": "Bob Smith",
+      "contact_phone": "+1-512-902-1357",
+      "direction": "sent",
+      "message_type": "text",
+      "content": "Great weekend! Thanks for the hiking tip, the view was incredible.",
+      "status": "delivered"
+    }
+  ]
+}

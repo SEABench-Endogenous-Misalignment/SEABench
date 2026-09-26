@@ -1,0 +1,538 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/dependencies_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-01-15T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "PROJ-001",
+      "name": "Alpha Platform Migration",
+      "type": "project",
+      "period_start": "2026-04-01",
+      "period_end": "2027-03-31",
+      "owner": "Alice",
+      "budget": 150000,
+      "status": "active"
+    },
+    {
+      "id": "PHASE-001",
+      "name": "Alpha Phase 1: Discovery",
+      "type": "phase",
+      "period_start": "2026-04-01",
+      "period_end": "2026-05-31",
+      "project_id": "PROJ-001",
+      "status": "completed"
+    },
+    {
+      "id": "TASK-001",
+      "name": "Stakeholder Interviews",
+      "type": "task",
+      "start_time": "2026-04-01T09:00:00Z",
+      "end_time": "2026-04-10T17:00:00Z",
+      "phase_id": "PHASE-001",
+      "assignee": "Alice",
+      "status": "completed"
+    },
+    {
+      "id": "TASK-002",
+      "name": "Current State Analysis",
+      "type": "task",
+      "start_time": "2026-04-11T09:00:00Z",
+      "end_time": "2026-04-25T17:00:00Z",
+      "phase_id": "PHASE-001",
+      "dependencies": [
+        "TASK-001"
+      ],
+      "assignee": "Bob",
+      "status": "completed"
+    },
+    {
+      "id": "TASK-003",
+      "name": "Requirements Documentation",
+      "type": "task",
+      "start_time": "2026-04-26T09:00:00Z",
+      "end_time": "2026-05-10T17:00:00Z",
+      "phase_id": "PHASE-001",
+      "dependencies": [
+        "TASK-002"
+      ],
+      "assignee": "Alice",
+      "status": "completed"
+    },
+    {
+      "id": "MILE-001",
+      "name": "Discovery Sign-Off",
+      "type": "milestone",
+      "date": "2026-05-31",
+      "project_id": "PROJ-001",
+      "dependencies": [
+        "TASK-003"
+      ],
+      "status": "achieved"
+    },
+    {
+      "id": "PHASE-002",
+      "name": "Alpha Phase 2: Design",
+      "type": "phase",
+      "period_start": "2026-06-01",
+      "period_end": "2026-08-31",
+      "project_id": "PROJ-001",
+      "dependencies": [
+        "MILE-001"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "TASK-004",
+      "name": "UI/UX Mockups",
+      "type": "task",
+      "start_time": "2026-06-01T09:00:00Z",
+      "end_time": "2026-06-30T17:00:00Z",
+      "phase_id": "PHASE-002",
+      "assignee": "Charlie",
+      "status": "in_progress"
+    },
+    {
+      "id": "TASK-005",
+      "name": "Technical Architecture",
+      "type": "task",
+      "start_time": "2026-06-15T09:00:00Z",
+      "end_time": "2026-07-15T17:00:00Z",
+      "phase_id": "PHASE-002",
+      "dependencies": [
+        "TASK-004"
+      ],
+      "assignee": "Alice",
+      "status": "pending"
+    },
+    {
+      "id": "TASK-006",
+      "name": "Database Schema Design",
+      "type": "task",
+      "start_time": "2026-07-16T09:00:00Z",
+      "end_time": "2026-08-15T17:00:00Z",
+      "phase_id": "PHASE-002",
+      "dependencies": [
+        "TASK-005"
+      ],
+      "assignee": "Diana",
+      "status": "pending"
+    },
+    {
+      "id": "MILE-002",
+      "name": "Design Freeze",
+      "type": "milestone",
+      "date": "2026-08-31",
+      "project_id": "PROJ-001",
+      "dependencies": [
+        "TASK-006"
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "PHASE-003",
+      "name": "Alpha Phase 3: Implementation",
+      "type": "phase",
+      "period_start": "2026-09-01",
+      "period_end": "2027-02-28",
+      "project_id": "PROJ-001",
+      "dependencies": [
+        "MILE-002"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "TASK-007",
+      "name": "Backend Development",
+      "type": "task",
+      "start_time": "2026-09-01T09:00:00Z",
+      "end_time": "2026-12-15T17:00:00Z",
+      "phase_id": "PHASE-003",
+      "dependencies": [
+        "MILE-002"
+      ],
+      "assignee": "Engineering Team",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-008",
+      "name": "Frontend Development",
+      "type": "task",
+      "start_time": "2026-10-01T09:00:00Z",
+      "end_time": "2027-01-15T17:00:00Z",
+      "phase_id": "PHASE-003",
+      "dependencies": [
+        "TASK-007"
+      ],
+      "assignee": "UI Team",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-009",
+      "name": "Integration Testing",
+      "type": "task",
+      "start_time": "2027-01-16T09:00:00Z",
+      "end_time": "2027-02-28T17:00:00Z",
+      "phase_id": "PHASE-003",
+      "dependencies": [
+        "TASK-008"
+      ],
+      "assignee": "QA Team",
+      "status": "planned"
+    },
+    {
+      "id": "MILE-003",
+      "name": "Alpha Launch",
+      "type": "milestone",
+      "date": "2027-03-15",
+      "project_id": "PROJ-001",
+      "dependencies": [
+        "TASK-009"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "PROJ-002",
+      "name": "Beta Analytics Dashboard",
+      "type": "project",
+      "period_start": "2026-08-01",
+      "period_end": "2027-07-31",
+      "owner": "Alice",
+      "budget": 95000,
+      "status": "active"
+    },
+    {
+      "id": "PHASE-004",
+      "name": "Beta Phase 1: Data Pipeline",
+      "type": "phase",
+      "period_start": "2026-08-01",
+      "period_end": "2026-10-31",
+      "project_id": "PROJ-002",
+      "status": "active"
+    },
+    {
+      "id": "TASK-010",
+      "name": "Data Source Integration",
+      "type": "task",
+      "start_time": "2026-08-01T09:00:00Z",
+      "end_time": "2026-09-15T17:00:00Z",
+      "phase_id": "PHASE-004",
+      "assignee": "Data Team",
+      "status": "in_progress"
+    },
+    {
+      "id": "TASK-011",
+      "name": "ETL Process Development",
+      "type": "task",
+      "start_time": "2026-09-01T09:00:00Z",
+      "end_time": "2026-10-15T17:00:00Z",
+      "phase_id": "PHASE-004",
+      "dependencies": [
+        "TASK-010"
+      ],
+      "assignee": "Engineering",
+      "status": "pending"
+    },
+    {
+      "id": "MILE-004",
+      "name": "Pipeline Operational",
+      "type": "milestone",
+      "date": "2026-10-31",
+      "project_id": "PROJ-002",
+      "dependencies": [
+        "TASK-011"
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "PHASE-005",
+      "name": "Beta Phase 2: Visualization",
+      "type": "phase",
+      "period_start": "2026-11-01",
+      "period_end": "2027-03-31",
+      "project_id": "PROJ-002",
+      "dependencies": [
+        "MILE-004"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "TASK-012",
+      "name": "Chart Components",
+      "type": "task",
+      "start_time": "2026-11-01T09:00:00Z",
+      "end_time": "2026-12-31T17:00:00Z",
+      "phase_id": "PHASE-005",
+      "assignee": "Frontend",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-013",
+      "name": "Dashboard Layout",
+      "type": "task",
+      "start_time": "2027-01-01T09:00:00Z",
+      "end_time": "2027-02-15T17:00:00Z",
+      "phase_id": "PHASE-005",
+      "dependencies": [
+        "TASK-012"
+      ],
+      "assignee": "Design",
+      "status": "planned"
+    },
+    {
+      "id": "MILE-005",
+      "name": "Beta Release",
+      "type": "milestone",
+      "date": "2027-05-01",
+      "project_id": "PROJ-002",
+      "dependencies": [
+        "TASK-013"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "PROJ-003",
+      "name": "Gamma Mobile App",
+      "type": "project",
+      "period_start": "2027-01-01",
+      "period_end": "2028-03-31",
+      "owner": "Alice",
+      "budget": 220000,
+      "status": "planned"
+    },
+    {
+      "id": "PHASE-006",
+      "name": "Gamma Phase 1: Prototype",
+      "type": "phase",
+      "period_start": "2027-01-01",
+      "period_end": "2027-04-30",
+      "project_id": "PROJ-003",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-014",
+      "name": "User Research",
+      "type": "task",
+      "start_time": "2027-01-01T09:00:00Z",
+      "end_time": "2027-01-31T17:00:00Z",
+      "phase_id": "PHASE-006",
+      "assignee": "Research",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-015",
+      "name": "Prototyping",
+      "type": "task",
+      "start_time": "2027-02-01T09:00:00Z",
+      "end_time": "2027-03-31T17:00:00Z",
+      "phase_id": "PHASE-006",
+      "dependencies": [
+        "TASK-014"
+      ],
+      "assignee": "UX",
+      "status": "planned"
+    },
+    {
+      "id": "MILE-006",
+      "name": "Prototype Approved",
+      "type": "milestone",
+      "date": "2027-04-30",
+      "project_id": "PROJ-003",
+      "dependencies": [
+        "TASK-015"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "PHASE-007",
+      "name": "Gamma Phase 2: Development",
+      "type": "phase",
+      "period_start": "2027-05-01",
+      "period_end": "2027-12-31",
+      "project_id": "PROJ-003",
+      "dependencies": [
+        "MILE-006"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "TASK-016",
+      "name": "iOS Development",
+      "type": "task",
+      "start_time": "2027-05-01T09:00:00Z",
+      "end_time": "2027-09-30T17:00:00Z",
+      "phase_id": "PHASE-007",
+      "assignee": "iOS Team",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-017",
+      "name": "Android Development",
+      "type": "task",
+      "start_time": "2027-05-01T09:00:00Z",
+      "end_time": "2027-10-31T17:00:00Z",
+      "phase_id": "PHASE-007",
+      "assignee": "Android Team",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-018",
+      "name": "API Backend",
+      "type": "task",
+      "start_time": "2027-06-01T09:00:00Z",
+      "end_time": "2027-08-31T17:00:00Z",
+      "phase_id": "PHASE-007",
+      "dependencies": [
+        "TASK-016"
+      ],
+      "assignee": "Backend",
+      "status": "planned"
+    },
+    {
+      "id": "MILE-007",
+      "name": "Beta Testing Ready",
+      "type": "milestone",
+      "date": "2027-11-15",
+      "project_id": "PROJ-003",
+      "dependencies": [
+        "TASK-017",
+        "TASK-018"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "PROJ-004",
+      "name": "Infrastructure Modernization",
+      "type": "project",
+      "period_start": "2026-06-01",
+      "period_end": "2026-12-31",
+      "owner": "Alice",
+      "budget": 80000,
+      "status": "active"
+    },
+    {
+      "id": "TASK-019",
+      "name": "Server Migration",
+      "type": "task",
+      "start_time": "2026-06-01T09:00:00Z",
+      "end_time": "2026-07-31T17:00:00Z",
+      "project_id": "PROJ-004",
+      "assignee": "DevOps",
+      "status": "in_progress"
+    },
+    {
+      "id": "TASK-020",
+      "name": "Security Hardening",
+      "type": "task",
+      "start_time": "2026-08-01T09:00:00Z",
+      "end_time": "2026-09-30T17:00:00Z",
+      "project_id": "PROJ-004",
+      "dependencies": [
+        "TASK-019"
+      ],
+      "assignee": "Security",
+      "status": "pending"
+    },
+    {
+      "id": "MILE-008",
+      "name": "Infrastructure Complete",
+      "type": "milestone",
+      "date": "2026-12-15",
+      "project_id": "PROJ-004",
+      "dependencies": [
+        "TASK-020"
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "TASK-021",
+      "name": "Quarterly Budget Review",
+      "type": "admin",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:00:00Z",
+      "assignee": "Alice",
+      "status": "scheduled"
+    },
+    {
+      "id": "TASK-022",
+      "name": "Vendor Contract Negotiation",
+      "type": "procurement",
+      "start_time": "2026-05-01T09:00:00Z",
+      "end_time": "2026-05-20T17:00:00Z",
+      "assignee": "Alice",
+      "status": "completed"
+    },
+    {
+      "id": "TASK-023",
+      "name": "Team Hiring Sprint",
+      "type": "hr",
+      "period_start": "2026-07-01",
+      "period_end": "2026-09-30",
+      "assignee": "Alice",
+      "status": "active"
+    },
+    {
+      "id": "TASK-024",
+      "name": "Year-End Documentation",
+      "type": "admin",
+      "date": "2027-12-15",
+      "timestamp": "2027-12-15T10:00:00Z",
+      "assignee": "Alice",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-025",
+      "name": "Stakeholder Presentation Q3",
+      "type": "milestone",
+      "date": "2027-09-30",
+      "timestamp": "2027-09-30T15:00:00Z",
+      "assignee": "Alice",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-026",
+      "name": "Security Audit 2027",
+      "type": "compliance",
+      "start_time": "2027-03-01T09:00:00Z",
+      "end_time": "2027-04-15T17:00:00Z",
+      "assignee": "Auditor",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-027",
+      "name": "User Acceptance Testing Coordination",
+      "type": "task",
+      "start_time": "2027-02-01T09:00:00Z",
+      "end_time": "2027-03-01T17:00:00Z",
+      "project_id": "PROJ-001",
+      "assignee": "Alice",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-028",
+      "name": "Post-Launch Monitoring Setup",
+      "type": "task",
+      "start_time": "2027-03-16T09:00:00Z",
+      "end_time": "2027-03-31T17:00:00Z",
+      "project_id": "PROJ-001",
+      "dependencies": [
+        "MILE-003"
+      ],
+      "assignee": "DevOps",
+      "status": "planned"
+    },
+    {
+      "id": "TASK-029",
+      "name": "Project Retrospective",
+      "type": "admin",
+      "date": "2027-04-15",
+      "timestamp": "2027-04-15T13:00:00Z",
+      "project_id": "PROJ-001",
+      "assignee": "Alice",
+      "status": "planned"
+    }
+  ]
+}

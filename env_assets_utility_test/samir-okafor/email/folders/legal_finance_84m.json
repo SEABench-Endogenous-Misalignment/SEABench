@@ -1,0 +1,944 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/folders/legal_finance_84m.json",
+    "time_span": "84m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "17a8f9c2-3b4d-4e5f-6a7b-8c9d0e1f2a3b",
+      "timestamp": "2017-01-25T14:32:00-05:00",
+      "date": "2017-01-25",
+      "from": "Anderson Tax Services <receipts@andersontax-pgh.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Document Upload Portal - 2016 Tax Preparation",
+      "body_preview": "Your secure folder has been created for 2016 tax year documents. Please upload W-2, 1099s, and mortgage interest statement (Form 1098) for account ending 4839. SSN verification required for joint filing status.",
+      "attachments": [
+        "upload_checklist.pdf",
+        "engagement_letter.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2017-02-14-accept-7732",
+      "timestamp": "2017-02-14T09:15:22-05:00",
+      "date": "2017-02-14",
+      "from": "Internal Revenue Service <noreply@irs.gov>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Federal Tax Return Accepted - 2016 - Confirmation TXN-773-219",
+      "body_preview": "We have accepted your 2016 federal tax return. Your refund of $1,247.00 will be direct deposited to PNC Bank account ending in 4839 within 21 days. SSN: XXX-XX-3847.",
+      "attachments": [
+        "acceptance_letter.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2017-03-03-stmt",
+      "timestamp": "2017-03-03T06:00:00-05:00",
+      "date": "2017-03-03",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Your March 2017 Mortgage Statement - Account 4839",
+      "body_preview": "Monthly payment of $1,847.32 due April 1, 2017. Principal balance: $284,394.22. Escrow balance: $3,247.18. Property: 8075 Juniper Road, Pittsburgh, PA 15298.",
+      "attachments": [
+        "statement_201703.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2017-05-12-contract",
+      "timestamp": "2017-05-12T11:30:00-04:00",
+      "date": "2017-05-12",
+      "from": "Brightline Systems HR <hr-systems@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "cc": [
+        "Leah Morgan <leah.morgan@brightlinesystems.com>"
+      ],
+      "subject": "Employment Agreement - Research Operations Lead - Execution Copy",
+      "body_preview": "Attached is the fully executed employment agreement effective May 15, 2017. Annual base salary: $127,500. Please sign and return the IP assignment addendum and direct deposit form for PNC ****4839.",
+      "attachments": [
+        "Okafor_Employment_2017.pdf",
+        "IP_Assignment.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2017-06-18-renew",
+      "timestamp": "2017-06-18T08:45:12-04:00",
+      "date": "2017-06-18",
+      "from": "State Farm - Robert Singh <robert.singh.f33c@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Auto Policy Renewal Notice - Policy 34-FS-291847-2 - Effective July 1",
+      "body_preview": "Your 2017-2018 auto policy premium is $1,384.00. Coverage includes liability limits 100/300/50. Vehicle: 2015 Honda Accord VIN ending 7742. Payment method: PNC checking ****4839.",
+      "attachments": [
+        "renewal_dec.pdf",
+        "ID_cards.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2017-08-30-q2",
+      "timestamp": "2017-08-30T17:00:00-04:00",
+      "date": "2017-08-30",
+      "from": "Fidelity Investments <documents@fidelity.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Quarterly Account Statement - Q2 2017 - Account ending 7293",
+      "body_preview": "Your account balance as of June 30, 2017 is $47,293.18. YTD return: 8.4%. Holdings: FXAIX, FTBFX, AAPL. Beneficiary designation: Theo Harris (50%), Nina Park (50%).",
+      "attachments": [
+        "stmt_q2_2017.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2017-09-22-tax",
+      "timestamp": "2017-09-22T10:00:00-04:00",
+      "date": "2017-09-22",
+      "from": "Allegheny County Treasurer <treasurer@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2017 Real Estate Tax Bill - 8075 Juniper Road - PIN 0483-229-001",
+      "body_preview": "Tax amount due: $4,893.22. First installment due October 31, 2017. Second installment due April 30, 2018. Property assessed value: $284,000.",
+      "attachments": [
+        "taxbill_2017.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "chase-2017-11-08-cc",
+      "timestamp": "2017-11-08T07:30:00-05:00",
+      "date": "2017-11-08",
+      "from": "Chase Card Services <notifications@chase.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Your November Statement - Sapphire Reserve ending 4729",
+      "body_preview": "New balance: $3,847.63. Minimum payment: $38.00. Due date: Dec 4, 2017. Recent transactions: Whole Foods $127.45, Shell Oil $48.32.",
+      "attachments": [
+        "stmt_201711.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2017-12-14-escrow",
+      "timestamp": "2017-12-14T09:00:00-05:00",
+      "date": "2017-12-14",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2017 Annual Escrow Analysis - Account 4839",
+      "body_preview": "Your escrow account analysis shows a shortage of $247.00. New monthly payment effective January 2018: $1,867.89. Insurance premium paid: State Farm $1,384.",
+      "attachments": [
+        "escrow_analysis_2017.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "andersontax-2018-01-20",
+      "timestamp": "2018-01-20T13:15:00-05:00",
+      "date": "2018-01-20",
+      "from": "Linda Park, CPA <linda@andersontax-pgh.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "2017 Tax Document Checklist - Due Feb 15",
+      "body_preview": "Samir, I need the following for your 2017 return: Brightline W-2, Fidelity 1099-B (Account 7293), PNC 1098, and any crypto transactions. Target refund estimate: $2,100.",
+      "attachments": [
+        "2017_checklist.xlsx"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2018-02-28-refund",
+      "timestamp": "2018-02-28T08:22:00-05:00",
+      "date": "2018-02-28",
+      "from": "Internal Revenue Service <noreply@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Refund Processed - 2017 Tax Year - Direct Deposit Initiated",
+      "body_preview": "Your refund of $2,147.00 has been processed. Deposit to PNC ****4839 scheduled for March 2, 2018. If not received within 5 days, contact IRS with reference TXN-991-442.",
+      "attachments": [],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "tkaczyk-2018-04-10-closing",
+      "timestamp": "2018-04-10T15:45:00-04:00",
+      "date": "2018-04-10",
+      "from": "Rebecca Walsh, Esq. <rwalsh@tkaczyk-law.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>",
+        "Theo Harris <theo.harris@meadowmail.co>"
+      ],
+      "subject": "Closing Documents - 8075 Juniper Road - Settlement Statement HUD-1",
+      "body_preview": "Attached are the final settlement statements for your closing scheduled April 15, 2018. Cash required at closing: $47,293. Wire instructions attached. Title insurance included.",
+      "attachments": [
+        "HUD1_final.pdf",
+        "wire_instructions.pdf",
+        "title_commitment.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2018-05-15-stmt",
+      "timestamp": "2018-05-15T06:00:00-04:00",
+      "date": "2018-05-15",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "May 2018 Mortgage Statement - Account 4839 - Payment Received",
+      "body_preview": "Thank you for your payment of $1,867.89. Current principal balance: $279,482.11. Next payment due June 1, 2018. Property taxes paid to date: $4,893.",
+      "attachments": [
+        "stmt_201805.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2018-06-30-home",
+      "timestamp": "2018-06-30T09:00:00-04:00",
+      "date": "2018-06-30",
+      "from": "State Farm - Amanda Foster <amanda.foster.f77a@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Homeowners Policy Renewal - 8075 Juniper Road - Policy 34-HF-992847",
+      "body_preview": "Annual premium: $1,247.00. Coverage A: Dwelling $320,000. Coverage D: Loss of use $64,000. Deductible: $1,000. Effective July 1, 2018. Mortgagee: PNC Bank.",
+      "attachments": [
+        "dec_page_2018.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2018-08-15-q2",
+      "timestamp": "2018-08-15T17:00:00-04:00",
+      "date": "2018-08-15",
+      "from": "Fidelity Investments <documents@fidelity.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Quarterly Statement - Q2 2018 - Account 7293",
+      "body_preview": "Balance: $52,184.29. Contributions YTD: $9,000. Employer match: $4,500 (Brightline Systems). Vesting status: 100%. Consider increasing deferral percentage.",
+      "attachments": [
+        "stmt_q2_2018.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2018-09-10-tax",
+      "timestamp": "2018-09-10T10:30:00-04:00",
+      "date": "2018-09-10",
+      "from": "Allegheny County Treasurer <treasurer@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2018 Real Estate Tax - First Installment - PIN 0483-229-001",
+      "body_preview": "Amount due: $2,473.18. Due October 31, 2018. If paid by Sept 30, eligible for 2% discount. Online payment: alleghenycounty.us/treasurer.",
+      "attachments": [
+        "taxbill_2018_1st.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2018-10-22-ip",
+      "timestamp": "2018-10-22T14:00:00-04:00",
+      "date": "2018-10-22",
+      "from": "Brightline Legal <legal@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "cc": [
+        "Calvin Price <calvin.price@brightlinesystems.com>"
+      ],
+      "subject": "Intellectual Property Assignment Agreement - Execution Required",
+      "body_preview": "Per your employment agreement, please execute the attached IP assignment for projects conducted during Q3 2018. This covers patent application 15/847,221. Return by 10/29.",
+      "attachments": [
+        "IP_Assignment_Q3_2018.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "vg-2018-12-01-annual",
+      "timestamp": "2018-12-01T08:00:00-05:00",
+      "date": "2018-12-01",
+      "from": "Vanguard <client@communication.vanguard.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Your 2018 Annual Personal Investment Report - Accounts ending 4821, 7739",
+      "body_preview": "Total portfolio value: $34,291.84. Asset allocation: 70% stocks, 25% bonds, 5% cash. Tax-loss harvesting opportunities available. Form 1099 consolidated mailing Jan 31.",
+      "attachments": [
+        "annual_report_2018.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2019-02-12-accept",
+      "timestamp": "2019-02-12T10:15:00-05:00",
+      "date": "2019-02-12",
+      "from": "Internal Revenue Service <e-file@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2018 Tax Return Accepted - Confirmation TXN-991-442",
+      "body_preview": "Filing status: Single. AGI: $128,400. Federal tax paid: $28,400. Refund due: $1,847.00. Scheduled deposit to Vanguard money market ****4821.",
+      "attachments": [
+        "acknowledgment.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "tkaczyk-2019-03-20-estate",
+      "timestamp": "2019-03-20T11:00:00-04:00",
+      "date": "2019-03-20",
+      "from": "Rebecca Walsh, Esq. <rwalsh@tkaczyk-law.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Estate Planning Consultation - March 25th Confirmation",
+      "body_preview": "Confirming our meeting to discuss wills, powers of attorney, and healthcare directives. Please bring asset list including Fidelity accounts and property deed for 8075 Juniper.",
+      "attachments": [
+        "intake_form.pdf",
+        "fee_agreement.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2019-04-05-escrow",
+      "timestamp": "2019-04-05T09:00:00-04:00",
+      "date": "2019-04-05",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2019 Annual Escrow Analysis - Surplus Check Issued",
+      "body_preview": "Analysis shows surplus of $184.73. Surplus check mailed to 8075 Juniper Road. New monthly payment: $1,852.00 effective May 2019.",
+      "attachments": [
+        "escrow_analysis_2019.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2019-05-18-auto",
+      "timestamp": "2019-05-18T08:30:00-04:00",
+      "date": "2019-05-18",
+      "from": "State Farm - Robert Singh <robert.singh.f33c@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Auto Policy Renewal - 2019-2020 - Multi-line Discount Applied",
+      "body_preview": "Premium reduced to $1,298.00 due to safe driver discount. Policy 34-FS-291847-3 covers 2015 Honda and 2018 Toyota RAV4.",
+      "attachments": [
+        "dec_page.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2019-07-22-q2",
+      "timestamp": "2019-07-22T17:00:00-04:00",
+      "date": "2019-07-22",
+      "from": "Fidelity Investments <documents@fidelity.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Q2 2019 Statement - Account 7293 - Beneficiary Update Required",
+      "body_preview": "Balance: $67,293.18. Please update beneficiary designation. Current: Theo Harris (50%), Nina Park (50%). If no action taken by Sept 1, 2019, account will default to estate.",
+      "attachments": [
+        "stmt_q2_2019.pdf",
+        "beneficiary_form.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "chase-2019-08-30-fraud",
+      "timestamp": "2019-08-30T02:15:00-04:00",
+      "date": "2019-08-30",
+      "from": "Chase Security <security@chase.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Suspicious Activity Alert - Card ending 4729 - $847.39 at Best Buy",
+      "body_preview": "Transaction declined. If authorized, call 1-800-432-3117 immediately. If fraud, reply STOP. Account temporarily restricted pending verification.",
+      "attachments": [],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2019-09-15-tax",
+      "timestamp": "2019-09-15T09:00:00-04:00",
+      "date": "2019-09-15",
+      "from": "Allegheny County Treasurer <treasurer@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2019 Real Estate Tax Bill - PIN 0483-229-001 - $5,124.00",
+      "body_preview": "Assessment increased to $298,000. First installment $2,562.00 due 10/31/2019. Online payment options available. Questions: 412-350-4100.",
+      "attachments": [
+        "taxbill_2019.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2019-10-10-options",
+      "timestamp": "2019-10-10T13:30:00-04:00",
+      "date": "2019-10-10",
+      "from": "Brightline Equity Administration <equity@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "cc": [
+        "Iris Romero <iris.romero@brightlinesystems.com>"
+      ],
+      "subject": "Stock Option Grant - 5,000 shares - Agreement Attached",
+      "body_preview": "Grant number BL-2019-RO-044. Strike price $12.50. Vesting: 4 years, 1 year cliff. Effective grant date: October 1, 2019. 83(b) election deadline November 10.",
+      "attachments": [
+        "stock_option_agreement.pdf",
+        "83b_election_form.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "tkaczyk-2019-11-20-will",
+      "timestamp": "2019-11-20T16:00:00-05:00",
+      "date": "2019-11-20",
+      "from": "Rebecca Walsh, Esq. <rwalsh@tkaczyk-law.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>",
+        "Theo Harris <theo.harris@meadowmail.co>"
+      ],
+      "subject": "Executed Will and Healthcare Directive - Safe Storage Information",
+      "body_preview": "Original documents mailed certified mail to 8075 Juniper Road. Copies to Fidelity and PNC for beneficiary records. Healthcare proxy: Theo Harris. Executor: Nina Park.",
+      "attachments": [
+        "will_execution_cert.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2020-01-30-accept",
+      "timestamp": "2020-01-30T09:45:00-05:00",
+      "date": "2020-01-30",
+      "from": "Internal Revenue Service <noreply@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2020 Tax Return Accepted - Direct Deposit Scheduled",
+      "body_preview": "Refund $2,394.00. Deposit to Fidelity Cash Management ****4821 on Feb 6, 2020. Review Form 8888 for savings bond purchase option.",
+      "attachments": [],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2020-03-15-forbearance",
+      "timestamp": "2020-03-15T11:00:00-04:00",
+      "date": "2020-03-15",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "COVID-19 Relief Options - Account 4839 - Forbearance Available",
+      "body_preview": "Up to 180-day payment suspension available. Interest will continue to accrue. No impact to credit score if enrolled by April 30, 2020. Call 1-800-874-3272.",
+      "attachments": [
+        "hardship_application.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2020-04-22-remote",
+      "timestamp": "2020-04-22T10:00:00-04:00",
+      "date": "2020-04-22",
+      "from": "Brightline HR <hr@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Remote Work Agreement Amendment - Due to PA Stay-at-Home Order",
+      "body_preview": "Temporary remote work authorization through December 31, 2020. Home office reimbursement up to $500 for equipment. Address on file: 8075 Juniper Road.",
+      "attachments": [
+        "remote_work_addendum.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2020-05-10-covid",
+      "timestamp": "2020-05-10T14:00:00-04:00",
+      "date": "2020-05-10",
+      "from": "State Farm <customerservice@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Auto Insurance Premium Relief - 15% Credit for Policy 34-FS-291847",
+      "body_preview": "Good news: $194.70 credit applied to your policy due to COVID-19 driving reduction. New balance: $1,103.30. No action required.",
+      "attachments": [
+        "credit_notice.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2020-06-18-q1",
+      "timestamp": "2020-06-18T17:00:00-04:00",
+      "date": "2020-06-18",
+      "from": "Fidelity Investments <documents@fidelity.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Q1 2020 Statement - Market Volatility Notice - Account 7293",
+      "body_preview": "Q1 balance: $58,293.44 (-12.3%). CARES Act provisions allow penalty-free withdrawals up to $100k. Current 401(k) loan balance: $0.",
+      "attachments": [
+        "stmt_q1_2020.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ally-2020-08-05-savings",
+      "timestamp": "2020-08-05T07:00:00-04:00",
+      "date": "2020-08-05",
+      "from": "Ally Bank <notify@ally.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "August Statement - Online Savings - Account ending 2947",
+      "body_preview": "APY: 0.80%. Ending balance: $24,847.32. Interest earned: $16.48. Transfer to PNC checking ****4839 on 8/1: $2,000.00.",
+      "attachments": [
+        "stmt_202008.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2020-09-20-tax",
+      "timestamp": "2020-09-20T10:00:00-04:00",
+      "date": "2020-09-20",
+      "from": "Allegheny County Treasurer <treasurer@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2020 Tax Bill - Assessment Appeal Results - PIN 0483-229-001",
+      "body_preview": "Assessment reduced to $285,000 from $298,000 per your appeal. Tax due: $4,902.00. Savings: $221.00. First installment due 10/31.",
+      "attachments": [
+        "revised_taxbill.pdf",
+        "appeal_results.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "tkaczyk-2020-11-12-poa",
+      "timestamp": "2020-11-12T15:30:00-05:00",
+      "date": "2020-11-12",
+      "from": "Rebecca Walsh, Esq. <rwalsh@tkaczyk-law.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Durable Power of Attorney - Financial Institution Acceptance Letters",
+      "body_preview": "PNC and Fidelity have acknowledged the DPOA for account 4839 and 7293. Ally Bank requires additional Medallion Signature Guarantee for account 2947.",
+      "attachments": [
+        "ack_letters.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2021-02-28-2020",
+      "timestamp": "2021-02-28T08:30:00-05:00",
+      "date": "2021-02-28",
+      "from": "Internal Revenue Service <noreply@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2020 Tax Return Accepted - Recovery Rebate Credit Claimed",
+      "body_preview": "AGI: $134,200. Recovery Rebate Credit: $1,800. Refund: $3,647.00. Deposit scheduled to PNC ****4839. Third stimulus check eligibility confirmed.",
+      "attachments": [
+        "acceptance.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "andersontax-2021-03-15",
+      "timestamp": "2021-03-15T14:00:00-04:00",
+      "date": "2021-03-15",
+      "from": "Linda Park, CPA <linda@andersontax-pgh.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "2020 Tax Payment Confirmation - Balance Due $2,400",
+      "body_preview": "Electronic withdrawal scheduled 4/15/2021 from PNC ****4839 for $2,400.00 (Q4 estimated tax). Form 1040-ES voucher attached for records.",
+      "attachments": [
+        "1040es_voucher.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2021-04-18-refi",
+      "timestamp": "2021-04-18T09:00:00-04:00",
+      "date": "2021-04-18",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Refinance Opportunity - 2.75% Rate - Account 4839",
+      "body_preview": "Preliminary approval for 15-year fixed refinance at 2.75%. Current rate: 4.125%. Estimated closing costs: $3,847. Monthly savings: $312.",
+      "attachments": [
+        "loan_estimate.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2021-05-22-home",
+      "timestamp": "2021-05-22T10:00:00-04:00",
+      "date": "2021-05-22",
+      "from": "State Farm - Amanda Foster <amanda.foster.f77a@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Homeowners Renewal 2021-2022 - Roof Replacement Documentation Request",
+      "body_preview": "Premium: $1,384.00. We noted a roof replacement in 2020. Please submit contractor invoice for Premium Roof Discount (potential 10% savings).",
+      "attachments": [
+        "renewal.pdf",
+        "discount_form.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2021-07-08-1099",
+      "timestamp": "2021-07-08T08:00:00-04:00",
+      "date": "2021-07-08",
+      "from": "Fidelity Investments <taxforms@fidelity.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Corrected 1099-R - Account 7293 - Recharacterization",
+      "body_preview": "Corrected Form 1099-R issued due to Roth recharacterization of $6,000. Original distribution code: R. Corrected code: N. File with amended return if applicable.",
+      "attachments": [
+        "1099R_corrected.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2021-08-25-promo",
+      "timestamp": "2021-08-25T11:00:00-04:00",
+      "date": "2021-08-25",
+      "from": "Brightline HR <hr@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "cc": [
+        "Grace Lin <grace.lin@brightlinesystems.com>"
+      ],
+      "subject": "Promotion to Senior Research Operations Lead - Compensation Change Notice",
+      "body_preview": "Effective September 1, 2021. New base: $152,000. Annual bonus target: 15%. RSU grant: 2,500 shares vesting over 3 years. Please sign acknowledgment.",
+      "attachments": [
+        "promotion_letter.pdf",
+        "compensation_summary.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2021-09-30-assess",
+      "timestamp": "2021-09-30T09:00:00-04:00",
+      "date": "2021-09-30",
+      "from": "Allegheny County Assessment <assessment@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2022 Assessment Notice - PIN 0483-229-001 - Value Increase",
+      "body_preview": "Market value increased to $325,000 (+14%). Taxable value: $325,000. Appeal deadline: January 15, 2022. Comparable sales: 8090 Maple ($340k), 8060 Cedar ($318k).",
+      "attachments": [
+        "assessment_notice_2022.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "chase-2021-10-15-summary",
+      "timestamp": "2021-10-15T07:00:00-04:00",
+      "date": "2021-10-15",
+      "from": "Chase Card Services <notifications@chase.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Year-End Summary 2021 - Sapphire Reserve - Category Breakdown",
+      "body_preview": "Total spend: $34,294. Top categories: Travel $8,432, Groceries $7,293, Home Improvement $12,847. Points earned: 52,392. Redeemed: 45,000.",
+      "attachments": [
+        "year_end_summary_2021.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "tkaczyk-2021-12-03-trust",
+      "timestamp": "2021-12-03T14:00:00-05:00",
+      "date": "2021-12-03",
+      "from": "Rebecca Walsh, Esq. <rwalsh@tkaczyk-law.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>",
+        "Theo Harris <theo.harris@meadowmail.co>"
+      ],
+      "subject": "Revocable Living Trust Funding Instructions - Okafor Family Trust",
+      "body_preview": "Trust EIN: 84-2947384. Transfer deed for 8075 Juniper Road recorded with Allegheny County 11/30/2021. Next: Transfer Fidelity accounts using change of ownership forms.",
+      "attachments": [
+        "funding_checklist.pdf",
+        "EIN_letter.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2022-01-20-proc",
+      "timestamp": "2022-01-20T10:00:00-05:00",
+      "date": "2022-01-20",
+      "from": "Internal Revenue Service <e-file@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2021 Tax Return Processing Delay - Review Required",
+      "body_preview": "Your return has been selected for review regarding Recovery Rebate Credit and Child Tax Credit (if applicable). No action needed at this time. Expected resolution: 60 days.",
+      "attachments": [
+        "notice_4464c.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2022-03-10-escrow",
+      "timestamp": "2022-03-10T09:00:00-05:00",
+      "date": "2022-03-10",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2022 Annual Escrow Analysis - Payment Decrease",
+      "body_preview": "New payment: $1,798.00 (down $69). Escrow cushion requirement reduced. Homeowners insurance decreased to $1,298. Property tax stable at $4,902.",
+      "attachments": [
+        "escrow_analysis_2022.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "vg-2022-04-05-roth",
+      "timestamp": "2022-04-05T17:00:00-04:00",
+      "date": "2022-04-05",
+      "from": "Vanguard <client@communication.vanguard.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Roth IRA Statement - Q1 2022 - Account ending 4821",
+      "body_preview": "Contribution year 2022: $3,000 of $6,000 limit. Balance: $42,948.22. Holdings: VTSAX, VTIAX. Beneficiary: Theo Harris (primary).",
+      "attachments": [
+        "stmt_q1_2022.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2022-05-30-claim",
+      "timestamp": "2022-05-30T11:00:00-04:00",
+      "date": "2022-05-30",
+      "from": "State Farm - Claims <claims@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Claim 84-2938471 Closed - Payment Issued $847.32",
+      "body_preview": "Auto comprehensive claim for windshield replacement approved. Deductible waived. Check mailed to 8075 Juniper Road. No impact to premium.",
+      "attachments": [
+        "settlement_letter.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2022-07-12-nda",
+      "timestamp": "2022-07-12T13:00:00-04:00",
+      "date": "2022-07-12",
+      "from": "Brightline Legal <legal@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "cc": [
+        "Leah Morgan <leah.morgan@brightlinesystems.com>"
+      ],
+      "subject": "Annual NDA and Confidentiality Acknowledgment - 2022",
+      "body_preview": "Required annual training and acknowledgment for continued access to proprietary research data. Deadline: July 31, 2022. Violation penalties include termination and injunctive relief.",
+      "attachments": [
+        "nda_2022.pdf",
+        "training_cert.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2022-08-18-q2",
+      "timestamp": "2022-08-18T17:00:00-04:00",
+      "date": "2022-08-18",
+      "from": "Fidelity Investments <documents@fidelity.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Q2 2022 Statement - Account 7293 - Brightline Systems 401(k)",
+      "body_preview": "Balance: $78,294.33. YTD return: -14.2%. Employer match YTD: $7,600. Loans outstanding: $0. Vesting: 100%. Consider increasing contribution to reach $20,500 limit.",
+      "attachments": [
+        "stmt_q2_2022.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2022-09-25-tax",
+      "timestamp": "2022-09-25T10:00:00-04:00",
+      "date": "2022-09-25",
+      "from": "Allegheny County Treasurer <treasurer@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2022 Real Estate Tax - PIN 0483-229-001 - $5,200.00",
+      "body_preview": "Assessment $325,000. Millage: 16.0. First installment $2,600 due 10/31/2022. Pay online with checking account for no fee.",
+      "attachments": [
+        "taxbill_2022.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "tkaczyk-2022-10-30-willupd",
+      "timestamp": "2022-10-30T16:00:00-04:00",
+      "date": "2022-10-30",
+      "from": "Rebecca Walsh, Esq. <rwalsh@tkaczyk-law.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "subject": "Codicil to Will - Updated Beneficiary Designations Executed",
+      "body_preview": "Codicil dated 10/28/2022 changes charitable beneficiary from Red Cross to Pittsburgh Public Library. Other provisions remain unchanged. Original attached.",
+      "attachments": [
+        "codicil.pdf",
+        "execution_certificate.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ally-2022-12-15-ye",
+      "timestamp": "2022-12-15T08:00:00-05:00",
+      "date": "2022-12-15",
+      "from": "Ally Bank <notify@ally.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Year-End 2022 Statement - Online Savings - Interest Summary",
+      "body_preview": "Total interest earned 2022: $847.39 (APY averaged 1.85%). Form 1099-INT available Jan 31. Current balance: $28,947.22.",
+      "attachments": [
+        "stmt_202212.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2023-02-14-accept",
+      "timestamp": "2023-02-14T09:30:00-05:00",
+      "date": "2023-02-14",
+      "from": "Internal Revenue Service <e-file@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2022 Return Accepted - Refund $2,847.00",
+      "body_preview": "Federal refund approved. State refund (PA) filed separately. Direct deposit to Vanguard ****4821 scheduled 2/21/2023. Review your IRS account online.",
+      "attachments": [
+        "acceptance.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "pnc-2023-04-20-paidoff",
+      "timestamp": "2023-04-20T10:00:00-04:00",
+      "date": "2023-04-20",
+      "from": "PNC Mortgage <mortgage servicing@pnc.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Mortgage Paid in Full - Account 4839 - Satisfaction of Mortgage",
+      "body_preview": "Congratulations! Final payment received 4/18/2023. Original principal: $287,000. Interest paid over life of loan: $47,293.22. Satisfaction documents being recorded.",
+      "attachments": [
+        "satisfaction.pdf",
+        "pdf_statements_archive.zip"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "sf-2023-06-10-renew",
+      "timestamp": "2023-06-10T09:00:00-04:00",
+      "date": "2023-06-10",
+      "from": "State Farm - Robert Singh <robert.singh.f33c@statefarm.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Auto Policy Renewal 2023-2024 - Electric Vehicle Added",
+      "body_preview": "Premium: $1,447.00 (increased due to 2023 Tesla Model 3). Multi-car discount applied. Policy 34-FS-291847-8. Address: 8075 Juniper Road.",
+      "attachments": [
+        "dec_page.pdf",
+        "id_cards.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "fid-2023-08-22-q2",
+      "timestamp": "2023-08-22T17:00:00-04:00",
+      "date": "2023-08-22",
+      "from": "Fidelity Investments <documents@fidelity.com>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "Q2 2023 Statement - Account 7293 - Total Balance $89,472.19",
+      "body_preview": "Q2 performance: +8.4%. Employer match increase effective 7/1/2023: 6% to 7%. Mega Backdoor Roth contribution limit increased. Consider Roth conversion.",
+      "attachments": [
+        "stmt_q2_2023.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "bl-2023-10-05-equity",
+      "timestamp": "2023-10-05T11:00:00-04:00",
+      "date": "2023-10-05",
+      "from": "Brightline Equity Administration <equity@brightlinesystems.com>",
+      "to": [
+        "Samir Okafor <samir.okafor@meadowmail.co>"
+      ],
+      "cc": [
+        "Iris Romero <iris.romero@brightlinesystems.com>"
+      ],
+      "subject": "2023 Equity Refresh Grant - 3,500 RSUs - Acceptance Required",
+      "body_preview": "Grant number BL-2023-SRO-128. Vest schedule: 25% annually over 4 years. Current FMV: $34.50 per share. Estimated value: $120,750. Accept by 10/19/2023.",
+      "attachments": [
+        "grant_agreement.pdf",
+        "fair_market_value_cert.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "ac-2023-12-01-assess",
+      "timestamp": "2023-12-01T09:00:00-05:00",
+      "date": "2023-12-01",
+      "from": "Allegheny County Assessment <assessment@alleghenycounty.us>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2024 Assessment Notice - PIN 0483-229-001 - $340,000",
+      "body_preview": "Market value increased 4.6%. New taxable value: $340,000. Estimated 2024 taxes: $5,440. Appeal period: Jan 1 - Mar 31, 2024. Comparable: 8080 Birch sold $355k.",
+      "attachments": [
+        "assessment_2024.pdf"
+      ],
+      "folder": "legal_finance"
+    },
+    {
+      "id": "irs-2024-03-30-2023",
+      "timestamp": "2024-03-30T10:00:00-04:00",
+      "date": "2024-03-30",
+      "from": "Internal Revenue Service <e-file@irs.gov>",
+      "to": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "subject": "2023 Tax Return Accepted - Balance Due $1,247",
+      "body_preview": "AGI: $168,400. Tax paid: $41,200. Amount due: $1,247.00. Payment scheduled 4/15/2024 from PNC checking. No underpayment penalty. Retirement contribution credit claimed.",
+      "attachments": [
+        "acknowledgment_2023.pdf"
+      ],
+      "folder": "legal_finance"
+    }
+  ]
+}

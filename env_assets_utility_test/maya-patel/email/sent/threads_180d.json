@@ -1,0 +1,462 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/sent/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T14:32:00Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "thread_18f4a9c2d7e5",
+      "timestamp": "2024-11-14T14:23:00-05:00",
+      "subject": "Q3 Research Protocol Updates",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "leah.morgan@rivertonhealthlabs.com"
+      ],
+      "message_count": 4,
+      "snippet": "Attached are the revised protocols for the accessibility study...",
+      "labels": [
+        "sent",
+        "work",
+        "q3-project"
+      ]
+    },
+    {
+      "id": "thread_9b3d8e7a1f2c",
+      "timestamp": "2024-11-12T18:45:00-05:00",
+      "subject": "Utility bill split + internet",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "message_count": 2,
+      "snippet": "The electric bill came through today, your half is $64.20...",
+      "labels": [
+        "sent",
+        "personal",
+        "household"
+      ]
+    },
+    {
+      "id": "thread_7c2a5b9d3e8f",
+      "timestamp": "2024-11-10T14:15:00-05:00",
+      "subject": "Data pipeline review - Thursday",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "message_count": 6,
+      "snippet": "Can we move our sync to 3pm? I have a conflict with the UX team...",
+      "labels": [
+        "sent",
+        "work",
+        "data-ops"
+      ]
+    },
+    {
+      "id": "thread_4d9e1a7b5c3d",
+      "timestamp": "2024-11-08T20:30:00-05:00",
+      "subject": "Saturday farmer's market?",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "nina.park@gmail.com"
+      ],
+      "message_count": 3,
+      "snippet": "Saw that the Strip District market has those apples you like...",
+      "labels": [
+        "sent",
+        "personal",
+        "social"
+      ]
+    },
+    {
+      "id": "thread_1f8a3c6e9d2b",
+      "timestamp": "2024-11-05T11:00:00-05:00",
+      "subject": "Participant consent forms - Batch 12",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "iris.romero@rivertonhealthlabs.com"
+      ],
+      "message_count": 2,
+      "snippet": "All signed docs scanned and uploaded to the secure drive...",
+      "labels": [
+        "sent",
+        "work",
+        "compliance"
+      ]
+    },
+    {
+      "id": "thread_6e5b2a8f4c7d",
+      "timestamp": "2024-11-01T16:20:00-04:00",
+      "subject": "Hiking trail conditions",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "owen.reed@proton.me"
+      ],
+      "message_count": 5,
+      "snippet": "Checked the Ohiopyle website, looks like the falls trail is open...",
+      "labels": [
+        "sent",
+        "personal",
+        "outdoors"
+      ]
+    },
+    {
+      "id": "thread_3a9f7e2b8d1c",
+      "timestamp": "2024-10-28T13:45:00-04:00",
+      "subject": "Accessibility audit timeline",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "message_count": 7,
+      "snippet": "Drafting the schedule for the WCAG 2.1 review sessions...",
+      "labels": [
+        "sent",
+        "work",
+        "accessibility"
+      ]
+    },
+    {
+      "id": "thread_8d4c1a6e9b5f",
+      "timestamp": "2024-10-25T19:10:00-04:00",
+      "subject": "Grocery run tomorrow",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "message_count": 2,
+      "snippet": "Adding oat milk and the sourdough bread to the list...",
+      "labels": [
+        "sent",
+        "personal",
+        "household"
+      ]
+    },
+    {
+      "id": "thread_5b2e9c7a4f8d",
+      "timestamp": "2024-10-22T10:30:00-04:00",
+      "subject": "Meeting notes - Oct 22 sync",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "leah.morgan@rivertonhealthlabs.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "message_count": 3,
+      "snippet": "Key decisions from today's standup are in the shared doc...",
+      "labels": [
+        "sent",
+        "work",
+        "meeting-notes"
+      ]
+    },
+    {
+      "id": "thread_2f7a5d8c3e9b",
+      "timestamp": "2024-10-18T15:00:00-04:00",
+      "subject": "Photography project collaboration",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "malik.brooks@fastmail.fm"
+      ],
+      "message_count": 4,
+      "snippet": "Love the portraits you took at the gallery opening! Wondering if...",
+      "labels": [
+        "sent",
+        "personal",
+        "creative"
+      ]
+    },
+    {
+      "id": "thread_9c4e8b2a7f5d",
+      "timestamp": "2024-10-15T09:00:00-04:00",
+      "subject": "Q4 recruitment targets",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "iris.romero@rivertonhealthlabs.com"
+      ],
+      "message_count": 2,
+      "snippet": "Updated the screening criteria based on last week's feedback...",
+      "labels": [
+        "sent",
+        "work",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "thread_1a6d3f9c5e8b",
+      "timestamp": "2024-10-12T12:30:00-04:00",
+      "subject": "Birthday dinner reservations",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "elena.vega@icloud.com"
+      ],
+      "message_count": 6,
+      "snippet": "T admittedly waits until last minute but got us a table at Dish...",
+      "labels": [
+        "sent",
+        "personal",
+        "events"
+      ]
+    },
+    {
+      "id": "thread_7f9c2a5d4e8b",
+      "timestamp": "2024-10-08T14:20:00-04:00",
+      "subject": "Usability testing schedule confirmation",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "message_count": 3,
+      "snippet": "Participants confirmed for Tuesday and Thursday sessions...",
+      "labels": [
+        "sent",
+        "work",
+        "research"
+      ]
+    },
+    {
+      "id": "thread_4b8d1e7a3f9c",
+      "timestamp": "2024-10-05T17:00:00-04:00",
+      "subject": "Landlord response - heating issue",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "message_count": 4,
+      "snippet": "He finally replied about the furnace inspection, scheduled for Monday...",
+      "labels": [
+        "sent",
+        "personal",
+        "household"
+      ]
+    },
+    {
+      "id": "thread_6e3b9a7c2d5f",
+      "timestamp": "2024-10-01T11:30:00-04:00",
+      "subject": "Database migration checklist",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "message_count": 5,
+      "snippet": "Completed the validation scripts for the participant data transfer...",
+      "labels": [
+        "sent",
+        "work",
+        "engineering"
+      ]
+    },
+    {
+      "id": "thread_2d9a7f4e8b1c",
+      "timestamp": "2024-09-28T20:00:00-04:00",
+      "subject": "Book club selection - November",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "nina.park@gmail.com"
+      ],
+      "message_count": 8,
+      "snippet": "Nominated 'The Invisible Life of Addie LaRue' for next month...",
+      "labels": [
+        "sent",
+        "personal",
+        "book-club"
+      ]
+    },
+    {
+      "id": "thread_8a5c3e9b7d2f",
+      "timestamp": "2024-09-25T10:00:00-04:00",
+      "subject": "FY24 budget allocation - UX Research",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "leah.morgan@rivertonhealthlabs.com"
+      ],
+      "message_count": 2,
+      "snippet": "Submitted the revised projections for Q1 spending...",
+      "labels": [
+        "sent",
+        "work",
+        "finance"
+      ]
+    },
+    {
+      "id": "thread_5f2e8c4a9d7b",
+      "timestamp": "2024-09-20T18:15:00-04:00",
+      "subject": "Concert tickets - The War on Drugs",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "owen.reed@proton.me"
+      ],
+      "message_count": 3,
+      "snippet": "Secured two tickets for the November show at Stage AE...",
+      "labels": [
+        "sent",
+        "personal",
+        "music"
+      ]
+    },
+    {
+      "id": "thread_3c7b1f8e5a9d",
+      "timestamp": "2024-09-15T13:30:00-04:00",
+      "subject": "Vendor selection - recruitment platform",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "iris.romero@rivertonhealthlabs.com",
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "message_count": 4,
+      "snippet": "Reached out to User Interviews and Respondent.io for quotes...",
+      "labels": [
+        "sent",
+        "work",
+        "vendors"
+      ]
+    },
+    {
+      "id": "thread_9e4b7a2c8f5d",
+      "timestamp": "2024-09-10T16:45:00-04:00",
+      "subject": "Gym membership referral",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "malik.brooks@fastmail.fm"
+      ],
+      "message_count": 2,
+      "snippet": "They have a bring-a-friend deal this month, saves us both $50...",
+      "labels": [
+        "sent",
+        "personal",
+        "fitness"
+      ]
+    },
+    {
+      "id": "thread_1f8c5e2b9a7d",
+      "timestamp": "2024-09-05T09:30:00-04:00",
+      "subject": "Security review - participant data",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "message_count": 3,
+      "snippet": "Completed the audit of PII storage in the research database...",
+      "labels": [
+        "sent",
+        "work",
+        "security"
+      ]
+    },
+    {
+      "id": "thread_6a9d3f7c4e8b",
+      "timestamp": "2024-09-01T11:00:00-04:00",
+      "subject": "Portugal itinerary thoughts",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "elena.vega@icloud.com"
+      ],
+      "message_count": 5,
+      "snippet": "Looking at flights into Lisbon, found a good deal for March...",
+      "labels": [
+        "sent",
+        "personal",
+        "travel"
+      ]
+    },
+    {
+      "id": "thread_4c8e2b5a9f7d",
+      "timestamp": "2024-08-28T19:30:00-04:00",
+      "subject": "Living room furniture arrangement",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "message_count": 4,
+      "snippet": "Measured the space, the new couch should fit against the east wall...",
+      "labels": [
+        "sent",
+        "personal",
+        "household"
+      ]
+    },
+    {
+      "id": "thread_7b2e9c5a8f4d",
+      "timestamp": "2024-08-25T14:00:00-04:00",
+      "subject": "Conference presentation - CHI 2025",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "leah.morgan@rivertonhealthlabs.com"
+      ],
+      "message_count": 6,
+      "snippet": "Draft abstract attached, focusing on the diabetes management findings...",
+      "labels": [
+        "sent",
+        "work",
+        "conference"
+      ]
+    },
+    {
+      "id": "thread_2f9a7d4e8c1b",
+      "timestamp": "2024-08-20T15:20:00-04:00",
+      "subject": "Job referral for UX role",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "nina.park@gmail.com"
+      ],
+      "message_count": 3,
+      "snippet": "Riverton is hiring a junior researcher, thought of you immediately...",
+      "labels": [
+        "sent",
+        "personal",
+        "career"
+      ]
+    },
+    {
+      "id": "thread_8d5c3a9f7e2b",
+      "timestamp": "2024-08-15T10:45:00-04:00",
+      "subject": "Intern onboarding schedule",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "message_count": 2,
+      "snippet": "Confirmed the new UX intern starts September 3rd, drafting the rotation plan...",
+      "labels": [
+        "sent",
+        "work",
+        "hiring"
+      ]
+    },
+    {
+      "id": "thread_5e2b8c4a9f7d",
+      "timestamp": "2024-08-10T17:30:00-04:00",
+      "subject": "Housewarming gift ideas",
+      "from": "maya.patel@harborinbox.com",
+      "to": [
+        "owen.reed@proton.me"
+      ],
+      "message_count": 4,
+      "snippet": "Thinking of getting them that cast iron skillet from the registry...",
+      "labels": [
+        "sent",
+        "personal",
+        "gifts"
+      ]
+    },
+    {
+      "id": "thread_3a9f7c5e2b8d",
+      "timestamp": "2024-08-05T11:15:00-04:00",
+      "subject": "Protocol amendments - IRB submission",
+      "from": "maya.patel@brightlinesystems.com",
+      "to": [
+        "iris.romero@rivertonhealthlabs.com"
+      ],
+      "message_count": 3,
+      "snippet": "Revised the consent language per the committee's feedback...",
+      "labels": [
+        "sent",
+        "work",
+        "irb"
+      ]
+    }
+  ]
+}

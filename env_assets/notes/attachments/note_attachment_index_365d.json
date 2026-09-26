@@ -1,0 +1,335 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/attachments/note_attachment_index_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T14:35:00Z"
+  },
+  "records": [
+    {
+      "id": "att_001_grocery_receipt",
+      "timestamp": "2025-07-15T10:30:00Z",
+      "note_id": "note_daily_2025_07",
+      "filename": "receipt_metro_0715.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 245,
+      "category": "finance"
+    },
+    {
+      "id": "att_002_whiteboard_photo",
+      "timestamp": "2025-08-02T14:15:00Z",
+      "note_id": "note_proj_alpha",
+      "filename": "brainstorm_session_aug.jpg",
+      "mime_type": "image/jpeg",
+      "size_kb": 1842,
+      "category": "work"
+    },
+    {
+      "id": "att_003_voice_memo",
+      "timestamp": "2025-08-20T09:45:00Z",
+      "note_id": "note_ideas_0820",
+      "filename": "podcast_idea_01.m4a",
+      "mime_type": "audio/mp4",
+      "size_kb": 4096,
+      "category": "personal"
+    },
+    {
+      "id": "att_004_contract_draft",
+      "timestamp": "2025-09-05T16:20:00Z",
+      "note_id": "note_legal_sept",
+      "filename": "consulting_agreement_draft_v1.docx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_kb": 87,
+      "category": "legal"
+    },
+    {
+      "id": "att_005_travel_itinerary",
+      "timestamp": "2025-09-18T11:00:00Z",
+      "note_id": "note_trip_boston",
+      "filename": "flight_hotel_confirmations.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 512,
+      "category": "travel"
+    },
+    {
+      "id": "att_006_medical_scan",
+      "timestamp": "2025-10-01T13:30:00Z",
+      "note_id": "note_health_records",
+      "filename": "annual_physical_summary_2025.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 320,
+      "category": "health"
+    },
+    {
+      "id": "att_007_warranty_info",
+      "timestamp": "2025-10-12T08:45:00Z",
+      "note_id": "note_home_inventory",
+      "filename": "dishwasher_warranty.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 180,
+      "category": "home"
+    },
+    {
+      "id": "att_008_screenshot",
+      "timestamp": "2025-10-25T17:10:00Z",
+      "note_id": "note_support_tickets",
+      "filename": "error_screen_1025.png",
+      "mime_type": "image/png",
+      "size_kb": 420,
+      "category": "tech"
+    },
+    {
+      "id": "att_009_recipe_pdf",
+      "timestamp": "2025-11-08T12:00:00Z",
+      "note_id": "note_recipes_holiday",
+      "filename": "turkey_brine_recipe.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 95,
+      "category": "cooking"
+    },
+    {
+      "id": "att_010_presentation",
+      "timestamp": "2025-11-20T15:45:00Z",
+      "note_id": "note_work_q4",
+      "filename": "quarterly_review_slides.pptx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "size_kb": 2450,
+      "category": "work"
+    },
+    {
+      "id": "att_011_spreadsheet",
+      "timestamp": "2025-12-03T10:15:00Z",
+      "note_id": "note_budget_2026",
+      "filename": "budget_forecast_2026.xlsx",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_kb": 156,
+      "category": "finance"
+    },
+    {
+      "id": "att_012_certificate",
+      "timestamp": "2025-12-15T14:30:00Z",
+      "note_id": "note_certifications",
+      "filename": "aws_cloud_practitioner_cert.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 210,
+      "category": "education"
+    },
+    {
+      "id": "att_013_invoice",
+      "timestamp": "2025-12-28T09:00:00Z",
+      "note_id": "note_freelance_dec",
+      "filename": "client_xyz_invoice_dec25.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 115,
+      "category": "finance"
+    },
+    {
+      "id": "att_014_passport_scan",
+      "timestamp": "2026-01-10T11:30:00Z",
+      "note_id": "note_travel_docs",
+      "filename": "passport_copy_internal.jpg",
+      "mime_type": "image/jpeg",
+      "size_kb": 890,
+      "category": "identification"
+    },
+    {
+      "id": "att_015_insurance_card",
+      "timestamp": "2026-01-22T16:00:00Z",
+      "note_id": "note_insurance_2026",
+      "filename": "insurance_card_front_back.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 445,
+      "category": "insurance"
+    },
+    {
+      "id": "att_016_project_plan",
+      "timestamp": "2026-02-05T08:20:00Z",
+      "note_id": "note_kitchen_reno",
+      "filename": "cabinet_measurements.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 670,
+      "category": "home"
+    },
+    {
+      "id": "att_017_audio_lecture",
+      "timestamp": "2026-02-14T13:45:00Z",
+      "note_id": "note_learning_feb",
+      "filename": "ml_course_lecture_5.m4a",
+      "mime_type": "audio/mp4",
+      "size_kb": 15234,
+      "category": "education"
+    },
+    {
+      "id": "att_018_video_clip",
+      "timestamp": "2026-02-28T10:10:00Z",
+      "note_id": "note_family_events",
+      "filename": "birthday_party_clip.mp4",
+      "mime_type": "video/mp4",
+      "size_kb": 24576,
+      "category": "personal"
+    },
+    {
+      "id": "att_019_zip_archive",
+      "timestamp": "2026-03-10T15:30:00Z",
+      "note_id": "note_photos_backup",
+      "filename": "march_photos_backup.zip",
+      "mime_type": "application/zip",
+      "size_kb": 52428,
+      "category": "archive"
+    },
+    {
+      "id": "att_020_text_notes",
+      "timestamp": "2026-03-22T09:50:00Z",
+      "note_id": "note_reading_list",
+      "filename": "book_recommendations.txt",
+      "mime_type": "text/plain",
+      "size_kb": 12,
+      "category": "reading"
+    },
+    {
+      "id": "att_021_meeting_pdf",
+      "timestamp": "2026-04-01T11:20:00Z",
+      "note_id": "note_meetings_q2",
+      "filename": "april_allhands_notes.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 330,
+      "category": "work"
+    },
+    {
+      "id": "att_022_drawing_sketch",
+      "timestamp": "2026-04-08T14:00:00Z",
+      "note_id": "note_design_ideas",
+      "filename": "garden_layout_sketch.png",
+      "mime_type": "image/png",
+      "size_kb": 1250,
+      "category": "hobby"
+    },
+    {
+      "id": "att_023_bank_statement",
+      "timestamp": "2026-04-15T10:40:00Z",
+      "note_id": "note_finance_q2",
+      "filename": "march_2026_statement.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 780,
+      "category": "finance"
+    },
+    {
+      "id": "att_024_tax_document",
+      "timestamp": "2026-04-22T16:15:00Z",
+      "note_id": "note_taxes_2025",
+      "filename": "tax_return_2025_summary.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 920,
+      "category": "taxes"
+    },
+    {
+      "id": "att_025_lease_agreement",
+      "timestamp": "2026-05-01T12:30:00Z",
+      "note_id": "note_housing_may",
+      "filename": "apartment_lease_page_3.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 410,
+      "category": "legal"
+    },
+    {
+      "id": "att_026_manual",
+      "timestamp": "2026-05-10T09:10:00Z",
+      "note_id": "note_electronics",
+      "filename": "coffee_maker_manual.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 2200,
+      "category": "manuals"
+    },
+    {
+      "id": "att_027_ticket_confirm",
+      "timestamp": "2026-05-18T15:00:00Z",
+      "note_id": "note_trip_chicago",
+      "filename": "train_tickets_may18.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 180,
+      "category": "travel"
+    },
+    {
+      "id": "att_028_hotel_booking",
+      "timestamp": "2026-05-25T11:45:00Z",
+      "note_id": "note_trip_chicago",
+      "filename": "hotel_confirmation_chi.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 195,
+      "category": "travel"
+    },
+    {
+      "id": "att_029_restaurant_res",
+      "timestamp": "2026-06-01T13:20:00Z",
+      "note_id": "note_social_june",
+      "filename": "dinner_reservation_screenshot.png",
+      "mime_type": "image/png",
+      "size_kb": 310,
+      "category": "social"
+    },
+    {
+      "id": "att_030_gift_card",
+      "timestamp": "2026-06-08T10:00:00Z",
+      "note_id": "note_gifts_2026",
+      "filename": "coffee_shop_giftcard_qr.png",
+      "mime_type": "image/png",
+      "size_kb": 85,
+      "category": "finance"
+    },
+    {
+      "id": "att_031_business_card",
+      "timestamp": "2026-06-12T14:30:00Z",
+      "note_id": "note_networking",
+      "filename": "contact_sarah_design.vcf",
+      "mime_type": "text/vcard",
+      "size_kb": 4,
+      "category": "contacts"
+    },
+    {
+      "id": "att_032_handwritten_note",
+      "timestamp": "2026-06-15T09:15:00Z",
+      "note_id": "note_memories",
+      "filename": "grandma_recipe_scan.jpg",
+      "mime_type": "image/jpeg",
+      "size_kb": 2100,
+      "category": "personal"
+    },
+    {
+      "id": "att_033_map_screenshot",
+      "timestamp": "2026-06-18T16:45:00Z",
+      "note_id": "note_hiking_trip",
+      "filename": "trail_map_river_loop.png",
+      "mime_type": "image/png",
+      "size_kb": 1560,
+      "category": "outdoor"
+    },
+    {
+      "id": "att_034_article_pdf",
+      "timestamp": "2026-06-22T11:30:00Z",
+      "note_id": "note_research_june",
+      "filename": "ai_ethics_article_2026.pdf",
+      "mime_type": "application/pdf",
+      "size_kb": 890,
+      "category": "research"
+    },
+    {
+      "id": "att_035_music_recording",
+      "timestamp": "2026-06-25T10:00:00Z",
+      "note_id": "note_music_practice",
+      "filename": "piano_practice_june25.m4a",
+      "mime_type": "audio/mp4",
+      "size_kb": 8192,
+      "category": "hobby"
+    },
+    {
+      "id": "att_036_backup_manifest",
+      "timestamp": "2026-06-28T15:20:00Z",
+      "note_id": "note_system_admin",
+      "filename": "june_backup_manifest.json",
+      "mime_type": "application/json",
+      "size_kb": 28,
+      "category": "system"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/retention_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-01-15T14:32:00Z",
+    "source": "cloud_sync_admin"
+  },
+  "records": [
+    {
+      "id": "rp-2024-8841",
+      "category": "primary_email",
+      "service": "HarborInbox",
+      "retention_days": 365,
+      "auto_archive": true,
+      "date": "2023-11-08"
+    },
+    {
+      "id": "rp-2024-8842",
+      "category": "work_email",
+      "service": "Riverton Health Labs Exchange",
+      "retention_days": 2555,
+      "compliance_standard": "HIPAA",
+      "timestamp": "2024-01-10T09:15:30Z"
+    },
+    {
+      "id": "rp-2024-8843",
+      "category": "cloud_photos",
+      "service": "NebulaDrive",
+      "retention_days": -1,
+      "auto_purge_enabled": false,
+      "period_start": "2020-03-01",
+      "period_end": "2030-03-01"
+    },
+    {
+      "id": "rp-2024-8844",
+      "category": "instant_messages",
+      "service": "Slack",
+      "retention_days": 90,
+      "start_time": "2024-01-01T00:00:00Z",
+      "end_time": "2024-12-31T23:59:59Z"
+    },
+    {
+      "id": "rp-2024-8845",
+      "category": "project_documents",
+      "service": "Riverton SharePoint",
+      "retention_days": 2190,
+      "date": "2023-06-15"
+    },
+    {
+      "id": "rp-2024-8846",
+      "category": "local_downloads",
+      "service": "macOS Cleanup",
+      "retention_days": 30,
+      "timestamp": "2024-01-14T16:45:00Z"
+    }
+  ]
+}

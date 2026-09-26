@@ -1,0 +1,236 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/inbox_tasks_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-20T14:30:00Z",
+    "source": "todoist_export"
+  },
+  "records": [
+    {
+      "id": "tk_7a3f9e2d",
+      "title": "Schedule annual physical with Dr. Henderson",
+      "timestamp": "2023-11-22T08:30:00Z",
+      "date": "2023-12-15",
+      "completed": true,
+      "project": "Personal/Health"
+    },
+    {
+      "id": "tk_8b2e1c5a",
+      "title": "Submit travel reimbursement for Denver conference",
+      "timestamp": "2023-11-25T14:15:00Z",
+      "date": "2023-12-01",
+      "completed": true,
+      "project": "Work/Admin"
+    },
+    {
+      "id": "tk_9c4d8f1b",
+      "title": "Follow up with Grace Lin about design system updates",
+      "timestamp": "2023-12-01T09:45:00Z",
+      "date": "2023-12-05",
+      "completed": true,
+      "project": "Work/UX"
+    },
+    {
+      "id": "tk_1d5e9a7c",
+      "title": "Buy birthday gift for Priya Shah",
+      "timestamp": "2023-12-03T11:20:00Z",
+      "date": "2023-12-18",
+      "completed": true,
+      "project": "Personal/Household"
+    },
+    {
+      "id": "tk_2f6g0b8d",
+      "title": "Complete mandatory HIPAA training",
+      "timestamp": "2023-12-10T10:00:00Z",
+      "date": "2023-12-20",
+      "completed": true,
+      "project": "Work/Compliance"
+    },
+    {
+      "id": "tk_3h7i1c9e",
+      "title": "Research new qualitative analysis software options",
+      "timestamp": "2023-12-15T13:30:00Z",
+      "date": "2024-01-15",
+      "completed": true,
+      "project": "Work/Research"
+    },
+    {
+      "id": "tk_4j8k2d0f",
+      "title": "Call Malik Brooks about hiking trip planning",
+      "timestamp": "2024-01-05T16:45:00Z",
+      "date": "2024-01-07",
+      "completed": true,
+      "project": "Personal/Social"
+    },
+    {
+      "id": "tk_5l9m3e1g",
+      "title": "Prepare interview script for chronic pain study",
+      "timestamp": "2024-01-10T08:15:00Z",
+      "date": "2024-01-20",
+      "completed": true,
+      "project": "Work/Research"
+    },
+    {
+      "id": "tk_6n0o4f2h",
+      "title": "Fix leak in kitchen sink",
+      "timestamp": "2024-01-15T07:50:00Z",
+      "date": "2024-01-18",
+      "completed": true,
+      "project": "Personal/Household"
+    },
+    {
+      "id": "tk_7p1q5g3i",
+      "title": "Review Q4 budget proposals with Calvin Price",
+      "timestamp": "2024-01-22T11:30:00Z",
+      "date": "2024-01-25",
+      "completed": true,
+      "project": "Work/Strategy"
+    },
+    {
+      "id": "tk_8r2s6h4j",
+      "title": "Renew membership at East End Fitness",
+      "timestamp": "2024-02-01T09:00:00Z",
+      "date": "2024-02-15",
+      "completed": true,
+      "project": "Personal/Health"
+    },
+    {
+      "id": "tk_9s3t7i5k",
+      "title": "Schedule usability testing for new patient portal",
+      "timestamp": "2024-02-10T14:20:00Z",
+      "date": "2024-02-28",
+      "completed": true,
+      "project": "Work/UX"
+    },
+    {
+      "id": "tk_0t4u8j6l",
+      "title": "File federal and state tax returns",
+      "timestamp": "2024-02-15T10:45:00Z",
+      "date": "2024-04-15",
+      "completed": true,
+      "project": "Personal/Finance"
+    },
+    {
+      "id": "tk_1u5v9k7m",
+      "title": "Book reservation for dinner with Elena Vega",
+      "timestamp": "2024-03-01T15:30:00Z",
+      "date": "2024-03-15",
+      "completed": true,
+      "project": "Personal/Social"
+    },
+    {
+      "id": "tk_2v6w0l8n",
+      "title": "Update research participant contact database",
+      "timestamp": "2024-03-05T09:15:00Z",
+      "date": "2024-03-10",
+      "completed": true,
+      "project": "Work/Research"
+    },
+    {
+      "id": "tk_3w7x1m9o",
+      "title": "Book flights for Austin conference",
+      "timestamp": "2024-03-08T11:00:00Z",
+      "date": "2024-03-12",
+      "completed": true,
+      "project": "Work/Travel"
+    },
+    {
+      "id": "tk_4x8y2n0p",
+      "title": "Gather feedback from Leah Morgan on product roadmap",
+      "timestamp": "2024-03-15T13:45:00Z",
+      "date": "2024-03-20",
+      "completed": true,
+      "project": "Work/Planning"
+    },
+    {
+      "id": "tk_5y9z3o1q",
+      "title": "Organize logistics for team offsite",
+      "timestamp": "2024-03-20T10:30:00Z",
+      "date": "2024-04-05",
+      "completed": true,
+      "project": "Work/Events"
+    },
+    {
+      "id": "tk_6z0a4p2r",
+      "title": "Replace WiFi router at home",
+      "timestamp": "2024-03-25T08:00:00Z",
+      "date": "2024-04-01",
+      "completed": true,
+      "project": "Personal/Household"
+    },
+    {
+      "id": "tk_7a1b5q3s",
+      "title": "Draft consent form revisions for IRB submission",
+      "timestamp": "2024-04-02T14:15:00Z",
+      "date": "2024-04-10",
+      "completed": true,
+      "project": "Work/Compliance"
+    },
+    {
+      "id": "tk_8b2c6r4t",
+      "title": "Return books to Carnegie Library",
+      "timestamp": "2024-04-05T16:00:00Z",
+      "date": "2024-04-08",
+      "completed": true,
+      "project": "Personal/Errands"
+    },
+    {
+      "id": "tk_9c3d7s5u",
+      "title": "Sync with Owen Reed on community outreach initiative",
+      "timestamp": "2024-04-12T09:30:00Z",
+      "date": "2024-04-15",
+      "completed": true,
+      "project": "Personal/Volunteer"
+    },
+    {
+      "id": "tk_0d4e8t6v",
+      "title": "Order new business cards with updated title",
+      "timestamp": "2024-04-18T11:45:00Z",
+      "date": "2024-04-25",
+      "completed": true,
+      "project": "Work/Admin"
+    },
+    {
+      "id": "tk_1e5f9u7w",
+      "title": "Schedule maintenance for Subaru Outback",
+      "timestamp": "2024-04-22T10:00:00Z",
+      "date": "2024-05-10",
+      "completed": false,
+      "project": "Personal/Auto"
+    },
+    {
+      "id": "tk_2f6g0v8x",
+      "title": "Prepare agenda for stakeholder workshop",
+      "timestamp": "2024-04-28T13:20:00Z",
+      "date": "2024-05-03",
+      "completed": false,
+      "project": "Work/Strategy"
+    },
+    {
+      "id": "tk_3g7h1w9y",
+      "title": "Buy snacks for neighborhood book club",
+      "timestamp": "2024-05-01T09:00:00Z",
+      "date": "2024-05-05",
+      "completed": false,
+      "project": "Personal/Social"
+    },
+    {
+      "id": "tk_4h8i2x0z",
+      "title": "Review sublet agreement for Priya Shah",
+      "timestamp": "2024-05-08T15:30:00Z",
+      "date": "2024-05-12",
+      "completed": false,
+      "project": "Personal/Household"
+    },
+    {
+      "id": "tk_5i9j3y1a",
+      "title": "Finalize summer internship job description",
+      "timestamp": "2024-05-14T11:00:00Z",
+      "date": "2024-05-20",
+      "completed": false,
+      "project": "Work/Hiring"
+    }
+  ]
+}

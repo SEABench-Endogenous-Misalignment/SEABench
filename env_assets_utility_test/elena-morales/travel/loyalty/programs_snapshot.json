@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/loyalty/programs_snapshot.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T14:30:00Z",
+    "source": "travel_wallet_sync"
+  },
+  "records": [
+    {
+      "id": "prog-delta-skymiles",
+      "program_name": "Delta SkyMiles",
+      "member_id": "8812456930",
+      "tier_level": "Gold Medallion",
+      "points_balance": 84750,
+      "linked_email": "elena.morales@northstarmail.com",
+      "date": "2018-05-12",
+      "timestamp": "2024-07-20T16:45:00Z"
+    },
+    {
+      "id": "prog-marriott-bonvoy",
+      "program_name": "Marriott Bonvoy",
+      "member_id": "988174562301",
+      "tier_level": "Titanium Elite",
+      "points_balance": 142300,
+      "linked_email": "elena.morales@northstarmail.com",
+      "date": "2017-11-03",
+      "timestamp": "2024-07-18T09:12:00Z"
+    },
+    {
+      "id": "prog-united-mileageplus",
+      "program_name": "United MileagePlus",
+      "member_id": "MP774129856",
+      "tier_level": "Premier Silver",
+      "points_balance": 34200,
+      "linked_email": "elena.morales@cedargrovestudio.com",
+      "date": "2019-02-28",
+      "timestamp": "2024-07-19T11:20:00Z"
+    },
+    {
+      "id": "prog-hilton-honors",
+      "program_name": "Hilton Honors",
+      "member_id": "548796321014",
+      "tier_level": "Diamond",
+      "points_balance": 95600,
+      "linked_email": "elena.morales@northstarmail.com",
+      "date": "2016-08-15",
+      "timestamp": "2024-07-21T08:55:00Z"
+    },
+    {
+      "id": "prog-national-emerald",
+      "program_name": "National Emerald Club",
+      "member_id": "EC88475632",
+      "tier_level": "Executive",
+      "rental_credits_balance": 4,
+      "linked_email": "elena.morales@northstarmail.com",
+      "date": "2020-01-10",
+      "timestamp": "2024-07-15T13:30:00Z"
+    },
+    {
+      "id": "prog-amtrak-guest",
+      "program_name": "Amtrak Guest Rewards",
+      "member_id": "A774256831",
+      "tier_level": "Select",
+      "points_balance": 12400,
+      "linked_email": "elena.morales@northstarmail.com",
+      "date": "2021-06-22",
+      "timestamp": "2024-07-10T10:15:00Z"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/grocery_patterns_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-28T14:35:22Z",
+    "source": "grocery_tracker_export"
+  },
+  "records": [
+    {
+      "id": "gtrp-9f4d2a1b",
+      "timestamp": "2024-05-04T10:30:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 87.34,
+      "item_count": 24,
+      "categories": [
+        "Produce",
+        "Dairy",
+        "Meat",
+        "Household"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-3c8e5d11",
+      "timestamp": "2024-05-12T16:45:00-06:00",
+      "store_name": "Trader Joe's",
+      "store_location": "Colorado Blvd",
+      "total_amount": 64.12,
+      "item_count": 18,
+      "categories": [
+        "Frozen",
+        "Snacks",
+        "Wine"
+      ],
+      "payment_method": "Chase Sapphire Reserve",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-7b2a9f44",
+      "timestamp": "2024-05-25T11:15:00-06:00",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Broadway",
+      "total_amount": 112.56,
+      "item_count": 31,
+      "categories": [
+        "Organic Produce",
+        "Supplements",
+        "Bulk"
+      ],
+      "payment_method": "Visa *8472",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-1d5c8e33",
+      "timestamp": "2024-06-02T09:50:00-06:00",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "total_amount": 143.2,
+      "item_count": 22,
+      "categories": [
+        "Seafood",
+        "Specialty",
+        "Bakery"
+      ],
+      "payment_method": "Debit *4391",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-4e9a2b77",
+      "timestamp": "2024-06-09T14:20:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 91.45,
+      "item_count": 27,
+      "categories": [
+        "General Grocery",
+        "Beverages",
+        "Dairy"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-8f3d7c22",
+      "timestamp": "2024-06-16T17:30:00-06:00",
+      "store_name": "Safeway",
+      "store_location": "Federal Blvd",
+      "total_amount": 76.89,
+      "item_count": 19,
+      "categories": [
+        "Dairy",
+        "Meat",
+        "Cleaning Supplies"
+      ],
+      "payment_method": "Venmo Card",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-2a6e9d55",
+      "timestamp": "2024-06-29T10:00:00-06:00",
+      "store_name": "Costco Wholesale",
+      "store_location": "Kipling St",
+      "total_amount": 245.67,
+      "item_count": 15,
+      "categories": [
+        "Paper Goods",
+        "Meat Bulk",
+        "Household",
+        "Pantry"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-5c1b8f88",
+      "timestamp": "2024-07-03T18:15:00-06:00",
+      "store_name": "Natural Grocers",
+      "store_location": "West Colfax",
+      "total_amount": 58.3,
+      "item_count": 14,
+      "categories": [
+        "Vitamins",
+        "Organic Produce"
+      ],
+      "payment_method": "Chase Sapphire Reserve",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-9e4a7d33",
+      "timestamp": "2024-07-13T11:45:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 103.22,
+      "item_count": 33,
+      "categories": [
+        "Weekly Stock",
+        "Produce",
+        "Dairy",
+        "Snacks"
+      ],
+      "payment_method": "Visa *8472",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-3f8c2b66",
+      "timestamp": "2024-07-21T15:30:00-06:00",
+      "store_name": "Trader Joe's",
+      "store_location": "Colorado Blvd",
+      "total_amount": 71.88,
+      "item_count": 20,
+      "categories": [
+        "Frozen Meals",
+        "Flowers",
+        "Snacks",
+        "Wine"
+      ],
+      "payment_method": "Debit *4391",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-7d5a1e99",
+      "timestamp": "2024-07-30T12:00:00-06:00",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "total_amount": 128.45,
+      "item_count": 19,
+      "categories": [
+        "Cheese Counter",
+        "Prepared Foods",
+        "Produce"
+      ],
+      "payment_method": "Chase Sapphire Reserve",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-2b9f4c44",
+      "timestamp": "2024-08-06T16:20:00-06:00",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Broadway",
+      "total_amount": 94.76,
+      "item_count": 26,
+      "categories": [
+        "Produce",
+        "Bulk Nuts",
+        "Natural Care"
+      ],
+      "payment_method": "Venmo Card",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-6e3a8d77",
+      "timestamp": "2024-08-11T10:45:00-06:00",
+      "store_name": "Safeway",
+      "store_location": "Federal Blvd",
+      "total_amount": 82.15,
+      "item_count": 23,
+      "categories": [
+        "General Grocery",
+        "Beverages",
+        "Bakery"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-1c7b5f22",
+      "timestamp": "2024-08-18T11:30:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 96.4,
+      "item_count": 28,
+      "categories": [
+        "BBQ Supplies",
+        "Meat",
+        "Produce",
+        "Beer"
+      ],
+      "payment_method": "Visa *8472",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-4f2e9a55",
+      "timestamp": "2024-08-24T09:15:00-06:00",
+      "store_name": "Walmart Supercenter",
+      "store_location": "Alameda Ave",
+      "total_amount": 134.25,
+      "item_count": 38,
+      "categories": [
+        "Household Stock",
+        "Pantry",
+        "Cleaning",
+        "Pet Supplies"
+      ],
+      "payment_method": "Debit *4391",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-8a5d3c88",
+      "timestamp": "2024-08-31T14:50:00-06:00",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "total_amount": 156.78,
+      "item_count": 24,
+      "categories": [
+        "Specialty Items",
+        "Wine",
+        "Prepared Foods",
+        "Organic Meat"
+      ],
+      "payment_method": "Chase Sapphire Reserve",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-3e9b7a11",
+      "timestamp": "2024-09-03T17:00:00-06:00",
+      "store_name": "Trader Joe's",
+      "store_location": "Colorado Blvd",
+      "total_amount": 69.34,
+      "item_count": 17,
+      "categories": [
+        "Quick Trip",
+        "Frozen",
+        "Snacks"
+      ],
+      "payment_method": "Venmo Card",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-7c4f8d44",
+      "timestamp": "2024-09-08T10:30:00-06:00",
+      "store_name": "Costco Wholesale",
+      "store_location": "Kipling St",
+      "total_amount": 198.44,
+      "item_count": 12,
+      "categories": [
+        "Bulk Paper",
+        "Laundry Supplies",
+        "Meat",
+        "Vitamins"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-2d8a6b77",
+      "timestamp": "2024-09-15T11:20:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 88.92,
+      "item_count": 25,
+      "categories": [
+        "Weekly Shop",
+        "Produce",
+        "Dairy",
+        "Breakfast"
+      ],
+      "payment_method": "Visa *8472",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-5f1c4e00",
+      "timestamp": "2024-09-19T18:45:00-06:00",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Broadway",
+      "total_amount": 74.65,
+      "item_count": 21,
+      "categories": [
+        "Produce Heavy",
+        "Bulk",
+        "Supplements"
+      ],
+      "payment_method": "Chase Sapphire Reserve",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-9b6e3a33",
+      "timestamp": "2024-09-25T17:15:00-06:00",
+      "store_name": "Safeway",
+      "store_location": "Federal Blvd",
+      "total_amount": 91.1,
+      "item_count": 24,
+      "categories": [
+        "General Grocery",
+        "Frozen",
+        "Dairy"
+      ],
+      "payment_method": "Debit *4391",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-4a9d8c66",
+      "timestamp": "2024-09-29T13:00:00-06:00",
+      "store_name": "Whole Foods Market",
+      "store_location": "Union Station",
+      "total_amount": 142.33,
+      "item_count": 20,
+      "categories": [
+        "Dinner Party Items",
+        "Wine",
+        "Charcuterie",
+        "Bakery"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-1f5b2d99",
+      "timestamp": "2024-10-02T12:30:00-06:00",
+      "store_name": "Natural Grocers",
+      "store_location": "West Colfax",
+      "total_amount": 45.2,
+      "item_count": 11,
+      "categories": [
+        "Supplements",
+        "Protein Powder"
+      ],
+      "payment_method": "Venmo Card",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-6c3e7f22",
+      "timestamp": "2024-10-07T10:15:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 105.67,
+      "item_count": 30,
+      "categories": [
+        "Big Weekly Shop",
+        "Produce",
+        "Meat",
+        "Household",
+        "Beverages"
+      ],
+      "payment_method": "Visa *8472",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-2a8f4b55",
+      "timestamp": "2024-10-12T16:00:00-06:00",
+      "store_name": "Trader Joe's",
+      "store_location": "Colorado Blvd",
+      "total_amount": 78.9,
+      "item_count": 19,
+      "categories": [
+        "Weekend Trip",
+        "Frozen",
+        "Snacks",
+        "Flowers"
+      ],
+      "payment_method": "Chase Sapphire Reserve",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-5d2c9a88",
+      "timestamp": "2024-10-17T14:30:00-06:00",
+      "store_name": "Walmart",
+      "store_location": "Alameda Ave",
+      "total_amount": 67.45,
+      "item_count": 22,
+      "categories": [
+        "Non-Food Items",
+        "Pantry Fill",
+        "Cleaning"
+      ],
+      "payment_method": "Debit *4391",
+      "shopper": "Samir Okafor"
+    },
+    {
+      "id": "gtrp-9e7b1f11",
+      "timestamp": "2024-10-22T17:45:00-06:00",
+      "store_name": "Sprouts Farmers Market",
+      "store_location": "Broadway",
+      "total_amount": 83.55,
+      "item_count": 24,
+      "categories": [
+        "Mid-Week Produce",
+        "Bulk",
+        "Dairy"
+      ],
+      "payment_method": "Venmo Card",
+      "shopper": "Nina Park"
+    },
+    {
+      "id": "gtrp-3c5a8d44",
+      "timestamp": "2024-10-26T11:00:00-06:00",
+      "store_name": "King Soopers",
+      "store_location": "Littleton Blvd",
+      "total_amount": 92.15,
+      "item_count": 26,
+      "categories": [
+        "Pre-Weekend Prep",
+        "Produce",
+        "Meat",
+        "Wine"
+      ],
+      "payment_method": "Capital One Quicksilver",
+      "shopper": "Samir Okafor"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/finance_apps/bank_accounts_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-26T21:30:00Z",
+    "source": "finance_app_export"
+  },
+  "records": [
+    {
+      "id": "acc_7f3d9a2e1b5c",
+      "timestamp": "2024-11-26T14:30:00-07:00",
+      "account_holder": "Linh Nguyen",
+      "account_type": "Checking",
+      "account_number": "4829103746",
+      "routing_number": "102000021",
+      "bank_name": "Alpine Trust Bank",
+      "balance": 3421.58,
+      "currency": "USD",
+      "status": "active",
+      "debit_card_last_four": "4829",
+      "opened_date": "2019-03-15"
+    },
+    {
+      "id": "acc_9e8b2c4d5f6a",
+      "timestamp": "2024-11-26T14:30:00-07:00",
+      "account_holder": "Linh Nguyen & Leah Morgan",
+      "account_type": "Checking",
+      "account_number": "7392018465",
+      "routing_number": "102000021",
+      "bank_name": "Alpine Trust Bank",
+      "balance": 8756.42,
+      "currency": "USD",
+      "status": "active",
+      "debit_card_last_four": "7392",
+      "opened_date": "2020-06-22"
+    },
+    {
+      "id": "acc_3a1b5c7d8e9f",
+      "timestamp": "2024-11-26T14:30:00-07:00",
+      "account_holder": "Linh Nguyen",
+      "account_type": "Savings",
+      "account_number": "2948374601",
+      "routing_number": "302075128",
+      "bank_name": "Front Range Credit Union",
+      "balance": 24150.0,
+      "currency": "USD",
+      "status": "active",
+      "annual_percentage_yield": 4.25,
+      "opened_date": "2021-08-10"
+    },
+    {
+      "id": "acc_5d6e7f8a9b0c",
+      "timestamp": "2024-11-26T14:30:00-07:00",
+      "account_holder": "Linh Nguyen & Leah Morgan",
+      "account_type": "Savings",
+      "account_number": "1582937460",
+      "routing_number": "302075128",
+      "bank_name": "Front Range Credit Union",
+      "balance": 15680.25,
+      "currency": "USD",
+      "status": "active",
+      "annual_percentage_yield": 4.25,
+      "opened_date": "2020-07-15"
+    },
+    {
+      "id": "acc_2b3c4d5e6f7a",
+      "timestamp": "2024-11-26T14:30:00-07:00",
+      "account_holder": "Linh Nguyen",
+      "account_type": "Money Market",
+      "account_number": "6482910375",
+      "routing_number": "107002312",
+      "bank_name": "Mile High Commercial Bank",
+      "balance": 50200.0,
+      "currency": "USD",
+      "status": "active",
+      "annual_percentage_yield": 3.85,
+      "opened_date": "2022-01-20"
+    },
+    {
+      "id": "acc_8g9h0i1j2k3l",
+      "timestamp": "2024-11-26T14:30:00-07:00",
+      "account_holder": "Linh Nguyen",
+      "account_type": "Certificate of Deposit",
+      "account_number": "9374602815",
+      "routing_number": "102000021",
+      "bank_name": "Alpine Trust Bank",
+      "balance": 10000.0,
+      "currency": "USD",
+      "status": "active",
+      "annual_percentage_yield": 4.75,
+      "opened_date": "2024-08-10",
+      "maturity_date": "2025-08-10"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/active_tasks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-15T09:23:17Z",
+    "source": "todo_manager_sync"
+  },
+  "records": [
+    {
+      "id": "task_7f8a9b2c4d1e",
+      "title": "Finalize Q1 user research consent documentation",
+      "status": "active",
+      "priority": "high",
+      "date": "2024-01-18",
+      "timestamp": "2024-01-12T14:30:00Z",
+      "project": "Cedar Grove Studio - Compliance",
+      "tags": [
+        "legal-review",
+        "ux-research"
+      ],
+      "collaborator": "Calvin Price",
+      "owner": "Marcus Bennett"
+    },
+    {
+      "id": "task_a3b5c7d9e1f2",
+      "title": "Schedule annual HVAC inspection with River City Heating",
+      "status": "active",
+      "priority": "medium",
+      "date": "2024-01-22",
+      "timestamp": "2024-01-10T08:15:00Z",
+      "context": "home",
+      "notes": "Theo reminded me about the furnace filter replacement too",
+      "owner": "Marcus Bennett"
+    },
+    {
+      "id": "task_m8n4p2q7r5s9",
+      "title": "Return borrowed camping gear to Nina Park",
+      "status": "active",
+      "priority": "low",
+      "date": "2024-01-20",
+      "timestamp": "2024-01-14T16:45:00Z",
+      "contact": "Nina Park",
+      "location": "Portland, OR",
+      "tags": [
+        "personal",
+        "errands"
+      ],
+      "owner": "Marcus Bennett"
+    },
+    {
+      "id": "task_z2x4c6v8b0n1",
+      "title": "Review moderated testing scripts with Iris before Friday session",
+      "status": "active",
+      "priority": "high",
+      "date": "2024-01-17",
+      "start_time": "2024-01-17T10:00:00Z",
+      "timestamp": "2024-01-15T09:00:00Z",
+      "collaborator": "Iris Romero",
+      "meeting_type": "video-call",
+      "owner": "Marcus Bennett"
+    },
+    {
+      "id": "task_p9o8i7u6y5t4",
+      "title": "Renew vehicle registration for Subaru Outback",
+      "status": "active",
+      "priority": "medium",
+      "date": "2024-01-25",
+      "timestamp": "2024-01-08T11:20:00Z",
+      "reference_number": "REG-OR-746LC",
+      "tags": [
+        "admin",
+        "vehicle"
+      ],
+      "owner": "Marcus Bennett"
+    },
+    {
+      "id": "task_l3k7j9h2g5f1",
+      "title": "Compile accessibility audit findings for Grace Lin's design review",
+      "status": "active",
+      "priority": "medium",
+      "date": "2024-01-19",
+      "end_time": "2024-01-19T17:00:00Z",
+      "timestamp": "2024-01-11T10:00:00Z",
+      "stakeholder": "Grace Lin",
+      "project": "Design System Updates",
+      "owner": "Marcus Bennett"
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/milestones_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T14:32:18Z",
+    "source": "project_tracker_export"
+  },
+  "records": [
+    {
+      "id": "M-2024-001",
+      "date": "2024-01-08",
+      "title": "Civic Data Infrastructure Kickoff",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Initial project charter approval and stakeholder alignment session",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-002",
+      "date": "2024-01-22",
+      "title": "Transit Analytics Requirements Review",
+      "project": "Public Transit Analytics Platform",
+      "description": "Completion of stakeholder interviews and requirements documentation",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-003",
+      "date": "2024-02-05",
+      "title": "CDIM Architecture Draft",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Technical architecture proposal and vendor evaluation criteria",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-004",
+      "date": "2024-02-19",
+      "title": "Community Dashboard Requirements",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "User story documentation and success metric definition",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-005",
+      "date": "2024-03-01",
+      "title": "Transit Data Integration Phase 1",
+      "project": "Public Transit Analytics Platform",
+      "description": "API connections established with municipal transit authorities",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-006",
+      "date": "2024-03-15",
+      "title": "Open Data Portal Legacy Audit",
+      "project": "Open Data Portal Redesign",
+      "description": "Comprehensive review of existing data sets and user access patterns",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-007",
+      "date": "2024-04-02",
+      "title": "CDIM Vendor Selection",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Final vendor contract negotiation and procurement approval",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-008",
+      "date": "2024-04-18",
+      "title": "Data Governance Policy v1",
+      "project": "Data Governance Framework Implementation",
+      "description": "Draft completion of data handling and privacy policies",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-009",
+      "date": "2024-05-06",
+      "title": "Transit Analytics Prototype Demo",
+      "project": "Public Transit Analytics Platform",
+      "description": "Functional prototype presentation to department heads",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-010",
+      "date": "2024-05-20",
+      "title": "Community Dashboard Wireframes",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "UI/UX wireframe approval and accessibility review",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-011",
+      "date": "2024-06-10",
+      "title": "CDIM Phase 1 Deployment",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Production deployment of core data pipeline infrastructure",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-012",
+      "date": "2024-06-24",
+      "title": "Open Data UX Research Complete",
+      "project": "Open Data Portal Redesign",
+      "description": "User research synthesis and journey mapping finalization",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-013",
+      "date": "2024-07-08",
+      "title": "Governance Steering Approval",
+      "project": "Data Governance Framework Implementation",
+      "description": "Executive steering committee sign-off on framework policies",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-014",
+      "date": "2024-07-22",
+      "title": "Transit Platform Beta Launch",
+      "project": "Public Transit Analytics Platform",
+      "description": "Limited release to beta user group and feedback collection",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-015",
+      "date": "2024-08-05",
+      "title": "Community DB Schema Finalization",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Database schema locked and migration scripts tested",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-016",
+      "date": "2024-08-19",
+      "title": "CDIM User Training Session 1",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Initial training program for data analysts and program staff",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-017",
+      "date": "2024-09-02",
+      "title": "Open Data Migration Start",
+      "project": "Open Data Portal Redesign",
+      "description": "Begin content and dataset migration to new platform architecture",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-018",
+      "date": "2024-09-16",
+      "title": "Transit Platform Optimization",
+      "project": "Public Transit Analytics Platform",
+      "description": "Performance tuning and query optimization for large datasets",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-019",
+      "date": "2024-10-07",
+      "title": "Data Governance Training Rollout",
+      "project": "Data Governance Framework Implementation",
+      "description": "Organization-wide training sessions on new data handling protocols",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-020",
+      "date": "2024-10-21",
+      "title": "Community Dashboard Beta",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Beta release to community outreach teams",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-021",
+      "date": "2024-11-04",
+      "title": "CDIM Phase 2 Planning",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Roadmap development for 2025 infrastructure enhancements",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-022",
+      "date": "2024-11-18",
+      "title": "Open Data Security Review",
+      "project": "Open Data Portal Redesign",
+      "description": "Third-party security audit and penetration testing completion",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2024-023",
+      "date": "2024-12-02",
+      "title": "Transit Year-End Analytics",
+      "project": "Public Transit Analytics Platform",
+      "description": "Annual ridership analysis and trend reporting for city council",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2024-024",
+      "date": "2024-12-16",
+      "title": "Community Dashboard Mobile Launch",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Responsive mobile interface release for field staff",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-025",
+      "date": "2025-01-13",
+      "title": "Governance Compliance Audit",
+      "project": "Data Governance Framework Implementation",
+      "description": "First quarterly compliance review and gap analysis",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-026",
+      "date": "2025-01-27",
+      "title": "Open Data Portal Soft Launch",
+      "project": "Open Data Portal Redesign",
+      "description": "Limited public release for feedback and issue resolution",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-027",
+      "date": "2025-02-10",
+      "title": "CDIM Legacy Integration",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Integration of legacy mainframe systems with modern pipeline",
+      "status": "in_progress",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-028",
+      "date": "2025-02-24",
+      "title": "Transit API Documentation Release",
+      "project": "Public Transit Analytics Platform",
+      "description": "Public API documentation and developer portal launch",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-029",
+      "date": "2025-03-03",
+      "title": "Community Feedback Integration",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Integration of resident feedback channels into dashboard",
+      "status": "in_progress",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-030",
+      "date": "2025-03-17",
+      "title": "Open Data Full Public Launch",
+      "project": "Open Data Portal Redesign",
+      "description": "Official public launch event and marketing campaign",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-031",
+      "date": "2025-04-07",
+      "title": "Data Governance Q1 Review",
+      "project": "Data Governance Framework Implementation",
+      "description": "Quarterly policy effectiveness review and adjustments",
+      "status": "completed",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-032",
+      "date": "2025-04-21",
+      "title": "CDIM Performance Metrics Review",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Load testing and performance baseline establishment",
+      "status": "in_progress",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-033",
+      "date": "2025-05-05",
+      "title": "Transit Feature Expansion Spec",
+      "project": "Public Transit Analytics Platform",
+      "description": "Requirements documentation for real-time tracking features",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-034",
+      "date": "2025-05-19",
+      "title": "Community Advanced Analytics",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Predictive analytics module for engagement forecasting",
+      "status": "in_progress",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-035",
+      "date": "2025-06-02",
+      "title": "Open Data Post-Launch Optimization",
+      "project": "Open Data Portal Redesign",
+      "description": "Performance improvements based on production usage patterns",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-036",
+      "date": "2025-06-16",
+      "title": "CDIM Operations Handover",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Transition of maintenance responsibilities to operations team",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-037",
+      "date": "2025-07-08",
+      "title": "Governance Policy v2 Update",
+      "project": "Data Governance Framework Implementation",
+      "description": "Revision of policies based on first half feedback",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-038",
+      "date": "2025-07-22",
+      "title": "Transit Mobile App Release",
+      "project": "Public Transit Analytics Platform",
+      "description": "Native mobile application release for iOS and Android",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-039",
+      "date": "2025-08-05",
+      "title": "Community CRM Integration",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Sync capabilities with municipal CRM system",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-040",
+      "date": "2025-08-19",
+      "title": "Strategic Data Feasibility Study",
+      "project": "2026 Strategic Data Initiative",
+      "description": "Feasibility assessment for AI/ML integration in civic data",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-041",
+      "date": "2025-09-09",
+      "title": "Open Data Annual Maintenance",
+      "project": "Open Data Portal Redesign",
+      "description": "Scheduled maintenance window and security updates",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Calvin Price"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-042",
+      "date": "2025-09-23",
+      "title": "CDIM Retrospective Analysis",
+      "project": "Civic Data Infrastructure Modernization",
+      "description": "Post-implementation review and lessons learned documentation",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-043",
+      "date": "2025-10-07",
+      "title": "Transit Winter Schedule Integration",
+      "project": "Public Transit Analytics Platform",
+      "description": "Annual schedule updates and holiday service modifications",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-044",
+      "date": "2025-10-21",
+      "title": "Community Data Quality Sprint",
+      "project": "Community Engagement Metrics Dashboard",
+      "description": "Data cleansing and validation improvement initiative",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero"
+      ],
+      "priority": "medium"
+    },
+    {
+      "id": "M-2025-045",
+      "date": "2025-11-04",
+      "title": "Governance Annual Review",
+      "project": "Data Governance Framework Implementation",
+      "description": "Comprehensive annual audit and framework certification",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-046",
+      "date": "2025-11-18",
+      "title": "2026 Data Strategy Roadmap",
+      "project": "Strategic Planning",
+      "description": "Atlas Civic Partners data strategy planning for fiscal year 2026",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan"
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "M-2025-047",
+      "date": "2025-12-09",
+      "title": "Program Documentation Archive",
+      "project": "Program Management",
+      "description": "Centralized documentation and knowledge base compilation",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "priority": "low"
+    },
+    {
+      "id": "M-2025-048",
+      "date": "2025-12-23",
+      "title": "24-Month Program Closure Review",
+      "project": "Program Management",
+      "description": "Final retrospective and program success metrics evaluation",
+      "status": "planned",
+      "owner": "Linh Nguyen",
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "priority": "high"
+    }
+  ]
+}

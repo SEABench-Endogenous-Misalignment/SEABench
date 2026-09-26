@@ -1,0 +1,1146 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/subscriptions_24m.json",
+    "time_span": "24m",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-21T14:30:00Z",
+    "source": "finance_app_export"
+  },
+  "records": [
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "service_name": "Netflix Standard",
+      "provider": "Netflix, Inc.",
+      "category": "streaming",
+      "plan_type": "Standard (1080p, 2 screens)",
+      "billing_frequency": "monthly",
+      "amount_usd": 15.49,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-15",
+      "period_end": "2024-11-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "service_name": "Spotify Premium Family",
+      "provider": "Spotify AB",
+      "category": "music",
+      "plan_type": "Family (6 accounts)",
+      "billing_frequency": "monthly",
+      "amount_usd": 16.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-10-10",
+      "period_end": "2024-11-10",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "service_name": "Adobe Creative Cloud",
+      "provider": "Adobe Inc.",
+      "category": "software",
+      "plan_type": "All Apps (Individual)",
+      "billing_frequency": "monthly",
+      "amount_usd": 59.99,
+      "currency": "USD",
+      "account_email": "maya.patel@brightlinesystems.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "1155",
+        "expiry_month": 3,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-10-05",
+      "period_end": "2024-11-05",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "service_name": "Microsoft 365 Personal",
+      "provider": "Microsoft Corporation",
+      "category": "software",
+      "plan_type": "Personal (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 69.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-09-01",
+      "period_end": "2025-09-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-defa-456789012345",
+      "service_name": "Peloton App One",
+      "provider": "Peloton Interactive, Inc.",
+      "category": "fitness",
+      "plan_type": "App Membership",
+      "billing_frequency": "monthly",
+      "amount_usd": 12.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-10-15",
+      "period_end": "2024-11-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-efab-567890123456",
+      "service_name": "The New York Times All Access",
+      "provider": "The New York Times Company",
+      "category": "news",
+      "plan_type": "Digital All Access",
+      "billing_frequency": "monthly",
+      "amount_usd": 17.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-20",
+      "period_end": "2024-11-20",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "service_name": "HelloFresh",
+      "provider": "HelloFresh SE",
+      "category": "meal_kit",
+      "plan_type": "4 People / 4 Meals",
+      "billing_frequency": "weekly",
+      "amount_usd": 240.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-10-19",
+      "period_end": "2024-10-26",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-789012345678",
+      "service_name": "Amazon Prime",
+      "provider": "Amazon.com, Inc.",
+      "category": "shopping",
+      "plan_type": "Annual Membership",
+      "billing_frequency": "annual",
+      "amount_usd": 139.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-11-25",
+      "period_end": "2025-11-25",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4567-bcde-890123456789",
+      "service_name": "Costco Gold Star",
+      "provider": "Costco Wholesale Corporation",
+      "category": "shopping",
+      "plan_type": "Gold Star (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 60.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-08-01",
+      "period_end": "2025-08-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567890",
+      "service_name": "Google One 2TB",
+      "provider": "Google LLC",
+      "category": "cloud_storage",
+      "plan_type": "2TB (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 9.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-10",
+      "period_end": "2024-11-10",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "d0e1f2a3-b4c5-6789-defa-012345678901",
+      "service_name": "iCloud+ 200GB",
+      "provider": "Apple Inc.",
+      "category": "cloud_storage",
+      "plan_type": "200GB (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 2.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-efab-123456789012",
+      "service_name": "Figma Professional",
+      "provider": "Figma, Inc.",
+      "category": "software",
+      "plan_type": "Professional (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 15.0,
+      "currency": "USD",
+      "account_email": "maya.patel@brightlinesystems.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "1155",
+        "expiry_month": 3,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-10-10",
+      "period_end": "2024-11-10",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "f2a3b4c5-d6e7-8901-fabc-234567890123",
+      "service_name": "Notion Plus",
+      "provider": "Notion Labs, Inc.",
+      "category": "software",
+      "plan_type": "Plus (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 96.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-11-15",
+      "period_end": "2025-11-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-345678901234",
+      "service_name": "Calm Premium",
+      "provider": "Calm.com, Inc.",
+      "category": "wellness",
+      "plan_type": "Annual Membership",
+      "billing_frequency": "annual",
+      "amount_usd": 69.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-12-01",
+      "period_end": "2025-12-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "b4c5d6e7-f8a9-0123-bcde-456789012345",
+      "service_name": "Audible Premium Plus",
+      "provider": "Audible, Inc.",
+      "category": "entertainment",
+      "plan_type": "Premium Plus (1 Credit)",
+      "billing_frequency": "monthly",
+      "amount_usd": 14.95,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-18",
+      "period_end": "2024-11-18",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "c5d6e7f8-a9b0-1234-cdef-567890123456",
+      "service_name": "Disney+ Premium",
+      "provider": "Disney Electronic Content, Inc.",
+      "category": "streaming",
+      "plan_type": "Premium (No Ads, Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 139.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-11-12",
+      "period_end": "2025-11-12",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "d6e7f8a9-b0c1-2345-defa-678901234567",
+      "service_name": "Max Ad-Free",
+      "provider": "Warner Bros. Discovery",
+      "category": "streaming",
+      "plan_type": "Ad-Free (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 15.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-20",
+      "period_end": "2024-11-20",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "e7f8a9b0-c1d2-3456-efab-789012345678",
+      "service_name": "Hulu No Ads",
+      "provider": "Hulu, LLC",
+      "category": "streaming",
+      "plan_type": "No Ads (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 17.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-20",
+      "period_end": "2024-11-20",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "f8a9b0c1-d2e3-4567-fabc-890123456789",
+      "service_name": "PlayStation Plus Extra",
+      "provider": "Sony Interactive Entertainment",
+      "category": "gaming",
+      "plan_type": "Extra (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 14.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-08-15",
+      "period_end": "2024-09-15",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-901234567890",
+      "service_name": "Xbox Game Pass Ultimate",
+      "provider": "Microsoft Corporation",
+      "category": "gaming",
+      "plan_type": "Ultimate (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 16.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-07-01",
+      "period_end": "2024-08-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "b0c1d2e3-f4a5-6789-bcde-012345678901",
+      "service_name": "Blue Apron",
+      "provider": "Blue Apron, LLC",
+      "category": "meal_kit",
+      "plan_type": "2 People / 3 Meals",
+      "billing_frequency": "weekly",
+      "amount_usd": 65.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2023-11-01",
+      "period_end": "2023-12-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789012",
+      "service_name": "Stitch Fix",
+      "provider": "Stitch Fix, Inc.",
+      "category": "fashion",
+      "plan_type": "Style Pass (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 49.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2023-01-15",
+      "period_end": "2024-01-15",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "d2e3f4a5-b6c7-8901-defa-234567890123",
+      "service_name": "Birchbox",
+      "provider": "Birchbox Inc.",
+      "category": "beauty",
+      "plan_type": "Monthly Subscription",
+      "billing_frequency": "monthly",
+      "amount_usd": 15.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2023-07-15",
+      "period_end": "2023-08-15",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "e3f4a5b6-c7d8-9012-efab-345678901234",
+      "service_name": "MasterClass Annual",
+      "provider": "MasterClass Operated by Yanka Industries",
+      "category": "education",
+      "plan_type": "Individual (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 180.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-02-01",
+      "period_end": "2025-02-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "f4a5b6c7-d8e9-0123-fabc-456789012345",
+      "service_name": "Duolingo Super",
+      "provider": "Duolingo, Inc.",
+      "category": "education",
+      "plan_type": "Super (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 83.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-11-01",
+      "period_end": "2025-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-567890123456",
+      "service_name": "Coursera Plus",
+      "provider": "Coursera Inc.",
+      "category": "education",
+      "plan_type": "Plus (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 399.0,
+      "currency": "USD",
+      "account_email": "maya.patel@brightlinesystems.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "1155",
+        "expiry_month": 3,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-09-01",
+      "period_end": "2025-09-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "b6c7d8e9-f0a1-2345-bcde-678901234567",
+      "service_name": "Dropbox Plus",
+      "provider": "Dropbox, Inc.",
+      "category": "cloud_storage",
+      "plan_type": "Plus (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 119.88,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-04-10",
+      "period_end": "2025-04-10",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345678",
+      "service_name": "Slack Pro",
+      "provider": "Slack Technologies, LLC",
+      "category": "software",
+      "plan_type": "Pro (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 7.25,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "d8e9f0a1-b2c3-4567-defa-890123456789",
+      "service_name": "Zoom Pro",
+      "provider": "Zoom Video Communications, Inc.",
+      "category": "software",
+      "plan_type": "Pro (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 14.99,
+      "currency": "USD",
+      "account_email": "maya.patel@brightlinesystems.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "1155",
+        "expiry_month": 3,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-10-15",
+      "period_end": "2024-11-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "e9f0a1b2-c3d4-5678-efab-901234567890",
+      "service_name": "The Washington Post",
+      "provider": "The Washington Post",
+      "category": "news",
+      "plan_type": "Digital Access (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 12.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "f0a1b2c3-d4e5-6789-fabc-012345678901",
+      "service_name": "The New Yorker",
+      "provider": "Condé Nast",
+      "category": "news",
+      "plan_type": "Digital + Print (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 149.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-03-01",
+      "period_end": "2025-03-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-123456789012",
+      "service_name": "Verizon Wireless Unlimited",
+      "provider": "Verizon Communications",
+      "category": "telecommunications",
+      "plan_type": "Unlimited Ultimate (1 line)",
+      "billing_frequency": "monthly",
+      "amount_usd": 75.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-234567890123",
+      "service_name": "Comcast Xfinity Internet",
+      "provider": "Comcast Corporation",
+      "category": "telecommunications",
+      "plan_type": "Gigabit Extra (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 80.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-10-15",
+      "period_end": "2024-11-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "service_name": "Fitness Factory Pittsburgh",
+      "provider": "Fitness Factory",
+      "category": "fitness",
+      "plan_type": "Standard Membership (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 35.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "bank_account",
+        "account_last_four": "9901",
+        "bank_name": "PNC Bank"
+      },
+      "period_start": "2024-10-20",
+      "period_end": "2024-11-20",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-defa-456789012345",
+      "service_name": "Headspace",
+      "provider": "Headspace, Inc.",
+      "category": "wellness",
+      "plan_type": "Annual Membership",
+      "billing_frequency": "annual",
+      "amount_usd": 69.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2023-03-01",
+      "period_end": "2024-03-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-efab-567890123456",
+      "service_name": "Noom Weight Loss",
+      "provider": "Noom, Inc.",
+      "category": "wellness",
+      "plan_type": "4-Month Plan",
+      "billing_frequency": "custom",
+      "amount_usd": 169.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2023-05-01",
+      "period_end": "2023-09-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "service_name": "Skillshare",
+      "provider": "Skillshare, Inc.",
+      "category": "education",
+      "plan_type": "Annual Membership",
+      "billing_frequency": "annual",
+      "amount_usd": 168.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-01-10",
+      "period_end": "2025-01-10",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-789012345678",
+      "service_name": "Canva Pro",
+      "provider": "Canva Pty Ltd",
+      "category": "software",
+      "plan_type": "Pro (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 120.0,
+      "currency": "USD",
+      "account_email": "maya.patel@brightlinesystems.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-06-01",
+      "period_end": "2025-06-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4567-bcde-890123456789",
+      "service_name": "LastPass Premium",
+      "provider": "LogMeIn, Inc.",
+      "category": "security",
+      "plan_type": "Premium (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 36.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2022-10-01",
+      "period_end": "2023-10-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567890",
+      "service_name": "1Password Families",
+      "provider": "AgileBits, Inc.",
+      "category": "security",
+      "plan_type": "Families (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 59.88,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-15",
+      "period_end": "2025-10-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "d0e1f2a3-b4c5-6789-defa-012345678901",
+      "service_name": "Patreon Memberships",
+      "provider": "Patreon, Inc.",
+      "category": "entertainment",
+      "plan_type": "Multi-Creator Pledge",
+      "billing_frequency": "monthly",
+      "amount_usd": 25.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-efab-123456789012",
+      "service_name": "Twitch Turbo",
+      "provider": "Twitch Interactive, Inc.",
+      "category": "streaming",
+      "plan_type": "Turbo (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 8.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-01-01",
+      "period_end": "2024-02-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    },
+    {
+      "id": "f2a3b4c5-d6e7-8901-fabc-234567890123",
+      "service_name": "YouTube Premium",
+      "provider": "Google LLC",
+      "category": "streaming",
+      "plan_type": "Individual (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 13.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-11-01",
+      "period_end": "2024-12-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-345678901234",
+      "service_name": "Apple TV+",
+      "provider": "Apple Inc.",
+      "category": "streaming",
+      "plan_type": "Monthly Subscription",
+      "billing_frequency": "monthly",
+      "amount_usd": 9.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "b4c5d6e7-f8a9-0123-bcde-456789012345",
+      "service_name": "Paramount+ with Showtime",
+      "provider": "Paramount Global",
+      "category": "streaming",
+      "plan_type": "Essential with Showtime",
+      "billing_frequency": "monthly",
+      "amount_usd": 11.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-15",
+      "period_end": "2024-11-15",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "c5d6e7f8-a9b0-1234-cdef-567890123456",
+      "service_name": "Peacock Premium Plus",
+      "provider": "Peacock TV LLC",
+      "category": "streaming",
+      "plan_type": "Premium Plus (Annual)",
+      "billing_frequency": "annual",
+      "amount_usd": 119.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7392",
+        "expiry_month": 11,
+        "expiry_year": 2026
+      },
+      "period_start": "2024-01-01",
+      "period_end": "2025-01-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "d6e7f8a9-b0c1-2345-defa-678901234567",
+      "service_name": "ESPN+",
+      "provider": "Disney Electronic Content, Inc.",
+      "category": "sports",
+      "plan_type": "Monthly Subscription",
+      "billing_frequency": "monthly",
+      "amount_usd": 10.99,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4821",
+        "expiry_month": 8,
+        "expiry_year": 2027
+      },
+      "period_start": "2024-10-01",
+      "period_end": "2024-11-01",
+      "status": "active",
+      "auto_renew": true,
+      "shared_with": []
+    },
+    {
+      "id": "e7f8a9b0-c1d2-3456-efab-789012345678",
+      "service_name": "T-Mobile Home Internet",
+      "provider": "T-Mobile USA, Inc.",
+      "category": "telecommunications",
+      "plan_type": "5G Home Internet (Monthly)",
+      "billing_frequency": "monthly",
+      "amount_usd": 50.0,
+      "currency": "USD",
+      "account_email": "maya.patel@harborinbox.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "American Express",
+        "last_four": "8844",
+        "expiry_month": 5,
+        "expiry_year": 2028
+      },
+      "period_start": "2024-03-01",
+      "period_end": "2024-04-01",
+      "status": "cancelled",
+      "auto_renew": false,
+      "shared_with": []
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/people_entities.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T22:45:00Z",
+    "source": "contact_graph_sync"
+  },
+  "records": [
+    {
+      "id": "ent_a7f3c9d2-8814-4b5e-9c6d-2e8a4f5b6c7d",
+      "full_name": "Theo Harris",
+      "relationship_type": "spouse",
+      "date": "2021-06-14",
+      "email": "theo.harris@harborinbox.com",
+      "phone": "+1-503-829-1289",
+      "address": "7464 Laurel Creek Street"
+    },
+    {
+      "id": "ent_3b8e1f4a-9c2d-4e5f-8a6b-1c3d4e5f6a7b",
+      "full_name": "Nina Park",
+      "relationship_type": "close_friend",
+      "timestamp": "2019-08-12T14:22:10Z",
+      "email": "nina.park@willamettevalley.net",
+      "phone": "+1-503-271-4812"
+    },
+    {
+      "id": "ent_9c4f2e8b-5d1a-4b3c-9e7f-6a8b9c0d1e2f",
+      "full_name": "Owen Reed",
+      "relationship_type": "close_friend",
+      "date": "2017-03-25",
+      "email": "owen.reed@pacificnorth.io",
+      "phone": "+1-503-829-3341"
+    },
+    {
+      "id": "ent_2d5a8c9e-1f3b-4c6d-8a0e-9b2c4d6e8f0a",
+      "full_name": "Priya Shah",
+      "relationship_type": "close_friend",
+      "start_time": "2020-11-08T16:45:00Z",
+      "email": "priya.shah@cascadetech.co",
+      "phone": "+1-503-271-9923"
+    },
+    {
+      "id": "ent_8e1b4c7f-0a2d-4e6f-9c8a-3b5d7e9f1a3c",
+      "full_name": "Leah Morgan",
+      "relationship_type": "colleague",
+      "employer": "Cedar Grove Studio",
+      "timestamp": "2022-01-10T09:00:00-08:00",
+      "email": "leah.morgan@cedargrovestudio.com"
+    },
+    {
+      "id": "ent_5c2d8f1a-4e6b-4c8d-9a0f-2b4d6f8a0c2e",
+      "full_name": "Calvin Price",
+      "relationship_type": "colleague",
+      "employer": "Cedar Grove Studio",
+      "period_start": "2021-09-01",
+      "email": "calvin.price@cedargrovestudio.com"
+    }
+  ]
+}

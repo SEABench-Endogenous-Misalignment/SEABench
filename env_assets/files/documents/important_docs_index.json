@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/important_docs_index.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "idx_cal_001",
+      "document_name": "events_past_12m_future_6m.json",
+      "document_type": "calendar_export",
+      "source_path": "calendar/working/events_past_12m_future_6m.json",
+      "timestamp": "2026-06-26T10:00:00Z",
+      "file_size_bytes": 24580,
+      "checksum_sha256": "a1b2c3d4e5f6789abcdef0123456789abcdef0123456789abcdef0123456789",
+      "encryption_status": "encrypted",
+      "access_level": "private"
+    },
+    {
+      "id": "idx_eml_002",
+      "document_name": "threads_180d.json",
+      "document_type": "email_archive",
+      "source_path": "email/inbox/threads_180d.json",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "file_size_bytes": 152400,
+      "checksum_sha256": "b2c3d4e5f6g789abcdef0123456789abcdef0123456789abcdef0123456789a",
+      "last_accessed": "2026-06-27T09:15:00Z"
+    },
+    {
+      "id": "idx_bnk_003",
+      "document_name": "transactions_24m.json",
+      "document_type": "financial_records",
+      "source_path": "finance/banking/transactions_24m.json",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-29",
+      "file_size_bytes": 89300,
+      "checksum_sha256": "c3d4e5f6g7h890abcdef0123456789abcdef0123456789abcdef0123456789ab",
+      "sensitivity": "high"
+    },
+    {
+      "id": "idx_ftn_004",
+      "document_name": "workouts_12m.json",
+      "document_type": "health_tracking",
+      "source_path": "health/fitness/workouts_12m.json",
+      "start_time": "2026-04-01T06:00:00Z",
+      "end_time": "2026-06-26T23:59:59Z",
+      "file_size_bytes": 45600,
+      "checksum_sha256": "d4e5f6g7h8i901abcdef0123456789abcdef0123456789abcdef0123456789abc"
+    },
+    {
+      "id": "idx_nts_005",
+      "document_name": "meeting_notes_365d.json",
+      "document_type": "personal_notes",
+      "source_path": "notes/knowledge/meeting_notes_365d.json",
+      "date": "2026-06-24",
+      "file_size_bytes": 12800,
+      "checksum_sha256": "e5f6g7h8i9j012abcdef0123456789abcdef0123456789abcdef0123456789abcd",
+      "modified_timestamp": "2026-06-24T18:45:00Z"
+    },
+    {
+      "id": "idx_self_006",
+      "document_name": "important_docs_index.json",
+      "document_type": "manifest_index",
+      "source_path": "files/documents/important_docs_index.json",
+      "timestamp": "2026-06-28T08:00:00Z",
+      "indexed_count": 5,
+      "version": "1.0",
+      "checksum_sha256": "f6g7h8i9j0k123abcdef0123456789abcdef0123456789abcdef0123456789abcde"
+    }
+  ]
+}

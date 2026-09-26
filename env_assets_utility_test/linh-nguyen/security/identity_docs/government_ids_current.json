@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/government_ids_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "identity_document_vault"
+  },
+  "records": [
+    {
+      "id": "rec-pp-034789102",
+      "document_type": "US_Passport_Book",
+      "document_number": "034789102",
+      "full_name": "Linh Nguyen",
+      "date_of_birth": "1988-07-22",
+      "place_of_birth": "Ho Chi Minh City, Vietnam",
+      "issuing_authority": "U.S. Department of State",
+      "date": "2022-03-15",
+      "expiration_date": "2032-03-14",
+      "status": "valid"
+    },
+    {
+      "id": "rec-dl-938475610",
+      "document_type": "Colorado_Driver_License_Real_ID",
+      "document_number": "938475610",
+      "full_name": "Linh Nguyen",
+      "address": "4072 Maple Hollow Ave, Denver, CO 80262",
+      "date_of_birth": "1988-07-22",
+      "issuing_authority": "Colorado Division of Motor Vehicles",
+      "date": "2023-08-10",
+      "expiration_date": "2031-08-10",
+      "status": "valid"
+    },
+    {
+      "id": "rec-ssn-524897631",
+      "document_type": "Social_Security_Card",
+      "document_number": "524-89-7631",
+      "full_name": "Linh Nguyen",
+      "issuing_authority": "Social Security Administration",
+      "date": "2015-06-20",
+      "status": "active"
+    },
+    {
+      "id": "rec-nat-A08475691",
+      "document_type": "Certificate_of_Naturalization",
+      "certificate_number": "A08475691",
+      "full_name": "Linh Nguyen",
+      "naturalization_date": "2019-11-08",
+      "issuing_authority": "U.S. Citizenship and Immigration Services",
+      "date": "2019-11-08",
+      "status": "active"
+    },
+    {
+      "id": "rec-ge-983475610",
+      "document_type": "Global_Entry_Card",
+      "document_number": "983475610",
+      "known_traveler_number": "CD78945612",
+      "full_name": "Linh Nguyen",
+      "issuing_authority": "U.S. Customs and Border Protection",
+      "date": "2023-01-12",
+      "expiration_date": "2028-01-11",
+      "status": "active"
+    },
+    {
+      "id": "rec-bc-QSC8800045782",
+      "document_type": "Foreign_Birth_Certificate",
+      "document_number": "QSC88-0045782",
+      "full_name": "Nguyễn Linh",
+      "place_of_birth": "District 3, Ho Chi Minh City, Vietnam",
+      "issuing_authority": "People's Committee of Ho Chi Minh City",
+      "date": "1988-07-25",
+      "status": "archived"
+    }
+  ]
+}

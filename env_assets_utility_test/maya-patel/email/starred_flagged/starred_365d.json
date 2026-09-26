@@ -1,0 +1,982 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/starred_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T14:22:31Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_7f8a9b2c-1d3e-4f5a-9b8c-2d4e6f8a0b1c",
+      "thread_id": "thrd_a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "timestamp": "2024-12-18T09:15:00Z",
+      "received_at": "2024-12-18T09:15:00Z",
+      "subject": "Q4 Research Synthesis - Draft Review",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Research",
+        "Action Required"
+      ],
+      "importance": "high",
+      "body_preview": "Hi Maya, I've attached the draft synthesis for Q4 usability testing. We need to align on the key findings before..."
+    },
+    {
+      "id": "msg_8c9d0e1f-2a4b-5c6d-0e1f-3a5b7c9d0e2f",
+      "thread_id": "thrd_b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "timestamp": "2024-12-10T16:45:00Z",
+      "received_at": "2024-12-10T16:45:00Z",
+      "subject": "FY25 Budget Allocation Approved",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Finance"
+      ],
+      "importance": "high",
+      "body_preview": "Great news - the FY25 budget for UX Research has been approved. Your proposed allocation for participant incentives..."
+    },
+    {
+      "id": "msg_9d0e1f2a-3b5c-6d7e-1f2a-4b6c8d0e1f3a",
+      "thread_id": "thrd_c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "timestamp": "2024-11-28T11:30:00Z",
+      "received_at": "2024-11-28T11:30:00Z",
+      "subject": "December rent and utilities split",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Important",
+      "labels": [
+        "Personal",
+        "Household",
+        "Finance"
+      ],
+      "importance": "normal",
+      "body_preview": "Hey Maya, can you Venmo me for the electric bill? It was higher than usual this month because of the cold snap..."
+    },
+    {
+      "id": "msg_0e1f2a3b-4c6d-7e8f-2a3b-5c7d9e0f1a4b",
+      "thread_id": "thrd_d4e5f6a7-b8c9-0123-defa-456789012345",
+      "timestamp": "2024-11-15T14:20:00Z",
+      "received_at": "2024-11-15T14:20:00Z",
+      "subject": "Weekend pottery class?",
+      "from": {
+        "name": "Nina Park",
+        "email": "ninapark.design@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Social"
+      ],
+      "importance": "normal",
+      "body_preview": "There's a wheel throwing class at the community center Saturday morning. Want to sign up with me? They have..."
+    },
+    {
+      "id": "msg_1f2a3b4c-5d7e-8f9a-3b4c-6d8e0f1a2b5c",
+      "thread_id": "thrd_e5f6a7b8-c9d0-1234-efab-567890123456",
+      "timestamp": "2024-11-02T10:00:00Z",
+      "received_at": "2024-11-02T10:00:00Z",
+      "subject": "Concert tickets secured - Dec 15",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@outlook.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Events",
+        "Tickets"
+      ],
+      "importance": "high",
+      "body_preview": "Got them! Section 102, Row D. Sending the PDF tickets to your email. Don't forget to download the parking pass..."
+    },
+    {
+      "id": "msg_2a3b4c5d-6e8f-9a0b-4c5d-7e9f1a2b3c6d",
+      "thread_id": "thrd_f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "timestamp": "2024-10-20T09:45:00Z",
+      "received_at": "2024-10-20T09:45:00Z",
+      "subject": "McConnells Mill hike photos",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@protonmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Photos",
+        "Hiking"
+      ],
+      "importance": "low",
+      "body_preview": "Finally uploaded the pics from last weekend. That overlook was incredible - check out the one with the fall foliage..."
+    },
+    {
+      "id": "msg_3b4c5d6e-7f9a-0b1c-5d6e-8f0a2b3c4d7e",
+      "thread_id": "thrd_a7b8c9d0-e1f2-3456-abcd-789012345678",
+      "timestamp": "2024-10-05T13:15:00Z",
+      "received_at": "2024-10-05T13:15:00Z",
+      "subject": "Reservation confirmed at Morcilla",
+      "from": {
+        "name": "Elena Vega",
+        "email": "elena.vega@fastmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Dinner",
+        "Reservations"
+      ],
+      "importance": "normal",
+      "body_preview": "We're set for 7:30 PM on Thursday. They noted your gluten allergy. Looking forward to the octopus dish..."
+    },
+    {
+      "id": "msg_4c5d6e7f-8a0b-1c2d-6e7f-9a1b3c4d5e8f",
+      "thread_id": "thrd_b8c9d0e1-f2a3-4567-bcde-890123456789",
+      "timestamp": "2024-09-28T08:30:00Z",
+      "received_at": "2024-09-28T08:30:00Z",
+      "subject": "WCAG 2.2 Audit findings",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Work",
+        "Accessibility",
+        "Urgent"
+      ],
+      "importance": "high",
+      "body_preview": "We found 12 critical violations in the patient portal. I need your input on the color contrast issues by Monday..."
+    },
+    {
+      "id": "msg_5d6e7f8a-9b1c-2d3e-7f8a-0b2c4d5e6f9a",
+      "thread_id": "thrd_c9d0e1f2-a3b4-5678-cdef-901234567890",
+      "timestamp": "2024-09-15T17:00:00Z",
+      "received_at": "2024-09-15T17:00:00Z",
+      "subject": "Participant No-Show Policy",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Research",
+        "Policy"
+      ],
+      "importance": "normal",
+      "body_preview": "Proposing we update the compensation structure for participants who cancel within 24 hours. Draft attached for review..."
+    },
+    {
+      "id": "msg_6e7f8a9b-0c2d-3e4f-8a9b-1c3d5e6f7a0b",
+      "thread_id": "thrd_d0e1f2a3-b4c5-6789-defa-012345678901",
+      "timestamp": "2024-09-01T12:00:00Z",
+      "received_at": "2024-09-01T12:00:00Z",
+      "subject": "Maya, 3 people viewed your profile",
+      "from": {
+        "name": "LinkedIn",
+        "email": "notifications@linkedin.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Social",
+        "Networking"
+      ],
+      "importance": "low",
+      "body_preview": "Your profile appeared in 12 searches this week including one from Riverton Health Labs Recruiting..."
+    },
+    {
+      "id": "msg_7f8a9b0c-1d3e-4f5a-9b0c-2d4e6f7a8b1c",
+      "thread_id": "thrd_e1f2a3b4-c5d6-7890-efab-123456789012",
+      "timestamp": "2024-08-25T09:00:00Z",
+      "received_at": "2024-08-25T09:00:00Z",
+      "subject": "Open Enrollment Ends Friday",
+      "from": {
+        "name": "Riverton HR",
+        "email": "hr@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Work",
+        "Benefits",
+        "Urgent"
+      ],
+      "importance": "high",
+      "body_preview": "Reminder: Benefits selection must be completed by 5 PM Friday. Your current PPO plan will auto-renew if no action..."
+    },
+    {
+      "id": "msg_8a9b0c1d-2e4f-5a6b-0c1d-3e5f7a8b9c2d",
+      "thread_id": "thrd_f2a3b4c5-d6e7-8901-fabc-234567890123",
+      "timestamp": "2024-08-10T15:30:00Z",
+      "received_at": "2024-08-10T15:30:00Z",
+      "subject": "Large deposit detected",
+      "from": {
+        "name": "Citizens Bank Alerts",
+        "email": "alerts@citizensbank.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Finance",
+        "Security",
+        "Alert"
+      ],
+      "importance": "high",
+      "body_preview": "A deposit of $3,250.00 was made to your checking account ending in 8472. If you don't recognize this transaction..."
+    },
+    {
+      "id": "msg_9b0c1d2e-3f5a-6b7c-1d2e-4f6a8b9c0d3e",
+      "thread_id": "thrd_a3b4c5d6-e7f8-9012-abcd-345678901234",
+      "timestamp": "2024-07-22T11:00:00Z",
+      "received_at": "2024-07-22T11:00:00Z",
+      "subject": "Plumber coming Tuesday",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Household",
+        "Maintenance"
+      ],
+      "importance": "normal",
+      "body_preview": "Super finally responded - they'll be here between 1-4 PM to fix the kitchen sink. Can you be home to let them in?"
+    },
+    {
+      "id": "msg_0c1d2e3f-4a6b-7c8d-2e3f-5a7b9c0d1e4f",
+      "thread_id": "thrd_b4c5d6e7-f8a9-0123-bcde-456789012345",
+      "timestamp": "2024-07-15T14:00:00Z",
+      "received_at": "2024-07-15T14:00:00Z",
+      "subject": "Stakeholder Feedback Summary",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Research",
+        "Feedback"
+      ],
+      "importance": "normal",
+      "body_preview": "Compiled all the comments from last week's presentation. Key themes around data visualization accessibility..."
+    },
+    {
+      "id": "msg_1d2e3f4a-5b7c-8d9e-3f4a-6b8c0d1e2f5a",
+      "thread_id": "thrd_c5d6e7f8-a9b0-1234-cdef-567890123456",
+      "timestamp": "2024-07-01T10:30:00Z",
+      "received_at": "2024-07-01T10:30:00Z",
+      "subject": "Q2 Quarterly Review Notes",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Work",
+        "Review",
+        "Performance"
+      ],
+      "importance": "high",
+      "body_preview": "Please review your self-assessment before our meeting Thursday. I've noted your contributions to the diabetes management..."
+    },
+    {
+      "id": "msg_2e3f4a5b-6c8d-9e0f-4a5b-7c9d0e1f3a6b",
+      "thread_id": "thrd_d6e7f8a9-b0c1-2345-defa-678901234567",
+      "timestamp": "2024-06-20T16:00:00Z",
+      "received_at": "2024-06-20T16:00:00Z",
+      "subject": "Carnegie Museum exhibit opening",
+      "from": {
+        "name": "Nina Park",
+        "email": "ninapark.design@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Art",
+        "Events"
+      ],
+      "importance": "normal",
+      "body_preview": "The Impressionism in Pittsburgh exhibit opens next week. Members preview is Wednesday - want to go after work?"
+    },
+    {
+      "id": "msg_3f4a5b6c-7d9e-0f1a-5b6c-8d0e1f2a4b7c",
+      "thread_id": "thrd_e7f8a9b0-c1d2-3456-efab-789012345678",
+      "timestamp": "2024-06-05T09:30:00Z",
+      "received_at": "2024-06-05T09:30:00Z",
+      "subject": "Book club pick for July",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@outlook.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Books",
+        "Social"
+      ],
+      "importance": "low",
+      "body_preview": "We're reading 'The Invisible Life of Addie LaRue' for July meetup. Let me know if you need help finding a copy..."
+    },
+    {
+      "id": "msg_4a5b6c7d-8e0f-1a2b-6c7d-9e1f2a3b5c8d",
+      "thread_id": "thrd_f8a9b0c1-d2e3-4567-fabc-890123456789",
+      "timestamp": "2024-05-28T13:45:00Z",
+      "received_at": "2024-05-28T13:45:00Z",
+      "subject": "Portrait session scheduling",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@protonmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Personal",
+        "Photography",
+        "Scheduling"
+      ],
+      "importance": "normal",
+      "body_preview": "Can we reschedule Saturday's shoot? The weather looks iffy. Thinking Sunday morning instead for better natural light..."
+    },
+    {
+      "id": "msg_5b6c7d8e-9f1a-2b3c-7d8e-0f2a3b4c6d9e",
+      "thread_id": "thrd_a9b0c1d2-e3f4-5678-abcd-901234567890",
+      "timestamp": "2024-05-15T11:20:00Z",
+      "received_at": "2024-05-15T11:20:00Z",
+      "subject": "Flight details - Miami",
+      "from": {
+        "name": "Elena Vega",
+        "email": "elena.vega@fastmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Travel",
+        "Flights"
+      ],
+      "importance": "high",
+      "body_preview": "Confirmation number: MIA7X9. Departing PIT at 6:45 AM on June 12th. Don't forget to check in 24 hours ahead..."
+    },
+    {
+      "id": "msg_6c7d8e9f-0a2b-3c4d-8e9f-1a3b4c5d7e0f",
+      "thread_id": "thrd_b0c1d2e3-f4a5-6789-bcde-012345678901",
+      "timestamp": "2024-05-01T10:00:00Z",
+      "received_at": "2024-05-01T10:00:00Z",
+      "subject": "Design System v2.0 Launch",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Design System",
+        "Launch"
+      ],
+      "importance": "normal",
+      "body_preview": "The new component library is live. Please update your research prototypes to use the new form patterns by month end..."
+    },
+    {
+      "id": "msg_7d8e9f0a-1b3c-4d5e-9f0a-2b4c5d6e8f1a",
+      "thread_id": "thrd_c1d2e3f4-a5b6-7890-cdef-123456789012",
+      "timestamp": "2024-04-20T15:00:00Z",
+      "received_at": "2024-04-20T15:00:00Z",
+      "subject": "Interview transcript - P03",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Work",
+        "Research",
+        "Transcript"
+      ],
+      "importance": "normal",
+      "body_preview": "Attached is the transcript from last week's session with the Type 2 diabetic user. Note the concerns about mobile app..."
+    },
+    {
+      "id": "msg_8e9f0a1b-2c4d-5e6f-0a1b-3c5d6e7f9a2b",
+      "thread_id": "thrd_d2e3f4a5-b6c7-8901-defa-234567890123",
+      "timestamp": "2024-04-10T09:00:00Z",
+      "received_at": "2024-04-10T09:00:00Z",
+      "subject": "Costco run list",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Household",
+        "Shopping"
+      ],
+      "importance": "low",
+      "body_preview": "Going Saturday morning. Need: paper towels, olive oil, that almond butter you like. Anything else?"
+    },
+    {
+      "id": "msg_9f0a1b2c-3d5e-6f7a-1b2c-4d6e7f8a0b3c",
+      "thread_id": "thrd_e3f4a5b6-c7d8-9012-efab-345678901234",
+      "timestamp": "2024-03-25T14:30:00Z",
+      "received_at": "2024-03-25T14:30:00Z",
+      "subject": "Your Preventive Care Reminder",
+      "from": {
+        "name": "UPMC Health Plan",
+        "email": "service@upmc.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Health",
+        "Medical",
+        "Reminder"
+      ],
+      "importance": "normal",
+      "body_preview": "You're due for your annual wellness visit. Schedule by April 30th to maintain your wellness incentive..."
+    },
+    {
+      "id": "msg_0a1b2c3d-4e6f-7a8b-2c3d-5e7f8a9b1c4d",
+      "thread_id": "thrd_f4a5b6c7-d8e9-0123-fabc-456789012345",
+      "timestamp": "2024-03-15T11:00:00Z",
+      "received_at": "2024-03-15T11:00:00Z",
+      "subject": "Account password changed",
+      "from": {
+        "name": "Netflix",
+        "email": "info@netflix.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Security",
+        "Account",
+        "Alert"
+      ],
+      "importance": "high",
+      "body_preview": "Your Netflix account password was changed on March 15. If you didn't make this change, contact us immediately..."
+    },
+    {
+      "id": "msg_1b2c3d4e-5f7a-8b9c-3d4e-6f8a9b0c2d5e",
+      "thread_id": "thrd_a5b6c7d8-e9f0-1234-abcd-567890123456",
+      "timestamp": "2024-03-01T16:00:00Z",
+      "received_at": "2024-03-01T16:00:00Z",
+      "subject": "Delivery scheduled - requires signature",
+      "from": {
+        "name": "Amazon",
+        "email": "order-update@amazon.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Shopping",
+        "Delivery"
+      ],
+      "importance": "normal",
+      "body_preview": "Your order containing 'Standing Desk Converter' will arrive Tuesday. Signature required due to value..."
+    },
+    {
+      "id": "msg_2c3d4e5f-6a8b-9c0d-4e5f-7a9b0c1d3e6f",
+      "thread_id": "thrd_b6c7d8e9-f0a1-2345-bcde-678901234567",
+      "timestamp": "2024-02-20T10:15:00Z",
+      "received_at": "2024-02-20T10:15:00Z",
+      "subject": "CHI 2024 Submission Deadline",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Conference",
+        "Deadline"
+      ],
+      "importance": "high",
+      "body_preview": "Abstracts due March 15. Are we submitting the telehealth findings? I need your sections by Friday to edit..."
+    },
+    {
+      "id": "msg_3d4e5f6a-7b9c-0d1e-5f6a-8b0c1d2e4f7a",
+      "thread_id": "thrd_c7d8e9f0-a1b2-3456-cdef-789012345678",
+      "timestamp": "2024-02-10T13:30:00Z",
+      "received_at": "2024-02-10T13:30:00Z",
+      "subject": "New Research Coordinator Candidates",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Work",
+        "Hiring",
+        "HR"
+      ],
+      "importance": "normal",
+      "body_preview": "We have three strong candidates for the coordinator role. Your availability for interviews next week?"
+    },
+    {
+      "id": "msg_4e5f6a7b-8c0d-1e2f-6a7b-9c1d2e3f5a8b",
+      "thread_id": "thrd_d8e9f0a1-b2c3-4567-defa-890123456789",
+      "timestamp": "2024-02-01T09:45:00Z",
+      "received_at": "2024-02-01T09:45:00Z",
+      "subject": "Cleaning reminder - March 3",
+      "from": {
+        "name": "Shadyside Dental",
+        "email": "appointments@shadysidedental.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Health",
+        "Dental",
+        "Appointment"
+      ],
+      "importance": "normal",
+      "body_preview": "This is a reminder of your upcoming cleaning on March 3 at 2:00 PM. Please confirm your attendance..."
+    },
+    {
+      "id": "msg_5f6a7b8c-9d1e-2f3a-7b8c-0d2e3f4a6b9c",
+      "thread_id": "thrd_e9f0a1b2-c3d4-5678-efab-901234567890",
+      "timestamp": "2024-01-20T11:30:00Z",
+      "received_at": "2024-01-20T11:30:00Z",
+      "subject": "Luna's vaccination due",
+      "from": {
+        "name": "Pittsburgh Pet Care",
+        "email": "reminders@pittsburghpetcare.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Pet",
+        "Veterinary",
+        "Reminder"
+      ],
+      "importance": "normal",
+      "body_preview": "Luna is due for her Bordetella vaccine. Call to schedule within the next two weeks to maintain boarding eligibility..."
+    },
+    {
+      "id": "msg_6a7b8c9d-0e2f-3a4b-8c9d-1e3f4a5b7c0d",
+      "thread_id": "thrd_f0a1b2c3-d4e5-6789-fabc-012345678901",
+      "timestamp": "2024-01-10T14:00:00Z",
+      "received_at": "2024-01-10T14:00:00Z",
+      "subject": "January statement available",
+      "from": {
+        "name": "Duquesne Light",
+        "email": "billing@duquesne.light.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Utilities",
+        "Finance",
+        "Bill"
+      ],
+      "importance": "normal",
+      "body_preview": "Your January electric bill of $127.45 is ready. Payment due January 28. Usage up 12% from last month..."
+    },
+    {
+      "id": "msg_7b8c9d0e-1f3a-4b5c-9d0e-2f4a5b6c8d1e",
+      "thread_id": "thrd_a1b2c3d4-e5f6-7890-abcd-123456789012",
+      "timestamp": "2023-12-28T10:00:00Z",
+      "received_at": "2023-12-28T10:00:00Z",
+      "subject": "Lease renewal offer 2024",
+      "from": {
+        "name": "Oak Ridge Property Management",
+        "email": "mgmt@oakridgepm.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Housing",
+        "Lease",
+        "Important"
+      ],
+      "importance": "high",
+      "body_preview": "Your lease expires March 31. We're offering a 2.5% increase for 12 months or 4% for 24 months. Please respond by..."
+    },
+    {
+      "id": "msg_8c9d0e1f-2a4b-5c6d-0e1f-3a5b6c7d9e2f",
+      "thread_id": "thrd_b2c3d4e5-f6a7-8901-bcde-234567890123",
+      "timestamp": "2023-12-15T16:30:00Z",
+      "received_at": "2023-12-15T16:30:00Z",
+      "subject": "Surprise party for Priya - Dec 20",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@outlook.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Secret",
+        "Party",
+        "Planning"
+      ],
+      "importance": "high",
+      "body_preview": "Confirming we're meeting at 6 PM at Workspace to set up before 7. Don't tell Priya! Bring the banner..."
+    },
+    {
+      "id": "msg_9d0e1f2a-3b5c-6d7e-1f2a-4b6c7d8e9f3a",
+      "thread_id": "thrd_c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "timestamp": "2023-12-01T09:00:00Z",
+      "received_at": "2023-12-01T09:00:00Z",
+      "subject": "Job opening at IDEO",
+      "from": {
+        "name": "Nina Park",
+        "email": "ninapark.design@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Career",
+        "Jobs"
+      ],
+      "importance": "normal",
+      "body_preview": "Saw this and thought of you - Senior UX Researcher role in their Chicago studio. Remote hybrid available..."
+    },
+    {
+      "id": "msg_0e1f2a3b-4c6d-7e8f-2a3b-5c6d7e8f9a4b",
+      "thread_id": "thrd_d4e5f6a7-b8c9-0123-defa-456789012345",
+      "timestamp": "2023-11-20T11:15:00Z",
+      "received_at": "2023-11-20T11:15:00Z",
+      "subject": "Your 2023 tax documents available",
+      "from": {
+        "name": "TurboTax",
+        "email": "taxdocs@intuit.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": true,
+      "folder": "Starred",
+      "labels": [
+        "Taxes",
+        "Finance",
+        "Documents"
+      ],
+      "importance": "high",
+      "body_preview": "Your 2023 tax return and supporting documents are ready for download. Keep these records for seven years..."
+    },
+    {
+      "id": "msg_1f2a3b4c-5d7e-8f9a-3b4c-6d7e8f9a0b5c",
+      "thread_id": "thrd_e5f6a7b8-c9d0-1234-efab-567890123456",
+      "timestamp": "2023-11-10T14:45:00Z",
+      "received_at": "2023-11-10T14:45:00Z",
+      "subject": "Notes: Project Chimera ideas",
+      "from": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": true,
+      "is_flagged": false,
+      "folder": "Starred",
+      "labels": [
+        "Personal",
+        "Notes",
+        "Ideas"
+      ],
+      "importance": "low",
+      "body_preview": "Brainstorming for Q1: Combine the glucose monitoring data with voice interface research. Check accessibility..."
+    },
+    {
+      "id": "msg_2a3b4c5d-6e8f-9a0b-4c5d-7e8f9a0b1c6d",
+      "thread_id": "thrd_f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "timestamp": "2023-10-25T10:30:00Z",
+      "received_at": "2023-10-25T10:30:00Z",
+      "subject": "Updated NDA for contractors",
+      "from": {
+        "name": "Riverton Legal",
+        "email": "legal@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "is_starred": false,
+      "is_flagged": true,
+      "folder": "Flagged",
+      "labels": [
+        "Work",
+        "Legal",
+        "NDA",
+        "Urgent"
+      ],
+      "importance": "high",
+      "body_preview": "All contractors must sign the revised NDA by October 31. This includes updated clauses about AI training data..."
+    }
+  ]
+}

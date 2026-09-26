@@ -1,0 +1,191 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/downloads_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T08:45:22Z"
+  },
+  "records": [
+    {
+      "id": "dl_2026_001",
+      "timestamp": "2026-04-02T14:32:10Z",
+      "filename": "Q1_2026_bank_statement.pdf",
+      "file_size": 284000,
+      "mime_type": "application/pdf",
+      "url": "https://secure.riverwood.bank/statements/q1-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_002",
+      "timestamp": "2026-04-08T09:15:00Z",
+      "filename": "Tax_documentation_2025.pdf",
+      "file_size": 1520000,
+      "mime_type": "application/pdf",
+      "url": "https://taxprep.accuratetax.com/downloads/2025-forms",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_003",
+      "timestamp": "2026-04-15T11:45:30Z",
+      "filename": "Marathon_training_plan.xlsx",
+      "file_size": 45800,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "url": "https://fitness.ironstride.com/templates/marathon-beginner",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_004",
+      "timestamp": "2026-04-22T16:20:00Z",
+      "filename": "April_expense_report.xlsx",
+      "file_size": 62000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "url": "https://office.docsuite.com/reports/april-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_005",
+      "timestamp": "2026-04-28T13:10:15Z",
+      "filename": "Conference_registration_confirmation.pdf",
+      "file_size": 125000,
+      "mime_type": "application/pdf",
+      "url": "https://events.devsummit.tech/tickets/confirmation",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_006",
+      "timestamp": "2026-05-03T10:00:00Z",
+      "filename": "Fitness_tracker_update.pkg",
+      "file_size": 45200000,
+      "mime_type": "application/octet-stream",
+      "url": "https://fitnesstech.vitalsync.com/downloads/v2.4.1",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_007",
+      "timestamp": "2026-05-09T14:22:00Z",
+      "filename": "May_budget_template.xlsx",
+      "file_size": 34000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "url": "https://templates.personal.mydocs.com/may-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_008",
+      "timestamp": "2026-05-15T09:45:00Z",
+      "filename": "Presentation_slides_Q2.pptx",
+      "file_size": 2140000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "url": "https://work.teamhub.com/shared/q2-review-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_009",
+      "timestamp": "2026-05-21T11:30:00Z",
+      "filename": "Team_meeting_recording.mp4",
+      "file_size": 154000000,
+      "mime_type": "video/mp4",
+      "url": "https://meetings.zoomsync.com/recordings/may-21-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_010",
+      "timestamp": "2026-05-27T15:15:45Z",
+      "filename": "Project_timeline.mpp",
+      "file_size": 890000,
+      "mime_type": "application/vnd.ms-project",
+      "url": "https://projectmgmt.taskflow.com/files/timeline-v3",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_011",
+      "timestamp": "2026-06-01T08:00:00Z",
+      "filename": "June_calendar_sync.ics",
+      "file_size": 12400,
+      "mime_type": "text/calendar",
+      "url": "https://calendars.planit.com/export/june-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_012",
+      "timestamp": "2026-06-06T10:45:00Z",
+      "filename": "Bank_statement_May.pdf",
+      "file_size": 276000,
+      "mime_type": "application/pdf",
+      "url": "https://secure.metropolitan.bank/statements/may-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_013",
+      "timestamp": "2026-06-10T12:30:00Z",
+      "filename": "Vacation_booking_receipt.pdf",
+      "file_size": 185000,
+      "mime_type": "application/pdf",
+      "url": "https://travel.wanderlust.com/bookings/summer-trip-confirmation",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_014",
+      "timestamp": "2026-06-14T07:20:00Z",
+      "filename": "Workout_log_june.xlsx",
+      "file_size": 28000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "url": "https://fitness.strideapp.com/logs/june-2026-template",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_015",
+      "timestamp": "2026-06-18T16:00:00Z",
+      "filename": "Email_export_part1.mbox",
+      "file_size": 45800000,
+      "mime_type": "application/mbox",
+      "url": "https://mail.cloudmail.com/export/jan-jun-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_016",
+      "timestamp": "2026-06-20T09:10:00Z",
+      "filename": "Photo_backup_spring.zip",
+      "file_size": 1240000000,
+      "mime_type": "application/zip",
+      "url": "https://cloudstorage.nimbus.com/archives/spring-2026-photos",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_017",
+      "timestamp": "2026-06-22T13:45:00Z",
+      "filename": "Software_license_renewal.pdf",
+      "file_size": 95000,
+      "mime_type": "application/pdf",
+      "url": "https://licensing.softkey.com/receipts/renewal-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_018",
+      "timestamp": "2026-06-24T11:20:00Z",
+      "filename": "Personal_finance_Q2_review.xlsx",
+      "file_size": 52000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "url": "https://finance.apexwealth.com/reports/q2-2026-personal",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_019",
+      "timestamp": "2026-06-26T14:00:00Z",
+      "filename": "Conference_notes.docx",
+      "file_size": 145000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://notes.notebird.com/docs/tech-conf-2026",
+      "download_state": "completed"
+    },
+    {
+      "id": "dl_2026_020",
+      "timestamp": "2026-06-29T10:30:00Z",
+      "filename": "Summer_reading_list.pdf",
+      "file_size": 78000,
+      "mime_type": "application/pdf",
+      "url": "https://library.biblioverse.com/recommendations/summer-2026",
+      "download_state": "completed"
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/pinned_threads_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T19:45:00Z",
+    "source": "chat_sync"
+  },
+  "records": [
+    {
+      "id": "C07A1B2C3D4E",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "platform-design-general",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07I5J6K7L8",
+          "name": "Grace Lin",
+          "email": "grace.lin@cedargrovestudio.com"
+        },
+        {
+          "id": "U07M9N0O1P2",
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        },
+        {
+          "id": "U07Q3R4S5T6",
+          "name": "Leah Morgan",
+          "email": "leah.morgan@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-01-15T10:30:00-06:00",
+      "message_count": 3421,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "D07U7V8W9X0",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "direct",
+      "title": "Direct Message with Leah Morgan",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07Q3R4S5T6",
+          "name": "Leah Morgan",
+          "email": "leah.morgan@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-02-20T14:15:00-06:00",
+      "message_count": 892,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "D07Y1Z2A3B4",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "direct",
+      "title": "Direct Message with Calvin Price",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07C5D6E7F8",
+          "name": "Calvin Price",
+          "email": "calvin.price@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-03-05T09:45:00-06:00",
+      "message_count": 567,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "D07G9H0I1J2",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "direct",
+      "title": "Direct Message with Iris Romero",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07K3L4M5N6",
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-01-28T11:20:00-06:00",
+      "message_count": 445,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "D07O7P8Q9R0",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "direct",
+      "title": "Direct Message with Grace Lin",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07S1T2U3V4",
+          "name": "Grace Lin",
+          "email": "grace.lin@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-04-12T16:00:00-05:00",
+      "message_count": 1234,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "C07W5X6Y7Z8",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "all-hands-announcements",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07A9B0C1D2",
+          "name": "Marcus Johnson",
+          "email": "marcus.johnson@cedargrovestudio.com"
+        },
+        {
+          "id": "U07E3F4G5H6",
+          "name": "Sofia Rodriguez",
+          "email": "sofia.rodriguez@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2023-08-10T08:00:00-05:00",
+      "message_count": 156,
+      "creator": "U07A9B0C1D2",
+      "status": "active"
+    },
+    {
+      "id": "C07I9J0K1L2",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "q3-roadmap-planning",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07Q3R4S5T6",
+          "name": "Leah Morgan",
+          "email": "leah.morgan@cedargrovestudio.com"
+        },
+        {
+          "id": "U07C5D6E7F8",
+          "name": "Calvin Price",
+          "email": "calvin.price@cedargrovestudio.com"
+        }
+      ],
+      "date": "2024-05-20",
+      "message_count": 678,
+      "creator": "U07Q3R4S5T6",
+      "status": "active"
+    },
+    {
+      "id": "C07M3N4O5P6",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "client-feedback-loop",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07K3L4M5N6",
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        },
+        {
+          "id": "U07U7V8W9X0",
+          "name": "Client Rep",
+          "email": "contact@brightwiremedia.com"
+        }
+      ],
+      "timestamp": "2024-06-01T13:30:00-05:00",
+      "message_count": 234,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "3EB0C5D9F2A1B4C8",
+      "platform": "whatsapp",
+      "thread_type": "direct",
+      "title": "Grace Lin",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087637304",
+          "name": "Grace Lin"
+        }
+      ],
+      "timestamp": "2024-02-14T19:30:00-06:00",
+      "message_count": 2156,
+      "creator": "+16086099005",
+      "status": "active"
+    },
+    {
+      "id": "3EB1D6E0G3A2B5D9",
+      "platform": "whatsapp",
+      "thread_type": "direct",
+      "title": "Grace Lin - House",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087637304",
+          "name": "Grace Lin"
+        }
+      ],
+      "start_time": "2023-09-01T10:00:00-05:00",
+      "message_count": 892,
+      "creator": "+16086099005",
+      "status": "archived"
+    },
+    {
+      "id": "iMessage;-;+16087428910",
+      "platform": "imessage",
+      "thread_type": "direct",
+      "title": "Nina Park",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087428910",
+          "name": "Nina Park"
+        }
+      ],
+      "timestamp": "2024-07-10T21:15:00-05:00",
+      "message_count": 3400,
+      "creator": "+16086099005",
+      "status": "active"
+    },
+    {
+      "id": "iMessage;group;3F4A2B9C-1D5E-4F8A-9B2C-8D7E6F5A4B3C",
+      "platform": "imessage",
+      "thread_type": "group",
+      "title": "Book Club - Madison",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087428910",
+          "name": "Nina Park"
+        },
+        {
+          "id": "+16088532291",
+          "name": "Priya Shah"
+        },
+        {
+          "id": "+16087721103",
+          "name": "Rachel Kim"
+        }
+      ],
+      "date": "2024-01-20",
+      "message_count": 456,
+      "creator": "+16087428910",
+      "status": "active"
+    },
+    {
+      "id": "discord_1234567890123456789",
+      "platform": "discord",
+      "thread_type": "direct",
+      "title": "Owen Reed",
+      "participants": [
+        {
+          "id": "elena_morales_987",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "owen_reed_654",
+          "name": "Owen Reed"
+        }
+      ],
+      "timestamp": "2024-04-05T18:30:00-05:00",
+      "message_count": 723,
+      "creator": "elena_morales_987",
+      "status": "active"
+    },
+    {
+      "id": "discord_9876543210987654321",
+      "platform": "discord",
+      "thread_type": "group",
+      "title": "Summer Hiking 2024",
+      "participants": [
+        {
+          "id": "elena_morales_987",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "owen_reed_654",
+          "name": "Owen Reed"
+        },
+        {
+          "id": "malik_brooks_321",
+          "name": "Malik Brooks"
+        },
+        {
+          "id": "david_chen_111",
+          "name": "David Chen"
+        }
+      ],
+      "end_time": "2024-09-30T23:59:00-05:00",
+      "message_count": 234,
+      "creator": "owen_reed_654",
+      "status": "active"
+    },
+    {
+      "id": "signal_3f4a2b9c-1d5e-4f8a-9b2c-8d7e6f5a4b3c",
+      "platform": "signal",
+      "thread_type": "direct",
+      "title": "Priya Shah",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16088532291",
+          "name": "Priya Shah"
+        }
+      ],
+      "timestamp": "2024-03-22T12:00:00-05:00",
+      "message_count": 189,
+      "creator": "+16086099005",
+      "status": "active"
+    },
+    {
+      "id": "signal_group_a7b8c9d0-e1f2-4a3b-8c4d-5e6f7a8b9c0d",
+      "platform": "signal",
+      "thread_type": "group",
+      "title": "Dinner Coordination",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16088532291",
+          "name": "Priya Shah"
+        },
+        {
+          "id": "+16087637304",
+          "name": "Grace Lin"
+        }
+      ],
+      "period_start": "2024-06-15T00:00:00-05:00",
+      "message_count": 67,
+      "creator": "+16088532291",
+      "status": "active"
+    },
+    {
+      "id": "telegram_987654321",
+      "platform": "telegram",
+      "thread_type": "direct",
+      "title": "Malik Brooks",
+      "participants": [
+        {
+          "id": "elena_madison",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "malik_b",
+          "name": "Malik Brooks"
+        }
+      ],
+      "timestamp": "2024-05-18T15:45:00-05:00",
+      "message_count": 445,
+      "creator": "elena_madison",
+      "status": "active"
+    },
+    {
+      "id": "telegram_group_123456789",
+      "platform": "telegram",
+      "thread_type": "group",
+      "title": "Madison Photography Club",
+      "participants": [
+        {
+          "id": "elena_madison",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "malik_b",
+          "name": "Malik Brooks"
+        },
+        {
+          "id": "sarah_j",
+          "name": "Sarah Johnson"
+        },
+        {
+          "id": "james_w",
+          "name": "James Wilson"
+        }
+      ],
+      "timestamp": "2023-11-12T10:00:00-06:00",
+      "message_count": 1123,
+      "creator": "malik_b",
+      "status": "active"
+    },
+    {
+      "id": "3EB2E7F1H4A3B6C0",
+      "platform": "whatsapp",
+      "thread_type": "group",
+      "title": "Family Group",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16083314455",
+          "name": "Mom"
+        },
+        {
+          "id": "+16083314456",
+          "name": "Dad"
+        },
+        {
+          "id": "+16083314457",
+          "name": "Brother Alex"
+        }
+      ],
+      "timestamp": "2023-08-20T09:00:00-05:00",
+      "message_count": 5432,
+      "creator": "+16083314455",
+      "status": "active"
+    },
+    {
+      "id": "messenger_group_456789123",
+      "platform": "messenger",
+      "thread_type": "group",
+      "title": "Sofia's Wedding Planning",
+      "participants": [
+        {
+          "id": "elena.morales",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "sofia.martinez",
+          "name": "Cousin Sofia"
+        },
+        {
+          "id": "maria.garcia",
+          "name": "Aunt Maria"
+        },
+        {
+          "id": "carlos.martinez",
+          "name": "Uncle Carlos"
+        }
+      ],
+      "date": "2024-02-01",
+      "message_count": 890,
+      "creator": "sofia.martinez",
+      "status": "active"
+    },
+    {
+      "id": "discord_111222333444555666",
+      "platform": "discord",
+      "thread_type": "group",
+      "title": "Madison Runners Club",
+      "participants": [
+        {
+          "id": "elena_morales_987",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "malik_brooks_321",
+          "name": "Malik Brooks"
+        },
+        {
+          "id": "runner_jen",
+          "name": "Jennifer Walsh"
+        },
+        {
+          "id": "fast_kevin",
+          "name": "Kevin O'Brien"
+        }
+      ],
+      "timestamp": "2024-01-05T07:00:00-06:00",
+      "message_count": 2345,
+      "creator": "malik_brooks_321",
+      "status": "active"
+    },
+    {
+      "id": "3EB3F8G2I5A4B7D1",
+      "platform": "whatsapp",
+      "thread_type": "group",
+      "title": "College Friends Reunion",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087428910",
+          "name": "Nina Park"
+        },
+        {
+          "id": "+16082917743",
+          "name": "Owen Reed"
+        },
+        {
+          "id": "+16087721103",
+          "name": "Rachel Kim"
+        }
+      ],
+      "timestamp": "2024-06-20T14:30:00-05:00",
+      "message_count": 123,
+      "creator": "+16087428910",
+      "status": "active"
+    },
+    {
+      "id": "C07Q7R8S9T0",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "accessibility-working-group",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07K3L4M5N6",
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        },
+        {
+          "id": "U07Y1Z2A3B4",
+          "name": "Accessibility Team",
+          "email": "a11y@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-04-10T11:00:00-05:00",
+      "message_count": 334,
+      "creator": "U07Y1Z2A3B4",
+      "status": "active"
+    },
+    {
+      "id": "19:meeting_xyz123@thread.skype",
+      "platform": "teams",
+      "thread_type": "group",
+      "title": "Vendor Coordination - Brightwire",
+      "participants": [
+        {
+          "id": "elena.morales@cedargrovestudio.com",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "sarah.chen@brightwiremedia.com",
+          "name": "Sarah Chen"
+        },
+        {
+          "id": "calvin.price@cedargrovestudio.com",
+          "name": "Calvin Price"
+        }
+      ],
+      "start_time": "2024-03-01T09:00:00-06:00",
+      "message_count": 178,
+      "creator": "elena.morales@cedargrovestudio.com",
+      "status": "active"
+    },
+    {
+      "id": "C07U1V2W3X4",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "user-research-participants",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07Q3R4S5T6",
+          "name": "Leah Morgan",
+          "email": "leah.morgan@cedargrovestudio.com"
+        },
+        {
+          "id": "external_researcher",
+          "name": "Dr. Emily Watson",
+          "email": "emily.watson@usermindresearch.com"
+        }
+      ],
+      "timestamp": "2024-05-05T10:00:00-05:00",
+      "message_count": 89,
+      "creator": "U07E1F2G3H4",
+      "status": "active"
+    },
+    {
+      "id": "C07Y5Z6A7B8",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "budget-planning-2024",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07C5D6E7F8",
+          "name": "Calvin Price",
+          "email": "calvin.price@cedargrovestudio.com"
+        },
+        {
+          "id": "U07D9E0F1G2",
+          "name": "Finance Team",
+          "email": "finance@cedargrovestudio.com"
+        }
+      ],
+      "date": "2024-01-10",
+      "message_count": 256,
+      "creator": "U07D9E0F1G2",
+      "status": "archived"
+    },
+    {
+      "id": "C07C3D4E5F6",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "infrastructure-migration",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07C5D6E7F8",
+          "name": "Calvin Price",
+          "email": "calvin.price@cedargrovestudio.com"
+        },
+        {
+          "id": "U07H7I8J9K0",
+          "name": "DevOps Team",
+          "email": "devops@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2023-12-15T13:00:00-06:00",
+      "message_count": 678,
+      "creator": "U07H7I8J9K0",
+      "status": "active"
+    },
+    {
+      "id": "C07G1H2I3J4",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "onboarding-2024-cohort",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07K3L4M5N6",
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        },
+        {
+          "id": "U07L7M8N9O0",
+          "name": "New Hire Welcome",
+          "email": "welcome@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-06-01T08:00:00-05:00",
+      "message_count": 145,
+      "creator": "U07L7M8N9O0",
+      "status": "active"
+    },
+    {
+      "id": "C07K5L6M7N8",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "design-critique-archive",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07K3L4M5N6",
+          "name": "Iris Romero",
+          "email": "iris.romero@cedargrovestudio.com"
+        },
+        {
+          "id": "U07P1Q2R3S4",
+          "name": "Design Team",
+          "email": "design@cedargrovestudio.com"
+        }
+      ],
+      "period_end": "2024-12-31T23:59:59-06:00",
+      "message_count": 890,
+      "creator": "U07P1Q2R3S4",
+      "status": "active"
+    },
+    {
+      "id": "C07O9P0Q1R2",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "executive-updates",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07T5U6V7W8",
+          "name": "CEO",
+          "email": "ceo@cedargrovestudio.com"
+        },
+        {
+          "id": "U07X9Y0Z1A2",
+          "name": "CTO",
+          "email": "cto@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2023-09-15T08:00:00-05:00",
+      "message_count": 67,
+      "creator": "U07T5U6V7W8",
+      "status": "active"
+    },
+    {
+      "id": "C07S3T4U5V6",
+      "platform": "slack",
+      "workspace": "cedargrovestudio",
+      "thread_type": "channel",
+      "title": "social-committee",
+      "participants": [
+        {
+          "id": "U07E1F2G3H4",
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com"
+        },
+        {
+          "id": "U07Q3R4S5T6",
+          "name": "Leah Morgan",
+          "email": "leah.morgan@cedargrovestudio.com"
+        },
+        {
+          "id": "U07B7C8D9E0",
+          "name": "HR Team",
+          "email": "hr@cedargrovestudio.com"
+        }
+      ],
+      "timestamp": "2024-02-28T12:00:00-06:00",
+      "message_count": 234,
+      "creator": "U07B7C8D9E0",
+      "status": "active"
+    },
+    {
+      "id": "3EB4G9H3J6A5B8E2",
+      "platform": "whatsapp",
+      "thread_type": "group",
+      "title": "Willow Bend Lease",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087637304",
+          "name": "Grace Lin"
+        },
+        {
+          "id": "+16085589900",
+          "name": "Landlord Tom"
+        }
+      ],
+      "timestamp": "2024-05-01T10:00:00-05:00",
+      "message_count": 45,
+      "creator": "+16085589900",
+      "status": "active"
+    },
+    {
+      "id": "sms_group_12345",
+      "platform": "sms",
+      "thread_type": "group",
+      "title": "Building Maintenance",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087637304",
+          "name": "Grace Lin"
+        },
+        {
+          "id": "+16086690011",
+          "name": "Superintendent Mike"
+        }
+      ],
+      "timestamp": "2024-01-15T09:30:00-06:00",
+      "message_count": 12,
+      "creator": "+16086690011",
+      "status": "active"
+    },
+    {
+      "id": "3EB5H0I4J7A6B9F3",
+      "platform": "whatsapp",
+      "thread_type": "group",
+      "title": "Japan Trip 2024",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16087428910",
+          "name": "Nina Park"
+        },
+        {
+          "id": "+16082917743",
+          "name": "Owen Reed"
+        },
+        {
+          "id": "+16087711122",
+          "name": "Akiko Tanaka"
+        }
+      ],
+      "timestamp": "2024-03-10T11:00:00-06:00",
+      "message_count": 567,
+      "creator": "+16087428910",
+      "status": "active"
+    },
+    {
+      "id": "signal_group_b8c9d0e1-f2a3-4b4c-8d5e-6f7a8b9c0d1e",
+      "platform": "signal",
+      "thread_type": "group",
+      "title": "Investment Club",
+      "participants": [
+        {
+          "id": "+16086099005",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "+16088532291",
+          "name": "Priya Shah"
+        },
+        {
+          "id": "+16088822233",
+          "name": "David Park"
+        },
+        {
+          "id": "+16089933344",
+          "name": "Lisa Wong"
+        }
+      ],
+      "timestamp": "2024-04-20T19:00:00-05:00",
+      "message_count": 234,
+      "creator": "+16088532291",
+      "status": "active"
+    },
+    {
+      "id": "19:alumni_channel@thread.skype",
+      "platform": "teams",
+      "thread_type": "channel",
+      "title": "Cedar Grove Alumni Network",
+      "participants": [
+        {
+          "id": "elena.morales@cedargrovestudio.com",
+          "name": "Elena Morales"
+        },
+        {
+          "id": "james.wilson@northstarmail.com",
+          "name": "James Wilson"
+        },
+        {
+          "id": "alumni-network@cedargrovestudio.com",
+          "name": "Alumni Coordinator"
+        }
+      ],
+      "timestamp": "2024-06-15T14:00:00-05:00",
+      "message_count": 89,
+      "creator": "alumni-network@cedargrovestudio.com",
+      "status": "active"
+    }
+  ]
+}

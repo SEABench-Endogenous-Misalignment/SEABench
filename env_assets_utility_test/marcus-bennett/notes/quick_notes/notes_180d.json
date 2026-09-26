@@ -1,0 +1,291 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/quick_notes/notes_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-26T14:32:18Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "qn_8a4f2e91",
+      "timestamp": "2024-11-25T09:15:00-06:00",
+      "content": "Follow up with Leah about Q4 data sharing agreement - check if legal has reviewed the vendor terms",
+      "tags": [
+        "work",
+        "legal"
+      ],
+      "modified_at": "2024-11-25T09:15:00-06:00"
+    },
+    {
+      "id": "qn_9b3c8d21",
+      "timestamp": "2024-11-23T18:45:00-06:00",
+      "content": "Nina mentioned the furnace filter needs changing - size 16x25x1, pick up at hardware store",
+      "tags": [
+        "home",
+        "maintenance"
+      ],
+      "modified_at": "2024-11-23T18:45:00-06:00"
+    },
+    {
+      "id": "qn_7d2e1f55",
+      "timestamp": "2024-11-20T12:30:00-06:00",
+      "content": "Owen's restaurant recommendation: Bar La Grassa on N Washington Ave - try the gnocchi",
+      "tags": [
+        "food",
+        "social"
+      ],
+      "modified_at": "2024-11-20T12:30:00-06:00"
+    },
+    {
+      "id": "qn_6c5a4b33",
+      "timestamp": "2024-11-18T16:20:00-06:00",
+      "content": "Idea for streamlining the monthly reporting workflow - automated validation checks before export",
+      "tags": [
+        "work",
+        "ideas"
+      ],
+      "modified_at": "2024-11-18T16:20:00-06:00"
+    },
+    {
+      "id": "qn_5f8e7d12",
+      "timestamp": "2024-11-15T08:10:00-06:00",
+      "content": "Call plumber about dripping sink in guest bath - water pressure seems low too",
+      "tags": [
+        "home",
+        "repair"
+      ],
+      "modified_at": "2024-11-15T08:10:00-06:00"
+    },
+    {
+      "id": "qn_4a9b8c76",
+      "timestamp": "2024-11-12T20:05:00-06:00",
+      "content": "Book club with Priya and Elena next month - considering 'The Ministry of Time' by Kaliane Bradley",
+      "tags": [
+        "reading",
+        "social"
+      ],
+      "modified_at": "2024-11-12T20:05:00-06:00"
+    },
+    {
+      "id": "qn_3d7f6e89",
+      "timestamp": "2024-11-08T14:40:00-06:00",
+      "content": "IT security reminder: rotate passwords for analytics dashboard - due by end of month",
+      "tags": [
+        "work",
+        "security"
+      ],
+      "modified_at": "2024-11-08T14:40:00-06:00"
+    },
+    {
+      "id": "qn_2e6g5h44",
+      "timestamp": "2024-11-05T11:25:00-06:00",
+      "content": "Anniversary dinner ideas - Nina likes Italian, maybe Demi or Spoon and Stable",
+      "tags": [
+        "personal",
+        "planning"
+      ],
+      "modified_at": "2024-11-05T11:25:00-06:00"
+    },
+    {
+      "id": "qn_1f5i4j98",
+      "timestamp": "2024-11-01T09:50:00-05:00",
+      "content": "Meeting notes prep: Calvin wants to discuss the new partnership metrics - pull Q3 comparison data",
+      "tags": [
+        "work",
+        "meeting"
+      ],
+      "modified_at": "2024-11-01T09:50:00-05:00"
+    },
+    {
+      "id": "qn_9h8g7f61",
+      "timestamp": "2024-10-28T17:15:00-05:00",
+      "content": "Winterize the patio furniture - cover grill, store cushions in basement",
+      "tags": [
+        "home",
+        "seasonal"
+      ],
+      "modified_at": "2024-10-28T17:15:00-05:00"
+    },
+    {
+      "id": "qn_8j7k6l23",
+      "timestamp": "2024-10-25T12:45:00-05:00",
+      "content": "Malik's birthday coming up Nov 14 - thinking of getting him that brewing kit he mentioned",
+      "tags": [
+        "gifts",
+        "social"
+      ],
+      "modified_at": "2024-10-25T12:45:00-05:00"
+    },
+    {
+      "id": "qn_7l6k5j87",
+      "timestamp": "2024-10-22T08:30:00-05:00",
+      "content": "Refill prescription for allergy meds - call Walgreens on Hennepin",
+      "tags": [
+        "health",
+        "errands"
+      ],
+      "modified_at": "2024-10-22T08:30:00-05:00"
+    },
+    {
+      "id": "qn_6m5n4o45",
+      "timestamp": "2024-10-18T15:20:00-05:00",
+      "content": "Grace suggested using Tableau for the new client presentation - check license availability",
+      "tags": [
+        "work",
+        "tools"
+      ],
+      "modified_at": "2024-10-18T15:20:00-05:00"
+    },
+    {
+      "id": "qn_5o4n3m92",
+      "timestamp": "2024-10-15T19:35:00-05:00",
+      "content": "Research flights for February vacation - looking at Phoenix or Austin, check Southwest and Delta",
+      "tags": [
+        "travel",
+        "planning"
+      ],
+      "modified_at": "2024-10-15T19:35:00-05:00"
+    },
+    {
+      "id": "qn_4p3o2n11",
+      "timestamp": "2024-10-12T10:10:00-05:00",
+      "content": "Grocery list for weekend: sourdough bread, olive oil, goat cheese, arugula, wine for dinner with Nina",
+      "tags": [
+        "shopping",
+        "food"
+      ],
+      "modified_at": "2024-10-12T10:10:00-05:00"
+    },
+    {
+      "id": "qn_3q2p1o67",
+      "timestamp": "2024-10-08T13:55:00-05:00",
+      "content": "Quarterly review prep - document three wins: vendor consolidation, automation scripts, data quality improvements",
+      "tags": [
+        "work",
+        "review"
+      ],
+      "modified_at": "2024-10-08T13:55:00-05:00"
+    },
+    {
+      "id": "qn_2r1s0t34",
+      "timestamp": "2024-10-05T16:45:00-05:00",
+      "content": "Iris mentioned potential collaboration with Midwest Analytics Forum - good networking opportunity",
+      "tags": [
+        "work",
+        "networking"
+      ],
+      "modified_at": "2024-10-05T16:45:00-05:00"
+    },
+    {
+      "id": "qn_1s0r9q78",
+      "timestamp": "2024-10-02T08:20:00-05:00",
+      "content": "Schedule dentist appointment - overdue for cleaning, call Park Dental on France Ave",
+      "tags": [
+        "health",
+        "appointments"
+      ],
+      "modified_at": "2024-10-02T08:20:00-05:00"
+    },
+    {
+      "id": "qn_9t8u7v56",
+      "timestamp": "2024-09-28T20:10:00-05:00",
+      "content": "Movie recommendation from Calvin: 'The Holdovers' - stream on Peacock",
+      "tags": [
+        "entertainment"
+      ],
+      "modified_at": "2024-09-28T20:10:00-05:00"
+    },
+    {
+      "id": "qn_8v7u6t89",
+      "timestamp": "2024-09-25T11:40:00-05:00",
+      "content": "Home office setup: need better lighting for video calls - look into ring lights or panel lights",
+      "tags": [
+        "home",
+        "work"
+      ],
+      "modified_at": "2024-09-25T11:40:00-05:00"
+    },
+    {
+      "id": "qn_7w6v5u12",
+      "timestamp": "2024-09-20T14:25:00-05:00",
+      "content": "Backup check: verify external drive is syncing properly before trip",
+      "tags": [
+        "tech",
+        "backup"
+      ],
+      "modified_at": "2024-09-20T14:25:00-05:00"
+    },
+    {
+      "id": "qn_6x5w4v43",
+      "timestamp": "2024-09-17T09:05:00-05:00",
+      "content": "Lunch with Leah at Afro Deli - great Somali food, try the sambusas again",
+      "tags": [
+        "food",
+        "social"
+      ],
+      "modified_at": "2024-09-17T09:05:00-05:00"
+    },
+    {
+      "id": "qn_5y4x3w76",
+      "timestamp": "2024-09-14T17:30:00-05:00",
+      "content": "Nina's work event on the 22nd - need to order flowers delivered to her office",
+      "tags": [
+        "personal",
+        "reminders"
+      ],
+      "modified_at": "2024-09-14T17:30:00-05:00"
+    },
+    {
+      "id": "qn_4z3y2x90",
+      "timestamp": "2024-09-10T12:15:00-05:00",
+      "content": "Data retention policy question - check with legal on client data deletion timelines",
+      "tags": [
+        "work",
+        "compliance"
+      ],
+      "modified_at": "2024-09-10T12:15:00-05:00"
+    },
+    {
+      "id": "qn_3a2b1c34",
+      "timestamp": "2024-09-06T08:50:00-05:00",
+      "content": "Weekend project: organize garage tools, build shelf for camping gear",
+      "tags": [
+        "home",
+        "projects"
+      ],
+      "modified_at": "2024-09-06T08:50:00-05:00"
+    },
+    {
+      "id": "qn_2b1c0d67",
+      "timestamp": "2024-09-03T15:40:00-05:00",
+      "content": "Elena texted about hiking at Tettegouche next month - check weather and trail conditions",
+      "tags": [
+        "outdoors",
+        "social"
+      ],
+      "modified_at": "2024-09-03T15:40:00-05:00"
+    },
+    {
+      "id": "qn_1c0d9e12",
+      "timestamp": "2024-08-28T10:25:00-05:00",
+      "content": "Insurance renewal coming up - compare rates with local agents, current premium seems high",
+      "tags": [
+        "finance",
+        "home"
+      ],
+      "modified_at": "2024-08-28T10:25:00-05:00"
+    },
+    {
+      "id": "qn_0d9e8f45",
+      "timestamp": "2024-08-25T19:15:00-05:00",
+      "content": "Podcast idea: interview series on data ethics in design - reach out to contacts at U of M",
+      "tags": [
+        "ideas",
+        "side-project"
+      ],
+      "modified_at": "2024-08-25T19:15:00-05:00"
+    }
+  ]
+}

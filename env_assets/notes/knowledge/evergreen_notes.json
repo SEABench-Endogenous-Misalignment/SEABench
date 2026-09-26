@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/evergreen_notes.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T14:35:00Z"
+  },
+  "records": [
+    {
+      "id": "note_gtd_review",
+      "title": "Weekly GTD Review Checklist",
+      "category": "productivity",
+      "tags": [
+        "gtd",
+        "workflow",
+        "weekly-review"
+      ],
+      "content_summary": "Comprehensive checklist for weekly review: collect loose papers, process inbox, review project lists, review waiting-for, review maybe/someday, review calendar, review goals.",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "note_bp_tracking",
+      "title": "Home Blood Pressure Monitoring Protocol",
+      "category": "health",
+      "tags": [
+        "health",
+        "tracking",
+        "blood-pressure"
+      ],
+      "content_summary": "Measure at same time daily, sit quietly 5 min before, arm at heart level, take two readings 1 min apart, record in health app.",
+      "timestamp": "2026-04-15T08:30:00Z"
+    },
+    {
+      "id": "note_budget_framework",
+      "title": "50/30/20 Budget Allocation Reference",
+      "category": "finance",
+      "tags": [
+        "budget",
+        "finance",
+        "rules"
+      ],
+      "content_summary": "Needs 50%, Wants 30%, Savings/Debt 20%. Review quarterly. Adjust for seasonal variations per banking data.",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "note_sourdough_maintenance",
+      "title": "Sourdough Starter Maintenance Schedule",
+      "category": "cooking",
+      "tags": [
+        "baking",
+        "sourdough",
+        "fermentation"
+      ],
+      "content_summary": "Feed 1:1:1 ratio daily if room temp, weekly if refrigerated. Discard half before feeding. Look for doubling within 4-6 hours.",
+      "date": "2026-05-01"
+    },
+    {
+      "id": "note_arch_patterns",
+      "title": "Common Software Architecture Patterns",
+      "category": "career",
+      "tags": [
+        "architecture",
+        "design-patterns",
+        "reference"
+      ],
+      "content_summary": "Reference for Microservices vs Monolith, Event-Driven, CQRS, Domain-Driven Design principles with trade-offs.",
+      "timestamp": "2026-06-25T16:45:00Z"
+    },
+    {
+      "id": "note_network_crm",
+      "title": "Professional Relationship Maintenance System",
+      "category": "networking",
+      "tags": [
+        "networking",
+        "crm",
+        "relationships"
+      ],
+      "content_summary": "Touch base quarterly with close contacts, annually with acquaintances. Use context from meetings drawn from calendar history.",
+      "date": "2026-04-20"
+    }
+  ]
+}

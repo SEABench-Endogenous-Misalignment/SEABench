@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/emergency_contacts.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "contacts_export"
+  },
+  "records": [
+    {
+      "id": "8f4a2b1c-9d3e-4f5a-b6c7-d8e9f0a1b2c3",
+      "timestamp": "2024-03-12T09:15:00Z",
+      "name": "Iris Romero",
+      "relationship": "sibling",
+      "phone": "+1-412-633-6256",
+      "email": "iris.romero@meadowmail.co",
+      "address": "8071 Alder Ridge Road, Pittsburgh, PA 15240"
+    },
+    {
+      "id": "9e5b3c2d-0a4f-5b6a-c7d8-e9f0a1b2c3d4",
+      "timestamp": "2023-11-05T16:22:00Z",
+      "name": "Nina Park",
+      "relationship": "friend",
+      "phone": "+1-412-344-8921",
+      "email": "nina.park@riverwood.net",
+      "address": "4521 Shady Avenue, Pittsburgh, PA 15217"
+    },
+    {
+      "id": "af6c4d3e-1b5a-6c7a-d8e9-f0a1b2c3d4e5",
+      "timestamp": "2024-01-20T11:45:00Z",
+      "name": "Owen Reed",
+      "relationship": "friend",
+      "phone": "+1-610-442-7789",
+      "email": "owen.reed@hillside.tech",
+      "address": "129 Market Street, Philadelphia, PA 19106"
+    },
+    {
+      "id": "b07d5e4f-2c6a-7d8a-e9f0-a1b2c3d4e5f6",
+      "timestamp": "2023-09-14T08:30:00Z",
+      "name": "Priya Shah",
+      "relationship": "friend",
+      "phone": "+1-412-788-3345",
+      "email": "priya.shah@oakstream.org",
+      "address": "302 Fifth Avenue, Pittsburgh, PA 15222"
+    },
+    {
+      "id": "c18e6f50-3d7a-8e9a-f0a1-b2c3d4e5f6a7",
+      "timestamp": "2024-02-28T19:10:00Z",
+      "name": "Malik Brooks",
+      "relationship": "friend",
+      "phone": "+1-412-655-9012",
+      "email": "malik.brooks@westbridge.co",
+      "address": "8810 Liberty Avenue, Pittsburgh, PA 15222"
+    },
+    {
+      "id": "d29f7a61-4e8a-9f0a-a1b2-c3d4e5f6a7b8",
+      "timestamp": "2023-07-08T13:55:00Z",
+      "name": "Tuan Nguyen",
+      "relationship": "parent",
+      "phone": "+1-724-338-9921",
+      "email": "tuan.nguyen@silverbell.net",
+      "address": "1200 Maple Drive, Monroeville, PA 15146"
+    }
+  ]
+}

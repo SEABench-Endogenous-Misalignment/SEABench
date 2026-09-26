@@ -1,0 +1,140 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/desktop_snapshot_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-28T22:15:00Z",
+    "source": "desktop_sync"
+  },
+  "records": [
+    {
+      "id": "file_a7d3e9f2",
+      "timestamp": "2024-11-28T16:30:00-06:00",
+      "filename": "Harborview_Q4_Partnership_Review.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 4521987,
+      "local_path": "/Users/marcus.bennett/Desktop/Harborview_Q4_Partnership_Review.pdf",
+      "source": "corporate_portal",
+      "source_detail": "https://share.harborviewdesign.com/reports/q4_2024",
+      "category": "work",
+      "created_by": "marcus.bennett@harborviewdesign.com"
+    },
+    {
+      "id": "file_b8c2d1a4",
+      "timestamp": "2024-11-27T09:15:22-06:00",
+      "filename": "IMG_4482_Nina_Birthday_Celebration.jpg",
+      "file_type": "image/jpeg",
+      "size_bytes": 3847201,
+      "local_path": "/Users/marcus.bennett/Desktop/IMG_4482_Nina_Birthday_Celebration.jpg",
+      "source": "airdrop",
+      "source_detail": "nina.park@riverbendmail.com",
+      "category": "personal"
+    },
+    {
+      "id": "file_c9f1e8b3",
+      "timestamp": "2024-11-25T14:22:18-06:00",
+      "filename": "Household_Budget_November_2024.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 45200,
+      "local_path": "/Users/marcus.bennett/Desktop/Household_Budget_November_2024.xlsx",
+      "source": "local_creation",
+      "category": "finance"
+    },
+    {
+      "id": "file_d2a5g7h1",
+      "timestamp": "2024-11-22T11:05:33-06:00",
+      "filename": "node-v20.11.0-x64.msi",
+      "file_type": "application/x-msi",
+      "size_bytes": 34567890,
+      "local_path": "/Users/marcus.bennett/Downloads/node-v20.11.0-x64.msi",
+      "source_url": "https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi",
+      "category": "software"
+    },
+    {
+      "id": "file_e4i9j2k8",
+      "timestamp": "2024-11-20T19:45:12-06:00",
+      "filename": "Delta_Confirmation_MSP_to_LAX_Nov24.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 187450,
+      "local_path": "/Users/marcus.bennett/Desktop/Delta_Confirmation_MSP_to_LAX_Nov24.pdf",
+      "source": "email_client",
+      "source_detail": "marcus.bennett@harborinbox.com",
+      "category": "travel"
+    },
+    {
+      "id": "file_f6l3m1n9",
+      "timestamp": "2024-11-18T08:30:45-06:00",
+      "filename": "Screenshot_2024-11-18_Project_Timeline.png",
+      "file_type": "image/png",
+      "size_bytes": 892347,
+      "local_path": "/Users/marcus.bennett/Desktop/Screenshot_2024-11-18_Project_Timeline.png",
+      "source": "screenshot_utility",
+      "category": "work"
+    },
+    {
+      "id": "file_g8o5p2q7",
+      "timestamp": "2024-11-15T13:12:00-06:00",
+      "filename": "Lakeside_Home_Insurance_Renewal_2025.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 2156789,
+      "local_path": "/Users/marcus.bennett/Desktop/Lakeside_Home_Insurance_Renewal_2025.pdf",
+      "source": "email_client",
+      "source_detail": "nina.park@riverbendmail.com",
+      "category": "home_life"
+    },
+    {
+      "id": "file_h1r8s4t6",
+      "timestamp": "2024-11-12T16:48:29-06:00",
+      "filename": "Data_Partnership_Deliverables_Archive.zip",
+      "file_type": "application/zip",
+      "size_bytes": 156789432,
+      "local_path": "/Users/marcus.bennett/Desktop/Data_Partnership_Deliverables_Archive.zip",
+      "source": "internal_share",
+      "source_detail": "Leah Morgan via Harborview SharePoint",
+      "category": "work"
+    },
+    {
+      "id": "file_i3u9v5w2",
+      "timestamp": "2024-11-08T10:22:15-06:00",
+      "filename": "Client_Ops_Meeting_Recording_110824.mp3",
+      "file_type": "audio/mpeg",
+      "size_bytes": 45678213,
+      "local_path": "/Users/marcus.bennett/Downloads/Client_Ops_Meeting_Recording_110824.mp3",
+      "source": "meeting_platform",
+      "category": "work"
+    },
+    {
+      "id": "file_j5x2y8z4",
+      "timestamp": "2024-11-05T15:33:47-06:00",
+      "filename": "Marcus_Bennett_CV_2024_Update.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 145230,
+      "local_path": "/Users/marcus.bennett/Desktop/Marcus_Bennett_CV_2024_Update.pdf",
+      "source": "local_export",
+      "category": "career"
+    },
+    {
+      "id": "file_k7a1b9c3",
+      "timestamp": "2024-11-02T11:18:22-06:00",
+      "filename": "Laurel_Creek_HomeInspection_Report.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 3894561,
+      "local_path": "/Users/marcus.bennett/Desktop/Laurel_Creek_HomeInspection_Report.pdf",
+      "source": "email_client",
+      "source_detail": "inspector@midwesthomeinspection.net",
+      "category": "home_life"
+    },
+    {
+      "id": "file_l2d6e4f8",
+      "timestamp": "2024-10-30T09:45:10-05:00",
+      "filename": "AWP_Contract_Amendment_v3.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 98234,
+      "local_path": "/Users/marcus.bennett/Desktop/AWP_Contract_Amendment_v3.docx",
+      "source": "collaboration_platform",
+      "source_detail": "Calvin Price via Harborview Teams",
+      "category": "work"
+    }
+  ]
+}

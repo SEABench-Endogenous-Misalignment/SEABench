@@ -1,0 +1,659 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/starred_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T14:35:22Z"
+  },
+  "records": [
+    {
+      "id": "em_20250715_001",
+      "timestamp": "2025-07-15T09:23:00Z",
+      "sender_name": "Finance Department",
+      "sender_email": "finance@techfirm.com",
+      "subject": "Q3 Budget Approval",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "work",
+        "finance",
+        "important"
+      ],
+      "snippet": "Please review the attached Q3 budget proposal...",
+      "has_attachments": true,
+      "size_kb": 458
+    },
+    {
+      "id": "em_20250722_002",
+      "timestamp": "2025-07-22T16:45:00Z",
+      "sender_name": "Mom",
+      "sender_email": "mom@familymail.net",
+      "subject": "Mom's Birthday Plans",
+      "category": "personal",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "family",
+        "birthday",
+        "planning"
+      ],
+      "snippet": "I was thinking we could do brunch at the garden...",
+      "has_attachments": false,
+      "size_kb": 12
+    },
+    {
+      "id": "em_20250803_003",
+      "timestamp": "2025-08-03T11:30:00Z",
+      "sender_name": "Run Coach",
+      "sender_email": "coach@runclub.org",
+      "subject": "Marathon Training Week 1",
+      "category": "health",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "fitness",
+        "running",
+        "training"
+      ],
+      "snippet": "Welcome to week 1! Your schedule includes 3 easy runs...",
+      "has_attachments": true,
+      "size_kb": 245
+    },
+    {
+      "id": "em_20250818_004",
+      "timestamp": "2025-08-18T14:20:00Z",
+      "sender_name": "Bob Smith",
+      "sender_email": "bob.smith@techfirm.com",
+      "subject": "Project Phoenix Kickoff",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "project-phoenix",
+        "urgent",
+        "work"
+      ],
+      "snippet": "Meeting notes and initial timeline attached...",
+      "has_attachments": true,
+      "size_kb": 890
+    },
+    {
+      "id": "em_20250905_005",
+      "timestamp": "2025-09-05T08:15:00Z",
+      "sender_name": "SecureBank Alerts",
+      "sender_email": "alerts@securebank.com",
+      "subject": "Checking Account Statement",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "banking",
+        "statement",
+        "finance"
+      ],
+      "snippet": "Your monthly statement for account ending in 4829...",
+      "has_attachments": true,
+      "size_kb": 124
+    },
+    {
+      "id": "em_20250912_006",
+      "timestamp": "2025-09-12T19:00:00Z",
+      "sender_name": "Eve Thompson",
+      "sender_email": "eve@personalmail.com",
+      "subject": "Dinner Saturday?",
+      "category": "social",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "friends",
+        "social",
+        "weekend"
+      ],
+      "snippet": "Are you free this Saturday? There's a new Italian place...",
+      "has_attachments": false,
+      "size_kb": 8
+    },
+    {
+      "id": "em_20250928_007",
+      "timestamp": "2025-09-28T10:45:00Z",
+      "sender_name": "Downtown Dental",
+      "sender_email": "reception@dentalcare.com",
+      "subject": "Dental Appointment Confirmation",
+      "category": "health",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "appointment",
+        "health",
+        "reminder"
+      ],
+      "snippet": "Confirming your appointment on October 15th at 2pm...",
+      "has_attachments": false,
+      "size_kb": 15
+    },
+    {
+      "id": "em_20251010_008",
+      "timestamp": "2025-10-10T13:10:00Z",
+      "sender_name": "AutoInsure",
+      "sender_email": "service@autoinsure.com",
+      "subject": "Car Insurance Renewal",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "insurance",
+        "renewal",
+        "finance"
+      ],
+      "snippet": "Your policy renewal documents are ready for review...",
+      "has_attachments": true,
+      "size_kb": 312
+    },
+    {
+      "id": "em_20251025_009",
+      "timestamp": "2025-10-25T09:30:00Z",
+      "sender_name": "Carol Jones",
+      "sender_email": "carol.jones@techfirm.com",
+      "subject": "Board Meeting Notes",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "board",
+        "meeting-notes",
+        "work"
+      ],
+      "snippet": "Key decisions from yesterday's board meeting...",
+      "has_attachments": true,
+      "size_kb": 567
+    },
+    {
+      "id": "em_20251108_010",
+      "timestamp": "2025-11-08T15:20:00Z",
+      "sender_name": "Airline Bookings",
+      "sender_email": "bookings@airline.com",
+      "subject": "Thanksgiving Flight Itinerary",
+      "category": "personal",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "travel",
+        "thanksgiving",
+        "flights"
+      ],
+      "snippet": "Your flight AA2847 on November 26th is confirmed...",
+      "has_attachments": true,
+      "size_kb": 180
+    },
+    {
+      "id": "em_20251120_011",
+      "timestamp": "2025-11-20T11:00:00Z",
+      "sender_name": "HR Department",
+      "sender_email": "hr@techfirm.com",
+      "subject": "Annual Bonus Structure",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "hr",
+        "compensation",
+        "confidential"
+      ],
+      "snippet": "Details regarding this year's bonus calculations...",
+      "has_attachments": true,
+      "size_kb": 95
+    },
+    {
+      "id": "em_20251201_012",
+      "timestamp": "2025-12-01T08:45:00Z",
+      "sender_name": "Fitness Club",
+      "sender_email": "billing@fitnessclub.com",
+      "subject": "Gym Membership Renewal",
+      "category": "health",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "gym",
+        "subscription",
+        "receipt"
+      ],
+      "snippet": "Your annual membership has been renewed successfully...",
+      "has_attachments": true,
+      "size_kb": 45
+    },
+    {
+      "id": "em_20251215_013",
+      "timestamp": "2025-12-15T16:30:00Z",
+      "sender_name": "Dave Miller",
+      "sender_email": "dave@friendmail.net",
+      "subject": "Holiday Party Photos",
+      "category": "social",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "photos",
+        "party",
+        "friends"
+      ],
+      "snippet": "Here are the shots from last weekend's party...",
+      "has_attachments": true,
+      "size_kb": 4200
+    },
+    {
+      "id": "em_20251228_014",
+      "timestamp": "2025-12-28T10:00:00Z",
+      "sender_name": "Wealth Management",
+      "sender_email": "wealth@securebank.com",
+      "subject": "Year-End Investment Summary",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "investments",
+        "year-end",
+        "portfolio"
+      ],
+      "snippet": "Review your portfolio performance for 2025...",
+      "has_attachments": true,
+      "size_kb": 680
+    },
+    {
+      "id": "em_20260110_015",
+      "timestamp": "2026-01-10T09:15:00Z",
+      "sender_name": "Tax Accountant",
+      "sender_email": "tax@accountant.com",
+      "subject": "Tax Documents Ready",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "taxes",
+        "documents",
+        "2025"
+      ],
+      "snippet": "Your W-2 and 1099 documents are available...",
+      "has_attachments": true,
+      "size_kb": 234
+    },
+    {
+      "id": "em_20260122_016",
+      "timestamp": "2026-01-22T14:00:00Z",
+      "sender_name": "Sarah (Sister)",
+      "sender_email": "sister@familymail.net",
+      "subject": "Baby Shower Invite",
+      "category": "personal",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "family",
+        "baby-shower",
+        "event"
+      ],
+      "snippet": "Save the date! February 14th at 2pm...",
+      "has_attachments": true,
+      "size_kb": 156
+    },
+    {
+      "id": "em_20260205_017",
+      "timestamp": "2026-02-05T11:30:00Z",
+      "sender_name": "Manager",
+      "sender_email": "manager@techfirm.com",
+      "subject": "Performance Review Schedule",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "review",
+        "hr",
+        "calendar"
+      ],
+      "snippet": "Please book a time for your annual performance review...",
+      "has_attachments": false,
+      "size_kb": 22
+    },
+    {
+      "id": "em_20260218_018",
+      "timestamp": "2026-02-18T08:20:00Z",
+      "sender_name": "Payroll System",
+      "sender_email": "payroll@techfirm.com",
+      "subject": "Payroll Deposit Confirmation",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "payroll",
+        "salary",
+        "deposit"
+      ],
+      "snippet": "Your direct deposit for the period ending...",
+      "has_attachments": true,
+      "size_kb": 38
+    },
+    {
+      "id": "em_20260303_019",
+      "timestamp": "2026-03-03T17:45:00Z",
+      "sender_name": "Concert Venue",
+      "sender_email": "tickets@venue.com",
+      "subject": "Concert Tickets - March 15",
+      "category": "social",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "tickets",
+        "entertainment",
+        "weekend"
+      ],
+      "snippet": "Your tickets for the Symphony Hall performance...",
+      "has_attachments": true,
+      "size_kb": 125
+    },
+    {
+      "id": "em_20260315_020",
+      "timestamp": "2026-03-15T10:30:00Z",
+      "sender_name": "Home Repair Service",
+      "sender_email": "service@homerepair.com",
+      "subject": "Home Maintenance Quote",
+      "category": "personal",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "home",
+        "maintenance",
+        "quote"
+      ],
+      "snippet": "Attached is the estimate for roof repairs...",
+      "has_attachments": true,
+      "size_kb": 289
+    },
+    {
+      "id": "em_20260328_021",
+      "timestamp": "2026-03-28T13:15:00Z",
+      "sender_name": "Bob Smith",
+      "sender_email": "bob.smith@techfirm.com",
+      "subject": "Q1 Project Deliverables",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "project-phoenix",
+        "deadline",
+        "q1"
+      ],
+      "snippet": "Please review the final deliverables checklist...",
+      "has_attachments": true,
+      "size_kb": 445
+    },
+    {
+      "id": "em_20260402_022",
+      "timestamp": "2026-04-02T09:00:00Z",
+      "sender_name": "SecureBank Security",
+      "sender_email": "security@securebank.com",
+      "subject": "Important: Account Security Alert",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "security",
+        "alert",
+        "banking"
+      ],
+      "snippet": "We detected an unusual login attempt on your account...",
+      "has_attachments": false,
+      "size_kb": 18
+    },
+    {
+      "id": "em_20260410_023",
+      "timestamp": "2026-04-10T15:45:00Z",
+      "sender_name": "Health Portal",
+      "sender_email": "reminders@healthportal.com",
+      "subject": "Doctor Appointment Reminder",
+      "category": "health",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "appointment",
+        "reminder",
+        "checkup"
+      ],
+      "snippet": "Reminder: Annual physical scheduled for April 20...",
+      "has_attachments": false,
+      "size_kb": 14
+    },
+    {
+      "id": "em_20260415_024",
+      "timestamp": "2026-04-15T11:20:00Z",
+      "sender_name": "Productivity App",
+      "sender_email": "notes@productivity.app",
+      "subject": "Alice - Meeting Notes from Sync",
+      "category": "notes",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "sync",
+        "notes",
+        "backup"
+      ],
+      "snippet": "Your notes from the April 14th team sync...",
+      "has_attachments": true,
+      "size_kb": 67
+    },
+    {
+      "id": "em_20260420_025",
+      "timestamp": "2026-04-20T08:30:00Z",
+      "sender_name": "Amazon Orders",
+      "sender_email": "shipment@amazon.com",
+      "subject": "Your Amazon Order Shipped",
+      "category": "personal",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "shopping",
+        "delivery",
+        "tracking"
+      ],
+      "snippet": "Your order #112-8457321 has shipped and will arrive...",
+      "has_attachments": false,
+      "size_kb": 28
+    },
+    {
+      "id": "em_20260425_026",
+      "timestamp": "2026-04-25T16:00:00Z",
+      "sender_name": "Dave Miller",
+      "sender_email": "dave@friendmail.net",
+      "subject": "Weekend Hike Plan",
+      "category": "social",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "hiking",
+        "outdoors",
+        "weekend"
+      ],
+      "snippet": "Meeting at the trailhead at 8am Saturday...",
+      "has_attachments": false,
+      "size_kb": 11
+    },
+    {
+      "id": "em_20260505_027",
+      "timestamp": "2026-05-05T10:10:00Z",
+      "sender_name": "Home Loan Services",
+      "sender_email": "loans@homeloan.com",
+      "subject": "Mortgage Payment Received",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "mortgage",
+        "payment",
+        "receipt"
+      ],
+      "snippet": "Thank you for your payment of $2,450.00...",
+      "has_attachments": true,
+      "size_kb": 52
+    },
+    {
+      "id": "em_20260512_028",
+      "timestamp": "2026-05-12T14:30:00Z",
+      "sender_name": "Google Calendar",
+      "sender_email": "calendar@google.com",
+      "subject": "Calendar: Dinner with Parents",
+      "category": "calendar",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "calendar",
+        "family",
+        "dinner"
+      ],
+      "snippet": "Reminder: Dinner with Mom and Dad on Friday...",
+      "has_attachments": false,
+      "size_kb": 9
+    },
+    {
+      "id": "em_20260518_029",
+      "timestamp": "2026-05-18T09:45:00Z",
+      "sender_name": "Fitbit",
+      "sender_email": "noreply@fitbit.com",
+      "subject": "Fitbit Weekly Report",
+      "category": "fitness",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "fitness",
+        "weekly-report",
+        "stats"
+      ],
+      "snippet": "You walked an average of 8,500 steps per day...",
+      "has_attachments": true,
+      "size_kb": 340
+    },
+    {
+      "id": "em_20260522_030",
+      "timestamp": "2026-05-22T11:15:00Z",
+      "sender_name": "Carol Jones",
+      "sender_email": "carol.jones@techfirm.com",
+      "subject": "Project Deadline Extended",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "project-phoenix",
+        "deadline",
+        "update"
+      ],
+      "snippet": "Good news! The client agreed to extend the deadline...",
+      "has_attachments": false,
+      "size_kb": 19
+    },
+    {
+      "id": "em_20260602_031",
+      "timestamp": "2026-06-02T08:00:00Z",
+      "sender_name": "Power Company",
+      "sender_email": "billing@powerco.com",
+      "subject": "Electric Bill Due June 15",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "utilities",
+        "bill",
+        "payment-due"
+      ],
+      "snippet": "Amount due: $124.50. Pay by June 15 to avoid...",
+      "has_attachments": true,
+      "size_kb": 89
+    },
+    {
+      "id": "em_20260608_032",
+      "timestamp": "2026-06-08T16:20:00Z",
+      "sender_name": "Yoga Studio",
+      "sender_email": "studio@yogalife.com",
+      "subject": "Yoga Class Schedule Change",
+      "category": "health",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "yoga",
+        "schedule",
+        "update"
+      ],
+      "snippet": "Tuesday evening class moved to 7:30pm starting...",
+      "has_attachments": false,
+      "size_kb": 13
+    },
+    {
+      "id": "em_20260612_033",
+      "timestamp": "2026-06-12T10:45:00Z",
+      "sender_name": "Eve Thompson",
+      "sender_email": "eve@personalmail.com",
+      "subject": "Fwd: Camping Trip Details",
+      "category": "social",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "camping",
+        "trip",
+        "summer"
+      ],
+      "snippet": "Forwarding the campsite reservation details...",
+      "has_attachments": true,
+      "size_kb": 234
+    },
+    {
+      "id": "em_20260618_034",
+      "timestamp": "2026-06-18T13:30:00Z",
+      "sender_name": "Legal Department",
+      "sender_email": "legal@techfirm.com",
+      "subject": "Urgent: Contract Revision Needed",
+      "category": "work",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "legal",
+        "contract",
+        "urgent"
+      ],
+      "snippet": "The vendor sent revised terms that need review by EOD...",
+      "has_attachments": true,
+      "size_kb": 1120
+    },
+    {
+      "id": "em_20260624_035",
+      "timestamp": "2026-06-24T09:15:00Z",
+      "sender_name": "SecureBank Fraud Alert",
+      "sender_email": "fraud@securebank.com",
+      "subject": "Banking: Large Transfer Alert",
+      "category": "finance",
+      "is_starred": true,
+      "is_flagged": true,
+      "labels": [
+        "fraud-alert",
+        "transfer",
+        "security"
+      ],
+      "snippet": "We noticed a large transfer of $5,000. If this wasn't you...",
+      "has_attachments": false,
+      "size_kb": 16
+    },
+    {
+      "id": "em_20260629_036",
+      "timestamp": "2026-06-29T15:00:00Z",
+      "sender_name": "Productivity App",
+      "sender_email": "sync@productivity.app",
+      "subject": "Sync: Calendar Export Complete",
+      "category": "notes",
+      "is_starred": true,
+      "is_flagged": false,
+      "labels": [
+        "sync",
+        "export",
+        "backup"
+      ],
+      "snippet": "Your calendar export for the past 365 days is ready...",
+      "has_attachments": true,
+      "size_kb": 890
+    }
+  ]
+}

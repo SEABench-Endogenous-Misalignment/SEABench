@@ -1,0 +1,564 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/notes_apps/synced_notebooks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T20:32:17Z",
+    "source": "notes_app_sync_export"
+  },
+  "records": [
+    {
+      "id": "nt_2024_11_27_m2k9",
+      "timestamp": "2024-11-27T08:45:12-07:00",
+      "notebook_name": "Daily Standup Notes",
+      "title": "Product Ops Sync - Nov 27",
+      "content_preview": "Reviewed Q4 milestones with Grace. Blockers: waiting on data verification from engineering. Action items: follow up with Calvin on budget approvals.",
+      "tags": [
+        "work",
+        "daily-standup",
+        "brightline"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_25_p8q2",
+      "timestamp": "2024-11-25T15:30:00-07:00",
+      "notebook_name": "Personal Journal",
+      "title": "Reflection on the Move",
+      "content_preview": "Still adjusting to the new rhythm in Denver. Leah mentioned the neighborhood feels more quiet than our old place.",
+      "tags": [
+        "personal",
+        "journal",
+        "denver"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_24_h5n1",
+      "date": "2024-11-24",
+      "notebook_name": "Household Shared",
+      "title": "Grocery List - Thanksgiving",
+      "content_preview": "Turkey (16 lbs), cranberries, Leah's special stuffing ingredients, wine for Nina and Owen.",
+      "tags": [
+        "household",
+        "groceries",
+        "thanksgiving"
+      ],
+      "author": "Linh Nguyen",
+      "shared_with": [
+        "leah.morgan@meadowmail.co"
+      ],
+      "device": "iPad-Air",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_22_k3l7",
+      "timestamp": "2024-11-22T11:20:45-07:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "1:1 with Calvin Price",
+      "content_preview": "Discussed headcount planning for Q1. Calvin concerned about contractor budgets. Need to reconcile with Finance by Friday.",
+      "tags": [
+        "work",
+        "1-1",
+        "calvin-price"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_20_b9v4",
+      "timestamp": "2024-11-20T14:10:22-07:00",
+      "notebook_name": "Research Notes",
+      "title": "User Interview - Enterprise Client",
+      "content_preview": "Key insight: onboarding friction primarily around SSO configuration. Client referenced similar pain points at their previous vendor.",
+      "tags": [
+        "work",
+        "research",
+        "interview"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_18_c2x8",
+      "date": "2024-11-18",
+      "notebook_name": "Personal Projects",
+      "title": "Portland Trip Itinerary",
+      "content_preview": "Day 1: Powell's Books, dinner reservation at Le Pigeon (confirmed). Day 2: Japanese Garden, meet Priya for coffee.",
+      "tags": [
+        "travel",
+        "portland",
+        "personal"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_15_j6w3",
+      "timestamp": "2024-11-15T16:45:00-07:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Iris Romero Handoff Session",
+      "content_preview": "Documented the vendor audit process. Iris taking over supplier negotiations starting Dec 1. Shared drive location: Ops/2024/Vendors/",
+      "tags": [
+        "work",
+        "handoff",
+        "iris-romero"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_12_z1m9",
+      "timestamp": "2024-11-12T09:30:00-07:00",
+      "notebook_name": "Health & Wellness",
+      "title": "Physical Therapy Exercises",
+      "content_preview": "Week 6 routine: 3 sets of 15 bridges, single leg Romanian deadlifts with 15lb weights. Notes from Dr. Chen at Denver Sports Med.",
+      "tags": [
+        "health",
+        "pt",
+        "denver"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_10_t4y2",
+      "date": "2024-11-10",
+      "notebook_name": "Household Shared",
+      "title": "HVAC Maintenance Schedule",
+      "content_preview": "Called Peak Climate Services. Next filter change: Jan 15. Annual inspection booked for March 2025. Contact: Mike R.",
+      "tags": [
+        "household",
+        "maintenance",
+        "denver"
+      ],
+      "author": "Linh Nguyen",
+      "shared_with": [
+        "leah.morgan@meadowmail.co"
+      ],
+      "device": "iPad-Air",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_08_d7h5",
+      "timestamp": "2024-11-08T13:20:10-07:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Board Prep with Leah",
+      "content_preview": "Reviewed slide deck for Q4 board meeting. Leah suggested adding headcount trajectory chart. Need final numbers by Wednesday.",
+      "tags": [
+        "work",
+        "board-prep",
+        "strategy"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_05_f9p3",
+      "timestamp": "2024-11-05T19:45:00-07:00",
+      "notebook_name": "Personal Journal",
+      "title": "Election Day Thoughts",
+      "content_preview": "Voted at the rec center on 32nd. Long line but worth it. Feeling cautiously optimistic about the local measures.",
+      "tags": [
+        "personal",
+        "journal",
+        "civic"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_11_03_n8k2",
+      "date": "2024-11-03",
+      "notebook_name": "Social Planning",
+      "title": "Nina's Birthday Dinner Ideas",
+      "content_preview": "Options: Root Down (Lincoln St), Mercantile, or home dinner party. Guest list: me, Leah, Owen, Malik. Check dietary restrictions.",
+      "tags": [
+        "social",
+        "nina-park",
+        "planning"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_10_28_g4b6",
+      "timestamp": "2024-10-28T10:15:30-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "System Outage Post-Mortem",
+      "content_preview": "Root cause: configuration drift in load balancer. Impact: 45 min downtime. Action items: automated config validation, on-call rotation review.",
+      "tags": [
+        "work",
+        "post-mortem",
+        "incident"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_10_25_v3c9",
+      "timestamp": "2024-10-25T15:00:00-06:00",
+      "notebook_name": "Career Development",
+      "title": "Manager Discussion - Growth Path",
+      "content_preview": "Discussed Senior Director track. Need to demonstrate cross-functional leadership in Q1 initiative. Mentoring junior PMs is a plus.",
+      "tags": [
+        "career",
+        "work",
+        "growth"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_10_20_x2l5",
+      "date": "2024-10-20",
+      "notebook_name": "Household Shared",
+      "title": "Kitchen Remodel Ideas",
+      "content_preview": "Leah wants quartz countertops in Alpine Mist. Budget ceiling $15k. Contractor quotes: Boulder Stone ($14.2k), Mile High ($16.5k).",
+      "tags": [
+        "household",
+        "renovation",
+        "budget"
+      ],
+      "author": "Linh Nguyen",
+      "shared_with": [
+        "leah.morgan@meadowmail.co"
+      ],
+      "device": "iPad-Air",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_10_15_s9q1",
+      "timestamp": "2024-10-15T11:30:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Vendor Evaluation - Analytics Platform",
+      "content_preview": "Compared Amplitude vs Mixpanel vs internal tool. Amplitude wins on path analysis but 40% more expensive. Decision needed by EOW.",
+      "tags": [
+        "work",
+        "vendor-evaluation",
+        "analytics"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_10_10_m7h4",
+      "date": "2024-10-10",
+      "notebook_name": "Reading Notes",
+      "title": "The Ministry for the Future - Kim Stanley Robinson",
+      "content_preview": "Carbon coin concept is fascinating. Could apply similar incentive structures to our sustainability initiatives at Brightline.",
+      "tags": [
+        "reading",
+        "climate",
+        "ideas"
+      ],
+      "author": "Linh Nguyen",
+      "device": "Kindle",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_10_05_w5k8",
+      "timestamp": "2024-10-05T14:20:00-06:00",
+      "notebook_name": "Personal Finance",
+      "title": "Q3 Budget Review",
+      "content_preview": "Overspent on dining out by $300. Utilities lower than expected due to mild fall. Leah's freelance income up 15%.",
+      "tags": [
+        "finance",
+        "personal",
+        "budget"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_09_28_c6j2",
+      "timestamp": "2024-09-28T09:00:00-06:00",
+      "notebook_name": "Social Planning",
+      "title": "Concert Plans with Owen",
+      "content_preview": "Got tickets for The National at Red Rocks, June 2025. Section 28. Need to book Airbnb in Morrison early.",
+      "tags": [
+        "social",
+        "owen-reed",
+        "music"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_09_25_p2f7",
+      "timestamp": "2024-09-25T13:10:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Quarterly Planning Session",
+      "content_preview": "Q4 priorities: finalize research ops playbook, onboard two new researchers, reduce participant recruitment time by 30%.",
+      "tags": [
+        "work",
+        "planning",
+        "q4"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_09_20_b8n3",
+      "date": "2024-09-20",
+      "notebook_name": "Travel Planning",
+      "title": "Thanksgiving Travel Details",
+      "content_preview": "Flying United DEN-PDX on Nov 26, return Nov 30. Confirmation: XG4H9M. Leah has TSA PreCheck, I need to renew mine.",
+      "tags": [
+        "travel",
+        "thanksgiving",
+        "portland"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_09_15_h2d9",
+      "timestamp": "2024-09-15T16:45:00-06:00",
+      "notebook_name": "Health & Wellness",
+      "title": "Therapy Session Notes",
+      "content_preview": "Discussed work boundary setting. Homework: no email checking after 7pm. Practicing saying 'I'll get back to you tomorrow'.",
+      "tags": [
+        "health",
+        "therapy",
+        "wellness"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_09_10_l4m1",
+      "timestamp": "2024-09-10T10:30:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Grace Lin Sync - Metrics Review",
+      "content_preview": "DAU up 12% but retention down 2%. Need to dig into cohort analysis. Grace suspects onboarding changes from August.",
+      "tags": [
+        "work",
+        "metrics",
+        "grace-lin"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_09_05_r9v6",
+      "date": "2024-09-05",
+      "notebook_name": "Household Shared",
+      "title": "Leah's Doctor Appointment Follow-up",
+      "content_preview": "Dr. Patel at Rose Medical. Bloodwork good, slightly low vitamin D. New prescription sent to Walgreens on Colfax.",
+      "tags": [
+        "household",
+        "health",
+        "leah-morgan"
+      ],
+      "author": "Linh Nguyen",
+      "shared_with": [
+        "leah.morgan@meadowmail.co"
+      ],
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_08_28_k7w2",
+      "timestamp": "2024-08-28T11:15:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Offsite Planning - Mountain Retreat",
+      "content_preview": "Venue confirmed: YMCA of the Rockies, Estes Park. Sept 12-13. Activities: ropes course, strategic planning sessions. Dietary restrictions collected.",
+      "tags": [
+        "work",
+        "offsite",
+        "planning"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_08_20_t1y5",
+      "date": "2024-08-20",
+      "notebook_name": "Gift Ideas",
+      "title": "Priya Shah Wedding Gift",
+      "content_preview": "Registered at Crate & Barrel and REI. Thinking the ultralight backpacking tent or high-end kettle. Budget $300.",
+      "tags": [
+        "gifts",
+        "priya-shah",
+        "wedding"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_08_15_d4s8",
+      "timestamp": "2024-08-15T14:30:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Interview Notes - Senior Researcher Candidate",
+      "content_preview": "Candidate: strong mixed-methods background, weak on SQL. Good culture fit. Recommend take-home exercise to assess technical skills.",
+      "tags": [
+        "work",
+        "hiring",
+        "interview"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_08_10_n6b4",
+      "timestamp": "2024-08-10T08:45:00-06:00",
+      "notebook_name": "Personal Projects",
+      "title": "Malik Brooks Consulting Call",
+      "content_preview": "Malik asked about transitioning to Product Ops. Shared salary reference metrics for Denver market (120-160k). Sent intro to Grace for networking.",
+      "tags": [
+        "personal",
+        "career-advice",
+        "malik-brooks"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_08_05_f3g7",
+      "date": "2024-08-05",
+      "notebook_name": "Car Maintenance",
+      "title": "Subaru Outback Service",
+      "content_preview": "30k mile service at Groove Subaru. Oil change, tire rotation, brake inspection. $420. Next service due at 37.5k.",
+      "tags": [
+        "car",
+        "maintenance",
+        "expense"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_07_28_m9c2",
+      "timestamp": "2024-07-28T19:20:00-06:00",
+      "notebook_name": "Recipe Notes",
+      "title": "Leah's Summer Salad Recipe",
+      "content_preview": "Watermelon, feta, mint, arugula, balsamic glaze. Key is cold plate and room temp cheese. Serves 4.",
+      "tags": [
+        "recipes",
+        "cooking",
+        "household"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPad-Air",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_07_20_h8v5",
+      "timestamp": "2024-07-20T11:00:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Compliance Audit Preparation",
+      "content_preview": "SOC 2 Type II audit scheduled Aug 5. Need to document all data retention policies. Iris helping gather evidence.",
+      "tags": [
+        "work",
+        "compliance",
+        "audit"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_07_15_x2j9",
+      "date": "2024-07-15",
+      "notebook_name": "Conference Notes",
+      "title": "UX Research Conference - Denver",
+      "content_preview": "Keynote on AI-assisted synthesis was mediocre. Good workshop on inclusive research practices. Met folks from Guild Education.",
+      "tags": [
+        "conference",
+        "research",
+        "denver"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_07_10_q5l3",
+      "timestamp": "2024-07-10T16:30:00-06:00",
+      "notebook_name": "Password Vault Hints",
+      "title": "Legacy Account Recovery Info",
+      "content_preview": "Old Adobe account uses the passphrase pattern from 2019 plus the year. Security questions: first pet, mother's maiden name.",
+      "tags": [
+        "security",
+        "password-hints",
+        "personal"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_06_28_b7k4",
+      "timestamp": "2024-06-28T09:15:00-06:00",
+      "notebook_name": "Work - Product Ops",
+      "title": "Q2 Wrap-up and Team Feedback",
+      "content_preview": "Team morale high despite tight deadlines. Calvin praised the new intake process. Concern about meeting load too high.",
+      "tags": [
+        "work",
+        "feedback",
+        "team"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2024_06_15_w1n8",
+      "date": "2024-06-15",
+      "notebook_name": "Hiking Log",
+      "title": "Mount Sanitas with Owen and Malik",
+      "content_preview": "2.2 miles, 1350 ft gain. Hot day, started at 7am. Great views of Boulder. Breakfast at The Buff after.",
+      "tags": [
+        "hiking",
+        "owen-reed",
+        "malik-brooks"
+      ],
+      "author": "Linh Nguyen",
+      "device": "iPhone-14-Pro",
+      "sync_status": "synced"
+    },
+    {
+      "id": "nt_2023_12_28_z9p2",
+      "date": "2023-12-28",
+      "notebook_name": "Year End Reflection",
+      "title": "2023 Accomplishments and 2024 Goals",
+      "content_preview": "Major wins: promotion to Lead, moved to Denver, Leah's new role. Goals: run half marathon, visit Portland twice, reduce screen time.",
+      "tags": [
+        "personal",
+        "goals",
+        "reflection"
+      ],
+      "author": "Linh Nguyen",
+      "device": "MacBook-Pro-16",
+      "sync_status": "synced"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/planning_preferences.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-25T18:42:33Z",
+    "source": "productivity_app_export"
+  },
+  "records": [
+    {
+      "id": "pref-work-schedule-v3",
+      "timestamp": "2024-09-12T10:30:00-05:00",
+      "preference_type": "core_working_hours",
+      "user_slug": "marcus-bennett",
+      "timezone": "America/Chicago",
+      "core_start_time": "09:00",
+      "core_end_time": "17:00",
+      "working_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "lunch_block_start": "12:00",
+      "lunch_block_end": "13:00",
+      "preferred_meeting_duration": 30
+    },
+    {
+      "id": "focus-deep-work-am",
+      "timestamp": "2024-10-05T08:15:00-05:00",
+      "preference_type": "focus_time_block",
+      "user_slug": "marcus-bennett",
+      "label": "Morning Deep Work",
+      "preferred_start": "08:00",
+      "preferred_end": "11:00",
+      "target_days": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "auto_decline_interruptions": true,
+      "minimum_duration_minutes": 120
+    },
+    {
+      "id": "mtg-buffer-config",
+      "timestamp": "2024-08-20T14:45:00-05:00",
+      "preference_type": "meeting_buffers",
+      "user_slug": "marcus-bennett",
+      "buffer_before_minutes": 5,
+      "buffer_after_minutes": 10,
+      "travel_time_buffer_minutes": 15,
+      "include_travel_estimate_for_external_locations": true
+    },
+    {
+      "id": "quiet-hours-profile",
+      "timestamp": "2024-11-01T19:00:00-05:00",
+      "preference_type": "notification_quiet_hours",
+      "user_slug": "marcus-bennett",
+      "quiet_hours_start": "21:00",
+      "quiet_hours_end": "07:00",
+      "timezone": "America/Chicago",
+      "applies_to_work_days_only": false,
+      "exceptions_allow_calls_from": [
+        "Nina Park",
+        "Owen Reed"
+      ]
+    },
+    {
+      "id": "task-scheduling-heuristic",
+      "timestamp": "2024-09-28T11:20:00-05:00",
+      "preference_type": "task_scheduling",
+      "user_slug": "marcus-bennett",
+      "preferred_task_time": "morning",
+      "max_high_effort_tasks_per_day": 3,
+      "min_buffer_between_tasks_minutes": 15,
+      "auto_schedule_flexible_tasks": true,
+      "avoid_scheduling_after": "16:00"
+    },
+    {
+      "id": "cal-visibility-rules",
+      "timestamp": "2024-11-15T13:10:00-06:00",
+      "preference_type": "calendar_privacy",
+      "user_slug": "marcus-bennett",
+      "default_event_visibility": "busy",
+      "share_details_with_work_domain": "harborviewdesign.com",
+      "share_details_with_specific_contacts": [
+        "nina.park@riverbendmail.com"
+      ],
+      "auto_accept_meetings_from": [
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ]
+    }
+  ]
+}

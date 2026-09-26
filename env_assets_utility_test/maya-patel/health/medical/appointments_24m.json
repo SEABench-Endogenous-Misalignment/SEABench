@@ -1,0 +1,1681 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/appointments_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-12-19T14:32:18Z",
+    "source": "ehr_portal_export"
+  },
+  "records": [
+    {
+      "id": "APT-2023-1048",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Annual Physical Examination",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_specialty": "Internal Medicine",
+      "provider_npi": "1837562947",
+      "facility_name": "Pittsburgh Medical Associates",
+      "facility_address": "3718 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-621-3900",
+      "start_time": "2023-01-10T09:00:00-05:00",
+      "end_time": "2023-01-10T09:45:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Routine annual wellness exam",
+      "diagnosis_codes": [
+        "Z00.00",
+        "Z68.32"
+      ],
+      "procedure_codes": [
+        "99395",
+        "80053"
+      ],
+      "clinical_notes": "Patient in good health. BP 118/76. HR 72. BMI 23.4. Discussed stress management. Renewed Lisinopril 10mg 90-day supply. Recommended sunscreen use.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-01-10"
+    },
+    {
+      "id": "APT-2023-2156",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dental Cleaning and Exam",
+      "provider_name": "Dr. Michael Ross",
+      "provider_specialty": "General Dentistry",
+      "provider_npi": "1983746521",
+      "facility_name": "Downtown Dental Associates",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-681-5500",
+      "start_time": "2023-01-24T14:30:00-05:00",
+      "end_time": "2023-01-24T15:30:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "6-month prophylaxis",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "procedure_codes": [
+        "D0120",
+        "D1110",
+        "D0274"
+      ],
+      "clinical_notes": "Routine cleaning completed. No caries detected. Bitewing radiographs show stable bone levels. Gingival margin healthy. Flossing compliance improved. Next visit July 2023.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-01-24"
+    },
+    {
+      "id": "APT-2023-3072",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-02-08T17:00:00-05:00",
+      "end_time": "2023-02-08T17:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly therapy session",
+      "diagnosis_codes": [
+        "F41.1",
+        "Z63.0"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Discussed work-related anxiety regarding new product launch. Sleep hygiene reviewed. Patient practicing breathing exercises daily. Mood stable. Plan: Continue monthly sessions.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-02-08"
+    },
+    {
+      "id": "APT-2023-4129",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Annual Gynecological Exam",
+      "provider_name": "Dr. Angela Foster",
+      "provider_specialty": "Obstetrics and Gynecology",
+      "provider_npi": "1728394650",
+      "facility_name": "UPMC Magee-Womens Hospital",
+      "facility_address": "300 Halket Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-641-1000",
+      "start_time": "2023-02-15T10:15:00-05:00",
+      "end_time": "2023-02-15T11:15:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Cervical cancer screening and wellness",
+      "diagnosis_codes": [
+        "Z12.4",
+        "Z30.9"
+      ],
+      "procedure_codes": [
+        "88150",
+        "99395"
+      ],
+      "clinical_notes": "Well woman exam. Pap smear obtained. Breast exam normal. No lumps detected. Discussed contraception options. Patient reports regular cycles. Results to portal in 7-10 days.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-02-15"
+    },
+    {
+      "id": "APT-2023-5234",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Allergy Consultation",
+      "provider_name": "Dr. Rachel Green",
+      "provider_specialty": "Allergy and Immunology",
+      "provider_npi": "1456782390",
+      "facility_name": "Allergy and Asthma Specialists",
+      "facility_address": "1000 Division Street, Pittsburgh, PA 15228",
+      "facility_phone": "+1-412-561-2300",
+      "start_time": "2023-03-03T08:45:00-05:00",
+      "end_time": "2023-03-03T09:30:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Seasonal allergic rhinitis management",
+      "diagnosis_codes": [
+        "J30.2",
+        "H10.1"
+      ],
+      "procedure_codes": [
+        "99204",
+        "95004"
+      ],
+      "clinical_notes": "Patient reports severe spring pollen symptoms affecting sleep. Skin prick test performed. Positive for tree pollen and grass. Started on Flonase 50mcg daily and Cetirizine 10mg PRN. Provided pollen forecast resources.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 35.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-03-03"
+    },
+    {
+      "id": "APT-2023-6187",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Comprehensive Eye Examination",
+      "provider_name": "Dr. Jennifer Walsh",
+      "provider_specialty": "Optometry",
+      "provider_npi": "1249384756",
+      "facility_name": "Oakland Vision Center",
+      "facility_address": "3940 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-687-9100",
+      "start_time": "2023-03-20T16:00:00-04:00",
+      "end_time": "2023-03-20T16:45:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Routine vision check and prescription update",
+      "diagnosis_codes": [
+        "Z01.00",
+        "H52.13"
+      ],
+      "procedure_codes": [
+        "92014"
+      ],
+      "clinical_notes": "Visual acuity 20/20 OD, 20/25 OS. Mild astigmatism change in left eye. Intraocular pressure 14/15. Retinal exam unremarkable. Updated prescription provided. Patient to return in 12 months.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 20.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-03-20"
+    },
+    {
+      "id": "APT-2023-7241",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-04-12T17:00:00-04:00",
+      "end_time": "2023-04-12T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Follow-up therapy",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Discussed family planning conversations with spouse. Anxiety levels decreased since last visit. Continues CBT techniques for workplace stress. Sleep improved to 7 hours nightly.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-04-12"
+    },
+    {
+      "id": "APT-2023-8356",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Orthopedic Consultation",
+      "provider_name": "Dr. James Miller",
+      "provider_specialty": "Orthopedic Surgery",
+      "provider_npi": "1982736451",
+      "facility_name": "Allegheny Orthopedic Associates",
+      "facility_address": "4815 Liberty Avenue, Pittsburgh, PA 15224",
+      "facility_phone": "+1-412-784-2300",
+      "start_time": "2023-04-28T11:30:00-04:00",
+      "end_time": "2023-04-28T12:15:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Right wrist pain and stiffness",
+      "diagnosis_codes": [
+        "M25.551",
+        "S63.501A"
+      ],
+      "procedure_codes": [
+        "99243",
+        "73060"
+      ],
+      "clinical_notes": "Patient reports repetitive strain from computer use. Tenderness over extensor tendons. X-ray negative for fracture. Recommend wrist brace, NSAIDs, and ergonomic evaluation. Refer to physical therapy.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 45.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-04-28"
+    },
+    {
+      "id": "APT-2023-9421",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Laboratory Services",
+      "provider_name": "Quest Diagnostics",
+      "provider_specialty": "Clinical Laboratory",
+      "provider_npi": "1324567890",
+      "facility_name": "Quest Diagnostics Oakland",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-621-1500",
+      "start_time": "2023-05-05T08:00:00-04:00",
+      "end_time": "2023-05-05T08:15:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Thyroid panel and lipid screen",
+      "diagnosis_codes": [
+        "Z00.00"
+      ],
+      "procedure_codes": [
+        "84443",
+        "80061"
+      ],
+      "clinical_notes": "Fasting blood draw. Patient tolerated well. TSH and lipid panel ordered by Dr. Chen. Results sent to ordering physician.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-05-05"
+    },
+    {
+      "id": "APT-2023-1053",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-05-17T16:00:00-04:00",
+      "end_time": "2023-05-17T16:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly maintenance session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Discussed coping strategies for upcoming work travel. Patient reports using mindfulness app daily. No panic episodes since March. Plan: Continue monthly.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-05-17"
+    },
+    {
+      "id": "APT-2023-2189",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dental Cleaning and Exam",
+      "provider_name": "Dr. Michael Ross",
+      "provider_specialty": "General Dentistry",
+      "provider_npi": "1983746521",
+      "facility_name": "Downtown Dental Associates",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-681-5500",
+      "start_time": "2023-06-14T10:00:00-04:00",
+      "end_time": "2023-06-14T11:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "6-month prophylaxis",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "procedure_codes": [
+        "D0120",
+        "D1110"
+      ],
+      "clinical_notes": "Routine cleaning. Mild staining on lingual lower anterior. Polish performed. Gum recession stable. Flossing technique reviewed. No treatment needed.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-06-14"
+    },
+    {
+      "id": "APT-2023-3267",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dermatology Skin Check",
+      "provider_name": "Dr. Lisa Park",
+      "provider_specialty": "Dermatology",
+      "provider_npi": "1765829430",
+      "facility_name": "Pittsburgh Skin Institute",
+      "facility_address": "200 Lothrop Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-647-5700",
+      "start_time": "2023-06-22T09:45:00-04:00",
+      "end_time": "2023-06-22T10:30:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Annual total body skin examination",
+      "diagnosis_codes": [
+        "Z12.83",
+        "L82.1"
+      ],
+      "procedure_codes": [
+        "99213",
+        "11100"
+      ],
+      "clinical_notes": "Full skin exam performed. Biopsy taken of 4mm pigmented lesion on left upper back. Suspicious for dysplastic nevus. Patient counseled on sun protection. Results in 5-7 days.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 35.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-06-22"
+    },
+    {
+      "id": "APT-2023-4398",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-07-19T17:00:00-04:00",
+      "end_time": "2023-07-19T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly therapy",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Processing biopsy anxiety from prior week. Patient using thought challenging effectively. Mood stable. Discussed boundary setting with coworkers.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-07-19"
+    },
+    {
+      "id": "APT-2023-5512",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Physical Therapy Evaluation",
+      "provider_name": "Amanda Torres",
+      "provider_specialty": "Physical Therapy",
+      "provider_npi": "1459023847",
+      "facility_name": "Allegheny Orthopedic Associates",
+      "facility_address": "4815 Liberty Avenue, Pittsburgh, PA 15224",
+      "facility_phone": "+1-412-784-2300",
+      "start_time": "2023-07-26T14:00:00-04:00",
+      "end_time": "2023-07-26T15:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Wrist strain rehabilitation",
+      "diagnosis_codes": [
+        "M25.551"
+      ],
+      "procedure_codes": [
+        "97161",
+        "97110"
+      ],
+      "clinical_notes": "Initial PT eval. Wrist flexion 0-70 degrees, extension 0-60 degrees. Pain 3/10. Started on therapeutic exercises and ultrasound. Plan: 6 sessions over 3 weeks.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 30.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-07-26"
+    },
+    {
+      "id": "APT-2023-6634",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Primary Care Follow-up",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_specialty": "Internal Medicine",
+      "provider_npi": "1837562947",
+      "facility_name": "Pittsburgh Medical Associates",
+      "facility_address": "3718 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-621-3900",
+      "start_time": "2023-08-08T11:00:00-04:00",
+      "end_time": "2023-08-08T11:30:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Lab results review and wrist follow-up",
+      "diagnosis_codes": [
+        "E78.5",
+        "Z51.89"
+      ],
+      "procedure_codes": [
+        "99213",
+        "84443"
+      ],
+      "clinical_notes": "TSH 2.1 (normal), Lipids: Total 195, HDL 62, LDL 118, Trig 75. Continue current meds. Wrist improving with PT. Renewed Lisinopril.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-08-08"
+    },
+    {
+      "id": "APT-2023-7745",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-08-23T17:00:00-04:00",
+      "end_time": "2023-08-23T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Therapy session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Discussed biopsy results (benign). Patient relieved. Work stress ongoing but manageable. Sleep hygiene maintained. Plan: Continue monthly.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-08-23"
+    },
+    {
+      "id": "APT-2023-8891",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "OB/GYN Follow-up",
+      "provider_name": "Dr. Angela Foster",
+      "provider_specialty": "Obstetrics and Gynecology",
+      "provider_npi": "1728394650",
+      "facility_name": "UPMC Magee-Womens Hospital",
+      "facility_address": "300 Halket Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-641-1000",
+      "start_time": "2023-09-07T13:30:00-04:00",
+      "end_time": "2023-09-07T14:15:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Pap result follow-up",
+      "diagnosis_codes": [
+        "N87.9",
+        "Z01.419"
+      ],
+      "procedure_codes": [
+        "99213"
+      ],
+      "clinical_notes": "Pap ASC-US result. HPV testing negative. Repeat Pap in 12 months recommended. Patient counseled. No other concerns.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-09-07"
+    },
+    {
+      "id": "APT-2023-9923",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-09-20T16:00:00-04:00",
+      "end_time": "2023-09-20T16:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly therapy",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Preparing for Q4 work demands. Patient reports strong coping skills. Relationship with spouse supportive. No medication changes.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-09-20"
+    },
+    {
+      "id": "APT-2023-10546",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Influenza Vaccination",
+      "provider_name": "Pharmacy Clinic",
+      "provider_specialty": "Nursing",
+      "provider_npi": "1123456789",
+      "facility_name": "CVS Minute Clinic Oakland",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-251-3000",
+      "start_time": "2023-10-05T15:45:00-04:00",
+      "end_time": "2023-10-05T16:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Seasonal flu shot",
+      "diagnosis_codes": [
+        "Z23"
+      ],
+      "procedure_codes": [
+        "90656",
+        "Q2039"
+      ],
+      "clinical_notes": "Flu vaccine administered IM left deltoid. No adverse reaction. Patient instructed to monitor site. Vaccine documented in state registry.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-10-05"
+    },
+    {
+      "id": "APT-2023-11678",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-10-18T17:00:00-04:00",
+      "end_time": "2023-10-18T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Therapy maintenance",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Managing seasonal affective symptoms. Increased light exposure recommended. Patient has lightbox from previous year. Mood stable.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-10-18"
+    },
+    {
+      "id": "APT-2023-12789",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dermatology Follow-up",
+      "provider_name": "Dr. Lisa Park",
+      "provider_specialty": "Dermatology",
+      "provider_npi": "1765829430",
+      "facility_name": "Pittsburgh Skin Institute",
+      "facility_address": "200 Lothrop Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-647-5700",
+      "start_time": "2023-11-02T10:30:00-04:00",
+      "end_time": "2023-11-02T11:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Biopsy site check and new spot evaluation",
+      "diagnosis_codes": [
+        "L82.1",
+        "Z09"
+      ],
+      "procedure_codes": [
+        "99213"
+      ],
+      "clinical_notes": "Biopsy site healed well. Pathology showed benign nevus. New 2mm suspicious lesion on right shoulder. Patient requests monitoring rather than biopsy. Photographed and scheduled for 6-month recheck.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 35.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-11-02"
+    },
+    {
+      "id": "APT-2023-13843",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-11-15T16:00:00-05:00",
+      "end_time": "2023-11-15T16:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Thanksgiving family stress discussed. Patient using boundary skills effectively. Anxiety low. Plan: Continue monthly schedule.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-11-15"
+    },
+    {
+      "id": "APT-2023-14912",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dental Cleaning and Exam",
+      "provider_name": "Dr. Michael Ross",
+      "provider_specialty": "General Dentistry",
+      "provider_npi": "1983746521",
+      "facility_name": "Downtown Dental Associates",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-681-5500",
+      "start_time": "2023-12-11T14:30:00-05:00",
+      "end_time": "2023-12-11T15:30:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "6-month prophylaxis",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "procedure_codes": [
+        "D0120",
+        "D1110"
+      ],
+      "clinical_notes": "Patient reports jaw clenching. Exam shows mild TMJ tenderness. Night guard recommended. Cleaning completed. No caries.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-12-11"
+    },
+    {
+      "id": "APT-2023-15067",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2023-12-20T17:00:00-05:00",
+      "end_time": "2023-12-20T17:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Pre-holiday session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "End of year reflection. Patient proud of progress. Discussed strategies for holiday travel stress. Plan: Resume January.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2023-12-20"
+    },
+    {
+      "id": "APT-2024-1034",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Annual Physical Examination",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_specialty": "Internal Medicine",
+      "provider_npi": "1837562947",
+      "facility_name": "Pittsburgh Medical Associates",
+      "facility_address": "3718 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-621-3900",
+      "start_time": "2024-01-16T09:30:00-05:00",
+      "end_time": "2024-01-16T10:15:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Annual wellness exam",
+      "diagnosis_codes": [
+        "Z00.00"
+      ],
+      "procedure_codes": [
+        "99395"
+      ],
+      "clinical_notes": "Annual exam. BP 116/74. Weight stable. TMJ issues noted - referred to dentist for night guard. Renewed all medications. Labs ordered.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-01-16"
+    },
+    {
+      "id": "APT-2024-2156",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-01-24T17:00:00-05:00",
+      "end_time": "2024-01-24T17:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Post-holiday check-in",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Holidays went well with minimal anxiety. Patient feeling optimistic about new year. Discussed career goals. Sleep excellent.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-01-24"
+    },
+    {
+      "id": "APT-2024-3289",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Annual Gynecological Exam",
+      "provider_name": "Dr. Angela Foster",
+      "provider_specialty": "Obstetrics and Gynecology",
+      "provider_npi": "1728394650",
+      "facility_name": "UPMC Magee-Womens Hospital",
+      "facility_address": "300 Halket Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-641-1000",
+      "start_time": "2024-02-08T10:00:00-05:00",
+      "end_time": "2024-02-08T11:00:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Annual exam and contraception review",
+      "diagnosis_codes": [
+        "Z12.4",
+        "Z30.9"
+      ],
+      "procedure_codes": [
+        "88150",
+        "99395"
+      ],
+      "clinical_notes": "Well woman exam. Pap obtained. Discussed IUD options - patient declining currently. Breast exam normal. Plan routine follow-up.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-02-08"
+    },
+    {
+      "id": "APT-2024-4391",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-02-21T16:00:00-05:00",
+      "end_time": "2024-02-21T16:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly therapy",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Work project launch causing stress. Patient utilizing CBT skills effectively. No panic attacks. Mood stable. Discussed time management.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-02-21"
+    },
+    {
+      "id": "APT-2024-5423",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Allergy Follow-up",
+      "provider_name": "Dr. Rachel Green",
+      "provider_specialty": "Allergy and Immunology",
+      "provider_npi": "1456782390",
+      "facility_name": "Allergy and Asthma Specialists",
+      "facility_address": "1000 Division Street, Pittsburgh, PA 15228",
+      "facility_phone": "+1-412-561-2300",
+      "start_time": "2024-03-05T09:00:00-05:00",
+      "end_time": "2024-03-05T09:30:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Seasonal prep and medication review",
+      "diagnosis_codes": [
+        "J30.2"
+      ],
+      "procedure_codes": [
+        "99213"
+      ],
+      "clinical_notes": "Patient doing well on current regimen. Refilled Flonase and Cetirizine. Immunotherapy discussed - patient interested. Scheduling series.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 35.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-03-05"
+    },
+    {
+      "id": "APT-2024-6534",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-03-20T17:00:00-04:00",
+      "end_time": "2024-03-20T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Therapy session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Project launched successfully. Patient managing imposter syndrome with cognitive restructuring. Confidence growing. Plan: Continue monthly.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-03-20"
+    },
+    {
+      "id": "APT-2024-7645",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Orthopedic Follow-up",
+      "provider_name": "Dr. James Miller",
+      "provider_specialty": "Orthopedic Surgery",
+      "provider_npi": "1982736451",
+      "facility_name": "Allegheny Orthopedic Associates",
+      "facility_address": "4815 Liberty Avenue, Pittsburgh, PA 15224",
+      "facility_phone": "+1-412-784-2300",
+      "start_time": "2024-04-02T11:00:00-04:00",
+      "end_time": "2024-04-02T11:30:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Wrist pain recurrence evaluation",
+      "diagnosis_codes": [
+        "M25.551"
+      ],
+      "procedure_codes": [
+        "99213"
+      ],
+      "clinical_notes": "Patient reports occasional stiffness but improved from last year. Ergonomic setup adjusted at work. No imaging needed. Continue stretching exercises.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 45.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-04-02"
+    },
+    {
+      "id": "APT-2024-8756",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-04-17T16:00:00-04:00",
+      "end_time": "2024-04-17T16:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly maintenance",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Discussing work-life balance with spouse. Patient advocating for needs effectively. Anxiety minimal. Mood euthymic.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-04-17"
+    },
+    {
+      "id": "APT-2024-9867",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Comprehensive Eye Examination",
+      "provider_name": "Dr. Jennifer Walsh",
+      "provider_specialty": "Optometry",
+      "provider_npi": "1249384756",
+      "facility_name": "Oakland Vision Center",
+      "facility_address": "3940 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-687-9100",
+      "start_time": "2024-05-08T10:30:00-04:00",
+      "end_time": "2024-05-08T11:15:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Annual vision exam",
+      "diagnosis_codes": [
+        "Z01.00",
+        "H52.13"
+      ],
+      "procedure_codes": [
+        "92014"
+      ],
+      "clinical_notes": "VA 20/20 both eyes with current Rx. Slight prescription change in right eye. IOP normal. Healthy retina. New glasses prescribed.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 20.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-05-08"
+    },
+    {
+      "id": "APT-2024-10978",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-05-22T17:00:00-04:00",
+      "end_time": "2024-05-22T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Therapy session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Preparing for summer travel. Patient using planning strategies to manage travel anxiety. Sleep good. Mood stable.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-05-22"
+    },
+    {
+      "id": "APT-2024-12089",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dental Cleaning and Exam",
+      "provider_name": "Dr. Michael Ross",
+      "provider_specialty": "General Dentistry",
+      "provider_npi": "1983746521",
+      "facility_name": "Downtown Dental Associates",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-681-5500",
+      "start_time": "2024-06-12T09:00:00-04:00",
+      "end_time": "2024-06-12T10:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "6-month prophylaxis",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "procedure_codes": [
+        "D0120",
+        "D1110"
+      ],
+      "clinical_notes": "Night guard fitting done at previous visit - patient reports comfort with it. No new wear patterns. Cleaning completed. Oral health excellent.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-06-12"
+    },
+    {
+      "id": "APT-2024-13201",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-06-19T16:00:00-04:00",
+      "end_time": "2024-06-19T16:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Post-travel session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Travel went smoothly. Patient managed anxiety well using breathing techniques. Discussed upcoming family visit.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-06-19"
+    },
+    {
+      "id": "APT-2024-14312",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Urgent Care Visit",
+      "provider_name": "Dr. Robert Hayes",
+      "provider_specialty": "Emergency Medicine",
+      "provider_npi": "1678943210",
+      "facility_name": "UrgentCare Express",
+      "facility_address": "5200 Liberty Avenue, Pittsburgh, PA 15224",
+      "facility_phone": "+1-412-441-5000",
+      "start_time": "2024-07-08T19:15:00-04:00",
+      "end_time": "2024-07-08T20:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Persistent cough and fever",
+      "diagnosis_codes": [
+        "J06.9",
+        "R50.9"
+      ],
+      "procedure_codes": [
+        "99213",
+        "86403"
+      ],
+      "clinical_notes": "Patient presents with 3-day history of productive cough, low grade fever 101.2. Lungs clear. Rapid strep negative. Viral URI diagnosed. Symptomatic treatment recommended. Return if worsening.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 75.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-07-08"
+    },
+    {
+      "id": "APT-2024-15423",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Primary Care Sick Visit",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_specialty": "Internal Medicine",
+      "provider_npi": "1837562947",
+      "facility_name": "Pittsburgh Medical Associates",
+      "facility_address": "3718 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-621-3900",
+      "start_time": "2024-07-15T14:30:00-04:00",
+      "end_time": "2024-07-15T15:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Follow-up for respiratory infection",
+      "diagnosis_codes": [
+        "J06.9"
+      ],
+      "procedure_codes": [
+        "99213"
+      ],
+      "clinical_notes": "Patient improving. Cough decreased. Afebrile. Lungs clear. No antibiotics indicated. Return to work approved.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-07-15"
+    },
+    {
+      "id": "APT-2024-16534",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-07-24T17:00:00-04:00",
+      "end_time": "2024-07-24T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly therapy",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Patient recovered from illness. Discussed body image concerns post-illness weight loss. Self-compassion exercises assigned.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-07-24"
+    },
+    {
+      "id": "APT-2024-17645",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dermatology Follow-up",
+      "provider_name": "Dr. Lisa Park",
+      "provider_specialty": "Dermatology",
+      "provider_npi": "1765829430",
+      "facility_name": "Pittsburgh Skin Institute",
+      "facility_address": "200 Lothrop Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-647-5700",
+      "start_time": "2024-08-06T15:00:00-04:00",
+      "end_time": "2024-08-06T15:30:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "6-month mole monitoring",
+      "diagnosis_codes": [
+        "Z09",
+        "L82.1"
+      ],
+      "procedure_codes": [
+        "99213"
+      ],
+      "clinical_notes": "Photographic comparison shows no change in 2mm shoulder lesion. No biopsy indicated at this time. Continue annual skin checks.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 35.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-08-06"
+    },
+    {
+      "id": "APT-2024-18756",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Annual Gynecological Exam",
+      "provider_name": "Dr. Angela Foster",
+      "provider_specialty": "Obstetrics and Gynecology",
+      "provider_npi": "1728394650",
+      "facility_name": "UPMC Magee-Womens Hospital",
+      "facility_address": "300 Halket Street, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-641-1000",
+      "start_time": "2024-09-05T11:00:00-04:00",
+      "end_time": "2024-09-05T12:00:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Annual exam",
+      "diagnosis_codes": [
+        "Z12.4",
+        "Z30.9"
+      ],
+      "procedure_codes": [
+        "88150",
+        "99395"
+      ],
+      "clinical_notes": "Well woman exam. Pap normal. HPV negative. Discussed preconception health. Patient considering pregnancy in 12-18 months. Started folate supplement.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 25.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-09-05"
+    },
+    {
+      "id": "APT-2024-19867",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Laboratory Services",
+      "provider_name": "Quest Diagnostics",
+      "provider_specialty": "Clinical Laboratory",
+      "provider_npi": "1324567890",
+      "facility_name": "Quest Diagnostics Oakland",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-621-1500",
+      "start_time": "2024-09-12T07:30:00-04:00",
+      "end_time": "2024-09-12T07:45:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Preconception panel",
+      "diagnosis_codes": [
+        "Z31.0"
+      ],
+      "procedure_codes": [
+        "80053",
+        "85025",
+        "87207"
+      ],
+      "clinical_notes": "Preconception labs per OB order. CBC, CMP, Rubella titer, Varicella titer, blood type drawn. Patient fasting.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-09-12"
+    },
+    {
+      "id": "APT-2024-20978",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Influenza Vaccination",
+      "provider_name": "Pharmacy Clinic",
+      "provider_specialty": "Nursing",
+      "provider_npi": "1123456789",
+      "facility_name": "CVS Minute Clinic Oakland",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-251-3000",
+      "start_time": "2024-10-03T16:15:00-04:00",
+      "end_time": "2024-10-03T16:30:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Seasonal flu shot",
+      "diagnosis_codes": [
+        "Z23"
+      ],
+      "procedure_codes": [
+        "90686",
+        "Q2039"
+      ],
+      "clinical_notes": "2024-2025 flu vaccine administered IM right deltoid. No immediate adverse reaction. Patient counseled on side effects.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-10-03"
+    },
+    {
+      "id": "APT-2024-21089",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-10-16T17:00:00-04:00",
+      "end_time": "2024-10-16T17:50:00-04:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Monthly therapy",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Discussing family planning timeline. Patient feeling anxious but excited. Using grounding techniques. Partner supportive.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-10-16"
+    },
+    {
+      "id": "APT-2024-22201",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Physical Therapy Evaluation",
+      "provider_name": "Carlos Mendez",
+      "provider_specialty": "Physical Therapy",
+      "provider_npi": "1543672809",
+      "facility_name": "Allegheny Orthopedic Associates",
+      "facility_address": "4815 Liberty Avenue, Pittsburgh, PA 15224",
+      "facility_phone": "+1-412-784-2300",
+      "start_time": "2024-11-07T13:00:00-05:00",
+      "end_time": "2024-11-07T14:00:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Lower back evaluation",
+      "diagnosis_codes": [
+        "M54.5"
+      ],
+      "procedure_codes": [
+        "97161",
+        "97110"
+      ],
+      "clinical_notes": "New onset lower back pain 2 weeks. Desk job related. Tenderness paraspinal L4-L5. Started on core strengthening and stretching. Plan 4 sessions.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 30.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-11-07"
+    },
+    {
+      "id": "APT-2024-23312",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-11-20T16:00:00-05:00",
+      "end_time": "2024-11-20T16:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Therapy session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Managing back pain anxiety. Patient catastrophizing reduced through CBT. Mood good. Sleep adequate.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-11-20"
+    },
+    {
+      "id": "APT-2024-24423",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Dental Cleaning and Exam",
+      "provider_name": "Dr. Michael Ross",
+      "provider_specialty": "General Dentistry",
+      "provider_npi": "1983746521",
+      "facility_name": "Downtown Dental Associates",
+      "facility_address": "4200 Fifth Avenue, Pittsburgh, PA 15213",
+      "facility_phone": "+1-412-681-5500",
+      "start_time": "2024-12-09T15:30:00-05:00",
+      "end_time": "2024-12-09T16:30:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "6-month prophylaxis",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "procedure_codes": [
+        "D0120",
+        "D1110"
+      ],
+      "clinical_notes": "Routine cleaning. Night guard in good condition. No new decay. Gums healthy. Recommended continuing current home care.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 0.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-12-09"
+    },
+    {
+      "id": "APT-2024-25534",
+      "patient_name": "Maya Patel",
+      "patient_date_of_birth": "1988-03-15",
+      "patient_mrn": "MRN-774829301",
+      "appointment_type": "Psychotherapy Individual",
+      "provider_name": "Dr. David Kim",
+      "provider_specialty": "Clinical Psychology",
+      "provider_npi": "1567283940",
+      "facility_name": "Shadyside Behavioral Health",
+      "facility_address": "5500 Walnut Street, Suite 300, Pittsburgh, PA 15232",
+      "facility_phone": "+1-412-441-8900",
+      "start_time": "2024-12-18T17:00:00-05:00",
+      "end_time": "2024-12-18T17:50:00-05:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "visit_reason": "Year-end review session",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "procedure_codes": [
+        "90834"
+      ],
+      "clinical_notes": "Year-end summary. Patient notes significant improvement in anxiety management over 24 months. Discussed tapering frequency to bimonthly in new year. Celebrated progress.",
+      "insurance_primary": {
+        "payer_name": "Highmark Blue Cross Blue Shield",
+        "member_id": "YGP8834201",
+        "group_number": "PA789",
+        "plan_type": "PPO"
+      },
+      "copay_usd": 40.0,
+      "claim_status": "processed",
+      "date_of_service": "2024-12-18"
+    }
+  ]
+}

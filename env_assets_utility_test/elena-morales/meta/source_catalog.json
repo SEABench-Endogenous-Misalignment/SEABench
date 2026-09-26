@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/source_catalog.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-05-12T18:45:32Z",
+    "source": "personal_data_aggregator"
+  },
+  "records": [
+    {
+      "id": "export-cal-brightline-2024q2",
+      "source_type": "calendar_export",
+      "source_account": "elena.morales@northstarmail.com",
+      "timestamp": "2024-05-12T14:20:00Z",
+      "export_size_mb": 4.2,
+      "event_count": 342
+    },
+    {
+      "id": "archive-mail-cedarpost-may24",
+      "source_type": "email_archive",
+      "source_account": "elena.morales@northstarmail.com",
+      "date": "2024-05-12",
+      "message_count": 1240,
+      "storage_path": "/backups/mail/may-2024.tar.gz"
+    },
+    {
+      "id": "portfolio-vanguard-apr24",
+      "source_type": "financial_statement",
+      "institution": "Vanguard",
+      "account_holder": "Elena Morales",
+      "period_end": "2024-04-30",
+      "account_last4": "8392"
+    },
+    {
+      "id": "browser-data-chrome-may12",
+      "source_type": "browser_export",
+      "profile_name": "Elena Morales",
+      "timestamp": "2024-05-12T18:00:00Z",
+      "record_count": 15820
+    },
+    {
+      "id": "media-backup-icloud-may",
+      "source_type": "photo_library",
+      "device_source": "iPhone 13 Pro",
+      "date": "2024-05-11",
+      "photo_count": 4521
+    },
+    {
+      "id": "health-data-garmin-may",
+      "source_type": "fitness_tracker",
+      "device_model": "Garmin Forerunner 945",
+      "period_start": "2024-05-01",
+      "period_end": "2024-05-11",
+      "total_steps": 84320
+    }
+  ]
+}

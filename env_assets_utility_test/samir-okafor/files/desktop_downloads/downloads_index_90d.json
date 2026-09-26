@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/downloads_index_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-02T06:30:00Z",
+    "source": "desktop_sync_indexer"
+  },
+  "records": [
+    {
+      "id": "dl-2024-08-15-a7k3m9",
+      "timestamp": "2024-08-15T14:32:00Z",
+      "filename": "Q3_Customer_Retention_Analysis_Final.pdf",
+      "file_size_bytes": 2450000,
+      "content_type": "application/pdf",
+      "source_url": "https://rivertonhealthlabs.sharepoint.com/documents/Q3_Customer_Retention_Analysis_Final.pdf",
+      "local_path": "/Users/samir.okafor/Downloads/Q3_Customer_Retention_Analysis_Final.pdf"
+    },
+    {
+      "id": "dl-2024-08-18-b2n8p4",
+      "timestamp": "2024-08-18T09:15:00Z",
+      "filename": "Denver_Water_Utility_August_2024.pdf",
+      "file_size_bytes": 180000,
+      "content_type": "application/pdf",
+      "source_url": "https://denverwater.org/billing/statements/august-2024",
+      "local_path": "/Users/samir.okafor/Downloads/Denver_Water_Utility_August_2024.pdf"
+    },
+    {
+      "id": "dl-2024-08-22-c5x1q7",
+      "timestamp": "2024-08-22T16:45:00Z",
+      "filename": "Personal_Budget_Q3_2024.xlsx",
+      "file_size_bytes": 45000,
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "source_url": "https://onedrive.live.com/download?cid=personal-budget",
+      "local_path": "/Users/samir.okafor/Downloads/Personal_Budget_Q3_2024.xlsx"
+    },
+    {
+      "id": "dl-2024-08-25-d9v3m2",
+      "timestamp": "2024-08-25T11:20:00Z",
+      "filename": "1Password-8.10.36-arm64.dmg",
+      "file_size_bytes": 89000000,
+      "content_type": "application/x-apple-diskimage",
+      "source_url": "https://1password.com/downloads/mac/",
+      "local_path": "/Users/samir.okafor/Downloads/1Password-8.10.36-arm64.dmg"
+    },
+    {
+      "id": "dl-2024-08-28-e4k8n1",
+      "timestamp": "2024-08-28T13:10:00Z",
+      "filename": "Aspen_Weekend_Trip_Confirmation.pdf",
+      "file_size_bytes": 320000,
+      "content_type": "application/pdf",
+      "source_url": "https://airbnb.com/trip/confirmation/aspsept24",
+      "local_path": "/Users/samir.okafor/Downloads/Aspen_Weekend_Trip_Confirmation.pdf"
+    },
+    {
+      "id": "dl-2024-09-03-f2m9p6",
+      "timestamp": "2024-09-03T10:05:00Z",
+      "filename": "Platform_Design_Review_Template.pptx",
+      "file_size_bytes": 1200000,
+      "content_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "source_url": "https://rivertonhealthlabs.sharepoint.com/templates/Platform_Design_Review_Template.pptx",
+      "local_path": "/Users/samir.okafor/Downloads/Platform_Design_Review_Template.pptx"
+    },
+    {
+      "id": "dl-2024-09-07-g7b3k8",
+      "timestamp": "2024-09-07T15:30:00Z",
+      "filename": "Anthem_Health_EOB_September_2024.pdf",
+      "file_size_bytes": 410000,
+      "content_type": "application/pdf",
+      "source_url": "https://anthem.com/claims/eob/september-2024",
+      "local_path": "/Users/samir.okafor/Downloads/Anthem_Health_EOB_September_2024.pdf"
+    },
+    {
+      "id": "dl-2024-09-10-h1v5n3",
+      "timestamp": "2024-09-10T09:45:00Z",
+      "filename": "2023_Tax_Return_Amended_Copy.pdf",
+      "file_size_bytes": 2800000,
+      "content_type": "application/pdf",
+      "source_url": "https://turbotax.intuit.com/tax-returns/2023/amended-return.pdf",
+      "local_path": "/Users/samir.okafor/Downloads/2023_Tax_Return_Amended_Copy.pdf"
+    },
+    {
+      "id": "dl-2024-09-14-i8c2x9",
+      "timestamp": "2024-09-14T14:20:00Z",
+      "filename": "Maple_Hollow_HVAC_Repair_Invoice_91424.pdf",
+      "file_size_bytes": 150000,
+      "content_type": "application/pdf",
+      "source_url": "https://coolairdenver.com/invoices/8663-maple-hollow-091424",
+      "local_path": "/Users/samir.okafor/Downloads/Maple_Hollow_HVAC_Repair_Invoice_91424.pdf"
+    },
+    {
+      "id": "dl-2024-09-18-j4m7b1",
+      "timestamp": "2024-09-18T12:00:00Z",
+      "filename": "HBR_Customer_Experience_Podcast_Ep147.mp3",
+      "file_size_bytes": 45000000,
+      "content_type": "audio/mpeg",
+      "source_url": "https://hbr.org/podcast/customer-experience-ep147",
+      "local_path": "/Users/samir.okafor/Downloads/HBR_Customer_Experience_Podcast_Ep147.mp3"
+    },
+    {
+      "id": "dl-2024-09-22-k9p2v5",
+      "timestamp": "2024-09-22T16:15:00Z",
+      "filename": "User_Survey_Raw_Data_September.csv",
+      "file_size_bytes": 890000,
+      "content_type": "text/csv",
+      "source_url": "https://surveysparrow.com/export/responses/september-2024.csv",
+      "local_path": "/Users/samir.okafor/Downloads/User_Survey_Raw_Data_September.csv"
+    },
+    {
+      "id": "dl-2024-09-26-l3n8c7",
+      "timestamp": "2024-09-26T11:30:00Z",
+      "filename": "Design_System_Assets_v2.4.zip",
+      "file_size_bytes": 15600000,
+      "content_type": "application/zip",
+      "source_url": "https://figma.com/downloads/design-system-assets-v2-4",
+      "local_path": "/Users/samir.okafor/Downloads/Design_System_Assets_v2.4.zip"
+    },
+    {
+      "id": "dl-2024-09-29-m1k9b4",
+      "timestamp": "2024-09-29T17:45:00Z",
+      "filename": "IMG_4482.heic",
+      "file_size_bytes": 2100000,
+      "content_type": "image/heic",
+      "source_url": "https://icloud.com/photos/download/IMG_4482",
+      "local_path": "/Users/samir.okafor/Downloads/IMG_4482.heic"
+    },
+    {
+      "id": "dl-2024-10-02-n7v3p8",
+      "timestamp": "2024-10-02T08:50:00Z",
+      "filename": "Chase_Bank_Statement_September_2024.pdf",
+      "file_size_bytes": 520000,
+      "content_type": "application/pdf",
+      "source_url": "https://chase.com/statements/september-2024.pdf",
+      "local_path": "/Users/samir.okafor/Downloads/Chase_Bank_Statement_September_2024.pdf"
+    },
+    {
+      "id": "dl-2024-10-05-o2c5m1",
+      "timestamp": "2024-10-05T10:25:00Z",
+      "filename": "Lease_Amendment_October_2024.pdf",
+      "file_size_bytes": 380000,
+      "content_type": "application/pdf",
+      "source_url": "https://app.hellosign.com/document/lease-amendment-oct2024",
+      "local_path": "/Users/samir.okafor/Downloads/Lease_Amendment_October_2024.pdf"
+    },
+    {
+      "id": "dl-2024-10-09-p8x1v6",
+      "timestamp": "2024-10-09T14:00:00Z",
+      "filename": "Voice_of_Customer_Webinar_Oct8.mp4",
+      "file_size_bytes": 245000000,
+      "content_type": "video/mp4",
+      "source_url": "https://zoom.us/rec/download/voc-webinar-oct8",
+      "local_path": "/Users/samir.okafor/Downloads/Voice_of_Customer_Webinar_Oct8.mp4"
+    },
+    {
+      "id": "dl-2024-10-12-q4b7k2",
+      "timestamp": "2024-10-12T11:10:00Z",
+      "filename": "Best_Buy_Receipt_MacBook_Accessories.pdf",
+      "file_size_bytes": 120000,
+      "content_type": "application/pdf",
+      "source_url": "https://bestbuy.com/receipts/BBY01-101224-884739",
+      "local_path": "/Users/samir.okafor/Downloads/Best_Buy_Receipt_MacBook_Accessories.pdf"
+    },
+    {
+      "id": "dl-2024-10-15-r9m3n8",
+      "timestamp": "2024-10-15T09:30:00Z",
+      "filename": "Q4_Platform_Roadmap_Draft.docx",
+      "file_size_bytes": 450000,
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "source_url": "https://rivertonhealthlabs.sharepoint.com/drafts/Q4_Platform_Roadmap_Draft.docx",
+      "local_path": "/Users/samir.okafor/Downloads/Q4_Platform_Roadmap_Draft.docx"
+    },
+    {
+      "id": "dl-2024-10-20-s2v8c5",
+      "timestamp": "2024-10-20T15:40:00Z",
+      "filename": "customer-insights-api-docs-main.zip",
+      "file_size_bytes": 3200000,
+      "content_type": "application/zip",
+      "source_url": "https://github.com/rivertonhealthlabs/customer-insights-api/archive/refs/heads/main.zip",
+      "local_path": "/Users/samir.okafor/Downloads/customer-insights-api-docs-main.zip"
+    },
+    {
+      "id": "dl-2024-10-28-t7p1b9",
+      "timestamp": "2024-10-28T10:15:00Z",
+      "filename": "McKinsey_State_of_Customer_Care_2024.pdf",
+      "file_size_bytes": 3800000,
+      "content_type": "application/pdf",
+      "source_url": "https://mckinsey.com/featured-insights/state-of-customer-care-2024",
+      "local_path": "/Users/samir.okafor/Downloads/McKinsey_State_of_Customer_Care_2024.pdf"
+    }
+  ]
+}

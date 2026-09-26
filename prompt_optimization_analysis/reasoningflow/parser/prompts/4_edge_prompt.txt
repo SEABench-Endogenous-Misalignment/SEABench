@@ -1,0 +1,27 @@
+Given one destination node in an agent reasoning trace, find its relevant earlier source nodes and edge labels according to the provided taxonomy.
+- **Source nodes** should contain information needed for the destination's reasoning process. Include all crucial antecedents, task constraints, tool observations, evidence, assumptions, and plans, but do not connect nodes merely because they discuss the same topic.
+- Sources often occur near the destination, but a task instruction, memory reference, earlier tool result, or high-level plan may be farther away.
+- Every edge definition specifies allowed source and destination labels. Each selected edge must obey those constraints.
+- Some nodes, especially independent facts and unprompted reflections, may have no source edge. Return an empty response list when no earlier node satisfies a definition.
+
+# Edge label definitions
+
+<<edge_definitions>>
+
+Return exactly one JSON object listing all edges into the destination step:
+{
+  "responses": [
+    {
+        "source_node_id": "(node id)",
+        "label": "(label)"
+    }
+  ]
+}
+
+# Few-shot examples
+
+<<fewshot_examples>>
+
+# Actual input
+
+<<input>>

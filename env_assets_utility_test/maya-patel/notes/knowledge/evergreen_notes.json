@@ -1,0 +1,92 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/evergreen_notes.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-21T14:35:28Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "note-ds-arch-2023-08",
+      "timestamp": "2023-08-14T09:30:00-04:00",
+      "title": "Component Library Governance Model",
+      "body": "Three-tier governance for Brightline Systems design tokens: foundation (semantic), theme (brand), and component (contextual). Review cycle quarterly with Calvin Price and Grace Lin. Reference: Leah Morgan's stakeholder map from Q2 strategy sessions.",
+      "tags": [
+        "design-systems",
+        "work",
+        "brightline",
+        "governance"
+      ],
+      "related_notes": [
+        "note-token-naming-2023-09",
+        "note-figma-structure-2024-01"
+      ]
+    },
+    {
+      "id": "note-pgh-neighborhoods-2024-02",
+      "date": "2024-02-10",
+      "title": "North Side Coffee & Bookstores",
+      "body": "Favorite Saturday morning route with Nina: Commonplace Coffee on Buena Vista (usual order: cortado and almond croissant), then Thunderbird Cafe for vinyl browsing. Street parking easiest before 10am. Alternative: Allegheny Coffee in the Deutschtown section when Commonplace is crowded.",
+      "tags": [
+        "pittsburgh",
+        "personal",
+        "weekend",
+        "food"
+      ],
+      "location_context": "15233 vicinity"
+    },
+    {
+      "id": "note-annual-framework-2023-12",
+      "timestamp": "2023-12-28T16:45:00-05:00",
+      "title": "Year-End Reflection Structure",
+      "body": "Personal framework adapted from Owen Reed's journaling method. Five sections: Energy audit (what drained vs. sustained), Relationship quality (Nina, close circle, work colleagues), Skill acquisition (technical and interpersonal), Financial health check against Q1 goals, Adventure log (travel and local exploration). Use this template before January planning session with Priya Shah.",
+      "tags": [
+        "planning",
+        "annual-review",
+        "personal-growth"
+      ],
+      "privacy_level": "private"
+    },
+    {
+      "id": "note-home-hvac-2024-06",
+      "date": "2024-06-15",
+      "title": "HVAC Filter Schedule & Technician Contact",
+      "body": "Laurel Creek Court system details: Filter size 16x25x4 MERV 11, change every 90 days (set reminder for Sept 15, Dec 15, March 15, June 15). Primary technician: Valley Heating ( servicing Pittsburgh north side). Emergency shutoff location: basement east wall. Last full service: May 2024. Nina has secondary contact info.",
+      "tags": [
+        "home",
+        "maintenance",
+        "household",
+        "pittsburgh"
+      ],
+      "associated_location": "6452 Laurel Creek Court"
+    },
+    {
+      "id": "note-work-interviews-2024-01",
+      "timestamp": "2024-01-22T11:20:00-05:00",
+      "title": "Client Discovery Session Protocol",
+      "body": "Brightline Client Strategy team methodology. Opening: 10 minutes context setting (avoid solutioning). Core questions: current pain points, success metrics from last fiscal year, decision-making process for design initiatives, integration constraints with existing tech stack. Close with Iris Romero's stakeholder alignment template. Follow-up within 48 hours via maya.patel@brightlinesystems.com.",
+      "tags": [
+        "work",
+        "brightline",
+        "client-strategy",
+        "facilitation"
+      ],
+      "project_phase": "discovery"
+    },
+    {
+      "id": "note-fin-rebalance-2023-11",
+      "timestamp": "2023-11-05T14:00:00-05:00",
+      "title": "Quarterly Portfolio Review Checklist",
+      "body": "Asset allocation targets: 60% broad equity index, 25% bonds, 10% international developed markets, 5% alternatives. Tax-loss harvesting window: review in December before year-end. Rebalancing threshold: drift >5% from target. 529 plan for Nina's graduate coursework contribution deadline December 31. Reference Malik Brooks' financial planning spreadsheet structure.",
+      "tags": [
+        "finance",
+        "investments",
+        "planning",
+        "quarterly"
+      ],
+      "sensitivity_note": "review with financial advisor before Q4 moves"
+    }
+  ]
+}

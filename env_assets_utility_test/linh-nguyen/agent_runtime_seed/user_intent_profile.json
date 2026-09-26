@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/user_intent_profile.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "intent_engine_sync"
+  },
+  "records": [
+    {
+      "id": "pri-2024-q4-research-coord",
+      "timestamp": "2024-11-25T09:32:00-07:00",
+      "intent_type": "work_project",
+      "description": "Coordinate quarterly research synthesis for the Product Operations team before year-end review",
+      "status": "active",
+      "priority": "high",
+      "due_date": "2024-12-15",
+      "stakeholders": [
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "source_app": "calendar_sync"
+    },
+    {
+      "id": "home-2024-garden-renovation",
+      "timestamp": "2024-11-20T18:45:00-07:00",
+      "intent_type": "home_maintenance",
+      "description": "Complete backyard garden bed renovation with drought-resistant landscaping before spring",
+      "status": "active",
+      "priority": "medium",
+      "collaborators": [
+        "Leah Morgan"
+      ],
+      "budget_estimate": 3200,
+      "target_completion": "2025-04-30"
+    },
+    {
+      "id": "health-2024-running-base",
+      "timestamp": "2024-11-18T06:15:00-07:00",
+      "intent_type": "fitness_goal",
+      "description": "Build base mileage for spring half-marathon, target 25 miles per week by February",
+      "status": "active",
+      "priority": "medium",
+      "start_date": "2024-11-01",
+      "target_date": "2025-02-28",
+      "weekly_target_miles": 25
+    },
+    {
+      "id": "rel-2024-nina-birthday-trip",
+      "timestamp": "2024-11-22T14:20:00-07:00",
+      "intent_type": "social_coordination",
+      "description": "Plan weekend reunion trip with Nina Park for her birthday in March",
+      "status": "planning",
+      "priority": "medium",
+      "related_contact": "Nina Park",
+      "proposed_dates": [
+        "2025-03-14",
+        "2025-03-21"
+      ],
+      "source_app": "messaging_chat_export"
+    },
+    {
+      "id": "fin-2024-investment-review",
+      "timestamp": "2024-11-26T11:00:00-07:00",
+      "intent_type": "financial_planning",
+      "description": "Review portfolio allocation with advisor and rebalance retirement accounts",
+      "status": "scheduled",
+      "priority": "high",
+      "due_date": "2024-12-10",
+      "advisor_firm": "FrontRange Wealth Partners",
+      "source_app": "finance_app_export"
+    },
+    {
+      "id": "skill-2024-data-certification",
+      "timestamp": "2024-11-10T16:30:00-07:00",
+      "intent_type": "professional_development",
+      "description": "Complete Advanced Analytics certification to support Research Operations methodology updates",
+      "status": "in_progress",
+      "priority": "low",
+      "target_completion": "2025-03-30",
+      "credential_provider": "Institute for Operational Excellence",
+      "study_hours_logged": 12
+    }
+  ]
+}

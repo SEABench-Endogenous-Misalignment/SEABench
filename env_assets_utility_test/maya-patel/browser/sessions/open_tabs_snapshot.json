@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/open_tabs_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T15:00:00Z",
+    "source": "browser_session_sync"
+  },
+  "records": [
+    {
+      "id": "7f8a9b2c-1d2e-3f4g-5h6i-7j8k9l0m1n2o",
+      "url": "https://www.figma.com/file/xK9mL2pQ/Brightline-Design-System-v3",
+      "title": "Brightline Design System v3 – Figma",
+      "timestamp": "2024-10-20T14:32:18Z",
+      "window_id": "win-a1b2c3d4",
+      "is_active": true,
+      "is_pinned": true
+    },
+    {
+      "id": "3d4e5f6g-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+      "url": "https://github.com/BrightlineSystems/design-tokens/pull/142",
+      "title": "Update color primitives for WCAG 2.2 compliance by maya-patel · Pull Request #142 · BrightlineSystems/design-tokens",
+      "timestamp": "2024-10-20T14:28:45Z",
+      "window_id": "win-a1b2c3d4",
+      "is_active": false,
+      "is_pinned": false
+    },
+    {
+      "id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+      "url": "https://brightlinesystems.atlassian.net/wiki/spaces/CLIENT/pages/884422/Strategy-Q4-Planning",
+      "title": "Strategy Q4 Planning - Brightline Systems Confluence",
+      "timestamp": "2024-10-20T13:15:22Z",
+      "window_id": "win-a1b2c3d4",
+      "is_active": false,
+      "is_pinned": false
+    },
+    {
+      "id": "2l3m4n5o-6p7q-8r9s-0t1u-2v3w4x5y6z7a",
+      "url": "https://app.harborinbox.com/mail/u/maya.patel@harborinbox.com/#inbox",
+      "title": "Inbox (3) - Harbor Inbox",
+      "timestamp": "2024-10-20T14:30:05Z",
+      "window_id": "win-a1b2c3d4",
+      "is_active": false,
+      "is_pinned": false
+    },
+    {
+      "id": "6p7q8r9s-0t1u-2v3w-4x5y-6z7a8b9c0d1e",
+      "url": "https://www.notion.so/brightline/Design-Ops-Handbook-092384",
+      "title": "Design Ops Handbook – Notion",
+      "timestamp": "2024-10-20T12:45:33Z",
+      "window_id": "win-a1b2c3d4",
+      "is_active": false,
+      "is_pinned": true
+    },
+    {
+      "id": "0t1u2v3w-4x5y-6z7a-8b9c-0d1e2f3g4h5i",
+      "url": "https://www.kitchenquarterly.com/recipes/roasted-squash-soup",
+      "title": "Roasted Butternut Squash Soup Recipe | Kitchen Quarterly",
+      "timestamp": "2024-10-20T10:20:11Z",
+      "window_id": "win-b2c3d4e5",
+      "is_active": false,
+      "is_pinned": false
+    }
+  ]
+}

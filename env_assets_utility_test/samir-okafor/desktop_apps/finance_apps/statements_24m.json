@@ -1,0 +1,756 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/finance_apps/statements_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-03T14:22:18Z",
+    "source": "finance_app_export"
+  },
+  "records": [
+    {
+      "id": "stmt_frcu_202211_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2022-12-02",
+      "period_start": "2022-11-01",
+      "period_end": "2022-11-30",
+      "opening_balance": 3421.15,
+      "closing_balance": 2894.56,
+      "currency": "USD",
+      "filename": "eStatement_7841_202211.pdf"
+    },
+    {
+      "id": "stmt_dt_202211_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2022-12-03",
+      "period_start": "2022-11-01",
+      "period_end": "2022-11-30",
+      "opening_balance": 15420.0,
+      "closing_balance": 15680.5,
+      "currency": "USD",
+      "filename": "statement_5629_202211.pdf"
+    },
+    {
+      "id": "stmt_frcu_202212_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-01-03",
+      "period_start": "2022-12-01",
+      "period_end": "2022-12-31",
+      "opening_balance": 2894.56,
+      "closing_balance": 4102.18,
+      "currency": "USD",
+      "filename": "eStatement_7841_202212.pdf"
+    },
+    {
+      "id": "stmt_dt_202212_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-01-02",
+      "period_start": "2022-12-01",
+      "period_end": "2022-12-31",
+      "opening_balance": 15680.5,
+      "closing_balance": 16200.0,
+      "currency": "USD",
+      "filename": "statement_5629_202212.pdf"
+    },
+    {
+      "id": "stmt_frcu_202301_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-02-02",
+      "period_start": "2023-01-01",
+      "period_end": "2023-01-31",
+      "opening_balance": 4102.18,
+      "closing_balance": 3650.25,
+      "currency": "USD",
+      "filename": "eStatement_7841_202301.pdf"
+    },
+    {
+      "id": "stmt_dt_202301_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-02-03",
+      "period_start": "2023-01-01",
+      "period_end": "2023-01-31",
+      "opening_balance": 16200.0,
+      "closing_balance": 16550.75,
+      "currency": "USD",
+      "filename": "statement_5629_202301.pdf"
+    },
+    {
+      "id": "stmt_frcu_202302_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-03-03",
+      "period_start": "2023-02-01",
+      "period_end": "2023-02-28",
+      "opening_balance": 3650.25,
+      "closing_balance": 2980.4,
+      "currency": "USD",
+      "filename": "eStatement_7841_202302.pdf"
+    },
+    {
+      "id": "stmt_dt_202302_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-03-02",
+      "period_start": "2023-02-01",
+      "period_end": "2023-02-28",
+      "opening_balance": 16550.75,
+      "closing_balance": 17000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202302.pdf"
+    },
+    {
+      "id": "stmt_frcu_202303_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-04-01",
+      "period_start": "2023-03-01",
+      "period_end": "2023-03-31",
+      "opening_balance": 2980.4,
+      "closing_balance": 3245.6,
+      "currency": "USD",
+      "filename": "eStatement_7841_202303.pdf"
+    },
+    {
+      "id": "stmt_dt_202303_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-04-03",
+      "period_start": "2023-03-01",
+      "period_end": "2023-03-31",
+      "opening_balance": 17000.0,
+      "closing_balance": 17500.5,
+      "currency": "USD",
+      "filename": "statement_5629_202303.pdf"
+    },
+    {
+      "id": "stmt_frcu_202304_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-05-02",
+      "period_start": "2023-04-01",
+      "period_end": "2023-04-30",
+      "opening_balance": 3245.6,
+      "closing_balance": 2890.75,
+      "currency": "USD",
+      "filename": "eStatement_7841_202304.pdf"
+    },
+    {
+      "id": "stmt_dt_202304_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-05-03",
+      "period_start": "2023-04-01",
+      "period_end": "2023-04-30",
+      "opening_balance": 17500.5,
+      "closing_balance": 18000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202304.pdf"
+    },
+    {
+      "id": "stmt_frcu_202305_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-06-02",
+      "period_start": "2023-05-01",
+      "period_end": "2023-05-31",
+      "opening_balance": 2890.75,
+      "closing_balance": 4520.3,
+      "currency": "USD",
+      "filename": "eStatement_7841_202305.pdf"
+    },
+    {
+      "id": "stmt_dt_202305_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-06-03",
+      "period_start": "2023-05-01",
+      "period_end": "2023-05-31",
+      "opening_balance": 18000.0,
+      "closing_balance": 18500.25,
+      "currency": "USD",
+      "filename": "statement_5629_202305.pdf"
+    },
+    {
+      "id": "stmt_frcu_202306_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-07-01",
+      "period_start": "2023-06-01",
+      "period_end": "2023-06-30",
+      "opening_balance": 4520.3,
+      "closing_balance": 3890.45,
+      "currency": "USD",
+      "filename": "eStatement_7841_202306.pdf"
+    },
+    {
+      "id": "stmt_dt_202306_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-07-03",
+      "period_start": "2023-06-01",
+      "period_end": "2023-06-30",
+      "opening_balance": 18500.25,
+      "closing_balance": 19000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202306.pdf"
+    },
+    {
+      "id": "stmt_frcu_202307_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-08-02",
+      "period_start": "2023-07-01",
+      "period_end": "2023-07-31",
+      "opening_balance": 3890.45,
+      "closing_balance": 3560.2,
+      "currency": "USD",
+      "filename": "eStatement_7841_202307.pdf"
+    },
+    {
+      "id": "stmt_dt_202307_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-08-03",
+      "period_start": "2023-07-01",
+      "period_end": "2023-07-31",
+      "opening_balance": 19000.0,
+      "closing_balance": 19500.75,
+      "currency": "USD",
+      "filename": "statement_5629_202307.pdf"
+    },
+    {
+      "id": "stmt_frcu_202308_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-09-01",
+      "period_start": "2023-08-01",
+      "period_end": "2023-08-31",
+      "opening_balance": 3560.2,
+      "closing_balance": 4120.8,
+      "currency": "USD",
+      "filename": "eStatement_7841_202308.pdf"
+    },
+    {
+      "id": "stmt_dt_202308_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-09-03",
+      "period_start": "2023-08-01",
+      "period_end": "2023-08-31",
+      "opening_balance": 19500.75,
+      "closing_balance": 20000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202308.pdf"
+    },
+    {
+      "id": "stmt_frcu_202309_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-10-02",
+      "period_start": "2023-09-01",
+      "period_end": "2023-09-30",
+      "opening_balance": 4120.8,
+      "closing_balance": 3780.35,
+      "currency": "USD",
+      "filename": "eStatement_7841_202309.pdf"
+    },
+    {
+      "id": "stmt_dt_202309_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-10-03",
+      "period_start": "2023-09-01",
+      "period_end": "2023-09-30",
+      "opening_balance": 20000.0,
+      "closing_balance": 20500.5,
+      "currency": "USD",
+      "filename": "statement_5629_202309.pdf"
+    },
+    {
+      "id": "stmt_frcu_202310_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-11-01",
+      "period_start": "2023-10-01",
+      "period_end": "2023-10-31",
+      "opening_balance": 3780.35,
+      "closing_balance": 3650.9,
+      "currency": "USD",
+      "filename": "eStatement_7841_202310.pdf"
+    },
+    {
+      "id": "stmt_dt_202310_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-11-03",
+      "period_start": "2023-10-01",
+      "period_end": "2023-10-31",
+      "opening_balance": 20500.5,
+      "closing_balance": 21000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202310.pdf"
+    },
+    {
+      "id": "stmt_frcu_202311_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2023-12-02",
+      "period_start": "2023-11-01",
+      "period_end": "2023-11-30",
+      "opening_balance": 3650.9,
+      "closing_balance": 3980.25,
+      "currency": "USD",
+      "filename": "eStatement_7841_202311.pdf"
+    },
+    {
+      "id": "stmt_dt_202311_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2023-12-03",
+      "period_start": "2023-11-01",
+      "period_end": "2023-11-30",
+      "opening_balance": 21000.0,
+      "closing_balance": 21500.75,
+      "currency": "USD",
+      "filename": "statement_5629_202311.pdf"
+    },
+    {
+      "id": "stmt_frcu_202312_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-01-02",
+      "period_start": "2023-12-01",
+      "period_end": "2023-12-31",
+      "opening_balance": 3980.25,
+      "closing_balance": 4250.6,
+      "currency": "USD",
+      "filename": "eStatement_7841_202312.pdf"
+    },
+    {
+      "id": "stmt_dt_202312_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-01-03",
+      "period_start": "2023-12-01",
+      "period_end": "2023-12-31",
+      "opening_balance": 21500.75,
+      "closing_balance": 22000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202312.pdf"
+    },
+    {
+      "id": "stmt_frcu_202401_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-02-02",
+      "period_start": "2024-01-01",
+      "period_end": "2024-01-31",
+      "opening_balance": 4250.6,
+      "closing_balance": 3890.45,
+      "currency": "USD",
+      "filename": "eStatement_7841_202401.pdf"
+    },
+    {
+      "id": "stmt_dt_202401_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-02-03",
+      "period_start": "2024-01-01",
+      "period_end": "2024-01-31",
+      "opening_balance": 22000.0,
+      "closing_balance": 22500.5,
+      "currency": "USD",
+      "filename": "statement_5629_202401.pdf"
+    },
+    {
+      "id": "stmt_frcu_202402_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-03-02",
+      "period_start": "2024-02-01",
+      "period_end": "2024-02-29",
+      "opening_balance": 3890.45,
+      "closing_balance": 3640.3,
+      "currency": "USD",
+      "filename": "eStatement_7841_202402.pdf"
+    },
+    {
+      "id": "stmt_dt_202402_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-03-03",
+      "period_start": "2024-02-01",
+      "period_end": "2024-02-29",
+      "opening_balance": 22500.5,
+      "closing_balance": 23000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202402.pdf"
+    },
+    {
+      "id": "stmt_frcu_202403_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-04-01",
+      "period_start": "2024-03-01",
+      "period_end": "2024-03-31",
+      "opening_balance": 3640.3,
+      "closing_balance": 4010.75,
+      "currency": "USD",
+      "filename": "eStatement_7841_202403.pdf"
+    },
+    {
+      "id": "stmt_dt_202403_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-04-03",
+      "period_start": "2024-03-01",
+      "period_end": "2024-03-31",
+      "opening_balance": 23000.0,
+      "closing_balance": 23500.25,
+      "currency": "USD",
+      "filename": "statement_5629_202403.pdf"
+    },
+    {
+      "id": "stmt_frcu_202404_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-05-02",
+      "period_start": "2024-04-01",
+      "period_end": "2024-04-30",
+      "opening_balance": 4010.75,
+      "closing_balance": 3750.2,
+      "currency": "USD",
+      "filename": "eStatement_7841_202404.pdf"
+    },
+    {
+      "id": "stmt_dt_202404_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-05-03",
+      "period_start": "2024-04-01",
+      "period_end": "2024-04-30",
+      "opening_balance": 23500.25,
+      "closing_balance": 24000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202404.pdf"
+    },
+    {
+      "id": "stmt_frcu_202405_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-06-01",
+      "period_start": "2024-05-01",
+      "period_end": "2024-05-31",
+      "opening_balance": 3750.2,
+      "closing_balance": 4120.9,
+      "currency": "USD",
+      "filename": "eStatement_7841_202405.pdf"
+    },
+    {
+      "id": "stmt_dt_202405_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-06-03",
+      "period_start": "2024-05-01",
+      "period_end": "2024-05-31",
+      "opening_balance": 24000.0,
+      "closing_balance": 24500.75,
+      "currency": "USD",
+      "filename": "statement_5629_202405.pdf"
+    },
+    {
+      "id": "stmt_frcu_202406_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-07-02",
+      "period_start": "2024-06-01",
+      "period_end": "2024-06-30",
+      "opening_balance": 4120.9,
+      "closing_balance": 3950.45,
+      "currency": "USD",
+      "filename": "eStatement_7841_202406.pdf"
+    },
+    {
+      "id": "stmt_dt_202406_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-07-03",
+      "period_start": "2024-06-01",
+      "period_end": "2024-06-30",
+      "opening_balance": 24500.75,
+      "closing_balance": 25000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202406.pdf"
+    },
+    {
+      "id": "stmt_frcu_202407_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-08-02",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-31",
+      "opening_balance": 3950.45,
+      "closing_balance": 4280.6,
+      "currency": "USD",
+      "filename": "eStatement_7841_202407.pdf"
+    },
+    {
+      "id": "stmt_dt_202407_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-08-03",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-31",
+      "opening_balance": 25000.0,
+      "closing_balance": 25500.5,
+      "currency": "USD",
+      "filename": "statement_5629_202407.pdf"
+    },
+    {
+      "id": "stmt_frcu_202408_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-09-01",
+      "period_start": "2024-08-01",
+      "period_end": "2024-08-31",
+      "opening_balance": 4280.6,
+      "closing_balance": 4010.25,
+      "currency": "USD",
+      "filename": "eStatement_7841_202408.pdf"
+    },
+    {
+      "id": "stmt_dt_202408_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-09-03",
+      "period_start": "2024-08-01",
+      "period_end": "2024-08-31",
+      "opening_balance": 25500.5,
+      "closing_balance": 26000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202408.pdf"
+    },
+    {
+      "id": "stmt_frcu_202409_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-10-02",
+      "period_start": "2024-09-01",
+      "period_end": "2024-09-30",
+      "opening_balance": 4010.25,
+      "closing_balance": 4350.8,
+      "currency": "USD",
+      "filename": "eStatement_7841_202409.pdf"
+    },
+    {
+      "id": "stmt_dt_202409_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-10-03",
+      "period_start": "2024-09-01",
+      "period_end": "2024-09-30",
+      "opening_balance": 26000.0,
+      "closing_balance": 26500.75,
+      "currency": "USD",
+      "filename": "statement_5629_202409.pdf"
+    },
+    {
+      "id": "stmt_frcu_202410_7841",
+      "account_type": "checking",
+      "account_holder": "Samir Okafor",
+      "account_number_masked": "****7841",
+      "institution": "Front Range Credit Union",
+      "date": "2024-11-01",
+      "period_start": "2024-10-01",
+      "period_end": "2024-10-31",
+      "opening_balance": 4350.8,
+      "closing_balance": 4680.35,
+      "currency": "USD",
+      "filename": "eStatement_7841_202410.pdf"
+    },
+    {
+      "id": "stmt_dt_202410_5629",
+      "account_type": "savings",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "account_number_masked": "****5629",
+      "institution": "Denver Trust Company",
+      "date": "2024-11-02",
+      "period_start": "2024-10-01",
+      "period_end": "2024-10-31",
+      "opening_balance": 26500.75,
+      "closing_balance": 27000.0,
+      "currency": "USD",
+      "filename": "statement_5629_202410.pdf"
+    }
+  ]
+}

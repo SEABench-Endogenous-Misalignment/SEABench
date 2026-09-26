@@ -1,0 +1,1788 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/income_tax/payroll_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-10-21T14:32:18Z",
+    "source": "payroll_system_export"
+  },
+  "records": [
+    {
+      "id": "PAY-202211-01",
+      "period_start": "2022-11-01",
+      "period_end": "2022-11-15",
+      "pay_date": "2022-11-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 43.27,
+      "overtime_hours": 0,
+      "gross_pay": 3750.84,
+      "pre_tax_deductions": {
+        "401k": 187.54,
+        "health_insurance": 184.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 412.5,
+        "social_security_employee": 232.55,
+        "medicare_employee": 54.39,
+        "state_pa": 115.15,
+        "local_pittsburgh": 37.51
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2688.65,
+      "ytd_gross": 3750.84,
+      "ytd_federal_tax": 412.5,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2022-11-22"
+    },
+    {
+      "id": "PAY-202211-02",
+      "period_start": "2022-11-16",
+      "period_end": "2022-11-30",
+      "pay_date": "2022-12-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 43.27,
+      "overtime_hours": 0,
+      "gross_pay": 3750.84,
+      "pre_tax_deductions": {
+        "401k": 187.54,
+        "health_insurance": 184.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 412.5,
+        "social_security_employee": 232.55,
+        "medicare_employee": 54.39,
+        "state_pa": 115.15,
+        "local_pittsburgh": 37.51
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2688.65,
+      "ytd_gross": 7501.68,
+      "ytd_federal_tax": 825.0,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2022-12-07"
+    },
+    {
+      "id": "PAY-202212-01",
+      "period_start": "2022-12-01",
+      "period_end": "2022-12-15",
+      "pay_date": "2022-12-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 43.27,
+      "overtime_hours": 4.0,
+      "gross_pay": 3923.92,
+      "pre_tax_deductions": {
+        "401k": 196.2,
+        "health_insurance": 184.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 442.5,
+        "social_security_employee": 243.28,
+        "medicare_employee": 56.9,
+        "state_pa": 120.68,
+        "local_pittsburgh": 39.24
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2796.22,
+      "ytd_gross": 11425.6,
+      "ytd_federal_tax": 1267.5,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2022-12-22"
+    },
+    {
+      "id": "PAY-202212-02",
+      "period_start": "2022-12-16",
+      "period_end": "2022-12-31",
+      "pay_date": "2023-01-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 43.27,
+      "overtime_hours": 0,
+      "gross_pay": 3750.84,
+      "pre_tax_deductions": {
+        "401k": 187.54,
+        "health_insurance": 184.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 412.5,
+        "social_security_employee": 232.55,
+        "medicare_employee": 54.39,
+        "state_pa": 115.15,
+        "local_pittsburgh": 37.51
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 50.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2663.65,
+      "ytd_gross": 15176.44,
+      "ytd_federal_tax": 1680.0,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-01-07"
+    },
+    {
+      "id": "PAY-202301-01",
+      "period_start": "2023-01-01",
+      "period_end": "2023-01-15",
+      "pay_date": "2023-01-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 3917.56,
+      "ytd_federal_tax": 431.38,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-01-22"
+    },
+    {
+      "id": "PAY-202301-02",
+      "period_start": "2023-01-16",
+      "period_end": "2023-01-31",
+      "pay_date": "2023-02-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 7835.12,
+      "ytd_federal_tax": 862.76,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-02-07"
+    },
+    {
+      "id": "PAY-202302-01",
+      "period_start": "2023-02-01",
+      "period_end": "2023-02-15",
+      "pay_date": "2023-02-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 11752.68,
+      "ytd_federal_tax": 1294.14,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-02-22"
+    },
+    {
+      "id": "PAY-202302-02",
+      "period_start": "2023-02-16",
+      "period_end": "2023-02-28",
+      "pay_date": "2023-03-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 2.0,
+      "gross_pay": 4008.0,
+      "pre_tax_deductions": {
+        "401k": 200.4,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 448.0,
+        "social_security_employee": 248.5,
+        "medicare_employee": 58.12,
+        "state_pa": 123.85,
+        "local_pittsburgh": 40.08
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2851.05,
+      "ytd_gross": 15760.68,
+      "ytd_federal_tax": 1742.14,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-03-07"
+    },
+    {
+      "id": "PAY-202303-01",
+      "period_start": "2023-03-01",
+      "period_end": "2023-03-15",
+      "pay_date": "2023-03-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 19678.24,
+      "ytd_federal_tax": 2173.52,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-03-22"
+    },
+    {
+      "id": "PAY-202303-02",
+      "period_start": "2023-03-16",
+      "period_end": "2023-03-31",
+      "pay_date": "2023-04-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 23595.8,
+      "ytd_federal_tax": 2604.9,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-04-07"
+    },
+    {
+      "id": "PAY-202304-01",
+      "period_start": "2023-04-01",
+      "period_end": "2023-04-15",
+      "pay_date": "2023-04-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 27513.36,
+      "ytd_federal_tax": 3036.28,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-04-22"
+    },
+    {
+      "id": "PAY-202304-02",
+      "period_start": "2023-04-16",
+      "period_end": "2023-04-30",
+      "pay_date": "2023-05-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 31430.92,
+      "ytd_federal_tax": 3467.66,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-05-07"
+    },
+    {
+      "id": "PAY-202305-01",
+      "period_start": "2023-05-01",
+      "period_end": "2023-05-15",
+      "pay_date": "2023-05-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 35348.48,
+      "ytd_federal_tax": 3899.04,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-05-22"
+    },
+    {
+      "id": "PAY-202305-02",
+      "period_start": "2023-05-16",
+      "period_end": "2023-05-31",
+      "pay_date": "2023-06-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 39266.04,
+      "ytd_federal_tax": 4330.42,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-06-07"
+    },
+    {
+      "id": "PAY-202306-01",
+      "period_start": "2023-06-01",
+      "period_end": "2023-06-15",
+      "pay_date": "2023-06-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 43183.6,
+      "ytd_federal_tax": 4761.8,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-06-22"
+    },
+    {
+      "id": "PAY-202306-02",
+      "period_start": "2023-06-16",
+      "period_end": "2023-06-30",
+      "pay_date": "2023-07-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 6.0,
+      "gross_pay": 4188.7,
+      "pre_tax_deductions": {
+        "401k": 209.44,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 478.5,
+        "social_security_employee": 259.7,
+        "medicare_employee": 60.74,
+        "state_pa": 128.59,
+        "local_pittsburgh": 41.89
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2970.34,
+      "ytd_gross": 47372.3,
+      "ytd_federal_tax": 5240.3,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-07-07"
+    },
+    {
+      "id": "PAY-202307-01",
+      "period_start": "2023-07-01",
+      "period_end": "2023-07-15",
+      "pay_date": "2023-07-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 51289.86,
+      "ytd_federal_tax": 5671.68,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-07-22"
+    },
+    {
+      "id": "PAY-202307-02",
+      "period_start": "2023-07-16",
+      "period_end": "2023-07-31",
+      "pay_date": "2023-08-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 55207.42,
+      "ytd_federal_tax": 6103.06,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-08-07"
+    },
+    {
+      "id": "PAY-202308-01",
+      "period_start": "2023-08-01",
+      "period_end": "2023-08-15",
+      "pay_date": "2023-08-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 59124.98,
+      "ytd_federal_tax": 6534.44,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-08-22"
+    },
+    {
+      "id": "PAY-202308-02",
+      "period_start": "2023-08-16",
+      "period_end": "2023-08-31",
+      "pay_date": "2023-09-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 63042.54,
+      "ytd_federal_tax": 6965.82,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-09-07"
+    },
+    {
+      "id": "PAY-202309-01",
+      "period_start": "2023-09-01",
+      "period_end": "2023-09-15",
+      "pay_date": "2023-09-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 66960.1,
+      "ytd_federal_tax": 7397.2,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-09-22"
+    },
+    {
+      "id": "PAY-202309-02",
+      "period_start": "2023-09-16",
+      "period_end": "2023-09-30",
+      "pay_date": "2023-10-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 3.0,
+      "gross_pay": 4053.13,
+      "pre_tax_deductions": {
+        "401k": 202.66,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 455.0,
+        "social_security_employee": 251.29,
+        "medicare_employee": 58.77,
+        "state_pa": 124.43,
+        "local_pittsburgh": 40.53
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2877.95,
+      "ytd_gross": 71013.23,
+      "ytd_federal_tax": 7852.2,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-10-07"
+    },
+    {
+      "id": "PAY-202310-01",
+      "period_start": "2023-10-01",
+      "period_end": "2023-10-15",
+      "pay_date": "2023-10-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 74930.79,
+      "ytd_federal_tax": 8283.58,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-10-22"
+    },
+    {
+      "id": "PAY-202310-02",
+      "period_start": "2023-10-16",
+      "period_end": "2023-10-31",
+      "pay_date": "2023-11-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 78848.35,
+      "ytd_federal_tax": 8714.96,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-11-07"
+    },
+    {
+      "id": "PAY-202311-01",
+      "period_start": "2023-11-01",
+      "period_end": "2023-11-15",
+      "pay_date": "2023-11-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 82765.91,
+      "ytd_federal_tax": 9146.34,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-11-22"
+    },
+    {
+      "id": "PAY-202311-02",
+      "period_start": "2023-11-16",
+      "period_end": "2023-11-30",
+      "pay_date": "2023-12-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 86683.47,
+      "ytd_federal_tax": 9577.72,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-12-07"
+    },
+    {
+      "id": "PAY-202312-01",
+      "period_start": "2023-12-01",
+      "period_end": "2023-12-15",
+      "pay_date": "2023-12-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 50.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2775.64,
+      "ytd_gross": 90601.03,
+      "ytd_federal_tax": 10009.1,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2023-12-22"
+    },
+    {
+      "id": "PAY-202312-02",
+      "period_start": "2023-12-16",
+      "period_end": "2023-12-31",
+      "pay_date": "2024-01-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 45.19,
+      "overtime_hours": 0,
+      "gross_pay": 3917.56,
+      "pre_tax_deductions": {
+        "401k": 195.88,
+        "health_insurance": 192.5,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 431.38,
+        "social_security_employee": 242.89,
+        "medicare_employee": 56.8,
+        "state_pa": 120.27,
+        "local_pittsburgh": 39.18
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2800.64,
+      "ytd_gross": 94518.59,
+      "ytd_federal_tax": 10440.48,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-01-07"
+    },
+    {
+      "id": "PAY-202401-01",
+      "period_start": "2024-01-01",
+      "period_end": "2024-01-15",
+      "pay_date": "2024-01-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 4084.19,
+      "ytd_federal_tax": 453.34,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-01-22"
+    },
+    {
+      "id": "PAY-202401-02",
+      "period_start": "2024-01-16",
+      "period_end": "2024-01-31",
+      "pay_date": "2024-02-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 8168.38,
+      "ytd_federal_tax": 906.68,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-02-07"
+    },
+    {
+      "id": "PAY-202402-01",
+      "period_start": "2024-02-01",
+      "period_end": "2024-02-15",
+      "pay_date": "2024-02-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 12252.57,
+      "ytd_federal_tax": 1360.02,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-02-22"
+    },
+    {
+      "id": "PAY-202402-02",
+      "period_start": "2024-02-16",
+      "period_end": "2024-02-29",
+      "pay_date": "2024-03-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 5.0,
+      "gross_pay": 4319.79,
+      "pre_tax_deductions": {
+        "401k": 215.99,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 495.0,
+        "social_security_employee": 267.83,
+        "medicare_employee": 62.64,
+        "state_pa": 132.6,
+        "local_pittsburgh": 43.2
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 3056.13,
+      "ytd_gross": 16572.36,
+      "ytd_federal_tax": 1855.02,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-03-07"
+    },
+    {
+      "id": "PAY-202403-01",
+      "period_start": "2024-03-01",
+      "period_end": "2024-03-15",
+      "pay_date": "2024-03-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 20656.55,
+      "ytd_federal_tax": 2308.36,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-03-22"
+    },
+    {
+      "id": "PAY-202403-02",
+      "period_start": "2024-03-16",
+      "period_end": "2024-03-31",
+      "pay_date": "2024-04-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 24740.74,
+      "ytd_federal_tax": 2761.7,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-04-07"
+    },
+    {
+      "id": "PAY-202404-01",
+      "period_start": "2024-04-01",
+      "period_end": "2024-04-15",
+      "pay_date": "2024-04-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 28824.93,
+      "ytd_federal_tax": 3215.04,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-04-22"
+    },
+    {
+      "id": "PAY-202404-02",
+      "period_start": "2024-04-16",
+      "period_end": "2024-04-30",
+      "pay_date": "2024-05-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 32909.12,
+      "ytd_federal_tax": 3668.38,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-05-07"
+    },
+    {
+      "id": "PAY-202405-01",
+      "period_start": "2024-05-01",
+      "period_end": "2024-05-15",
+      "pay_date": "2024-05-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 36993.31,
+      "ytd_federal_tax": 4121.72,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-05-22"
+    },
+    {
+      "id": "PAY-202405-02",
+      "period_start": "2024-05-16",
+      "period_end": "2024-05-31",
+      "pay_date": "2024-06-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 41077.5,
+      "ytd_federal_tax": 4575.06,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-06-07"
+    },
+    {
+      "id": "PAY-202406-01",
+      "period_start": "2024-06-01",
+      "period_end": "2024-06-15",
+      "pay_date": "2024-06-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 45161.69,
+      "ytd_federal_tax": 5028.4,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-06-22"
+    },
+    {
+      "id": "PAY-202406-02",
+      "period_start": "2024-06-16",
+      "period_end": "2024-06-30",
+      "pay_date": "2024-07-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 49245.88,
+      "ytd_federal_tax": 5481.74,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-07-07"
+    },
+    {
+      "id": "PAY-202407-01",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-15",
+      "pay_date": "2024-07-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 53330.07,
+      "ytd_federal_tax": 5935.08,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-07-22"
+    },
+    {
+      "id": "PAY-202407-02",
+      "period_start": "2024-07-16",
+      "period_end": "2024-07-31",
+      "pay_date": "2024-08-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 57414.26,
+      "ytd_federal_tax": 6388.42,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-08-07"
+    },
+    {
+      "id": "PAY-202408-01",
+      "period_start": "2024-08-01",
+      "period_end": "2024-08-15",
+      "pay_date": "2024-08-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 61498.45,
+      "ytd_federal_tax": 6841.76,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-08-22"
+    },
+    {
+      "id": "PAY-202408-02",
+      "period_start": "2024-08-16",
+      "period_end": "2024-08-31",
+      "pay_date": "2024-09-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 65582.64,
+      "ytd_federal_tax": 7295.1,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-09-07"
+    },
+    {
+      "id": "PAY-202409-01",
+      "period_start": "2024-09-01",
+      "period_end": "2024-09-15",
+      "pay_date": "2024-09-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 69666.83,
+      "ytd_federal_tax": 7748.44,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-09-22"
+    },
+    {
+      "id": "PAY-202409-02",
+      "period_start": "2024-09-16",
+      "period_end": "2024-09-30",
+      "pay_date": "2024-10-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 73751.02,
+      "ytd_federal_tax": 8201.78,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-10-07"
+    },
+    {
+      "id": "PAY-202410-01",
+      "period_start": "2024-10-01",
+      "period_end": "2024-10-15",
+      "pay_date": "2024-10-22",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 77835.21,
+      "ytd_federal_tax": 8655.12,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-10-22"
+    },
+    {
+      "id": "PAY-202410-02",
+      "period_start": "2024-10-16",
+      "period_end": "2024-10-31",
+      "pay_date": "2024-11-07",
+      "employee_id": "E-28491",
+      "ssn": "284-91-3756",
+      "employer": "Brightline Systems",
+      "employer_fein": "82-4917563",
+      "pay_period_type": "semi-monthly",
+      "regular_hours": 86.67,
+      "hourly_rate": 47.12,
+      "overtime_hours": 0,
+      "gross_pay": 4084.19,
+      "pre_tax_deductions": {
+        "401k": 204.21,
+        "health_insurance": 201.0,
+        "dental": 12.0,
+        "vision": 8.5
+      },
+      "taxes": {
+        "federal_income": 453.34,
+        "social_security_employee": 253.22,
+        "medicare_employee": 59.22,
+        "state_pa": 125.38,
+        "local_pittsburgh": 40.84
+      },
+      "post_tax_deductions": {
+        "charitable_contribution": 25.0,
+        "roth_401k": 0
+      },
+      "net_pay": 2914.48,
+      "ytd_gross": 81919.4,
+      "ytd_federal_tax": 9108.46,
+      "bank_account_last_four": "7721",
+      "deposit_date": "2024-11-07"
+    }
+  ]
+}

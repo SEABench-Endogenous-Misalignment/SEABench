@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/investments/portfolio_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T21:30:00Z",
+    "source": "portfolio_manager_sync"
+  },
+  "records": [
+    {
+      "id": "pos-7a8f9e2d-brokerage-1",
+      "account_holder": "Samir Okafor",
+      "account_id": "XJ-4829",
+      "account_type": "Taxable Brokerage",
+      "institution": "Pinnacle Financial Services",
+      "ticker_symbol": "VTI",
+      "security_name": "Vanguard Total Stock Market ETF",
+      "quantity": 450.75,
+      "unit_price": 284.55,
+      "market_value": 128265.91,
+      "currency": "USD",
+      "timestamp": "2024-11-15T21:00:00Z"
+    },
+    {
+      "id": "pos-3b2c1d0e-brokerage-2",
+      "account_holder": "Samir Okafor",
+      "account_id": "XJ-4829",
+      "account_type": "Taxable Brokerage",
+      "institution": "Pinnacle Financial Services",
+      "ticker_symbol": "VXUS",
+      "security_name": "Vanguard Total International Stock ETF",
+      "quantity": 320.5,
+      "unit_price": 61.3,
+      "market_value": 19646.65,
+      "currency": "USD",
+      "timestamp": "2024-11-15T21:00:00Z"
+    },
+    {
+      "id": "pos-9f8e7d6c-401k-1",
+      "account_holder": "Samir Okafor",
+      "account_id": "775201",
+      "account_type": "401(k)",
+      "institution": "Summit Retirement Solutions",
+      "employer": "Riverton Health Labs",
+      "ticker_symbol": "TRRFX",
+      "security_name": "Target Retirement 2045 Fund",
+      "quantity": 1240.88,
+      "unit_price": 25.8,
+      "market_value": 32014.7,
+      "currency": "USD",
+      "timestamp": "2024-11-15T21:00:00Z"
+    },
+    {
+      "id": "pos-1a2b3c4d-ira-1",
+      "account_holder": "Samir Okafor",
+      "account_id": "TC-9912-M",
+      "account_type": "Traditional IRA",
+      "institution": "Meridian Trust Company",
+      "ticker_symbol": "BND",
+      "security_name": "Vanguard Total Bond Market ETF",
+      "quantity": 210.0,
+      "unit_price": 72.45,
+      "market_value": 15214.5,
+      "currency": "USD",
+      "timestamp": "2024-11-15T21:00:00Z"
+    },
+    {
+      "id": "pos-5e6f7a8b-brokerage-3",
+      "account_holder": "Samir Okafor",
+      "account_id": "XJ-4829",
+      "account_type": "Taxable Brokerage",
+      "institution": "Pinnacle Financial Services",
+      "ticker_symbol": "MSFT",
+      "security_name": "Microsoft Corporation",
+      "quantity": 45,
+      "unit_price": 418.2,
+      "market_value": 18819.0,
+      "currency": "USD",
+      "timestamp": "2024-11-15T21:00:00Z"
+    },
+    {
+      "id": "pos-9c0d1e2f-401k-2",
+      "account_holder": "Samir Okafor",
+      "account_id": "775201",
+      "account_type": "401(k)",
+      "institution": "Summit Retirement Solutions",
+      "employer": "Riverton Health Labs",
+      "ticker_symbol": "SPIDX",
+      "security_name": "S&P 500 Index Fund",
+      "quantity": 850.45,
+      "unit_price": 68.9,
+      "market_value": 58596.01,
+      "currency": "USD",
+      "timestamp": "2024-11-15T21:00:00Z"
+    }
+  ]
+}

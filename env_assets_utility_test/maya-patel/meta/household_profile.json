@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/household_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-01-15T14:32:08Z",
+    "source": "household_db_export"
+  },
+  "records": [
+    {
+      "id": "usr-maya-patel-7723",
+      "full_name": "Maya Patel",
+      "email": "maya.patel@harborinbox.com",
+      "phone": "+1-412-653-5157",
+      "role": "primary_resident",
+      "address": "7387 Alder Ridge Road, Pittsburgh, PA 15249",
+      "employer": "Riverton Health Labs",
+      "date": "2023-06-12"
+    },
+    {
+      "id": "usr-priya-shah-8841",
+      "full_name": "Priya Shah",
+      "email": "priya.shah@riverbendmail.com",
+      "phone": "+1-412-803-3736",
+      "role": "co_resident",
+      "relationship_to_primary": "roommate",
+      "date": "2023-06-12"
+    },
+    {
+      "id": "emc-nina-park-3321",
+      "full_name": "Nina Park",
+      "relationship": "emergency_contact",
+      "phone": "+1-206-492-3387",
+      "email": "nina.park@pacificpost.net",
+      "priority": 1,
+      "date": "2023-07-05"
+    },
+    {
+      "id": "emc-malik-brooks-9934",
+      "full_name": "Malik Brooks",
+      "relationship": "emergency_contact",
+      "phone": "+1-412-884-2219",
+      "email": "malik.brooks@oaklandcomm.net",
+      "priority": 2,
+      "date": "2023-07-05"
+    },
+    {
+      "id": "ins-renters-policy-4412",
+      "policy_type": "renters_insurance",
+      "provider": "Erie Insurance",
+      "policy_number": "REN-PA-9928347",
+      "insured_party": "Maya Patel",
+      "period_start": "2023-06-01",
+      "period_end": "2024-06-01"
+    },
+    {
+      "id": "vet-dexter-caine-2219",
+      "name": "Oakmont Animal Clinic",
+      "contact_name": "Dr. Dexter Caine",
+      "phone": "+1-412-828-9953",
+      "address": "3200 Fifth Avenue, Pittsburgh, PA 15213",
+      "service_type": "veterinary_care",
+      "date": "2023-08-14"
+    }
+  ]
+}

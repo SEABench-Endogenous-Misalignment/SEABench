@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/device_trust_list_current.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T21:30:00Z",
+    "source": "identity_platform_export"
+  },
+  "records": [
+    {
+      "id": "dvc-9f3a-8c21-7e45",
+      "timestamp": "2024-11-14T09:15:33Z",
+      "device_name": "iPhone 15 Pro",
+      "device_category": "mobile",
+      "os_family": "iOS",
+      "os_version": "18.1",
+      "trust_level": "high_trust",
+      "enrollment_method": "authenticator_app",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "last_ip_address": "72.34.189.201",
+      "last_location_city": "Denver"
+    },
+    {
+      "id": "dvc-2b7d-5a91-3k88",
+      "timestamp": "2024-11-15T16:42:10Z",
+      "device_name": "MacBook Pro 16",
+      "device_category": "desktop",
+      "os_family": "macOS",
+      "os_version": "14.6.1",
+      "trust_level": "high_trust",
+      "enrollment_method": "corporate_sso",
+      "associated_email": "samir.okafor@rivertonhealthlabs.com",
+      "last_ip_address": "198.51.132.44",
+      "last_location_city": "Denver"
+    },
+    {
+      "id": "dvc-4m8n-1p55-9q22",
+      "timestamp": "2024-10-28T11:30:00Z",
+      "device_name": "iPad Air M2",
+      "device_category": "tablet",
+      "os_family": "iPadOS",
+      "os_version": "17.7",
+      "trust_level": "medium_trust",
+      "enrollment_method": "backup_code",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "last_ip_address": "72.34.189.201",
+      "last_location_city": "Denver"
+    },
+    {
+      "id": "dvc-7h3j-9k44-2w77",
+      "timestamp": "2024-09-15T08:20:45Z",
+      "device_name": "Custom Desktop PC",
+      "device_category": "desktop",
+      "os_family": "Windows",
+      "os_version": "11 Pro",
+      "trust_level": "high_trust",
+      "enrollment_method": "hardware_key",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "last_ip_address": "104.28.91.156",
+      "last_location_city": "Denver"
+    },
+    {
+      "id": "dvc-1x9y-4z88-6v33",
+      "timestamp": "2024-11-01T13:10:22Z",
+      "device_name": "Galaxy S24 Ultra",
+      "device_category": "mobile",
+      "os_family": "Android",
+      "os_version": "14",
+      "trust_level": "high_trust",
+      "enrollment_method": "corporate_sso",
+      "associated_email": "samir.okafor@rivertonhealthlabs.com",
+      "last_ip_address": "198.51.132.92",
+      "last_location_city": "Boulder"
+    },
+    {
+      "id": "dvc-6t2u-8i99-5r11",
+      "timestamp": "2024-08-03T19:45:12Z",
+      "device_name": "ThinkPad X1 Carbon",
+      "device_category": "laptop",
+      "os_family": "Linux",
+      "os_version": "Ubuntu 22.04",
+      "trust_level": "restricted",
+      "enrollment_method": "manual_review",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "last_ip_address": "45.33.12.88",
+      "last_location_city": "Denver"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/timezone_locale.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-01-15T14:32:18Z",
+    "source": "system_config_export"
+  },
+  "records": [
+    {
+      "id": "tz-cfg-7a8b9c2d",
+      "device_name": "Linh-MacBook-Pro",
+      "timezone": "America/New_York",
+      "locale": "en_US",
+      "region_code": "US",
+      "date_format": "MM/dd/yyyy",
+      "time_format_24h": false,
+      "timestamp": "2024-01-15T14:30:00Z"
+    },
+    {
+      "id": "ios-tz-4f5e6d7c",
+      "device_id": "iPhone14Pro-3K854",
+      "user_account": "linh.nguyen@riverbendmail.com",
+      "timezone": "America/New_York",
+      "locale_identifier": "en_US",
+      "automatic_timezone": true,
+      "location_services": "enabled",
+      "timestamp": "2024-01-15T14:30:15Z"
+    },
+    {
+      "id": "gcal-tz-9k8j7h6g",
+      "account_email": "linh.nguyen@riverbendmail.com",
+      "primary_timezone": "America/New_York",
+      "secondary_timezone": "America/Los_Angeles",
+      "display_language": "en",
+      "event_notifications": "local_time",
+      "timestamp": "2024-01-15T14:30:30Z"
+    },
+    {
+      "id": "outlook-tz-2a3b4c5d",
+      "account_email": "linh.nguyen@riverbendmail.com",
+      "timezone": "America/New_York",
+      "working_hours_start": "09:00",
+      "working_hours_end": "17:00",
+      "working_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "current_time_zone_offset": "-05:00",
+      "timestamp": "2024-01-15T14:30:45Z"
+    },
+    {
+      "id": "chrome-locale-8h7g6f5e",
+      "browser_profile": "Profile-Linh",
+      "accept_languages": [
+        "en-US",
+        "en",
+        "vi"
+      ],
+      "timezone_detection": "automatic",
+      "geolocation_setting": "ask_before_accessing",
+      "spellcheck_language": "en-US",
+      "timestamp": "2024-01-15T14:31:00Z"
+    },
+    {
+      "id": "slack-prefs-5e4f3g2h",
+      "workspace_domain": "atlas-civic-partners",
+      "user_id": "U07K2M8N4P",
+      "display_name": "Linh",
+      "timezone": "America/New_York",
+      "language": "en-US",
+      "timezone_label": "Eastern Standard Time",
+      "timestamp": "2024-01-15T14:31:15Z"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/work_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "slack_workspace_export"
+  },
+  "records": [
+    {
+      "id": "1700043795-a3f2c1",
+      "timestamp": "2023-11-15T09:23:15Z",
+      "channel_name": "platform-design",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Has anyone had a chance to look at the new vendor proposals? I need to consolidate feedback by Thursday."
+    },
+    {
+      "id": "1700045122-b4g3d2",
+      "timestamp": "2023-11-15T09:45:22Z",
+      "channel_name": "platform-design",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "message_type": "text",
+      "content": "I reviewed the Cortex and Nova options yesterday. Cortex seems more aligned with our security requirements. I'll add my notes to the shared doc."
+    },
+    {
+      "id": "1701180728-c5h4e3",
+      "timestamp": "2023-11-28T14:12:08Z",
+      "channel_name": "research-ops",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "message_type": "file_share",
+      "file_name": "pitt_user_study_q4_cleaned.csv",
+      "content": "Uploading the latest dataset from the Pittsburgh user sessions. The CSV has about 2,400 rows after cleaning."
+    },
+    {
+      "id": "1701796481-d6i5f4",
+      "timestamp": "2023-12-05T16:34:41Z",
+      "channel_name": "direct-iris-romero",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Are you free for a quick sync tomorrow morning? I want to discuss the methodology for the upcoming A/B test before we submit the request."
+    },
+    {
+      "id": "1702382719-e7j6g5",
+      "timestamp": "2023-12-12T11:05:19Z",
+      "channel_name": "engineering-general",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "message_type": "text",
+      "content": "@samir.okafor can you clarify which environment the staging tests should point to? The config file seems to reference the old cluster."
+    },
+    {
+      "id": "1703080970-f8k7h6",
+      "timestamp": "2023-12-20T13:22:50Z",
+      "channel_name": "platform-design",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "reaction",
+      "content": "reacted with :white_check_mark: to Leah's message about vendor selection"
+    },
+    {
+      "id": "1704711333-g9l8i7",
+      "timestamp": "2024-01-08T10:15:33Z",
+      "channel_name": "platform-design",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "thread_reply",
+      "thread_ts": "1700045122-b4g3d2",
+      "content": "Thanks Leah. Did you also evaluate the onboarding time estimates? That's going to be a key factor for the migration window."
+    },
+    {
+      "id": "1705314312-h0m9j8",
+      "timestamp": "2024-01-15T09:45:12Z",
+      "channel_name": "research-ops",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Weekly update: Completed the survey analysis for the dashboard redesign. Key finding: 68% of users prefer the tabbed navigation over the sidebar. Report is in the drive."
+    },
+    {
+      "id": "1705938945-i1n0k9",
+      "timestamp": "2024-01-22T15:30:45Z",
+      "channel_name": "direct-iris-romero",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "message_type": "text",
+      "content": "Samir, I pushed the updated SQL queries to the repo. Can you review the join logic in the cohort analysis section? I think we might be double-counting some returning users."
+    },
+    {
+      "id": "1706787618-j2o1l0",
+      "timestamp": "2024-02-01T11:20:18Z",
+      "channel_name": "direct-leah-morgan",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "message_type": "text",
+      "content": "Hi Samir, when you have a moment, could you review the compliance checklist for the new integration? Legal flagged a couple of items I want to make sure we address."
+    },
+    {
+      "id": "1707918322-k3p2m1",
+      "timestamp": "2024-02-14T14:05:22Z",
+      "channel_name": "platform-design",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Sharing this article on accessibility patterns for complex data tables. Might be relevant for the reporting module we're designing: https://uxdesign.cc/accessible-data-tables-2024"
+    },
+    {
+      "id": "1708426364-l4q3n2",
+      "timestamp": "2024-02-20T09:12:44Z",
+      "channel_name": "research-ops",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "message_type": "text",
+      "content": "Quick question about data retention policies. The analytics database has records going back to 2021. Do we need to archive anything before running the new compliance scripts?"
+    },
+    {
+      "id": "1708428311-m5r4o3",
+      "timestamp": "2024-02-20T09:45:11Z",
+      "channel_name": "research-ops",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "thread_reply",
+      "thread_ts": "1708426364-l4q3n2",
+      "content": "Good catch. Anything older than 36 months should be archived to cold storage. Check with Grace on the S3 bucket naming convention for archives."
+    },
+    {
+      "id": "1709649029-n6s5p4",
+      "timestamp": "2024-03-05T13:30:29Z",
+      "channel_name": "engineering-general",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "message_type": "text",
+      "content": "Scheduled maintenance window for this Saturday 2-4 AM EST. The staging environment will be unavailable while we upgrade the PostgreSQL instance."
+    },
+    {
+      "id": "1709649307-o7t6q5",
+      "timestamp": "2024-03-05T13:35:07Z",
+      "channel_name": "engineering-general",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Thanks for the heads up, Grace. I'll pause the automated test suite before the window starts."
+    },
+    {
+      "id": "1710777938-p8u7r6",
+      "timestamp": "2024-03-18T16:45:38Z",
+      "channel_name": "direct-calvin-price",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Calvin, do you have the latest NPS scores from the March survey? I need them for the quarterly review deck."
+    },
+    {
+      "id": "1711360935-q9v8s7",
+      "timestamp": "2024-03-25T10:22:15Z",
+      "channel_name": "direct-samir-okafor",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "message_type": "text",
+      "content": "Samir, can you take a look at the dashboard mockups I sent over? Specifically the filter placement—I'm worried about mobile usability."
+    },
+    {
+      "id": "1711364142-r0w9t8",
+      "timestamp": "2024-03-25T11:15:42Z",
+      "channel_name": "direct-iris-romero",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Reviewed. The filters look good on desktop but you're right about mobile. Let's move them to a bottom sheet for viewports under 768px."
+    },
+    {
+      "id": "1712074819-s1x0u9",
+      "timestamp": "2024-04-02T15:40:19Z",
+      "channel_name": "platform-design",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "message_type": "file_share",
+      "file_name": "platform_strategy_apr2_notes.pdf",
+      "content": "Here are the notes from today's platform strategy meeting. Action items are highlighted in yellow."
+    },
+    {
+      "id": "1712075133-t2y1v0",
+      "timestamp": "2024-04-02T15:45:33Z",
+      "channel_name": "platform-design",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "reaction",
+      "content": "reacted with :eyes: to your file platform_strategy_apr2_notes.pdf"
+    },
+    {
+      "id": "1713174627-u3z2w1",
+      "timestamp": "2024-04-15T09:30:27Z",
+      "channel_name": "research-ops",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "Question for the team: Are we standardizing on Mixpanel or Amplitude for the new feature tracking? I see conflicting documentation in the wiki."
+    },
+    {
+      "id": "1713177309-v4a3x2",
+      "timestamp": "2024-04-15T10:15:09Z",
+      "channel_name": "research-ops",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "message_type": "text",
+      "content": "We're moving to Mixpanel starting next sprint. Amplitude access ends on the 30th. I'll update the wiki today to reflect the cutover."
+    },
+    {
+      "id": "1713800450-w5b4y3",
+      "timestamp": "2024-04-22T14:20:50Z",
+      "channel_name": "direct-grace-lin",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "message_type": "text",
+      "content": "Hey Samir, I'm planning to take PTO next Friday. Can you cover the standup? Also, any urgent deploys I should hand off?"
+    },
+    {
+      "id": "1713801312-x6c5z4",
+      "timestamp": "2024-04-22T14:35:12Z",
+      "channel_name": "direct-grace-lin",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "content": "No problem, I can cover. The only pending item is the hotfix for the caching issue, but that should be resolved by Wednesday. Enjoy your day off!"
+    },
+    {
+      "id": "1714996233-y7d6a5",
+      "timestamp": "2024-05-06T11:10:33Z",
+      "channel_name": "research-ops",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "text",
+      "thread_ts": "1714996233-y7d6a5",
+      "content": "Starting a thread on the new participant recruitment tool. Initial testing shows it reduces screening time by 40%. Thoughts on rolling it out to the whole team?"
+    },
+    {
+      "id": "1714997147-z8e7b6",
+      "timestamp": "2024-05-06T11:25:47Z",
+      "channel_name": "research-ops",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "message_type": "thread_reply",
+      "thread_ts": "1714996233-y7d6a5",
+      "content": "This would be huge for our timeline. Does it integrate with our current calendar system for scheduling?"
+    },
+    {
+      "id": "1715005222-a9f8c7",
+      "timestamp": "2024-05-06T13:40:22Z",
+      "channel_name": "research-ops",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "message_type": "thread_reply",
+      "thread_ts": "1714996233-y7d6a5",
+      "content": "Agreed with Iris. Also, what's the licensing cost? If it's per-seat, we might need to phase the rollout."
+    },
+    {
+      "id": "1715375718-b0g9d8",
+      "timestamp": "2024-05-10T16:55:18Z",
+      "channel_name": "research-ops",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@rivertonhealthlabs.com",
+      "message_type": "thread_reply",
+      "thread_ts": "1714996233-y7d6a5",
+      "content": "Good questions. It integrates with Google Calendar and the cost is $15/seat/month. I'll get approval from finance for 10 licenses to start."
+    }
+  ]
+}

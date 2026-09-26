@@ -1,0 +1,240 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/quick_notes/notes_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "qn_2026_001",
+      "timestamp": "2026-01-05T08:15:00Z",
+      "title": "Morning reflection",
+      "content": "Need to focus on deep work blocks this week",
+      "tags": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "qn_2026_002",
+      "date": "2026-01-12",
+      "title": "Grocery run",
+      "content": "Almond milk, avocados, sourdough, chickpeas",
+      "category": "shopping"
+    },
+    {
+      "id": "qn_2026_003",
+      "timestamp": "2026-01-20T14:30:00Z",
+      "title": "Book recommendation",
+      "content": "The Midnight Library by Matt Haig - check library availability",
+      "tags": [
+        "reading"
+      ]
+    },
+    {
+      "id": "qn_2026_004",
+      "date": "2026-02-01",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "title": "Team sync notes",
+      "content": "Discuss Q2 roadmap, blockers on API integration",
+      "category": "work"
+    },
+    {
+      "id": "qn_2026_005",
+      "timestamp": "2026-02-14T09:00:00Z",
+      "title": "Valentine's brunch ideas",
+      "content": "Pancakes, fresh berries, mimosas",
+      "tags": [
+        "events",
+        "cooking"
+      ]
+    },
+    {
+      "id": "qn_2026_006",
+      "date": "2026-02-20",
+      "title": "Car maintenance",
+      "content": "Schedule oil change, check tire pressure",
+      "category": "home"
+    },
+    {
+      "id": "qn_2026_007",
+      "timestamp": "2026-03-05T16:45:00Z",
+      "title": "Random idea",
+      "content": "App that tracks plant watering via photo recognition",
+      "tags": [
+        "ideas"
+      ]
+    },
+    {
+      "id": "qn_2026_008",
+      "date": "2026-03-12",
+      "period_start": "2026-03-12",
+      "period_end": "2026-03-19",
+      "title": "Spring break plans",
+      "content": "Research Airbnbs in Asheville, book hiking tour",
+      "category": "travel"
+    },
+    {
+      "id": "qn_2026_009",
+      "timestamp": "2026-03-20T11:20:00Z",
+      "title": "Meeting with Sarah",
+      "content": "Follow up on budget proposal, send revised spreadsheet",
+      "category": "work"
+    },
+    {
+      "id": "qn_2026_010",
+      "date": "2026-03-28",
+      "title": "Garden prep",
+      "content": "Order seeds: tomatoes, basil, zucchini. Buy potting soil.",
+      "category": "home"
+    },
+    {
+      "id": "qn_2026_011",
+      "timestamp": "2026-04-02T07:30:00Z",
+      "title": "Morning jog route",
+      "content": "Try the new trail by the river, approx 5k",
+      "tags": [
+        "fitness"
+      ]
+    },
+    {
+      "id": "qn_2026_012",
+      "date": "2026-04-10",
+      "title": "Birthday gift for Mom",
+      "content": "Pottery class voucher or silk scarf?",
+      "category": "shopping"
+    },
+    {
+      "id": "qn_2026_013",
+      "timestamp": "2026-04-15T13:00:00Z",
+      "title": "Project Gamma whiteboard",
+      "content": "Key insight: user retention drops after day 3. Focus on onboarding flow.",
+      "category": "work"
+    },
+    {
+      "id": "qn_2026_014",
+      "date": "2026-04-22",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "title": "Concert tickets",
+      "content": "Confirm seats for jazz festival at Symphony Hall",
+      "category": "events"
+    },
+    {
+      "id": "qn_2026_015",
+      "timestamp": "2026-05-01T10:00:00Z",
+      "title": "May goals",
+      "content": "1. Finish draft report, 2. Declutter garage, 3. Try three new recipes",
+      "tags": [
+        "goals"
+      ]
+    },
+    {
+      "id": "qn_2026_016",
+      "date": "2026-05-08",
+      "title": "Dentist appointment reminder",
+      "content": "Dr. Chen, 2:30pm, bring insurance card",
+      "category": "health"
+    },
+    {
+      "id": "qn_2026_017",
+      "timestamp": "2026-05-12T15:45:00Z",
+      "title": "Coffee shop work session",
+      "content": "Good wifi at Corner Bean, quiet upstairs",
+      "tags": [
+        "productivity"
+      ]
+    },
+    {
+      "id": "qn_2026_018",
+      "date": "2026-05-18",
+      "period_start": "2026-05-18",
+      "period_end": "2026-05-25",
+      "title": "Portland trip itinerary",
+      "content": "Day 1: Powell's Books, Day 2: Food carts, Day 3: Japanese Garden",
+      "category": "travel"
+    },
+    {
+      "id": "qn_2026_019",
+      "timestamp": "2026-05-25T09:15:00Z",
+      "title": "Grocery list",
+      "content": "Oat milk, granola, bananas, spinach, pasta",
+      "category": "shopping"
+    },
+    {
+      "id": "qn_2026_020",
+      "date": "2026-06-01",
+      "title": "Quarterly review prep",
+      "content": "Gather metrics for Q2, prepare slides for Friday",
+      "category": "work"
+    },
+    {
+      "id": "qn_2026_021",
+      "timestamp": "2026-06-05T12:30:00Z",
+      "title": "Lunch idea",
+      "content": "Mediterranean bowl: couscous, falafel, tahini, cucumbers",
+      "tags": [
+        "cooking"
+      ]
+    },
+    {
+      "id": "qn_2026_022",
+      "date": "2026-06-08",
+      "title": "Call plumber",
+      "content": "Kitchen sink dripping, available Thursday afternoon?",
+      "category": "home"
+    },
+    {
+      "id": "qn_2026_023",
+      "timestamp": "2026-06-12T17:00:00Z",
+      "title": "Weekend reading",
+      "content": "Finish 'Atomic Habits' chapters 8-10",
+      "tags": [
+        "reading"
+      ]
+    },
+    {
+      "id": "qn_2026_024",
+      "date": "2026-06-15",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "title": "Yoga class",
+      "content": "Bring own mat, studio on 4th floor",
+      "category": "health"
+    },
+    {
+      "id": "qn_2026_025",
+      "timestamp": "2026-06-18T08:00:00Z",
+      "title": "Reflection",
+      "content": "Grateful for morning quiet time and good coffee",
+      "tags": [
+        "personal"
+      ]
+    },
+    {
+      "id": "qn_2026_026",
+      "date": "2026-06-22",
+      "title": "Gift for Bob",
+      "content": "Craft beer tasting set or leather notebook?",
+      "category": "shopping"
+    },
+    {
+      "id": "qn_2026_027",
+      "timestamp": "2026-06-25T11:00:00Z",
+      "title": "Project Delta notes",
+      "content": "Stakeholders approved phase 2 budget. Kickoff next Monday.",
+      "category": "work"
+    },
+    {
+      "id": "qn_2026_028",
+      "date": "2026-06-29",
+      "title": "Summer reading list",
+      "content": "1. Dune Messiah, 2. Klara and the Sun, 3. Project Hail Mary",
+      "tags": [
+        "reading"
+      ]
+    }
+  ]
+}

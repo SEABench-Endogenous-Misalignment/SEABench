@@ -1,0 +1,254 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/finance_apps/bank_accounts_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-28T14:32:18Z",
+    "source": "quicken_desktop_export"
+  },
+  "records": [
+    {
+      "id": "acct_np_7f3a9b21",
+      "timestamp": "2024-11-28T14:30:00Z",
+      "account_name": "Primary Checking",
+      "institution": {
+        "name": "Northpoint Financial",
+        "routing_number": "091000017",
+        "branch_address": "1200 Marquette Ave, Minneapolis, MN 55403"
+      },
+      "account_details": {
+        "type": "checking",
+        "number": "45781234582",
+        "masked_number": "****4582",
+        "currency": "USD",
+        "opened_date": "2018-03-15"
+      },
+      "balance": {
+        "current": 4250.17,
+        "available": 4200.17,
+        "as_of": "2024-11-28T14:30:00Z"
+      },
+      "holder": {
+        "name": "Marcus Bennett",
+        "ssn_last4": "7492",
+        "address": "7520 Laurel Creek Court, Minneapolis, MN 55497",
+        "phone": "+1-612-572-3749",
+        "email": "marcus.bennett@harborinbox.com"
+      },
+      "online_access": {
+        "username": "mbennett2018",
+        "security_question": "Name of first concert attended?",
+        "security_answer": "Radiohead 2003",
+        "mfa_seed": "otpauth://totp/Northpoint:marcus.bennett@harborinbox.com?secret=JBSWY3DPEHPK3PXP&issuer=Northpoint"
+      },
+      "linked_cards": [
+        {
+          "type": "debit",
+          "last4": "4582",
+          "expiry": "02/2028",
+          "cvv": "472"
+        }
+      ]
+    },
+    {
+      "id": "acct_lst_9c4d2e88",
+      "timestamp": "2024-11-28T14:30:00Z",
+      "account_name": "Joint Emergency Fund",
+      "institution": {
+        "name": "Lakeside Trust Bank",
+        "routing_number": "091015124",
+        "branch": "Northeast Minneapolis"
+      },
+      "account_details": {
+        "type": "savings",
+        "subtype": "high_yield",
+        "number": "88912349921",
+        "masked_number": "****9921",
+        "currency": "USD",
+        "opened_date": "2019-06-22"
+      },
+      "balance": {
+        "current": 18547.83,
+        "available": 18547.83,
+        "apy": 3.75,
+        "as_of": "2024-11-28T14:30:00Z"
+      },
+      "holders": [
+        {
+          "name": "Marcus Bennett",
+          "ssn_last4": "7492",
+          "email": "marcus.bennett@harborinbox.com",
+          "phone": "+1-612-572-3749"
+        },
+        {
+          "name": "Nina Park",
+          "ssn_last4": "3381",
+          "email": "nina.park@riverbendmail.com",
+          "phone": "+1-612-756-6565"
+        }
+      ],
+      "online_access": {
+        "joint_id": "bennett_park_joint",
+        "access_code": "LP-7749-MP",
+        "security_question": "City where you met your spouse?",
+        "security_answer": "Chicago 2016"
+      }
+    },
+    {
+      "id": "acct_nsi_2a8f5c11",
+      "timestamp": "2024-11-28T14:30:00Z",
+      "account_name": "Marcus Bennett IRA",
+      "institution": {
+        "name": "Northern Star Investments",
+        "account_type": "traditional_ira"
+      },
+      "account_details": {
+        "number": "9907743",
+        "masked_number": "****7743",
+        "currency": "USD",
+        "opened_date": "2015-04-10"
+      },
+      "balance": {
+        "current": 127432.19,
+        "market_value": 127432.19,
+        "cost_basis": 89500.0,
+        "as_of": "2024-11-28T14:30:00Z"
+      },
+      "holder": {
+        "name": "Marcus Bennett",
+        "ssn_last4": "7492",
+        "beneficiary_primary": "Nina Park",
+        "beneficiary_secondary": "Owen Reed"
+      },
+      "api_credentials": {
+        "client_id": "nsi_mbennett_prod",
+        "api_key": "nsi_prod_ak_3f7a9b2c8d1e4f5a6b7c8d9e0f1a2b3c",
+        "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtYXJj..."
+      }
+    },
+    {
+      "id": "acct_hcu_5e6b7d33",
+      "timestamp": "2024-11-28T14:30:00Z",
+      "account_name": "Harborview Credit Union Visa",
+      "institution": {
+        "name": "Harborview Credit Union",
+        "routing_number": "291075235",
+        "website": "https://banking.harborviewcu.org"
+      },
+      "account_details": {
+        "type": "credit_card",
+        "network": "Visa",
+        "number": "4532123456788832",
+        "masked_number": "****8832",
+        "currency": "USD",
+        "opened_date": "2020-01-08"
+      },
+      "balance": {
+        "current": -1240.56,
+        "credit_limit": 15000.0,
+        "available_credit": 13759.44,
+        "statement_balance": 1240.56,
+        "payment_due_date": "2024-12-15",
+        "as_of": "2024-11-28T14:30:00Z"
+      },
+      "holder": {
+        "name": "Marcus Bennett",
+        "address": "7520 Laurel Creek Court, Minneapolis, MN 55497",
+        "phone": "+1-612-572-3749"
+      },
+      "card_details": {
+        "expiry_date": "03/2027",
+        "cvv": "847",
+        "card_type": "Visa Signature"
+      },
+      "autopay": {
+        "enabled": true,
+        "source_account_id": "acct_np_7f3a9b21",
+        "payment_amount": "statement_balance"
+      }
+    },
+    {
+      "id": "acct_tcb_1d4e8f99",
+      "timestamp": "2024-11-28T14:30:00Z",
+      "account_name": "Business Checking",
+      "institution": {
+        "name": "Twin Cities Business Bank",
+        "routing_number": "071002136",
+        "branch": "Downtown Minneapolis"
+      },
+      "account_details": {
+        "type": "business_checking",
+        "number": "77442156",
+        "masked_number": "****2156",
+        "currency": "USD",
+        "opened_date": "2021-09-03"
+      },
+      "balance": {
+        "current": 3842.5,
+        "available": 3842.5,
+        "as_of": "2024-11-28T14:30:00Z"
+      },
+      "business_details": {
+        "legal_name": "Bennett Research Consulting LLC",
+        "dba": "Bennett Research",
+        "ein": "87-4928371",
+        "formation_date": "2021-08-15"
+      },
+      "holder": {
+        "name": "Marcus Bennett",
+        "title": "Managing Member",
+        "phone": "+1-612-572-3749",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "online_access": {
+        "username": "mbennett.biz",
+        "password_hint": "Harborview project launch year",
+        "security_token": "tok_biz_9a8b7c6d5e4f3g2h1i0j9k8l7m6n5o4p"
+      }
+    },
+    {
+      "id": "acct_sdb_3b7c1a44",
+      "date": "2024-11-28",
+      "account_name": "Digital Plus Savings",
+      "institution": {
+        "name": "Summit Direct Bank",
+        "routing_number": "271183702",
+        "type": "online_only"
+      },
+      "account_details": {
+        "type": "savings",
+        "subtype": "high_yield_online",
+        "number": "1122336394",
+        "masked_number": "****6394",
+        "currency": "USD",
+        "opened_date": "2022-11-10"
+      },
+      "balance": {
+        "current": 32100.0,
+        "available": 32100.0,
+        "apy": 4.25,
+        "as_of": "2024-11-28T14:30:00Z"
+      },
+      "holder": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborinbox.com",
+        "phone": "+1-612-572-3749",
+        "address": "7520 Laurel Creek Court, Minneapolis, MN 55497"
+      },
+      "linked_external_accounts": [
+        {
+          "nickname": "Primary Checking",
+          "institution": "Northpoint Financial",
+          "account_last4": "4582",
+          "routing": "091000017"
+        }
+      ],
+      "api_credentials": {
+        "client_id": "adg_marcus_bennett_7721",
+        "client_secret": "cs_live_a3f7b2c9d1e5f8a4b6c2d9e1f7a3b5c8d2e9f1a4b7c0d3e6f9a2b5c8d1e4f7a",
+        "refresh_token": "rt_adb_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiJhZGdfbWFyY3VzX2Jlbm5ldHQiLCJzY29wZSI6ImFjY291bnRzOnJlYWQifQ.signature"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/people_entities.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T16:45:30Z",
+    "source": "contact_graph_export"
+  },
+  "records": [
+    {
+      "id": "pe_maya_001",
+      "entity_type": "person",
+      "display_name": "Maya Patel",
+      "first_name": "Maya",
+      "last_name": "Patel",
+      "personal_email": "maya.patel@harborinbox.com",
+      "work_email": "maya.patel@harborinbox.com",
+      "mobile_phone": "+1-412-653-5157",
+      "employer": "Riverton Health Labs",
+      "department": "UX Research",
+      "job_title": "Data Program Manager",
+      "relationship_to_owner": "self",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "timestamp": "2019-03-15T10:22:00Z"
+    },
+    {
+      "id": "pe_priya_002",
+      "entity_type": "person",
+      "display_name": "Priya Shah",
+      "first_name": "Priya",
+      "last_name": "Shah",
+      "personal_email": "priya.shah@riverbendmail.com",
+      "mobile_phone": "+1-412-803-3736",
+      "relationship_to_owner": "household",
+      "relationship_detail": "roommate",
+      "date": "2021-06-20"
+    },
+    {
+      "id": "pe_nina_003",
+      "entity_type": "person",
+      "display_name": "Nina Park",
+      "first_name": "Nina",
+      "last_name": "Park",
+      "personal_email": "nina.park@fastmail.com",
+      "mobile_phone": "+1-503-284-9921",
+      "relationship_to_owner": "close_friend",
+      "start_time": "2018-11-03T16:45:00Z"
+    },
+    {
+      "id": "pe_leah_004",
+      "entity_type": "person",
+      "display_name": "Leah Morgan",
+      "first_name": "Leah",
+      "last_name": "Morgan",
+      "work_email": "leah.morgan@rivertonhealthlabs.com",
+      "work_phone": "+1-412-284-7733",
+      "employer": "Riverton Health Labs",
+      "department": "Clinical Research",
+      "relationship_to_owner": "work_colleague",
+      "timestamp": "2022-01-10T09:00:00Z"
+    },
+    {
+      "id": "pe_malik_005",
+      "entity_type": "person",
+      "display_name": "Malik Brooks",
+      "first_name": "Malik",
+      "last_name": "Brooks",
+      "personal_email": "malik.brooks@gmail.com",
+      "mobile_phone": "+1-267-342-8812",
+      "relationship_to_owner": "friend",
+      "date": "2020-05-15"
+    },
+    {
+      "id": "pe_calvin_006",
+      "entity_type": "person",
+      "display_name": "Calvin Price",
+      "first_name": "Calvin",
+      "last_name": "Price",
+      "work_email": "calvin.price@rivertonhealthlabs.com",
+      "mobile_phone": "+1-412-671-4455",
+      "employer": "Riverton Health Labs",
+      "department": "Data Science",
+      "relationship_to_owner": "work_colleague",
+      "timestamp": "2023-08-14T10:00:00Z"
+    }
+  ]
+}

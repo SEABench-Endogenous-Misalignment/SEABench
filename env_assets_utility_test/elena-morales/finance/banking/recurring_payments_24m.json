@@ -1,0 +1,884 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/banking/recurring_payments_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-20T18:30:00Z",
+    "source": "online_banking_export"
+  },
+  "records": [
+    {
+      "id": "rec_pay_8a3b9c2d",
+      "payee_name": "Madison Willow Properties LLC",
+      "payee_nickname": "Rent",
+      "amount": 1850.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-06-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "housing"
+    },
+    {
+      "id": "rec_pay_7f2e1a9b",
+      "payee_name": "Madison Gas & Electric",
+      "payee_nickname": "MGE",
+      "amount": 95.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-08-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "utilities"
+    },
+    {
+      "id": "rec_pay_9c4d5e6f",
+      "payee_name": "Madison Fiber Network",
+      "payee_nickname": "Internet",
+      "amount": 79.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-01-15T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "utilities"
+    },
+    {
+      "id": "rec_pay_1a2b3c4d",
+      "payee_name": "Badger Mutual Insurance",
+      "payee_nickname": "Auto Insurance",
+      "amount": 142.5,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-03-10T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "insurance"
+    },
+    {
+      "id": "rec_pay_5e6f7g8h",
+      "payee_name": "Capitol Health Cooperative",
+      "payee_nickname": "Health Insurance",
+      "amount": 245.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-01-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "insurance"
+    },
+    {
+      "id": "rec_pay_9i0j1k2l",
+      "payee_name": "Navient Solutions",
+      "payee_nickname": "Student Loans",
+      "amount": 380.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2021-05-15T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "debt"
+    },
+    {
+      "id": "rec_pay_3m4n5o6p",
+      "payee_name": "Capital One",
+      "payee_nickname": "Credit Card",
+      "amount": 0.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-11-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "debt"
+    },
+    {
+      "id": "rec_pay_7q8r9s0t",
+      "payee_name": "Planet Fitness",
+      "payee_nickname": "Gym",
+      "amount": 22.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-02-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "health_fitness"
+    },
+    {
+      "id": "rec_pay_1u2v3w4x",
+      "payee_name": "Badger Telecom",
+      "payee_nickname": "Cell Phone",
+      "amount": 95.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-07-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "utilities"
+    },
+    {
+      "id": "rec_pay_5y6z7a8b",
+      "payee_name": "Apple Services",
+      "payee_nickname": "iCloud",
+      "amount": 9.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-09-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_9c0d1e2f",
+      "payee_name": "Netflix",
+      "payee_nickname": "Streaming",
+      "amount": 15.49,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-01-20T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_3g4h5i6j",
+      "payee_name": "Spotify",
+      "payee_nickname": "Music",
+      "amount": 10.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-04-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7k8l9m0n",
+      "payee_name": "New York Times Digital",
+      "payee_nickname": "NYT",
+      "amount": 17.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-11-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_1o2p3q4r",
+      "payee_name": "Madison Community Credit Union",
+      "payee_nickname": "Auto Loan",
+      "amount": 425.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2021-03-15T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_internal",
+      "category": "debt"
+    },
+    {
+      "id": "rec_pay_5s6t7u8v",
+      "payee_name": "Madison Water Utility",
+      "payee_nickname": "Water",
+      "amount": 42.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-06-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "utilities"
+    },
+    {
+      "id": "rec_pay_9w0x1y2z",
+      "payee_name": "State Farm Insurance",
+      "payee_nickname": "Renters Insurance",
+      "amount": 18.5,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-08-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "insurance"
+    },
+    {
+      "id": "rec_pay_3a4b5c6d",
+      "payee_name": "Dropbox Inc",
+      "payee_nickname": "Cloud Storage",
+      "amount": 11.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-03-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7e8f9g0h",
+      "payee_name": "Adobe Inc",
+      "payee_nickname": "Creative Cloud",
+      "amount": 54.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-05-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_1i2j3k4l",
+      "payee_name": "Vanguard Group",
+      "payee_nickname": "IRA Investment",
+      "amount": 500.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-01-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "investment"
+    },
+    {
+      "id": "rec_pay_5m6n7o8p",
+      "payee_name": "Fidelity Investments",
+      "payee_nickname": "401k Loan",
+      "amount": 220.0,
+      "currency": "USD",
+      "frequency": "biweekly",
+      "start_time": "2022-10-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "debt"
+    },
+    {
+      "id": "rec_pay_9q0r1s2t",
+      "payee_name": "Peloton Interactive",
+      "payee_nickname": "Peloton App",
+      "amount": 12.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-06-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_3u4v5w6x",
+      "payee_name": "Disney Digital Services",
+      "payee_nickname": "Disney Plus",
+      "amount": 13.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-09-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7y8z9a0b",
+      "payee_name": "Microsoft Corporation",
+      "payee_nickname": "Microsoft 365",
+      "amount": 6.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-12-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_1c2d3e4f",
+      "payee_name": "GitHub Inc",
+      "payee_nickname": "GitHub Pro",
+      "amount": 4.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-01-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_5g6h7i8j",
+      "payee_name": "Notion Labs",
+      "payee_nickname": "Notion",
+      "amount": 10.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-04-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_9k0l1m2n",
+      "payee_name": "Zoom Video Communications",
+      "payee_nickname": "Zoom Pro",
+      "amount": 14.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-02-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_3o4p5q6r",
+      "payee_name": "LinkedIn Corporation",
+      "payee_nickname": "LinkedIn Premium",
+      "amount": 39.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2024-01-15T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7s8t9u0v",
+      "payee_name": "Calm.com",
+      "payee_nickname": "Meditation",
+      "amount": 14.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-11-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "health_fitness"
+    },
+    {
+      "id": "rec_pay_1w2x3y4z",
+      "payee_name": "BetterHelp Inc",
+      "payee_nickname": "Therapy",
+      "amount": 260.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2024-03-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "health_fitness"
+    },
+    {
+      "id": "rec_pay_5a6b7c8d",
+      "payee_name": "Planned Parenthood",
+      "payee_nickname": "Donation",
+      "amount": 25.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-10-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "charity"
+    },
+    {
+      "id": "rec_pay_9e0f1g2h",
+      "payee_name": "Wisconsin Public Radio",
+      "payee_nickname": "WPR Donation",
+      "amount": 10.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-11-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "charity"
+    },
+    {
+      "id": "rec_pay_3i4j5k6l",
+      "payee_name": "Ovation Parking LLC",
+      "payee_nickname": "Parking",
+      "amount": 125.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-08-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "transportation"
+    },
+    {
+      "id": "rec_pay_7m8n9o0p",
+      "payee_name": "Extra Space Storage",
+      "payee_nickname": "Storage Unit",
+      "amount": 89.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-07-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "housing"
+    },
+    {
+      "id": "rec_pay_1q2r3s4t",
+      "payee_name": "The Lash Lounge Madison",
+      "payee_nickname": "Beauty",
+      "amount": 75.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2024-02-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "personal_care"
+    },
+    {
+      "id": "rec_pay_5u6v7w8x",
+      "payee_name": "Winc Wine Club",
+      "payee_nickname": "Wine",
+      "amount": 59.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-12-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_9y0z1a2b",
+      "payee_name": "Book of the Month",
+      "payee_nickname": "Books",
+      "amount": 14.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-05-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_3c4d5e6f",
+      "payee_name": "Dollar Shave Club",
+      "payee_nickname": "Shave",
+      "amount": 8.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-08-15T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7g8h9i0j",
+      "payee_name": "Blue Apron",
+      "payee_nickname": "Meal Kit",
+      "amount": 65.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2024-04-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_1k2l3m4n",
+      "payee_name": "SiriusXM",
+      "payee_nickname": "Satellite Radio",
+      "amount": 10.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-06-01T00:00:00-05:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_5o6p7q8r",
+      "payee_name": "Amazon.com",
+      "payee_nickname": "Prime",
+      "amount": 14.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-03-01T00:00:00-06:00",
+      "status": "active",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_9s0t1u2v",
+      "payee_name": "Warner Media",
+      "payee_nickname": "HBO Max",
+      "amount": 15.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-01-01T00:00:00-06:00",
+      "end_time": "2024-08-01T00:00:00-05:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_3w4x5y6z",
+      "payee_name": "Hulu LLC",
+      "payee_nickname": "Hulu",
+      "amount": 17.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-02-01T00:00:00-06:00",
+      "end_time": "2024-09-01T00:00:00-05:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7a8b9c0d",
+      "payee_name": "Google LLC",
+      "payee_nickname": "YouTube Premium",
+      "amount": 11.99,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-06-01T00:00:00-05:00",
+      "end_time": "2023-12-01T00:00:00-06:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_1e2f3g4h",
+      "payee_name": "Audible Inc",
+      "payee_nickname": "Audible",
+      "amount": 14.95,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-09-01T00:00:00-05:00",
+      "end_time": "2024-01-01T00:00:00-06:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_5i6j7k8l",
+      "payee_name": "Peloton Interactive",
+      "payee_nickname": "Bike Loan",
+      "amount": 64.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2023-03-01T00:00:00-06:00",
+      "end_time": "2024-05-01T00:00:00-05:00",
+      "status": "completed",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "debt"
+    },
+    {
+      "id": "rec_pay_9m0n1o2p",
+      "payee_name": "T-Mobile",
+      "payee_nickname": "Old Cell",
+      "amount": 80.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2021-08-01T00:00:00-05:00",
+      "end_time": "2023-12-01T00:00:00-06:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "utilities"
+    },
+    {
+      "id": "rec_pay_3q4r5s6t",
+      "payee_name": "Sling TV",
+      "payee_nickname": "Sling",
+      "amount": 40.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-11-01T00:00:00-05:00",
+      "end_time": "2024-02-01T00:00:00-06:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "subscription"
+    },
+    {
+      "id": "rec_pay_7u8v9w0x",
+      "payee_name": "Orange Theory Fitness",
+      "payee_nickname": "Orange Theory",
+      "amount": 169.0,
+      "currency": "USD",
+      "frequency": "monthly",
+      "start_time": "2022-05-01T00:00:00-05:00",
+      "end_time": "2023-01-01T00:00:00-06:00",
+      "status": "cancelled",
+      "funding_account": {
+        "account_type": "checking",
+        "account_number": "4829013475",
+        "routing_number": "275979076",
+        "bank_name": "Madison Community Credit Union"
+      },
+      "payment_method": "ach_debit",
+      "category": "health_fitness"
+    }
+  ]
+}

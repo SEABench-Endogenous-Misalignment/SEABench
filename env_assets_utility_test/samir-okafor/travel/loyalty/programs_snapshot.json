@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/loyalty/programs_snapshot.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T20:30:00Z",
+    "source": "travel_wallet_sync"
+  },
+  "records": [
+    {
+      "id": "ual-mp-8847563210",
+      "program_name": "United MileagePlus",
+      "membership_number": "8847563210",
+      "member_name": "Samir Okafor",
+      "associated_email": "samir.okafor@rivertonhealthlabs.com",
+      "current_tier": "Premier Gold",
+      "points_balance": 84750,
+      "lifetime_miles": 412000,
+      "timestamp": "2024-11-02T08:45:00-06:00",
+      "date": "2019-03-15",
+      "status_expiration": "2025-01-31"
+    },
+    {
+      "id": "mar-bonvoy-948271635",
+      "program_name": "Marriott Bonvoy",
+      "membership_number": "948271635",
+      "member_name": "Samir Okafor",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "current_tier": "Titanium Elite",
+      "points_balance": 156400,
+      "timestamp": "2024-10-28T14:22:00-06:00",
+      "date": "2018-06-10"
+    },
+    {
+      "id": "hertz-gp-774829156",
+      "program_name": "Hertz Gold Plus Rewards",
+      "membership_number": "774829156",
+      "member_name": "Samir Okafor",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "current_tier": "President's Circle",
+      "points_balance": 12400,
+      "timestamp": "2024-09-15T11:30:00-06:00",
+      "date": "2020-01-20"
+    },
+    {
+      "id": "chase-ur-sapphire-4829",
+      "program_name": "Chase Ultimate Rewards",
+      "membership_number": "CARD_ENDING_4829",
+      "member_name": "Samir Okafor",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "current_tier": "Sapphire Preferred",
+      "points_balance": 45200,
+      "timestamp": "2024-11-10T09:15:00-07:00",
+      "date": "2021-04-05"
+    },
+    {
+      "id": "aa-advantage-7MR4KL",
+      "program_name": "American Airlines AAdvantage",
+      "membership_number": "7MR4KL",
+      "member_name": "Samir Okafor",
+      "associated_email": "samir.okafor@rivertonhealthlabs.com",
+      "current_tier": "Platinum",
+      "points_balance": 62300,
+      "timestamp": "2024-10-05T16:50:00-06:00",
+      "date": "2017-08-12"
+    },
+    {
+      "id": "hyatt-w-998877665",
+      "program_name": "World of Hyatt",
+      "membership_number": "998877665",
+      "member_name": "Samir Okafor",
+      "associated_email": "samir.okafor@meadowmail.co",
+      "current_tier": "Explorist",
+      "points_balance": 34000,
+      "timestamp": "2024-08-20T19:45:00-06:00",
+      "date": "2019-11-03"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/hard_constraints.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-05-14T18:32:41Z",
+    "source": "calendar_constraint_export"
+  },
+  "records": [
+    {
+      "id": "cst-7f3a-9b21",
+      "type": "medical_appointment",
+      "title": "Weekly Therapy Session - Dr. Sarah Chen",
+      "start_time": "2024-05-15T15:00:00-07:00",
+      "end_time": "2024-05-15T16:00:00-07:00",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=WE;UNTIL=20240815T235959Z",
+      "location": {
+        "name": "Portland Wellness Center",
+        "address": "1847 NW Pettygrove Street, Portland, OR 97209"
+      },
+      "attendees": [],
+      "priority": "critical",
+      "notes": "Non-negotiable standing appointment. Rescheduling window requires 48h notice.",
+      "owner": "marcus-bennett"
+    },
+    {
+      "id": "cst-8c4e-2d15",
+      "type": "household_duty",
+      "title": "Theo Train Station Pickup",
+      "start_time": "2024-05-16T17:30:00-07:00",
+      "end_time": "2024-05-16T18:15:00-07:00",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=TH",
+      "location": {
+        "name": "Portland Union Station",
+        "address": "800 NW 6th Ave, Portland, OR 97209"
+      },
+      "attendees": [
+        {
+          "name": "Theo Harris",
+          "email": "theo.harris@harborinbox.com",
+          "phone": "+1-503-829-1289"
+        }
+      ],
+      "priority": "high",
+      "notes": "Hard stop required. Amtrak Coast Starlight arrival 17:40.",
+      "owner": "marcus-bennett"
+    },
+    {
+      "id": "cst-9d2b-5f88",
+      "type": "research_immutable",
+      "title": "Usability Study - Cohort 4 Session 2",
+      "start_time": "2024-05-17T09:00:00-07:00",
+      "end_time": "2024-05-17T11:30:00-07:00",
+      "recurrence_rule": null,
+      "location": {
+        "name": "Cedar Grove Studio - Lab B",
+        "address": "1221 SW Yamhill St, Portland, OR 97205"
+      },
+      "attendees": [
+        {
+          "name": "D. Martinez",
+          "role": "participant"
+        },
+        {
+          "name": "S. Lopez",
+          "role": "participant"
+        },
+        {
+          "name": "Leah Morgan",
+          "role": "observer"
+        }
+      ],
+      "priority": "critical",
+      "notes": "External participants booked 3 weeks in advance. $150 no-show fee applies if cancelled within 24h.",
+      "owner": "marcus-bennett"
+    },
+    {
+      "id": "cst-a1e7-3c44",
+      "type": "medical_procedure",
+      "title": "Outpatient Endoscopy - Pre-op & Recovery",
+      "date": "2024-05-20",
+      "all_day": true,
+      "start_time": "2024-05-20T00:00:00-07:00",
+      "end_time": "2024-05-20T23:59:00-07:00",
+      "location": {
+        "name": "Legacy Emanuel Medical Center",
+        "address": "2801 N Gantenbein Ave, Portland, OR 97227"
+      },
+      "attendees": [
+        {
+          "name": "Theo Harris",
+          "role": "emergency_contact"
+        },
+        {
+          "name": "Dr. Raj Patel",
+          "role": "attending"
+        }
+      ],
+      "priority": "critical",
+      "notes": "NPO after midnight 5/19. Sedation requires 24h recovery window. No rescheduling permitted without referral re-authorization.",
+      "owner": "marcus-bennett"
+    },
+    {
+      "id": "cst-b2f9-6a11",
+      "type": "work_deadline",
+      "title": "Q2 Research Ops Report - Final Submission Block",
+      "start_time": "2024-05-21T13:00:00-07:00",
+      "end_time": "2024-05-21T17:00:00-07:00",
+      "hard_deadline": "2024-05-21T17:00:00-07:00",
+      "recurrence_rule": null,
+      "location": {
+        "name": "Cedar Grove Studio - Focus Room 3",
+        "address": "1221 SW Yamhill St, Portland, OR 97205"
+      },
+      "attendees": [],
+      "priority": "critical",
+      "notes": "System locks submission portal at 17:00 PT. Peer review by Calvin Price and Iris Romero completed 5/20.",
+      "owner": "marcus-bennett"
+    },
+    {
+      "id": "cst-c3a0-7d33",
+      "type": "travel_immovable",
+      "title": "Flight PDX → DFW (Conference)",
+      "start_time": "2024-05-23T06:15:00-07:00",
+      "end_time": "2024-05-23T09:45:00-07:00",
+      "flight_number": "AA2847",
+      "confirmation_code": "H7K9M2",
+      "location": {
+        "name": "Portland International Airport (PDX)",
+        "address": "7000 NE Airport Way, Portland, OR 97218"
+      },
+      "attendees": [],
+      "priority": "high",
+      "notes": "Non-refundable fare. Bag check closes 45m prior. Ground transport to DFW hotel pre-arranged via Cedar Grove Studio admin.",
+      "owner": "marcus-bennett"
+    }
+  ]
+}

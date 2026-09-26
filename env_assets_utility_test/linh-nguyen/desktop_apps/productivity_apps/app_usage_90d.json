@@ -1,0 +1,232 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/productivity_apps/app_usage_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T23:45:00Z",
+    "source": "productivity_monitor_export"
+  },
+  "records": [
+    {
+      "id": "au-9f4e2d1c",
+      "app_name": "Slack",
+      "start_time": "2024-11-27T09:00:00-07:00",
+      "end_time": "2024-11-27T09:25:00-07:00",
+      "duration_seconds": 1500,
+      "window_title": "Brightline Systems | Product Ops - Slack",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-8b3c7a5f",
+      "app_name": "Notion",
+      "start_time": "2024-11-26T14:30:00-07:00",
+      "end_time": "2024-11-26T15:15:00-07:00",
+      "duration_seconds": 2700,
+      "window_title": "Q4 OKR Review - Notion",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-2d1e8f4a",
+      "app_name": "Zoom",
+      "start_time": "2024-11-25T10:00:00-07:00",
+      "end_time": "2024-11-25T11:00:00-07:00",
+      "duration_seconds": 3600,
+      "window_title": "Weekly Sync: Product Ops - Zoom",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-5c9a3b7d",
+      "app_name": "Asana",
+      "start_time": "2024-11-20T16:00:00-07:00",
+      "end_time": "2024-11-20T16:45:00-07:00",
+      "duration_seconds": 2700,
+      "window_title": "Campaign Launch Timeline - Asana",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-1a6b4c8e",
+      "app_name": "Microsoft Excel",
+      "start_time": "2024-11-15T11:30:00-07:00",
+      "end_time": "2024-11-15T12:15:00-07:00",
+      "duration_seconds": 2700,
+      "window_title": "Budget_Forecast_Q4.xlsx - Excel",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-3f8e2b6a",
+      "app_name": "Visual Studio Code",
+      "start_time": "2024-11-01T09:15:00-06:00",
+      "end_time": "2024-11-01T09:45:00-06:00",
+      "duration_seconds": 1800,
+      "window_title": "data_analysis.py - Visual Studio Code",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-7d2c5f9b",
+      "app_name": "Linear",
+      "start_time": "2024-10-28T13:00:00-06:00",
+      "end_time": "2024-10-28T13:30:00-06:00",
+      "duration_seconds": 1800,
+      "window_title": "OPS-442 Bug fix verification - Linear",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-4e9a1c5d",
+      "app_name": "Figma",
+      "start_time": "2024-10-15T10:30:00-06:00",
+      "end_time": "2024-10-15T11:15:00-06:00",
+      "duration_seconds": 2700,
+      "window_title": "Dashboard Mockups v3 - Figma",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-6b3f8e2a",
+      "app_name": "Terminal",
+      "start_time": "2024-10-05T19:00:00-06:00",
+      "end_time": "2024-10-05T19:20:00-06:00",
+      "duration_seconds": 1200,
+      "window_title": "linh@macbook-pro: ~/projects - Terminal",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-9c5d1a7f",
+      "app_name": "Google Chrome",
+      "start_time": "2024-09-30T12:00:00-06:00",
+      "end_time": "2024-09-30T12:10:00-06:00",
+      "duration_seconds": 600,
+      "window_title": "Brightline Systems Admin Panel - Google Chrome",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-2a8e4c6b",
+      "app_name": "Adobe Acrobat",
+      "start_time": "2024-09-20T09:45:00-06:00",
+      "end_time": "2024-09-20T10:05:00-06:00",
+      "duration_seconds": 1200,
+      "window_title": "Contract_Amendment_v2.pdf - Adobe Acrobat",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-5f1b9d3e",
+      "app_name": "Calendar",
+      "start_time": "2024-09-15T15:00:00-06:00",
+      "end_time": "2024-09-15T15:05:00-06:00",
+      "duration_seconds": 300,
+      "window_title": "Calendar - September 2024",
+      "device_name": "Linh-iPhone-14",
+      "platform": "iOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-8d4a2c7f",
+      "app_name": "Slack",
+      "start_time": "2024-09-05T20:30:00-06:00",
+      "end_time": "2024-09-05T20:45:00-06:00",
+      "duration_seconds": 900,
+      "window_title": "Design Team Channel - Slack",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-1e7b5a9c",
+      "app_name": "Notion",
+      "start_time": "2024-08-30T08:00:00-06:00",
+      "end_time": "2024-08-30T08:40:00-06:00",
+      "duration_seconds": 2400,
+      "window_title": "Meeting Notes Archive - Notion",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-3c6f8e1b",
+      "app_name": "Zoom",
+      "start_time": "2024-08-29T14:00:00-06:00",
+      "end_time": "2024-08-29T14:30:00-06:00",
+      "duration_seconds": 1800,
+      "window_title": "1:1 with Calvin Price - Zoom",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-7a2e5d8f",
+      "app_name": "Asana",
+      "start_time": "2024-09-10T11:00:00-06:00",
+      "end_time": "2024-09-10T11:45:00-06:00",
+      "duration_seconds": 2700,
+      "window_title": "Sprint Retrospective Board - Asana",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-4b9c1f6e",
+      "app_name": "Microsoft Outlook",
+      "start_time": "2024-10-10T16:30:00-06:00",
+      "end_time": "2024-10-10T16:50:00-06:00",
+      "duration_seconds": 1200,
+      "window_title": "Inbox - Microsoft Outlook",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-6d3a8b2c",
+      "app_name": "Safari",
+      "start_time": "2024-11-10T21:00:00-07:00",
+      "end_time": "2024-11-10T21:15:00-07:00",
+      "duration_seconds": 900,
+      "window_title": "Denver Post - Latest News - Safari",
+      "device_name": "Linh-iPad-Pro",
+      "platform": "iPadOS",
+      "user_account": "linh.nguyen@riverbendmail.com"
+    },
+    {
+      "id": "au-9e5f2c7a",
+      "app_name": "Visual Studio Code",
+      "start_time": "2024-11-05T13:15:00-07:00",
+      "end_time": "2024-11-05T14:00:00-07:00",
+      "duration_seconds": 2700,
+      "window_title": "app_config.yaml - Visual Studio Code",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    },
+    {
+      "id": "au-2f8a4e1d",
+      "app_name": "Microsoft Excel",
+      "start_time": "2024-10-20T10:00:00-06:00",
+      "end_time": "2024-10-20T10:30:00-06:00",
+      "duration_seconds": 1800,
+      "window_title": "Vendor_Comparison_Analysis.xlsx - Excel",
+      "device_name": "Linh-MBP-Work",
+      "platform": "macOS",
+      "user_account": "linh.nguyen@brightlinesystems.com"
+    }
+  ]
+}

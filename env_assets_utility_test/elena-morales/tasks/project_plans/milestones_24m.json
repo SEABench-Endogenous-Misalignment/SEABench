@@ -1,0 +1,492 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/milestones_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-01T16:45:32Z",
+    "source": "project_management_export"
+  },
+  "records": [
+    {
+      "id": "RES-AUT-2023-1042",
+      "date": "2023-03-10",
+      "project_name": "Research Operations Automation",
+      "milestone_name": "Requirements Gathering Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "PLT-ANX-2023-2847",
+      "date": "2023-03-28",
+      "project_name": "Platform Analytics",
+      "milestone_name": "Data Source Integration",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "UX-RES-2023-3156",
+      "date": "2023-04-12",
+      "project_name": "UX Research Initiative",
+      "milestone_name": "Participant Screening Framework",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "DSG-STU-2023-4092",
+      "date": "2023-04-25",
+      "project_name": "Design System Study",
+      "milestone_name": "Literature Review Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "RES-AUT-2023-5234",
+      "date": "2023-05-08",
+      "project_name": "Research Operations Automation",
+      "milestone_name": "Workflow Mapping",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "medium"
+    },
+    {
+      "id": "ACC-AUD-2023-6189",
+      "date": "2023-05-22",
+      "project_name": "Accessibility Audit",
+      "milestone_name": "WCAG Assessment Kickoff",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "PLT-ANX-2023-7291",
+      "date": "2023-06-09",
+      "project_name": "Platform Analytics",
+      "milestone_name": "Dashboard Prototype",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "UX-RES-2023-8456",
+      "date": "2023-06-27",
+      "project_name": "UX Research Initiative",
+      "milestone_name": "Field Study Launch",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "PAR-Pipe-2023-9247",
+      "date": "2023-07-14",
+      "project_name": "Participant Pipeline",
+      "milestone_name": "Recruitment Strategy Finalized",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "RES-REP-2023-10342",
+      "date": "2023-07-28",
+      "project_name": "Research Repository Migration",
+      "milestone_name": "Legacy Data Audit",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "RES-AUT-2023-11456",
+      "date": "2023-08-11",
+      "project_name": "Research Operations Automation",
+      "milestone_name": "Tool Selection Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "DSG-STU-2023-12423",
+      "date": "2023-08-24",
+      "project_name": "Design System Study",
+      "milestone_name": "User Interviews Completed",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "ACC-AUD-2023-13487",
+      "date": "2023-09-07",
+      "project_name": "Accessibility Audit",
+      "milestone_name": "Automated Testing Phase",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "PLT-ANX-2023-14592",
+      "date": "2023-09-21",
+      "project_name": "Platform Analytics",
+      "milestone_name": "Beta Release",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "medium"
+    },
+    {
+      "id": "UX-RES-2023-15634",
+      "date": "2023-10-12",
+      "project_name": "UX Research Initiative",
+      "milestone_name": "Analysis Framework Defined",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "DAT-GOV-2023-16721",
+      "date": "2023-10-26",
+      "project_name": "Data Governance Framework",
+      "milestone_name": "Policy Draft Review",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "RES-REP-2023-17845",
+      "date": "2023-11-09",
+      "project_name": "Research Repository Migration",
+      "milestone_name": "Migration Plan Approved",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "PAR-Pipe-2023-18934",
+      "date": "2023-11-22",
+      "project_name": "Participant Pipeline",
+      "milestone_name": "Screening Tool Deployed",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "RES-AUT-2023-19456",
+      "date": "2023-12-08",
+      "project_name": "Research Operations Automation",
+      "milestone_name": "Pilot Launch",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "CRO-FUN-2023-20567",
+      "date": "2023-12-19",
+      "project_name": "Cross-Functional Study",
+      "milestone_name": "Kickoff Meeting",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "DSG-STU-2024-1042",
+      "date": "2024-01-15",
+      "project_name": "Design System Study",
+      "milestone_name": "Findings Report Delivered",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "ACC-AUD-2024-2847",
+      "date": "2024-01-29",
+      "project_name": "Accessibility Audit",
+      "milestone_name": "Remediation Plan",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "PLT-ANX-2024-3156",
+      "date": "2024-02-09",
+      "project_name": "Platform Analytics",
+      "milestone_name": "Full Rollout Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "UX-RES-2024-4092",
+      "date": "2024-02-23",
+      "project_name": "UX Research Initiative",
+      "milestone_name": "Final Presentation",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "RES-REP-2024-5234",
+      "date": "2024-03-12",
+      "project_name": "Research Repository Migration",
+      "milestone_name": "Data Migration Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "DAT-GOV-2024-6189",
+      "date": "2024-03-28",
+      "project_name": "Data Governance Framework",
+      "milestone_name": "Stakeholder Review",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "PAR-Pipe-2024-7291",
+      "date": "2024-04-11",
+      "project_name": "Participant Pipeline",
+      "milestone_name": "Integration Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "NEW-PLT-2024-8456",
+      "date": "2024-04-25",
+      "project_name": "New Platform Study",
+      "milestone_name": "Protocol Design",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "RES-AUT-2024-9247",
+      "date": "2024-05-10",
+      "project_name": "Research Operations Automation",
+      "milestone_name": "Full Deployment",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "CRO-FUN-2024-10342",
+      "date": "2024-05-23",
+      "project_name": "Cross-Functional Study",
+      "milestone_name": "Data Collection Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "ACC-AUD-2024-11456",
+      "date": "2024-06-13",
+      "project_name": "Accessibility Audit",
+      "milestone_name": "Compliance Report",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "DSG-STU-2024-12423",
+      "date": "2024-06-27",
+      "project_name": "Design System Study",
+      "milestone_name": "Recommendations Finalized",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "ADV-ANL-2024-13487",
+      "date": "2024-07-16",
+      "project_name": "Advanced Analytics",
+      "milestone_name": "ML Model Training",
+      "status": "in_progress",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "RES-REP-2024-14592",
+      "date": "2024-07-30",
+      "project_name": "Research Repository Migration",
+      "milestone_name": "User Training Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "DAT-GOV-2024-15634",
+      "date": "2024-08-09",
+      "project_name": "Data Governance Framework",
+      "milestone_name": "Implementation Phase",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "medium"
+    },
+    {
+      "id": "NEW-PLT-2024-16721",
+      "date": "2024-08-22",
+      "project_name": "New Platform Study",
+      "milestone_name": "Recruitment Closed",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "RES-OP2-2024-17845",
+      "date": "2024-09-10",
+      "project_name": "Research Ops 2.0",
+      "milestone_name": "Requirements Defined",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "CRO-FUN-2024-18934",
+      "date": "2024-09-24",
+      "project_name": "Cross-Functional Study",
+      "milestone_name": "Analysis Phase",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "medium"
+    },
+    {
+      "id": "ACC-ENH-2024-19456",
+      "date": "2024-10-14",
+      "project_name": "Accessibility Enhancements",
+      "milestone_name": "Design Review",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "QUA-REV-2024-20567",
+      "date": "2024-10-28",
+      "project_name": "Quarterly Research Review",
+      "milestone_name": "Synthesis Complete",
+      "status": "completed",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "medium"
+    },
+    {
+      "id": "RES-OPT-2024-21342",
+      "date": "2024-11-08",
+      "project_name": "Research Repository Optimization",
+      "milestone_name": "Performance Tuning",
+      "status": "in_progress",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "medium"
+    },
+    {
+      "id": "ADV-ANL-2024-22891",
+      "date": "2024-11-21",
+      "project_name": "Advanced Analytics",
+      "milestone_name": "Dashboard Launch",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "NEW-PLT-2024-23934",
+      "date": "2024-12-12",
+      "project_name": "New Platform Study",
+      "milestone_name": "Final Report",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "YEA-REV-2024-24567",
+      "date": "2024-12-20",
+      "project_name": "Year-end Operations Review",
+      "milestone_name": "Documentation Archive",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Iris Romero",
+      "priority": "low"
+    },
+    {
+      "id": "RES-OP2-2025-1104",
+      "date": "2025-01-16",
+      "project_name": "Research Ops 2.0",
+      "milestone_name": "Architecture Design",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "STR-PLN-2025-2234",
+      "date": "2025-01-30",
+      "project_name": "Strategic Planning 2025",
+      "milestone_name": "Roadmap Finalized",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Elena Morales",
+      "priority": "high"
+    },
+    {
+      "id": "PLT-RED-2025-3456",
+      "date": "2025-02-13",
+      "project_name": "Platform Redesign Study",
+      "milestone_name": "Concept Testing",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Leah Morgan",
+      "priority": "medium"
+    },
+    {
+      "id": "RES-OP2-2025-4567",
+      "date": "2025-02-27",
+      "project_name": "Research Ops 2.0",
+      "milestone_name": "Vendor Selection",
+      "status": "planned",
+      "owner": "Elena Morales",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    }
+  ]
+}

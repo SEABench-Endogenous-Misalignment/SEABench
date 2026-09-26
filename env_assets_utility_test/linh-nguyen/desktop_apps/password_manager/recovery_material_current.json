@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/recovery_material_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-27T20:15:32Z",
+    "source": "vault_recovery_export"
+  },
+  "records": [
+    {
+      "id": "pmr-2024-001",
+      "timestamp": "2024-11-27T20:15:32Z",
+      "material_type": "master_password_recovery_kit",
+      "vault_id": "ln-vault-primary",
+      "encrypted_recovery_kit": "ENC[AES256_GCM]:c2FsdGVka2V5d2l0aGl2N2hhc2hkYXRhZXhhbXBsZWZvcm1hdGNoaW5ncGF0dGVybg==",
+      "recovery_hint": "First apartment in Denver plus year",
+      "last_verified": "2024-10-15T09:30:00Z"
+    },
+    {
+      "id": "pmr-2024-002",
+      "date": "2024-11-27",
+      "material_type": "two_factor_backup_codes",
+      "service": "Microsoft 365",
+      "account": "linh.nguyen@brightlinesystems.com",
+      "backup_codes": [
+        "78432910",
+        "56478239",
+        "90123456",
+        "78901234",
+        "56789012"
+      ],
+      "generated_date": "2024-09-12T14:22:00Z",
+      "codes_remaining": 5
+    },
+    {
+      "id": "pmr-2024-003",
+      "timestamp": "2024-11-27T20:15:32Z",
+      "material_type": "emergency_access_grant",
+      "vault_id": "ln-vault-primary",
+      "emergency_contact_name": "Leah Morgan",
+      "emergency_contact_email": "leah.morgan@meadowmail.co",
+      "access_code": "EAC-7X9K-M2P4-Q8R1",
+      "waiting_period_hours": 12,
+      "access_level": "full_vault",
+      "status": "active"
+    },
+    {
+      "id": "pmr-2024-004",
+      "timestamp": "2024-11-26T16:45:00Z",
+      "material_type": "security_questions",
+      "service": "Riverbend Mail",
+      "account": "linh.nguyen@riverbendmail.com",
+      "questions": [
+        {
+          "question": "What was the name of your first pet?",
+          "answer": "Mochi"
+        },
+        {
+          "question": "In what city did your parents meet?",
+          "answer": "Little Saigon"
+        }
+      ]
+    },
+    {
+      "id": "pmr-2024-005",
+      "date": "2024-11-27",
+      "material_type": "vault_secret_key",
+      "service": "1Password",
+      "account_email": "linh.nguyen@riverbendmail.com",
+      "secret_key": "A3-9X7K-M2P4-Q8R1-L9M2-N4P6",
+      "master_password_hint": "First apartment number and childhood street",
+      "created_date": "2022-03-15T10:00:00Z"
+    },
+    {
+      "id": "pmr-2024-006",
+      "timestamp": "2024-11-25T11:20:00Z",
+      "material_type": "hardware_key_backup",
+      "device_type": "YubiKey 5 NFC",
+      "serial_number": "13894572",
+      "backup_code": "8855227744113366",
+      "associated_services": [
+        "Google Workspace",
+        "GitHub Enterprise"
+      ],
+      "registration_date": "2024-01-15T09:00:00Z"
+    }
+  ]
+}

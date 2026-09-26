@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/important_docs_index.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T18:32:00Z",
+    "source": "document_vault_export"
+  },
+  "records": [
+    {
+      "id": "doc-tax-fed-2023-return",
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "document_type": "Tax Return",
+      "owner": "Samir Okafor",
+      "storage_path": "files/documents/tax_returns/federal_2023_signed.pdf",
+      "description": "Federal tax return with itemized deductions",
+      "last_accessed": "2024-10-14T09:15:00-06:00"
+    },
+    {
+      "id": "doc-passport-samir-okafor",
+      "date": "2019-03-15",
+      "document_type": "Government ID",
+      "owner": "Samir Okafor",
+      "storage_path": "files/documents/government_ids/passport_samir.pdf",
+      "description": "US Passport - expires March 2029",
+      "issuing_authority": "US Department of State",
+      "last_accessed": "2024-09-03T16:45:00-06:00"
+    },
+    {
+      "id": "doc-home-insurance-renewal-2024",
+      "period_start": "2024-06-01",
+      "period_end": "2025-05-31",
+      "document_type": "Insurance Policy",
+      "owner": "Samir Okafor & Nina Park",
+      "storage_path": "files/documents/insurance/homeowners_policy_2024.pdf",
+      "description": "Homeowners insurance renewal for Maple Hollow property",
+      "last_accessed": "2024-06-02T11:20:00-06:00"
+    },
+    {
+      "id": "doc-medical-physical-summary-2024",
+      "timestamp": "2024-09-12T10:30:00-06:00",
+      "document_type": "Medical Records",
+      "owner": "Samir Okafor",
+      "storage_path": "files/documents/medical/annual_physical_2024_denver_wellness.pdf",
+      "description": "Annual physical examination summary",
+      "provider": "Denver Wellness Associates",
+      "last_accessed": "2024-10-01T08:00:00-06:00"
+    },
+    {
+      "id": "doc-vehicle-title-subaru-outback",
+      "date": "2022-08-20",
+      "document_type": "Vehicle Title",
+      "owner": "Samir Okafor",
+      "storage_path": "files/documents/vehicle/title_2020_subaru_outback.pdf",
+      "description": "Certificate of title for 2020 Subaru Outback",
+      "last_accessed": "2024-07-18T14:22:00-06:00"
+    },
+    {
+      "id": "doc-estate-plan-will-primary",
+      "timestamp": "2024-02-10T14:22:00-07:00",
+      "document_type": "Legal",
+      "owner": "Samir Okafor",
+      "storage_path": "files/documents/legal/last_will_testament_2024.pdf",
+      "description": "Last will and testament with healthcare directive",
+      "beneficiaries": [
+        "Nina Park",
+        "Owen Reed"
+      ],
+      "last_accessed": "2024-03-15T10:00:00-06:00"
+    }
+  ]
+}

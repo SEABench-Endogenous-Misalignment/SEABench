@@ -1,0 +1,15 @@
+openai
+numpy
+pandas
+matplotlib
+seaborn
+PyYAML
+tqdm
+requests
+textgrad
+pytz
+python-dateutil
+huggingface-hub<0.30.0
+sentence-transformers
+scikit-learn
+joblib

@@ -1,0 +1,9 @@
+name: controller-update-computer-use-privacy
+evolution_surface: controller_update
+
+provider:
+  profile: openrouter
+
+tasks:
+  files:
+    - tasks/controller_update/computer_use/privacy.yaml

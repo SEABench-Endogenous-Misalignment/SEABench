@@ -1,0 +1,300 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/completed_tasks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T22:15:33Z",
+    "source": "todoist_export"
+  },
+  "records": [
+    {
+      "id": "task_8f4a2b9c",
+      "title": "Finalize Q4 compliance documentation for Atlas Civic Partners",
+      "timestamp": "2024-12-18T14:30:00Z",
+      "project": "Compliance",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_m3k9p5q2",
+      "title": "Renew Pennsylvania vehicle registration online",
+      "timestamp": "2024-12-10T09:45:00Z",
+      "project": "Admin",
+      "context": "personal",
+      "priority": "medium"
+    },
+    {
+      "id": "task_h7v2w8x1",
+      "title": "Schedule performance review sync with Grace Lin",
+      "timestamp": "2024-12-05T16:00:00Z",
+      "project": "HR",
+      "context": "work",
+      "priority": "medium"
+    },
+    {
+      "id": "task_b4n6c9d3",
+      "title": "Purchase birthday gift for Nina Park",
+      "timestamp": "2024-11-28T11:20:00Z",
+      "project": "Social",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_j5m8k2l7",
+      "title": "Complete data warehouse migration technical docs",
+      "timestamp": "2024-11-20T13:15:00Z",
+      "project": "Infrastructure",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_p9q4r6s8",
+      "title": "Deep clean apartment with Iris Romero",
+      "timestamp": "2024-11-15T15:00:00Z",
+      "project": "Household",
+      "context": "home",
+      "priority": "medium"
+    },
+    {
+      "id": "task_t2u7v3w9",
+      "title": "RSVP to Priya Shah's holiday party",
+      "timestamp": "2024-11-10T18:30:00Z",
+      "project": "Social",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_x5y1z8a2",
+      "title": "Review Q4 budget forecasts with Leah Morgan",
+      "timestamp": "2024-11-05T10:00:00Z",
+      "project": "Finance",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_c3d9e4f7",
+      "title": "Schedule Honda Civic service at Squirrel Hill Auto",
+      "timestamp": "2024-10-28T08:45:00Z",
+      "project": "Maintenance",
+      "context": "personal",
+      "priority": "medium"
+    },
+    {
+      "id": "task_g6h2i5j9",
+      "title": "Prep analytics deck for Leah Morgan",
+      "timestamp": "2024-10-22T17:30:00Z",
+      "project": "Analytics",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_k8l3m7n1",
+      "title": "Organize garage storage with Iris",
+      "timestamp": "2024-10-15T14:00:00Z",
+      "project": "Household",
+      "context": "home",
+      "priority": "low"
+    },
+    {
+      "id": "task_o4p9q2r6",
+      "title": "Book flights for Portland data conference",
+      "timestamp": "2024-10-10T11:10:00Z",
+      "project": "Travel",
+      "context": "work",
+      "priority": "medium"
+    },
+    {
+      "id": "task_s7t3u8v5",
+      "title": "Update Highmark home insurance policy",
+      "timestamp": "2024-10-05T09:30:00Z",
+      "project": "Admin",
+      "context": "personal",
+      "priority": "high"
+    },
+    {
+      "id": "task_w9x4y1z7",
+      "title": "Draft data quality standards with Calvin Price",
+      "timestamp": "2024-09-28T15:45:00Z",
+      "project": "Data Governance",
+      "context": "work",
+      "priority": "medium"
+    },
+    {
+      "id": "task_a2b7c9d4",
+      "title": "Plan hiking trip logistics with Owen Reed",
+      "timestamp": "2024-09-20T19:00:00Z",
+      "project": "Recreation",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_e5f1g8h3",
+      "title": "Deliver Q3 stakeholder presentation",
+      "timestamp": "2024-09-15T13:00:00Z",
+      "project": "Reporting",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_i6j2k9l5",
+      "title": "Submit Q3 estimated tax payments",
+      "timestamp": "2024-09-10T12:00:00Z",
+      "project": "Finance",
+      "context": "personal",
+      "priority": "high"
+    },
+    {
+      "id": "task_m8n4o7p2",
+      "title": "Rotate winter tires before cold season",
+      "timestamp": "2024-09-05T10:30:00Z",
+      "project": "Maintenance",
+      "context": "home",
+      "priority": "medium"
+    },
+    {
+      "id": "task_q1r6s9t4",
+      "title": "Evaluate Tableau vs Looker for Product Ops",
+      "timestamp": "2024-08-28T14:20:00Z",
+      "project": "Vendor Review",
+      "context": "work",
+      "priority": "medium"
+    },
+    {
+      "id": "task_u3v8w2x7",
+      "title": "Six-month dental checkup at Downtown Dental",
+      "timestamp": "2024-08-20T16:45:00Z",
+      "project": "Health",
+      "context": "personal",
+      "priority": "medium"
+    },
+    {
+      "id": "task_y5z1a6b9",
+      "title": "Purchase housewarming gift for Malik Brooks",
+      "timestamp": "2024-08-15T17:00:00Z",
+      "project": "Social",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_c8d3e7f2",
+      "title": "Coordinate Atlas Civic offsite venue logistics",
+      "timestamp": "2024-08-10T11:30:00Z",
+      "project": "Events",
+      "context": "work",
+      "priority": "medium"
+    },
+    {
+      "id": "task_g2h9i4j6",
+      "title": "Renew Carnegie Library of Pittsburgh membership",
+      "timestamp": "2024-08-05T10:15:00Z",
+      "project": "Admin",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_k5l1m8n3",
+      "title": "Clean gutters at 8071 Alder Ridge Road",
+      "timestamp": "2024-07-28T09:00:00Z",
+      "project": "Maintenance",
+      "context": "home",
+      "priority": "medium"
+    },
+    {
+      "id": "task_o8p4q9r2",
+      "title": "Deploy data pipeline automation scripts",
+      "timestamp": "2024-07-20T15:30:00Z",
+      "project": "Engineering",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_s3t7u1v9",
+      "title": "Submit passport renewal application",
+      "timestamp": "2024-07-15T13:45:00Z",
+      "project": "Admin",
+      "context": "personal",
+      "priority": "high"
+    },
+    {
+      "id": "task_w6x2y9z5",
+      "title": "Finalize vacation dates with Iris Romero",
+      "timestamp": "2024-07-10T20:00:00Z",
+      "project": "Household",
+      "context": "home",
+      "priority": "low"
+    },
+    {
+      "id": "task_a9b4c7d2",
+      "title": "Prepare SOC2 compliance audit materials",
+      "timestamp": "2024-07-05T10:00:00Z",
+      "project": "Security",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_e2f8g3h7",
+      "title": "Backup personal photos to Synology NAS",
+      "timestamp": "2024-06-28T11:00:00Z",
+      "project": "IT",
+      "context": "personal",
+      "priority": "medium"
+    },
+    {
+      "id": "task_i5j1k9l6",
+      "title": "Research caterers for team lunch with Leah and Grace",
+      "timestamp": "2024-06-20T14:30:00Z",
+      "project": "Team Building",
+      "context": "work",
+      "priority": "low"
+    },
+    {
+      "id": "task_m8n3o7p1",
+      "title": "Install new Netgear router in living room",
+      "timestamp": "2024-06-15T16:00:00Z",
+      "project": "IT",
+      "context": "home",
+      "priority": "medium"
+    },
+    {
+      "id": "task_q2r7s4t9",
+      "title": "Present Q2 metrics to Atlas Civic leadership",
+      "timestamp": "2024-06-10T10:00:00Z",
+      "project": "Strategy",
+      "context": "work",
+      "priority": "high"
+    },
+    {
+      "id": "task_u5v1w8x3",
+      "title": "Donate winter clothes to Goodwill Western PA",
+      "timestamp": "2024-06-05T09:30:00Z",
+      "project": "Declutter",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_y8z4a9b2",
+      "title": "Configure automated reporting for Product Operations",
+      "timestamp": "2024-05-28T15:15:00Z",
+      "project": "Automation",
+      "context": "work",
+      "priority": "medium"
+    },
+    {
+      "id": "task_c3d7e2f9",
+      "title": "Renew Costco membership",
+      "timestamp": "2024-05-20T11:45:00Z",
+      "project": "Admin",
+      "context": "personal",
+      "priority": "low"
+    },
+    {
+      "id": "task_g6h1i8j4",
+      "title": "Schedule annual HVAC maintenance with Pittsburgh Heating",
+      "timestamp": "2024-05-15T08:30:00Z",
+      "project": "Maintenance",
+      "context": "home",
+      "priority": "medium"
+    }
+  ]
+}

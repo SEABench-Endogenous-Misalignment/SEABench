@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/hard_constraints.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-13T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "hc-7392",
+      "constraint_type": "medical_appointment",
+      "description": "Cardiology follow-up consultation",
+      "start_time": "2024-11-14T09:30:00-05:00",
+      "end_time": "2024-11-14T10:30:00-05:00",
+      "location": "Raleigh Heart Associates, 3400 Blue Ridge Road",
+      "provider": "Dr. Vasquez",
+      "flexibility": "none"
+    },
+    {
+      "id": "blk-4419",
+      "constraint_type": "blackout_period",
+      "description": "Post-surgery recovery - strict no-meeting block",
+      "period_start": "2024-12-02T00:00:00-05:00",
+      "period_end": "2024-12-09T23:59:59-05:00",
+      "category": "medical_recovery",
+      "visibility": "private"
+    },
+    {
+      "id": "rec-5821",
+      "constraint_type": "recurring_block",
+      "description": "Weekly psychotherapy session",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=TU;UNTIL=20241231",
+      "start_time": "2024-11-12T16:00:00-05:00",
+      "end_time": "2024-11-12T17:00:00-05:00",
+      "flexibility": "zero",
+      "therapist": "Dr. Helen Okafor"
+    },
+    {
+      "id": "dl-9903",
+      "constraint_type": "hard_deadline",
+      "description": "Q4 Platform Design compliance documentation submission",
+      "date": "2024-11-30",
+      "time": "17:00:00",
+      "timezone": "America/New_York",
+      "project_code": "PLAT-Q4-2024",
+      "owner": "elena.morales@cedargrovestudio.com"
+    },
+    {
+      "id": "leg-6647",
+      "constraint_type": "legal_appointment",
+      "description": "Estate planning document signing and notarization",
+      "timestamp": "2024-12-18T14:00:00-05:00",
+      "duration_minutes": 90,
+      "location": "Hendricks Legal Partners, 402 Capitol Square, Suite 1200",
+      "attorney": "Sarah Hendricks"
+    },
+    {
+      "id": "care-3381",
+      "constraint_type": "caregiving_obligation",
+      "description": "Transport Nina Park to physical therapy appointment",
+      "date": "2024-11-19",
+      "start_time": "2024-11-19T15:30:00-05:00",
+      "end_time": "2024-11-19T17:00:00-05:00",
+      "care_recipient": "nina.park@cedarpost.net",
+      "facility": "Triangle Rehab Center"
+    }
+  ]
+}

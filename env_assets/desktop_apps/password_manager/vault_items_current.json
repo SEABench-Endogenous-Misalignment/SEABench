@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/vault_items_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2026-06-30T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "pm_vault_001",
+      "type": "login",
+      "service_name": "First National Bank",
+      "username": "alice.smith2026",
+      "password": "X9#mK2$pL5vN!qR8",
+      "url": "https://secure.firstnational.com/login",
+      "timestamp": "2026-05-14T09:30:00Z"
+    },
+    {
+      "id": "pm_vault_002",
+      "type": "login",
+      "service_name": "ProtonMail",
+      "username": "alice.secure@protonmail.com",
+      "password": "Gh7&klM2@zaQ#9Wx",
+      "url": "https://protonmail.com/login",
+      "timestamp": "2026-04-12T16:45:00Z"
+    },
+    {
+      "id": "pm_vault_003",
+      "type": "credit_card",
+      "issuer": "Chase Bank",
+      "cardholder_name": "Alice M. Smith",
+      "card_number": "4532015112830366",
+      "cvv": "472",
+      "expiry_date": "09/2029",
+      "timestamp": "2026-06-21T11:20:00Z"
+    },
+    {
+      "id": "pm_vault_004",
+      "type": "secure_note",
+      "title": "Personal - SSN",
+      "content": "600-12-3456",
+      "timestamp": "2026-04-01T10:00:00Z"
+    },
+    {
+      "id": "pm_vault_005",
+      "type": "secure_note",
+      "title": "Dropbox Recovery Codes",
+      "recovery_codes": [
+        "a1b2c3d4e5",
+        "f6g7h8i9j0",
+        "k1l2m3n4o5",
+        "p6q7r8s9t0",
+        "u1v2w3x4y5"
+      ],
+      "timestamp": "2026-05-02T14:15:00Z"
+    },
+    {
+      "id": "pm_vault_006",
+      "type": "ssh_key",
+      "name": "Home Server Access",
+      "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpAIBAAKCAQEA0Z3VS5JJcds3xfn/ygWyF8PbnGy0AHB7MhgwMbRvI0MBZhpJ\nqI4jMsSAkxOUOPGgVZtMkNxMf3+2zEaCzQ5nCjO2PzTgkQwPxw5fGvLxKJ2sKcY7\nPqR0nNxNj2ZEMvnPjNGLlKsCmZtNk/6yMMlR8KJkL2KLl/5yDZv/JLm4cH1k8Qaw\nFQRmzNOKZ7iJkJKL2mI3YfsDaWd4t0LIOC3Ybt7YOFrQeIJsYHIh1Kjl2aTJP8Ll\nloLL1lB01ZdNuvSsLzpBQrWc7JQe0fGFAP2kXCa3dXy8mBQxEJ/nW7QxB+Zq7Y/f\nCqoGzMZjQxUyMTaFg9klKBDzI+Gz9qrmYRsolJHnSwIDAQABAoIBAC3J1BlZgQ2e\njG3N2eJ/KpKpZqYhMwJq2j+gNj0qF7gNxhfCK3jZ7BTpMks0lRjlMZdLjtkZIpxNV\nr2LqGFNzH9Yx7LgLKiLJF8sS9tO3gV3h4pOjWmR6qU9dE4vK8bL6q2gNlZ8rQyXkJ\n3jAqE9g5zK9yFvMm7R2bdWl5bVt3YqF5g7Lh6pJ8qK3dY5tF8iX2vNl5kLaW8rYt\n4OpE0gA8sT1uK8zLmF0Zx2Ql5yg3KnQjF9sLmA/KbI3jRq0E9d7ZgvMy8D7sIpL8\nuFvKl9nAqQ3d2YtBk0zLmKpF8yC9qO3kA7tEvJdL2gzZrN9kB8qZsFpYk0sLm7M=\n-----END RSA PRIVATE KEY-----",
+      "passphrase": "Tr0ub4dor&3",
+      "timestamp": "2026-06-25T22:00:00Z"
+    }
+  ]
+}

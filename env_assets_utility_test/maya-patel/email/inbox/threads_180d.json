@@ -1,0 +1,684 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/inbox/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T14:32:08Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "thrd_a3f7c9d2e1b8",
+      "timestamp": "2024-12-18T15:00:00Z",
+      "subject": "Plumber coming tomorrow AM",
+      "participants": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 4,
+      "labels": [
+        "inbox",
+        "personal",
+        "household"
+      ],
+      "snippet": "Hey, the property manager finally got back to me. They can send someone between 9 and 12 on Thursday..."
+    },
+    {
+      "id": "thrd_b8e2a1d4c5f9",
+      "timestamp": "2024-12-17T19:22:00Z",
+      "subject": "Important: Your Winter Rate Adjustment",
+      "participants": [
+        {
+          "name": "Northern Star Energy",
+          "email": "billing@northernstarenergy.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "bills",
+        "utilities"
+      ],
+      "snippet": "Your electricity rate will adjust starting January 1, 2025. Previous balance: $124.33. No action needed..."
+    },
+    {
+      "id": "thrd_c1d9e8f7a2b3",
+      "timestamp": "2024-12-15T14:15:00Z",
+      "subject": "Action Required: Security Patch for VPN Client",
+      "participants": [
+        {
+          "name": "Riverton IT Support",
+          "email": "support@rivertonhealthlabs.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 2,
+      "labels": [
+        "inbox",
+        "work",
+        "security"
+      ],
+      "snippet": "Please update your VPN client by December 20th to maintain secure access to internal systems. Link to download..."
+    },
+    {
+      "id": "thrd_d4e5f6a7b8c9",
+      "timestamp": "2024-12-12T12:30:00Z",
+      "subject": "This Week in UX Research: Ethical AI Interviews",
+      "participants": [
+        {
+          "name": "UX Research Weekly",
+          "email": "digest@uxresearchweekly.io",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "newsletter",
+        "ux"
+      ],
+      "snippet": "Top stories: Conducting research with vulnerable populations, new Figma plugins for accessibility testing..."
+    },
+    {
+      "id": "thrd_e8f9a0b1c2d3",
+      "timestamp": "2024-12-09T21:45:00Z",
+      "subject": "Holiday Schedule Updates - Evening Classes Cancelled",
+      "participants": [
+        {
+          "name": "Yoga Flow Pittsburgh",
+          "email": "schedule@yogaflowpgh.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "personal",
+        "health"
+      ],
+      "snippet": "Due to the upcoming holiday travel schedules, we will be cancelling evening vinyasa on Dec 23 and Dec 30..."
+    },
+    {
+      "id": "thrd_f1a2b3c4d5e6",
+      "timestamp": "2024-12-06T16:20:00Z",
+      "subject": "Parking Permit Renewal - Zone 4",
+      "participants": [
+        {
+          "name": "Pittsburgh Municipal Services",
+          "email": "permits@pghmuniservices.org",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 3,
+      "labels": [
+        "inbox",
+        "housing",
+        "city"
+      ],
+      "snippet": "Your residential parking permit for Zone 4 expires on December 31. Renew online to avoid late fees..."
+    },
+    {
+      "id": "thrd_a7b8c9d0e1f2",
+      "timestamp": "2024-12-03T18:10:00Z",
+      "subject": "Maya, your December watchlist is here",
+      "participants": [
+        {
+          "name": "CineStream Plus",
+          "email": "noreply@cinestreamplus.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "entertainment",
+        "promotions"
+      ],
+      "snippet": "New releases this month include documentaries on design thinking and indie thrillers you saved to your list..."
+    },
+    {
+      "id": "thrd_b2c3d4e5f6a7",
+      "timestamp": "2024-11-30T22:00:00Z",
+      "subject": "Final Reminder: Benefits Open Enrollment Closes Today",
+      "participants": [
+        {
+          "name": "Riverton HR",
+          "email": "hr@rivertonhealthlabs.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 5,
+      "labels": [
+        "inbox",
+        "work",
+        "hr"
+      ],
+      "snippet": "Don't forget to select your 2025 health plan and 401k contributions by 11:59 PM tonight. Contact benefits with questions..."
+    },
+    {
+      "id": "thrd_c5d6e7f8a9b0",
+      "timestamp": "2024-11-24T13:55:00Z",
+      "subject": "Water Bill Due - Account ending in 4829",
+      "participants": [
+        {
+          "name": "Allegheny County Utilities",
+          "email": "billing@acutilities.org",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 2,
+      "labels": [
+        "inbox",
+        "bills",
+        "utilities"
+      ],
+      "snippet": "Amount due: $67.50. Due date: December 5, 2024. Pay online or by mail to avoid interruption..."
+    },
+    {
+      "id": "thrd_d8e9f0a1b2c3",
+      "timestamp": "2024-11-19T00:30:00Z",
+      "subject": "Photos from the Diwali party!",
+      "participants": [
+        {
+          "name": "Anita Patel",
+          "email": "anita.patel@northernstar.net",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 3,
+      "labels": [
+        "inbox",
+        "personal",
+        "family"
+      ],
+      "snippet": "It was so lovely to see everyone. Here are the pictures from the celebration at Aunt Vina's house..."
+    },
+    {
+      "id": "thrd_e1f2a3b4c5d6",
+      "timestamp": "2024-11-12T17:15:00Z",
+      "subject": "Order Confirmation #48291 - Harbor Cart",
+      "participants": [
+        {
+          "name": "Harbor Cart",
+          "email": "orders@harborcart.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "shopping",
+        "receipts"
+      ],
+      "snippet": "Thank you for your order! Kitchen organizer set and organic tea assortment. Estimated delivery Nov 15-18..."
+    },
+    {
+      "id": "thrd_f4a5b6c7d8e9",
+      "timestamp": "2024-11-07T15:45:00Z",
+      "subject": "Opening tonight - Hope to see you!",
+      "participants": [
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@riverbendarts.org",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 6,
+      "labels": [
+        "inbox",
+        "personal",
+        "events"
+      ],
+      "snippet": "The gallery opens at 7 PM. I have your name on the guest list plus one. Let me know if you can make it..."
+    },
+    {
+      "id": "thrd_a0b1c2d3e4f5",
+      "timestamp": "2024-11-04T20:20:00Z",
+      "subject": "Figma Design Tokens - Migration Plan",
+      "participants": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 8,
+      "labels": [
+        "inbox",
+        "work",
+        "design"
+      ],
+      "snippet": "Attached is the spreadsheet mapping old variables to new. Please review by Friday so we can schedule the swap..."
+    },
+    {
+      "id": "thrd_b3c4d5e6f7a8",
+      "timestamp": "2024-10-29T18:00:00Z",
+      "subject": "Re: Portfolio feedback",
+      "participants": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@creativestudio.net",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 12,
+      "labels": [
+        "inbox",
+        "personal",
+        "career"
+      ],
+      "snippet": "Thanks for the detailed notes on the case study. I reworked the research section to emphasize the synthesis phase..."
+    },
+    {
+      "id": "thrd_c6d7e8f9a0b1",
+      "timestamp": "2024-10-22T13:10:00Z",
+      "subject": "Data Usage Alert - 85% of monthly allowance",
+      "participants": [
+        {
+          "name": "Allegheny Mobile",
+          "email": "billing@alleghenymobile.net",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "utilities",
+        "mobile"
+      ],
+      "snippet": "You have used 17.2 GB of your 20 GB plan. Cycle resets on November 3. Upgrade options available in your account..."
+    },
+    {
+      "id": "thrd_d9e0f1a2b3c4",
+      "timestamp": "2024-10-15T20:30:00Z",
+      "subject": "Homecoming Weekend - Are you attending?",
+      "participants": [
+        {
+          "name": "Western PA Tech Alumni",
+          "email": "events@wpatechalumni.org",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 2,
+      "labels": [
+        "inbox",
+        "alumni",
+        "events"
+      ],
+      "snippet": "Join us for the annual homecoming celebration on November 2nd. Registration closes soon for the dinner..."
+    },
+    {
+      "id": "thrd_e2f3a4b5c6d7",
+      "timestamp": "2024-10-08T22:45:00Z",
+      "subject": "Tickets confirmed - The National at Stage AE",
+      "participants": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@urbanapt.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 7,
+      "labels": [
+        "inbox",
+        "personal",
+        "tickets"
+      ],
+      "snippet": "Got them! Section B, Row 12. Doors at 7, show at 8. Want to grab dinner beforehand at Station?"
+    },
+    {
+      "id": "thrd_f5a6b7c8d9e0",
+      "timestamp": "2024-10-02T15:05:00Z",
+      "subject": "Q4 Budget Freeze - UX Research Impact",
+      "participants": [
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 4,
+      "labels": [
+        "inbox",
+        "work",
+        "finance"
+      ],
+      "snippet": "Effective immediately, all non-essential travel and software purchases require VP approval. Please submit requests by..."
+    },
+    {
+      "id": "thrd_a8b9c0d1e2f3",
+      "timestamp": "2024-09-25T14:30:00Z",
+      "subject": "Auto Policy Renewal Notice - Policy PA-7748293",
+      "participants": [
+        {
+          "name": "Guardian Shield Insurance",
+          "email": "renewals@guardianshield.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 3,
+      "labels": [
+        "inbox",
+        "insurance",
+        "bills"
+      ],
+      "snippet": "Your 6-month premium will be $892.50, effective November 1. No changes to coverage levels unless you contact us..."
+    },
+    {
+      "id": "thrd_b1c2d3e4f5a6",
+      "timestamp": "2024-09-17T17:50:00Z",
+      "subject": "Hiking this Saturday?",
+      "participants": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@pinesmail.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 9,
+      "labels": [
+        "inbox",
+        "personal",
+        "outdoors"
+      ],
+      "snippet": "Thinking about McConnells Mill State Park. Weather looks perfect, highs in the low 70s. Pack a lunch and we can..."
+    },
+    {
+      "id": "thrd_c4d5e6f7a8b9",
+      "timestamp": "2024-09-10T13:00:00Z",
+      "subject": "Reminder: Annual Physical Appointment - Sept 20",
+      "participants": [
+        {
+          "name": "Oakmont Family Practice",
+          "email": "appointments@oakmontfp.org",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 2,
+      "labels": [
+        "inbox",
+        "health",
+        "appointments"
+      ],
+      "snippet": "This is a reminder of your upcoming appointment with Dr. Sarah Chen at 10:00 AM. Please bring your insurance card..."
+    },
+    {
+      "id": "thrd_d7e8f9a0b1c2",
+      "timestamp": "2024-09-03T20:15:00Z",
+      "subject": "Consent form revisions for pediatric study",
+      "participants": [
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 11,
+      "labels": [
+        "inbox",
+        "work",
+        "research"
+      ],
+      "snippet": "Legal reviewed the template and suggested three changes to the data retention section. I've highlighted them in the doc..."
+    },
+    {
+      "id": "thrd_e0f1a2b3c4d5",
+      "timestamp": "2024-08-28T12:20:00Z",
+      "subject": "ProNet Weekly Digest - 5 articles you missed",
+      "participants": [
+        {
+          "name": "ProNet Connect",
+          "email": "updates@pronetconnect.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "social",
+        "newsletter"
+      ],
+      "snippet": "Your network has been active. Priya Shah posted an update about her new role. Also trending in UX Research..."
+    },
+    {
+      "id": "thrd_f3a4b5c6d7e8",
+      "timestamp": "2024-08-12T23:40:00Z",
+      "subject": "July utilities",
+      "participants": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 6,
+      "labels": [
+        "inbox",
+        "personal",
+        "household"
+      ],
+      "snippet": "Electric was $145, split is $72.50 each. I Venmo'd you my half already, can you confirm you got it?"
+    },
+    {
+      "id": "thrd_a6b7c8d9e0f1",
+      "timestamp": "2024-08-05T18:25:00Z",
+      "subject": "Q3 Research Roadmap - Draft v2",
+      "participants": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@brightlinesystems.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 5,
+      "labels": [
+        "inbox",
+        "work",
+        "planning"
+      ],
+      "snippet": "Attached is the updated roadmap reflecting the new priorities from last week's leadership meeting. The stakeholder..."
+    },
+    {
+      "id": "thrd_b9c0d1e2f3a4",
+      "timestamp": "2024-07-22T14:00:00Z",
+      "subject": "Your statement is ready - Three Rivers Trust",
+      "participants": [
+        {
+          "name": "Three Rivers Trust",
+          "email": "statements@threeriverstrust.com",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 1,
+      "labels": [
+        "inbox",
+        "finance",
+        "statements"
+      ],
+      "snippet": "Your checking account statement for July 2024 is now available. Current balance: $4,281.92. View online..."
+    },
+    {
+      "id": "thrd_c2d3e4f5a6b7",
+      "timestamp": "2024-07-10T20:15:00Z",
+      "subject": "Planning for August reunion?",
+      "participants": [
+        {
+          "name": "Rajan Patel",
+          "email": "rajan.patel@northernstar.net",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 8,
+      "labels": [
+        "inbox",
+        "personal",
+        "family"
+      ],
+      "snippet": "Your mother wants to know if you're bringing anyone to the family reunion. Also, can you pick up your aunt from the airport?"
+    },
+    {
+      "id": "thrd_d5e6f7a8b9c0",
+      "timestamp": "2024-06-25T18:30:00Z",
+      "subject": "Summer Maintenance Schedule - Alder Ridge Road",
+      "participants": [
+        {
+          "name": "Alder Ridge HOA",
+          "email": "info@alderridgehoa.org",
+          "role": "sender"
+        },
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com",
+          "role": "recipient"
+        }
+      ],
+      "message_count": 3,
+      "labels": [
+        "inbox",
+        "housing",
+        "hoa"
+      ],
+      "snippet": "Asphalt sealing will occur July 8-9. Please move all vehicles from the lot by 7 AM on Monday to avoid towing..."
+    }
+  ]
+}

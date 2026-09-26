@@ -1,0 +1,365 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/interaction_edges_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T18:30:00Z",
+    "source": "contact_interaction_sync"
+  },
+  "records": [
+    {
+      "id": "a7f3c9d2-1e4b-4f6a-9c8d-2b5e7f1a3c4d",
+      "timestamp": "2024-12-15T00:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Nina Park",
+      "interaction_type": "dinner",
+      "context": "family",
+      "duration_minutes": 120,
+      "location": "Home"
+    },
+    {
+      "id": "b8d4e0f3-2f5c-5g7b-0d9e-3c6f8g2b4c5d",
+      "timestamp": "2024-12-10T14:30:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Nina Park",
+      "interaction_type": "text_message",
+      "context": "family",
+      "channel": "mobile"
+    },
+    {
+      "id": "c9e5f1a4-3g6d-6h8c-1e0f-4d7g9h3c5d6e",
+      "timestamp": "2024-11-28T19:00:00Z",
+      "source_entity": "Owen Reed",
+      "target_entity": "Elena Morales",
+      "interaction_type": "phone_call",
+      "context": "personal",
+      "duration_minutes": 45,
+      "channel": "mobile"
+    },
+    {
+      "id": "d0f6g2b5-4h7e-7i9d-2f1g-5e8h0i4d6e7f",
+      "timestamp": "2024-11-20T12:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Priya Shah",
+      "interaction_type": "in_person_meeting",
+      "context": "personal",
+      "duration_minutes": 90,
+      "location": "Oakwood Cafe"
+    },
+    {
+      "id": "e1g7h3c6-5i8f-8j0e-3g2h-6f9i1j5e7f8g",
+      "timestamp": "2024-11-15T15:00:00Z",
+      "source_entity": "Leah Morgan",
+      "target_entity": "Elena Morales",
+      "interaction_type": "video_call",
+      "context": "work",
+      "duration_minutes": 60,
+      "channel": "zoom"
+    },
+    {
+      "id": "f2h8i4d7-6j9g-9k1f-4h3i-7g0j2k6f8g9h",
+      "timestamp": "2024-11-05T09:30:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Calvin Price",
+      "interaction_type": "email",
+      "context": "work",
+      "channel": "brightlinesystems"
+    },
+    {
+      "id": "g3i9j5e8-7k0h-0l2g-5i4j-8h1k3l7g9h0i",
+      "timestamp": "2024-10-22T20:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Malik Brooks",
+      "interaction_type": "video_call",
+      "context": "personal",
+      "duration_minutes": 30,
+      "channel": "facetime"
+    },
+    {
+      "id": "h4j0k6f9-8l1i-1m3h-6j5k-9i2l4m8h0i1j",
+      "timestamp": "2024-10-10T11:30:00Z",
+      "source_entity": "Elena Vega",
+      "target_entity": "Elena Morales",
+      "interaction_type": "in_person_meeting",
+      "context": "personal",
+      "duration_minutes": 75,
+      "location": "Downtown Market"
+    },
+    {
+      "id": "i5k1l7g0-9m2j-2n4i-7k6l-0j3m5n9i1j2k",
+      "timestamp": "2024-09-28T13:00:00Z",
+      "source_entity": "Iris Romero",
+      "target_entity": "Elena Morales",
+      "interaction_type": "presentation",
+      "context": "work",
+      "duration_minutes": 120,
+      "location": "Brightline Conference Room B"
+    },
+    {
+      "id": "j6l2m8h1-0n3k-3o5j-8l7m-1k4n6o0j2k3l",
+      "timestamp": "2024-09-15T10:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Grace Lin",
+      "interaction_type": "sync_meeting",
+      "context": "work",
+      "duration_minutes": 30,
+      "channel": "teams"
+    },
+    {
+      "id": "k7m3n9i2-1o4l-4p6k-9m8n-2l5o7p1k3l4m",
+      "timestamp": "2024-09-08T21:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Nina Park",
+      "interaction_type": "movie_night",
+      "context": "family",
+      "duration_minutes": 150,
+      "location": "Regal North Hills"
+    },
+    {
+      "id": "l8n4o0j3-2p5m-5q7l-0n9o-3m6p8q2l4m5n",
+      "timestamp": "2024-08-25T08:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Owen Reed",
+      "interaction_type": "hiking",
+      "context": "personal",
+      "duration_minutes": 240,
+      "location": "Umstead State Park"
+    },
+    {
+      "id": "m9o5p1k4-3q6n-6r8m-1o0p-4n7q9r3m5n6o",
+      "timestamp": "2024-08-12T16:45:00Z",
+      "source_entity": "Priya Shah",
+      "target_entity": "Elena Morales",
+      "interaction_type": "text_message",
+      "context": "personal",
+      "channel": "mobile"
+    },
+    {
+      "id": "n0p6q2l5-4r7o-7s9n-2p1q-5o8r0s4n6o7p",
+      "timestamp": "2024-07-30T19:30:00Z",
+      "source_entity": "Malik Brooks",
+      "target_entity": "Elena Morales",
+      "interaction_type": "dinner",
+      "context": "personal",
+      "duration_minutes": 105,
+      "location": "Sitti Restaurant"
+    },
+    {
+      "id": "o1q7r3m6-5s8p-8t0o-3q2r-6p9s1t5o7p8q",
+      "timestamp": "2024-07-18T14:00:00Z",
+      "source_entity": "Leah Morgan",
+      "target_entity": "Elena Morales",
+      "interaction_type": "performance_review",
+      "context": "work",
+      "duration_minutes": 90,
+      "location": "Brightline Office"
+    },
+    {
+      "id": "p2r8s4n7-6t9q-9u1p-4r3s-7q0t2u6p8q9r",
+      "timestamp": "2024-07-05T11:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Calvin Price",
+      "interaction_type": "phone_call",
+      "context": "work",
+      "duration_minutes": 20,
+      "channel": "work_phone"
+    },
+    {
+      "id": "q3s9t5o8-7u0r-0v2q-5s4t-8r1u3v7q9r0s",
+      "timestamp": "2024-06-20T18:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Elena Vega",
+      "interaction_type": "video_call",
+      "context": "personal",
+      "duration_minutes": 45,
+      "channel": "whatsapp"
+    },
+    {
+      "id": "r4t0u6p9-8v1s-1w3r-6t5u-9s2v4w8r0s1t",
+      "timestamp": "2024-06-15T09:00:00Z",
+      "source_entity": "Iris Romero",
+      "target_entity": "Elena Morales",
+      "interaction_type": "workshop",
+      "context": "work",
+      "duration_minutes": 180,
+      "location": "Tech Hub Raleigh"
+    },
+    {
+      "id": "s5u1v7q0-9w2t-2x4s-7u6v-0t3w5x9s1t2u",
+      "timestamp": "2024-06-01T07:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Nina Park",
+      "interaction_type": "travel",
+      "context": "family",
+      "duration_minutes": 480,
+      "location": "Asheville"
+    },
+    {
+      "id": "t6v2w8r1-0x3u-3y5t-8v7w-1u4x6y0t2u3v",
+      "timestamp": "2024-05-22T13:30:00Z",
+      "source_entity": "Grace Lin",
+      "target_entity": "Elena Morales",
+      "interaction_type": "planning_session",
+      "context": "work",
+      "duration_minutes": 45,
+      "channel": "zoom"
+    },
+    {
+      "id": "u7w3x9s2-1y4v-4z6u-9w8x-2v5y7z1u3v4w",
+      "timestamp": "2024-05-10T08:15:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Owen Reed",
+      "interaction_type": "email",
+      "context": "personal",
+      "channel": "personal_email"
+    },
+    {
+      "id": "v8x4y0t3-2z5w-5a7v-0x9y-3w6z8a2v4w5x",
+      "timestamp": "2024-04-28T15:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Priya Shah",
+      "interaction_type": "video_call",
+      "context": "personal",
+      "duration_minutes": 60,
+      "channel": "google_meet"
+    },
+    {
+      "id": "w9y5z1u4-3a6x-6b8w-1y0z-4x7a9b3w5x6y",
+      "timestamp": "2024-04-15T19:00:00Z",
+      "source_entity": "Malik Brooks",
+      "target_entity": "Elena Morales",
+      "interaction_type": "concert",
+      "context": "personal",
+      "duration_minutes": 210,
+      "location": "Red Hat Amphitheater"
+    },
+    {
+      "id": "x0z6a2v5-4b7y-7c9x-2z1a-5y8b0c4x6y7z",
+      "timestamp": "2024-04-02T16:00:00Z",
+      "source_entity": "Leah Morgan",
+      "target_entity": "Elena Morales",
+      "interaction_type": "one_on_one",
+      "context": "work",
+      "duration_minutes": 30,
+      "location": "Brightline Office"
+    },
+    {
+      "id": "y1a7b3w6-5c8z-8d0y-3a2b-6z9c1d5y7z8a",
+      "timestamp": "2024-03-20T10:30:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Calvin Price",
+      "interaction_type": "chat",
+      "context": "work",
+      "channel": "slack"
+    },
+    {
+      "id": "z2b8c4x7-6d9a-9e1z-4b3c-7a0d2e6z8a9b",
+      "timestamp": "2024-03-08T11:00:00Z",
+      "source_entity": "Elena Vega",
+      "target_entity": "Elena Morales",
+      "interaction_type": "brunch",
+      "context": "personal",
+      "duration_minutes": 120,
+      "location": "Morning Times"
+    },
+    {
+      "id": "a3c9d5y8-7e0b-0f2a-5c4d-8b1e3f7a9b0c",
+      "timestamp": "2024-02-25T09:45:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Iris Romero",
+      "interaction_type": "email",
+      "context": "work",
+      "channel": "outlook"
+    },
+    {
+      "id": "b4d0e6z9-8f1c-1g3b-6d5e-9c2f4g8b0c1d",
+      "timestamp": "2024-02-14T23:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Nina Park",
+      "interaction_type": "celebration",
+      "context": "family",
+      "duration_minutes": 240,
+      "location": "Home"
+    },
+    {
+      "id": "c5e1f7a0-9g2d-2h4c-7e6f-0d3g5h9c1d2e",
+      "timestamp": "2024-02-01T14:00:00Z",
+      "source_entity": "Grace Lin",
+      "target_entity": "Elena Morales",
+      "interaction_type": "project_review",
+      "context": "work",
+      "duration_minutes": 60,
+      "channel": "teams"
+    },
+    {
+      "id": "d6f2g8b1-0h3e-3i5d-8f7g-1e4h6i0d2e3f",
+      "timestamp": "2024-01-20T19:00:00Z",
+      "source_entity": "Owen Reed",
+      "target_entity": "Elena Morales",
+      "interaction_type": "game_night",
+      "context": "personal",
+      "duration_minutes": 180,
+      "location": "Elena's Home"
+    },
+    {
+      "id": "e7g3h9c2-1i4f-4j6e-9g8h-2f5i7j1e3f4g",
+      "timestamp": "2024-01-10T13:00:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Priya Shah",
+      "interaction_type": "shopping",
+      "context": "personal",
+      "duration_minutes": 150,
+      "location": "Crabtree Valley Mall"
+    },
+    {
+      "id": "f8h4i0d3-2j5g-5k7f-0h9i-3g6j8k2f4g5h",
+      "timestamp": "2024-01-08T17:00:00Z",
+      "source_entity": "Malik Brooks",
+      "target_entity": "Elena Morales",
+      "interaction_type": "phone_call",
+      "context": "personal",
+      "duration_minutes": 35,
+      "channel": "mobile"
+    },
+    {
+      "id": "g9i5j1e4-3k6h-6l8g-1i0j-4h7k9l3g5h6i",
+      "timestamp": "2024-01-03T10:00:00Z",
+      "source_entity": "Leah Morgan",
+      "target_entity": "Elena Morales",
+      "interaction_type": "kickoff_meeting",
+      "context": "work",
+      "duration_minutes": 90,
+      "location": "Brightline Office"
+    },
+    {
+      "id": "h0j6k2f5-4l7i-7m9h-2j1k-5i8l0m4h6i7j",
+      "timestamp": "2024-01-12T11:30:00Z",
+      "source_entity": "Elena Morales",
+      "target_entity": "Calvin Price",
+      "interaction_type": "email",
+      "context": "work",
+      "channel": "brightlinesystems"
+    },
+    {
+      "id": "i1k7l3g6-5m8j-8n0i-3k2l-6j9m1n5i7j8k",
+      "timestamp": "2024-01-05T20:00:00Z",
+      "source_entity": "Elena Vega",
+      "target_entity": "Elena Morales",
+      "interaction_type": "party",
+      "context": "personal",
+      "duration_minutes": 300,
+      "location": "The Architect"
+    },
+    {
+      "id": "j2l8m4h7-6n9k-9o1j-4l3m-7k0n2o6j8k9l",
+      "timestamp": "2024-01-18T15:00:00Z",
+      "source_entity": "Iris Romero",
+      "target_entity": "Elena Morales",
+      "interaction_type": "interview",
+      "context": "work",
+      "duration_minutes": 45,
+      "location": "Brightline Systems HQ"
+    }
+  ]
+}

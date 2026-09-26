@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/open_tabs_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-02T20:15:30Z",
+    "source": "browser_session_export"
+  },
+  "records": [
+    {
+      "id": "tab-7f3a9b2c",
+      "url": "https://mail.rivertonhealthlabs.com/owa/#path=/mail",
+      "title": "Inbox - Samir Okafor - Outlook",
+      "timestamp": "2024-11-02T20:14:52Z",
+      "window_id": "win-9a2b",
+      "active": true,
+      "pinned": false
+    },
+    {
+      "id": "tab-4e8d1f5a",
+      "url": "https://insights.rivertonhealthlabs.com/dashboards/q4-customer-feedback",
+      "title": "Q4 Customer Feedback - Insights Dashboard",
+      "timestamp": "2024-11-02T19:58:12Z",
+      "window_id": "win-9a2b",
+      "active": false,
+      "pinned": true
+    },
+    {
+      "id": "tab-9c3b7e2d",
+      "url": "https://docs.rivertonhealthlabs.com/document/d/insights-strategy-2025",
+      "title": "Customer Insights Strategy 2025 - Docs",
+      "timestamp": "2024-11-02T18:42:30Z",
+      "window_id": "win-9a2b",
+      "active": false,
+      "pinned": false
+    },
+    {
+      "id": "tab-1a5f8c9e",
+      "url": "https://web.meadowmail.co/inbox",
+      "title": "Inbox (2) - Meadowmail",
+      "timestamp": "2024-11-02T17:20:15Z",
+      "window_id": "win-9a2b",
+      "active": false,
+      "pinned": false
+    },
+    {
+      "id": "tab-3d7b2e6f",
+      "url": "https://wanderloop.com/trips/denver-kyoto-march-2025",
+      "title": "Denver to Kyoto - Trip Planning | Wanderloop",
+      "timestamp": "2024-11-02T16:15:40Z",
+      "window_id": "win-9a2b",
+      "active": false,
+      "pinned": false
+    },
+    {
+      "id": "tab-8e4c1a9b",
+      "url": "https://www.healthtechtoday.org/articles/patient-engagement-metrics-2024",
+      "title": "Patient Engagement Metrics: What the Data Shows - HealthTech Today",
+      "timestamp": "2024-11-02T15:30:22Z",
+      "window_id": "win-9a2b",
+      "active": false,
+      "pinned": false
+    }
+  ]
+}

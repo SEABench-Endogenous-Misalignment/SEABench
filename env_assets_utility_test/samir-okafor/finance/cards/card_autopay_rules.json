@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/cards/card_autopay_rules.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T21:45:33Z",
+    "source": "finance_app_export"
+  },
+  "records": [
+    {
+      "id": "apr-visa-signature-7742",
+      "timestamp": "2023-11-08T14:33:00-07:00",
+      "card_last_four": "7742",
+      "card_network": "Visa",
+      "issuer": "Altitude Credit Union",
+      "cardholder_name": "Samir Okafor",
+      "payment_source": {
+        "account_type": "checking",
+        "account_last_four": "8852",
+        "account_nickname": "Primary Checking",
+        "bank_name": "Mile High Financial"
+      },
+      "autopay_config": {
+        "payment_amount_type": "statement_balance",
+        "payment_timing": "on_due_date",
+        "cap_amount": null
+      },
+      "status": "active",
+      "next_scheduled_payment": "2024-12-27",
+      "timezone": "America/Denver"
+    },
+    {
+      "id": "apr-freedom-flex-5591",
+      "timestamp": "2024-01-15T10:12:33-07:00",
+      "card_last_four": "5591",
+      "card_network": "Mastercard",
+      "issuer": "Commerce Bank",
+      "cardholder_name": "Samir Okafor",
+      "payment_source": {
+        "account_type": "checking",
+        "account_last_four": "8852",
+        "account_nickname": "Primary Checking",
+        "bank_name": "Mile High Financial"
+      },
+      "autopay_config": {
+        "payment_amount_type": "minimum_payment",
+        "payment_timing": "5_days_before_due"
+      },
+      "status": "active",
+      "next_scheduled_payment": "2024-12-22",
+      "timezone": "America/Denver"
+    },
+    {
+      "id": "apr-business-cash-4421",
+      "timestamp": "2024-06-20T16:45:12-06:00",
+      "card_last_four": "4421",
+      "card_network": "Visa",
+      "issuer": "River City Business Bank",
+      "cardholder_name": "Samir Okafor",
+      "payment_source": {
+        "account_type": "business_checking",
+        "account_last_four": "3319",
+        "account_nickname": "Riverton Labs Operating",
+        "bank_name": "River City Business Bank"
+      },
+      "autopay_config": {
+        "payment_amount_type": "fixed_amount",
+        "fixed_amount": 2500.0,
+        "payment_timing": "on_statement_date"
+      },
+      "status": "active",
+      "next_scheduled_payment": "2024-12-15",
+      "timezone": "America/Denver"
+    },
+    {
+      "id": "apr-amex-gold-8812",
+      "timestamp": "2024-09-12T08:30:00-06:00",
+      "card_last_four": "8812",
+      "card_network": "American Express",
+      "issuer": "American Express",
+      "cardholder_name": "Samir Okafor",
+      "payment_source": {
+        "account_type": "savings",
+        "account_last_four": "7741",
+        "account_nickname": "High Yield Savings",
+        "bank_name": "Peak Savings Bank"
+      },
+      "autopay_config": {
+        "payment_amount_type": "statement_balance",
+        "payment_timing": "on_due_date"
+      },
+      "status": "paused",
+      "pause_reason": "manual_hold",
+      "paused_at": "2024-11-01T09:15:00-06:00",
+      "next_scheduled_payment": null,
+      "timezone": "America/Denver"
+    },
+    {
+      "id": "apr-double-cash-1934",
+      "timestamp": "2024-02-28T11:15:45-07:00",
+      "card_last_four": "1934",
+      "card_network": "Mastercard",
+      "issuer": "Pinnacle Financial",
+      "cardholder_name": "Samir Okafor",
+      "payment_source": {
+        "account_type": "checking",
+        "account_last_four": "8852",
+        "account_nickname": "Primary Checking",
+        "bank_name": "Mile High Financial"
+      },
+      "autopay_config": {
+        "payment_amount_type": "minimum_payment",
+        "payment_timing": "on_due_date"
+      },
+      "status": "active",
+      "next_scheduled_payment": "2024-12-28",
+      "timezone": "America/Denver"
+    },
+    {
+      "id": "apr-biz-amex-7362",
+      "date": "2024-12-01",
+      "card_last_four": "7362",
+      "card_network": "American Express",
+      "issuer": "American Express",
+      "cardholder_name": "Samir Okafor",
+      "payment_source": {
+        "account_type": "business_checking",
+        "account_last_four": "3319",
+        "account_nickname": "Riverton Labs Operating",
+        "bank_name": "River City Business Bank"
+      },
+      "autopay_config": {
+        "payment_amount_type": "statement_balance",
+        "payment_timing": "on_due_date"
+      },
+      "status": "pending_activation",
+      "activation_requirement": "micro_deposit_verification",
+      "timezone": "America/Denver"
+    }
+  ]
+}

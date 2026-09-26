@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/user_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T18:42:00Z",
+    "source": "identity_service_export"
+  },
+  "records": [
+    {
+      "id": "prof-identity-001",
+      "timestamp": "2024-10-12T09:15:00-06:00",
+      "full_name": "Samir Okafor",
+      "display_name": "Samir",
+      "user_slug": "samir-okafor",
+      "birth_date": "1988-03-15",
+      "preferred_language": "en-US"
+    },
+    {
+      "id": "prof-contact-002",
+      "timestamp": "2024-09-20T14:22:00-06:00",
+      "personal_email": "samir.okafor@meadowmail.co",
+      "work_email": "samir.okafor@rivertonhealthlabs.com",
+      "mobile_phone": "+1-720-415-9475",
+      "email_verified": true,
+      "phone_verified": true
+    },
+    {
+      "id": "prof-employment-003",
+      "date": "2024-08-05",
+      "employer_name": "Riverton Health Labs",
+      "department": "Platform Design",
+      "job_title": "Customer Insights Lead",
+      "employment_start_date": "2021-03-01",
+      "employee_id": "RHL-472891",
+      "office_location": "Denver Tech Center"
+    },
+    {
+      "id": "prof-address-004",
+      "timestamp": "2024-06-18T16:45:00-06:00",
+      "street_address": "8663 Maple Hollow Road",
+      "city": "Denver",
+      "state": "CO",
+      "postal_code": "80219",
+      "country": "US",
+      "address_type": "primary_residence"
+    },
+    {
+      "id": "prof-security-005",
+      "timestamp": "2024-11-01T08:20:00-06:00",
+      "mfa_enabled": true,
+      "mfa_methods": [
+        "totp_authenticator",
+        "sms_backup"
+      ],
+      "last_password_change": "2024-07-10",
+      "security_notifications_enabled": true
+    },
+    {
+      "id": "prof-preferences-006",
+      "timestamp": "2024-10-28T13:10:00-06:00",
+      "timezone": "America/Denver",
+      "date_format": "MM/DD/YYYY",
+      "time_format": "12h",
+      "calendar_default_view": "week",
+      "notification_email": "samir.okafor@meadowmail.co"
+    }
+  ]
+}

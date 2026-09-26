@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/tool_permissions_seed.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T21:18:43Z",
+    "source": "agent_config_export"
+  },
+  "records": [
+    {
+      "id": "perm-cal-4f2a",
+      "tool_reference": "CalendarSyncEngine",
+      "resource_paths": [
+        "calendar/working/recurring_rules.json",
+        "calendar/personal/events_past_12m_future_12m.json",
+        "calendar/constraints/hard_constraints.json"
+      ],
+      "access_level": "read_write",
+      "principal": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-09-14T16:22:00Z"
+    },
+    {
+      "id": "perm-email-8c1e",
+      "tool_reference": "MailIntegrationService",
+      "resource_paths": [
+        "email/inbox/threads_180d.json",
+        "email/sent/threads_180d.json",
+        "email/folders/travel_24m.json"
+      ],
+      "access_level": "read_compose",
+      "principal": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-09-14T16:25:00Z"
+    },
+    {
+      "id": "perm-task-7b3d",
+      "tool_reference": "TaskOrchestrator",
+      "resource_paths": [
+        "tasks/todo_manager/active_tasks.json",
+        "tasks/project_plans/milestones_24m.json",
+        "tasks/todo_manager/recurring_tasks.json"
+      ],
+      "access_level": "full_control",
+      "principal": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-09-14T16:28:00Z"
+    },
+    {
+      "id": "perm-browser-9a5f",
+      "tool_reference": "ContextRetrievalAgent",
+      "resource_paths": [
+        "browser/history/visits_90d.json",
+        "browser/bookmarks/personal_bookmarks.json",
+        "browser/sessions/open_tabs_snapshot.json"
+      ],
+      "access_level": "read_only",
+      "principal": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-09-14T16:31:00Z"
+    },
+    {
+      "id": "perm-finance-2d8e",
+      "tool_reference": "FinanceDataConnector",
+      "resource_paths": [
+        "finance/banking/transactions_24m.json",
+        "finance/cards/card_transactions_24m.json",
+        "finance/investments/portfolio_snapshot.json"
+      ],
+      "access_level": "read_only",
+      "principal": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-09-14T16:34:00Z"
+    },
+    {
+      "id": "perm-notes-5e7c",
+      "tool_reference": "KnowledgeBaseManager",
+      "resource_paths": [
+        "notes/quick_notes/notes_180d.json",
+        "notes/knowledge/evergreen_notes.json",
+        "notes/meeting_notes/meeting_notes_365d.json"
+      ],
+      "access_level": "read_write",
+      "principal": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-09-14T16:37:00Z"
+    }
+  ]
+}

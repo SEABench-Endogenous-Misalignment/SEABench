@@ -1,0 +1,611 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/pinned_threads_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-21T18:45:32Z",
+    "source": "chat_app_sync"
+  },
+  "records": [
+    {
+      "id": "thr_sl_844721",
+      "timestamp": "2024-09-15T14:22:00Z",
+      "platform": "Slack",
+      "thread_name": "Design System v2.0 Launch",
+      "thread_type": "channel",
+      "participants": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "pinned_at": "2024-09-15T14:22:00Z",
+      "last_activity": "2024-10-18T09:15:00Z",
+      "message_count": 142,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_wa_291056",
+      "timestamp": "2024-03-20T10:30:00Z",
+      "platform": "WhatsApp",
+      "thread_name": "Nina & Maya - Italy Trip 2024",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Nina Park"
+      ],
+      "pinned_at": "2024-03-20T10:30:00Z",
+      "last_activity": "2024-09-28T16:45:00Z",
+      "message_count": 89,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_teams_553100",
+      "timestamp": "2024-10-05T11:00:00Z",
+      "platform": "Microsoft Teams",
+      "thread_name": "Q4 Client Strategy Roadmap",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "pinned_at": "2024-10-05T11:00:00Z",
+      "last_activity": "2024-10-19T15:20:00Z",
+      "message_count": 67,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_sig_772345",
+      "timestamp": "2024-02-14T19:22:00Z",
+      "platform": "Signal",
+      "thread_name": "Owen - Concert Tickets Spring",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Owen Reed"
+      ],
+      "pinned_at": "2024-02-14T19:22:00Z",
+      "last_activity": "2024-04-10T20:15:00Z",
+      "message_count": 34,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_990112",
+      "timestamp": "2024-08-12T09:45:00Z",
+      "platform": "Slack",
+      "thread_name": "AcmeCorp Feedback - Urgent",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Leah Morgan"
+      ],
+      "pinned_at": "2024-08-12T09:45:00Z",
+      "last_activity": "2024-08-15T14:30:00Z",
+      "message_count": 56,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_disc_334789",
+      "timestamp": "2024-07-08T08:15:00Z",
+      "platform": "Discord",
+      "thread_name": "Weekend Cycling Group",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Malik Brooks",
+        "Priya Shah"
+      ],
+      "pinned_at": "2024-07-08T08:15:00Z",
+      "last_activity": "2024-09-22T07:30:00Z",
+      "message_count": 203,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_556823",
+      "timestamp": "2024-06-18T13:10:00Z",
+      "platform": "Slack",
+      "thread_name": "Component Migration Status",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "pinned_at": "2024-06-18T13:10:00Z",
+      "last_activity": "2024-09-30T11:25:00Z",
+      "message_count": 118,
+      "pinned_by": "Grace Lin",
+      "category": "work"
+    },
+    {
+      "id": "thr_imsg_667901",
+      "timestamp": "2024-01-25T15:40:00Z",
+      "platform": "iMessage",
+      "thread_name": "Priya Shah",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Priya Shah"
+      ],
+      "pinned_at": "2024-01-25T15:40:00Z",
+      "last_activity": "2024-10-10T18:22:00Z",
+      "message_count": 412,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_223456",
+      "timestamp": "2024-10-01T09:00:00Z",
+      "platform": "Slack",
+      "thread_name": "Brightline General - Announcements",
+      "thread_type": "channel",
+      "participants": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "pinned_at": "2024-10-01T09:00:00Z",
+      "last_activity": "2024-10-20T17:00:00Z",
+      "message_count": 23,
+      "pinned_by": "Calvin Price",
+      "category": "work"
+    },
+    {
+      "id": "thr_wa_884321",
+      "timestamp": "2024-05-12T12:00:00Z",
+      "platform": "WhatsApp",
+      "thread_name": "The Parks Family",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Nina Park",
+        "David Park",
+        "Sophia Park"
+      ],
+      "pinned_at": "2024-05-12T12:00:00Z",
+      "last_activity": "2024-10-19T21:30:00Z",
+      "message_count": 156,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_teams_445672",
+      "timestamp": "2024-09-28T10:15:00Z",
+      "platform": "Microsoft Teams",
+      "thread_name": "Workshop Prep - November",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "pinned_at": "2024-09-28T10:15:00Z",
+      "last_activity": "2024-10-15T16:40:00Z",
+      "message_count": 45,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_sig_112983",
+      "timestamp": "2024-04-05T18:30:00Z",
+      "platform": "Signal",
+      "thread_name": "Elena Vega - Book Club",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Elena Vega"
+      ],
+      "pinned_at": "2024-04-05T18:30:00Z",
+      "last_activity": "2024-09-15T14:20:00Z",
+      "message_count": 67,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_778902",
+      "timestamp": "2024-08-20T11:00:00Z",
+      "platform": "Slack",
+      "thread_name": "Design Tokens Discussion",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "pinned_at": "2024-08-20T11:00:00Z",
+      "last_activity": "2024-10-12T09:30:00Z",
+      "message_count": 89,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_imsg_339044",
+      "timestamp": "2024-02-28T09:15:00Z",
+      "platform": "iMessage",
+      "thread_name": "Malik Brooks",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Malik Brooks"
+      ],
+      "pinned_at": "2024-02-28T09:15:00Z",
+      "last_activity": "2024-10-05T20:10:00Z",
+      "message_count": 234,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_556723",
+      "timestamp": "2024-07-22T14:00:00Z",
+      "platform": "Slack",
+      "thread_name": "Budget Approval FY25",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "pinned_at": "2024-07-22T14:00:00Z",
+      "last_activity": "2024-08-30T16:45:00Z",
+      "message_count": 34,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_wa_667845",
+      "timestamp": "2024-06-01T08:00:00Z",
+      "platform": "WhatsApp",
+      "thread_name": "Laurel Creek Neighbors",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Nina Park",
+        "Greg Harrison",
+        "Sarah Chen"
+      ],
+      "pinned_at": "2024-06-01T08:00:00Z",
+      "last_activity": "2024-10-18T19:20:00Z",
+      "message_count": 78,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_teams_990234",
+      "timestamp": "2024-03-15T02:30:00Z",
+      "platform": "Microsoft Teams",
+      "thread_name": "Client Crisis - Midnight Hardware",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "pinned_at": "2024-03-15T02:30:00Z",
+      "last_activity": "2024-03-17T09:00:00Z",
+      "message_count": 156,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_sl_113467",
+      "timestamp": "2024-09-10T15:00:00Z",
+      "platform": "Slack",
+      "thread_name": "1:1 Calvin Price",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "pinned_at": "2024-09-10T15:00:00Z",
+      "last_activity": "2024-10-14T11:30:00Z",
+      "message_count": 23,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_sig_448956",
+      "timestamp": "2024-09-20T21:00:00Z",
+      "platform": "Signal",
+      "thread_name": "College Roommates 2014",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Jordan Hayes",
+        "Taylor Brooks"
+      ],
+      "pinned_at": "2024-09-20T21:00:00Z",
+      "last_activity": "2024-10-20T10:15:00Z",
+      "message_count": 445,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_disc_559123",
+      "timestamp": "2024-01-10T19:00:00Z",
+      "platform": "Discord",
+      "thread_name": "Gaming - Saturday Nights",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Owen Reed",
+        "Malik Brooks"
+      ],
+      "pinned_at": "2024-01-10T19:00:00Z",
+      "last_activity": "2024-10-19T23:45:00Z",
+      "message_count": 892,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_wa_771489",
+      "timestamp": "2024-08-15T10:00:00Z",
+      "platform": "WhatsApp",
+      "thread_name": "Maya & Parents",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Asha Patel",
+        "Vikram Patel"
+      ],
+      "pinned_at": "2024-08-15T10:00:00Z",
+      "last_activity": "2024-10-21T09:30:00Z",
+      "message_count": 123,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_336711",
+      "timestamp": "2024-04-22T13:30:00Z",
+      "platform": "Slack",
+      "thread_name": "Vendor Negotiation - UXPin",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "pinned_at": "2024-04-22T13:30:00Z",
+      "last_activity": "2024-05-15T15:20:00Z",
+      "message_count": 67,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_imsg_882356",
+      "timestamp": "2024-10-20T08:00:00Z",
+      "platform": "iMessage",
+      "thread_name": "Nina Park",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Nina Park"
+      ],
+      "pinned_at": "2024-10-20T08:00:00Z",
+      "last_activity": "2024-10-21T12:00:00Z",
+      "message_count": 56,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_teams_114633",
+      "timestamp": "2024-10-18T16:00:00Z",
+      "platform": "Microsoft Teams",
+      "thread_name": "All Hands - October Recording",
+      "thread_type": "channel",
+      "participants": [
+        "Maya Patel",
+        "Brightline All Staff"
+      ],
+      "pinned_at": "2024-10-18T16:00:00Z",
+      "last_activity": "2024-10-18T18:00:00Z",
+      "message_count": 12,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_wa_447022",
+      "timestamp": "2024-05-20T14:00:00Z",
+      "platform": "WhatsApp",
+      "thread_name": "House Renovation 2024",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Nina Park",
+        "Mike Santos"
+      ],
+      "pinned_at": "2024-05-20T14:00:00Z",
+      "last_activity": "2024-09-30T17:30:00Z",
+      "message_count": 234,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_558344",
+      "timestamp": "2024-02-05T09:00:00Z",
+      "platform": "Slack",
+      "thread_name": "IT Support - Laptop Issue",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "IT Support"
+      ],
+      "pinned_at": "2024-02-05T09:00:00Z",
+      "last_activity": "2024-02-06T11:30:00Z",
+      "message_count": 18,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_sig_669877",
+      "timestamp": "2024-10-10T17:00:00Z",
+      "platform": "Signal",
+      "thread_name": "Priya & Elena - Dinner Coordination",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Priya Shah",
+        "Elena Vega"
+      ],
+      "pinned_at": "2024-10-10T17:00:00Z",
+      "last_activity": "2024-10-14T12:30:00Z",
+      "message_count": 34,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_771298",
+      "timestamp": "2024-09-05T14:00:00Z",
+      "platform": "Slack",
+      "thread_name": "Project Retro - Summer Release",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "pinned_at": "2024-09-05T14:00:00Z",
+      "last_activity": "2024-09-12T16:00:00Z",
+      "message_count": 78,
+      "pinned_by": "Leah Morgan",
+      "category": "work"
+    },
+    {
+      "id": "thr_imsg_883411",
+      "timestamp": "2024-06-12T10:30:00Z",
+      "platform": "iMessage",
+      "thread_name": "Owen Birthday Planning",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Malik Brooks",
+        "Priya Shah",
+        "Elena Vega"
+      ],
+      "pinned_at": "2024-06-12T10:30:00Z",
+      "last_activity": "2024-07-20T22:00:00Z",
+      "message_count": 145,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_teams_994522",
+      "timestamp": "2024-10-14T09:00:00Z",
+      "platform": "Microsoft Teams",
+      "thread_name": "New Designer Onboarding - Ravi",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Ravi Sharma",
+        "Calvin Price"
+      ],
+      "pinned_at": "2024-10-14T09:00:00Z",
+      "last_activity": "2024-10-20T15:30:00Z",
+      "message_count": 29,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_wa_115633",
+      "timestamp": "2024-07-04T11:00:00Z",
+      "platform": "WhatsApp",
+      "thread_name": "Maya's Sister - Anika",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Anika Patel"
+      ],
+      "pinned_at": "2024-07-04T11:00:00Z",
+      "last_activity": "2024-10-15T19:45:00Z",
+      "message_count": 312,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_226744",
+      "timestamp": "2024-08-05T10:15:00Z",
+      "platform": "Slack",
+      "thread_name": "Accessibility Audit Results",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "pinned_at": "2024-08-05T10:15:00Z",
+      "last_activity": "2024-09-01T14:20:00Z",
+      "message_count": 45,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    },
+    {
+      "id": "thr_sig_337855",
+      "timestamp": "2024-09-18T08:30:00Z",
+      "platform": "Signal",
+      "thread_name": "Healthcare - Dr. Rosen Follow-up",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Nina Park"
+      ],
+      "pinned_at": "2024-09-18T08:30:00Z",
+      "last_activity": "2024-09-25T16:00:00Z",
+      "message_count": 12,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_disc_448966",
+      "timestamp": "2024-10-12T13:00:00Z",
+      "platform": "Discord",
+      "thread_name": "Brightline Social Committee",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "pinned_at": "2024-10-12T13:00:00Z",
+      "last_activity": "2024-10-20T11:00:00Z",
+      "message_count": 67,
+      "pinned_by": "Iris Romero",
+      "category": "work"
+    },
+    {
+      "id": "thr_imsg_559077",
+      "timestamp": "2024-04-01T09:00:00Z",
+      "platform": "iMessage",
+      "thread_name": "Travel Bookings - Flights",
+      "thread_type": "dm",
+      "participants": [
+        "Maya Patel",
+        "Nina Park"
+      ],
+      "pinned_at": "2024-04-01T09:00:00Z",
+      "last_activity": "2024-04-15T18:30:00Z",
+      "message_count": 28,
+      "pinned_by": "Maya Patel",
+      "category": "personal"
+    },
+    {
+      "id": "thr_sl_661188",
+      "timestamp": "2024-10-01T11:00:00Z",
+      "platform": "Slack",
+      "thread_name": "Holiday Party Planning 2024",
+      "thread_type": "group",
+      "participants": [
+        "Maya Patel",
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "pinned_at": "2024-10-01T11:00:00Z",
+      "last_activity": "2024-10-21T10:00:00Z",
+      "message_count": 89,
+      "pinned_by": "Maya Patel",
+      "category": "work"
+    }
+  ]
+}

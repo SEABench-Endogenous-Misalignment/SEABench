@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/sensitivity_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-06-14T18:42:33Z",
+    "source": "privacy_settings_export"
+  },
+  "records": [
+    {
+      "id": "BL-SEC-2024-0041",
+      "timestamp": "2024-03-12T10:30:00Z",
+      "category": "Work Data Classification",
+      "organization": "Brightline Systems",
+      "applies_to": "Platform Design Documents",
+      "retention_years": 3,
+      "cloud_sync": "restricted_to_corporate_tenant",
+      "owner_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "HOME-SHARE-992",
+      "date": "2024-01-15",
+      "category": "Household Data Sharing",
+      "shared_resource": "Shopping and Errand Lists",
+      "grantee": "Theo Harris",
+      "grantee_contact": "theo.harris@meadowmail.co",
+      "access_level": "read_write",
+      "encryption": "none",
+      "data_residency": "home_server"
+    },
+    {
+      "id": "FIN-CLASS-221",
+      "timestamp": "2024-05-20T16:45:12Z",
+      "category": "Financial Records",
+      "record_type": "Tax Documents and Investment Statements",
+      "storage_tier": "encrypted_vault",
+      "auto_delete": false,
+      "retention_schedule": "seven_years",
+      "sensitivity_label": "confidential"
+    },
+    {
+      "id": "PRIV-CONT-556",
+      "period_start": "2024-01-01",
+      "period_end": "2025-01-01",
+      "category": "Contact Privacy",
+      "policy_name": "Close Contacts Cloud Sync Restriction",
+      "affected_individuals": [
+        "Nina Park",
+        "Owen Reed",
+        "Priya Shah",
+        "Malik Brooks"
+      ],
+      "sync_permission": false,
+      "backup_allowed": "local_only"
+    },
+    {
+      "id": "HEALTH-DATA-881",
+      "timestamp": "2024-04-10T09:15:00Z",
+      "category": "Health Application Policy",
+      "app_name": "Summit Health Tracker",
+      "share_analytics_with_vendor": false,
+      "share_with_healthcare_provider": "limited_summary_only",
+      "encryption_at_rest": true
+    },
+    {
+      "id": "MEDIA-GEO-334",
+      "date": "2024-02-28",
+      "category": "Media Metadata",
+      "setting_name": "Automatic EXIF Stripping",
+      "trigger": "social_platform_share",
+      "location_data": "removed",
+      "device_identifiers": "removed",
+      "sensitivity_assigned": "medium"
+    }
+  ]
+}

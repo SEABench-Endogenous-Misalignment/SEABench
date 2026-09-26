@@ -1,0 +1,438 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/personal_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T14:32:18Z",
+    "source": "phone_sync_export"
+  },
+  "records": [
+    {
+      "id": "a7b3c9d1-8e4f-4g5h-6i7j-8k9l0m1n2o3p",
+      "name": "Theo Harris",
+      "email": "theo.harris@meadowmail.co",
+      "phone": "+1-412-746-6436",
+      "relationship": "partner",
+      "date": "2022-06-15"
+    },
+    {
+      "id": "b2c4d6e8-0f1a-2b3c-4d5e-6f7g8h9i0j1k",
+      "name": "Nina Park",
+      "email": "nina.park@protonmail.com",
+      "phone": "+1-412-389-0214",
+      "company": "Nexus Design Studio",
+      "relationship": "friend",
+      "date": "2023-01-10"
+    },
+    {
+      "id": "c3d5e7f9-1g2h-3i4j-5k6l-7m8n9o0p1q2r",
+      "name": "Owen Reed",
+      "email": "owen.reed@gmail.com",
+      "phone": "+1-412-621-7734",
+      "company": "Pittsburgh Public Schools",
+      "relationship": "friend",
+      "date": "2022-09-22"
+    },
+    {
+      "id": "d4e6f8g0-2h3i-4j5k-6l7m-8n9o0p1q2r3s",
+      "name": "Priya Shah",
+      "email": "priya.shah@outlook.com",
+      "phone": "+1-215-448-9921",
+      "company": "Shah Consulting Group",
+      "relationship": "friend",
+      "date": "2023-03-05"
+    },
+    {
+      "id": "e5f7g9h1-3i4j-5k6l-7m8n-9o0p1q2r3s4t",
+      "name": "Malik Brooks",
+      "email": "malik.brooks@meadowmail.co",
+      "phone": "+1-412-902-3341",
+      "company": "CloudShift Technologies",
+      "relationship": "friend",
+      "date": "2022-11-18"
+    },
+    {
+      "id": "f6g8h0i2-4j5k-6l7m-8n9o-0p1q2r3s4t5u",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@brightlinesystems.com",
+      "phone": "+1-412-334-7789",
+      "company": "Brightline Systems",
+      "relationship": "work colleague",
+      "date": "2023-02-14"
+    },
+    {
+      "id": "g7h9i1j3-5k6l-7m8n-9o0p-1q2r3s4t5u6v",
+      "name": "Calvin Price",
+      "email": "calvin.price@brightlinesystems.com",
+      "phone": "+1-412-556-1984",
+      "company": "Brightline Systems",
+      "relationship": "work colleague",
+      "date": "2022-08-30"
+    },
+    {
+      "id": "h8i0j2k4-6l7m-8n9o-0p1q-2r3s4t5u6v7w",
+      "name": "Iris Romero",
+      "email": "iris.romero@brightlinesystems.com",
+      "phone": "+1-412-667-3344",
+      "company": "Brightline Systems",
+      "relationship": "work colleague",
+      "date": "2023-06-20"
+    },
+    {
+      "id": "i9j1k3l5-7m8n-9o0p-1q2r-3s4t5u6v7w8x",
+      "name": "Grace Lin",
+      "email": "grace.lin@brightlinesystems.com",
+      "phone": "+1-412-778-4455",
+      "company": "Brightline Systems",
+      "relationship": "work colleague",
+      "date": "2022-12-01"
+    },
+    {
+      "id": "j0k2l4m6-8n9o-0p1q-2r3s-4t5u6v7w8x9y",
+      "name": "Kwame Okafor",
+      "email": "kwame.okafor@gmail.com",
+      "phone": "+1-404-212-9988",
+      "company": "Atlas Architecture",
+      "relationship": "brother",
+      "date": "2022-05-10"
+    },
+    {
+      "id": "k1l3m5n7-9o0p-1q2r-3s4t-5u6v7w8x9y0z",
+      "name": "Amara Okafor",
+      "email": "amara.o@meadowmail.co",
+      "phone": "+1-412-223-5567",
+      "company": "UPMC Presbyterian",
+      "relationship": "sister",
+      "date": "2022-07-22"
+    },
+    {
+      "id": "l2m4n6o8-0p1q-2r3s-4t5u-6v7w8x9y0z1a",
+      "name": "Dr. Sarah Bennett",
+      "email": "sarah.bennett@riversidedental.com",
+      "phone": "+1-412-344-6677",
+      "company": "Riverside Dental",
+      "relationship": "dentist",
+      "date": "2023-04-12"
+    },
+    {
+      "id": "m3n5o7p9-1q2r-3s4t-5u6v-7w8x9y0z1a2b",
+      "name": "James Chen",
+      "email": "jchen@outlook.com",
+      "phone": "+1-412-455-7788",
+      "relationship": "neighbor",
+      "date": "2023-08-15"
+    },
+    {
+      "id": "n4o6p8q0-2r3s-4t5u-6v7w-8x9y0z1a2b3c",
+      "name": "Maria Santos",
+      "email": "maria.santos@ymail.com",
+      "phone": "+1-412-566-8899",
+      "company": "Stir Marketing",
+      "relationship": "friend",
+      "date": "2023-01-30"
+    },
+    {
+      "id": "o5p7q9r1-3s4t-5u6v-7w8x-9y0z1a2b3c4d",
+      "name": "David Park",
+      "email": "d.park@stanfordalumni.org",
+      "phone": "+1-650-384-2291",
+      "company": "SLAC National Lab",
+      "relationship": "friend",
+      "date": "2022-10-05"
+    },
+    {
+      "id": "p6q8r0s2-4t5u-6v7w-8x9y-0z1a2b3c4d5e",
+      "name": "Elena Rodriguez",
+      "email": "elena.r@meadowmail.co",
+      "phone": "+1-412-677-9900",
+      "relationship": "cousin",
+      "date": "2022-06-28"
+    },
+    {
+      "id": "q7r9s1t3-5u6v-7w8x-9y0z-1a2b3c4d5e6f",
+      "name": "Robert Kim",
+      "email": "rob.kim@gmail.com",
+      "phone": "+1-412-788-1947",
+      "company": "Station Bistro",
+      "relationship": "friend",
+      "date": "2023-05-20"
+    },
+    {
+      "id": "r8s0t2u4-6v7w-8x9y-0z1a-2b3c4d5e6f7g",
+      "name": "Lisa Thompson",
+      "email": "lisa.t@pittsburgyoga.net",
+      "phone": "+1-412-899-1122",
+      "company": "Pittsburgh Yoga Collective",
+      "relationship": "yoga instructor",
+      "date": "2023-07-10"
+    },
+    {
+      "id": "s9t1u3v5-7w8x-9y0z-1a2b-3c4d5e6f7g8h",
+      "name": "Marcus Johnson",
+      "email": "marcus.j@techflow.io",
+      "phone": "+1-718-392-8473",
+      "company": "TechFlow",
+      "relationship": "former colleague",
+      "date": "2022-09-12"
+    },
+    {
+      "id": "t0u2v4w6-8x9y-0z1a-2b3c-4d5e6f7g8h9i",
+      "name": "Jennifer Walsh",
+      "email": "jen.walsh@meadowmail.co",
+      "phone": "+1-215-901-3847",
+      "company": "Walsh & Associates Law",
+      "relationship": "friend",
+      "date": "2023-02-28"
+    },
+    {
+      "id": "u1v3w5x7-9y0z-1a2b-3c4d-5e6f7g8h9i0j",
+      "name": "Ahmed Hassan",
+      "email": "ahmed.hassan@nd.edu",
+      "phone": "+1-574-384-9921",
+      "company": "University of Notre Dame",
+      "relationship": "friend",
+      "date": "2022-11-05"
+    },
+    {
+      "id": "v2w4x6y8-0z1a-2b3c-4d5e-6f7g8h9i0j1k",
+      "name": "Rachel Green",
+      "email": "rachel.green@comcast.net",
+      "phone": "+1-412-483-9921",
+      "company": "PNC Bank",
+      "relationship": "neighbor",
+      "date": "2023-09-01"
+    },
+    {
+      "id": "w3x5y7z9-1a2b-3c4d-5e6f-7g8h9i0j1k2l",
+      "name": "Thomas Wright",
+      "email": "tom.wright@verizon.net",
+      "phone": "+1-412-983-2217",
+      "relationship": "uncle",
+      "date": "2022-04-15"
+    },
+    {
+      "id": "x4y6z8a0-2c3d-4e5f-6g7h-8i9j0k1l2m3n",
+      "name": "Sophie Martin",
+      "email": "sophie.martin@protonmail.com",
+      "phone": "+1-412-294-8834",
+      "company": "Martin Fine Arts",
+      "relationship": "friend",
+      "date": "2023-03-18"
+    },
+    {
+      "id": "y5z7a9b1-3d4e-5f6g-7h8i-9j0k1l2m3n4o",
+      "name": "Daniel Lee",
+      "email": "d.lee@gmail.com",
+      "phone": "+1-412-485-7723",
+      "company": "Lee Photography",
+      "relationship": "friend",
+      "date": "2023-06-05"
+    },
+    {
+      "id": "z6a8b0c2-4e5f-6g7h-8i9j-0k1l2m3n4o5p",
+      "name": "Olivia Brown",
+      "email": "olivia.brown@meadowmail.co",
+      "phone": "+1-412-596-6634",
+      "company": "UPMC Children's Hospital",
+      "relationship": "childhood friend",
+      "date": "2022-08-10"
+    },
+    {
+      "id": "a7b9c1d3-5f6g-7h8i-9j0k-1l2m3n4o5p6q",
+      "name": "Chris Anderson",
+      "email": "chris.a@outlook.com",
+      "phone": "+1-412-697-5543",
+      "company": "Highmark Health",
+      "relationship": "friend",
+      "date": "2023-04-22"
+    },
+    {
+      "id": "b8c0d2e4-6g7h-8i9j-0k1l-2m3n4o5p6q7r",
+      "name": "Fatima Al-Rashid",
+      "email": "fatima.alrashid@brightlinesystems.com",
+      "phone": "+1-412-818-4452",
+      "company": "Brightline Systems",
+      "relationship": "work colleague",
+      "date": "2023-07-25"
+    },
+    {
+      "id": "c9d1e3f5-7h8i-9j0k-1l2m-3n4o5p6q7r8s",
+      "name": "Kevin Murphy",
+      "email": "kevin.murphy@coffeehaus.pgh",
+      "phone": "+1-412-929-3361",
+      "company": "Coffee Haus",
+      "relationship": "friend",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "d0e2f4g6-8i9j-0k1l-2m3n-4o5p6q7r8s9t",
+      "name": "Angela Davis",
+      "email": "angela.davis@pittsburghcares.org",
+      "phone": "+1-412-383-2278",
+      "company": "Pittsburgh Cares",
+      "relationship": "volunteer coordinator",
+      "date": "2022-12-20"
+    },
+    {
+      "id": "e1f3g5h7-9j0k-1l2m-3n4o-5p6q7r8s9t0u",
+      "name": "Brian Taylor",
+      "email": "brian.t@meadowmail.co",
+      "phone": "+1-412-494-1187",
+      "company": "Taylor Creative",
+      "relationship": "friend",
+      "date": "2023-01-15"
+    },
+    {
+      "id": "f2g4h6i8-0k1l-2m3n-4o5p-6q7r8s9t0u1v",
+      "name": "Yuki Tanaka",
+      "email": "yuki.tanaka@berkeley.edu",
+      "phone": "+1-510-384-7756",
+      "company": "UC Berkeley",
+      "relationship": "friend",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "g3h5i7j9-1l2m-3n4o-5p6q-7r8s9t0u1v2w",
+      "name": "Patricia Moore",
+      "email": "pat.moore@gmail.com",
+      "phone": "+1-412-585-1029",
+      "company": "Carnegie Library",
+      "relationship": "aunt",
+      "date": "2022-05-25"
+    },
+    {
+      "id": "h4i6j8k0-2m3n-4o5p-6q7r-8s9t0u1v2w3x",
+      "name": "Eric Zhang",
+      "email": "eric.zhang@innovatepitts.com",
+      "phone": "+1-412-696-9903",
+      "company": "InnovatePGH",
+      "relationship": "friend",
+      "date": "2024-01-30"
+    },
+    {
+      "id": "i5j7k9l1-3n4o-5p6q-7r8s-9t0u1v2w3x4y",
+      "name": "Samantha White",
+      "email": "s.white@meadowmail.co",
+      "phone": "+1-412-787-8812",
+      "company": "BNY Mellon",
+      "relationship": "friend",
+      "date": "2023-06-12"
+    },
+    {
+      "id": "j6k8l0m2-4o5p-6q7r-8s9t-0u1v2w3x4y5z",
+      "name": "Diego Marquez",
+      "email": "diego.m@pittsdance.org",
+      "phone": "+1-412-898-7721",
+      "company": "Pittsburgh Dance Studio",
+      "relationship": "dance instructor",
+      "date": "2023-05-05"
+    },
+    {
+      "id": "k7l9m1n3-5p6q-7r8s-9t0u-1v2w3x4y5z6a",
+      "name": "Helen Park",
+      "email": "helen.park@gmail.com",
+      "phone": "+1-412-909-6630",
+      "company": "Google",
+      "relationship": "friend",
+      "date": "2023-02-01"
+    },
+    {
+      "id": "l8m0n2o4-6q7r-8s9t-0u1v-2w3x4y5z6a7b",
+      "name": "Raj Patel",
+      "email": "raj.patel@brightlinesystems.com",
+      "phone": "+1-412-484-5549",
+      "company": "Brightline Systems",
+      "relationship": "work colleague",
+      "date": "2024-02-20"
+    },
+    {
+      "id": "m9n1o3p5-7r8s-9t0u-1v2w-3x4y5z6a7b8c",
+      "name": "Laura Chen",
+      "email": "laura.chen@outlook.com",
+      "phone": "+1-412-595-4488",
+      "company": "Penguin Random House",
+      "relationship": "friend",
+      "date": "2023-03-30"
+    },
+    {
+      "id": "n0o2p4q6-8s9t-0u1v-2w3x-4y5z6a7b8c9d",
+      "name": "Michael Foster",
+      "email": "m.foster@oakwoodprops.com",
+      "phone": "+1-412-686-3377",
+      "company": "Oakwood Properties",
+      "relationship": "landlord",
+      "date": "2022-06-01"
+    },
+    {
+      "id": "o1p3q5r7-9t0u-1v2w-3x4y-5z6a7b8c9d0e",
+      "name": "Sandra Kim",
+      "email": "sandra.kim@meadowmail.co",
+      "phone": "+1-412-797-3028",
+      "company": "Allegheny Health Network",
+      "relationship": "neighbor",
+      "date": "2023-07-15"
+    },
+    {
+      "id": "p2q4r6s8-0u1v-2w3x-4y5z-6a7b8c9d0e1f",
+      "name": "Victor Ortega",
+      "email": "v.ortega@eastlibertyauto.com",
+      "phone": "+1-412-898-1185",
+      "company": "East Liberty Auto Shop",
+      "relationship": "mechanic",
+      "date": "2022-11-30"
+    },
+    {
+      "id": "q3r5s7t9-1v2w-3x4y-5z6a-7b8c9d0e1f2g",
+      "name": "Natalie Brooks",
+      "email": "natalie.brooks@meadowmail.co",
+      "phone": "+1-412-929-0074",
+      "company": "Urban Outfitters",
+      "relationship": "friend",
+      "date": "2024-03-10"
+    },
+    {
+      "id": "r4s6t8u0-2w3x-4y5z-6a7b-8c9d0e1f2g3h",
+      "name": "Jordan Smith",
+      "email": "jordan.smith@gmail.com",
+      "phone": "+1-412-484-9963",
+      "company": "Smith Contractors",
+      "relationship": "friend",
+      "date": "2023-08-18"
+    },
+    {
+      "id": "s5t7u9v1-3x4y-5z6a-7b8c-9d0e1f2g3h4i",
+      "name": "Tanya Volkov",
+      "email": "tanya.volkov@techfront.com",
+      "phone": "+1-646-883-2219",
+      "company": "TechFront",
+      "relationship": "former colleague",
+      "date": "2022-09-05"
+    },
+    {
+      "id": "t6u8v0w2-4y5z-6a7b-8c9d-0e1f2g3h4i5j",
+      "name": "Henry Okafor",
+      "email": "h.okafor@verizon.net",
+      "phone": "+1-404-221-5566",
+      "relationship": "father",
+      "date": "2022-04-20"
+    },
+    {
+      "id": "u7v9w1x3-5z6a-7b8c-9d0e-1f2g3h4i5j6k",
+      "name": "Dorothy Okafor",
+      "email": "dot.okafor@meadowmail.co",
+      "phone": "+1-404-332-6677",
+      "relationship": "mother",
+      "date": "2022-04-20"
+    },
+    {
+      "id": "v8w0x2y4-6a7b-8c9d-0e1f-2g3h4i5j6k7l",
+      "name": "Steven Chen",
+      "email": "steven.chen@riversidedental.com",
+      "phone": "+1-412-443-5566",
+      "company": "Riverside Dental",
+      "relationship": "hygienist",
+      "date": "2024-05-22"
+    }
+  ]
+}

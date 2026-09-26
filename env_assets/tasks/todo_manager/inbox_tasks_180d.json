@@ -1,0 +1,245 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/inbox_tasks_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-01-09T14:32:00Z"
+  },
+  "records": [
+    {
+      "id": "task_2026_001",
+      "title": "Review quarterly budget and expenses",
+      "timestamp": "2026-04-02T08:15:00Z",
+      "date": "2026-04-05",
+      "status": "pending",
+      "priority": "high",
+      "category": "finance"
+    },
+    {
+      "id": "task_2026_002",
+      "title": "Schedule dentist appointment for cleaning",
+      "timestamp": "2026-04-05T10:30:00Z",
+      "date": "2026-04-12",
+      "status": "pending",
+      "priority": "medium",
+      "category": "health"
+    },
+    {
+      "id": "task_2026_003",
+      "title": "Buy birthday gift for mom",
+      "timestamp": "2026-04-08T14:20:00Z",
+      "date": "2026-04-25",
+      "status": "pending",
+      "priority": "high",
+      "category": "personal"
+    },
+    {
+      "id": "task_2026_004",
+      "title": "Fix leaking kitchen faucet",
+      "timestamp": "2026-04-10T16:45:00Z",
+      "date": "2026-04-15",
+      "status": "in_progress",
+      "priority": "medium",
+      "category": "home"
+    },
+    {
+      "id": "task_2026_005",
+      "title": "Prepare slides for team presentation",
+      "timestamp": "2026-04-12T09:00:00Z",
+      "date": "2026-04-18",
+      "status": "pending",
+      "priority": "high",
+      "category": "work"
+    },
+    {
+      "id": "task_2026_006",
+      "title": "Research car insurance renewal options",
+      "timestamp": "2026-04-15T11:30:00Z",
+      "date": "2026-05-01",
+      "status": "pending",
+      "priority": "medium",
+      "category": "finance"
+    },
+    {
+      "id": "task_2026_007",
+      "title": "Organize garage storage boxes",
+      "timestamp": "2026-04-18T13:00:00Z",
+      "priority": "low",
+      "category": "home"
+    },
+    {
+      "id": "task_2026_008",
+      "title": "Call plumber for annual pipe inspection",
+      "timestamp": "2026-04-20T15:15:00Z",
+      "date": "2026-04-22",
+      "status": "pending",
+      "priority": "medium",
+      "category": "home"
+    },
+    {
+      "id": "task_2026_009",
+      "title": "Update resume with recent projects",
+      "timestamp": "2026-04-22T10:00:00Z",
+      "priority": "medium",
+      "category": "career"
+    },
+    {
+      "id": "task_2026_010",
+      "title": "Research summer vacation destinations",
+      "timestamp": "2026-04-25T17:30:00Z",
+      "date": "2026-05-10",
+      "status": "pending",
+      "priority": "low",
+      "category": "travel"
+    },
+    {
+      "id": "task_2026_011",
+      "title": "File remaining tax documents",
+      "timestamp": "2026-04-28T08:45:00Z",
+      "date": "2026-05-15",
+      "status": "pending",
+      "priority": "high",
+      "category": "admin"
+    },
+    {
+      "id": "task_2026_012",
+      "title": "Buy new running shoes",
+      "timestamp": "2026-05-01T12:00:00Z",
+      "priority": "low",
+      "category": "fitness"
+    },
+    {
+      "id": "task_2026_013",
+      "title": "Schedule annual physical checkup",
+      "timestamp": "2026-05-03T09:30:00Z",
+      "date": "2026-05-20",
+      "status": "pending",
+      "priority": "high",
+      "category": "health"
+    },
+    {
+      "id": "task_2026_014",
+      "title": "Plant vegetable garden seedlings",
+      "timestamp": "2026-05-05T14:00:00Z",
+      "date": "2026-05-15",
+      "status": "pending",
+      "priority": "medium",
+      "category": "garden"
+    },
+    {
+      "id": "task_2026_015",
+      "title": "Read May book club selection",
+      "timestamp": "2026-05-08T19:00:00Z",
+      "priority": "low",
+      "category": "leisure"
+    },
+    {
+      "id": "task_2026_016",
+      "title": "Clean gutters before rainy season",
+      "timestamp": "2026-05-10T10:00:00Z",
+      "date": "2026-05-25",
+      "status": "pending",
+      "priority": "medium",
+      "category": "home"
+    },
+    {
+      "id": "task_2026_017",
+      "title": "Backup computer files to external drive",
+      "timestamp": "2026-05-12T16:00:00Z",
+      "priority": "medium",
+      "category": "tech"
+    },
+    {
+      "id": "task_2026_018",
+      "title": "Schedule car oil change and service",
+      "timestamp": "2026-05-15T11:00:00Z",
+      "date": "2026-05-30",
+      "status": "pending",
+      "priority": "medium",
+      "category": "auto"
+    },
+    {
+      "id": "task_2026_019",
+      "title": "Plan weekend hiking trip itinerary",
+      "timestamp": "2026-05-18T20:00:00Z",
+      "priority": "low",
+      "category": "outdoor"
+    },
+    {
+      "id": "task_2026_020",
+      "title": "Submit expense reports for April",
+      "timestamp": "2026-05-20T09:00:00Z",
+      "date": "2026-05-25",
+      "status": "pending",
+      "priority": "high",
+      "category": "work"
+    },
+    {
+      "id": "task_2026_021",
+      "title": "Service air conditioning unit",
+      "timestamp": "2026-05-22T13:30:00Z",
+      "date": "2026-06-01",
+      "status": "pending",
+      "priority": "high",
+      "category": "home"
+    },
+    {
+      "id": "task_2026_022",
+      "title": "Buy graduation gift for niece",
+      "timestamp": "2026-05-25T15:00:00Z",
+      "date": "2026-06-05",
+      "status": "pending",
+      "priority": "high",
+      "category": "personal"
+    },
+    {
+      "id": "task_2026_023",
+      "title": "Organize digital photo library",
+      "timestamp": "2026-05-28T18:00:00Z",
+      "priority": "low",
+      "category": "digital"
+    },
+    {
+      "id": "task_2026_024",
+      "title": "Renew library membership",
+      "timestamp": "2026-06-01T10:00:00Z",
+      "date": "2026-06-15",
+      "status": "pending",
+      "priority": "low",
+      "category": "admin"
+    },
+    {
+      "id": "task_2026_025",
+      "title": "Replace smoke detector batteries",
+      "timestamp": "2026-06-03T14:00:00Z",
+      "priority": "medium",
+      "category": "safety"
+    },
+    {
+      "id": "task_2026_026",
+      "title": "Schedule pet vaccination appointment",
+      "timestamp": "2026-06-05T09:00:00Z",
+      "date": "2026-06-20",
+      "status": "pending",
+      "priority": "high",
+      "category": "pets"
+    },
+    {
+      "id": "task_2026_027",
+      "title": "Plan dinner party menu for Saturday",
+      "timestamp": "2026-06-08T11:00:00Z",
+      "priority": "medium",
+      "category": "social"
+    },
+    {
+      "id": "task_2026_028",
+      "title": "Review investment portfolio allocation",
+      "timestamp": "2026-06-10T16:30:00Z",
+      "date": "2026-06-25",
+      "status": "pending",
+      "priority": "medium",
+      "category": "finance"
+    }
+  ]
+}

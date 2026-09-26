@@ -1,0 +1,426 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/personal/routines_and_habits.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T14:30:00Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "rtn_8f3a9b2c1d4e",
+      "title": "Morning Run - 5K",
+      "category": "fitness",
+      "timestamp": "2024-12-18T06:30:00-05:00",
+      "duration_minutes": 35,
+      "status": "completed",
+      "location": "Schenley Park Trail",
+      "notes": "Felt strong, reduced pace by 10s/mile"
+    },
+    {
+      "id": "rtn_7e2b1c8d5f6a",
+      "title": "Weekly Grocery Shopping",
+      "category": "household",
+      "date": "2024-12-15",
+      "start_time": "10:00:00",
+      "end_time": "11:15:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Giant Eagle Market District",
+      "recurrence": "weekly",
+      "notes": "Stocked up for holiday week"
+    },
+    {
+      "id": "rtn_9c4d2e1f8a3b",
+      "title": "Daily Standup - Atlas Civic",
+      "category": "work",
+      "date": "2024-12-16",
+      "start_time": "09:30:00",
+      "end_time": "09:45:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "recurrence": "daily"
+    },
+    {
+      "id": "rtn_1a5f3c9d2e8b",
+      "title": "Dental Cleaning - Six Month Checkup",
+      "category": "health",
+      "date": "2024-11-20",
+      "start_time": "14:00:00",
+      "end_time": "15:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Downtown Dental Associates",
+      "notes": "No cavities, next visit May 2025"
+    },
+    {
+      "id": "rtn_4b7d9e2f1c5a",
+      "title": "Monthly Budget Review",
+      "category": "finance",
+      "timestamp": "2024-12-01T14:00:00-05:00",
+      "duration_minutes": 45,
+      "status": "completed",
+      "notes": "Reviewed Q4 spending, adjusted 401k contributions"
+    },
+    {
+      "id": "rtn_2c8e1f4a9b3d",
+      "title": "Weekly Check-in with Iris",
+      "category": "family",
+      "date": "2024-12-14",
+      "start_time": "19:00:00",
+      "end_time": "19:30:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "contact_name": "Iris Romero",
+      "contact_phone": "+1-412-633-6256",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_5d3f2a8c1e9b",
+      "title": "Morning Yoga Flow",
+      "category": "wellness",
+      "timestamp": "2024-12-17T07:00:00-05:00",
+      "duration_minutes": 45,
+      "status": "completed",
+      "location": "Home Studio",
+      "recurrence": "daily"
+    },
+    {
+      "id": "rtn_6a9c4d2e8f1b",
+      "title": "Sunday Meal Prep",
+      "category": "household",
+      "date": "2024-12-08",
+      "start_time": "13:00:00",
+      "end_time": "15:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "recurrence": "weekly",
+      "notes": "Prepared lunches for Mon-Thu"
+    },
+    {
+      "id": "rtn_3e7b1f9c5d2a",
+      "title": "Therapy Session",
+      "category": "wellness",
+      "date": "2024-12-10",
+      "start_time": "16:00:00",
+      "end_time": "17:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Riverview Wellness Center",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_8f2c5d1e9a4b",
+      "title": "Book Club - December Meetup",
+      "category": "social",
+      "timestamp": "2024-12-05T18:30:00-05:00",
+      "duration_minutes": 120,
+      "status": "completed",
+      "location": "Nina's Apartment",
+      "attendees": [
+        "Nina Park",
+        "Priya Shah"
+      ],
+      "notes": "Discussed 'The Ministry of Time'"
+    },
+    {
+      "id": "rtn_1d9a3b7c2f8e",
+      "title": "Hiking - Rachel Carson Trail",
+      "category": "fitness",
+      "date": "2024-11-30",
+      "period_start": "08:00:00",
+      "period_end": "12:30:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "attendees": [
+        "Owen Reed"
+      ],
+      "notes": "8 miles, fall foliage peak"
+    },
+    {
+      "id": "rtn_4c6e2f9a1d8b",
+      "title": "Car Maintenance - Oil Change",
+      "category": "household",
+      "date": "2024-10-15",
+      "timestamp": "2024-10-15T09:00:00-04:00",
+      "duration_minutes": 90,
+      "status": "completed",
+      "location": "Meineke Car Care Center",
+      "notes": "Also rotated tires"
+    },
+    {
+      "id": "rtn_7b3c8d1f5e9a",
+      "title": "Haircut and Color",
+      "category": "personal_care",
+      "date": "2024-11-12",
+      "start_time": "11:30:00",
+      "end_time": "13:30:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Salonika on Walnut"
+    },
+    {
+      "id": "rtn_2f9e1c4d8b3a",
+      "title": "French Lesson - Duolingo + Podcast",
+      "category": "learning",
+      "timestamp": "2024-12-17T20:00:00-05:00",
+      "duration_minutes": 30,
+      "status": "completed",
+      "recurrence": "daily",
+      "notes": "Completed Unit 12"
+    },
+    {
+      "id": "rtn_5a8d3f2c9e1b",
+      "title": "Food Bank Volunteering",
+      "category": "community",
+      "date": "2024-12-07",
+      "start_time": "09:00:00",
+      "end_time": "13:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Pittsburgh Community Food Bank",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_9e4b7c1f8d3a",
+      "title": "Quarterly Investment Review",
+      "category": "finance",
+      "timestamp": "2024-09-30T19:00:00-04:00",
+      "duration_minutes": 60,
+      "status": "completed",
+      "notes": "Rebalanced portfolio, increased index fund allocation"
+    },
+    {
+      "id": "rtn_3c1f9e2b7d5a",
+      "title": "Seasonal Closet Cleanout",
+      "category": "household",
+      "date": "2024-09-15",
+      "start_time": "10:00:00",
+      "end_time": "13:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "notes": "Donated summer clothes, brought out winter gear"
+    },
+    {
+      "id": "rtn_6d8a2c4f9e1b",
+      "title": "Dinner with Malik",
+      "category": "social",
+      "date": "2024-11-25",
+      "start_time": "19:00:00",
+      "end_time": "21:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Meat and Potatoes Restaurant",
+      "attendees": [
+        "Malik Brooks"
+      ]
+    },
+    {
+      "id": "rtn_2b7e9f3c1d8a",
+      "title": "Vacuum and Mop - Apartment",
+      "category": "chores",
+      "timestamp": "2024-12-12T18:00:00-05:00",
+      "duration_minutes": 45,
+      "status": "completed",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_8c3f1e9d4b7a",
+      "title": "Coffee Catch-up with Priya",
+      "category": "social",
+      "date": "2024-11-28",
+      "start_time": "15:30:00",
+      "end_time": "16:30:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Commonplace Coffee - Squirrel Hill",
+      "attendees": [
+        "Priya Shah"
+      ]
+    },
+    {
+      "id": "rtn_4d9a2c7e1f5b",
+      "title": "HVAC Filter Replacement",
+      "category": "maintenance",
+      "date": "2024-08-20",
+      "timestamp": "2024-08-20T10:00:00-04:00",
+      "duration_minutes": 20,
+      "status": "completed",
+      "notes": "Changed filter, set reminder for November"
+    },
+    {
+      "id": "rtn_1f8b3c9e2d7a",
+      "title": "Evening Journaling",
+      "category": "wellness",
+      "date": "2024-12-18",
+      "timestamp": "2024-12-18T22:00:00-05:00",
+      "duration_minutes": 15,
+      "status": "completed",
+      "recurrence": "daily"
+    },
+    {
+      "id": "rtn_7e2c5f1a9d4b",
+      "title": "Laundry - Sheets and Towels",
+      "category": "household",
+      "date": "2024-12-16",
+      "start_time": "18:30:00",
+      "end_time": "20:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_3a9d4c8f2e1b",
+      "title": "Tech Networking Mixer",
+      "category": "career",
+      "date": "2024-11-15",
+      "start_time": "18:00:00",
+      "end_time": "20:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Rooftop at City View",
+      "notes": "Met contacts from local data science community"
+    },
+    {
+      "id": "rtn_9f3e1c8d5b7a",
+      "title": "Guitar Practice - Fingerpicking",
+      "category": "hobby",
+      "timestamp": "2024-12-14T16:00:00-05:00",
+      "duration_minutes": 40,
+      "status": "completed",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_5c7a2e9f1d4b",
+      "title": "Annual Eye Examination",
+      "category": "health",
+      "date": "2024-06-10",
+      "start_time": "10:00:00",
+      "end_time": "10:45:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Forbes Vision Center",
+      "notes": "Prescription unchanged, ordered new frames"
+    },
+    {
+      "id": "rtn_2d8f3c1e9b7a",
+      "title": "Farmers Market - Strip District",
+      "category": "household",
+      "date": "2024-12-14",
+      "period_start": "08:00:00",
+      "period_end": "10:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "recurrence": "weekly",
+      "notes": "Bought root vegetables and local honey"
+    },
+    {
+      "id": "rtn_6e1b9c4f8d3a",
+      "title": "Donation Drop-off to Goodwill",
+      "category": "household",
+      "date": "2024-10-05",
+      "timestamp": "2024-10-05T14:00:00-04:00",
+      "duration_minutes": 30,
+      "status": "completed",
+      "notes": "Dropped off two bags of clothes and books"
+    },
+    {
+      "id": "rtn_4a7d2f9c1e8b",
+      "title": "Prescription Refill - Pickup",
+      "category": "health",
+      "date": "2024-12-01",
+      "start_time": "17:00:00",
+      "end_time": "17:15:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "CVS Pharmacy - Alder Ridge Road"
+    },
+    {
+      "id": "rtn_8b3c9e1f7d2a",
+      "title": "Water Indoor Plants",
+      "category": "household",
+      "timestamp": "2024-12-17T08:00:00-05:00",
+      "duration_minutes": 10,
+      "status": "completed",
+      "recurrence": "daily"
+    },
+    {
+      "id": "rtn_1e5f8c3d9b2a",
+      "title": "1:1 Meeting with Leah",
+      "category": "work",
+      "date": "2024-12-13",
+      "start_time": "14:00:00",
+      "end_time": "14:30:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "attendees": [
+        "Leah Morgan"
+      ],
+      "notes": "Discussed Q1 roadmap priorities"
+    },
+    {
+      "id": "rtn_7c4d9f2e1b8a",
+      "title": "Tax Document Organization",
+      "category": "finance",
+      "date": "2024-04-15",
+      "timestamp": "2024-04-15T19:00:00-04:00",
+      "duration_minutes": 90,
+      "status": "completed",
+      "notes": "Gathered receipts and W2s for accountant"
+    },
+    {
+      "id": "rtn_3f9a2c7e1d5b",
+      "title": "Annual Flu Vaccination",
+      "category": "health",
+      "date": "2024-10-01",
+      "start_time": "11:00:00",
+      "end_time": "11:15:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "Rite Aid Clinic"
+    },
+    {
+      "id": "rtn_9d2b8f1c5e7a",
+      "title": "Physical Therapy - Knee Rehab",
+      "category": "health",
+      "date": "2024-12-11",
+      "start_time": "17:30:00",
+      "end_time": "18:30:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "location": "UPMC Sports Medicine",
+      "recurrence": "weekly"
+    },
+    {
+      "id": "rtn_5e1c9f4a8d3b",
+      "title": "Q4 Quarterly Planning Session",
+      "category": "work",
+      "date": "2024-10-01",
+      "timestamp": "2024-10-01T10:00:00-04:00",
+      "duration_minutes": 120,
+      "status": "completed",
+      "attendees": [
+        "Calvin Price",
+        "Grace Lin",
+        "Iris Romero"
+      ]
+    },
+    {
+      "id": "rtn_2a8d3f7c1e9b",
+      "title": "Iris Birthday Dinner Planning",
+      "category": "family",
+      "date": "2024-05-20",
+      "start_time": "16:00:00",
+      "end_time": "17:00:00",
+      "timezone": "America/New_York",
+      "status": "completed",
+      "notes": "Reservations at Pasha Cafe, ordered gift"
+    }
+  ]
+}

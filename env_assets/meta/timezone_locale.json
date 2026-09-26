@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/timezone_locale.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2026-06-30T14:22:00Z"
+  },
+  "records": [
+    {
+      "id": "cfg-mobile-primary",
+      "timestamp": "2026-04-15T14:30:00Z",
+      "timezone": "America/New_York",
+      "locale": "en-US",
+      "utc_offset_dst": "-04:00",
+      "device_type": "smartphone"
+    },
+    {
+      "id": "cfg-laptop-work",
+      "timestamp": "2026-04-16T09:15:00Z",
+      "timezone": "America/New_York",
+      "locale": "en-US",
+      "time_format": "12h",
+      "first_day_of_week": "Sunday"
+    },
+    {
+      "id": "cfg-travel-london",
+      "start_time": "2026-05-20T00:00:00Z",
+      "end_time": "2026-05-25T00:00:00Z",
+      "timezone": "Europe/London",
+      "locale": "en-GB",
+      "utc_offset_dst": "+01:00",
+      "trip_purpose": "conference"
+    },
+    {
+      "id": "cfg-banking-prefs",
+      "date": "2026-04-01",
+      "timezone": "America/New_York",
+      "date_format": "MM/DD/YYYY",
+      "currency_code": "USD",
+      "number_format": "#,###.##"
+    },
+    {
+      "id": "cfg-fitness-device",
+      "timestamp": "2026-06-25T11:45:00Z",
+      "timezone": "America/New_York",
+      "locale": "en-US",
+      "sync_source": "Garmin Connect"
+    },
+    {
+      "id": "cfg-calendar-global",
+      "timestamp": "2026-04-01T10:00:00Z",
+      "default_timezone": "America/New_York",
+      "secondary_timezones": [
+        "America/Los_Angeles",
+        "Europe/Berlin"
+      ],
+      "dst_auto_adjust": true
+    }
+  ]
+}

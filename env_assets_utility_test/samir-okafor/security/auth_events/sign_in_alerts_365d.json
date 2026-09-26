@@ -1,0 +1,912 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/sign_in_alerts_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-03T14:22:31Z",
+    "source": "security_audit_export"
+  },
+  "records": [
+    {
+      "id": "evt-241102-0915-a7f3",
+      "timestamp": "2024-11-02T09:15:00-06:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.6.1",
+        "browser": "Chrome 130.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 15,
+      "mfa_method": "push_notification",
+      "details": "Standard authentication flow from trusted device"
+    },
+    {
+      "id": "evt-241101-1830-b2e1",
+      "timestamp": "2024-11-01T18:30:00-06:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.4.1",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 12,
+      "mfa_method": "none",
+      "details": "Biometric authentication via Face ID"
+    },
+    {
+      "id": "evt-241028-1420-c4d5",
+      "timestamp": "2024-10-28T14:20:00-06:00",
+      "service": "GitHub",
+      "account_identifier": "samir.okafor",
+      "event_type": "NEW_DEVICE_DETECTED",
+      "device": {
+        "name": "iPad-Pro-M4",
+        "type": "tablet",
+        "os": "iPadOS 17.5",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-p3k7m2n9"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "104.28.91.204",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 45,
+      "mfa_method": "totp",
+      "details": "First login from new device, email verification sent"
+    },
+    {
+      "id": "evt-241025-0845-d8e2",
+      "timestamp": "2024-10-25T08:45:00-05:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "FAILED_LOGIN",
+      "device": {
+        "name": "Unknown-Windows-Device",
+        "type": "desktop",
+        "os": "Windows 10",
+        "browser": "Edge 129.0",
+        "fingerprint": "fp-unknown"
+      },
+      "location": {
+        "city": "Chicago",
+        "region": "Illinois",
+        "country": "US",
+        "ip_address": "73.110.15.42",
+        "isp": "AT&T Fiber"
+      },
+      "outcome": "FAILURE",
+      "risk_score": 65,
+      "mfa_method": "none",
+      "details": "Password incorrect, 3 attempts remaining"
+    },
+    {
+      "id": "evt-241025-0847-e9f3",
+      "timestamp": "2024-10-25T08:47:00-05:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.4.1",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Chicago",
+        "region": "Illinois",
+        "country": "US",
+        "ip_address": "73.110.15.42",
+        "isp": "AT&T Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 25,
+      "mfa_method": "push_notification",
+      "details": "Successful login following previous failure"
+    },
+    {
+      "id": "evt-241015-1100-f1a4",
+      "timestamp": "2024-10-15T11:00:00-06:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "PASSWORD_CHANGED",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.6.1",
+        "browser": "Chrome 130.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 20,
+      "mfa_method": "totp",
+      "details": "Password updated via security settings"
+    },
+    {
+      "id": "evt-241010-1630-g5b6",
+      "timestamp": "2024-10-10T16:30:00-06:00",
+      "service": "Amazon",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "MFA_CHALLENGE",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.4.1",
+        "browser": "Amazon App 28.2",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 30,
+      "mfa_method": "sms",
+      "details": "SMS verification code accepted"
+    },
+    {
+      "id": "evt-240928-0900-h7c8",
+      "timestamp": "2024-09-28T09:00:00-06:00",
+      "service": "Apple ID",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.6.1",
+        "browser": "Safari 17.6",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 10,
+      "mfa_method": "none",
+      "details": "Two-factor authentication not required on trusted device"
+    },
+    {
+      "id": "evt-240920-1315-j9d0",
+      "timestamp": "2024-09-20T13:15:00-05:00",
+      "service": "Google Workspace",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUSPICIOUS_LOCATION",
+      "device": {
+        "name": "Chrome-Browser",
+        "type": "desktop",
+        "os": "Windows 11",
+        "browser": "Chrome 128.0",
+        "fingerprint": "fp-k2l8m4n6"
+      },
+      "location": {
+        "city": "Austin",
+        "region": "Texas",
+        "country": "US",
+        "ip_address": "76.184.22.91",
+        "isp": "Spectrum"
+      },
+      "outcome": "CHALLENGE_REQUIRED",
+      "risk_score": 78,
+      "mfa_method": "push_notification",
+      "details": "Impossible travel flag - previous login from Denver 2 hours ago"
+    },
+    {
+      "id": "evt-240920-1320-k1e2",
+      "timestamp": "2024-09-20T13:20:00-05:00",
+      "service": "Google Workspace",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Chrome-Browser",
+        "type": "desktop",
+        "os": "Windows 11",
+        "browser": "Chrome 128.0",
+        "fingerprint": "fp-k2l8m4n6"
+      },
+      "location": {
+        "city": "Austin",
+        "region": "Texas",
+        "country": "US",
+        "ip_address": "76.184.22.91",
+        "isp": "Spectrum"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 35,
+      "mfa_method": "push_notification",
+      "details": "MFA challenge passed, location verified"
+    },
+    {
+      "id": "evt-240905-1000-l3f4",
+      "timestamp": "2024-09-05T10:00:00-06:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Workstation-DEN-047",
+        "type": "desktop",
+        "os": "Windows 11",
+        "browser": "Edge 128.0",
+        "fingerprint": "fp-w4x6y8z2"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "208.46.184.15",
+        "isp": "Riverton Health Labs Corporate"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 5,
+      "mfa_method": "none",
+      "details": "Corporate network authentication via certificate"
+    },
+    {
+      "id": "evt-240822-1930-m5g6",
+      "timestamp": "2024-08-22T19:30:00-06:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "FAILED_LOGIN",
+      "device": {
+        "name": "Unknown-Device",
+        "type": "mobile",
+        "os": "Android 14",
+        "browser": "Chrome Mobile",
+        "fingerprint": "fp-unknown"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "FAILURE",
+      "risk_score": 55,
+      "mfa_method": "none",
+      "details": "Invalid credentials provided"
+    },
+    {
+      "id": "evt-240822-1935-n7h8",
+      "timestamp": "2024-08-22T19:35:00-06:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.4.1",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 18,
+      "mfa_method": "none",
+      "details": "Correct password entered after failed attempt"
+    },
+    {
+      "id": "evt-240815-0800-p9i0",
+      "timestamp": "2024-08-15T08:00:00-06:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "NEW_DEVICE_DETECTED",
+      "device": {
+        "name": "Windows-Temp-Laptop",
+        "type": "desktop",
+        "os": "Windows 10",
+        "browser": "Chrome 127.0",
+        "fingerprint": "fp-q1r2s3t4"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 40,
+      "mfa_method": "push_notification",
+      "details": "Temporary workstation registered"
+    },
+    {
+      "id": "evt-240730-1500-a1b2",
+      "timestamp": "2024-07-30T15:00:00-06:00",
+      "service": "GitHub",
+      "account_identifier": "samir.okafor",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.5",
+        "browser": "Chrome 126.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 12,
+      "mfa_method": "totp",
+      "details": "SSH key and TOTP verification successful"
+    },
+    {
+      "id": "evt-240712-1130-c3d4",
+      "timestamp": "2024-07-12T11:30:00-06:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "MFA_CHALLENGE",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.3",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Boulder",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "67.176.42.15",
+        "isp": "Xfinity Mobile"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 25,
+      "mfa_method": "push_notification",
+      "details": "Authentication challenge completed while traveling"
+    },
+    {
+      "id": "evt-240625-0900-e5f6",
+      "timestamp": "2024-06-25T09:00:00-06:00",
+      "service": "Amazon",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.3",
+        "browser": "Amazon App 27.8",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 10,
+      "mfa_method": "none",
+      "details": "Standard app authentication"
+    },
+    {
+      "id": "evt-240610-1400-g7h8",
+      "timestamp": "2024-06-10T14:00:00-04:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.2",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "New York",
+        "region": "New York",
+        "country": "US",
+        "ip_address": "69.55.54.200",
+        "isp": "Verizon Wireless"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 22,
+      "mfa_method": "none",
+      "details": "Vacation travel login"
+    },
+    {
+      "id": "evt-240528-0800-i9j0",
+      "timestamp": "2024-05-28T08:00:00-06:00",
+      "service": "Apple ID",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "FAILED_LOGIN",
+      "device": {
+        "name": "Unknown-Mac",
+        "type": "desktop",
+        "os": "macOS",
+        "browser": "Safari",
+        "fingerprint": "fp-unknown"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "FAILURE",
+      "risk_score": 50,
+      "mfa_method": "none",
+      "details": "Incorrect password attempt"
+    },
+    {
+      "id": "evt-240528-0805-k1l2",
+      "timestamp": "2024-05-28T08:05:00-06:00",
+      "service": "Apple ID",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.4.1",
+        "browser": "Safari 17.4",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 15,
+      "mfa_method": "sms",
+      "details": "Recovery SMS sent after failed attempt"
+    },
+    {
+      "id": "evt-240515-1600-m3n4",
+      "timestamp": "2024-05-15T16:00:00-06:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "PASSWORD_CHANGED",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.4",
+        "browser": "Chrome 124.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "208.46.184.15",
+        "isp": "Riverton Health Labs Corporate"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 20,
+      "mfa_method": "push_notification",
+      "details": "90-day password rotation policy enforcement"
+    },
+    {
+      "id": "evt-240422-1000-o5p6",
+      "timestamp": "2024-04-22T10:00:00-06:00",
+      "service": "Google Workspace",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.4",
+        "browser": "Chrome 123.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 10,
+      "mfa_method": "none",
+      "details": "Trusted device session refresh"
+    },
+    {
+      "id": "evt-240408-1330-q7r8",
+      "timestamp": "2024-04-08T13:30:00-07:00",
+      "service": "GitHub",
+      "account_identifier": "samir.okafor",
+      "event_type": "NEW_LOCATION",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.3",
+        "browser": "Chrome 123.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "California",
+        "country": "US",
+        "ip_address": "198.199.98.110",
+        "isp": "Webpass"
+      },
+      "outcome": "ALERT",
+      "risk_score": 60,
+      "mfa_method": "none",
+      "details": "Login from new geographic location, verification email sent"
+    },
+    {
+      "id": "evt-240408-1335-s9t0",
+      "timestamp": "2024-04-08T13:35:00-07:00",
+      "service": "GitHub",
+      "account_identifier": "samir.okafor",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.3",
+        "browser": "Chrome 123.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "San Francisco",
+        "region": "California",
+        "country": "US",
+        "ip_address": "198.199.98.110",
+        "isp": "Webpass"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 30,
+      "mfa_method": "totp",
+      "details": "Location verified via TOTP"
+    },
+    {
+      "id": "evt-240320-0900-u1v2",
+      "timestamp": "2024-03-20T09:00:00-06:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.1",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 12,
+      "mfa_method": "none",
+      "details": "Routine mobile access"
+    },
+    {
+      "id": "evt-240315-1100-w3x4",
+      "timestamp": "2024-03-15T11:00:00-06:00",
+      "service": "Amazon",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUSPICIOUS_ACTIVITY",
+      "device": {
+        "name": "Unknown-Browser",
+        "type": "desktop",
+        "os": "Windows",
+        "browser": "Firefox 123.0",
+        "fingerprint": "fp-suspicious"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "185.220.101.42",
+        "isp": "Tor Exit Node"
+      },
+      "outcome": "BLOCKED",
+      "risk_score": 95,
+      "mfa_method": "none",
+      "details": "Access blocked from known anonymization network"
+    },
+    {
+      "id": "evt-240301-1400-y5z6",
+      "timestamp": "2024-03-01T14:00:00-07:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Workstation-DEN-047",
+        "type": "desktop",
+        "os": "Windows 11",
+        "browser": "Edge 122.0",
+        "fingerprint": "fp-w4x6y8z2"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "208.46.184.15",
+        "isp": "Riverton Health Labs Corporate"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 5,
+      "mfa_method": "none",
+      "details": "Standard corporate network login"
+    },
+    {
+      "id": "evt-240220-0830-a7b8",
+      "timestamp": "2024-02-20T08:30:00-07:00",
+      "service": "Apple ID",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "iPad-Pro",
+        "type": "tablet",
+        "os": "iPadOS 17.3",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-p3k7m2n9"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 8,
+      "mfa_method": "none",
+      "details": "Trusted device authentication"
+    },
+    {
+      "id": "evt-240205-1900-c9d0",
+      "timestamp": "2024-02-05T19:00:00-07:00",
+      "service": "GitHub",
+      "account_identifier": "samir.okafor",
+      "event_type": "FAILED_LOGIN",
+      "device": {
+        "name": "Unknown-Linux",
+        "type": "desktop",
+        "os": "Linux",
+        "browser": "Firefox",
+        "fingerprint": "fp-unknown"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "FAILURE",
+      "risk_score": 48,
+      "mfa_method": "none",
+      "details": "Invalid SSH key attempted"
+    },
+    {
+      "id": "evt-240125-1000-e1f2",
+      "timestamp": "2024-01-25T10:00:00-07:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.3",
+        "browser": "Chrome 120.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 10,
+      "mfa_method": "none",
+      "details": "Email client authentication"
+    },
+    {
+      "id": "evt-240110-0930-g3h4",
+      "timestamp": "2024-01-10T09:30:00-07:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "MFA_CHALLENGE",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.2",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "208.46.184.15",
+        "isp": "Riverton Health Labs Corporate"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 20,
+      "mfa_method": "push_notification",
+      "details": "Step-up authentication for sensitive application access"
+    },
+    {
+      "id": "evt-231228-1600-i5j6",
+      "timestamp": "2023-12-28T16:00:00-07:00",
+      "service": "Amazon",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.1",
+        "browser": "Amazon App 26.5",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 10,
+      "mfa_method": "none",
+      "details": "Holiday shopping session"
+    },
+    {
+      "id": "evt-231215-1100-k7l8",
+      "timestamp": "2023-12-15T11:00:00-07:00",
+      "service": "Meadowmail",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "NEW_DEVICE_DETECTED",
+      "device": {
+        "name": "iPhone-15-Pro",
+        "type": "mobile",
+        "os": "iOS 17.1",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8-new"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 35,
+      "mfa_method": "totp",
+      "details": "New iPhone provisioned, previous device iPhone 12 retired"
+    },
+    {
+      "id": "evt-231130-0800-m9n0",
+      "timestamp": "2023-11-30T08:00:00-07:00",
+      "service": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.1",
+        "browser": "Chrome 119.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "208.46.184.15",
+        "isp": "Riverton Health Labs Corporate"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 5,
+      "mfa_method": "none",
+      "details": "Post-holiday return to office"
+    },
+    {
+      "id": "evt-231120-1430-o1p2",
+      "timestamp": "2023-11-20T14:30:00-07:00",
+      "service": "GitHub",
+      "account_identifier": "samir.okafor",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "MacBook-Pro-Work",
+        "type": "desktop",
+        "os": "macOS 14.1",
+        "browser": "Chrome 119.0",
+        "fingerprint": "fp-a8f2d9c1"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "73.157.42.118",
+        "isp": "CenturyLink Fiber"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 10,
+      "mfa_method": "ssh_key",
+      "details": "Git operations via SSH"
+    },
+    {
+      "id": "evt-231105-0900-q3r4",
+      "timestamp": "2023-11-05T09:00:00-07:00",
+      "service": "Apple ID",
+      "account_identifier": "samir.okafor@meadowmail.co",
+      "event_type": "SUCCESSFUL_LOGIN",
+      "device": {
+        "name": "Samir's iPhone",
+        "type": "mobile",
+        "os": "iOS 17.0",
+        "browser": "Safari Mobile",
+        "fingerprint": "fp-m9c2b4d8"
+      },
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "US",
+        "ip_address": "50.232.184.93",
+        "isp": "Comcast Cable"
+      },
+      "outcome": "SUCCESS",
+      "risk_score": 8,
+      "mfa_method": "none",
+      "details": "iCloud services authentication"
+    }
+  ]
+}

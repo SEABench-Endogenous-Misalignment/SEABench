@@ -1,0 +1,336 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/attachments/note_attachment_index_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-15T18:45:32Z",
+    "source": "notes_attachment_sync"
+  },
+  "records": [
+    {
+      "id": "att_84j2k9m1n4q7",
+      "timestamp": "2024-09-28T16:45:00Z",
+      "note_title": "Q4 Strategic Planning - Client Accounts",
+      "file_name": "Q4_Roadmap_Final.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 2456789,
+      "storage_path": "attachments/2024/09/Q4_Roadmap_Final.pdf"
+    },
+    {
+      "id": "att_92p5r8t3v6w9",
+      "timestamp": "2024-09-15T09:30:00Z",
+      "note_title": "Design System Component Updates",
+      "file_name": "Design_Tokens_Update.fig",
+      "file_type": "application/figma",
+      "file_size_bytes": 15728640,
+      "storage_path": "attachments/2024/09/Design_Tokens_Update.fig"
+    },
+    {
+      "id": "att_38e1h4k7m2n5",
+      "timestamp": "2024-08-22T13:15:00Z",
+      "note_title": "Home Insurance Policy Details",
+      "file_name": "Renters_Insurance_2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 912400,
+      "storage_path": "attachments/2024/08/Renters_Insurance_2024.pdf"
+    },
+    {
+      "id": "att_61q3s6u9x2y5",
+      "timestamp": "2024-07-10T11:20:00Z",
+      "note_title": "Kitchen Renovation Planning",
+      "file_name": "Kitchen_Reno_Quote_Horizon.jpg",
+      "file_type": "image/jpeg",
+      "file_size_bytes": 3254781,
+      "storage_path": "attachments/2024/07/Kitchen_Reno_Quote_Horizon.jpg"
+    },
+    {
+      "id": "att_15b8d2g5j8k1",
+      "timestamp": "2024-09-05T17:00:00Z",
+      "note_title": "Acme Corp Sprint Review Notes",
+      "file_name": "Client_Feedback_AcmeCorp.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "file_size_bytes": 463872,
+      "storage_path": "attachments/2024/09/Client_Feedback_AcmeCorp.docx"
+    },
+    {
+      "id": "att_47f9i2l5o8p1",
+      "timestamp": "2024-10-05T08:10:00Z",
+      "note_title": "October NYC Trip with Nina",
+      "file_name": "NYC_Trip_Itinerary.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 1245184,
+      "storage_path": "attachments/2024/10/NYC_Trip_Itinerary.pdf"
+    },
+    {
+      "id": "att_73n6q9t2w5z8",
+      "timestamp": "2024-06-18T14:30:00Z",
+      "note_title": "Mobile App Redesign Concepts",
+      "file_name": "Mobile_App_Wireframes_v2.png",
+      "file_type": "image/png",
+      "file_size_bytes": 5033165,
+      "storage_path": "attachments/2024/06/Mobile_App_Wireframes_v2.png"
+    },
+    {
+      "id": "att_29c5f8h1k4m7",
+      "timestamp": "2024-05-12T10:45:00Z",
+      "note_title": "Health Records 2024",
+      "file_name": "Annual_Physical_Results.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 1572864,
+      "storage_path": "attachments/2024/05/Annual_Physical_Results.pdf"
+    },
+    {
+      "id": "att_84r2u5x8z1a4",
+      "timestamp": "2024-08-30T09:00:00Z",
+      "note_title": "FY25 Budget Planning",
+      "file_name": "FY25_Budget_Proposal.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "file_size_bytes": 2936013,
+      "storage_path": "attachments/2024/08/FY25_Budget_Proposal.xlsx"
+    },
+    {
+      "id": "att_52v8y1b4e7h0",
+      "timestamp": "2024-09-20T19:30:00Z",
+      "note_title": "Elena's Wedding Plans",
+      "file_name": "Elena_Wedding_SaveTheDate.png",
+      "file_type": "image/png",
+      "file_size_bytes": 2306867,
+      "storage_path": "attachments/2024/09/Elena_Wedding_SaveTheDate.png"
+    },
+    {
+      "id": "att_17k3n6q9t2w5",
+      "timestamp": "2024-04-15T11:00:00Z",
+      "note_title": "User Research Q2 2024",
+      "file_name": "Q2_User_Research_Transcripts.zip",
+      "file_type": "application/zip",
+      "file_size_bytes": 47185920,
+      "storage_path": "attachments/2024/04/Q2_User_Research_Transcripts.zip"
+    },
+    {
+      "id": "att_94p7s2v5y8b1",
+      "timestamp": "2024-03-28T16:20:00Z",
+      "note_title": "Auto Maintenance Log",
+      "file_name": "Subaru_Maintenance_Receipt.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 389120,
+      "storage_path": "attachments/2024/03/Subaru_Maintenance_Receipt.pdf"
+    },
+    {
+      "id": "att_38d6g9j2m5p8",
+      "timestamp": "2024-10-12T13:45:00Z",
+      "note_title": "Presentation Templates Library",
+      "file_name": "AllHands_Template_Q4.pptx",
+      "file_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "file_size_bytes": 5872026,
+      "storage_path": "attachments/2024/10/AllHands_Template_Q4.pptx"
+    },
+    {
+      "id": "att_52h5k8n1q4t7",
+      "timestamp": "2024-07-04T18:00:00Z",
+      "note_title": "Favorite Recipe Collection",
+      "file_name": "Nonna_Pasta_Recipe.jpg",
+      "file_type": "image/jpeg",
+      "file_size_bytes": 1992294,
+      "storage_path": "attachments/2024/07/Nonna_Pasta_Recipe.jpg"
+    },
+    {
+      "id": "att_86r3u6x9a2d5",
+      "timestamp": "2024-08-14T10:30:00Z",
+      "note_title": "Vendor Agreements 2024",
+      "file_name": "Vendor_Contract_Amendment_v2.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 1153434,
+      "storage_path": "attachments/2024/08/Vendor_Contract_Amendment_v2.pdf"
+    },
+    {
+      "id": "att_41w7z0c3f6i9",
+      "timestamp": "2024-02-10T09:15:00Z",
+      "note_title": "Travel Document Scans",
+      "file_name": "Passport_Renewal_Copy.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 2411725,
+      "storage_path": "attachments/2024/02/Passport_Renewal_Copy.pdf"
+    },
+    {
+      "id": "att_63b9e2h5k8n1",
+      "timestamp": "2024-09-18T15:20:00Z",
+      "note_title": "September Metrics Review",
+      "file_name": "Analytics_Dashboard_Screenshot.png",
+      "file_type": "image/png",
+      "file_size_bytes": 911360,
+      "storage_path": "attachments/2024/09/Analytics_Dashboard_Screenshot.png"
+    },
+    {
+      "id": "att_97j4m7p0s3v6",
+      "timestamp": "2024-06-05T20:10:00Z",
+      "note_title": "Assembly Instructions Archive",
+      "file_name": "IKEA_Billy_Assembly.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 4404019,
+      "storage_path": "attachments/2024/06/IKEA_Billy_Assembly.pdf"
+    },
+    {
+      "id": "att_25q8t1w4z7a0",
+      "timestamp": "2024-05-25T12:00:00Z",
+      "note_title": "Brightline Team Offsite May 2024",
+      "file_name": "Team_Offsite_Photos_2024.zip",
+      "file_type": "application/zip",
+      "file_size_bytes": 134217728,
+      "storage_path": "attachments/2024/05/Team_Offsite_Photos_2024.zip"
+    },
+    {
+      "id": "att_78c2f5i8l1o4",
+      "timestamp": "2024-04-02T11:30:00Z",
+      "note_title": "Tax Filing 2023",
+      "file_name": "Tax_Documents_2023_Complete.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 12582912,
+      "storage_path": "attachments/2024/04/Tax_Documents_2023_Complete.pdf"
+    },
+    {
+      "id": "att_13v6y9b2e5h8",
+      "timestamp": "2024-10-08T09:45:00Z",
+      "note_title": "Integration Specifications",
+      "file_name": "API_Documentation_v2.1.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 3670016,
+      "storage_path": "attachments/2024/10/API_Documentation_v2.1.pdf"
+    },
+    {
+      "id": "att_46k9n2q5t8w1",
+      "timestamp": "2024-01-15T08:30:00Z",
+      "note_title": "Gym Membership Cards",
+      "file_name": "LA_Fitness_Membership.png",
+      "file_type": "image/png",
+      "file_size_bytes": 245760,
+      "storage_path": "attachments/2024/01/LA_Fitness_Membership.png"
+    },
+    {
+      "id": "att_89p4s7v0y3b6",
+      "timestamp": "2024-07-22T14:00:00Z",
+      "note_title": "Market Research Q3",
+      "file_name": "Competitor_Analysis_Q3.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "file_size_bytes": 1887437,
+      "storage_path": "attachments/2024/07/Competitor_Analysis_Q3.xlsx"
+    },
+    {
+      "id": "att_32e7h1k4n7q0",
+      "timestamp": "2024-08-08T16:45:00Z",
+      "note_title": "Pet Health Records",
+      "file_name": "Koda_Vaccination_Records.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 634880,
+      "storage_path": "attachments/2024/08/Koda_Vaccination_Records.pdf"
+    },
+    {
+      "id": "att_65r8u2x5a8d1",
+      "timestamp": "2024-09-25T10:15:00Z",
+      "note_title": "A11y Compliance Review",
+      "file_name": "Accessibility_Audit_Report_Q3.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 2202010,
+      "storage_path": "attachments/2024/09/Accessibility_Audit_Report_Q3.pdf"
+    },
+    {
+      "id": "att_98z3c6f9i2l5",
+      "timestamp": "2024-06-22T19:00:00Z",
+      "note_title": "Concert Tickets Summer 2024",
+      "file_name": "Phish_Concert_Tickets_June24.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 491520,
+      "storage_path": "attachments/2024/06/Phish_Concert_Tickets_June24.pdf"
+    },
+    {
+      "id": "att_21h5k8n2q5t8",
+      "timestamp": "2024-03-15T13:30:00Z",
+      "note_title": "Team Onboarding Process",
+      "file_name": "New_Designer_Onboarding.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "file_size_bytes": 911360,
+      "storage_path": "attachments/2024/03/New_Designer_Onboarding.docx"
+    },
+    {
+      "id": "att_54p8s2v5y8b1",
+      "timestamp": "2024-07-30T07:45:00Z",
+      "note_title": "Houseplant Care Tips",
+      "file_name": "Monstera_Care_Guide.jpg",
+      "file_type": "image/jpeg",
+      "file_size_bytes": 1468006,
+      "storage_path": "attachments/2024/07/Monstera_Care_Guide.jpg"
+    },
+    {
+      "id": "att_87e2h5k8n2q5",
+      "timestamp": "2024-05-08T11:20:00Z",
+      "note_title": "Brand Standards 2024",
+      "file_name": "Brightline_Brand_Guidelines_2024.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 18874368,
+      "storage_path": "attachments/2024/05/Brightline_Brand_Guidelines_2024.pdf"
+    },
+    {
+      "id": "att_10t4w7z0c3f6",
+      "timestamp": "2024-09-12T14:50:00Z",
+      "note_title": "Career Documents",
+      "file_name": "Maya_Patel_Resume_2024.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "file_size_bytes": 389120,
+      "storage_path": "attachments/2024/09/Maya_Patel_Resume_2024.docx"
+    },
+    {
+      "id": "att_43b7e0h3k6n9",
+      "timestamp": "2024-04-28T09:00:00Z",
+      "note_title": "Project Alpha Archive",
+      "file_name": "Project_Alpha_Meeting_Notes.zip",
+      "file_type": "application/zip",
+      "file_size_bytes": 8808038,
+      "storage_path": "attachments/2024/04/Project_Alpha_Meeting_Notes.zip"
+    },
+    {
+      "id": "att_76i0l3o6r9u2",
+      "timestamp": "2024-10-01T20:30:00Z",
+      "note_title": "Holiday Gift Planning 2024",
+      "file_name": "Holiday_Gift_Ideas_2024.png",
+      "file_type": "image/png",
+      "file_size_bytes": 2726298,
+      "storage_path": "attachments/2024/10/Holiday_Gift_Ideas_2024.png"
+    },
+    {
+      "id": "att_09r3u6x9a2d5",
+      "timestamp": "2024-08-19T16:00:00Z",
+      "note_title": "Platform Migration Specs",
+      "file_name": "Platform_Migration_Tech_Spec.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 5452595,
+      "storage_path": "attachments/2024/08/Platform_Migration_Tech_Spec.pdf"
+    },
+    {
+      "id": "att_42w5z8c1f4i7",
+      "timestamp": "2024-06-12T18:15:00Z",
+      "note_title": "Bike Maintenance Log",
+      "file_name": "Trek_Bike_Manual.pdf",
+      "file_type": "application/pdf",
+      "file_size_bytes": 9332326,
+      "storage_path": "attachments/2024/06/Trek_Bike_Manual.pdf"
+    },
+    {
+      "id": "att_75b9e2h5k8n1",
+      "timestamp": "2024-07-14T12:30:00Z",
+      "note_title": "Design Resources Library",
+      "file_name": "Color_Palette_System.ase",
+      "file_type": "application/octet-stream",
+      "file_size_bytes": 46080,
+      "storage_path": "attachments/2024/07/Color_Palette_System.ase"
+    },
+    {
+      "id": "att_08q2t5w8z1b4",
+      "timestamp": "2024-05-20T15:00:00Z",
+      "note_title": "Pittsburgh Neighborhood Guides",
+      "file_name": "Lawrenceville_Walking_Map.png",
+      "file_type": "image/png",
+      "file_size_bytes": 3460301,
+      "storage_path": "attachments/2024/05/Lawrenceville_Walking_Map.png"
+    }
+  ]
+}

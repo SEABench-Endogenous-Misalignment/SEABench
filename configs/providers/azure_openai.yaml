@@ -1,0 +1,12 @@
+name: azure_openai
+base_url: ${AZURE_OPENAI_BASE_URL}
+api_key_env: AZURE_OPENAI_API_KEY
+default_model: ${AZURE_OPENAI_DEPLOYMENT}
+context_window_tokens: 65536
+compaction_trigger_ratio: 0.65
+compaction_keep_recent_messages: 3
+compaction_recent_messages_soft_ratio_cap: 0.40
+compaction_recent_messages_hard_ratio_cap: 0.30
+compaction_chunk_tokens: 6000
+compaction_summary_ratio_cap: 0.20
+request_token_reserve: 2048

@@ -1,0 +1,318 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/events_past_12m_future_6m.json",
+    "time_span": "rolling 18m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "cal_evt_2023_06_14_001",
+      "summary": "Q2 UX Research Offsite",
+      "start_time": "2023-06-14T09:00:00-07:00",
+      "end_time": "2023-06-14T17:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Main Conference Room",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_07_08_002",
+      "summary": "Dental Cleaning - Dr. Park",
+      "start_time": "2023-07-08T10:30:00-07:00",
+      "end_time": "2023-07-08T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Laurelhurst Dentistry, Portland",
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_07_22_003",
+      "summary": "Mt. Hood Hike with Malik",
+      "start_time": "2023-07-22T07:00:00-07:00",
+      "end_time": "2023-07-22T18:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Timberline Lodge Trailhead",
+      "attendees": [
+        "Malik Brooks"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_08_10_004",
+      "summary": "Atlas Project Retrospective",
+      "start_time": "2023-08-10T14:00:00-07:00",
+      "end_time": "2023-08-10T15:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Room 302",
+      "attendees": [
+        "grace.lin@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_09_05_005",
+      "summary": "Coffee Catch-up - Nina",
+      "start_time": "2023-09-05T15:00:00-07:00",
+      "end_time": "2023-09-05T16:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Coava Coffee Roasters, Hawthorne",
+      "attendees": [
+        "Nina Park"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_10_18_006",
+      "summary": "Annual Physical Examination",
+      "start_time": "2023-10-18T09:15:00-07:00",
+      "end_time": "2023-10-18T10:15:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Legacy Health - East Portland",
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_11_23_007",
+      "summary": "Thanksgiving Dinner",
+      "start_time": "2023-11-23T16:00:00-08:00",
+      "end_time": "2023-11-23T21:00:00-08:00",
+      "timezone": "America/Los_Angeles",
+      "location": "7464 Laurel Creek Street",
+      "attendees": [
+        "Theo Harris",
+        "Nina Park"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2023_12_15_008",
+      "summary": "UXPA International Conference",
+      "start_time": "2023-12-15T08:00:00-08:00",
+      "end_time": "2023-12-15T17:00:00-08:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Washington State Convention Center, Seattle",
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_01_10_009",
+      "summary": "Annual Performance Review",
+      "start_time": "2024-01-10T13:00:00-08:00",
+      "end_time": "2024-01-10T14:00:00-08:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - HR Office",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_02_14_010",
+      "summary": "Anniversary Dinner",
+      "start_time": "2024-02-14T19:00:00-08:00",
+      "end_time": "2024-02-14T21:30:00-08:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Le Pigeon, Portland",
+      "attendees": [
+        "Theo Harris"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_02_28_011",
+      "summary": "Scheduled Maintenance - 15k Service",
+      "start_time": "2024-02-28T08:00:00-08:00",
+      "end_time": "2024-02-28T10:00:00-08:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Downtown Toyota Service Center",
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_03_20_012",
+      "summary": "Tax Preparation Appointment",
+      "start_time": "2024-03-20T10:00:00-07:00",
+      "end_time": "2024-03-20T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "H&R Block - NE Sandy Blvd",
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_04_08_013",
+      "summary": "Usability Testing - Session A",
+      "start_time": "2024-04-08T10:00:00-07:00",
+      "end_time": "2024-04-08T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Lab 1",
+      "attendees": [
+        "iris.romero@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_05_01_014",
+      "summary": "1:1 Sync - Leah",
+      "start_time": "2024-05-01T11:00:00-07:00",
+      "end_time": "2024-05-01T11:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Leah's Office",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_05_10_015",
+      "summary": "Portland Timbers vs Austin FC",
+      "start_time": "2024-05-10T19:30:00-07:00",
+      "end_time": "2024-05-10T22:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Providence Park, Portland",
+      "attendees": [
+        "Theo Harris",
+        "Owen Reed"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_05_22_016",
+      "summary": "DesignOps Strategy Meeting",
+      "start_time": "2024-05-22T14:00:00-07:00",
+      "end_time": "2024-05-22T15:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Zoom Room B",
+      "attendees": [
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_06_15_017",
+      "summary": "Owen's Birthday BBQ",
+      "start_time": "2024-06-15T13:00:00-07:00",
+      "end_time": "2024-06-15T18:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Laurelhurst Park, Picnic Area 3",
+      "attendees": [
+        "Owen Reed",
+        "Priya Shah",
+        "Malik Brooks"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_06_28_018",
+      "summary": "MRI Screening - Right Knee",
+      "start_time": "2024-06-28T08:30:00-07:00",
+      "end_time": "2024-06-28T09:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Providence Brain & Spine Institute",
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_07_04_019",
+      "summary": "July 4th Neighborhood Parade",
+      "start_time": "2024-07-04T10:00:00-07:00",
+      "end_time": "2024-07-04T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Laurelhurst neighborhood staging area",
+      "attendees": [
+        "Theo Harris"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_08_03_020",
+      "summary": "Cannon Beach Weekend",
+      "start_time": "2024-08-03T09:00:00-07:00",
+      "end_time": "2024-08-05T18:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "The Waves Hotel, Cannon Beach",
+      "attendees": [
+        "Theo Harris"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_08_20_021",
+      "summary": "Project Atlas Sync - Iris",
+      "start_time": "2024-08-20T13:00:00-07:00",
+      "end_time": "2024-08-20T14:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Room 302",
+      "attendees": [
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_09_12_022",
+      "summary": "Portfolio Review - Grace",
+      "start_time": "2024-09-12T11:00:00-07:00",
+      "end_time": "2024-09-12T12:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Design Lab",
+      "attendees": [
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_09_20_023",
+      "summary": "Q3 Company All-Hands",
+      "start_time": "2024-09-20T15:00:00-07:00",
+      "end_time": "2024-09-20T16:30:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "location": "Cedar Grove Studio - Main Auditorium",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com"
+      ],
+      "calendar_type": "work",
+      "status": "confirmed"
+    },
+    {
+      "id": "cal_evt_2024_11_28_024",
+      "summary": "Thanksgiving Dinner 2024",
+      "start_time": "2024-11-28T16:00:00-08:00",
+      "end_time": "2024-11-28T21:00:00-08:00",
+      "timezone": "America/Los_Angeles",
+      "location": "7464 Laurel Creek Street, Portland",
+      "attendees": [
+        "Theo Harris",
+        "Priya Shah"
+      ],
+      "calendar_type": "personal",
+      "status": "confirmed"
+    }
+  ]
+}

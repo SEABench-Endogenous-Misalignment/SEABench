@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/recovery_material_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T09:23:17Z",
+    "source": "password_manager_export"
+  },
+  "records": [
+    {
+      "id": "2fa-backup-work-sso-2024",
+      "date": "2024-03-15",
+      "service_name": "Riverton Health Labs SSO",
+      "account_identifier": "samir.okafor@rivertonhealthlabs.com",
+      "backup_codes": [
+        "48XK9M",
+        "7PL2QR",
+        "J9V3ND",
+        "5WY4BH",
+        "2TK8FC"
+      ],
+      "code_type": "totp_backup"
+    },
+    {
+      "id": "vault-emergency-kit-master",
+      "timestamp": "2024-01-20T09:30:00-07:00",
+      "vault_provider": "SecurePass",
+      "emergency_access_key": "EK-9928-4716-3350",
+      "master_password_hint": "Denver venue + 2017",
+      "secret_key_fragment": "A7F9-2C4E-8B1D",
+      "owner": "Samir Okafor"
+    },
+    {
+      "id": "cloud-emergency-access-nina",
+      "date": "2023-11-08",
+      "service": "MeadowCloud Pro",
+      "emergency_contact": "Nina Park",
+      "emergency_contact_email": "nina.park@northstarmail.com",
+      "access_grant_code": "AC-7749-PP22-MM11",
+      "status": "active"
+    },
+    {
+      "id": "financial-broker-recovery",
+      "date": "2024-09-12",
+      "institution": "Summit Investment Services",
+      "account_recovery_code": "SMT-8847-2210",
+      "pin_recovery_phrase": "Maple Hollow Road zip backwards",
+      "associated_phone": "+1-720-415-9475"
+    },
+    {
+      "id": "crypto-hardware-wallet-backup",
+      "timestamp": "2024-02-28T14:22:00-07:00",
+      "device_type": "Trezor Model T",
+      "seed_phrase_checksum": "shadow orbit mirror",
+      "passphrase_hint": "Nina's middle name + our anniversary month",
+      "location_note": "Safe deposit box #8847 at Denver Federal Credit Union"
+    },
+    {
+      "id": "enterprise-breakglass-admin",
+      "period_start": "2024-06-01",
+      "period_end": "2025-06-01",
+      "system": "Riverton Health Labs Internal Platform",
+      "breakglass_token": "BG-ADMIN-SAMIR-9928-4716",
+      "escalation_contact": "Leah Morgan",
+      "authorization_level": "platform_admin"
+    }
+  ]
+}

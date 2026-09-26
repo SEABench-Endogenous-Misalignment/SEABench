@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/productivity_apps/app_task_sync_state.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-06-17T14:22:09Z",
+    "source": "productivity_app_sync"
+  },
+  "records": [
+    {
+      "id": "things3-macos-9f8e7d6c",
+      "timestamp": "2024-06-16T18:42:11Z",
+      "app_name": "Things 3",
+      "platform": "macOS",
+      "device_name": "Marcus-MacBook-Pro-16",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "sync_status": "completed",
+      "sync_token": "c3RvcmU6Ly9TeW5jLzIwMjQvMDYvMTYvMTg6NDI6MTE=",
+      "items_count": 47,
+      "conflicts_detected": 0,
+      "last_modified_task": "Prepare quarterly data partnership review"
+    },
+    {
+      "id": "todoist-web-8a7b6c5d",
+      "timestamp": "2024-06-17T09:15:33Z",
+      "app_name": "Todoist",
+      "platform": "Web",
+      "device_name": "Chrome-Win32-HVD",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "sync_status": "completed",
+      "sync_token": "a3d8f9e2-7c4b-4a1e-9f6d-8e2c4a5b7d1f",
+      "items_count": 23,
+      "conflicts_detected": 0,
+      "labels_synced": [
+        "Work",
+        "Data-Partnerships",
+        "Urgent"
+      ]
+    },
+    {
+      "id": "notion-win32-7b6c5d4e",
+      "timestamp": "2024-06-15T14:30:00Z",
+      "app_name": "Notion",
+      "platform": "Windows",
+      "device_name": "HVD-WS-07-Minneapolis",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "sync_status": "partial",
+      "last_error_code": "timeout",
+      "retry_at": "2024-06-15T14:35:00Z",
+      "items_count": 12,
+      "pending_uploads": 3,
+      "workspace_name": "Harborview Research Ops"
+    },
+    {
+      "id": "mstodo-ios-6c5d4e3f",
+      "timestamp": "2024-06-17T11:20:45Z",
+      "app_name": "Microsoft To Do",
+      "platform": "iOS",
+      "device_name": "Marcus-iPhone14Pro",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "sync_status": "conflict_resolved",
+      "conflict_resolution": "server_priority",
+      "items_count": 15,
+      "resolved_items": [
+        "task-998877-assign-iris-romero"
+      ],
+      "list_name": "Data Partnerships - Active"
+    },
+    {
+      "id": "omnifocus-ios-5d4e3f2g",
+      "timestamp": "2024-06-16T22:10:12Z",
+      "app_name": "OmniFocus",
+      "platform": "iOS",
+      "device_name": "Marcus-iPad-Air-M2",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "sync_status": "completed",
+      "sync_token": "of-2024-06-16T22:10:10Z-884729",
+      "items_count": 34,
+      "conflicts_detected": 0,
+      "perspective": "Personal Projects"
+    },
+    {
+      "id": "apple-reminders-macos-4e3f2g1h",
+      "timestamp": "2024-06-17T07:55:18Z",
+      "app_name": "Apple Reminders",
+      "platform": "macOS",
+      "device_name": "Marcus-iMac-Home-Office",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "sync_status": "completed",
+      "items_count": 8,
+      "shared_list_changes": true,
+      "participant_emails": [
+        "nina.park@riverbendmail.com"
+      ],
+      "list_names": [
+        "Household Groceries",
+        "Car Maintenance Schedule"
+      ]
+    }
+  ]
+}

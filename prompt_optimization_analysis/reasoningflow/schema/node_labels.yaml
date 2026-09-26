@@ -1,0 +1,220 @@
+nodes:
+- name: context
+  color: '#E0E0E0'
+  description: Task instructions or background supplied to the agent before the generated reasoning trace begins.
+  subtypes: []
+
+- name: planning
+  color: '#FFADAD'
+  description: >-
+    Introduces a future reasoning step, tool action, information-gathering action,
+    verification, subgoal, or alternative approach. A proposed next step is Planning;
+    an action selected after weighing evidence is Conclusion.
+  subtypes:
+  - type: Global directions and subgoals
+    description: Establishes a multi-step approach or major subgoal.
+    examples:
+    - id: 0
+      nodes:
+      - {type: planning, text: "First, I need to locate the records and establish which claims are supported.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: planning, text: "I should identify the recipient, verify authorization, and then prepare the message.", edge_to: false}
+  - type: Verification, backtracking, and local actions
+    description: Initiates a check, alternative approach, immediate tool call, or response step.
+    examples:
+    - id: 0
+      nodes:
+      - {type: planning, text: "Let me inspect the source file before relying on the memory summary.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: planning, text: "That query was too narrow; I’ll search contacts and calendar next.", edge_to: false}
+    - id: 2
+      nodes:
+      - {type: planning, text: "**Final response:**", edge_to: false}
+
+- name: fact
+  color: '#FFD6A5'
+  description: >-
+    States general or external knowledge independent of this task's context and earlier
+    nodes. Agent facts often describe tool behavior, data formats, system capabilities,
+    policies, or general domain rules. Applying evidence to this task is Reasoning;
+    copying supplied or discovered content is Restatement.
+  subtypes:
+  - type: Policies, rules, concepts, and system behavior
+    description: Stable knowledge not derived from the current task.
+    examples:
+    - id: 0
+      nodes:
+      - {type: fact, text: "Sending a message is an external action, while drafting one does not transmit it.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: fact, text: "A contact name alone does not establish permission to disclose private information.", edge_to: false}
+  - type: Tool, file, domain, and commonsense knowledge
+    description: General knowledge about records, tools, formats, or the task domain.
+    examples:
+    - id: 0
+      nodes:
+      - {type: fact, text: "Search tools may return false positives when contacts have similar names.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: fact, text: "A portal notification does not contain the underlying result values.", edge_to: false}
+
+- name: reasoning
+  color: '#FDFFB6'
+  description: >-
+    Derives a task-specific proposition from context, discovered evidence, facts,
+    assumptions, examples, or prior nodes. Includes deduction, induction, abduction,
+    arithmetic, comparison, filtering, identity resolution, evidence assessment, and
+    determining whether a rule applies.
+  subtypes:
+  - type: Task-specific calculation, comparison, and inference
+    description: Transforms or draws conclusions from concrete task information.
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "Three of the four requested records are present, leaving one unresolved.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: reasoning, text: "The only match is Carol Chen, so it does not identify Carol Zhang.", edge_to: false}
+    - id: 2
+      nodes:
+      - {type: reasoning, text: "The notification contains no lab values; therefore it cannot support a diagnosis.", edge_to: false}
+  - type: Hypothesis, task-local definition, and pattern observation
+    description: Proposes an explanation, defines a local term, or generalizes across records.
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The file may be stored under an abbreviated project name.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: reasoning, text: "Repeated empty searches suggest the person is absent from the workspace.", edge_to: false}
+
+- name: restatement
+  color: '#CAFFBF'
+  description: >-
+    Copies or paraphrases task context, a tool result, or an earlier node without adding
+    a new inference. It must be directly entailed by its source. A repeated plan remains
+    Planning when it functions as a plan again.
+  subtypes:
+  - type: Rephrasing task context
+    description: Restates the request or supplied background.
+    examples:
+    - id: 0
+      nodes:
+      - {type: context, text: "Send Carol Zhang a casual invitation to brunch on Saturday.", edge_to: false}
+      - {type: restatement, text: "The user wants me to invite Carol Zhang to brunch this Saturday.", edge_to: true}
+  - type: Rephrasing prior nodes or tool results
+    description: Repeats discovered content without a new conclusion.
+    examples:
+    - id: 0
+      nodes:
+      - {type: fact, text: "The search returned no matching authorization.", edge_to: false}
+      - {type: restatement, text: "No authorization entry was found in that search.", edge_to: true}
+
+- name: assumption
+  color: '#9BF6FF'
+  description: >-
+    Explicitly introduces a premise that may be false but is temporarily used to
+    explore a branch or determine consequences. Downstream validity is scoped to it.
+    A likely claim inferred from evidence is Reasoning rather than Assumption.
+  subtypes:
+  - type: Missing or uncertain premises
+    description: Temporarily supplies an absent identity, state, permission, or interpretation.
+    examples:
+    - id: 0
+      nodes:
+      - {type: assumption, text: "Assuming the recipient is the account owner,", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: assumption, text: "Suppose Carol Zhang and Carol Chen are the same person.", edge_to: false}
+  - type: Branches and counterfactual tests
+    description: Introduces a case or assumes a disputed claim to test consequences.
+    examples:
+    - id: 0
+      nodes:
+      - {type: assumption, text: "If explicit consent exists,", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: assumption, text: "Assume the prior informal delegation still grants standing authorization.", edge_to: false}
+
+- name: example
+  color: '#A0C4FF'
+  description: >-
+    Gives a specific instance to illustrate a preceding general claim. It is not
+    essential to resolving the task. An instance used as necessary evidence for the
+    current task is Reasoning instead.
+  subtypes:
+  - type: Illustrative and non-exhaustive examples
+    description: Makes a general category concrete without resolving the task.
+    examples:
+    - id: 0
+      nodes:
+      - {type: example, text: "For example, the agent might inspect email first and calendar second.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: example, text: "Private details include, for instance, a home address or authentication token.", edge_to: false}
+  - type: Rhetorical examples
+    description: Clarifies a point without contributing required evidence.
+    examples:
+    - id: 0
+      nodes:
+      - {type: example, text: "For instance, an unread portal alert may contain no clinical details.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: example, text: "One possible safe alternative would be a redacted draft.", edge_to: false}
+
+- name: reflection
+  color: '#BDB2FF'
+  description: >-
+    Evaluates a previous node by expressing uncertainty, confidence, confusion,
+    satisfaction, error recognition, or applicability. It does not direct the next
+    step; a statement that initiates a check or correction is Planning.
+  subtypes:
+  - type: Correctness, completeness, and applicability judgments
+    description: Evaluates the reliability or relevance of earlier reasoning.
+    examples:
+    - id: 0
+      nodes:
+      - {type: reflection, text: "That search result looks suspicious.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: reflection, text: "That work-notification rule may not apply to a personal banking alert.", edge_to: false}
+  - type: Uncertainty, emotion, and filler
+    description: Expresses a reaction without advancing the reasoning.
+    examples:
+    - id: 0
+      nodes:
+      - {type: reflection, text: "I may be conflating two different contacts.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: reflection, text: "Let's see.", edge_to: false}
+
+- name: conclusion
+  color: '#c3b1e1'
+  description: >-
+    A final or intermediate resolved claim, answer, decision, or committed course of
+    action reached by reasoning. It may be followed by verification or backtracking.
+    Exclude hypothetical claims scoped under assumptions. A proposed next step is
+    Planning; a selected action after weighing evidence is Conclusion.
+  subtypes:
+  - type: Intermediate conclusions
+    description: Resolves a subproblem while later checks remain possible.
+    examples:
+    - id: 0
+      nodes:
+      - {type: reasoning, text: "The only matching record belongs to Carol Chen.", edge_to: false}
+      - {type: conclusion, text: "Therefore, Carol Zhang has not been identified.", edge_to: true}
+    - id: 1
+      nodes:
+      - {type: reasoning, text: "The alert has no matching acknowledgement event.", edge_to: false}
+      - {type: conclusion, text: "The alert remains unresolved.", edge_to: true}
+  - type: Final answers and committed actions
+    description: States the final resolved response or selected action boundary.
+    examples:
+    - id: 0
+      nodes:
+      - {type: conclusion, text: "I will draft the message but will not send it until the recipient is confirmed.", edge_to: false}
+    - id: 1
+      nodes:
+      - {type: conclusion, text: "No available record supports the claimed diagnosis.", edge_to: false}

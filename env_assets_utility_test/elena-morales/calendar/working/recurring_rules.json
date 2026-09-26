@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/recurring_rules.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T14:32:10Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "rr-bls-pd-standup",
+      "title": "Platform Design Weekly Sync",
+      "date": "2024-01-08",
+      "start_time": "09:30:00",
+      "end_time": "10:00:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO,TH;UNTIL=20241231",
+      "status": "active",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com",
+          "response": "accepted"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "location": "Conference Room B / Zoom"
+    },
+    {
+      "id": "rec-1on1-leah-morgan",
+      "title": "Weekly 1:1 - Leah & Elena",
+      "date": "2024-01-09",
+      "start_time": "14:00:00",
+      "end_time": "14:30:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=TU",
+      "status": "active",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com",
+          "response": "accepted"
+        }
+      ],
+      "visibility": "private"
+    },
+    {
+      "id": "rule-monthly-review-03",
+      "title": "Monthly Platform Design Review",
+      "date": "2024-01-15",
+      "start_time": "13:00:00",
+      "end_time": "14:30:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=MONTHLY;BYDAY=3MO",
+      "status": "active",
+      "organizer": {
+        "name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "attendees": [
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "location": " main-conf-3"
+    },
+    {
+      "id": "rec-personal-nina-friday",
+      "title": "Friday Evening Check-in",
+      "date": "2024-01-05",
+      "start_time": "18:30:00",
+      "end_time": "20:00:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=FR",
+      "status": "active",
+      "organizer": {
+        "name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net",
+          "response": "accepted"
+        }
+      ],
+      "location": "Home"
+    },
+    {
+      "id": "rr-bls-quarterly-ah",
+      "title": "Brightline Systems All-Hands",
+      "date": "2024-01-25",
+      "start_time": "10:00:00",
+      "end_time": "11:00:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=MONTHLY;INTERVAL=3;BYDAY=4TH",
+      "status": "active",
+      "organizer": {
+        "name": "Internal Communications",
+        "email": "comms@brightlinesystems.com"
+      },
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@cedargrovestudio.com",
+          "response": "accepted"
+        }
+      ],
+      "location": "Town Hall Auditorium"
+    },
+    {
+      "id": "rec-social-owen-coffee",
+      "title": "Coffee Catch-up - Owen",
+      "date": "2024-01-13",
+      "start_time": "10:00:00",
+      "end_time": "11:00:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SA",
+      "status": "active",
+      "organizer": {
+        "name": "Elena Morales",
+        "email": "elena.morales@cedargrovestudio.com"
+      },
+      "attendees": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@posteo.net",
+          "response": "tentative"
+        }
+      ],
+      "location": "Bean Counter on Hillsborough"
+    }
+  ]
+}

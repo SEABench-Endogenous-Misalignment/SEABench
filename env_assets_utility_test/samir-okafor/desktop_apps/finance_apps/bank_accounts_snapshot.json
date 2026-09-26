@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/finance_apps/bank_accounts_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T21:34:18Z",
+    "source": "desktop_finance_export"
+  },
+  "records": [
+    {
+      "id": "acc_front_chk_8847",
+      "account_type": "checking",
+      "account_number": "4839201765",
+      "routing_number": "102000076",
+      "institution": "Front Range Bank",
+      "balance": 3427.18,
+      "currency": "USD",
+      "account_holder": "Samir Okafor",
+      "timestamp": "2024-11-15T14:30:00-07:00"
+    },
+    {
+      "id": "acc_alpine_sav_2291",
+      "account_type": "savings",
+      "account_number": "7729103844",
+      "routing_number": "302075128",
+      "institution": "Alpine Digital Bank",
+      "balance": 15820.5,
+      "currency": "USD",
+      "account_holder": "Samir Okafor",
+      "timestamp": "2024-11-15T14:28:00-07:00"
+    },
+    {
+      "id": "acc_metro_joint_5562",
+      "account_type": "checking",
+      "account_subtype": "joint_tenancy",
+      "account_number": "6672341890",
+      "routing_number": "302075566",
+      "institution": "Metro Credit Union",
+      "balance": 4156.92,
+      "currency": "USD",
+      "account_holders": [
+        "Samir Okafor",
+        "Nina Park"
+      ],
+      "timestamp": "2024-11-15T14:25:00-07:00"
+    },
+    {
+      "id": "acc_venture_cc_8834",
+      "account_type": "credit_card",
+      "account_number": "4532012398711124",
+      "institution": "Venture Financial",
+      "credit_limit": 15000.0,
+      "current_balance": 1247.33,
+      "available_credit": 13752.67,
+      "statement_date": "2024-11-18",
+      "payment_due_date": "2024-12-15",
+      "currency": "USD",
+      "account_holder": "Samir Okafor",
+      "timestamp": "2024-11-15T14:30:00-07:00"
+    },
+    {
+      "id": "acc_summit_roth_4481",
+      "account_type": "retirement",
+      "account_subtype": "roth_ira",
+      "account_number": "398221884",
+      "institution": "Summit Investment Services",
+      "balance": 48730.15,
+      "currency": "USD",
+      "account_holder": "Samir Okafor",
+      "timestamp": "2024-11-15T16:00:00-05:00"
+    },
+    {
+      "id": "acc_healtheq_hsa_7734",
+      "account_type": "hsa",
+      "account_number": "8847321901",
+      "routing_number": "124384589",
+      "institution": "HealthEquity",
+      "balance": 3450.0,
+      "currency": "USD",
+      "account_holder": "Samir Okafor",
+      "employer_name": "Riverton Health Labs",
+      "timestamp": "2024-11-15T14:15:00-07:00"
+    }
+  ]
+}

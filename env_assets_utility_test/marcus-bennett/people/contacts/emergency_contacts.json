@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/emergency_contacts.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-06-14T16:45:22Z",
+    "source": "contacts_backup_export"
+  },
+  "records": [
+    {
+      "id": "ec-7f3a9b2c",
+      "name": "Theo Harris",
+      "relationship": "Spouse",
+      "phone_primary": "+1-503-829-1289",
+      "email": "theo.harris@harborinbox.com",
+      "address": "7464 Laurel Creek Street, Portland, OR 97220",
+      "is_primary_contact": true,
+      "medical_notes": "Blood type O+, EPIC member ID: EPK774321",
+      "timestamp": "2024-06-10T14:22:00Z"
+    },
+    {
+      "id": "ec-8k4m2n1p",
+      "name": "Eleanor Bennett",
+      "relationship": "Mother",
+      "phone_primary": "+1-206-489-3321",
+      "email": "eleanor.bennett@pacificnet.com",
+      "address": "4523 Pine Ridge Avenue, Seattle, WA 98115",
+      "is_primary_contact": false,
+      "medical_notes": "Legal healthcare proxy; keeps spare house keys",
+      "timestamp": "2024-05-28T09:15:00Z"
+    },
+    {
+      "id": "ec-9q5r7s3t",
+      "name": "Nina Park",
+      "relationship": "Close Friend/Neighbor",
+      "phone_primary": "+1-503-644-8921",
+      "email": "n.park@urbanfieldnotes.org",
+      "address": "7480 Laurel Creek Street, Portland, OR 97220",
+      "is_primary_contact": false,
+      "medical_notes": "Emergency pet care contact; garage access code provided",
+      "timestamp": "2024-06-01T16:45:00Z"
+    },
+    {
+      "id": "ec-1u6v8w4x",
+      "name": "Owen Reed",
+      "relationship": "Close Friend",
+      "phone_primary": "+1-503-217-5543",
+      "email": "owen.reed@cascadetech.io",
+      "address": "2103 Hawthorne Boulevard, Portland, OR 97214",
+      "is_primary_contact": false,
+      "medical_notes": "Emergency hiking/wilderness contact; work absence proxy",
+      "timestamp": "2024-04-15T11:30:00Z"
+    },
+    {
+      "id": "ec-2y7z9a5b",
+      "name": "Leah Morgan",
+      "relationship": "Work Emergency Contact",
+      "phone_primary": "+1-503-388-7765",
+      "work_phone": "+1-503-412-9900",
+      "email": "leah.morgan@cedargrovestudio.com",
+      "is_primary_contact": false,
+      "medical_notes": "Direct supervisor; notify first for work emergency absence",
+      "timestamp": "2024-06-12T10:00:00Z"
+    },
+    {
+      "id": "ec-3c8d0e6f",
+      "name": "Jordan Bennett",
+      "relationship": "Sibling",
+      "phone_primary": "+1-541-339-8210",
+      "email": "jordan.bennett@unitelink.net",
+      "address": "892 Riverbend Drive, Bend, OR 97702",
+      "is_primary_contact": false,
+      "medical_notes": "Secondary family contact; local to Oregon region",
+      "timestamp": "2024-03-20T08:10:00Z"
+    }
+  ]
+}

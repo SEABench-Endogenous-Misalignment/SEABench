@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/tool_permissions_seed.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-03T16:45:00Z",
+    "source": "agent_runtime_sync"
+  },
+  "records": [
+    {
+      "id": "perm-outlook-cal-8f4e2b",
+      "tool_name": "Microsoft 365 Calendar",
+      "integration_type": "calendar",
+      "scope": "read_write_events_contacts",
+      "status": "active",
+      "timestamp": "2024-10-12T09:15:00-06:00",
+      "assigned_to": "samir.okafor@rivertonhealthlabs.com",
+      "expires_at": "2025-10-12T09:15:00-06:00"
+    },
+    {
+      "id": "perm-fastmail-imap-9a3c1d",
+      "tool_name": "Fastmail Personal Mail",
+      "integration_type": "email",
+      "scope": "read_send_folders",
+      "status": "active",
+      "timestamp": "2024-09-28T14:22:00-06:00",
+      "assigned_to": "samir.okafor@meadowmail.co",
+      "expires_at": null
+    },
+    {
+      "id": "perm-todoist-api-7e2b9f",
+      "tool_name": "Todoist Premium",
+      "integration_type": "task_management",
+      "scope": "read_write_tasks_projects",
+      "status": "active",
+      "timestamp": "2024-08-15T11:45:00-06:00",
+      "assigned_to": "samir.okafor@meadowmail.co",
+      "expires_at": "2025-08-15T11:45:00-06:00"
+    },
+    {
+      "id": "perm-arc-browser-4d8a2c",
+      "tool_name": "Arc Browser Sync",
+      "integration_type": "browser",
+      "scope": "read_bookmarks_history_tabs",
+      "status": "active",
+      "timestamp": "2024-10-05T16:30:00-06:00",
+      "assigned_to": "samir.okafor@meadowmail.co",
+      "expires_at": null
+    },
+    {
+      "id": "perm-slack-riverton-1b5e8a",
+      "tool_name": "Slack Enterprise Grid",
+      "integration_type": "messaging",
+      "scope": "read_channels_post_messages_files",
+      "status": "active",
+      "timestamp": "2024-09-10T08:20:00-06:00",
+      "assigned_to": "samir.okafor@rivertonhealthlabs.com",
+      "expires_at": null
+    },
+    {
+      "id": "perm-plaid-connect-3f7d6e",
+      "tool_name": "Plaid Financial Data",
+      "integration_type": "finance",
+      "scope": "read_only_transactions_balances",
+      "status": "active",
+      "timestamp": "2024-07-20T13:10:00-06:00",
+      "assigned_to": "samir.okafor@meadowmail.co",
+      "expires_at": null
+    }
+  ]
+}

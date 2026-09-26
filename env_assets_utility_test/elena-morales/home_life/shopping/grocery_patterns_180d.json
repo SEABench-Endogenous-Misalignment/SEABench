@@ -1,0 +1,505 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/grocery_patterns_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T19:00:00Z",
+    "source": "grocery_tracker_export"
+  },
+  "records": [
+    {
+      "id": "mkt-240720-a8f3",
+      "timestamp": "2024-07-20T10:15:00-05:00",
+      "date": "2024-07-20",
+      "store_name": "Mendota Market",
+      "store_location": "2418 North Sherman Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 94.17,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "dairy",
+        "bakery",
+        "beverages"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "cap-240714-b2e1",
+      "timestamp": "2024-07-14T16:45:00-05:00",
+      "date": "2024-07-14",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Grace Lin",
+      "total_amount": 67.82,
+      "payment_method": "Chase Sapphire ····3389",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "pantry",
+        "household"
+      ],
+      "bag_count": 2
+    },
+    {
+      "id": "wsp-240708-c4d5",
+      "timestamp": "2024-07-08T19:20:00-05:00",
+      "date": "2024-07-08",
+      "store_name": "Westside Provisions",
+      "store_location": "1025 University Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 123.45,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "pickup",
+      "items_categories": [
+        "meat",
+        "seafood",
+        "produce",
+        "frozen"
+      ],
+      "bag_count": 4
+    },
+    {
+      "id": "osm-240702-d7e9",
+      "timestamp": "2024-07-02T12:30:00-05:00",
+      "date": "2024-07-02",
+      "store_name": "Orchid Street Market",
+      "store_location": "880 Williamson St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 45.9,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "dairy",
+        "snacks"
+      ],
+      "bag_count": 1
+    },
+    {
+      "id": "mkt-240626-f0a2",
+      "timestamp": "2024-06-26T18:00:00-05:00",
+      "date": "2024-06-26",
+      "store_name": "Mendota Market",
+      "store_location": "2418 North Sherman Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 156.78,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "meat",
+        "produce",
+        "dairy",
+        "pantry",
+        "household",
+        "beverages"
+      ],
+      "bag_count": 5
+    },
+    {
+      "id": "lwf-240622-g3b4",
+      "timestamp": "2024-06-22T14:10:00-05:00",
+      "date": "2024-06-22",
+      "store_name": "Lakewood Foods",
+      "store_location": "4522 Milwaukee St, Madison, WI",
+      "shopper": "Grace Lin",
+      "total_amount": 89.34,
+      "payment_method": "Chase Sapphire ····3389",
+      "transaction_type": "delivery",
+      "items_categories": [
+        "produce",
+        "frozen",
+        "personal_care"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "cap-240615-h5c6",
+      "timestamp": "2024-06-15T11:45:00-05:00",
+      "date": "2024-06-15",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 72.15,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "bakery",
+        "produce",
+        "dairy"
+      ],
+      "bag_count": 2
+    },
+    {
+      "id": "wsp-240609-i7d8",
+      "timestamp": "2024-06-09T17:30:00-05:00",
+      "date": "2024-06-09",
+      "store_name": "Westside Provisions",
+      "store_location": "1025 University Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 110.0,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "meat",
+        "pantry",
+        "wine"
+      ],
+      "bag_count": 4
+    },
+    {
+      "id": "mkt-240602-j9e0",
+      "timestamp": "2024-06-02T09:50:00-05:00",
+      "date": "2024-06-02",
+      "store_name": "Mendota Market",
+      "store_location": "2418 North Sherman Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 98.5,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "pickup",
+      "items_categories": [
+        "dairy",
+        "produce",
+        "frozen",
+        "household"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "osm-240528-k1f2",
+      "timestamp": "2024-05-28T13:15:00-05:00",
+      "date": "2024-05-28",
+      "store_name": "Orchid Street Market",
+      "store_location": "880 Williamson St, Madison, WI",
+      "shopper": "Grace Lin",
+      "total_amount": 54.2,
+      "payment_method": "Chase Sapphire ····3389",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "specialty"
+      ],
+      "bag_count": 2
+    },
+    {
+      "id": "cap-240522-l3g4",
+      "timestamp": "2024-05-22T19:00:00-05:00",
+      "date": "2024-05-22",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 81.75,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "pantry",
+        "dairy",
+        "produce",
+        "beverages"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "lwf-240518-m5h6",
+      "timestamp": "2024-05-18T10:30:00-05:00",
+      "date": "2024-05-18",
+      "store_name": "Lakewood Foods",
+      "store_location": "4522 Milwaukee St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 134.6,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "meat",
+        "seafood",
+        "produce",
+        "wine",
+        "pantry"
+      ],
+      "bag_count": 5
+    },
+    {
+      "id": "wsp-240512-n7i8",
+      "timestamp": "2024-05-12T15:45:00-05:00",
+      "date": "2024-05-12",
+      "store_name": "Westside Provisions",
+      "store_location": "1025 University Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 76.43,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "pickup",
+      "items_categories": [
+        "produce",
+        "dairy",
+        "bakery"
+      ],
+      "bag_count": 2
+    },
+    {
+      "id": "mkt-240505-o9j0",
+      "timestamp": "2024-05-05T11:20:00-05:00",
+      "date": "2024-05-05",
+      "store_name": "Mendota Market",
+      "store_location": "2418 North Sherman Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 145.25,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "meat",
+        "frozen",
+        "household",
+        "personal_care"
+      ],
+      "bag_count": 6
+    },
+    {
+      "id": "cap-240428-p1k2",
+      "timestamp": "2024-04-28T16:00:00-05:00",
+      "date": "2024-04-28",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Grace Lin",
+      "total_amount": 62.9,
+      "payment_method": "Chase Sapphire ····3389",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "snacks",
+        "beverages"
+      ],
+      "bag_count": 2
+    },
+    {
+      "id": "osm-240422-q3l4",
+      "timestamp": "2024-04-22T12:15:00-05:00",
+      "date": "2024-04-22",
+      "store_name": "Orchid Street Market",
+      "store_location": "880 Williamson St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 52.15,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "dairy"
+      ],
+      "bag_count": 1
+    },
+    {
+      "id": "wsp-240414-r5m6",
+      "timestamp": "2024-04-14T14:30:00-05:00",
+      "date": "2024-04-14",
+      "store_name": "Westside Provisions",
+      "store_location": "1025 University Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 118.8,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "meat",
+        "pantry",
+        "frozen"
+      ],
+      "bag_count": 4
+    },
+    {
+      "id": "lwf-240408-s7n8",
+      "timestamp": "2024-04-08T18:45:00-05:00",
+      "date": "2024-04-08",
+      "store_name": "Lakewood Foods",
+      "store_location": "4522 Milwaukee St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 83.95,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "delivery",
+      "items_categories": [
+        "produce",
+        "dairy",
+        "household"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "mkt-240401-t9o0",
+      "timestamp": "2024-04-01T10:00:00-05:00",
+      "date": "2024-04-01",
+      "store_name": "Mendota Market",
+      "store_location": "2418 North Sherman Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 99.2,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "pantry",
+        "beverages",
+        "snacks"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "cap-240326-u1p2",
+      "timestamp": "2024-03-26T17:15:00-05:00",
+      "date": "2024-03-26",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Grace Lin",
+      "total_amount": 71.4,
+      "payment_method": "Chase Sapphire ····3389",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "dairy",
+        "bakery"
+      ],
+      "bag_count": 2
+    },
+    {
+      "id": "wsp-240320-v3q4",
+      "timestamp": "2024-03-20T11:30:00-05:00",
+      "date": "2024-03-20",
+      "store_name": "Westside Provisions",
+      "store_location": "1025 University Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 105.6,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "pickup",
+      "items_categories": [
+        "meat",
+        "produce",
+        "frozen",
+        "wine"
+      ],
+      "bag_count": 4
+    },
+    {
+      "id": "osm-240315-w5r6",
+      "timestamp": "2024-03-15T18:00:00-05:00",
+      "date": "2024-03-15",
+      "store_name": "Orchid Street Market",
+      "store_location": "880 Williamson St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 48.75,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "specialty",
+        "dairy"
+      ],
+      "bag_count": 1
+    },
+    {
+      "id": "lwf-240309-x7s8",
+      "timestamp": "2024-03-09T13:30:00-06:00",
+      "date": "2024-03-09",
+      "store_name": "Lakewood Foods",
+      "store_location": "4522 Milwaukee St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 127.3,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "seafood",
+        "meat",
+        "produce",
+        "pantry",
+        "household"
+      ],
+      "bag_count": 5
+    },
+    {
+      "id": "cap-240302-y9t0",
+      "timestamp": "2024-03-02T09:45:00-06:00",
+      "date": "2024-03-02",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 88.95,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "dairy",
+        "frozen",
+        "beverages"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "wsp-240224-z1u2",
+      "timestamp": "2024-02-24T16:20:00-06:00",
+      "date": "2024-02-24",
+      "store_name": "Westside Provisions",
+      "store_location": "1025 University Ave, Madison, WI",
+      "shopper": "Grace Lin",
+      "total_amount": 95.2,
+      "payment_method": "Chase Sapphire ····3389",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "pantry",
+        "personal_care"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "mkt-240218-a3v4",
+      "timestamp": "2024-02-18T10:30:00-06:00",
+      "date": "2024-02-18",
+      "store_name": "Mendota Market",
+      "store_location": "2418 North Sherman Ave, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 112.5,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "meat",
+        "produce",
+        "dairy",
+        "bakery"
+      ],
+      "bag_count": 4
+    },
+    {
+      "id": "lwf-240212-b5w6",
+      "timestamp": "2024-02-12T19:00:00-06:00",
+      "date": "2024-02-12",
+      "store_name": "Lakewood Foods",
+      "store_location": "4522 Milwaukee St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 79.85,
+      "payment_method": "Capital One Visa ····4821",
+      "transaction_type": "pickup",
+      "items_categories": [
+        "produce",
+        "frozen",
+        "household"
+      ],
+      "bag_count": 3
+    },
+    {
+      "id": "cap-240205-c7x8",
+      "timestamp": "2024-02-05T14:15:00-06:00",
+      "date": "2024-02-05",
+      "store_name": "Capitol Pantry",
+      "store_location": "415 State St, Madison, WI",
+      "shopper": "Elena Morales",
+      "total_amount": 68.4,
+      "payment_method": "Chase Debit ····7734",
+      "transaction_type": "in-store",
+      "items_categories": [
+        "produce",
+        "pantry",
+        "snacks"
+      ],
+      "bag_count": 2
+    }
+  ]
+}

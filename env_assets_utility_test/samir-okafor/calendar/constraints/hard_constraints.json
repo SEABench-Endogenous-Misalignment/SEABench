@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/hard_constraints.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-08-14T16:32:18Z",
+    "source": "calendar_constraint_sync"
+  },
+  "records": [
+    {
+      "id": "constr-7f3a-9b12",
+      "constraint_type": "recurring_immovable",
+      "title": "Morning Coordinate - Shared Transit",
+      "description": "Daily vehicle coordination with household member. Non-negotiable buffer for partner schedule synchronization.",
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "affected_participants": [
+        "theo.harris@meadowmail.co"
+      ],
+      "start_time": "07:30:00",
+      "end_time": "08:45:00",
+      "timezone": "America/New_York",
+      "recurrence": "RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "immutability_reason": "household_dependency",
+      "priority": 10
+    },
+    {
+      "id": "med-appt-3c8d-44e1",
+      "constraint_type": "medical_lock",
+      "title": "Outpatient Procedure Block",
+      "description": "Endoscopic evaluation with mandatory post-op observation. No rescheduling flexibility per pre-op protocol.",
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "date": "2024-09-03",
+      "start_time": "08:00:00",
+      "end_time": "12:30:00",
+      "timezone": "America/New_York",
+      "location": "Allegheny Integrative Clinic, North Shore",
+      "immutability_reason": "medical_necessity",
+      "priority": 10,
+      "visibility": "private"
+    },
+    {
+      "id": "travel-skylift-9f21",
+      "constraint_type": "travel_hard_lock",
+      "title": "Q3 West Coast Synchronization",
+      "description": "Non-refundable corporate shuttle to San Jose office. Platform Design offsite alignment.",
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "period_start": "2024-10-14",
+      "period_end": "2024-10-16",
+      "timezone": "America/New_York",
+      "destination": "San Jose, CA",
+      "booking_reference": "SKL884291",
+      "immutability_reason": "financial_penalty_and_logistics",
+      "priority": 9
+    },
+    {
+      "id": "wellness-recur-aa77",
+      "constraint_type": "therapeutic_recurring",
+      "title": "Continuity Session Block",
+      "description": "Weekly therapeutic maintenance. Hard stop enforced to prevent burnout during platform migration cycle.",
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "day_of_week": "Wednesday",
+      "start_time": "15:00:00",
+      "end_time": "16:00:00",
+      "timezone": "America/New_York",
+      "recurrence": "RRULE:FREQ=WEEKLY",
+      "period_start": "2024-06-01",
+      "period_end": "2024-12-31",
+      "provider_entity": "Riverside Behavioral Associates",
+      "immutability_reason": "health_continuity",
+      "priority": 10,
+      "visibility": "confidential"
+    },
+    {
+      "id": "boundary-evening-2b9c",
+      "constraint_type": "daily_hard_stop",
+      "title": "Evening Household Boundary",
+      "description": "Immutable daily cutoff for family coordination and shared meal preparation with T.H.",
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "applies_to_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "18:30:00",
+      "end_time": "20:00:00",
+      "timezone": "America/New_York",
+      "period_start": "2024-01-01",
+      "period_end": "2025-01-01",
+      "affected_participants": [
+        "theo.harris@meadowmail.co"
+      ],
+      "immutability_reason": "work_life_boundary",
+      "priority": 8
+    },
+    {
+      "id": "focus-sensitive-1d4e",
+      "constraint_type": "classified_focus_block",
+      "title": "Encrypted Architecture Deep Work",
+      "description": "Isolation required for sensitive platform roadmap analysis. No interruptions per InfoSec policy.",
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "date": "2024-08-29",
+      "start_time": "09:00:00",
+      "end_time": "12:00:00",
+      "timezone": "America/New_York",
+      "location": "Brightline Systems, Secure Room B",
+      "immutability_reason": "security_compliance",
+      "priority": 9,
+      "visibility": "restricted"
+    }
+  ]
+}

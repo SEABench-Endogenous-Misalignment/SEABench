@@ -1,0 +1,528 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/attachments/note_attachment_index_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-28T14:32:18Z",
+    "source": "note_app_export"
+  },
+  "records": [
+    {
+      "id": "att_7k3m9p2q",
+      "filename": "whiteboard_leah_strategy_20241115.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 3420892,
+      "timestamp": "2024-11-15T16:42:00-06:00",
+      "note_id": "note_8x4k2m1z",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/11/whiteboard_leah_strategy_20241115.jpg",
+      "metadata": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "id": "att_9v2n4w8s",
+      "filename": "dinner_receipt_november.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 284756,
+      "timestamp": "2024-11-22T20:15:00-06:00",
+      "note_id": "note_3b7d5f9h",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/11/dinner_receipt_november.pdf",
+      "metadata": {
+        "page_count": 1
+      }
+    },
+    {
+      "id": "att_4h8j1k5l",
+      "filename": "data_partnerships_research_q3.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 2458901,
+      "timestamp": "2024-08-14T09:30:00-05:00",
+      "note_id": "note_9c2a4e6g",
+      "source_notebook": "Research",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/08/data_partnerships_research_q3.pdf",
+      "metadata": {
+        "page_count": 24
+      }
+    },
+    {
+      "id": "att_2m5n7p9q",
+      "filename": "client_call_riverside_architecture.m4a",
+      "content_type": "audio/mp4",
+      "size_bytes": 12457890,
+      "timestamp": "2024-10-03T14:20:00-05:00",
+      "note_id": "note_6d8f2h4j",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/10/client_call_riverside_architecture.m4a",
+      "metadata": {
+        "duration_seconds": 487
+      }
+    },
+    {
+      "id": "att_8w3e5r7t",
+      "filename": "error_message_screenshot.png",
+      "content_type": "image/png",
+      "size_bytes": 892341,
+      "timestamp": "2024-09-28T11:45:00-05:00",
+      "note_id": "note_1k9m3p7r",
+      "source_notebook": "Work Projects",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/09/error_message_screenshot.png",
+      "metadata": {
+        "width": 2880,
+        "height": 1800
+      }
+    },
+    {
+      "id": "att_6y4u8i2o",
+      "filename": "monstera_care_instructions.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 2156789,
+      "timestamp": "2024-07-12T16:30:00-05:00",
+      "note_id": "note_4t6y8u0i",
+      "source_notebook": "Household",
+      "added_by_device": "iPadAir",
+      "storage_path": "attachments/2024/07/monstera_care_instructions.jpg",
+      "metadata": {
+        "width": 2048,
+        "height": 1536
+      }
+    },
+    {
+      "id": "att_1a3s5d7f",
+      "filename": "insurance_card_scan_2024.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 156789,
+      "timestamp": "2024-01-15T10:20:00-06:00",
+      "note_id": "note_7g9j2k4l",
+      "source_notebook": "Household",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/01/insurance_card_scan_2024.pdf",
+      "metadata": {
+        "page_count": 1
+      }
+    },
+    {
+      "id": "att_9g2h4j6k",
+      "filename": "contract_draft_harborview_v3.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 4856321,
+      "timestamp": "2024-03-22T13:15:00-05:00",
+      "note_id": "note_2m4n6b8v",
+      "source_notebook": "Work Projects",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/03/contract_draft_harborview_v3.pdf",
+      "metadata": {
+        "page_count": 18
+      }
+    },
+    {
+      "id": "att_5l7k9j2h",
+      "filename": "whiteboard_malik_ideas.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 4125890,
+      "timestamp": "2024-06-18T14:30:00-05:00",
+      "note_id": "note_8v0c2x4z",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/06/whiteboard_malik_ideas.jpg",
+      "metadata": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "id": "att_3p9o7i5u",
+      "filename": "household_budget_2024.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 45678,
+      "timestamp": "2024-02-10T19:45:00-06:00",
+      "note_id": "note_5y7u9i1o",
+      "source_notebook": "Household",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/02/household_budget_2024.xlsx",
+      "metadata": {}
+    },
+    {
+      "id": "att_7y2t4r6e",
+      "filename": "design_mockups_living_room.png",
+      "content_type": "image/png",
+      "size_bytes": 6789234,
+      "timestamp": "2024-05-28T15:20:00-05:00",
+      "note_id": "note_0p2l4k6j",
+      "source_notebook": "Household",
+      "added_by_device": "iPadAir",
+      "storage_path": "attachments/2024/05/design_mockups_living_room.png",
+      "metadata": {
+        "width": 2732,
+        "height": 2048
+      }
+    },
+    {
+      "id": "att_2w8q4e1r",
+      "filename": "tax_documents_2023_summary.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 3254789,
+      "timestamp": "2024-03-15T09:00:00-05:00",
+      "note_id": "note_9i1u3y5t",
+      "source_notebook": "Household",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/03/tax_documents_2023_summary.pdf",
+      "metadata": {
+        "page_count": 12
+      }
+    },
+    {
+      "id": "att_4t6y1u3i",
+      "filename": "morning_commute_thoughts.m4a",
+      "content_type": "audio/mp4",
+      "size_bytes": 8934567,
+      "timestamp": "2024-04-02T07:45:00-05:00",
+      "note_id": "note_6r8e0w2q",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/04/morning_commute_thoughts.m4a",
+      "metadata": {
+        "duration_seconds": 356
+      }
+    },
+    {
+      "id": "att_8i5u7y9t",
+      "filename": "parking_spot_target_field.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 1847563,
+      "timestamp": "2024-09-14T17:30:00-05:00",
+      "note_id": "note_3a5s7d9f",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/09/parking_spot_target_field.jpg",
+      "metadata": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "id": "att_1o9i7u5y",
+      "filename": "owen_career_advice_notes.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 456782,
+      "timestamp": "2024-08-05T20:10:00-05:00",
+      "note_id": "note_7g1h3j5k",
+      "source_notebook": "Personal",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/08/owen_career_advice_notes.pdf",
+      "metadata": {
+        "page_count": 3
+      }
+    },
+    {
+      "id": "att_6r4e2w8q",
+      "filename": "q4_presentation_slides.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 8923456,
+      "timestamp": "2024-11-05T11:00:00-06:00",
+      "note_id": "note_2t4y6u8i",
+      "source_notebook": "Work Projects",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/11/q4_presentation_slides.pdf",
+      "metadata": {
+        "page_count": 32
+      }
+    },
+    {
+      "id": "att_9a5s3d7f",
+      "filename": "iris_whiteboard_architecture.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 5234890,
+      "timestamp": "2024-10-17T13:45:00-05:00",
+      "note_id": "note_5h7j9k1l",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/10/iris_whiteboard_architecture.jpg",
+      "metadata": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "id": "att_3g7h9j2k",
+      "filename": "flight_confirmation_screenshot.png",
+      "content_type": "image/png",
+      "size_bytes": 1245678,
+      "timestamp": "2024-11-10T08:20:00-06:00",
+      "note_id": "note_8l0k2j4h",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/11/flight_confirmation_screenshot.png",
+      "metadata": {
+        "width": 1170,
+        "height": 2532
+      }
+    },
+    {
+      "id": "att_7l3k5j7h",
+      "filename": "minneapolis_events_guide_2024.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 1892345,
+      "timestamp": "2024-06-01T12:00:00-05:00",
+      "note_id": "note_1g3f5d7s",
+      "source_notebook": "Personal",
+      "added_by_device": "iPadAir",
+      "storage_path": "attachments/2024/06/minneapolis_events_guide_2024.pdf",
+      "metadata": {
+        "page_count": 8
+      }
+    },
+    {
+      "id": "att_2f4d6s8a",
+      "filename": "kitchen_repair_before_after.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 3456789,
+      "timestamp": "2024-07-28T18:30:00-05:00",
+      "note_id": "note_9h8g6f4d",
+      "source_notebook": "Household",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/07/kitchen_repair_before_after.jpg",
+      "metadata": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "id": "att_5d3s1a7f",
+      "filename": "calvin_business_card_scan.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 234567,
+      "timestamp": "2024-09-03T10:15:00-05:00",
+      "note_id": "note_2k4l6m8n",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/09/calvin_business_card_scan.pdf",
+      "metadata": {
+        "page_count": 1
+      }
+    },
+    {
+      "id": "att_8j4k6l8m",
+      "filename": "weekly_sync_agenda_oct21.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 567890,
+      "timestamp": "2024-10-21T08:30:00-05:00",
+      "note_id": "note_5n7b9v1x",
+      "source_notebook": "Work Projects",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/10/weekly_sync_agenda_oct21.pdf",
+      "metadata": {
+        "page_count": 2
+      }
+    },
+    {
+      "id": "att_1z3x5c7v",
+      "filename": "priya_project_timeline_whiteboard.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 4123789,
+      "timestamp": "2024-04-25T15:00:00-05:00",
+      "note_id": "note_8b6v4c2x",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/04/priya_project_timeline_whiteboard.jpg",
+      "metadata": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "id": "att_4b6n8m0k",
+      "filename": "nina_grocery_reminder.m4a",
+      "content_type": "audio/mp4",
+      "size_bytes": 2345678,
+      "timestamp": "2024-11-02T09:45:00-05:00",
+      "note_id": "note_1q3w5e7r",
+      "source_notebook": "Household",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/11/nina_grocery_reminder.m4a",
+      "metadata": {
+        "duration_seconds": 92
+      }
+    },
+    {
+      "id": "att_7t5r3e1w",
+      "filename": "trail_map_lebanon_hills.png",
+      "content_type": "image/png",
+      "size_bytes": 3456789,
+      "timestamp": "2024-08-20T07:00:00-05:00",
+      "note_id": "note_4y6u8i0o",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/08/trail_map_lebanon_hills.png",
+      "metadata": {
+        "width": 2048,
+        "height": 2048
+      }
+    },
+    {
+      "id": "att_0q9w7e5r",
+      "filename": "consulting_invoice_september.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 456789,
+      "timestamp": "2024-09-30T11:20:00-05:00",
+      "note_id": "note_7t5r3e1w",
+      "source_notebook": "Work Projects",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/09/consulting_invoice_september.pdf",
+      "metadata": {
+        "page_count": 1
+      }
+    },
+    {
+      "id": "att_3y7u9i1o",
+      "filename": "elena_gift_idea_ceramics.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 2567890,
+      "timestamp": "2024-10-08T14:30:00-05:00",
+      "note_id": "note_0q2w4e6r",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/10/elena_gift_idea_ceramics.jpg",
+      "metadata": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "id": "att_6e4r2t6y",
+      "filename": "colorado_trip_itinerary.xlsx",
+      "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 67890,
+      "timestamp": "2024-05-15T20:00:00-05:00",
+      "note_id": "note_3t5y7u9i",
+      "source_notebook": "Personal",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/05/colorado_trip_itinerary.xlsx",
+      "metadata": {}
+    },
+    {
+      "id": "att_9i7u5y3t",
+      "filename": "office_design_inspiration.png",
+      "content_type": "image/png",
+      "size_bytes": 4567890,
+      "timestamp": "2024-08-28T13:15:00-05:00",
+      "note_id": "note_6r4e2w0q",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPadAir",
+      "storage_path": "attachments/2024/08/office_design_inspiration.png",
+      "metadata": {
+        "width": 2048,
+        "height": 2732
+      }
+    },
+    {
+      "id": "att_2r4e6w8q",
+      "filename": "lease_agreement_review_2024.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 2345678,
+      "timestamp": "2024-06-30T16:45:00-05:00",
+      "note_id": "note_9i7u5y3t",
+      "source_notebook": "Household",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/06/lease_agreement_review_2024.pdf",
+      "metadata": {
+        "page_count": 14
+      }
+    },
+    {
+      "id": "att_5t7y9u3i",
+      "filename": "washer_serial_number_warranty.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 1234567,
+      "timestamp": "2024-07-05T11:30:00-05:00",
+      "note_id": "note_2r4e6w8q",
+      "source_notebook": "Household",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/07/washer_serial_number_warranty.jpg",
+      "metadata": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "id": "att_8y6u4i2o",
+      "filename": "grace_feedback_recording.m4a",
+      "content_type": "audio/mp4",
+      "size_bytes": 15678901,
+      "timestamp": "2024-09-19T10:00:00-05:00",
+      "note_id": "note_5t7y9u3i",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/09/grace_feedback_recording.m4a",
+      "metadata": {
+        "duration_seconds": 612
+      }
+    },
+    {
+      "id": "att_1q3w5e7r",
+      "filename": "young_joni_menu_scan.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 345678,
+      "timestamp": "2024-11-16T19:30:00-06:00",
+      "note_id": "note_8y6u4i2o",
+      "source_notebook": "Personal",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/11/young_joni_menu_scan.pdf",
+      "metadata": {
+        "page_count": 2
+      }
+    },
+    {
+      "id": "att_4a6s8d0f",
+      "filename": "q3_performance_metrics.pdf",
+      "content_type": "application/pdf",
+      "size_bytes": 5678901,
+      "timestamp": "2024-10-25T09:00:00-05:00",
+      "note_id": "note_1q3w5e7r",
+      "source_notebook": "Work Projects",
+      "added_by_device": "MacBookPro16",
+      "storage_path": "attachments/2024/10/q3_performance_metrics.pdf",
+      "metadata": {
+        "page_count": 15
+      }
+    },
+    {
+      "id": "att_7g9j2k4l",
+      "filename": "team_retro_whiteboard_nov.jpg",
+      "content_type": "image/jpeg",
+      "size_bytes": 4890123,
+      "timestamp": "2024-11-20T15:30:00-06:00",
+      "note_id": "note_4a6s8d0f",
+      "source_notebook": "Work Projects",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/11/team_retro_whiteboard_nov.jpg",
+      "metadata": {
+        "width": 4032,
+        "height": 3024
+      }
+    },
+    {
+      "id": "att_0k2j4h6g",
+      "filename": "utility_payment_confirmation.png",
+      "content_type": "image/png",
+      "size_bytes": 987654,
+      "timestamp": "2024-10-05T14:20:00-05:00",
+      "note_id": "note_7g9j2k4l",
+      "source_notebook": "Household",
+      "added_by_device": "iPhone14Pro",
+      "storage_path": "attachments/2024/10/utility_payment_confirmation.png",
+      "metadata": {
+        "width": 1170,
+        "height": 2532
+      }
+    }
+  ]
+}

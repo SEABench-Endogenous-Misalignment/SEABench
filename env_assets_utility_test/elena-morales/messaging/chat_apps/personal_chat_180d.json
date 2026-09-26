@@ -1,0 +1,381 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/personal_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T14:30:00Z",
+    "source": "chat_app_export"
+  },
+  "records": [
+    {
+      "id": "msg_a7k3f9m2",
+      "timestamp": "2024-01-28T19:42:15-06:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Nina Park",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Happy belated! Sorry I missed your birthday dinner last night",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "msg_b8j4k2p5",
+      "timestamp": "2024-02-03T14:22:08-06:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Nina Park"
+      ],
+      "content": "No worries at all! Are you free for drinks Thursday after work?",
+      "read_status": "delivered",
+      "attachments": []
+    },
+    {
+      "id": "wapp_c9m2n7q4",
+      "timestamp": "2024-02-14T08:15:33-06:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Grace Lin",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Power went out in the kitchen again, I flipped the breaker but the lights are flickering",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "sgnl_d4k8j3r9",
+      "timestamp": "2024-02-20T16:45:12-06:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender_name": "Owen Reed",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Trail conditions at Blue Mounds are perfect this weekend, you in?",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_e2n6k4s8",
+      "timestamp": "2024-03-05T11:30:45-06:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Priya Shah",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Did you finalize the reservations for April yet? Need to book my flight",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_f5j8m3t7",
+      "timestamp": "2024-03-12T09:18:22-06:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Priya Shah"
+      ],
+      "content": "Yes! Confirmation just came through, forwarding the details now",
+      "read_status": "read",
+      "attachments": [
+        "booking_confirmation.pdf"
+      ]
+    },
+    {
+      "id": "tgrm_g7k2n9u3",
+      "timestamp": "2024-03-18T13:55:08-05:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender_name": "Malik Brooks",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "New photography exhibit at the Chazen opens Saturday, want to check it out?",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "tgrm_h3j7k5v2",
+      "timestamp": "2024-03-25T15:40:18-05:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Malik Brooks"
+      ],
+      "content": "Saturday works! What time were you thinking?",
+      "read_status": "delivered",
+      "attachments": []
+    },
+    {
+      "id": "msg_i8n4k2w6",
+      "timestamp": "2024-04-02T12:12:05-05:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Nina Park",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "How's the new platform project going? Haven't heard much about it lately",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "msg_j2k9n7x5",
+      "timestamp": "2024-04-08T17:28:33-05:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Nina Park"
+      ],
+      "content": "Challenging but good! The design team finally aligned on the navigation flow",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_k5m3j8y4",
+      "timestamp": "2024-04-15T10:05:50-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Grace Lin",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Rent is paid for May, Venmo me whenever you have a chance this week",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "sgnl_l7n2k9z3",
+      "timestamp": "2024-04-22T18:22:14-05:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender_name": "Owen Reed",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Got an extra ticket to the Madison Symphony Friday if you're free",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "sgnl_m4j8k2a9",
+      "timestamp": "2024-04-29T11:45:36-05:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Owen Reed"
+      ],
+      "content": "Would love to! What time does it start?",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_n9k3j7b6",
+      "timestamp": "2024-05-04T09:30:12-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Priya Shah",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Can I borrow your stand mixer next weekend? Trying that new bread recipe",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_o2m7n4c8",
+      "timestamp": "2024-05-11T14:15:28-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Priya Shah"
+      ],
+      "content": "Sure! I'll leave it in the hallway closet for you",
+      "read_status": "delivered",
+      "attachments": []
+    },
+    {
+      "id": "tgrm_p5j2k8d4",
+      "timestamp": "2024-05-18T16:50:45-05:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender_name": "Malik Brooks",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Happy housewarming! Your address still the same on Willow Bend?",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "tgrm_q8n4j3e7",
+      "timestamp": "2024-05-25T13:08:19-05:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Malik Brooks"
+      ],
+      "content": "Thanks! Yes same place - 3812 Willow Bend. Stop by whenever you're in the neighborhood",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "msg_r3k7n9f2",
+      "timestamp": "2024-06-02T10:22:44-05:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Nina Park",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Brunch tomorrow? Marigold at 11?",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "msg_s6j2k4g5",
+      "timestamp": "2024-06-09T11:45:08-05:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Nina Park"
+      ],
+      "content": "Perfect, I've been craving their lemon ricotta pancakes",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_t9m5j8h3",
+      "timestamp": "2024-06-12T15:30:22-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Grace Lin",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Your mom called the house line, she'll try your mobile again tonight",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "sgnl_u4k7n2i8",
+      "timestamp": "2024-06-18T09:15:55-05:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender_name": "Owen Reed",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Disc golf at Elver Park at 3pm? Bringing the extra putter for you",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "sgnl_v7j9k5j4",
+      "timestamp": "2024-06-22T14:40:12-05:00",
+      "platform": "Signal",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Owen Reed"
+      ],
+      "content": "Running late from a meeting, be there closer to 3:30",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_w2n4j8k9",
+      "timestamp": "2024-06-28T08:25:36-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Priya Shah",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "That sourdough recipe please! The one you made for book club",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_x5m7k3l2",
+      "timestamp": "2024-07-05T16:10:48-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Priya Shah"
+      ],
+      "content": "[Image: sourdough_process.jpg]",
+      "read_status": "read",
+      "attachments": [
+        "sourdough_process.jpg",
+        "recipe_notes.txt"
+      ]
+    },
+    {
+      "id": "tgrm_y8j2n9m6",
+      "timestamp": "2024-07-10T12:55:15-05:00",
+      "platform": "Telegram",
+      "chat_type": "direct",
+      "sender_name": "Malik Brooks",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Thanks for the book recommendation, just finished it last night. Amazing!",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "wapp_z3k5j7n4",
+      "timestamp": "2024-07-15T18:40:28-05:00",
+      "platform": "WhatsApp",
+      "chat_type": "direct",
+      "sender_name": "Grace Lin",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Working late tonight, don't wait up for dinner. Left leftover curry in the fridge",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "msg_a8n3k2p7",
+      "timestamp": "2024-07-20T11:22:05-05:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Nina Park",
+      "recipient_names": [
+        "Elena Morales"
+      ],
+      "content": "Safe travels! See you when you're back from Chicago",
+      "read_status": "read",
+      "attachments": []
+    },
+    {
+      "id": "msg_b4j7k9q3",
+      "timestamp": "2024-07-21T09:45:18-05:00",
+      "platform": "iMessage",
+      "chat_type": "direct",
+      "sender_name": "Elena Morales",
+      "recipient_names": [
+        "Nina Park"
+      ],
+      "content": "Thanks! Back Tuesday evening, let's grab coffee Wednesday?",
+      "read_status": "delivered",
+      "attachments": []
+    }
+  ]
+}

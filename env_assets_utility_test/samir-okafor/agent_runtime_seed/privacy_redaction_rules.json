@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/privacy_redaction_rules.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T08:42:17Z",
+    "source": "privacy_configuration_export"
+  },
+  "records": [
+    {
+      "id": "redact-rule-financial-full-001",
+      "timestamp": "2024-01-15T09:30:00Z",
+      "rule_type": "full_redaction",
+      "target_field": "account_numbers",
+      "scope": "finance_exports",
+      "created_by": "samir-okafor",
+      "description": "Remove full account numbers from shared financial reports"
+    },
+    {
+      "id": "redact-rule-partial-email-002",
+      "date": "2024-02-20",
+      "rule_type": "partial_masking",
+      "target_field": "email_addresses",
+      "scope": "analytics_exports",
+      "mask_pattern": "user***@domain.com",
+      "created_by": "samir-okafor"
+    },
+    {
+      "id": "redact-rule-location-precision-003",
+      "start_time": "2024-03-01T00:00:00Z",
+      "end_time": "2024-12-31T23:59:59Z",
+      "rule_type": "precision_reduction",
+      "target_field": "gps_coordinates",
+      "scope": "calendar_sharing",
+      "precision_level": "city_only",
+      "created_by": "samir-okafor"
+    },
+    {
+      "id": "redact-rule-health-phi-004",
+      "timestamp": "2024-04-10T14:22:00Z",
+      "rule_type": "category_removal",
+      "target_field": "medical_diagnoses",
+      "scope": "fitness_app_sync",
+      "retention_days": 90,
+      "created_by": "samir-okafor"
+    },
+    {
+      "id": "redact-rule-contact-mask-005",
+      "period_start": "2024-05-01",
+      "period_end": "2025-04-30",
+      "rule_type": "name_generalization",
+      "target_field": "contact_names",
+      "scope": "project_collaboration_exports",
+      "replacement_strategy": "initials_only",
+      "created_by": "samir-okafor"
+    },
+    {
+      "id": "redact-rule-browser-auth-006",
+      "timestamp": "2024-06-18T11:15:00Z",
+      "rule_type": "token_scrubbing",
+      "target_field": "authentication_tokens",
+      "scope": "browser_history_exports",
+      "scrub_pattern": "[REDACTED_AUTH]",
+      "created_by": "samir-okafor"
+    }
+  ]
+}

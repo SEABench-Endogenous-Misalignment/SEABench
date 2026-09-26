@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/government_ids_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-12-19T22:45:00Z",
+    "source": "identity_vault_export"
+  },
+  "records": [
+    {
+      "id": "MN732891456",
+      "document_type": "state_drivers_license",
+      "issuing_authority": "Minnesota Department of Public Safety",
+      "document_number": "MN732891456",
+      "full_name": "Marcus Bennett",
+      "address": "7520 Laurel Creek Court, Minneapolis, MN 55497",
+      "date": "1985-09-22",
+      "start_time": "2022-08-15",
+      "end_time": "2026-08-15",
+      "restrictions": "NONE",
+      "endorsements": "NONE"
+    },
+    {
+      "id": "PP947283461",
+      "document_type": "passport_book",
+      "issuing_authority": "U.S. Department of State",
+      "document_number": "947283461",
+      "full_name": "Marcus Bennett",
+      "nationality": "United States of America",
+      "date": "1985-09-22",
+      "start_time": "2021-05-10",
+      "end_time": "2031-05-10",
+      "issuing_office": "Minneapolis Passport Agency"
+    },
+    {
+      "id": "SSN-291-84-7362",
+      "document_type": "social_security_card",
+      "issuing_authority": "Social Security Administration",
+      "ssn": "291-84-7362",
+      "full_name": "Marcus Bennett",
+      "date": "1985-09-22",
+      "timestamp": "2003-06-15",
+      "place_of_issue": "Minneapolis, MN"
+    },
+    {
+      "id": "PC-C847362915",
+      "document_type": "passport_card",
+      "issuing_authority": "U.S. Department of State",
+      "document_number": "C847362915",
+      "full_name": "Marcus Bennett",
+      "nationality": "United States of America",
+      "date": "1985-09-22",
+      "start_time": "2021-05-10",
+      "end_time": "2031-05-10"
+    },
+    {
+      "id": "IL284736192",
+      "document_type": "state_drivers_license",
+      "issuing_authority": "Illinois Secretary of State",
+      "document_number": "IL284736192",
+      "full_name": "Marcus Bennett",
+      "date": "1985-09-22",
+      "start_time": "2018-06-20",
+      "end_time": "2022-06-20",
+      "status": "expired_retained"
+    },
+    {
+      "id": "TSA-TT884736291",
+      "document_type": "tsa_precheck",
+      "issuing_authority": "Transportation Security Administration",
+      "known_traveler_number": "TT884736291",
+      "full_name": "Marcus Bennett",
+      "date": "1985-09-22",
+      "start_time": "2023-11-15",
+      "end_time": "2028-11-15",
+      "enrollment_center": "MSP Airport"
+    }
+  ]
+}

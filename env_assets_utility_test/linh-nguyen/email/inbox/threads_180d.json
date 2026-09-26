@@ -1,0 +1,544 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/inbox/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T20:45:30Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_a7f3c2d1-8e4b-4f56-9a2c-3d5e7f1b2c4d",
+      "timestamp": "2024-12-18T09:15:30Z",
+      "sender": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Q4 Data Roadmap - Revision Needed",
+      "snippet": "Hi Linh, After reviewing the quarterly targets, we need to adjust the delivery timeline for the analytics pipeline...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 45200
+    },
+    {
+      "id": "msg_b8e4d3f2-9f5c-5g67-0b3d-4e6f8g2h3i5j",
+      "timestamp": "2024-12-12T14:22:00Z",
+      "sender": {
+        "name": "Calvin Price",
+        "email": "calvin.price@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Scheduled Maintenance: Analytics Cluster",
+      "snippet": "The data warehouse will undergo routine maintenance this Saturday from 2-6 AM EST. Please save your work...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 28900
+    },
+    {
+      "id": "msg_c9f5e4g3-0g6d-6h78-1c4e-5f7g9h4i6j7k",
+      "timestamp": "2024-11-28T11:05:12Z",
+      "sender": {
+        "name": "Grace Lin",
+        "email": "grace.lin@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "All-Hands Agenda for Tomorrow",
+      "snippet": "Attached is the final agenda for tomorrow's meeting. Please review the data ops section...",
+      "is_read": false,
+      "folder": "Inbox",
+      "size_bytes": 15600
+    },
+    {
+      "id": "msg_d0g6f5h4-1h7e-7i89-2d5f-6g8h0i5j7k8l",
+      "timestamp": "2024-11-15T16:45:00Z",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Office Holiday Lunch Plans",
+      "snippet": "Hey, are you free for the team lunch next Friday? We're thinking of trying that new place in East Liberty...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 12500
+    },
+    {
+      "id": "msg_e1h7g6i5-2i8f-8j90-3e6g-7h9i1j6k8l9m",
+      "timestamp": "2024-10-03T10:30:00Z",
+      "sender": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "September Budget Variance Review",
+      "snippet": "Can you pull the variance report for last month? The numbers look off in the infrastructure line...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 38400
+    },
+    {
+      "id": "msg_f2i8h7j6-3j9g-9k01-4f7h-8i0j2k7l9m0n",
+      "timestamp": "2024-09-18T13:15:00Z",
+      "sender": {
+        "name": "Calvin Price",
+        "email": "calvin.price@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Security Audit Results",
+      "snippet": "The third-party audit is complete. We need to address the findings in section 4.2 regarding access controls...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 51200
+    },
+    {
+      "id": "msg_g3j9i8k7-4k0h-0l12-5g8i-9j1k3l8m0n1o",
+      "timestamp": "2024-08-10T09:00:00Z",
+      "sender": {
+        "name": "Grace Lin",
+        "email": "grace.lin@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Product Metrics Dashboard Update",
+      "snippet": "I've updated the dashboard with the new KPIs we discussed. Let me know if the refresh rate looks right...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 22100
+    },
+    {
+      "id": "msg_h4k0j9l8-5l1i-1m23-6h9j-0k2l4m9n1o2p",
+      "timestamp": "2024-07-22T15:20:00Z",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@atlascivicpartners.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "New Hire Onboarding Schedule",
+      "snippet": "Can you help onboard the new data analyst starting next Monday? I've attached the checklist...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 18700
+    },
+    {
+      "id": "msg_i5l1k0m9-6m2j-2n34-7i0k-1l3m5n0o2p3q",
+      "timestamp": "2024-12-15T20:00:00Z",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@meadowmail.co"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Saturday Dinner at Ming's?",
+      "snippet": "Hey sis, are you free this Saturday? Mom wants to check out that new Sichuan place...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 8900
+    },
+    {
+      "id": "msg_j6m2l1n0-7n3k-3o45-8j1l-2m4n6o1p3q4r",
+      "timestamp": "2024-12-08T18:30:00Z",
+      "sender": {
+        "name": "Nina Park",
+        "email": "nina.park@gmail.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "McConnells Mill Hike This Weekend?",
+      "snippet": "Weather looks perfect for Saturday. Want to meet at the trailhead around 9? Bring water...",
+      "is_read": false,
+      "folder": "Inbox",
+      "size_bytes": 10200
+    },
+    {
+      "id": "msg_k7n3m2o1-8o4l-4p56-9k2m-3n5o7p2q4r5s",
+      "timestamp": "2024-11-30T12:00:00Z",
+      "sender": {
+        "name": "Owen Reed",
+        "email": "owen.reed@fastmail.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Tickets for the Warhol Museum",
+      "snippet": "Managed to snag tickets for the special exhibit next week. Are you in? Starts at 7 PM...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 13400
+    },
+    {
+      "id": "msg_l8o4n3p2-9p5m-5q67-0l3n-4o6p8q3r5s6t",
+      "timestamp": "2024-11-20T19:15:00Z",
+      "sender": {
+        "name": "Priya Shah",
+        "email": "priya.shah@proton.me"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Book Club Selection - November",
+      "snippet": "We're reading 'The Overstory' this month. Meeting at my place on the 28th, 7 PM...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 9800
+    },
+    {
+      "id": "msg_m9p5o4q3-0q6n-6r78-1m4o-5p7q9r4s6t7u",
+      "timestamp": "2024-11-10T21:45:00Z",
+      "sender": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@icloud.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Fantasy League Draft Tonight",
+      "snippet": "Don't forget the draft starts at 8 PM. I heard you're targeting Mahomes again...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 7600
+    },
+    {
+      "id": "msg_n0q6p5r4-1r7o-7s89-2n5p-6q8r0s5t7u8v",
+      "timestamp": "2024-10-25T14:00:00Z",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@meadowmail.co"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Mom's Birthday Gift Ideas",
+      "snippet": "Have you thought about what to get her? I was thinking of that pottery class in Squirrel Hill...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 11200
+    },
+    {
+      "id": "msg_o1r7q6s5-2s8p-8t90-3o6q-7r9s1t6u8v9w",
+      "timestamp": "2024-10-12T11:30:00Z",
+      "sender": {
+        "name": "Nina Park",
+        "email": "nina.park@gmail.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Photos from the Frick",
+      "snippet": "Finally uploaded the pics from last month. Check out the one with the fountain...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 2450000
+    },
+    {
+      "id": "msg_p2s8r7t6-3t9q-9u01-4p7r-8s0t2u7v9w0x",
+      "timestamp": "2024-09-28T16:00:00Z",
+      "sender": {
+        "name": "Owen Reed",
+        "email": "owen.reed@fastmail.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "New Ramen Spot in Lawrenceville",
+      "snippet": "Tried Ika ramen yesterday. Better than Jinya honestly. We should go next week...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 9400
+    },
+    {
+      "id": "msg_q3t9s8u7-4u0r-0v12-5q8s-9t1u3v8w0x1y",
+      "timestamp": "2024-09-15T08:45:00Z",
+      "sender": {
+        "name": "Priya Shah",
+        "email": "priya.shah@proton.me"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Yoga Class Schedule Changes",
+      "snippet": "Studio moved the Wednesday evening class to 6:30 PM. Still works for your schedule?",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 8700
+    },
+    {
+      "id": "msg_r4u0t9v8-5v1s-1w23-6r9t-0u2v4w9x1y2z",
+      "timestamp": "2024-09-01T13:20:00Z",
+      "sender": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@icloud.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Pickup Basketball Thursday?",
+      "snippet": "Running games at the JCC this Thursday, 7 PM. Need one more. You in?",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 6900
+    },
+    {
+      "id": "msg_s5v1u0w9-6w2t-2x34-7s0u-1v3w5x0y2z3a",
+      "timestamp": "2024-08-20T17:00:00Z",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@meadowmail.co"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Thanksgiving Travel Plans",
+      "snippet": "Are we driving to Philly Wed night or Thursday morning? Let me know so I can book the hotel...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 10500
+    },
+    {
+      "id": "msg_t6w2v1x0-7x3u-3y45-8t1v-2w4x6y1z3a4b",
+      "timestamp": "2024-08-05T10:00:00Z",
+      "sender": {
+        "name": "Nina Park",
+        "email": "nina.park@gmail.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Coffee Next Tuesday?",
+      "snippet": "Free around 3 PM? Want to catch up at Commonplace in Shadyside...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 8100
+    },
+    {
+      "id": "msg_u7x3w2y1-8y4v-4z56-9u2w-3x5y7z2a4b5c",
+      "timestamp": "2024-12-01T08:00:00Z",
+      "sender": {
+        "name": "Monongahela Community Bank",
+        "email": "statements@monongabank.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Monthly Statement Available",
+      "snippet": "Your November account statement is now available for viewing online. Account ending in 7843...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 28000
+    },
+    {
+      "id": "msg_v8y4x3z2-9z5w-5a67-0v3x-4y6z8a3b5c6d",
+      "timestamp": "2024-11-25T07:00:00Z",
+      "sender": {
+        "name": "Riverside Utility Co",
+        "email": "billing@riversideutil.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Your Bill Is Ready",
+      "snippet": "Your electric bill for November is $87.42. Due date is December 15th. Pay online...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 15600
+    },
+    {
+      "id": "msg_w9z5y4a3-0a6x-6b78-1w4y-5z7a9b4c6d7e",
+      "timestamp": "2024-10-18T06:30:00Z",
+      "sender": {
+        "name": "Highland Property Management",
+        "email": "notices@highlandpm.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Elevator Maintenance Notice",
+      "snippet": "The west elevator will be serviced on Tuesday, October 22nd from 9 AM to 12 PM...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 12400
+    },
+    {
+      "id": "msg_x0a6z5b4-1b7y-7c89-2x5z-6a8b0c5d7e8f",
+      "timestamp": "2024-10-02T14:00:00Z",
+      "sender": {
+        "name": "East Liberty Market",
+        "email": "confirm@eastlibertymarket.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Your Order Has Been Delivered",
+      "snippet": "Order #44829 has been left at your front door. Contents: Organic produce, oat milk...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 9200
+    },
+    {
+      "id": "msg_y1b7a6c5-2c8z-8d90-3y6a-7b9c1d6e8f9g",
+      "timestamp": "2024-09-10T09:00:00Z",
+      "sender": {
+        "name": "Pittsburgh Tech Review",
+        "email": "digest@civictech.review"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "This Week in Civic Tech",
+      "snippet": "City council approves new open data ordinance, plus interviews with local CTOs...",
+      "is_read": false,
+      "folder": "Inbox",
+      "size_bytes": 45200
+    },
+    {
+      "id": "msg_z2c8b7d6-3d9a-9e01-4z7b-8c0d2e7f9g0h",
+      "timestamp": "2024-08-28T11:00:00Z",
+      "sender": {
+        "name": "West End Athletic Club",
+        "email": "renewals@westendathletic.net"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Membership Renewal Reminder",
+      "snippet": "Your annual membership expires on September 15th. Renew now to avoid interruption...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 11300
+    },
+    {
+      "id": "msg_a3d9c8e7-4e0b-0f12-5a8c-9d1e3f8g0h1i",
+      "timestamp": "2024-07-15T13:00:00Z",
+      "sender": {
+        "name": "Iron City Tickets",
+        "email": "support@ironcitytix.com"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "Upcoming Event Reminder",
+      "snippet": "Your tickets for the July 20th concert at Rivers Edge are attached. Doors open at 7 PM...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 18900
+    },
+    {
+      "id": "msg_b4e0d9f8-5f1c-1g23-6b9d-0e2f4g9h1i2j",
+      "timestamp": "2024-06-25T10:00:00Z",
+      "sender": {
+        "name": "Allegheny County Treasurer",
+        "email": "noreply@alleghenytax-pa.gov"
+      },
+      "recipients": [
+        {
+          "name": "Linh Nguyen",
+          "email": "linh.nguyen@brightlinesystems.com"
+        }
+      ],
+      "subject": "2024 Property Tax Notice",
+      "snippet": "Your real estate tax statement for 2024 is now available. First installment due July 31...",
+      "is_read": true,
+      "folder": "Inbox",
+      "size_bytes": 32100
+    }
+  ]
+}

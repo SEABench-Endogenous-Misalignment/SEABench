@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/user_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-06-15T14:32:10Z",
+    "source": "identity_platform_export"
+  },
+  "records": [
+    {
+      "id": "usr-profile-78432",
+      "record_type": "core_identity",
+      "full_name": "Maya Patel",
+      "display_name": "Maya",
+      "slug": "maya-patel",
+      "timestamp": "2024-03-12T09:45:22Z"
+    },
+    {
+      "id": "contact-primary-441",
+      "record_type": "contact_methods",
+      "personal_email": "maya.patel@harborinbox.com",
+      "work_email": "maya.patel@brightlinesystems.com",
+      "mobile_phone": "+1-412-786-4511",
+      "timestamp": "2024-03-12T09:45:22Z"
+    },
+    {
+      "id": "employment-current-992",
+      "record_type": "employment",
+      "employer_name": "Brightline Systems",
+      "department": "Client Strategy",
+      "job_title": "Design Systems Manager",
+      "work_location": "Pittsburgh",
+      "timestamp": "2023-08-14T10:30:00Z"
+    },
+    {
+      "id": "household-unit-203",
+      "record_type": "household",
+      "member_name": "Nina Park",
+      "relationship": "spouse",
+      "email": "nina.park@harborinbox.com",
+      "phone": "+1-412-630-9300",
+      "timestamp": "2024-01-20T16:15:00Z"
+    },
+    {
+      "id": "prefs-system-558",
+      "record_type": "preferences",
+      "timezone": "America/New_York",
+      "locale": "en-US",
+      "date_format": "MM/DD/YYYY",
+      "timestamp": "2024-05-01T08:20:00Z"
+    },
+    {
+      "id": "account-status-991",
+      "record_type": "account_metadata",
+      "account_created_date": "2019-06-15",
+      "last_password_change": "2024-02-10T11:00:00Z",
+      "timestamp": "2024-06-01T12:00:00Z"
+    }
+  ]
+}

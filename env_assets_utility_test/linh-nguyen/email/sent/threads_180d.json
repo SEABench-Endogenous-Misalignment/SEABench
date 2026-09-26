@@ -1,0 +1,572 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/sent/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-05-20T14:30:00Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg-20240518-7739a2",
+      "thread_id": "thrd-20240518-884b",
+      "timestamp": "2024-05-18T14:22:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Re: Q3 Product Roadmap Discussion",
+      "snippet": "Hi Leah, I've attached the consolidated feedback from the engineering team regarding the API specifications we discussed yesterday.",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240515-9912c4",
+      "thread_id": "thrd-20240515-445d",
+      "timestamp": "2024-05-15T09:45:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Vendor Contract Review - Summit Data Solutions",
+      "snippet": "Calvin, Can we schedule 30 minutes today to review the SLAs section before I send this to legal?",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240512-2256f8",
+      "thread_id": "thrd-20240512-112a",
+      "timestamp": "2024-05-12T16:30:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Data Pipeline Metrics for April",
+      "snippet": "Grace, The latest ETL logs show a 15% improvement in processing time since the optimization went live.",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240510-3387e1",
+      "thread_id": "thrd-20240510-993c",
+      "timestamp": "2024-05-10T11:15:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "subject": "Sunday Dinner Plans",
+      "snippet": "Hey Iris, Are we still on for dinner at Mom's this weekend? I can pick up the wine if you grab dessert.",
+      "labels": [
+        "personal",
+        "sent",
+        "family"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240508-5543b9",
+      "thread_id": "thrd-20240508-776e",
+      "timestamp": "2024-05-08T19:20:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@urbandesign.co"
+        }
+      ],
+      "subject": "Hiking Trip - McConnells Mill",
+      "snippet": "Nina, I checked the trail maps and Saturday looks perfect weather-wise. Should we aim for 9am?",
+      "labels": [
+        "personal",
+        "sent",
+        "friends"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240505-8872d5",
+      "thread_id": "thrd-20240505-334f",
+      "timestamp": "2024-05-05T08:45:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@protonmail.com"
+        }
+      ],
+      "subject": "Book Club Next Thursday",
+      "snippet": "Owen, Just confirming we're meeting at your place at 7pm. I'm bringing the cheese board.",
+      "labels": [
+        "personal",
+        "sent",
+        "bookclub"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240501-1129e7",
+      "thread_id": "thrd-20240501-556h",
+      "timestamp": "2024-05-01T13:10:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riversidehealth.org"
+        }
+      ],
+      "subject": "Concert Tickets - June 15th",
+      "snippet": "Priya, I got us two tickets for the symphony at Heinz Hall. Orchestra section, row H.",
+      "labels": [
+        "personal",
+        "sent",
+        "events"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240428-3345m3",
+      "thread_id": "thrd-20240428-998j",
+      "timestamp": "2024-04-28T15:55:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@pitt.edu"
+        }
+      ],
+      "subject": "Basketball League Registration",
+      "snippet": "Malik, The summer league registration closes Friday. Are you in for Tuesday nights again?",
+      "labels": [
+        "personal",
+        "sent",
+        "sports"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240425-7761k8",
+      "thread_id": "thrd-20240425-224p",
+      "timestamp": "2024-04-25T10:30:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Sarah Chen",
+          "email": "s.chen@summitdata.io"
+        }
+      ],
+      "subject": "Integration Timeline Follow-up",
+      "snippet": "Sarah, Per our call yesterday, I've updated the project timeline and attached the revised milestones.",
+      "labels": [
+        "work",
+        "sent",
+        "vendors"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240420-4482n4",
+      "thread_id": "thrd-20240420-667r",
+      "timestamp": "2024-04-20T09:00:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Marcus Thorne",
+          "email": "m.thorne@oakdaleproperty.com"
+        }
+      ],
+      "subject": "Rent Payment Confirmation - April",
+      "snippet": "Hi Marcus, Please find the April rent receipt attached. Let me know if you need anything else.",
+      "labels": [
+        "personal",
+        "sent",
+        "housing"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240418-5528q7",
+      "thread_id": "thrd-20240418-883t",
+      "timestamp": "2024-04-18T20:15:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "subject": "Mom's Birthday Gift Ideas",
+      "snippet": "Iris, What do you think about getting her that pottery class at the community center?",
+      "labels": [
+        "personal",
+        "sent",
+        "family"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240415-9944w2",
+      "thread_id": "thrd-20240415-115y",
+      "timestamp": "2024-04-15T11:45:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Weekly Status Update",
+      "snippet": "Leah, Here's the summary of this week's deliverables and blockers for the steering committee.",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240410-1167z5",
+      "thread_id": "thrd-20240410-338x",
+      "timestamp": "2024-04-10T14:20:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Budget Q2 Adjustments",
+      "snippet": "Calvin, I've reviewed the projections and we need to discuss the cloud infrastructure line item.",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240405-3389u1",
+      "thread_id": "thrd-20240405-551a",
+      "timestamp": "2024-04-05T09:30:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Database Migration Schedule",
+      "snippet": "Grace, Can we move the migration to next Wednesday to avoid the reporting blackout?",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240401-5512i9",
+      "thread_id": "thrd-20240401-774b",
+      "timestamp": "2024-04-01T16:45:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@urbandesign.co"
+        }
+      ],
+      "subject": "Coffee next week?",
+      "snippet": "Nina, Are you free for coffee Tuesday morning? I want to hear about the new project.",
+      "labels": [
+        "personal",
+        "sent",
+        "friends"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240328-7734o3",
+      "thread_id": "thrd-20240328-996c",
+      "timestamp": "2024-03-28T10:00:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@protonmail.com"
+        }
+      ],
+      "subject": "Project Collaboration Proposal",
+      "snippet": "Owen, I loved your idea about the community data project. I've sketched out a framework.",
+      "labels": [
+        "personal",
+        "sent",
+        "projects"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240325-9956h7",
+      "thread_id": "thrd-20240325-118d",
+      "timestamp": "2024-03-25T13:30:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riversidehealth.org"
+        }
+      ],
+      "subject": "Dinner Party - May 10th",
+      "snippet": "Priya, Can you bring that amazing curry from last time? I'm finalizing the guest list.",
+      "labels": [
+        "personal",
+        "sent",
+        "events"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240320-1178k2",
+      "thread_id": "thrd-20240320-331e",
+      "timestamp": "2024-03-20T17:15:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@pitt.edu"
+        }
+      ],
+      "subject": "Gym Membership Renewal",
+      "snippet": "Malik, Did you end up renewing at the Oakland location or switching to Downtown?",
+      "labels": [
+        "personal",
+        "sent",
+        "friends"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240315-3390l6",
+      "thread_id": "thrd-20240315-554f",
+      "timestamp": "2024-03-15T08:30:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Customer Service",
+          "email": "support@alleghenypower.com"
+        }
+      ],
+      "subject": "Meter Reading Question",
+      "snippet": "I noticed an unusual spike in my February bill. Can you verify the meter reading date?",
+      "labels": [
+        "personal",
+        "sent",
+        "utilities"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240310-5512p0",
+      "thread_id": "thrd-20240310-776g",
+      "timestamp": "2024-03-10T14:00:00-04:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@meadowmail.co"
+        }
+      ],
+      "subject": "Tax Documents",
+      "snippet": "Iris, Do you need mom's 1099 form for the accountant? I found it in my files.",
+      "labels": [
+        "personal",
+        "sent",
+        "family"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240305-7734s4",
+      "thread_id": "thrd-20240305-998h",
+      "timestamp": "2024-03-05T11:20:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Product Team",
+          "email": "product@atlascivicpartners.com"
+        }
+      ],
+      "subject": "All-hands Meeting Notes",
+      "snippet": "Team, Please review the action items from today's session and update your tickets by Friday.",
+      "labels": [
+        "work",
+        "sent",
+        "team"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240301-9956v8",
+      "thread_id": "thrd-20240301-110i",
+      "timestamp": "2024-03-01T09:45:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Amanda Foster",
+          "email": "afoster@techconference.pgh"
+        }
+      ],
+      "subject": "Speaking Proposal Submission",
+      "snippet": "Amanda, Attached is my proposal for the Data Ethics panel discussion in September.",
+      "labels": [
+        "work",
+        "sent",
+        "conferences"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240225-1178y3",
+      "thread_id": "thrd-20240225-332j",
+      "timestamp": "2024-02-25T15:30:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Vendor Evaluation Scores",
+      "snippet": "Leah, I've compiled the evaluation matrices we discussed for the three shortlisted vendors.",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240220-3390b7",
+      "thread_id": "thrd-20240220-554k",
+      "timestamp": "2024-02-20T10:15:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com"
+        }
+      ],
+      "subject": "Q1 Budget Closeout",
+      "snippet": "Calvin, We need to reconcile the remaining software licenses before March 1st.",
+      "labels": [
+        "work",
+        "sent",
+        "threads"
+      ],
+      "has_attachments": true
+    },
+    {
+      "id": "msg-20240215-5512d1",
+      "thread_id": "thrd-20240215-776l",
+      "timestamp": "2024-02-15T18:00:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@urbandesign.co"
+        }
+      ],
+      "subject": "Birthday Dinner",
+      "snippet": "Nina, Thank you for organizing everything last night. The restaurant was perfect.",
+      "labels": [
+        "personal",
+        "sent",
+        "friends"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240210-7734f5",
+      "thread_id": "thrd-20240210-998m",
+      "timestamp": "2024-02-10T11:45:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@protonmail.com"
+        }
+      ],
+      "subject": "Article Share",
+      "snippet": "Owen, This CityLab article reminded me of our discussion about zoning last week.",
+      "labels": [
+        "personal",
+        "sent",
+        "bookclub"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240205-9956h9",
+      "thread_id": "thrd-20240205-110n",
+      "timestamp": "2024-02-05T14:30:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riversidehealth.org"
+        }
+      ],
+      "subject": "Recipe Request",
+      "snippet": "Priya, Could you send me that lentil soup recipe you made at game night?",
+      "labels": [
+        "personal",
+        "sent",
+        "friends"
+      ],
+      "has_attachments": false
+    },
+    {
+      "id": "msg-20240201-1178j4",
+      "thread_id": "thrd-20240201-332o",
+      "timestamp": "2024-02-01T09:00:00-05:00",
+      "from": "linh.nguyen@brightlinesystems.com",
+      "to": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@pitt.edu"
+        }
+      ],
+      "subject": "Game Tickets",
+      "snippet": "Malik, I found two tickets for the Panthers game next month. Interested?",
+      "labels": [
+        "personal",
+        "sent",
+        "sports"
+      ],
+      "has_attachments": true
+    }
+  ]
+}

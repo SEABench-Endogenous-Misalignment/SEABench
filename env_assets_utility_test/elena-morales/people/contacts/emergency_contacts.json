@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/emergency_contacts.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-01-15T14:32:10Z",
+    "source": "contacts_app_export"
+  },
+  "records": [
+    {
+      "id": "ec-7a3f-9d21",
+      "name": "Nina Park",
+      "relationship": "Spouse",
+      "phone": "+1-919-582-7145",
+      "email": "nina.park@cedarpost.net",
+      "priority": 1,
+      "timestamp": "2024-01-10T18:20:00Z"
+    },
+    {
+      "id": "ec-8b4e-1c55",
+      "name": "Owen Reed",
+      "relationship": "Brother",
+      "phone": "+1-919-744-3398",
+      "email": "owen.reed@thunderhill.net",
+      "priority": 2,
+      "timestamp": "2024-01-08T12:15:00Z"
+    },
+    {
+      "id": "ec-9c5f-2d66",
+      "name": "Priya Shah",
+      "relationship": "Sister",
+      "phone": "+1-984-551-2290",
+      "email": "priya.shah@oakridgedesign.org",
+      "priority": 3,
+      "timestamp": "2024-01-09T09:45:00Z"
+    },
+    {
+      "id": "ec-0d6a-3e77",
+      "name": "Malik Brooks",
+      "relationship": "Close Friend",
+      "phone": "+1-704-882-1145",
+      "email": "malik.b@protonmail.com",
+      "priority": 4,
+      "timestamp": "2023-12-28T16:30:00Z"
+    },
+    {
+      "id": "ec-1e7b-4f88",
+      "name": "Leah Morgan",
+      "relationship": "Work Emergency Contact",
+      "phone": "+1-415-223-8891",
+      "email": "leah.morgan@brightlinesystems.com",
+      "priority": 5,
+      "timestamp": "2024-01-05T11:00:00Z"
+    },
+    {
+      "id": "ec-2f8c-5g99",
+      "name": "Elena Vega",
+      "relationship": "Cousin",
+      "phone": "+1-617-442-7789",
+      "email": "elena.vega@fastmail.com",
+      "priority": 6,
+      "timestamp": "2023-11-15T14:20:00Z"
+    }
+  ]
+}

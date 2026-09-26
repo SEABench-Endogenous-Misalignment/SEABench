@@ -1,0 +1,415 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/personal_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-29T14:30:00Z",
+    "source": "chat_app_export"
+  },
+  "records": [
+    {
+      "id": "msg_8c7b6a5d4e",
+      "timestamp": "2024-06-15T19:23:11-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Grabbing pasta from that place on Lyndale, want the usual?",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_9d8e7f6g5h",
+      "timestamp": "2024-06-16T12:45:33-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Nina Park",
+      "message_type": "text",
+      "content": "Yes please! And can you pick up almond milk if they have it?",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_0a1b2c3d4e",
+      "timestamp": "2024-06-20T08:15:22-05:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_owen_01",
+      "thread_name": "Owen Reed",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Still on for hiking Saturday? Thinking we head out by 7am to beat the heat.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed"
+      ]
+    },
+    {
+      "id": "msg_f5e4d3c2b1",
+      "timestamp": "2024-07-05T18:30:45-05:00",
+      "platform": "iMessage",
+      "thread_id": "thread_owen_priya",
+      "thread_name": "Owen & Priya",
+      "sender": "Priya Shah",
+      "message_type": "text",
+      "content": "Count me in for the cabin trip. Should I bring the board games?",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed",
+        "Priya Shah"
+      ]
+    },
+    {
+      "id": "msg_a9b8c7d6e5",
+      "timestamp": "2024-07-12T21:10:15-05:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_malik_01",
+      "thread_name": "Malik Brooks",
+      "sender": "Malik Brooks",
+      "message_type": "text",
+      "content": "Hey man, haven't talked in a bit. How's the new project going?",
+      "participants": [
+        "Marcus Bennett",
+        "Malik Brooks"
+      ]
+    },
+    {
+      "id": "msg_1f2e3d4c5b",
+      "timestamp": "2024-07-18T14:22:08-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_elena_01",
+      "thread_name": "Elena Vega",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Just finished that mystery novel you recommended. The ending was wild!",
+      "participants": [
+        "Marcus Bennett",
+        "Elena Vega"
+      ]
+    },
+    {
+      "id": "msg_6a7b8c9d0e",
+      "timestamp": "2024-07-22T11:05:19-05:00",
+      "platform": "iMessage",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Marcus Bennett",
+      "message_type": "image",
+      "content": "[Photo]",
+      "attachments_count": 1,
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_2g3h4i5j6k",
+      "timestamp": "2024-08-01T07:45:30-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Nina Park",
+      "message_type": "voice",
+      "content": "[Voice Message]",
+      "duration_seconds": 12,
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_7l8m9n0o1p",
+      "timestamp": "2024-08-10T16:50:12-05:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_priya_01",
+      "thread_name": "Priya Shah",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Got the tickets for Friday! Section 204, row H.",
+      "participants": [
+        "Marcus Bennett",
+        "Priya Shah"
+      ]
+    },
+    {
+      "id": "msg_q2r3s4t5u6",
+      "timestamp": "2024-08-15T19:15:00-05:00",
+      "platform": "Telegram",
+      "thread_id": "thread_crew",
+      "thread_name": "The Whole Crew",
+      "sender": "Owen Reed",
+      "message_type": "text",
+      "content": "Everyone free Labor Day weekend? Thinking of booking that lake house.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed",
+        "Priya Shah",
+        "Malik Brooks",
+        "Elena Vega"
+      ]
+    },
+    {
+      "id": "msg_v7w8x9y0z1",
+      "timestamp": "2024-08-22T17:30:22-05:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_owen_01",
+      "thread_name": "Owen Reed",
+      "sender": "Owen Reed",
+      "message_type": "text",
+      "content": "Running 15 min late, traffic on 35W is brutal.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed"
+      ]
+    },
+    {
+      "id": "msg_a2b3c4d5e6",
+      "timestamp": "2024-09-01T09:00:45-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Booked the flights. Departing MSP at 6:45am on Thursday.",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_f7g8h9i0j1",
+      "timestamp": "2024-09-08T13:20:33-05:00",
+      "platform": "iMessage",
+      "thread_id": "thread_elena_01",
+      "thread_name": "Elena Vega",
+      "sender": "Elena Vega",
+      "message_type": "link",
+      "content": "Just read this article about urban gardening, thought of you: https://minnpost.com/community-sketchbook",
+      "participants": [
+        "Marcus Bennett",
+        "Elena Vega"
+      ]
+    },
+    {
+      "id": "msg_k2l3m4n5o6",
+      "timestamp": "2024-09-14T20:05:17-05:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_malik_01",
+      "thread_name": "Malik Brooks",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Pickup game at the Y tomorrow at 6. You in?",
+      "participants": [
+        "Marcus Bennett",
+        "Malik Brooks"
+      ]
+    },
+    {
+      "id": "msg_p7q8r9s0t1",
+      "timestamp": "2024-09-20T12:10:55-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_family",
+      "thread_name": "Family Group",
+      "sender": "Nina Park",
+      "message_type": "text",
+      "content": "Don't forget mom's birthday dinner next Sunday at 5.",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_u2v3w4x5y6",
+      "timestamp": "2024-09-25T15:40:28-05:00",
+      "platform": "iMessage",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Nina Park",
+      "message_type": "text",
+      "content": "Landed at LAX, heading to baggage claim. See you tonight!",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_z7a8b9c0d1",
+      "timestamp": "2024-10-02T18:22:14-05:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_owen_01",
+      "thread_name": "Owen Reed",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Drinks at Torpedo at 7? Need to decompress after this week.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed"
+      ]
+    },
+    {
+      "id": "msg_e2f3g4h5i6",
+      "timestamp": "2024-10-09T10:15:09-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_malik_01",
+      "thread_name": "Malik Brooks",
+      "sender": "Malik Brooks",
+      "message_type": "image",
+      "content": "[Photo]",
+      "attachments_count": 1,
+      "participants": [
+        "Marcus Bennett",
+        "Malik Brooks"
+      ]
+    },
+    {
+      "id": "msg_j7k8l9m0n1",
+      "timestamp": "2024-10-15T11:48:22-05:00",
+      "platform": "iMessage",
+      "thread_id": "thread_priya_01",
+      "thread_name": "Priya Shah",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Can I borrow your notes from the stakeholder meeting? Mine are a mess.",
+      "participants": [
+        "Marcus Bennett",
+        "Priya Shah"
+      ]
+    },
+    {
+      "id": "msg_o2p3q4r5s6",
+      "timestamp": "2024-10-22T16:05:37-05:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Nina Park",
+      "message_type": "text",
+      "content": "Car needs an oil change. Should I schedule it for Friday?",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_t7u8v9w0x1",
+      "timestamp": "2024-11-01T14:30:00-05:00",
+      "platform": "Telegram",
+      "thread_id": "thread_crew",
+      "thread_name": "The Whole Crew",
+      "sender": "Elena Vega",
+      "message_type": "text",
+      "content": "Who's hosting Friendsgiving this year? I can bring the pie.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed",
+        "Priya Shah",
+        "Malik Brooks",
+        "Elena Vega"
+      ]
+    },
+    {
+      "id": "msg_y2z3a4b5c6",
+      "timestamp": "2024-11-05T09:15:42-06:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_elena_01",
+      "thread_name": "Elena Vega",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Got that gift for Maya wrapped. Picking it up on my way home.",
+      "participants": [
+        "Marcus Bennett",
+        "Elena Vega"
+      ]
+    },
+    {
+      "id": "msg_d7e8f9g0h1",
+      "timestamp": "2024-11-10T19:20:10-06:00",
+      "platform": "iMessage",
+      "thread_id": "thread_owen_01",
+      "thread_name": "Owen Reed",
+      "sender": "Owen Reed",
+      "message_type": "text",
+      "content": "Game night at my place Saturday. Bring that new strategy game.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed"
+      ]
+    },
+    {
+      "id": "msg_i2j3k4l5m6",
+      "timestamp": "2024-11-14T22:00:00-06:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Love you. See you in the morning.",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_n7o8p9q0r1",
+      "timestamp": "2024-11-18T13:45:55-06:00",
+      "platform": "WhatsApp",
+      "thread_id": "thread_malik_01",
+      "thread_name": "Malik Brooks",
+      "sender": "Malik Brooks",
+      "message_type": "text",
+      "content": "Finally got the keys to the new place. Moving Saturday if you're free to help.",
+      "participants": [
+        "Marcus Bennett",
+        "Malik Brooks"
+      ]
+    },
+    {
+      "id": "msg_s2t3u4v5w6",
+      "timestamp": "2024-11-22T20:10:30-06:00",
+      "platform": "Telegram",
+      "thread_id": "thread_hoops",
+      "thread_name": "Saturday Hoops",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Still on for tomorrow? Heard the gym closes early for the holiday.",
+      "participants": [
+        "Marcus Bennett",
+        "Owen Reed",
+        "Malik Brooks"
+      ]
+    },
+    {
+      "id": "msg_x7y8z9a0b1",
+      "timestamp": "2024-11-25T17:30:15-06:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Nina Park",
+      "message_type": "text",
+      "content": "Can you grab cumin and coriander from the co-op? Making that curry tonight.",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "msg_c2d3e4f5g6",
+      "timestamp": "2024-11-27T23:45:00-06:00",
+      "platform": "Signal",
+      "thread_id": "thread_nina_01",
+      "thread_name": "Nina",
+      "sender": "Marcus Bennett",
+      "message_type": "text",
+      "content": "Goodnight. Talk tomorrow.",
+      "participants": [
+        "Marcus Bennett",
+        "Nina Park"
+      ]
+    }
+  ]
+}

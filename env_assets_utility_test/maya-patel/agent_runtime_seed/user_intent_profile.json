@@ -1,0 +1,90 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/user_intent_profile.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-21T18:45:32Z",
+    "source": "intent_profiler_export"
+  },
+  "records": [
+    {
+      "id": "intent-2024-q4-dsr-01",
+      "timestamp": "2024-10-15T09:23:00Z",
+      "category": "work",
+      "description": "Compile metrics and roadmap for Q4 design systems review with leadership",
+      "target_date": "2024-10-28",
+      "priority": "high",
+      "status": "active",
+      "inferred_from": "calendar_event",
+      "related_contacts": [
+        "Leah Morgan",
+        "Calvin Price"
+      ]
+    },
+    {
+      "id": "intent-anniv-plan-2024",
+      "timestamp": "2024-10-18T19:45:00Z",
+      "category": "personal",
+      "description": "Research and book reservation for 5-year anniversary dinner with spouse",
+      "target_date": "2024-11-12",
+      "priority": "high",
+      "status": "pending",
+      "inferred_from": "email_thread",
+      "related_contacts": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "intent-wellness-yoga-return",
+      "timestamp": "2024-10-20T06:15:00Z",
+      "category": "health",
+      "description": "Restart pre-work yoga sessions after travel break",
+      "target_date": "2024-10-21",
+      "priority": "medium",
+      "status": "active",
+      "inferred_from": "wearable_data_gap",
+      "related_contacts": []
+    },
+    {
+      "id": "intent-social-hike-fall-2024",
+      "timestamp": "2024-10-10T14:22:00Z",
+      "category": "social",
+      "description": "Organize fall hiking trip to Ohiopyle with college friends",
+      "target_date": "2024-11-02",
+      "priority": "medium",
+      "status": "planning",
+      "inferred_from": "chat_app",
+      "related_contacts": [
+        "Owen Reed",
+        "Priya Shah"
+      ]
+    },
+    {
+      "id": "intent-home-hvac-winter",
+      "timestamp": "2024-10-19T11:30:00Z",
+      "category": "home_maintenance",
+      "description": "Book seasonal furnace inspection and filter replacement before cold weather",
+      "target_date": "2024-11-01",
+      "priority": "high",
+      "status": "pending",
+      "inferred_from": "seasonal_reminder",
+      "related_contacts": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "intent-profdev-a11y-cert",
+      "timestamp": "2024-09-28T16:00:00Z",
+      "category": "career_growth",
+      "description": "Finish CPACC certification coursework and schedule exam",
+      "target_date": "2024-12-15",
+      "priority": "medium",
+      "status": "in_progress",
+      "inferred_from": "browser_history",
+      "related_contacts": [
+        "Iris Romero"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/recently_closed_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-28T20:15:32Z",
+    "source": "browser_session_export"
+  },
+  "records": [
+    {
+      "id": "sess-9f8e7d6c5b4a",
+      "timestamp": "2024-11-28T19:45:00Z",
+      "title": "Q4 Data Partnerships Dashboard | Harborview Design",
+      "url": "https://projportal.harborviewdesign.com/dashboard/data-partnerships/q4-2024",
+      "window_id": "win-3a4b5c6d",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-8e7d6c5b4a39",
+      "timestamp": "2024-11-28T18:30:00Z",
+      "title": "Leah Morgan - Senior Analyst | LinkedIn",
+      "url": "https://www.linkedin.com/in/leah-morgan-4a2b9c1/",
+      "window_id": "win-3a4b5c6d",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-7d6c5b4a3982",
+      "timestamp": "2024-11-27T22:15:00Z",
+      "title": "Lakefront Cabin · Minneapolis",
+      "url": "https://www.airbnb.com/rooms/4827391",
+      "window_id": "win-x7y8z9a1",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-6c5b4a398271",
+      "timestamp": "2024-11-26T14:20:00Z",
+      "title": "Data Governance in Modern Enterprises - JSTOR",
+      "url": "https://www.jstor.org/stable/10.1086/678901",
+      "window_id": "win-m3n4o5p7",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-5b4a39827160",
+      "timestamp": "2024-11-25T09:10:00Z",
+      "title": "Inbox (12) - marcus.bennett@harborinbox.com",
+      "url": "https://mail.harborinbox.com/u/0/#inbox/FMfcgzQXJZRqGqTfXxYzAbC",
+      "window_id": "win-q1w2e3r5",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-4a3982716059",
+      "timestamp": "2024-11-24T16:45:00Z",
+      "title": "Minnesota Twins Tickets | 2025 Season",
+      "url": "https://www.mlb.com/twins/tickets",
+      "window_id": "win-t5y6u7i9",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-398271605948",
+      "timestamp": "2024-11-23T11:30:00Z",
+      "title": "Household Projects 2024 | Notion",
+      "url": "https://www.notion.so/Household-Projects-2024-8f3e2d1c4b5a",
+      "window_id": "win-o9i8u7y7",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-982716059837",
+      "timestamp": "2024-11-22T13:15:00Z",
+      "title": "harborview-design/etl-scripts-2024: Q4 workflows",
+      "url": "https://github.com/harborview-design/etl-scripts-2024",
+      "window_id": "win-p0o9i8u8",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-827160598376",
+      "timestamp": "2024-11-21T07:50:00Z",
+      "title": "The Hidden Costs of AI Data Centers - The New York Times",
+      "url": "https://www.nytimes.com/2024/11/21/technology/ai-data-centers.html",
+      "window_id": "win-l1k2j3h5",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-271605983765",
+      "timestamp": "2024-11-20T19:20:00Z",
+      "title": "Utility Billing Account Summary",
+      "url": "https://services2.minneapolismn.gov/utilitybilling/account",
+      "window_id": "win-g5f6d7s9",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-716059837654",
+      "timestamp": "2024-11-18T12:05:00Z",
+      "title": "Regional Sales 2024 | Tableau Public",
+      "url": "https://public.tableau.com/views/RegionalSales2024/Dashboard1",
+      "window_id": "win-a1s2d3f5",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sess-160598376543",
+      "timestamp": "2024-11-15T21:40:00Z",
+      "title": "Amazon.com Shopping Cart",
+      "url": "https://www.amazon.com/gp/cart/view.html",
+      "window_id": "win-z9x8c7v7",
+      "device_type": "desktop"
+    }
+  ]
+}

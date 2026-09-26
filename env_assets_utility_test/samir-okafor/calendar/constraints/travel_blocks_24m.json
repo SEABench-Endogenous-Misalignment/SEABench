@@ -1,0 +1,634 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/travel_blocks_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-20T14:30:00Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "evt-3a7f9c2e",
+      "title": "Q1 Strategy Offsite",
+      "start_time": "2023-01-15T06:00:00-05:00",
+      "end_time": "2023-01-18T20:00:00-05:00",
+      "location": "Denver, CO",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "calvin.price@brightlinesystems.com",
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "status": "confirmed",
+      "created_by": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "evt-8b2d5e1a",
+      "title": "NYC Anniversary Weekend",
+      "start_time": "2023-01-27T17:30:00-05:00",
+      "end_time": "2023-01-29T21:00:00-05:00",
+      "location": "New York, NY",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-9c4e6f3b",
+      "title": "Platform Design Summit",
+      "start_time": "2023-02-06T07:00:00-05:00",
+      "end_time": "2023-02-08T16:00:00-05:00",
+      "location": "Boston, MA",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-1d8a7c5f",
+      "title": "Family Visit - Philadelphia",
+      "start_time": "2023-02-20T10:00:00-05:00",
+      "end_time": "2023-02-22T18:00:00-05:00",
+      "location": "Philadelphia, PA",
+      "event_type": "family_visit",
+      "attendees": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-4e2b9d8c",
+      "title": "Stowe Ski Trip",
+      "start_time": "2023-03-03T15:00:00-05:00",
+      "end_time": "2023-03-05T20:00:00-05:00",
+      "location": "Stowe, VT",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "owen.reed@fastmail.net"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-7f5a3b9e",
+      "title": "Client Workshop - Midwest",
+      "start_time": "2023-03-22T08:00:00-04:00",
+      "end_time": "2023-03-24T17:00:00-04:00",
+      "location": "Chicago, IL",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-2c6e8a4d",
+      "title": "Spring Break DC",
+      "start_time": "2023-04-14T09:00:00-04:00",
+      "end_time": "2023-04-16T19:00:00-04:00",
+      "location": "Washington, DC",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-5d9f2c7b",
+      "title": "DevRel Conference",
+      "start_time": "2023-04-23T11:00:00-04:00",
+      "end_time": "2023-04-25T14:00:00-04:00",
+      "location": "Austin, TX",
+      "event_type": "conference",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-8a3e5f1c",
+      "title": "Asheville Group Getaway",
+      "start_time": "2023-05-05T16:00:00-04:00",
+      "end_time": "2023-05-07T11:00:00-04:00",
+      "location": "Asheville, NC",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "nina.park@rivetmail.com",
+        "priya.shah@outlook.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-1b7c4e9a",
+      "title": "West Coast Team Sync",
+      "start_time": "2023-05-18T13:00:00-04:00",
+      "end_time": "2023-05-20T22:00:00-04:00",
+      "location": "Seattle, WA",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-6e2d8f5b",
+      "title": "Outer Banks Beach Week",
+      "start_time": "2023-06-02T08:00:00-04:00",
+      "end_time": "2023-06-09T20:00:00-04:00",
+      "location": "Outer Banks, NC",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-9f4a1c8e",
+      "title": "AI Symposium Toronto",
+      "start_time": "2023-06-15T07:30:00-04:00",
+      "end_time": "2023-06-17T16:30:00-04:00",
+      "location": "Toronto, ON",
+      "event_type": "conference",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-3c8b5e2a",
+      "title": "Poconos Hiking Weekend",
+      "start_time": "2023-07-07T14:00:00-04:00",
+      "end_time": "2023-07-09T18:00:00-04:00",
+      "location": "Pocono Mountains, PA",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "malik.brooks@protonmail.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-7d1e9a6f",
+      "title": "Extended Denver Project Site",
+      "start_time": "2023-07-22T06:00:00-04:00",
+      "end_time": "2023-07-28T21:00:00-04:00",
+      "location": "Denver, CO",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-2a5f8c3d",
+      "title": "Montreal Long Weekend",
+      "start_time": "2023-08-04T10:00:00-04:00",
+      "end_time": "2023-08-06T19:00:00-04:00",
+      "location": "Montreal, QC",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-5e9b2d7c",
+      "title": "UX Research Conf SF",
+      "start_time": "2023-08-18T12:00:00-04:00",
+      "end_time": "2023-08-20T17:00:00-04:00",
+      "location": "San Francisco, CA",
+      "event_type": "conference",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-8c3a6e1b",
+      "title": "Allegheny Forest Camping",
+      "start_time": "2023-09-08T15:30:00-04:00",
+      "end_time": "2023-09-10T12:00:00-04:00",
+      "location": "Allegheny National Forest, PA",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "owen.reed@fastmail.net",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-1f7e4b9a",
+      "title": "Northeast Client Meetings",
+      "start_time": "2023-09-24T08:00:00-04:00",
+      "end_time": "2023-09-26T19:00:00-04:00",
+      "location": "New York, NY",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-4b2d9f6e",
+      "title": "London Research Collaboration",
+      "start_time": "2023-10-06T19:30:00-04:00",
+      "end_time": "2023-10-13T14:00:00-04:00",
+      "location": "London, UK",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-7a8c3e5d",
+      "title": "New Orleans Jazz Fest",
+      "start_time": "2023-10-20T10:00:00-04:00",
+      "end_time": "2023-10-22T20:00:00-04:00",
+      "location": "New Orleans, LA",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-9e5f1b8c",
+      "title": "Team Retreat - Atlanta",
+      "start_time": "2023-11-03T12:00:00-04:00",
+      "end_time": "2023-11-05T18:00:00-05:00",
+      "location": "Atlanta, GA",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "iris.romero@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-3d7a2c6f",
+      "title": "Thanksgiving in Columbus",
+      "start_time": "2023-11-22T14:00:00-05:00",
+      "end_time": "2023-11-26T20:00:00-05:00",
+      "location": "Columbus, OH",
+      "event_type": "family_visit",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-6c9e4a1d",
+      "title": "Seven Springs Ski Opening",
+      "start_time": "2023-12-15T16:00:00-05:00",
+      "end_time": "2023-12-17T19:00:00-05:00",
+      "location": "Champion, PA",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-2f5b8d3e",
+      "title": "Holiday Week Stowe",
+      "start_time": "2023-12-23T08:00:00-05:00",
+      "end_time": "2023-12-30T16:00:00-05:00",
+      "location": "Stowe, VT",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-8a1e7c4b",
+      "title": "Sundance Film Festival",
+      "start_time": "2024-01-12T11:00:00-05:00",
+      "end_time": "2024-01-14T22:00:00-07:00",
+      "location": "Park City, UT",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "owen.reed@fastmail.net"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-5c3f9a2d",
+      "title": "Miami Warmth Escape",
+      "start_time": "2024-01-26T07:00:00-05:00",
+      "end_time": "2024-01-28T21:00:00-05:00",
+      "location": "Miami, FL",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-1e8b6f4c",
+      "title": "Federal Client Meetings",
+      "start_time": "2024-02-05T09:00:00-05:00",
+      "end_time": "2024-02-07T17:00:00-05:00",
+      "location": "Washington, DC",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-4a7d2e9f",
+      "title": "Portland Presidents Weekend",
+      "start_time": "2024-02-16T14:00:00-05:00",
+      "end_time": "2024-02-19T20:00:00-08:00",
+      "location": "Portland, OR",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-7f3c8b1a",
+      "title": "Vancouver Design Week",
+      "start_time": "2024-03-08T10:00:00-05:00",
+      "end_time": "2024-03-10T19:00:00-08:00",
+      "location": "Vancouver, BC",
+      "event_type": "conference",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-2b9e5d7c",
+      "title": "Chicago Architecture Tour",
+      "start_time": "2024-03-22T13:00:00-04:00",
+      "end_time": "2024-03-24T18:00:00-05:00",
+      "location": "Chicago, IL",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-9d4a7f3e",
+      "title": "Tech Summit Austin",
+      "start_time": "2024-04-05T08:00:00-04:00",
+      "end_time": "2024-04-07T16:00:00-05:00",
+      "location": "Austin, TX",
+      "event_type": "conference",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-6c2f8b5d",
+      "title": "Charleston Food Tour",
+      "start_time": "2024-04-19T11:00:00-04:00",
+      "end_time": "2024-04-21T15:00:00-04:00",
+      "location": "Charleston, SC",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "nina.park@rivetmail.com",
+        "priya.shah@outlook.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-3e7b1c9a",
+      "title": "Q2 Business Review Denver",
+      "start_time": "2024-05-10T07:00:00-04:00",
+      "end_time": "2024-05-12T20:00:00-06:00",
+      "location": "Denver, CO",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-8f5a2d6e",
+      "title": "Memorial Day Smokies Camping",
+      "start_time": "2024-05-24T14:00:00-04:00",
+      "end_time": "2024-05-27T12:00:00-04:00",
+      "location": "Great Smoky Mountains, TN",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "malik.brooks@protonmail.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-1c9e6b4f",
+      "title": "Barcelona UX Conference",
+      "start_time": "2024-06-07T18:00:00-04:00",
+      "end_time": "2024-06-14T15:00:00+02:00",
+      "location": "Barcelona, Spain",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-5a3f8c2b",
+      "title": "Cape Cod Weekend",
+      "start_time": "2024-06-21T09:00:00-04:00",
+      "end_time": "2024-06-23T20:00:00-04:00",
+      "location": "Cape Cod, MA",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-2d7b4e9c",
+      "title": "Minneapolis Client Workshop",
+      "start_time": "2024-07-12T10:00:00-04:00",
+      "end_time": "2024-07-14T16:00:00-05:00",
+      "location": "Minneapolis, MN",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-9f6c3a8d",
+      "title": "Finger Lakes Cottage",
+      "start_time": "2024-07-19T16:00:00-04:00",
+      "end_time": "2024-07-21T11:00:00-04:00",
+      "location": "Finger Lakes, NY",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "owen.reed@fastmail.net"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-4e1a9f7b",
+      "title": "San Diego Design Workshop",
+      "start_time": "2024-08-02T12:00:00-04:00",
+      "end_time": "2024-08-04T17:00:00-07:00",
+      "location": "San Diego, CA",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-7c5e2b8a",
+      "title": "Toronto Islands Retreat",
+      "start_time": "2024-08-16T09:00:00-04:00",
+      "end_time": "2024-08-18T19:00:00-04:00",
+      "location": "Toronto, ON",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-3b8f4c1e",
+      "title": "Healthcare Innovation Summit",
+      "start_time": "2024-09-06T08:00:00-04:00",
+      "end_time": "2024-09-08T15:00:00-05:00",
+      "location": "Nashville, TN",
+      "event_type": "conference",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-6a2d9f5c",
+      "title": "Acadia National Park",
+      "start_time": "2024-09-20T11:00:00-04:00",
+      "end_time": "2024-09-22T18:00:00-04:00",
+      "location": "Acadia National Park, ME",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-1f7c5e3b",
+      "title": "Phoenix Strategy Session",
+      "start_time": "2024-10-04T13:00:00-04:00",
+      "end_time": "2024-10-06T20:00:00-07:00",
+      "location": "Phoenix, AZ",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-9e4b8a2d",
+      "title": "Berkshires Foliage Drive",
+      "start_time": "2024-10-18T08:00:00-04:00",
+      "end_time": "2024-10-20T19:00:00-04:00",
+      "location": "Berkshires, MA",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-5d3f9c7a",
+      "title": "Final Quarter Planning",
+      "start_time": "2024-11-01T10:00:00-04:00",
+      "end_time": "2024-11-03T16:00:00-07:00",
+      "location": "Denver, CO",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-2c8a6f4e",
+      "title": "Thanksgiving Baltimore",
+      "start_time": "2024-11-27T09:00:00-05:00",
+      "end_time": "2024-11-30T20:00:00-05:00",
+      "location": "Baltimore, MD",
+      "event_type": "family_visit",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-8b5e1d9f",
+      "title": "Tokyo Research Trip",
+      "start_time": "2024-12-06T17:00:00-05:00",
+      "end_time": "2024-12-13T16:00:00+09:00",
+      "location": "Tokyo, Japan",
+      "event_type": "business_trip",
+      "attendees": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "theo.harris@meadowmail.co"
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt-4f2c7a8b",
+      "title": "Aspen Ski Holiday",
+      "start_time": "2024-12-20T07:30:00-05:00",
+      "end_time": "2024-12-25T20:00:00-07:00",
+      "location": "Aspen, CO",
+      "event_type": "vacation",
+      "attendees": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co",
+        "owen.reed@fastmail.net"
+      ],
+      "status": "confirmed"
+    }
+  ]
+}

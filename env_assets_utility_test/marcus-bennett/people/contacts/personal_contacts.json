@@ -1,0 +1,589 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/personal_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T18:30:00Z",
+    "source": "contacts_sync_export"
+  },
+  "records": [
+    {
+      "id": "c7d8e9f0-a1b2-4c3d-9e8f-1234567890ab",
+      "date": "2022-08-14",
+      "name": {
+        "first": "Theo",
+        "last": "Harris"
+      },
+      "email": "theo.harris@harborinbox.com",
+      "phone": "+1-503-829-1289",
+      "relationship": "spouse",
+      "category": "family"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0123456789ab",
+      "date": "2022-09-03",
+      "name": {
+        "first": "Nina",
+        "last": "Park"
+      },
+      "email": "nina.park@gmail.com",
+      "phone": "+1-503-422-8910",
+      "relationship": "friend",
+      "category": "close_contacts"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-123456789abc",
+      "date": "2022-11-20",
+      "name": {
+        "first": "Owen",
+        "last": "Reed"
+      },
+      "email": "owen.reed@outlook.com",
+      "phone": "+1-541-338-7742",
+      "relationship": "friend",
+      "category": "close_contacts"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-23456789abcd",
+      "date": "2023-01-15",
+      "name": {
+        "first": "Priya",
+        "last": "Shah"
+      },
+      "email": "priya.shah@meadowmail.co",
+      "phone": "+1-503-881-3456",
+      "relationship": "friend",
+      "category": "close_contacts"
+    },
+    {
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-3456789abcde",
+      "date": "2023-02-28",
+      "name": {
+        "first": "Malik",
+        "last": "Brooks"
+      },
+      "email": "malik.brooks@fastmail.com",
+      "phone": "+1-503-294-5521",
+      "relationship": "friend",
+      "category": "close_contacts"
+    },
+    {
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-456789abcdef",
+      "date": "2022-06-10",
+      "name": {
+        "first": "Leah",
+        "last": "Morgan"
+      },
+      "email": "leah.morgan@cedargrovestudio.com",
+      "phone": "+1-503-467-9981",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "07b8c9d0-e1f2-40a3-b4c5-56789abcdef0",
+      "date": "2022-06-12",
+      "name": {
+        "first": "Calvin",
+        "last": "Price"
+      },
+      "email": "calvin.price@cedargrovestudio.com",
+      "phone": "+1-503-467-1123",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "18c9d0e1-f2a3-41b4-c5d6-6789abcdef01",
+      "date": "2022-07-05",
+      "name": {
+        "first": "Iris",
+        "last": "Romero"
+      },
+      "email": "iris.romero@cedargrovestudio.com",
+      "phone": "+1-503-467-2234",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "29d0e1f2-a3b4-42c5-d6e7-789abcdef012",
+      "date": "2022-08-20",
+      "name": {
+        "first": "Grace",
+        "last": "Lin"
+      },
+      "email": "grace.lin@cedargrovestudio.com",
+      "phone": "+1-503-467-3345",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "3ae1f2a3-b4c5-43d6-e7f8-89abcdef0123",
+      "date": "2022-05-01",
+      "name": {
+        "first": "Elena",
+        "last": "Bennett"
+      },
+      "email": "elena.bennett@outlook.com",
+      "phone": "+1-206-442-7819",
+      "relationship": "sister",
+      "category": "family"
+    },
+    {
+      "id": "4bf2a3b4-c5d6-44e7-f8a9-9abcdef01234",
+      "date": "2022-04-15",
+      "name": {
+        "first": "David",
+        "last": "Bennett"
+      },
+      "email": "david.bennett@comcast.net",
+      "phone": "+1-503-774-8892",
+      "relationship": "father",
+      "category": "family"
+    },
+    {
+      "id": "5ca3b4c5-d6e7-45f8-a9b0-abcdef012345",
+      "date": "2022-04-15",
+      "name": {
+        "first": "Patricia",
+        "last": "Bennett"
+      },
+      "email": "patricia.bennett@icloud.com",
+      "phone": "+1-503-774-8893",
+      "relationship": "mother",
+      "category": "family"
+    },
+    {
+      "id": "6db4c5d6-e7f8-46a9-b0c1-bcdef0123456",
+      "date": "2023-05-20",
+      "name": {
+        "first": "James",
+        "last": "Harris"
+      },
+      "email": "james.harris@fastmail.com",
+      "phone": "+1-602-445-7781",
+      "relationship": "father-in-law",
+      "category": "family"
+    },
+    {
+      "id": "7ec5d6e7-f8a9-47b0-c1d2-cdef01234567",
+      "date": "2023-05-20",
+      "name": {
+        "first": "Margot",
+        "last": "Harris"
+      },
+      "email": "margot.harris@fiberconnect.net",
+      "phone": "+1-602-445-7782",
+      "relationship": "mother-in-law",
+      "category": "family"
+    },
+    {
+      "id": "8fd6e7f8-a9b0-48c1-d2e3-def012345678",
+      "date": "2022-10-10",
+      "name": {
+        "first": "Sarah",
+        "last": "Chen",
+        "title": "Dr."
+      },
+      "email": "s.chen@portlanddentalgroup.com",
+      "phone": "+1-503-288-4400",
+      "relationship": "dentist",
+      "category": "medical"
+    },
+    {
+      "id": "90e7f8a9-b0c1-49d2-e3f4-ef0123456789",
+      "date": "2023-06-01",
+      "name": {
+        "first": "Alex",
+        "last": "Rivera"
+      },
+      "email": "alex.rivera@protonmail.com",
+      "phone": "+1-503-291-3344",
+      "relationship": "neighbor",
+      "category": "neighborhood"
+    },
+    {
+      "id": "a1f8a9b0-c1d2-4ae3-f4a5-f0123456789a",
+      "date": "2022-12-10",
+      "name": {
+        "first": "Jordan",
+        "last": "Taylor"
+      },
+      "email": "jordan.taylor@gmail.com",
+      "phone": "+1-415-662-9981",
+      "relationship": "college friend",
+      "category": "friends"
+    },
+    {
+      "id": "b20a9b0c-d1e2-4bf4-a5b6-0123456789ab",
+      "date": "2023-04-22",
+      "name": {
+        "first": "Casey",
+        "last": "Foster"
+      },
+      "email": "casey.foster@tutanota.com",
+      "phone": "+1-503-876-2210",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "c31b0c1d-e2f3-40a5-b6c7-123456789abc",
+      "date": "2023-07-30",
+      "name": {
+        "first": "Morgan",
+        "last": "Lee"
+      },
+      "email": "morgan.lee@designworks.io",
+      "phone": "+1-503-444-9921",
+      "relationship": "former colleague",
+      "category": "work"
+    },
+    {
+      "id": "d42c1d2e-f3a4-41b6-c7d8-23456789abcd",
+      "date": "2023-08-14",
+      "name": {
+        "first": "Riley",
+        "last": "Santos"
+      },
+      "email": "riley.santos@outlook.com",
+      "phone": "+1-503-332-7756",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "e53d2e3f-a4b5-42c7-d8e9-3456789abcde",
+      "date": "2023-09-05",
+      "name": {
+        "first": "Avery",
+        "last": "Patel"
+      },
+      "email": "avery.patel@gmail.com",
+      "phone": "+1-503-229-8843",
+      "relationship": "workout buddy",
+      "category": "fitness"
+    },
+    {
+      "id": "f64e3f4a-b5c6-43d8-e9f0-456789abcdef",
+      "date": "2023-10-12",
+      "name": {
+        "first": "Quinn",
+        "last": "Murphy"
+      },
+      "email": "quinn.murphy@posteo.net",
+      "phone": "+1-503-771-3409",
+      "relationship": "book club",
+      "category": "social"
+    },
+    {
+      "id": "075f4a5b-c6d7-44e9-f0a1-56789abcdef0",
+      "date": "2023-11-18",
+      "name": {
+        "first": "Bailey",
+        "last": "Washington"
+      },
+      "email": "bailey.washington@icloud.com",
+      "phone": "+1-503-882-1156",
+      "relationship": "cousin",
+      "category": "family"
+    },
+    {
+      "id": "186a5b6c-d7e8-45f0-a1b2-6789abcdef01",
+      "date": "2023-12-01",
+      "name": {
+        "first": "Cameron",
+        "last": "Jennings"
+      },
+      "email": "c.jennings@harborinbox.com",
+      "phone": "+1-541-229-8844",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "297b6c7d-e8f9-46a1-b2c3-789abcdef012",
+      "date": "2024-01-10",
+      "name": {
+        "first": "Drew",
+        "last": "Patterson"
+      },
+      "email": "drew.patterson@outlook.com",
+      "phone": "+1-503-338-7721",
+      "relationship": "college roommate",
+      "category": "friends"
+    },
+    {
+      "id": "3a8c7d8e-f9a0-47b2-c3d4-89abcdef0123",
+      "date": "2024-02-14",
+      "name": {
+        "first": "Harley",
+        "last": "Kim"
+      },
+      "email": "harley.kim@fastmail.com",
+      "phone": "+1-503-291-5567",
+      "relationship": "neighbor",
+      "category": "neighborhood"
+    },
+    {
+      "id": "4b9d8e9f-a0b1-48c3-d4e5-9abcdef01234",
+      "date": "2022-09-20",
+      "name": {
+        "first": "Sam",
+        "last": "Robinson"
+      },
+      "email": "sam.robinson@cedargrovestudio.com",
+      "phone": "+1-503-467-4456",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "5c0e9fa0-b1c2-49d4-e5f6-abcdef012345",
+      "date": "2022-10-05",
+      "name": {
+        "first": "Jamie",
+        "last": "Chen"
+      },
+      "email": "jamie.chen@cedargrovestudio.com",
+      "phone": "+1-503-467-5567",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "6d1fa0b1-c2d3-4ae5-f6a7-bcdef0123456",
+      "date": "2024-03-08",
+      "name": {
+        "first": "Taylor",
+        "last": "Brooks"
+      },
+      "email": "taylor.brooks@gmail.com",
+      "phone": "+1-503-229-0034",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "7e20b1c2-d3e4-4bf6-a7b8-cdef01234567",
+      "date": "2024-04-15",
+      "name": {
+        "first": "Skyler",
+        "last": "Adams"
+      },
+      "email": "skyler.adams@protonmail.com",
+      "phone": "+1-503-876-4421",
+      "relationship": "climbing partner",
+      "category": "fitness"
+    },
+    {
+      "id": "8f31c2d3-e4f5-40a7-b8c9-def012345678",
+      "date": "2022-11-30",
+      "name": {
+        "first": "Dana",
+        "last": "White"
+      },
+      "email": "dana.white@pdxaccounting.com",
+      "phone": "+1-503-244-8899",
+      "relationship": "accountant",
+      "category": "professional"
+    },
+    {
+      "id": "9042d3e4-f5a6-41b8-c9d0-ef0123456789",
+      "date": "2024-05-20",
+      "name": {
+        "first": "River",
+        "last": "Stone"
+      },
+      "email": "river.stone@tutanota.com",
+      "phone": "+1-503-332-1198",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "a153e4f5-a6b7-42c9-d0e1-f0123456789a",
+      "date": "2024-06-10",
+      "name": {
+        "first": "Sage",
+        "last": "Miller"
+      },
+      "email": "sage.miller@outlook.com",
+      "phone": "+1-503-771-6643",
+      "relationship": "cousin-in-law",
+      "category": "family"
+    },
+    {
+      "id": "b264f5a6-b7c8-43d0-e1f2-0123456789ab",
+      "date": "2023-01-05",
+      "name": {
+        "first": "Phoenix",
+        "last": "Garcia"
+      },
+      "email": "phoenix.garcia@designworks.io",
+      "phone": "+1-503-444-2233",
+      "relationship": "former colleague",
+      "category": "work"
+    },
+    {
+      "id": "c375a6b7-c8d9-44e1-f2a3-123456789abc",
+      "date": "2023-02-14",
+      "name": {
+        "first": "Rowan",
+        "last": "Murphy"
+      },
+      "email": "rowan.murphy@gmail.com",
+      "phone": "+1-503-229-7755",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "d486b7c8-d9e0-45f2-a3b4-23456789abcd",
+      "date": "2023-03-20",
+      "name": {
+        "first": "Eden",
+        "last": "Foster"
+      },
+      "email": "eden.foster@icloud.com",
+      "phone": "+1-503-338-9901",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "e597c8d9-e0f1-46a3-b4c5-3456789abcde",
+      "date": "2023-04-30",
+      "name": {
+        "first": "Charlie",
+        "last": "Zhang"
+      },
+      "email": "charlie.zhang@fastmail.com",
+      "phone": "+1-503-291-2288",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "f6a8d9e0-f1a2-47b4-c5d6-456789abcdef",
+      "date": "2023-05-15",
+      "name": {
+        "first": "Reese",
+        "last": "Thompson"
+      },
+      "email": "reese.thompson@outlook.com",
+      "phone": "+1-541-338-4477",
+      "relationship": "hiking buddy",
+      "category": "outdoor"
+    },
+    {
+      "id": "07b9e0f1-a2b3-48c5-d6e7-56789abcdef0",
+      "date": "2023-06-25",
+      "name": {
+        "first": "Dakota",
+        "last": "Williams"
+      },
+      "email": "dakota.williams@posteo.net",
+      "phone": "+1-415-662-3322",
+      "relationship": "college friend",
+      "category": "friends"
+    },
+    {
+      "id": "18caf0a2-b3c4-49d6-e7f8-6789abcdef01",
+      "date": "2023-08-01",
+      "name": {
+        "first": "Finley",
+        "last": "Clark"
+      },
+      "email": "finley.clark@cedargrovestudio.com",
+      "phone": "+1-503-467-6678",
+      "relationship": "colleague",
+      "category": "work"
+    },
+    {
+      "id": "29db0a2b-c4d5-4ae7-f8a9-789abcdef012",
+      "date": "2023-09-12",
+      "name": {
+        "first": "Hayden",
+        "last": "Lopez"
+      },
+      "email": "hayden.lopez@pdxfitness.co",
+      "phone": "+1-503-288-7654",
+      "relationship": "personal trainer",
+      "category": "fitness"
+    },
+    {
+      "id": "30ec1a2c-d5e6-4bf8-a9b0-89abcdef0123",
+      "date": "2023-10-20",
+      "name": {
+        "first": "Blake",
+        "last": "Anderson"
+      },
+      "email": "blake.anderson@gmail.com",
+      "phone": "+1-503-291-8834",
+      "relationship": "neighbor",
+      "category": "neighborhood"
+    },
+    {
+      "id": "41fd2b3d-e6f7-40a9-b0c1-9abcdef01234",
+      "date": "2023-11-05",
+      "name": {
+        "first": "Emerson",
+        "last": "Wright"
+      },
+      "email": "emerson.wright@designcollective.org",
+      "phone": "+1-503-876-0099",
+      "relationship": "design meetup",
+      "category": "professional"
+    },
+    {
+      "id": "520e3c4e-f7a8-41b0-c1d2-abcdef012345",
+      "date": "2022-07-18",
+      "name": {
+        "first": "Spencer",
+        "last": "Hall"
+      },
+      "email": "spencer.hall@techstart.io",
+      "phone": "+1-503-442-1188",
+      "relationship": "former colleague",
+      "category": "work"
+    },
+    {
+      "id": "631f4d5f-a8b9-42c1-d2e3-bcdef0123456",
+      "date": "2024-01-28",
+      "name": {
+        "first": "Parker",
+        "last": "Kim"
+      },
+      "email": "parker.kim@outlook.com",
+      "phone": "+1-503-229-5566",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "74205e6f-b9c0-43d2-e3f4-cdef01234567",
+      "date": "2024-02-20",
+      "name": {
+        "first": "Logan",
+        "last": "Stevens"
+      },
+      "email": "logan.stevens@harborinbox.com",
+      "phone": "+1-503-829-4477",
+      "relationship": "spouse's colleague",
+      "category": "work"
+    },
+    {
+      "id": "85316f70-c0d1-44e3-f4a5-def012345678",
+      "date": "2024-03-15",
+      "name": {
+        "first": "River",
+        "last": "Chen"
+      },
+      "email": "river.chen@protonmail.com",
+      "phone": "+1-503-332-8844",
+      "relationship": "friend",
+      "category": "friends"
+    },
+    {
+      "id": "96427081-d1e2-45f4-a5b6-ef0123456789",
+      "date": "2022-08-30",
+      "name": {
+        "first": "Jules",
+        "last": "Carpenter"
+      },
+      "email": "jules.carpenter@gmail.com",
+      "phone": "+1-503-776-2234",
+      "relationship": "friend",
+      "category": "friends"
+    }
+  ]
+}

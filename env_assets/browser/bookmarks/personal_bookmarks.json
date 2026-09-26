@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/personal_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-15T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "bm_2026_001",
+      "title": "Weekend Sourdough Baking Guide",
+      "url": "https://www.breadtopia.com/sourdough-beginners-guide",
+      "folder": "Recipes",
+      "timestamp": "2026-04-05T14:23:00Z",
+      "tags": [
+        "baking",
+        "weekend",
+        "cooking"
+      ],
+      "notes": "Try the overnight fermentation method"
+    },
+    {
+      "id": "bm_2026_002",
+      "title": "Midtown Public Library Catalog",
+      "url": "https://midtown.libnet.info/catalog",
+      "folder": "Personal",
+      "timestamp": "2026-04-12T09:15:30Z",
+      "tags": [
+        "library",
+        "reading",
+        "local"
+      ]
+    },
+    {
+      "id": "bm_2026_003",
+      "title": "Q2 Project Dashboard - Asana",
+      "url": "https://app.asana.com/0/portfolio/1204567890123456",
+      "folder": "Work",
+      "timestamp": "2026-05-03T11:45:00Z",
+      "tags": [
+        "work",
+        "project-management",
+        "quarterly-planning"
+      ],
+      "modified": "2026-05-15T16:20:00Z"
+    },
+    {
+      "id": "bm_2026_004",
+      "title": "Mountain Ridge State Park Trails",
+      "url": "https://www.alltrails.com/parks/us/california/mountain-ridge-state-park",
+      "folder": "Travel",
+      "timestamp": "2026-05-18T16:20:00Z",
+      "tags": [
+        "hiking",
+        "outdoors",
+        "weekend-trip"
+      ],
+      "notes": "Check weather before Saturday hike"
+    },
+    {
+      "id": "bm_2026_005",
+      "title": "Bella Vista Bistro Reviews",
+      "url": "https://www.yelp.com/biz/bella-vista-bistro-midtown",
+      "folder": "Food",
+      "timestamp": "2026-06-08T19:30:00Z",
+      "tags": [
+        "restaurant",
+        "italian",
+        "dinner-plans"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": "bm_2026_006",
+      "title": "Python Pandas Documentation",
+      "url": "https://pandas.pydata.org/docs/user_guide/index.html",
+      "folder": "Development",
+      "timestamp": "2026-06-22T10:00:00Z",
+      "tags": [
+        "coding",
+        "python",
+        "data-analysis",
+        "reference"
+      ],
+      "last_accessed": "2026-06-25T14:15:00Z"
+    }
+  ]
+}

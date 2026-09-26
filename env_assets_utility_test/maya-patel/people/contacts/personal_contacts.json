@@ -1,0 +1,408 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/personal_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T18:30:00Z",
+    "source": "contacts_app_export"
+  },
+  "records": [
+    {
+      "id": "cont_maya_primary",
+      "name": "Maya Patel",
+      "email": "maya.patel@harborinbox.com",
+      "phone": "+1-412-653-5157",
+      "company": "Riverton Health Labs",
+      "job_title": "Data Program Manager",
+      "type": "self",
+      "date": "2022-05-20T09:15:00Z"
+    },
+    {
+      "id": "cont_8f3d9a2b",
+      "name": "Priya Shah",
+      "email": "priya.shah@riverbendmail.com",
+      "phone": "+1-412-803-3736",
+      "relationship": "roommate",
+      "date": "2022-06-12T14:30:00Z"
+    },
+    {
+      "id": "cont_9e4b1c5d",
+      "name": "Nina Park",
+      "email": "nina.park@gmail.com",
+      "phone": "+1-412-774-2893",
+      "relationship": "close_friend",
+      "date": "2022-07-04T11:20:00Z"
+    },
+    {
+      "id": "cont_2a7f8e4c",
+      "name": "Owen Reed",
+      "email": "owen.reed@fastmail.com",
+      "phone": "+1-724-338-1927",
+      "relationship": "close_friend",
+      "date": "2022-08-15T16:45:00Z"
+    },
+    {
+      "id": "cont_5b2d6e1a",
+      "name": "Malik Brooks",
+      "email": "malik.brooks@outlook.com",
+      "phone": "+1-412-556-8742",
+      "relationship": "close_friend",
+      "date": "2022-09-22T10:10:00Z"
+    },
+    {
+      "id": "cont_1c9f4a8e",
+      "name": "Elena Vega",
+      "email": "elena.vega@protonmail.com",
+      "phone": "+1-215-443-7612",
+      "relationship": "close_friend",
+      "date": "2022-10-08T08:50:00Z"
+    },
+    {
+      "id": "cont_3d8a7b2f",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@rivertonhealthlabs.com",
+      "phone": "+1-412-889-3344",
+      "company": "Riverton Health Labs",
+      "department": "Clinical Research",
+      "relationship": "work_colleague",
+      "date": "2022-11-14T09:00:00Z"
+    },
+    {
+      "id": "cont_6e5c3d9a",
+      "name": "Calvin Price",
+      "email": "calvin.price@rivertonhealthlabs.com",
+      "phone": "+1-412-667-9081",
+      "company": "Riverton Health Labs",
+      "department": "Data Analytics",
+      "relationship": "work_colleague",
+      "date": "2022-12-03T13:45:00Z"
+    },
+    {
+      "id": "cont_4a2b8c7d",
+      "name": "Iris Romero",
+      "email": "iris.romero@rivertonhealthlabs.com",
+      "phone": "+1-724-554-3210",
+      "company": "Riverton Health Labs",
+      "department": "UX Design",
+      "relationship": "work_colleague",
+      "date": "2023-01-18T11:20:00Z"
+    },
+    {
+      "id": "cont_7f1e5b3c",
+      "name": "Grace Lin",
+      "email": "grace.lin@rivertonhealthlabs.com",
+      "phone": "+1-412-321-7654",
+      "company": "Riverton Health Labs",
+      "department": "Product Management",
+      "relationship": "work_colleague",
+      "date": "2023-02-25T10:05:00Z"
+    },
+    {
+      "id": "cont_9d3e7f2a",
+      "name": "Dr. Amanda Foster",
+      "email": "amanda.foster@hilltopmedical.com",
+      "phone": "+1-412-681-4520",
+      "company": "Hilltop Medical Center",
+      "type": "healthcare_provider",
+      "date": "2023-03-10T15:30:00Z"
+    },
+    {
+      "id": "cont_2b8c5d1e",
+      "name": "David Chen",
+      "email": "david.chen@outlook.com",
+      "phone": "+1-412-239-8847",
+      "relationship": "friend",
+      "date": "2023-04-02T12:15:00Z"
+    },
+    {
+      "id": "cont_5a1f4e8b",
+      "name": "Sarah Mitchell",
+      "email": "sarah.mitchell@gmail.com",
+      "phone": "+1-724-551-9034",
+      "relationship": "college_friend",
+      "date": "2023-04-28T09:40:00Z"
+    },
+    {
+      "id": "cont_7c2a9f5d",
+      "name": "James Wilson",
+      "email": "james.wilson@yahoo.com",
+      "phone": "+1-412-876-3241",
+      "relationship": "neighbor",
+      "date": "2023-05-15T17:20:00Z"
+    },
+    {
+      "id": "cont_1e6b3c8f",
+      "name": "Pittsburgh Yoga Studio",
+      "email": "info@pittsburgyogastudio.com",
+      "phone": "+1-412-442-8899",
+      "type": "business",
+      "date": "2023-06-08T11:00:00Z"
+    },
+    {
+      "id": "cont_4f9a2d7c",
+      "name": "Harbor Inbox Support",
+      "email": "support@harborinbox.com",
+      "phone": "+1-800-221-4567",
+      "type": "service_provider",
+      "date": "2023-06-22T08:30:00Z"
+    },
+    {
+      "id": "cont_8b5e1a4f",
+      "name": "Marcus Thompson",
+      "email": "marcus.thompson@fastmail.com",
+      "phone": "+1-215-334-7789",
+      "relationship": "friend",
+      "date": "2023-07-14T14:50:00Z"
+    },
+    {
+      "id": "cont_3c7f2e9a",
+      "name": "Jennifer Walsh",
+      "email": "jennifer.walsh@gmail.com",
+      "phone": "+1-412-556-1209",
+      "relationship": "cousin",
+      "date": "2023-08-03T10:25:00Z"
+    },
+    {
+      "id": "cont_6d4a8b2e",
+      "name": "Robert Hayes",
+      "email": "robert.hayes@outlook.com",
+      "phone": "+1-724-889-4562",
+      "relationship": "uncle",
+      "date": "2023-08-19T16:10:00Z"
+    },
+    {
+      "id": "cont_9f2c5d8b",
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson@protonmail.com",
+      "phone": "+1-303-221-8844",
+      "relationship": "friend",
+      "date": "2023-09-05T09:55:00Z"
+    },
+    {
+      "id": "cont_2e8a1f6c",
+      "name": "Kevin Rodriguez",
+      "email": "kevin.rodriguez@gmail.com",
+      "phone": "+1-412-778-9923",
+      "relationship": "friend",
+      "date": "2023-09-28T13:40:00Z"
+    },
+    {
+      "id": "cont_5b9d3e7a",
+      "name": "Angela Brooks",
+      "email": "angela.brooks@yahoo.com",
+      "phone": "+1-206-445-7821",
+      "relationship": "acquaintance",
+      "date": "2023-10-12T11:15:00Z"
+    },
+    {
+      "id": "cont_1f4c8a9e",
+      "name": "Thomas Vega",
+      "email": "thomas.vega@outlook.com",
+      "phone": "+1-512-667-3345",
+      "relationship": "acquaintance",
+      "date": "2023-10-30T15:20:00Z"
+    },
+    {
+      "id": "cont_7d2b5f8c",
+      "name": "Michelle Kim",
+      "email": "michelle.kim@gmail.com",
+      "phone": "+1-412-334-5612",
+      "relationship": "friend",
+      "date": "2023-11-11T08:45:00Z"
+    },
+    {
+      "id": "cont_4e9a7c3d",
+      "name": "Daniel O'Brien",
+      "email": "daniel.obrien@fastmail.com",
+      "phone": "+1-724-223-9087",
+      "relationship": "friend",
+      "date": "2023-11-25T12:30:00Z"
+    },
+    {
+      "id": "cont_8c3f1b6a",
+      "name": "Rachel Green",
+      "email": "rachel.green@yahoo.com",
+      "phone": "+1-215-556-7823",
+      "relationship": "book_club",
+      "date": "2023-12-08T10:00:00Z"
+    },
+    {
+      "id": "cont_2a6e9d5f",
+      "name": "Steven Park",
+      "email": "steven.park@techsolutions.com",
+      "phone": "+1-412-889-4456",
+      "company": "Tech Solutions Inc",
+      "relationship": "professional_network",
+      "date": "2023-12-22T14:15:00Z"
+    },
+    {
+      "id": "cont_5f8b2d4e",
+      "name": "Jessica Adams",
+      "email": "jessica.adams@formeremployer.com",
+      "phone": "+1-303-441-5567",
+      "relationship": "former_colleague",
+      "date": "2024-01-05T09:30:00Z"
+    },
+    {
+      "id": "cont_9a4c7e1b",
+      "name": "Brian Clark",
+      "email": "brian.clark@gmail.com",
+      "phone": "+1-412-667-2234",
+      "relationship": "friend",
+      "date": "2024-01-18T11:45:00Z"
+    },
+    {
+      "id": "cont_3d7f9a2c",
+      "name": "Laura Martinez",
+      "email": "laura.martinez@outlook.com",
+      "phone": "+1-724-338-9901",
+      "relationship": "neighbor",
+      "date": "2024-02-02T16:00:00Z"
+    },
+    {
+      "id": "cont_6e1b8f5d",
+      "name": "Christopher Lee",
+      "email": "christopher.lee@protonmail.com",
+      "phone": "+1-206-778-4456",
+      "relationship": "friend",
+      "date": "2024-02-14T10:20:00Z"
+    },
+    {
+      "id": "cont_1c5a9f4e",
+      "name": "Amanda White",
+      "email": "amanda.white@gmail.com",
+      "phone": "+1-412-223-7765",
+      "relationship": "friend",
+      "date": "2024-02-28T13:10:00Z"
+    },
+    {
+      "id": "cont_4b2e7d9a",
+      "name": "Jason Miller",
+      "email": "jason.miller@crossfitpittsburgh.com",
+      "phone": "+1-512-334-8890",
+      "relationship": "gym_friend",
+      "date": "2024-03-12T08:40:00Z"
+    },
+    {
+      "id": "cont_7f9c3a8b",
+      "name": "Stephanie Brown",
+      "email": "stephanie.brown@yahoo.com",
+      "phone": "+1-215-667-1123",
+      "relationship": "friend",
+      "date": "2024-03-25T11:55:00Z"
+    },
+    {
+      "id": "cont_2e5b1d7f",
+      "name": "Andrew Davis",
+      "email": "andrew.davis@gmail.com",
+      "phone": "+1-412-445-9988",
+      "relationship": "friend",
+      "date": "2024-04-08T15:25:00Z"
+    },
+    {
+      "id": "cont_9d3a8c2e",
+      "name": "Nicole Taylor",
+      "email": "nicole.taylor@outlook.com",
+      "phone": "+1-724-556-4432",
+      "relationship": "friend",
+      "date": "2024-04-20T09:50:00Z"
+    },
+    {
+      "id": "cont_5f1e9b4d",
+      "name": "Ryan Harris",
+      "email": "ryan.harris@fastmail.com",
+      "phone": "+1-303-889-7766",
+      "relationship": "friend",
+      "date": "2024-04-28T14:05:00Z"
+    },
+    {
+      "id": "cont_8a7c4f2b",
+      "name": "Emily Johnson",
+      "email": "emily.johnson@yahoo.com",
+      "phone": "+1-412-112-3344",
+      "relationship": "friend",
+      "date": "2024-05-03T10:35:00Z"
+    },
+    {
+      "id": "cont_3b9e5d8a",
+      "name": "Matthew Lewis",
+      "email": "matthew.lewis@gmail.com",
+      "phone": "+1-206-445-9900",
+      "relationship": "friend",
+      "date": "2024-05-08T12:20:00Z"
+    },
+    {
+      "id": "cont_6c2f8a1e",
+      "name": "Ashley Walker",
+      "email": "ashley.walker@protonmail.com",
+      "phone": "+1-512-223-6677",
+      "relationship": "friend",
+      "date": "2022-06-25T11:10:00Z"
+    },
+    {
+      "id": "cont_1d7b4e9f",
+      "name": "Joshua Hall",
+      "email": "joshua.hall@outlook.com",
+      "phone": "+1-215-334-5588",
+      "relationship": "friend",
+      "date": "2022-09-10T16:30:00Z"
+    },
+    {
+      "id": "cont_4e8a3c5d",
+      "name": "Megan Young",
+      "email": "megan.young@gmail.com",
+      "phone": "+1-724-778-1122",
+      "relationship": "friend",
+      "date": "2022-12-18T13:15:00Z"
+    },
+    {
+      "id": "cont_9f5b2d8c",
+      "name": "Nicholas Allen",
+      "email": "nicholas.allen@yahoo.com",
+      "phone": "+1-412-556-8833",
+      "relationship": "acquaintance",
+      "date": "2023-03-30T09:45:00Z"
+    },
+    {
+      "id": "cont_2c6e9a1b",
+      "name": "Samantha King",
+      "email": "samantha.king@outlook.com",
+      "phone": "+1-303-441-2233",
+      "relationship": "friend",
+      "date": "2023-07-22T15:50:00Z"
+    },
+    {
+      "id": "cont_5a3f8d7e",
+      "name": "Eric Wright",
+      "email": "eric.wright@fastmail.com",
+      "phone": "+1-206-556-4477",
+      "relationship": "professional_network",
+      "date": "2023-10-05T12:00:00Z"
+    },
+    {
+      "id": "cont_8d2b7f4a",
+      "name": "Katherine Scott",
+      "email": "katherine.scott@gmail.com",
+      "phone": "+1-512-778-3355",
+      "relationship": "friend",
+      "date": "2024-01-28T10:40:00Z"
+    },
+    {
+      "id": "cont_1e9c6a3f",
+      "name": "Benjamin Lopez",
+      "email": "benjamin.lopez@outlook.com",
+      "phone": "+1-215-889-6644",
+      "relationship": "friend",
+      "date": "2024-04-15T14:25:00Z"
+    },
+    {
+      "id": "cont_7a4e8b2d",
+      "name": "Rebecca Chen",
+      "email": "rebecca.chen@yahoo.com",
+      "phone": "+1-412-334-9977",
+      "relationship": "friend",
+      "date": "2024-05-12T11:30:00Z"
+    }
+  ]
+}

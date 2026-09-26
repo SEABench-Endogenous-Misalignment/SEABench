@@ -1,0 +1,352 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/interaction_edges_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-22T16:45:30Z",
+    "source": "contact_interaction_sync"
+  },
+  "records": [
+    {
+      "id": "int-2024-11-20-001",
+      "timestamp": "2024-11-20T19:30:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Priya Shah",
+      "interaction_type": "sms",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-11-18-001",
+      "start_time": "2024-11-18T14:15:00-05:00",
+      "end_time": "2024-11-18T14:22:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Nina Park",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-11-15-001",
+      "timestamp": "2024-11-15T09:00:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Leah Morgan",
+      "interaction_type": "email",
+      "channel": "work_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-11-12-001",
+      "start_time": "2024-11-12T20:00:00-05:00",
+      "end_time": "2024-11-12T20:03:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Owen Reed",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "inbound"
+    },
+    {
+      "id": "int-2024-11-10-001",
+      "start_time": "2024-11-10T13:00:00-05:00",
+      "end_time": "2024-11-10T14:00:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Calvin Price",
+      "interaction_type": "meeting",
+      "channel": "in_person",
+      "location_context": "office_conference_room_b"
+    },
+    {
+      "id": "int-2024-11-08-001",
+      "timestamp": "2024-11-08T16:45:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "instant_message",
+      "channel": "signal",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-10-30-001",
+      "timestamp": "2024-10-30T11:20:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "email",
+      "channel": "personal_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-10-20-001",
+      "timestamp": "2024-10-20T10:15:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Calvin Price",
+      "interaction_type": "email",
+      "channel": "work_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-10-12-001",
+      "start_time": "2024-10-12T15:30:00-04:00",
+      "end_time": "2024-10-12T15:45:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Elena Vega",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-10-05-001",
+      "start_time": "2024-10-05T18:00:00-04:00",
+      "end_time": "2024-10-05T18:05:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Priya Shah",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-09-22-001",
+      "start_time": "2024-09-22T11:00:00-04:00",
+      "end_time": "2024-09-22T11:45:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Nina Park",
+      "interaction_type": "video_call",
+      "channel": "facetime",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-09-05-001",
+      "start_time": "2024-09-05T19:00:00-04:00",
+      "end_time": "2024-09-05T19:12:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "inbound"
+    },
+    {
+      "id": "int-2024-09-03-001",
+      "start_time": "2024-09-03T14:00:00-04:00",
+      "end_time": "2024-09-03T14:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Leah Morgan",
+      "interaction_type": "video_call",
+      "channel": "microsoft_teams",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-08-25-001",
+      "timestamp": "2024-08-25T13:10:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Owen Reed",
+      "interaction_type": "sms",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-08-15-001",
+      "start_time": "2024-08-15T09:00:00-04:00",
+      "end_time": "2024-08-15T10:00:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Calvin Price",
+      "interaction_type": "meeting",
+      "channel": "in_person",
+      "location_context": "office_conference_room_b"
+    },
+    {
+      "id": "int-2024-08-12-001",
+      "start_time": "2024-08-12T19:00:00-04:00",
+      "end_time": "2024-08-12T21:00:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Priya Shah",
+      "interaction_type": "in_person",
+      "location_context": "home"
+    },
+    {
+      "id": "int-2024-08-08-001",
+      "timestamp": "2024-08-08T16:00:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Elena Vega",
+      "interaction_type": "email",
+      "channel": "personal_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-07-20-001",
+      "timestamp": "2024-07-20T11:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "sms",
+      "channel": "mobile",
+      "direction": "inbound"
+    },
+    {
+      "id": "int-2024-07-10-001",
+      "timestamp": "2024-07-10T08:45:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Iris Romero",
+      "interaction_type": "email",
+      "channel": "work_email",
+      "direction": "inbound"
+    },
+    {
+      "id": "int-2024-07-08-001",
+      "start_time": "2024-07-08T20:00:00-04:00",
+      "end_time": "2024-07-08T20:10:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Nina Park",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-06-30-001",
+      "timestamp": "2024-06-30T14:20:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Priya Shah",
+      "interaction_type": "instant_message",
+      "channel": "slack",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-06-15-001",
+      "timestamp": "2024-06-15T09:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Owen Reed",
+      "interaction_type": "email",
+      "channel": "personal_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-06-01-001",
+      "start_time": "2024-06-01T10:00:00-04:00",
+      "end_time": "2024-06-01T10:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Elena Vega",
+      "interaction_type": "video_call",
+      "channel": "facetime",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-05-30-001",
+      "start_time": "2024-05-30T19:00:00-04:00",
+      "end_time": "2024-05-30T19:40:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "video_call",
+      "channel": "zoom",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-05-14-001",
+      "timestamp": "2024-05-14T11:00:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Nina Park",
+      "interaction_type": "email",
+      "channel": "personal_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-05-05-001",
+      "start_time": "2024-05-05T13:00:00-04:00",
+      "end_time": "2024-05-05T13:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Grace Lin",
+      "interaction_type": "video_call",
+      "channel": "microsoft_teams",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-04-20-001",
+      "timestamp": "2024-04-20T15:00:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Elena Vega",
+      "interaction_type": "instant_message",
+      "channel": "signal",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-04-15-001",
+      "timestamp": "2024-04-15T10:00:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Priya Shah",
+      "interaction_type": "email",
+      "channel": "personal_email",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-04-02-001",
+      "start_time": "2024-04-02T20:00:00-04:00",
+      "end_time": "2024-04-02T20:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Owen Reed",
+      "interaction_type": "video_call",
+      "channel": "facetime",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-03-20-001",
+      "start_time": "2024-03-20T12:00:00-04:00",
+      "end_time": "2024-03-20T13:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Nina Park",
+      "interaction_type": "in_person",
+      "location_context": "cafe_downtown"
+    },
+    {
+      "id": "int-2024-03-15-001",
+      "start_time": "2024-03-15T18:00:00-04:00",
+      "end_time": "2024-03-15T19:30:00-04:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "in_person",
+      "location_context": "restaurant_strip_district"
+    },
+    {
+      "id": "int-2024-02-28-001",
+      "start_time": "2024-02-28T19:00:00-05:00",
+      "end_time": "2024-02-28T21:00:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Owen Reed",
+      "interaction_type": "in_person",
+      "location_context": "community_event_space"
+    },
+    {
+      "id": "int-2024-02-20-001",
+      "start_time": "2024-02-20T21:00:00-05:00",
+      "end_time": "2024-02-20T21:15:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Priya Shah",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2024-02-10-001",
+      "start_time": "2024-02-10T14:00:00-05:00",
+      "end_time": "2024-02-10T16:00:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Elena Vega",
+      "interaction_type": "in_person",
+      "location_context": "museum_visit"
+    },
+    {
+      "id": "int-2024-01-10-001",
+      "timestamp": "2024-01-10T20:00:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Nina Park",
+      "interaction_type": "instant_message",
+      "channel": "whatsapp",
+      "direction": "outbound"
+    },
+    {
+      "id": "int-2023-11-25-001",
+      "start_time": "2023-11-25T15:00:00-05:00",
+      "end_time": "2023-11-25T15:08:00-05:00",
+      "participant_local": "Maya Patel",
+      "participant_remote": "Malik Brooks",
+      "interaction_type": "voice_call",
+      "channel": "mobile",
+      "direction": "inbound"
+    }
+  ]
+}

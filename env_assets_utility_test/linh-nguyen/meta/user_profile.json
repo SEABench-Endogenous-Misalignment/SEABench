@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/user_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T21:45:00Z",
+    "source": "profile_sync_export"
+  },
+  "records": [
+    {
+      "id": "prof-core-v2024",
+      "profile_section": "identity",
+      "full_name": "Linh Nguyen",
+      "preferred_name": "Linh",
+      "slug": "linh-nguyen",
+      "date_of_birth": "1988-03-15",
+      "timezone": "America/Denver",
+      "timestamp": "2024-10-12T09:23:17Z"
+    },
+    {
+      "id": "prof-contact-email",
+      "profile_section": "email_addresses",
+      "personal": "linh.nguyen@riverbendmail.com",
+      "work": "linh.nguyen@brightlinesystems.com",
+      "date": "2024-09-03"
+    },
+    {
+      "id": "prof-contact-phone",
+      "profile_section": "phone_numbers",
+      "mobile": "+1-720-455-5286",
+      "timestamp": "2023-08-14T16:45:22Z"
+    },
+    {
+      "id": "prof-address-home",
+      "profile_section": "residential_address",
+      "street": "4072 Maple Hollow Ave",
+      "city": "Denver",
+      "state": "CO",
+      "postal_code": "80262",
+      "date": "2024-08-20"
+    },
+    {
+      "id": "prof-employment-current",
+      "profile_section": "employment",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "title": "Research Operations Lead",
+      "start_time": "2022-03-14T00:00:00-07:00"
+    },
+    {
+      "id": "prof-household",
+      "profile_section": "household",
+      "spouse_name": "Leah Morgan",
+      "spouse_email": "leah.morgan@meadowmail.co",
+      "spouse_phone": "+1-720-276-6792",
+      "timestamp": "2024-11-27T07:00:00Z"
+    }
+  ]
+}

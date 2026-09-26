@@ -1,0 +1,593 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/fitness/workouts_12m.json",
+    "time_span": "12m",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T22:45:13Z",
+    "source": "fitness_tracker_sync"
+  },
+  "records": [
+    {
+      "id": "8f42a1b2-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
+      "start_time": "2023-11-18T07:00:00-07:00",
+      "end_time": "2023-11-18T07:45:00-07:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 5.8,
+      "calories_burned": 425,
+      "avg_heart_rate": 148,
+      "max_heart_rate": 172,
+      "location": "Cherry Creek Trail",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Crisp morning, steady pace"
+    },
+    {
+      "id": "3a8b9c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+      "start_time": "2023-11-22T18:00:00-07:00",
+      "end_time": "2023-11-22T19:00:00-07:00",
+      "activity_type": "Yoga",
+      "duration_minutes": 60,
+      "calories_burned": 210,
+      "avg_heart_rate": 95,
+      "max_heart_rate": 112,
+      "location": "Home",
+      "equipment": [
+        "Yoga mat",
+        "Blocks"
+      ],
+      "notes": "Evening flow session"
+    },
+    {
+      "id": "7c4d5e6f-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+      "start_time": "2023-11-28T06:30:00-07:00",
+      "end_time": "2023-11-28T07:15:00-07:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 45,
+      "calories_burned": 320,
+      "avg_heart_rate": 125,
+      "max_heart_rate": 145,
+      "location": "Vital Strength Studio",
+      "equipment": [
+        "Barbell",
+        "Kettlebell"
+      ],
+      "notes": "Upper body focus"
+    },
+    {
+      "id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+      "start_time": "2023-12-02T08:00:00-07:00",
+      "end_time": "2023-12-02T11:30:00-07:00",
+      "activity_type": "Hiking",
+      "duration_minutes": 210,
+      "distance_km": 8.5,
+      "calories_burned": 850,
+      "avg_heart_rate": 135,
+      "max_heart_rate": 165,
+      "location": "Red Rocks Park",
+      "equipment": [
+        "Trail shoes",
+        "Hydration pack"
+      ],
+      "notes": "Trading Post Trail loop"
+    },
+    {
+      "id": "9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b",
+      "start_time": "2023-12-09T07:15:00-07:00",
+      "end_time": "2023-12-09T08:00:00-07:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 6.2,
+      "calories_burned": 465,
+      "avg_heart_rate": 152,
+      "max_heart_rate": 178,
+      "location": "Washington Park",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Tempo run intervals"
+    },
+    {
+      "id": "2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+      "start_time": "2023-12-16T17:30:00-07:00",
+      "end_time": "2023-12-16T18:00:00-07:00",
+      "activity_type": "Cycling",
+      "duration_minutes": 30,
+      "distance_km": 12.0,
+      "calories_burned": 280,
+      "avg_heart_rate": 138,
+      "max_heart_rate": 155,
+      "location": "Home",
+      "equipment": [
+        "Peloton Bike"
+      ],
+      "notes": "High resistance climb ride"
+    },
+    {
+      "id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+      "start_time": "2024-01-06T06:45:00-07:00",
+      "end_time": "2024-01-06T07:30:00-07:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 45,
+      "calories_burned": 340,
+      "avg_heart_rate": 128,
+      "max_heart_rate": 148,
+      "location": "Basecamp Fitness Denver",
+      "equipment": [
+        "Dumbbells",
+        "TRX"
+      ],
+      "notes": "Full body circuit"
+    },
+    {
+      "id": "8a9b0c1d-2e3f-4a5b-6c7d-8e9f0a1b2c3d",
+      "start_time": "2024-01-13T07:30:00-07:00",
+      "end_time": "2024-01-13T08:15:00-07:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 5.5,
+      "calories_burned": 415,
+      "avg_heart_rate": 145,
+      "max_heart_rate": 168,
+      "location": "Sloan Lake Loop",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Easy recovery run"
+    },
+    {
+      "id": "4c5d6e7f-8a9b-0c1d-2e3f-4a5b6c7d8e9f",
+      "start_time": "2024-01-20T16:00:00-07:00",
+      "end_time": "2024-01-20T17:00:00-07:00",
+      "activity_type": "Yoga",
+      "duration_minutes": 60,
+      "calories_burned": 195,
+      "avg_heart_rate": 88,
+      "max_heart_rate": 105,
+      "location": "Denver Athletic Club",
+      "equipment": [
+        "Studio mat"
+      ],
+      "notes": "Hot yoga session"
+    },
+    {
+      "id": "6e7f8a9b-0c1d-2e3f-4a5b-6c7d8e9f0a1b",
+      "start_time": "2024-02-03T08:00:00-07:00",
+      "end_time": "2024-02-03T11:00:00-07:00",
+      "activity_type": "Hiking",
+      "duration_minutes": 180,
+      "distance_km": 7.2,
+      "calories_burned": 720,
+      "avg_heart_rate": 130,
+      "max_heart_rate": 158,
+      "location": "Mount Falcon Park",
+      "equipment": [
+        "Hiking poles",
+        "Insulated bottle"
+      ],
+      "notes": "Winter conditions, microspikes"
+    },
+    {
+      "id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+      "start_time": "2024-02-10T07:00:00-07:00",
+      "end_time": "2024-02-10T08:00:00-07:00",
+      "activity_type": "Running",
+      "duration_minutes": 60,
+      "distance_km": 8.0,
+      "calories_burned": 580,
+      "avg_heart_rate": 150,
+      "max_heart_rate": 175,
+      "location": "Cherry Creek Trail",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Long slow distance"
+    },
+    {
+      "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "start_time": "2024-02-17T18:00:00-07:00",
+      "end_time": "2024-02-17T19:00:00-07:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 60,
+      "calories_burned": 385,
+      "avg_heart_rate": 132,
+      "max_heart_rate": 152,
+      "location": "Vital Strength Studio",
+      "equipment": [
+        "Squat rack",
+        "Bench"
+      ],
+      "notes": "Leg day - PR on squats"
+    },
+    {
+      "id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+      "start_time": "2024-03-02T07:00:00-07:00",
+      "end_time": "2024-03-02T07:40:00-07:00",
+      "activity_type": "Running",
+      "duration_minutes": 40,
+      "distance_km": 5.2,
+      "calories_burned": 390,
+      "avg_heart_rate": 142,
+      "max_heart_rate": 165,
+      "location": "City Park",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Pre-brunch run"
+    },
+    {
+      "id": "5d6e7f8a-9b0c-1d2e-3f4a-5b6c7d8e9f0a",
+      "start_time": "2024-03-12T06:30:00-06:00",
+      "end_time": "2024-03-12T07:00:00-06:00",
+      "activity_type": "Cycling",
+      "duration_minutes": 30,
+      "distance_km": 11.5,
+      "calories_burned": 295,
+      "avg_heart_rate": 142,
+      "max_heart_rate": 160,
+      "location": "Home",
+      "equipment": [
+        "Peloton Bike"
+      ],
+      "notes": "Tabata intervals"
+    },
+    {
+      "id": "8e9f0a1b-2c3d-4e5f-6a7b-8c9d0e1f2a3b",
+      "start_time": "2024-03-23T08:00:00-06:00",
+      "end_time": "2024-03-23T12:00:00-06:00",
+      "activity_type": "Hiking",
+      "duration_minutes": 240,
+      "distance_km": 10.5,
+      "calories_burned": 980,
+      "avg_heart_rate": 138,
+      "max_heart_rate": 165,
+      "location": "Golden Gate Canyon",
+      "equipment": [
+        "Pack",
+        "Trekking poles"
+      ],
+      "notes": "Snowshoe hike at higher elevation"
+    },
+    {
+      "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "start_time": "2024-04-06T07:00:00-06:00",
+      "end_time": "2024-04-06T07:50:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 50,
+      "distance_km": 6.8,
+      "calories_burned": 495,
+      "avg_heart_rate": 148,
+      "max_heart_rate": 172,
+      "location": "High Line Canal",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Spring weather perfect"
+    },
+    {
+      "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "start_time": "2024-04-14T17:30:00-06:00",
+      "end_time": "2024-04-14T18:30:00-06:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 60,
+      "calories_burned": 365,
+      "avg_heart_rate": 130,
+      "max_heart_rate": 150,
+      "location": "Basecamp Fitness Denver",
+      "equipment": [
+        "Cable machine",
+        "Medicine ball"
+      ],
+      "notes": "Pull focus day"
+    },
+    {
+      "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+      "start_time": "2024-04-21T06:45:00-06:00",
+      "end_time": "2024-04-21T07:30:00-06:00",
+      "activity_type": "Yoga",
+      "duration_minutes": 45,
+      "calories_burned": 180,
+      "avg_heart_rate": 92,
+      "max_heart_rate": 110,
+      "location": "Home",
+      "equipment": [
+        "Mat",
+        "Strap"
+      ],
+      "notes": "Morning mobility"
+    },
+    {
+      "id": "4a5b6c7d-8e9f-0a1b-2c3d-4e5f6a7b8c9d",
+      "start_time": "2024-05-04T07:30:00-06:00",
+      "end_time": "2024-05-04T08:20:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 50,
+      "distance_km": 7.0,
+      "calories_burned": 505,
+      "avg_heart_rate": 149,
+      "max_heart_rate": 174,
+      "location": "Cherry Creek Trail",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Progression run"
+    },
+    {
+      "id": "7d8e9f0a-1b2c-3d4e-5f6a-7b8c9d0e1f2a",
+      "start_time": "2024-05-11T08:00:00-06:00",
+      "end_time": "2024-05-11T08:45:00-06:00",
+      "activity_type": "Cycling",
+      "duration_minutes": 45,
+      "distance_km": 18.0,
+      "calories_burned": 420,
+      "avg_heart_rate": 145,
+      "max_heart_rate": 162,
+      "location": "Confluence Park",
+      "equipment": [
+        "Road bike",
+        "Helmet"
+      ],
+      "notes": "Outdoor ride along Platte River"
+    },
+    {
+      "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "start_time": "2024-05-18T16:00:00-06:00",
+      "end_time": "2024-05-18T17:00:00-06:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 60,
+      "calories_burned": 375,
+      "avg_heart_rate": 135,
+      "max_heart_rate": 155,
+      "location": "Vital Strength Studio",
+      "equipment": [
+        "Dumbbells",
+        "Bench"
+      ],
+      "notes": "Chest and triceps"
+    },
+    {
+      "id": "9f0a1b2c-3d4e-5f6a-7b8c-9d0e1f2a3b4c",
+      "start_time": "2024-06-01T06:00:00-06:00",
+      "end_time": "2024-06-01T09:30:00-06:00",
+      "activity_type": "Hiking",
+      "duration_minutes": 210,
+      "distance_km": 9.0,
+      "calories_burned": 950,
+      "avg_heart_rate": 140,
+      "max_heart_rate": 168,
+      "location": "Bear Peak",
+      "equipment": [
+        "Trail runners",
+        "Poles"
+      ],
+      "notes": "Early start to beat heat"
+    },
+    {
+      "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+      "start_time": "2024-06-08T07:15:00-06:00",
+      "end_time": "2024-06-08T08:00:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 5.6,
+      "calories_burned": 435,
+      "avg_heart_rate": 151,
+      "max_heart_rate": 176,
+      "location": "Washington Park",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Fartlek workout"
+    },
+    {
+      "id": "8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a",
+      "start_time": "2024-06-22T09:00:00-06:00",
+      "end_time": "2024-06-22T09:45:00-06:00",
+      "activity_type": "Swimming",
+      "duration_minutes": 45,
+      "distance_km": 1.5,
+      "calories_burned": 380,
+      "avg_heart_rate": 138,
+      "max_heart_rate": 155,
+      "location": "Denver Athletic Club",
+      "equipment": [
+        "Swim goggles"
+      ],
+      "notes": "Lap swimming"
+    },
+    {
+      "id": "3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b",
+      "start_time": "2024-07-06T07:00:00-06:00",
+      "end_time": "2024-07-06T07:45:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 5.4,
+      "calories_burned": 425,
+      "avg_heart_rate": 146,
+      "max_heart_rate": 170,
+      "location": "Sloan Lake",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Humid morning"
+    },
+    {
+      "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "start_time": "2024-07-13T18:30:00-06:00",
+      "end_time": "2024-07-13T19:30:00-06:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 60,
+      "calories_burned": 360,
+      "avg_heart_rate": 128,
+      "max_heart_rate": 148,
+      "location": "Basecamp Fitness Denver",
+      "equipment": [
+        "Kettlebell",
+        "Pull-up bar"
+      ],
+      "notes": "Functional strength circuit"
+    },
+    {
+      "id": "0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f",
+      "start_time": "2024-07-20T08:00:00-06:00",
+      "end_time": "2024-07-20T09:15:00-06:00",
+      "activity_type": "Cycling",
+      "duration_minutes": 75,
+      "distance_km": 28.0,
+      "calories_burned": 650,
+      "avg_heart_rate": 142,
+      "max_heart_rate": 165,
+      "location": "Cherry Creek Trail Extension",
+      "equipment": [
+        "Road bike"
+      ],
+      "notes": "Long weekend ride"
+    },
+    {
+      "id": "6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e",
+      "start_time": "2024-08-03T06:45:00-06:00",
+      "end_time": "2024-08-03T07:30:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 5.7,
+      "calories_burned": 440,
+      "avg_heart_rate": 147,
+      "max_heart_rate": 171,
+      "location": "City Park",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Threshold intervals"
+    },
+    {
+      "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+      "start_time": "2024-08-10T07:30:00-06:00",
+      "end_time": "2024-08-10T10:00:00-06:00",
+      "activity_type": "Hiking",
+      "duration_minutes": 150,
+      "distance_km": 6.5,
+      "calories_burned": 680,
+      "avg_heart_rate": 132,
+      "max_heart_rate": 158,
+      "location": "Lookout Mountain",
+      "equipment": [
+        "Hiking shoes"
+      ],
+      "notes": "Georgetown Loop area"
+    },
+    {
+      "id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+      "start_time": "2024-08-17T17:00:00-06:00",
+      "end_time": "2024-08-17T18:00:00-06:00",
+      "activity_type": "Yoga",
+      "duration_minutes": 60,
+      "calories_burned": 205,
+      "avg_heart_rate": 98,
+      "max_heart_rate": 115,
+      "location": "Home",
+      "equipment": [
+        "Mat",
+        "Bolster"
+      ],
+      "notes": "Restorative evening practice"
+    },
+    {
+      "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+      "start_time": "2024-09-07T07:00:00-06:00",
+      "end_time": "2024-09-07T08:00:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 60,
+      "distance_km": 8.5,
+      "calories_burned": 610,
+      "avg_heart_rate": 152,
+      "max_heart_rate": 178,
+      "location": "High Line Canal",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Long run building base"
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "start_time": "2024-09-14T08:15:00-06:00",
+      "end_time": "2024-09-14T09:00:00-06:00",
+      "activity_type": "Cycling",
+      "duration_minutes": 45,
+      "distance_km": 16.5,
+      "calories_burned": 395,
+      "avg_heart_rate": 140,
+      "max_heart_rate": 158,
+      "location": "Confluence Park",
+      "equipment": [
+        "Road bike"
+      ],
+      "notes": "Cooler morning ride"
+    },
+    {
+      "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+      "start_time": "2024-09-21T16:30:00-06:00",
+      "end_time": "2024-09-21T17:30:00-06:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 60,
+      "calories_burned": 355,
+      "avg_heart_rate": 126,
+      "max_heart_rate": 146,
+      "location": "Vital Strength Studio",
+      "equipment": [
+        "Barbell",
+        "Plates"
+      ],
+      "notes": "Deadlift focus"
+    },
+    {
+      "id": "5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d",
+      "start_time": "2024-10-05T07:30:00-06:00",
+      "end_time": "2024-10-05T08:15:00-06:00",
+      "activity_type": "Running",
+      "duration_minutes": 45,
+      "distance_km": 5.3,
+      "calories_burned": 410,
+      "avg_heart_rate": 144,
+      "max_heart_rate": 168,
+      "location": "Washington Park",
+      "equipment": [
+        "Garmin Forerunner 965"
+      ],
+      "notes": "Fall colors emerging"
+    },
+    {
+      "id": "2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b",
+      "start_time": "2024-10-12T09:00:00-06:00",
+      "end_time": "2024-10-12T12:30:00-06:00",
+      "activity_type": "Hiking",
+      "duration_minutes": 210,
+      "distance_km": 8.0,
+      "calories_burned": 780,
+      "avg_heart_rate": 128,
+      "max_heart_rate": 155,
+      "location": "Rocky Mountain National Park",
+      "equipment": [
+        "Hiking boots",
+        "Pack"
+      ],
+      "notes": "Emerald Lake trail"
+    },
+    {
+      "id": "7f8a9b0c-1d2e-3f4a-5b6c-7d8e9f0a1b2c",
+      "start_time": "2024-10-19T18:00:00-06:00",
+      "end_time": "2024-10-19T19:00:00-06:00",
+      "activity_type": "Strength Training",
+      "duration_minutes": 60,
+      "calories_burned": 340,
+      "avg_heart_rate": 122,
+      "max_heart_rate": 142,
+      "location": "Basecamp Fitness Denver",
+      "equipment": [
+        "Cable stack",
+        "Dumbbells"
+      ],
+      "notes": "Maintenance phase workout"
+    }
+  ]
+}

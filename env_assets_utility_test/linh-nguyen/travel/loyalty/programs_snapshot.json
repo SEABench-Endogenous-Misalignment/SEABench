@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/loyalty/programs_snapshot.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T21:15:00Z",
+    "source": "travel_wallet_export"
+  },
+  "records": [
+    {
+      "id": "lp-pa-78456230",
+      "program_name": "Pacifica Airways Mileage Club",
+      "member_id": "MC7845623091",
+      "tier": "Gold",
+      "points_balance": 124500,
+      "associated_email": "linh.nguyen@riverbendmail.com",
+      "primary_airport": "DEN",
+      "timestamp": "2024-10-15T20:30:00Z",
+      "enrollment_date": "2019-03-22",
+      "last_updated": "2024-11-26T09:14:00Z"
+    },
+    {
+      "id": "lp-sh-99283746",
+      "program_name": "Sterling Hotels Elevate",
+      "member_id": "ELV-992837461",
+      "tier": "Platinum",
+      "points_balance": 84500,
+      "points_expiry_date": "2025-08-31",
+      "associated_email": "linh.nguyen@riverbendmail.com",
+      "date": "2024-09-10",
+      "last_updated": "2024-11-25T16:30:00Z"
+    },
+    {
+      "id": "lp-cc-44029938",
+      "program_name": "Capitol Car Hire Connect",
+      "member_id": "CCN-440299381",
+      "tier": "Preferred",
+      "points_balance": 12500,
+      "associated_email": "linh.nguyen@brightlinesystems.com",
+      "timestamp": "2024-08-22T15:30:00Z",
+      "last_updated": "2024-11-20T11:05:00Z"
+    },
+    {
+      "id": "lp-vr-77263451",
+      "program_name": "VistaRail Explorer",
+      "member_id": "VRE-772634519",
+      "tier": "Select",
+      "points_balance": 34200,
+      "associated_email": "linh.nguyen@riverbendmail.com",
+      "date": "2024-07-04",
+      "last_updated": "2024-11-26T08:00:00Z"
+    },
+    {
+      "id": "lp-cg-55671209",
+      "program_name": "CityGlide Transit Perks",
+      "member_id": "CGP-556712098",
+      "tier": "Member",
+      "points_balance": 450,
+      "associated_email": "linh.nguyen@riverbendmail.com",
+      "timestamp": "2024-11-24T15:20:00Z",
+      "last_updated": "2024-11-25T22:10:00Z"
+    },
+    {
+      "id": "lp-hc-88992104",
+      "program_name": "Harbor Cruises Captain's Club",
+      "member_id": "HCC-889921047",
+      "tier": "Silver",
+      "points_balance": 28000,
+      "associated_email": "linh.nguyen@riverbendmail.com",
+      "date": "2025-05-15",
+      "last_updated": "2024-11-26T07:45:00Z"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/recurring_rules.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-22T14:35:22Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "rr-2024-8f3k2m1p",
+      "title": "Platform Design Weekly Standup",
+      "calendar_name": "Work",
+      "frequency": "weekly",
+      "interval": 1,
+      "days_of_week": [
+        "MO"
+      ],
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "timezone": "America/New_York",
+      "start_date": "2024-01-08",
+      "end_date": null,
+      "status": "active",
+      "organizer": {
+        "name": "Samir Okafor",
+        "email": "samir.okafor@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "location": "Brightline Systems, Floor 3, North Conference Room"
+    },
+    {
+      "id": "rr-2024-9j4l7n2q",
+      "title": "1:1 with Grace Lin",
+      "calendar_name": "Work",
+      "frequency": "weekly",
+      "interval": 2,
+      "days_of_week": [
+        "WE"
+      ],
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "timezone": "America/New_York",
+      "start_date": "2024-01-10",
+      "end_date": null,
+      "status": "active",
+      "organizer": {
+        "name": "Samir Okafor",
+        "email": "samir.okafor@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "location": "Video Call"
+    },
+    {
+      "id": "rr-2024-1p5q8r3s",
+      "title": "Monthly Research Operations Review",
+      "calendar_name": "Work",
+      "frequency": "monthly",
+      "interval": 1,
+      "day_of_month": 15,
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "start_date": "2024-01-15",
+      "end_date": "2024-12-15",
+      "status": "active",
+      "organizer": {
+        "name": "Samir Okafor",
+        "email": "samir.okafor@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "location": "Brightline Systems Main Campus, Auditorium B"
+    },
+    {
+      "id": "rr-2024-3s7t9u4v",
+      "title": "Weekly Dinner with Theo",
+      "calendar_name": "Personal",
+      "frequency": "weekly",
+      "interval": 1,
+      "days_of_week": [
+        "FR"
+      ],
+      "start_time": "18:30",
+      "end_time": "20:00",
+      "timezone": "America/New_York",
+      "start_date": "2024-01-05",
+      "end_date": null,
+      "status": "active",
+      "organizer": {
+        "name": "Samir Okafor",
+        "email": "samir.okafor@meadowmail.co"
+      },
+      "attendees": [
+        {
+          "name": "Theo Harris",
+          "email": "theo.harris@meadowmail.co"
+        }
+      ],
+      "location": "Giovanni's Trattoria, 5421 Walnut Street"
+    },
+    {
+      "id": "rr-2024-4v2w5x6y",
+      "title": "Bi-weekly Morning Run",
+      "calendar_name": "Personal",
+      "frequency": "weekly",
+      "interval": 2,
+      "days_of_week": [
+        "SA"
+      ],
+      "start_time": "07:00",
+      "end_time": "08:30",
+      "timezone": "America/New_York",
+      "start_date": "2024-01-06",
+      "end_date": null,
+      "status": "active",
+      "organizer": {
+        "name": "Samir Okafor",
+        "email": "samir.okafor@meadowmail.co"
+      },
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@gmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@fastmail.com"
+        }
+      ],
+      "location": "Frick Park Trailhead, Pittsburgh"
+    },
+    {
+      "id": "rr-2024-6y1z4a7b",
+      "title": "Quarterly Dental Cleaning",
+      "calendar_name": "Personal",
+      "frequency": "monthly",
+      "interval": 3,
+      "day_of_month": 3,
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "timezone": "America/New_York",
+      "start_date": "2024-02-03",
+      "end_date": "2025-02-03",
+      "status": "active",
+      "organizer": {
+        "name": "Samir Okafor",
+        "email": "samir.okafor@meadowmail.co"
+      },
+      "attendees": [],
+      "location": "Shadyside Dental Associates, 4200 Fifth Avenue, Suite 200"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/hard_constraints.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-03-28T09:15:00Z"
+  },
+  "records": [
+    {
+      "id": "hc-2026-0415-ther",
+      "constraint_type": "medical_confidential",
+      "description": "Weekly therapy session - Dr. Sarah Chen",
+      "start_time": "2026-04-15T16:00:00Z",
+      "end_time": "2026-04-15T17:00:00Z",
+      "recurrence": "weekly until 2026-06-24",
+      "visibility": "private",
+      "created_by": "Alice",
+      "priority": "hard"
+    },
+    {
+      "id": "hc-2026-0505-legal",
+      "constraint_type": "legal_confidential",
+      "description": "Estate planning consultation - Henderson Law Partners",
+      "start_time": "2026-05-05T14:00:00Z",
+      "end_time": "2026-05-05T15:30:00Z",
+      "location": "Off-site legal office",
+      "flexibility": "none",
+      "priority": "hard"
+    },
+    {
+      "id": "hc-2026-0403-cust",
+      "constraint_type": "family_obligation",
+      "description": "Bi-weekly custody exchange - school district pickup",
+      "start_time": "2026-04-03T17:00:00Z",
+      "end_time": "2026-04-03T18:00:00Z",
+      "recurrence": "bi-weekly Friday until 2026-06-26",
+      "flexibility": "none",
+      "sensitivity_note": "family_court_ordered"
+    },
+    {
+      "id": "hc-2026-0520-proc",
+      "constraint_type": "medical_procedure",
+      "description": "Outpatient endoscopy procedure - General Hospital Surgical Center",
+      "date": "2026-05-20",
+      "start_time": "2026-05-20T08:00:00Z",
+      "end_time": "2026-05-20T15:00:00Z",
+      "recovery_buffer_hours": 48,
+      "priority": "hard",
+      "visibility": "medical_only"
+    },
+    {
+      "id": "hc-morning-focus-q2",
+      "constraint_type": "personal_boundary",
+      "description": "Deep work block - no external meetings scheduled before 10:00 weekdays",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-30",
+      "applicable_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "blocked_hours": "08:00-10:00",
+      "exception_policy": "executive_approval_only",
+      "priority": "hard"
+    },
+    {
+      "id": "hc-tax-q2-deadline",
+      "constraint_type": "financial_deadline",
+      "description": "Q2 Estimated tax payment filing deadline - IRS Form 1040-ES",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T23:59:59Z",
+      "penalty_risk": "high",
+      "filing_method": "electronic_with_confirmation",
+      "priority": "hard"
+    }
+  ]
+}

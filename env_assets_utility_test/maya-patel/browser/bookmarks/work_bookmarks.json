@@ -1,0 +1,53 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/work_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T21:15:33Z",
+    "source": "browser_sync"
+  },
+  "records": [
+    {
+      "id": "bm_7f3a9c2e1d",
+      "title": "Brightline Design System - Component Library",
+      "url": "https://design.brightlinesystems.com/components",
+      "timestamp": "2023-09-14T13:22:00Z",
+      "folder_path": "Work/Design Resources"
+    },
+    {
+      "id": "sync_8b4d7f6a3c",
+      "title": "Client Strategy Portal - Q4 Planning",
+      "url": "https://intranet.brightlinesystems.com/strategy/q4-2024",
+      "timestamp": "2024-01-08T09:15:30Z"
+    },
+    {
+      "id": "9e5g2h8j4k",
+      "title": "Color Contrast Analyzer Pro",
+      "url": "https://contrastlab.io/analyzer",
+      "timestamp": "2024-03-22T16:45:00Z",
+      "tags": [
+        "accessibility",
+        "tools"
+      ]
+    },
+    {
+      "id": "bm_2024_6m9n3p8q",
+      "title": "Design Tokens Documentation",
+      "url": "https://tokens.brightlinesystems.com/docs",
+      "timestamp": "2024-05-17T10:30:00Z"
+    },
+    {
+      "id": "chrome_l5r7s2t9",
+      "title": "A11y Compliance Checklist",
+      "url": "https://accesscheck.dev/wcag22",
+      "timestamp": "2024-02-11T08:55:00Z"
+    },
+    {
+      "id": "sync_u4v8w3x7",
+      "title": "Project Aurora - Design Review Boards",
+      "url": "https://projects.brightlinesystems.com/aurora/reviews",
+      "timestamp": "2023-11-30T15:10:00Z"
+    }
+  ]
+}

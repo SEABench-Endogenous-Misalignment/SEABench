@@ -1,0 +1,92 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/user_intent_profile.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T18:32:47Z",
+    "source": "intent_engine_export"
+  },
+  "records": [
+    {
+      "id": "intent-2024-q4-platform-redesign",
+      "timestamp": "2024-10-15T09:23:00-06:00",
+      "category": "work",
+      "title": "Complete patient portal UX redesign",
+      "priority": "high",
+      "target_completion": "2024-12-15",
+      "associated_project": "Riverton Patient Experience 2.0",
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "intent-2024-half-marathon-prep",
+      "timestamp": "2024-01-08T06:15:00-07:00",
+      "category": "health_fitness",
+      "title": "Train for Denver Half Marathon",
+      "priority": "medium",
+      "target_event_date": "2024-11-17",
+      "training_start_date": "2024-08-01",
+      "preferred_workout_times": [
+        "morning_6am",
+        "weekend_mornings"
+      ],
+      "status": "in_progress"
+    },
+    {
+      "id": "intent-2024-home-renovation-kitchen",
+      "timestamp": "2024-09-03T14:45:00-06:00",
+      "category": "home",
+      "title": "Kitchen renovation and appliance upgrade",
+      "priority": "medium",
+      "target_start_date": "2025-03-01",
+      "budget_range": "25000-35000",
+      "decision_partner": "Nina Park",
+      "contractor_research_status": "gathering_quotes",
+      "status": "planning"
+    },
+    {
+      "id": "intent-2024-conference-speaking",
+      "timestamp": "2024-06-12T11:30:00-06:00",
+      "category": "professional_development",
+      "title": "Submit speaking proposal for Healthcare UX Summit",
+      "priority": "medium",
+      "conference_date": "2025-04-14",
+      "submission_deadline": "2024-12-01",
+      "topic_area": "Accessibility in Digital Health",
+      "status": "drafting_proposal"
+    },
+    {
+      "id": "intent-2025-japan-trip-planning",
+      "timestamp": "2024-07-22T19:45:00-06:00",
+      "category": "travel",
+      "title": "Spring trip to Japan with Nina",
+      "priority": "low",
+      "travel_period_start": "2025-04-05",
+      "travel_period_end": "2025-04-19",
+      "booking_window": "2024-12_to_2025-01",
+      "companions": [
+        "Nina Park"
+      ],
+      "status": "research_phase"
+    },
+    {
+      "id": "intent-2024-retirement-contribution-optimization",
+      "timestamp": "2024-03-14T10:00:00-06:00",
+      "category": "finance",
+      "title": "Maximize tax-advantaged contributions",
+      "priority": "high",
+      "target_year": 2024,
+      "account_types": [
+        "401k",
+        "HSA",
+        "Roth IRA"
+      ],
+      "review_schedule": "quarterly",
+      "status": "active"
+    }
+  ]
+}

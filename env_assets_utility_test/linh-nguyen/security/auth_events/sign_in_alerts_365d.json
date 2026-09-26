@@ -1,0 +1,525 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/auth_events/sign_in_alerts_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T21:45:33Z",
+    "source": "identity_provider_export"
+  },
+  "records": [
+    {
+      "id": "8f4a2c1e-9b3d-4e8f-a6c2-1b4d8e9f3a5c",
+      "timestamp": "2024-11-27T14:30:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "password",
+        "mfa_used": true,
+        "session_duration_minutes": 480
+      }
+    },
+    {
+      "id": "7e3b1d9c-8a2e-4f7d-b5c1-0a3c7d8e9f2b",
+      "timestamp": "2024-11-25T08:15:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Riverbend Mail",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "73.242.19.105",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "biometric",
+        "app_version": "24.11.1"
+      }
+    },
+    {
+      "id": "6c2a0c8b-791d-4e6c-a4b0-9f2b6c7d8e1a",
+      "timestamp": "2024-11-20T16:45:00-07:00",
+      "event_type": "security.alert.new_device",
+      "service": "Google Workspace",
+      "device_name": "iPad-Air-5thGen",
+      "ip_address": "73.242.20.14",
+      "location": "Denver, CO, US",
+      "status": "alert",
+      "details": {
+        "device_type": "tablet",
+        "os": "iPadOS 17.1",
+        "resolution": "2360x1640",
+        "trusted_at": "2024-11-20T16:47:00-07:00"
+      }
+    },
+    {
+      "id": "5b190b7a-680c-4d5b-a3a0-8e1a5b6c7d09",
+      "timestamp": "2024-11-15T19:20:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Google Workspace",
+      "device_name": "Custom-Desktop-Home",
+      "ip_address": "192.168.1.45",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "security_key",
+        "internal_network": true
+      }
+    },
+    {
+      "id": "4a080a69-570b-4c4a-a2a0-7d0a4b5c6c08",
+      "timestamp": "2024-11-08T03:12:00-07:00",
+      "event_type": "security.alert.suspicious_ip",
+      "service": "Brightline Systems SSO",
+      "device_name": "Unknown-User-Agent",
+      "ip_address": "185.220.101.38",
+      "location": "Mumbai, MH, IN",
+      "status": "blocked",
+      "details": {
+        "block_reason": "geo_anomaly",
+        "risk_score": 95,
+        "attempted_user": "linh.nguyen@brightlinesystems.com"
+      }
+    },
+    {
+      "id": "390f0958-460a-4b39-a190-6c093a4b5b07",
+      "timestamp": "2024-10-30T09:00:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Slack",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "workspace": "brightline-systems",
+        "channel_count": 12
+      }
+    },
+    {
+      "id": "280e0847-3509-4a28-a080-5b08293a4a06",
+      "timestamp": "2024-10-22T11:30:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Slack",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "104.28.45.112",
+      "location": "San Francisco, CA, US",
+      "status": "success",
+      "details": {
+        "network_type": "hotel_wifi",
+        "trip_correlation": "Q4-Offsite-2024"
+      }
+    },
+    {
+      "id": "170d0736-2408-4927-a070-4a07182a3905",
+      "timestamp": "2024-10-15T14:22:00-06:00",
+      "event_type": "user.login.failure",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "failure",
+      "details": {
+        "failure_reason": "invalid_password",
+        "attempt_count": 1,
+        "lockout_triggered": false
+      }
+    },
+    {
+      "id": "060c0625-1307-4816-a060-390607191804",
+      "timestamp": "2024-10-05T10:15:00-06:00",
+      "event_type": "user.login.success",
+      "service": "FirstBank Colorado",
+      "device_name": "Custom-Desktop-Home",
+      "ip_address": "73.242.21.78",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "password",
+        "mfa_used": true,
+        "session_type": "checking_account_view"
+      }
+    },
+    {
+      "id": "f50b0514-0206-3705-a050-280505080703",
+      "timestamp": "2024-09-28T09:45:00-06:00",
+      "event_type": "security.alert.impossible_travel",
+      "service": "Riverbend Mail",
+      "device_name": "Unknown",
+      "ip_address": "198.51.100.45",
+      "location": "Denver, CO, US",
+      "status": "blocked",
+      "details": {
+        "previous_location": "New York, NY, US",
+        "time_delta_minutes": 12,
+        "potential_cause": "vpn_or_proxy"
+      }
+    },
+    {
+      "id": "e40a0403-f105-2604-a040-170404070602",
+      "timestamp": "2024-09-20T15:30:00-06:00",
+      "event_type": "security.action.mfa_enabled",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.94",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "method_type": "totp_authenticator",
+        "backup_codes_generated": 10
+      }
+    },
+    {
+      "id": "d3090302-e004-1503-a030-060303060501",
+      "timestamp": "2024-09-12T08:00:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Brightline VPN",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "10.0.0.45",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "vpn_endpoint": "den1.brightlinesystems.com",
+        "connection_duration": 360
+      }
+    },
+    {
+      "id": "c2080201-d903-0402-a020-050202050400",
+      "timestamp": "2024-09-03T13:20:00-06:00",
+      "event_type": "security.action.password_changed",
+      "service": "Global Auth Provider",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "change_reason": "routine_rotation",
+        "previous_password_age_days": 90
+      }
+    },
+    {
+      "id": "b1070100-c802-9301-a010-040101040300",
+      "timestamp": "2024-08-25T10:00:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "99.45.112.8",
+      "location": "Austin, TX, US",
+      "status": "success",
+      "details": {
+        "event_context": "ProductCon-2024",
+        "network_type": "convention_center"
+      }
+    },
+    {
+      "id": "a0060099-b701-8200-a000-030000030200",
+      "timestamp": "2024-08-18T11:15:00-06:00",
+      "event_type": "security.alert.new_device",
+      "service": "Brightline Systems SSO",
+      "device_name": "Pixel-8-Work-Device",
+      "ip_address": "73.242.22.10",
+      "location": "Denver, CO, US",
+      "status": "alert",
+      "details": {
+        "device_type": "mobile",
+        "os": "Android 14",
+        "enrolled_by": "IT-Department",
+        "asset_tag": "BL-2024-088"
+      }
+    },
+    {
+      "id": "90059888-a600-7199-9f99-020999020100",
+      "timestamp": "2024-08-10T16:45:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Dropbox Business",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "73.242.19.105",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "access_type": "shared_folder_sync",
+        "folder_name": "Research-Ops-2024"
+      }
+    },
+    {
+      "id": "80049777-9500-6098-8f98-010898019900",
+      "timestamp": "2024-08-02T03:15:00-06:00",
+      "event_type": "security.alert.unusual_time",
+      "service": "Riverbend Mail",
+      "device_name": "Unknown-Client",
+      "ip_address": "45.142.212.10",
+      "location": "Denver, CO, US",
+      "status": "blocked",
+      "details": {
+        "typical_user_hours_start": 7,
+        "typical_user_hours_end": 20,
+        "attempt_hour": 3
+      }
+    },
+    {
+      "id": "70039666-8400-5097-7f97-000797009800",
+      "timestamp": "2024-07-22T20:30:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Riverbend Mail",
+      "device_name": "iPad-Air-5thGen",
+      "ip_address": "73.242.23.55",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "face_recognition"
+      }
+    },
+    {
+      "id": "60029555-7300-4096-6f96-990696009700",
+      "timestamp": "2024-07-15T09:00:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Brightline VPN",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "203.0.113.45",
+      "location": "Seattle, WA, US",
+      "status": "success",
+      "details": {
+        "site_visit": "West-Region-Office",
+        "connection_type": "hotel_ethernet"
+      }
+    },
+    {
+      "id": "50019444-6200-3095-5f95-980595009600",
+      "timestamp": "2024-07-08T14:20:00-06:00",
+      "event_type": "user.login.failure",
+      "service": "iCloud",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "73.242.19.105",
+      "location": "Denver, CO, US",
+      "status": "failure",
+      "details": {
+        "failure_reason": "biometric_mismatch",
+        "face_id_attempts": 3,
+        "fallback_to_passcode": true
+      }
+    },
+    {
+      "id": "40009333-5100-2094-4f94-970494009500",
+      "timestamp": "2024-06-28T11:45:00-06:00",
+      "event_type": "user.login.success",
+      "service": "GitHub",
+      "device_name": "Custom-Desktop-Home",
+      "ip_address": "73.242.21.78",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "ssh_key",
+        "repository_access": "brightline-ops-internal"
+      }
+    },
+    {
+      "id": "300f8222-4000-1093-3f93-960393009400",
+      "timestamp": "2024-06-20T15:00:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Brightline Systems SSO",
+      "device_name": "Custom-Desktop-Home",
+      "ip_address": "73.242.21.78",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "auth_method": "recovery_code",
+        "recovery_code_id": "RC-2024-06",
+        "reason": "phone_temporarily_unavailable"
+      }
+    },
+    {
+      "id": "200e7111-3f00-0092-2f92-950292009300",
+      "timestamp": "2024-06-15T10:30:00-06:00",
+      "event_type": "security.action.device_trusted",
+      "service": "Device Management",
+      "device_name": "iPhone12-Old",
+      "ip_address": "73.242.24.12",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "action": "removed_from_trust_list",
+        "reason": "upgrade_to_new_device"
+      }
+    },
+    {
+      "id": "100d6000-2e00-9091-1f91-940191009200",
+      "timestamp": "2024-06-08T13:00:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Confluence",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "page_edited": "Q3-Research-Planning"
+      }
+    },
+    {
+      "id": "000c5999-1d00-8090-0f90-930090009100",
+      "timestamp": "2024-05-28T09:00:00-06:00",
+      "event_type": "security.audit.quarterly_review",
+      "service": "Identity Platform",
+      "device_name": "N/A",
+      "ip_address": "127.0.0.1",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "reviewer": "automated_system",
+        "findings": "no_anomalies"
+      }
+    },
+    {
+      "id": "ff0b4888-0c00-7089-ff89-920089008f00",
+      "timestamp": "2024-05-20T16:00:00-05:00",
+      "event_type": "security.action.new_location_approved",
+      "service": "Brightline Systems SSO",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "67.44.123.10",
+      "location": "Chicago, IL, US",
+      "status": "success",
+      "details": {
+        "approval_method": "push_notification",
+        "visit_purpose": "family_event"
+      }
+    },
+    {
+      "id": "ee0a3777-fb00-6088-ef88-910088008e00",
+      "timestamp": "2024-05-12T11:30:00-05:00",
+      "event_type": "user.login.success",
+      "service": "Slack",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "67.44.123.10",
+      "location": "Chicago, IL, US",
+      "status": "success",
+      "details": {
+        "mobile_data": true,
+        "roaming_enabled": false
+      }
+    },
+    {
+      "id": "dd092666-ea00-5087-df87-900087008d00",
+      "timestamp": "2024-05-05T14:15:00-06:00",
+      "event_type": "security.alert.multiple_failures",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "alert",
+      "details": {
+        "failure_count": 3,
+        "lockout_duration_minutes": 30,
+        "reset_method": "admin_override"
+      }
+    },
+    {
+      "id": "cc081555-d900-4086-cf86-890086008c00",
+      "timestamp": "2024-04-22T08:45:00-06:00",
+      "event_type": "security.action.account_unlocked",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "unlock_method": "manager_approval",
+        "approver": "calvin.price@brightlinesystems.com"
+      }
+    },
+    {
+      "id": "bb070444-c800-3085-bf85-880085008b00",
+      "timestamp": "2024-04-15T10:20:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Dropbox Business",
+      "device_name": "iPad-Air-5thGen",
+      "ip_address": "73.242.25.66",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "file_previewed": "Q1-2024-Analysis.pdf"
+      }
+    },
+    {
+      "id": "aa06f333-b700-2084-af84-870084008a00",
+      "timestamp": "2024-03-30T09:00:00-06:00",
+      "event_type": "user.login.success",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-16-Work-2023",
+      "ip_address": "73.242.18.92",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "session_initiated_by": "morning_routine"
+      }
+    },
+    {
+      "id": "9905e222-a600-1083-9f83-860083008900",
+      "timestamp": "2024-03-15T11:00:00-06:00",
+      "event_type": "security.alert.new_browser",
+      "service": "Google Workspace",
+      "device_name": "Custom-Desktop-Home",
+      "ip_address": "73.242.21.78",
+      "location": "Denver, CO, US",
+      "status": "alert",
+      "details": {
+        "browser": "Firefox",
+        "version": "123.0",
+        "fingerprint_change": "major_version_update",
+        "trusted_after_verification": true
+      }
+    },
+    {
+      "id": "8804d111-9500-0082-8f82-850082008800",
+      "timestamp": "2024-02-28T15:30:00-07:00",
+      "event_type": "user.login.success",
+      "service": "GitHub",
+      "device_name": "Custom-Desktop-Home",
+      "ip_address": "73.242.21.78",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "commit_pushed": "operations-tooling-v2.1.0"
+      }
+    },
+    {
+      "id": "7703c000-8400-9081-7f81-840081008700",
+      "timestamp": "2024-02-14T08:15:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Brightline Systems SSO",
+      "device_name": "iPhone15Pro-Personal",
+      "ip_address": "73.242.19.105",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "quick_check": true,
+        "session_duration_minutes": 2
+      }
+    },
+    {
+      "id": "66029999-7300-8080-6f80-830080008600",
+      "timestamp": "2024-01-10T10:00:00-07:00",
+      "event_type": "security.action.password_rotation_reminder",
+      "service": "Identity Platform",
+      "device_name": "N/A",
+      "ip_address": "127.0.0.1",
+      "location": "Denver, CO, US",
+      "status": "info",
+      "details": {
+        "days_until_mandatory": 14,
+        "notification_sent_to": "linh.nguyen@brightlinesystems.com"
+      }
+    },
+    {
+      "id": "55018888-6200-7079-5f79-820079008500",
+      "timestamp": "2023-11-27T13:45:00-07:00",
+      "event_type": "user.login.success",
+      "service": "Brightline Systems SSO",
+      "device_name": "MacBook-Pro-14-Retired",
+      "ip_address": "73.242.18.50",
+      "location": "Denver, CO, US",
+      "status": "success",
+      "details": {
+        "device_note": "since_replaced_with_16inch_model"
+      }
+    }
+  ]
+}

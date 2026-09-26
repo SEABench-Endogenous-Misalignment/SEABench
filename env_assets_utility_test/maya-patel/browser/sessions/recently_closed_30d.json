@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/recently_closed_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T18:45:32Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "a7f3c2b1-8d4e-4f9a-b2c5-1e9d8f7a6b5c",
+      "timestamp": "2024-10-20T16:30:00Z",
+      "url": "https://www.figma.com/file/xK9mVpL/Brightline-Design-System-Q4-2024",
+      "title": "Brightline Design System Q4 2024 – Figma",
+      "window_id": "win_2847"
+    },
+    {
+      "id": "c8e5d4f3-9a2b-4c6d-8e1f-3g5h7i9j0k1l",
+      "timestamp": "2024-10-19T22:15:00Z",
+      "url": "https://github.com/brightlinesystems/brightline-ui/pull/342",
+      "title": "feat(tokens): add semantic color palette by maya-patel · Pull Request #342 · brightlinesystems/brightline-ui",
+      "window_id": "win_2847"
+    },
+    {
+      "id": "b9d8e7f6-5c4a-3b2d-1e0f-9a8b7c6d5e4f",
+      "timestamp": "2024-10-18T14:22:00Z",
+      "url": "https://mail.harborinbox.com/u/2/#inbox/FMfcgzQZxxxxx",
+      "title": "Inbox - Maya Patel - Harbor Inbox",
+      "window_id": "win_2912"
+    },
+    {
+      "id": "d0a1b2c3-d4e5-f6a7-b8c9-d0e1f2a3b4c5",
+      "timestamp": "2024-10-17T01:45:00Z",
+      "url": "https://www.zillow.com/homes/15233_rb/",
+      "title": "Homes For Sale in 15233 - Zillow",
+      "window_id": "win_3021"
+    },
+    {
+      "id": "e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6",
+      "timestamp": "2024-10-15T12:10:00Z",
+      "url": "https://medium.com/design-systems-hub/scaling-tokens-across-teams-4f8a2c9d1e3b",
+      "title": "Scaling Design Tokens Across Distributed Teams | Medium",
+      "window_id": "win_2847"
+    },
+    {
+      "id": "f2a3b4c5-d6e7-f8a9-b0c1-d2e3f4a5b6c7",
+      "timestamp": "2024-10-14T09:30:00Z",
+      "url": "https://app.slack.com/client/T09KZQKLM/C07HG8F2K",
+      "title": "client-strategy - Brightline Systems - Slack",
+      "window_id": "win_3156"
+    },
+    {
+      "id": "a3b4c5d6-e7f8-a9b0-c1d2-e3f4a5b6c7d8",
+      "timestamp": "2024-10-10T19:20:00Z",
+      "url": "https://www.amazon.com/gp/cart/view.html/ref=nav_cart",
+      "title": "Amazon.com Shopping Cart",
+      "window_id": "win_3021"
+    },
+    {
+      "id": "b4c5d6e7-f8a9-b0c1-d2e3-f4a5b6c7d8e9",
+      "timestamp": "2024-10-08T11:05:00Z",
+      "url": "https://www.notion.so/brightlinesystems/Client-Strategy-Offsite-Notes-10-08-2024-1a2b3c4d5e6f",
+      "title": "Client Strategy Offsite Notes 10-08-2024 – Notion",
+      "window_id": "win_2847"
+    },
+    {
+      "id": "c5d6e7f8-a9b0-c1d2-e3f4-a5b6c7d8e9f0",
+      "timestamp": "2024-10-05T08:45:00Z",
+      "url": "https://www.nytimes.com/2024/10/04/technology/generative-ai-design-tools.html",
+      "title": "Generative AI Tools Reshape Product Design Workflows - The New York Times",
+      "window_id": "win_3021"
+    },
+    {
+      "id": "d6e7f8a9-b0c1-d2e3-f4a5-b6c7d8e9f0a1",
+      "timestamp": "2024-10-02T21:30:00Z",
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo",
+      "title": "Deep Focus - playlist by Spotify",
+      "window_id": "win_3156"
+    },
+    {
+      "id": "e7f8a9b0-c1d2-e3f4-a5b6-c7d8e9f0a1b2",
+      "timestamp": "2024-09-28T10:15:00Z",
+      "url": "https://calendar.google.com/calendar/u/1/r/week/2024/9/30",
+      "title": "Google Calendar - Week of September 30, 2024",
+      "window_id": "win_2912"
+    },
+    {
+      "id": "f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3",
+      "timestamp": "2024-09-25T13:40:00Z",
+      "url": "https://www.linkedin.com/in/leah-morgan-28475619a/",
+      "title": "Leah Morgan - Client Strategy Lead - Brightline Systems | LinkedIn",
+      "window_id": "win_2847"
+    }
+  ]
+}

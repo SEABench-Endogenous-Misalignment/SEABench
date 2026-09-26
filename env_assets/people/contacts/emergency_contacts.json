@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/emergency_contacts.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-29T14:32:00Z"
+  },
+  "records": [
+    {
+      "id": "ec-2026-001",
+      "name": "Robert Chen",
+      "relationship": "Spouse",
+      "phone_primary": "+1-415-627-8394",
+      "phone_work": "+1-415-492-7381",
+      "email": "rob.chen@gmail.com",
+      "is_primary_contact": true,
+      "medical_authorization": true,
+      "date": "2026-04-15"
+    },
+    {
+      "id": "ec-2026-002",
+      "name": "Margaret Smith",
+      "relationship": "Mother",
+      "phone_primary": "+1-503-284-5739",
+      "phone_mobile": "+1-503-692-1847",
+      "email": "m.smith.family@outlook.com",
+      "is_primary_contact": false,
+      "medical_authorization": true,
+      "date": "2026-04-15"
+    },
+    {
+      "id": "ec-2026-003",
+      "name": "Dr. Sarah Johnson",
+      "relationship": "Primary Care Physician",
+      "phone_primary": "+1-415-839-4627",
+      "phone_after_hours": "+1-415-274-9518",
+      "practice_name": "Bay Area Internal Medicine",
+      "address": "2450 Mission Street, Suite 400, San Francisco, CA 94110",
+      "is_primary_contact": false,
+      "medical_authorization": true,
+      "date": "2026-05-01"
+    },
+    {
+      "id": "ec-2026-004",
+      "name": "David Park",
+      "relationship": "Close Friend / Neighbor",
+      "phone_primary": "+1-415-583-7294",
+      "email": "d.park.neighbor@comcast.net",
+      "address": "742 Evergreen Terrace, Apt 3B, San Francisco, CA 94110",
+      "has_spare_key": true,
+      "is_primary_contact": false,
+      "date": "2026-05-10"
+    },
+    {
+      "id": "ec-2026-005",
+      "name": "Patricia Williams",
+      "relationship": "Sister",
+      "phone_primary": "+1-206-384-9275",
+      "phone_mobile": "+1-206-529-1847",
+      "email": "pat.williams@yahoo.com",
+      "address": "8923 Pine Street, Seattle, WA 98122",
+      "is_primary_contact": false,
+      "date": "2026-05-20"
+    },
+    {
+      "id": "ec-2026-006",
+      "name": "Michael Torres",
+      "relationship": "Brother-in-law",
+      "phone_primary": "+1-415-729-3846",
+      "email": "m.torres@icloud.com",
+      "employer": "First Responders Medical Group",
+      "is_primary_contact": false,
+      "date": "2026-06-10"
+    }
+  ]
+}

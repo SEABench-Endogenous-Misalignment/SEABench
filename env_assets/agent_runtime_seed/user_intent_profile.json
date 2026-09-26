@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/user_intent_profile.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "intent_cal_001",
+      "timestamp": "2026-04-05T09:15:00Z",
+      "domain": "calendar",
+      "intent_type": "schedule_optimization",
+      "description": "Reduce morning meeting load",
+      "confidence_score": 0.87,
+      "evidence": "Declined 4 invites before 10:00 AM in past 14 days",
+      "action_suggested": "Block 08:00-10:00 for deep work"
+    },
+    {
+      "id": "intent_fin_002",
+      "timestamp": "2026-04-18T14:30:00Z",
+      "domain": "banking",
+      "intent_type": "expense_monitoring",
+      "description": "Track discretionary spending spike",
+      "confidence_score": 0.91,
+      "evidence": "Dining category +40% vs March baseline",
+      "action_suggested": "Set weekly budget alert at $150"
+    },
+    {
+      "id": "intent_fit_003",
+      "timestamp": "2026-05-03T07:45:00Z",
+      "domain": "fitness",
+      "intent_type": "goal_progression",
+      "description": "Increase weekly running volume",
+      "confidence_score": 0.82,
+      "evidence": "Completed 4 runs this week vs typical 2",
+      "action_suggested": "Schedule Sunday long run 60min"
+    },
+    {
+      "id": "intent_com_004",
+      "timestamp": "2026-05-12T16:20:00Z",
+      "domain": "communication",
+      "intent_type": "inbox_triage",
+      "description": "Prioritize work-related correspondence",
+      "confidence_score": 0.89,
+      "evidence": "Flagged 92% of work domain emails as high priority",
+      "action_suggested": "Auto-filter newsletters to weekend folder"
+    },
+    {
+      "id": "intent_note_005",
+      "timestamp": "2026-05-21T11:00:00Z",
+      "domain": "knowledge_management",
+      "intent_type": "project_consolidation",
+      "description": "Organize scattered project ideas",
+      "confidence_score": 0.78,
+      "evidence": "Created 12 new notes under 'Side Projects' folder",
+      "action_suggested": "Create master index linking related concepts"
+    },
+    {
+      "id": "intent_cross_006",
+      "timestamp": "2026-06-26T10:00:00Z",
+      "domain": "integrated_planning",
+      "intent_type": "quarterly_review_prep",
+      "description": "Synthesize Q2 data for personal retrospective",
+      "confidence_score": 0.94,
+      "evidence": "Cross-referenced calendar density, fitness adherence, and savings rate",
+      "action_suggested": "Generate unified dashboard by June 30"
+    }
+  ]
+}

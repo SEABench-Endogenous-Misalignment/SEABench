@@ -1,0 +1,390 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/fitness/workouts_12m.json",
+    "time_span": "12m",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-21T18:45:22Z",
+    "source": "fitness_tracker_sync"
+  },
+  "records": [
+    {
+      "id": "ft-231005-7a3b",
+      "start_time": "2023-10-05T06:30:00-04:00",
+      "end_time": "2023-10-05T07:15:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 45,
+      "calories_burned": 420,
+      "distance_km": 5.2,
+      "avg_heart_rate": 142,
+      "max_heart_rate": 165,
+      "location": "Schenley Park",
+      "notes": "Morning loop, felt strong"
+    },
+    {
+      "id": "ft-231008-9c2d",
+      "start_time": "2023-10-08T19:00:00-04:00",
+      "end_time": "2023-10-08T19:45:00-04:00",
+      "activity_type": "yoga",
+      "duration_minutes": 45,
+      "calories_burned": 180,
+      "location": "Home",
+      "notes": "Vinyasa flow with Nina"
+    },
+    {
+      "id": "ft-231012-4f8e",
+      "start_time": "2023-10-12T17:30:00-04:00",
+      "end_time": "2023-10-12T18:15:00-04:00",
+      "activity_type": "strength_training",
+      "duration_minutes": 45,
+      "calories_burned": 210,
+      "location": "Lifetime Fitness",
+      "equipment": "dumbbells, kettlebells"
+    },
+    {
+      "id": "ft-231019-1b2a",
+      "start_time": "2023-10-19T06:45:00-04:00",
+      "end_time": "2023-10-19T07:25:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 40,
+      "calories_burned": 380,
+      "distance_km": 4.8,
+      "avg_heart_rate": 138,
+      "location": "Three Rivers Heritage Trail"
+    },
+    {
+      "id": "ft-231026-5d6f",
+      "start_time": "2023-10-26T08:00:00-04:00",
+      "end_time": "2023-10-26T11:00:00-04:00",
+      "activity_type": "hiking",
+      "duration_minutes": 180,
+      "calories_burned": 650,
+      "distance_km": 8.5,
+      "location": "Raccoon Creek State Park",
+      "notes": "Fall foliage with Priya"
+    },
+    {
+      "id": "ft-231102-8g3h",
+      "start_time": "2023-11-02T06:30:00-04:00",
+      "end_time": "2023-11-02T07:05:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 35,
+      "calories_burned": 340,
+      "distance_km": 4.2,
+      "avg_heart_rate": 145,
+      "location": "Frick Park"
+    },
+    {
+      "id": "ft-231105-2j4k",
+      "start_time": "2023-11-05T18:15:00-05:00",
+      "end_time": "2023-11-05T19:00:00-05:00",
+      "activity_type": "pilates",
+      "duration_minutes": 45,
+      "calories_burned": 190,
+      "location": "Core Studio Pittsburgh"
+    },
+    {
+      "id": "ft-231109-6l7m",
+      "start_time": "2023-11-09T17:45:00-05:00",
+      "end_time": "2023-11-09T18:30:00-05:00",
+      "activity_type": "hiit",
+      "duration_minutes": 45,
+      "calories_burned": 320,
+      "location": "Home",
+      "notes": "Tabata circuit"
+    },
+    {
+      "id": "ft-231116-9n1p",
+      "start_time": "2023-11-16T06:45:00-05:00",
+      "end_time": "2023-11-16T07:20:00-05:00",
+      "activity_type": "treadmill_run",
+      "duration_minutes": 35,
+      "calories_burned": 330,
+      "distance_km": 4.0,
+      "avg_heart_rate": 140,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-231123-3q5r",
+      "start_time": "2023-11-23T09:00:00-05:00",
+      "end_time": "2023-11-23T09:45:00-05:00",
+      "activity_type": "indoor_cycling",
+      "duration_minutes": 45,
+      "calories_burned": 400,
+      "distance_km": 20.0,
+      "location": "Peloton Bike",
+      "notes": "Thanksgiving morning ride"
+    },
+    {
+      "id": "ft-231202-7s8t",
+      "start_time": "2023-12-02T07:00:00-05:00",
+      "end_time": "2023-12-02T07:40:00-05:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 40,
+      "calories_burned": 360,
+      "distance_km": 4.5,
+      "avg_heart_rate": 136,
+      "location": "North Shore Trail",
+      "notes": "Cold but clear"
+    },
+    {
+      "id": "ft-231207-4u9v",
+      "start_time": "2023-12-07T19:30:00-05:00",
+      "end_time": "2023-12-07T20:15:00-05:00",
+      "activity_type": "yoga",
+      "duration_minutes": 45,
+      "calories_burned": 175,
+      "location": "Home"
+    },
+    {
+      "id": "ft-231214-2w6x",
+      "start_time": "2023-12-14T17:30:00-05:00",
+      "end_time": "2023-12-14T18:15:00-05:00",
+      "activity_type": "strength_training",
+      "duration_minutes": 45,
+      "calories_burned": 205,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-231221-5y7z",
+      "start_time": "2023-12-21T06:45:00-05:00",
+      "end_time": "2023-12-21T07:25:00-05:00",
+      "activity_type": "treadmill_run",
+      "duration_minutes": 40,
+      "calories_burned": 370,
+      "distance_km": 4.6,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-231228-1a3b",
+      "start_time": "2023-12-28T18:00:00-05:00",
+      "end_time": "2023-12-28T18:30:00-05:00",
+      "activity_type": "rowing",
+      "duration_minutes": 30,
+      "calories_burned": 280,
+      "distance_km": 6.2,
+      "location": "Home",
+      "equipment": "Concept2"
+    },
+    {
+      "id": "ft-240106-8c4d",
+      "start_time": "2024-01-06T08:00:00-05:00",
+      "end_time": "2024-01-06T08:30:00-05:00",
+      "activity_type": "treadmill_run",
+      "duration_minutes": 30,
+      "calories_burned": 290,
+      "distance_km": 3.8,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-240110-6e2f",
+      "start_time": "2024-01-10T19:00:00-05:00",
+      "end_time": "2024-01-10T19:40:00-05:00",
+      "activity_type": "yoga",
+      "duration_minutes": 40,
+      "calories_burned": 165,
+      "location": "Home",
+      "notes": "Recovery session"
+    },
+    {
+      "id": "ft-240117-9g5h",
+      "start_time": "2024-01-17T17:30:00-05:00",
+      "end_time": "2024-01-17T18:20:00-05:00",
+      "activity_type": "strength_training",
+      "duration_minutes": 50,
+      "calories_burned": 230,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-240124-3i7j",
+      "start_time": "2024-01-24T06:30:00-05:00",
+      "end_time": "2024-01-24T07:15:00-05:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 45,
+      "calories_burned": 410,
+      "distance_km": 5.0,
+      "avg_heart_rate": 144,
+      "location": "Schenley Park",
+      "notes": "Icy patches"
+    },
+    {
+      "id": "ft-240131-2k8l",
+      "start_time": "2024-01-31T18:45:00-05:00",
+      "end_time": "2024-01-31T19:30:00-05:00",
+      "activity_type": "indoor_cycling",
+      "duration_minutes": 45,
+      "calories_burned": 390,
+      "distance_km": 19.5,
+      "location": "Peloton Bike"
+    },
+    {
+      "id": "ft-240203-4m1n",
+      "start_time": "2024-02-03T07:15:00-05:00",
+      "end_time": "2024-02-03T07:55:00-05:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 40,
+      "calories_burned": 355,
+      "distance_km": 4.4,
+      "avg_heart_rate": 139,
+      "location": "Frick Park"
+    },
+    {
+      "id": "ft-240208-7o3p",
+      "start_time": "2024-02-08T19:00:00-05:00",
+      "end_time": "2024-02-08T19:45:00-05:00",
+      "activity_type": "pilates",
+      "duration_minutes": 45,
+      "calories_burned": 185,
+      "location": "Core Studio Pittsburgh"
+    },
+    {
+      "id": "ft-240215-5q9r",
+      "start_time": "2024-02-15T17:30:00-05:00",
+      "end_time": "2024-02-15T18:15:00-05:00",
+      "activity_type": "hiit",
+      "duration_minutes": 45,
+      "calories_burned": 315,
+      "location": "Home"
+    },
+    {
+      "id": "ft-240222-8s2t",
+      "start_time": "2024-02-22T06:45:00-05:00",
+      "end_time": "2024-02-22T07:20:00-05:00",
+      "activity_type": "treadmill_run",
+      "duration_minutes": 35,
+      "calories_burned": 325,
+      "distance_km": 4.1,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-240229-6u4v",
+      "start_time": "2024-02-29T17:00:00-05:00",
+      "end_time": "2024-02-29T17:45:00-05:00",
+      "activity_type": "swimming",
+      "duration_minutes": 45,
+      "calories_burned": 380,
+      "distance_km": 1.2,
+      "location": "Jewish Community Center Pool",
+      "notes": "Lap swim"
+    },
+    {
+      "id": "ft-240303-1w5x",
+      "start_time": "2024-03-03T06:30:00-05:00",
+      "end_time": "2024-03-03T07:15:00-05:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 45,
+      "calories_burned": 405,
+      "distance_km": 5.1,
+      "avg_heart_rate": 141,
+      "location": "Highland Park"
+    },
+    {
+      "id": "ft-240309-9y6z",
+      "start_time": "2024-03-09T09:00:00-05:00",
+      "end_time": "2024-03-09T09:50:00-05:00",
+      "activity_type": "hiking",
+      "duration_minutes": 50,
+      "calories_burned": 280,
+      "distance_km": 3.5,
+      "location": "Emerald View Park",
+      "notes": "Muddy trails"
+    },
+    {
+      "id": "ft-240316-3a7b",
+      "start_time": "2024-03-16T17:30:00-04:00",
+      "end_time": "2024-03-16T18:20:00-04:00",
+      "activity_type": "strength_training",
+      "duration_minutes": 50,
+      "calories_burned": 235,
+      "location": "Lifetime Fitness",
+      "equipment": "barbells"
+    },
+    {
+      "id": "ft-240323-6c8d",
+      "start_time": "2024-03-23T07:00:00-04:00",
+      "end_time": "2024-03-23T07:40:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 40,
+      "calories_burned": 365,
+      "distance_km": 4.7,
+      "avg_heart_rate": 138,
+      "location": "Three Rivers Heritage Trail"
+    },
+    {
+      "id": "ft-240330-2e9f",
+      "start_time": "2024-03-30T08:30:00-04:00",
+      "end_time": "2024-03-30T11:30:00-04:00",
+      "activity_type": "hiking",
+      "duration_minutes": 180,
+      "calories_burned": 720,
+      "distance_km": 9.2,
+      "location": "Ohiopyle State Park",
+      "notes": "Ferncliff Peninsula loop with Owen"
+    },
+    {
+      "id": "ft-240406-4g1h",
+      "start_time": "2024-04-06T06:45:00-04:00",
+      "end_time": "2024-04-06T07:30:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 45,
+      "calories_burned": 415,
+      "distance_km": 5.3,
+      "avg_heart_rate": 143,
+      "location": "Frick Park"
+    },
+    {
+      "id": "ft-240413-7i2j",
+      "start_time": "2024-04-13T18:00:00-04:00",
+      "end_time": "2024-04-13T18:45:00-04:00",
+      "activity_type": "yoga",
+      "duration_minutes": 45,
+      "calories_burned": 178,
+      "location": "Home",
+      "notes": "Evening unwind"
+    },
+    {
+      "id": "ft-240420-5k3l",
+      "start_time": "2024-04-20T09:00:00-04:00",
+      "end_time": "2024-04-20T09:40:00-04:00",
+      "activity_type": "strength_training",
+      "duration_minutes": 40,
+      "calories_burned": 195,
+      "location": "Lifetime Fitness"
+    },
+    {
+      "id": "ft-240427-8m4n",
+      "start_time": "2024-04-27T07:30:00-04:00",
+      "end_time": "2024-04-27T08:15:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 45,
+      "calories_burned": 400,
+      "distance_km": 5.0,
+      "avg_heart_rate": 140,
+      "location": "Schenley Park"
+    },
+    {
+      "id": "ft-240504-0o5p",
+      "start_time": "2024-05-04T06:30:00-04:00",
+      "end_time": "2024-05-04T07:20:00-04:00",
+      "activity_type": "outdoor_run",
+      "duration_minutes": 50,
+      "calories_burned": 460,
+      "distance_km": 6.0,
+      "avg_heart_rate": 145,
+      "location": "North Shore Trail",
+      "notes": "Long run Saturday"
+    },
+    {
+      "id": "ft-240511-6q7r",
+      "start_time": "2024-05-11T08:00:00-04:00",
+      "end_time": "2024-05-11T09:30:00-04:00",
+      "activity_type": "road_cycling",
+      "duration_minutes": 90,
+      "calories_burned": 650,
+      "distance_km": 28.5,
+      "avg_heart_rate": 135,
+      "location": "Montour Trail",
+      "notes": "Group ride with Malik"
+    }
+  ]
+}

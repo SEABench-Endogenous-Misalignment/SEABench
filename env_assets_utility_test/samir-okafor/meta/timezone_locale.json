@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/timezone_locale.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-15T18:30:00Z",
+    "source": "system_settings_export"
+  },
+  "records": [
+    {
+      "id": "stz_7f3a9b2e1c5d",
+      "timestamp": "2024-11-15T16:42:11Z",
+      "device_name": "iPhone 14 Pro",
+      "device_owner": "samir.okafor@meadowmail.co",
+      "timezone": "America/New_York",
+      "region_code": "US-PA",
+      "auto_set": true
+    },
+    {
+      "id": "stz_8c4d1f5a2b6e",
+      "timestamp": "2024-11-14T13:20:45Z",
+      "device_name": "MacBook Pro Work",
+      "device_owner": "samir.okafor@meadowmail.co",
+      "timezone": "America/New_York",
+      "region_code": "US-PA",
+      "auto_set": false,
+      "manual_offset": "-05:00"
+    },
+    {
+      "id": "loc_9e2b6c4d8f1a",
+      "date": "2024-11-01",
+      "device_name": "iMac Home Office",
+      "language": "en-US",
+      "calendar_type": "gregorian",
+      "temperature_unit": "fahrenheit",
+      "measurement_system": "imperial"
+    },
+    {
+      "id": "tz_cal_1a3b5c7d9e2f",
+      "timestamp": "2024-11-10T09:15:00Z",
+      "app_name": "Calendar",
+      "primary_tz": "America/New_York",
+      "secondary_zones": [
+        {
+          "timezone": "America/Los_Angeles",
+          "label": "Brightline HQ"
+        },
+        {
+          "timezone": "Europe/London",
+          "label": "London Team"
+        }
+      ]
+    },
+    {
+      "id": "stz_watch_4e8f2a1b7c3d",
+      "timestamp": "2024-11-15T08:00:00Z",
+      "device_name": "Apple Watch Ultra",
+      "device_owner": "samir.okafor@meadowmail.co",
+      "timezone": "America/New_York",
+      "last_sync": "2024-11-15T07:58:33Z"
+    },
+    {
+      "id": "tz_travel_cfg_6d5e4f3g2h1i",
+      "start_time": "2024-12-05T06:00:00Z",
+      "end_time": "2024-12-10T23:59:00Z",
+      "destination_tz": "America/Los_Angeles",
+      "destination_city": "Seattle",
+      "origin_tz": "America/New_York",
+      "trip_purpose": "Brightline Systems offsite",
+      "booking_reference": "BL240512"
+    }
+  ]
+}

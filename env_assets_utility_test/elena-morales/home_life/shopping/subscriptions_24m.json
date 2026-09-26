@@ -1,0 +1,950 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/subscriptions_24m.json",
+    "time_span": "24m",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-07-22T19:45:33Z",
+    "source": "subscription_tracker_export"
+  },
+  "records": [
+    {
+      "id": "sub_nfx_8f3a9b2c",
+      "service_name": "Netflix",
+      "plan_name": "Standard",
+      "category": "entertainment",
+      "billing_amount": 15.49,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-15",
+      "period_end": "2024-08-14",
+      "shared_with": "Grace Lin"
+    },
+    {
+      "id": "sub_spfy_9k4m7p1q",
+      "service_name": "Spotify",
+      "plan_name": "Premium Duo",
+      "category": "music",
+      "billing_amount": 14.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7153",
+        "expiry": "09/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-22",
+      "period_end": "2024-08-21",
+      "shared_with": "Grace Lin"
+    },
+    {
+      "id": "sub_dsn_2r5t8y3u",
+      "service_name": "Disney+",
+      "plan_name": "Premium (No Ads)",
+      "category": "entertainment",
+      "billing_amount": 13.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-03",
+      "period_end": "2024-08-02"
+    },
+    {
+      "id": "sub_hul_4g7h1j4k",
+      "service_name": "Hulu",
+      "plan_name": "No Ads",
+      "category": "entertainment",
+      "billing_amount": 17.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-10",
+      "period_end": "2024-08-09"
+    },
+    {
+      "id": "sub_max_6v8b2n5m",
+      "service_name": "Max",
+      "plan_name": "Ad-Free",
+      "category": "entertainment",
+      "billing_amount": 15.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-28",
+      "period_end": "2024-08-27"
+    },
+    {
+      "id": "sub_atv_1c3e5g7i",
+      "service_name": "Apple TV+",
+      "plan_name": "Monthly",
+      "category": "entertainment",
+      "billing_amount": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "apple_pay",
+        "network": "Visa",
+        "last_four": "4829"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-19",
+      "period_end": "2024-08-18"
+    },
+    {
+      "id": "sub_para_9l2k4j6h",
+      "service_name": "Paramount+",
+      "plan_name": "Essential",
+      "category": "entertainment",
+      "billing_amount": 5.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7153",
+        "expiry": "09/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-12",
+      "period_end": "2024-08-11"
+    },
+    {
+      "id": "sub_peak_3d5f7h9j",
+      "service_name": "Peacock",
+      "plan_name": "Premium",
+      "category": "entertainment",
+      "billing_amount": 5.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "period_start": "2024-07-08",
+      "period_end": "2024-08-07"
+    },
+    {
+      "id": "sub_amzn_5g8k1m4p",
+      "service_name": "Amazon Prime",
+      "plan_name": "Annual",
+      "category": "shopping",
+      "billing_amount": 139.0,
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "sub_adbe_7h2j5l8o",
+      "service_name": "Adobe Creative Cloud",
+      "plan_name": "All Apps",
+      "category": "software",
+      "billing_amount": 59.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Visa",
+        "last_four": "8842",
+        "expiry": "03/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "sub_figm_9q4w7e1r",
+      "service_name": "Figma",
+      "plan_name": "Professional",
+      "category": "software",
+      "billing_amount": 15.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Mastercard",
+        "last_four": "5521",
+        "expiry": "08/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-08-12"
+    },
+    {
+      "id": "sub_ntn_2t5y8u3i",
+      "service_name": "Notion",
+      "plan_name": "Plus",
+      "category": "software",
+      "billing_amount": 10.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "sub_ghub_4z7x1c4v",
+      "service_name": "GitHub",
+      "plan_name": "Pro",
+      "category": "software",
+      "billing_amount": 4.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-08-17"
+    },
+    {
+      "id": "sub_chat_6b9n3m7k",
+      "service_name": "ChatGPT Plus",
+      "plan_name": "Monthly",
+      "category": "software",
+      "billing_amount": 20.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-08-05"
+    },
+    {
+      "id": "sub_dln_8v2b5n9m",
+      "service_name": "Duolingo",
+      "plan_name": "Super",
+      "category": "education",
+      "billing_amount": 12.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "paypal",
+        "email": "elena.morales@northstarmail.com"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-08-20"
+    },
+    {
+      "id": "sub_nyt_1d4f6h8j",
+      "service_name": "New York Times",
+      "plan_name": "All Access",
+      "category": "news",
+      "billing_amount": 25.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "sub_tny_3g6j9l2k",
+      "service_name": "The New Yorker",
+      "plan_name": "Digital",
+      "category": "news",
+      "billing_amount": 12.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7153",
+        "expiry": "09/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-22T09:30:00-05:00"
+    },
+    {
+      "id": "sub_clm_5h8k2m5p",
+      "service_name": "Calm",
+      "plan_name": "Premium",
+      "category": "wellness",
+      "billing_amount": 14.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-22T03:15:00-05:00"
+    },
+    {
+      "id": "sub_plt_7j1l4o8q",
+      "service_name": "Peloton",
+      "plan_name": "App Membership",
+      "category": "fitness",
+      "billing_amount": 12.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-01T06:45:00-05:00"
+    },
+    {
+      "id": "sub_strv_9k3n7q1w",
+      "service_name": "Strava",
+      "plan_name": "Summit",
+      "category": "fitness",
+      "billing_amount": 11.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-06-28T14:20:00-05:00"
+    },
+    {
+      "id": "sub_inst_2e4r6t8y",
+      "service_name": "Instacart+",
+      "plan_name": "Monthly",
+      "category": "food_delivery",
+      "billing_amount": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7153",
+        "expiry": "09/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-15T11:00:00-05:00"
+    },
+    {
+      "id": "sub_ddsh_4u8i3o7p",
+      "service_name": "DoorDash DashPass",
+      "plan_name": "Monthly",
+      "category": "food_delivery",
+      "billing_amount": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-10T19:30:00-05:00"
+    },
+    {
+      "id": "sub_psplus_6a2d5g8h",
+      "service_name": "PlayStation Plus",
+      "plan_name": "Extra",
+      "category": "gaming",
+      "billing_amount": 14.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-05T22:15:00-05:00"
+    },
+    {
+      "id": "sub_nso_8j4l7k1z",
+      "service_name": "Nintendo Switch Online",
+      "plan_name": "Expansion Pack",
+      "category": "gaming",
+      "billing_amount": 49.99,
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "timestamp": "2024-07-18T16:45:00-05:00"
+    },
+    {
+      "id": "sub_icld_1x3c5v7b",
+      "service_name": "iCloud+",
+      "plan_name": "2TB",
+      "category": "storage",
+      "billing_amount": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "apple_pay",
+        "network": "Mastercard",
+        "last_four": "7153"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2024-07-22T00:00:00-05:00"
+    },
+    {
+      "id": "sub_gone_9f2h4j6k",
+      "service_name": "Google One",
+      "plan_name": "2TB",
+      "category": "storage",
+      "billing_amount": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "google_pay",
+        "network": "Visa",
+        "last_four": "4829"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2023-03-15T00:00:00-05:00"
+    },
+    {
+      "id": "sub_drbx_5l8k2n9m",
+      "service_name": "Dropbox",
+      "plan_name": "Plus",
+      "category": "storage",
+      "billing_amount": 11.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Visa",
+        "last_four": "8842",
+        "expiry": "03/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2022-11-20T00:00:00-06:00"
+    },
+    {
+      "id": "sub_cstc_7p3o6i9u",
+      "service_name": "Costco",
+      "plan_name": "Gold Star",
+      "category": "retail",
+      "billing_amount": 60.0,
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2023-01-10T00:00:00-06:00"
+    },
+    {
+      "id": "sub_trgt_2y5t8r3e",
+      "service_name": "Target Circle 360",
+      "plan_name": "Annual",
+      "category": "retail",
+      "billing_amount": 99.0,
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2024-02-14T00:00:00-06:00"
+    },
+    {
+      "id": "sub_lnk_4w7q1e4r",
+      "service_name": "LinkedIn Premium",
+      "plan_name": "Career",
+      "category": "professional_networking",
+      "billing_amount": 29.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Mastercard",
+        "last_four": "7153",
+        "expiry": "09/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2023-08-01T00:00:00-05:00"
+    },
+    {
+      "id": "sub_aud_6b9n3m7k",
+      "service_name": "Audible",
+      "plan_name": "Plus",
+      "category": "books",
+      "billing_amount": 7.95,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2022-09-05T00:00:00-05:00"
+    },
+    {
+      "id": "sub_wapo_8v2c5x8z",
+      "service_name": "Washington Post",
+      "plan_name": "Digital",
+      "category": "news",
+      "billing_amount": 12.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Amex",
+        "last_four": "3391",
+        "expiry": "12/27"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "start_time": "2023-05-20T00:00:00-05:00"
+    },
+    {
+      "id": "sub_med_1b4n7m0k",
+      "service_name": "Medium",
+      "plan_name": "Membership",
+      "category": "reading",
+      "billing_amount": 5.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-12-15T23:59:59-06:00"
+    },
+    {
+      "id": "sub_slk_9h2k5m8p",
+      "service_name": "Slack",
+      "plan_name": "Pro",
+      "category": "software",
+      "billing_amount": 7.25,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Mastercard",
+        "last_four": "5521",
+        "expiry": "08/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-08-30T23:59:59-05:00"
+    },
+    {
+      "id": "sub_lnr_3j6l9o2q",
+      "service_name": "Linear",
+      "plan_name": "Starter",
+      "category": "software",
+      "billing_amount": 8.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Visa",
+        "last_four": "8842",
+        "expiry": "03/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-09-12T23:59:59-05:00"
+    },
+    {
+      "id": "sub_lm_5k8n2m6r",
+      "service_name": "Loom",
+      "plan_name": "Business",
+      "category": "software",
+      "billing_amount": 12.5,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Amex",
+        "last_four": "9912",
+        "expiry": "11/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2025-01-20T23:59:59-06:00"
+    },
+    {
+      "id": "sub_clk_7m1p4s8t",
+      "service_name": "Clockify",
+      "plan_name": "Premium",
+      "category": "software",
+      "billing_amount": 9.99,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Visa",
+        "last_four": "8842",
+        "expiry": "03/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-11-03T23:59:59-05:00"
+    },
+    {
+      "id": "sub_mro_9o3q6w9e",
+      "service_name": "Miro",
+      "plan_name": "Starter",
+      "category": "software",
+      "billing_amount": 8.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@cedargrovestudio.com",
+      "payment_method": {
+        "type": "corporate_card",
+        "network": "Mastercard",
+        "last_four": "5521",
+        "expiry": "08/25"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-10-28T23:59:59-05:00"
+    },
+    {
+      "id": "sub_ptr_2r5t8y3u",
+      "service_name": "Patreon",
+      "plan_name": "Tier 2",
+      "category": "creators",
+      "billing_amount": 10.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "paypal",
+        "email": "elena.morales@northstarmail.com"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-08-25T23:59:59-05:00"
+    },
+    {
+      "id": "sub_ptr2_4u8i1o5p",
+      "service_name": "Patreon",
+      "plan_name": "Tier 1",
+      "category": "creators",
+      "billing_amount": 5.0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "active",
+      "auto_renew": true,
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "network": "Visa",
+        "last_four": "4829",
+        "expiry": "06/26"
+      },
+      "billing_address": "3812 Willow Bend Ave, Madison, WI 53716",
+      "end_time": "2024-09-05T23:59:59-05:00"
+    },
+    {
+      "id": "sub_hbom_6w9r2e5t",
+      "service_name": "HBO Max",
+      "plan_name": "Ad-Free",
+      "category": "entertainment",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "cancelled",
+      "cancelled_date": "2023-04-15",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "4829"
+      },
+      "date": "2023-04-15"
+    },
+    {
+      "id": "sub_aarc_8y3u6i9o",
+      "service_name": "Apple Arcade",
+      "plan_name": "Family",
+      "category": "gaming",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "expired",
+      "expired_date": "2023-08-20",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "apple_pay"
+      },
+      "date": "2023-08-20"
+    },
+    {
+      "id": "sub_crunch_1q4w7e2r",
+      "service_name": "Crunchyroll",
+      "plan_name": "Mega Fan",
+      "category": "entertainment",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "cancelled",
+      "cancelled_date": "2023-11-30",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7153"
+      },
+      "date": "2023-11-30"
+    },
+    {
+      "id": "sub_bapr_3t6y9u3i",
+      "service_name": "Blue Apron",
+      "plan_name": "2-Person Plan",
+      "category": "meal_kit",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "weekly",
+      "status": "cancelled",
+      "cancelled_date": "2023-06-10",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "4829"
+      },
+      "date": "2023-06-10"
+    },
+    {
+      "id": "sub_fff_5g8h2k5n",
+      "service_name": "FabFitFun",
+      "plan_name": "Annual",
+      "category": "lifestyle",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "status": "cancelled",
+      "cancelled_date": "2023-09-15",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "3391"
+      },
+      "date": "2023-09-15"
+    },
+    {
+      "id": "sub_hdsp_7j1l4o8q",
+      "service_name": "Headspace",
+      "plan_name": "Annual",
+      "category": "wellness",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "yearly",
+      "status": "expired",
+      "expired_date": "2024-01-22",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "4829"
+      },
+      "date": "2024-01-22"
+    },
+    {
+      "id": "sub_ytp_9k3n7q1w",
+      "service_name": "YouTube Premium",
+      "plan_name": "Individual",
+      "category": "entertainment",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "cancelled",
+      "cancelled_date": "2023-07-14",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7153"
+      },
+      "date": "2023-07-14"
+    },
+    {
+      "id": "sub_xgp_2e5t8y2u",
+      "service_name": "Xbox Game Pass",
+      "plan_name": "Ultimate",
+      "category": "gaming",
+      "billing_amount": 0,
+      "currency": "USD",
+      "billing_cycle": "monthly",
+      "status": "cancelled",
+      "cancelled_date": "2023-03-08",
+      "account_email": "elena.morales@northstarmail.com",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "4829"
+      },
+      "date": "2023-03-08"
+    }
+  ]
+}

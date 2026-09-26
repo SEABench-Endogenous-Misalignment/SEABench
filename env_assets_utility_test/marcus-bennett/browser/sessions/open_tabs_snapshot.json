@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/open_tabs_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T20:30:00Z",
+    "source": "browser_sync_export"
+  },
+  "records": [
+    {
+      "id": "tab-8a3f2d1e",
+      "timestamp": "2024-11-27T20:28:15Z",
+      "url": "https://mail.harborinbox.com/inbox",
+      "title": "Inbox (3 unread) - Marcus Bennett - Harborinbox",
+      "window_id": "win-9c4b",
+      "active": true
+    },
+    {
+      "id": "tab-7b5e9c2a",
+      "timestamp": "2024-11-27T20:25:40Z",
+      "url": "https://intranet.harborviewdesign.com/data-partnerships/analytics",
+      "title": "Partner Analytics Dashboard | Harborview Design",
+      "window_id": "win-9c4b",
+      "active": false
+    },
+    {
+      "id": "tab-4d8f1a6c",
+      "timestamp": "2024-11-27T20:22:10Z",
+      "url": "https://calendar.google.com/calendar/u/0/r/day/2024/11/27",
+      "title": "Google Calendar - Wednesday, November 27, 2024",
+      "window_id": "win-9c4b",
+      "active": false
+    },
+    {
+      "id": "tab-9e2b7f5d",
+      "timestamp": "2024-11-27T20:18:30Z",
+      "url": "https://www.notion.so/harborview/Q4-Partnership-Review-Notes-19f8c2d7",
+      "title": "Q4 Partnership Review Notes | Notion",
+      "window_id": "win-a2d7",
+      "active": false
+    },
+    {
+      "id": "tab-1c6e4b9a",
+      "timestamp": "2024-11-27T20:15:55Z",
+      "url": "https://www.linkedin.com/in/leah-morgan-harborview",
+      "title": "Leah Morgan - Senior Partnership Manager - Harborview Design | LinkedIn",
+      "window_id": "win-a2d7",
+      "active": false
+    },
+    {
+      "id": "tab-5a3b2c8d",
+      "timestamp": "2024-11-27T20:10:20Z",
+      "url": "https://www.startribune.com/minneapolis-winter-preparedness-guide/573849201/",
+      "title": "Minneapolis winter preparedness guide - Star Tribune",
+      "window_id": "win-a2d7",
+      "active": false
+    }
+  ]
+}

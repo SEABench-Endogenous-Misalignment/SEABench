@@ -1,0 +1,363 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/interaction_edges_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T14:32:18Z",
+    "source": "contact_insights_export"
+  },
+  "records": [
+    {
+      "id": "e7a9c2d4f1b8",
+      "timestamp": "2024-05-20T18:45:00Z",
+      "contact_name": "Theo Harris",
+      "relationship_tier": "household",
+      "channel": "voice_call",
+      "duration_seconds": 1800,
+      "direction": "outbound",
+      "location_context": "home"
+    },
+    {
+      "id": "b3e5f7a1c9d2",
+      "timestamp": "2024-04-12T12:30:00Z",
+      "contact_name": "Theo Harris",
+      "relationship_tier": "household",
+      "channel": "in_person_meal",
+      "duration_seconds": 5400,
+      "direction": "bidirectional",
+      "location_context": "oakland_bistro"
+    },
+    {
+      "id": "d8f2a5c7e3b1",
+      "timestamp": "2023-11-03T21:15:00Z",
+      "contact_name": "Theo Harris",
+      "relationship_tier": "household",
+      "channel": "video_call",
+      "duration_seconds": 3600,
+      "direction": "bidirectional",
+      "location_context": "home"
+    },
+    {
+      "id": "a1c4e6d9f5b3",
+      "timestamp": "2023-08-22T07:45:00Z",
+      "contact_name": "Theo Harris",
+      "relationship_tier": "household",
+      "channel": "messaging",
+      "direction": "outbound",
+      "location_context": "home"
+    },
+    {
+      "id": "f9b2d5c8a3e1",
+      "timestamp": "2024-03-10T15:00:00Z",
+      "contact_name": "Nina Park",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_activity",
+      "duration_seconds": 7200,
+      "direction": "bidirectional",
+      "location_context": "downtown_cafe"
+    },
+    {
+      "id": "c6e3a9f2d7b5",
+      "timestamp": "2024-01-28T19:00:00Z",
+      "contact_name": "Nina Park",
+      "relationship_tier": "close_friend",
+      "channel": "voice_call",
+      "duration_seconds": 900,
+      "direction": "inbound",
+      "location_context": "mobile"
+    },
+    {
+      "id": "b5d8f1c3a7e9",
+      "timestamp": "2023-09-14T14:20:00Z",
+      "contact_name": "Nina Park",
+      "relationship_tier": "close_friend",
+      "channel": "messaging",
+      "direction": "bidirectional",
+      "location_context": "async"
+    },
+    {
+      "id": "e2a7c5d9f4b1",
+      "timestamp": "2023-07-05T11:00:00Z",
+      "contact_name": "Nina Park",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_activity",
+      "duration_seconds": 14400,
+      "direction": "bidirectional",
+      "location_context": "schenley_park"
+    },
+    {
+      "id": "d4f9b1c6e8a2",
+      "timestamp": "2024-02-14T20:00:00Z",
+      "contact_name": "Owen Reed",
+      "relationship_tier": "close_friend",
+      "channel": "video_call",
+      "duration_seconds": 1800,
+      "direction": "bidirectional",
+      "location_context": "remote"
+    },
+    {
+      "id": "a8e3c7d2f5b9",
+      "timestamp": "2023-12-20T18:30:00Z",
+      "contact_name": "Owen Reed",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_meal",
+      "duration_seconds": 10800,
+      "direction": "bidirectional",
+      "location_context": "home"
+    },
+    {
+      "id": "f5b1d9c4a7e3",
+      "timestamp": "2023-10-10T13:00:00Z",
+      "contact_name": "Owen Reed",
+      "relationship_tier": "close_friend",
+      "channel": "email",
+      "direction": "outbound",
+      "location_context": "async"
+    },
+    {
+      "id": "c9a6f3e1d8b5",
+      "timestamp": "2023-07-22T16:45:00Z",
+      "contact_name": "Owen Reed",
+      "relationship_tier": "close_friend",
+      "channel": "voice_call",
+      "duration_seconds": 600,
+      "direction": "outbound",
+      "location_context": "mobile"
+    },
+    {
+      "id": "b7e2d5c9f3a1",
+      "timestamp": "2024-06-01T10:00:00Z",
+      "contact_name": "Priya Shah",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_meal",
+      "duration_seconds": 9000,
+      "direction": "bidirectional",
+      "location_context": "lawrenceville_cafe"
+    },
+    {
+      "id": "e1c8a4d6f9b2",
+      "timestamp": "2024-03-22T19:30:00Z",
+      "contact_name": "Priya Shah",
+      "relationship_tier": "close_friend",
+      "channel": "voice_call",
+      "duration_seconds": 1200,
+      "direction": "inbound",
+      "location_context": "mobile"
+    },
+    {
+      "id": "d3f7b9c2a5e8",
+      "timestamp": "2023-11-18T14:00:00Z",
+      "contact_name": "Priya Shah",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_activity",
+      "duration_seconds": 7200,
+      "direction": "bidirectional",
+      "location_context": "community_center"
+    },
+    {
+      "id": "a5e1c9d4f7b3",
+      "timestamp": "2023-09-02T11:15:00Z",
+      "contact_name": "Priya Shah",
+      "relationship_tier": "close_friend",
+      "channel": "messaging",
+      "direction": "bidirectional",
+      "location_context": "async"
+    },
+    {
+      "id": "f8b3d6c1a9e5",
+      "timestamp": "2024-04-05T17:00:00Z",
+      "contact_name": "Malik Brooks",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_activity",
+      "duration_seconds": 5400,
+      "direction": "bidirectional",
+      "location_context": "fitness_center"
+    },
+    {
+      "id": "c4a7e2d9f3b1",
+      "timestamp": "2024-01-10T12:00:00Z",
+      "contact_name": "Malik Brooks",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_meal",
+      "duration_seconds": 4500,
+      "direction": "bidirectional",
+      "location_context": "food_court"
+    },
+    {
+      "id": "e9b5c3a8f2d6",
+      "timestamp": "2023-08-30T20:00:00Z",
+      "contact_name": "Malik Brooks",
+      "relationship_tier": "close_friend",
+      "channel": "voice_call",
+      "duration_seconds": 300,
+      "direction": "outbound",
+      "location_context": "mobile"
+    },
+    {
+      "id": "b2f8a1d5c7e4",
+      "timestamp": "2023-06-18T15:30:00Z",
+      "contact_name": "Malik Brooks",
+      "relationship_tier": "close_friend",
+      "channel": "in_person_activity",
+      "duration_seconds": 7200,
+      "direction": "bidirectional",
+      "location_context": "outdoor_courts"
+    },
+    {
+      "id": "d7c2f9b4a1e6",
+      "timestamp": "2024-05-15T09:00:00Z",
+      "contact_name": "Leah Morgan",
+      "relationship_tier": "work_colleague",
+      "channel": "meeting",
+      "duration_seconds": 3600,
+      "direction": "bidirectional",
+      "location_context": "conference_room_b"
+    },
+    {
+      "id": "a3e7c5d1f9b8",
+      "timestamp": "2024-02-28T14:00:00Z",
+      "contact_name": "Leah Morgan",
+      "relationship_tier": "work_colleague",
+      "channel": "messaging_work",
+      "direction": "bidirectional",
+      "location_context": "async"
+    },
+    {
+      "id": "f1b9d4c8a6e3",
+      "timestamp": "2023-12-05T10:30:00Z",
+      "contact_name": "Leah Morgan",
+      "relationship_tier": "work_colleague",
+      "channel": "video_call",
+      "duration_seconds": 1800,
+      "direction": "bidirectional",
+      "location_context": "remote"
+    },
+    {
+      "id": "c5a2e8d4f7b1",
+      "timestamp": "2023-09-20T16:00:00Z",
+      "contact_name": "Leah Morgan",
+      "relationship_tier": "work_colleague",
+      "channel": "email",
+      "direction": "outbound",
+      "location_context": "async"
+    },
+    {
+      "id": "e6b3c9f2a8d5",
+      "timestamp": "2024-06-10T11:00:00Z",
+      "contact_name": "Calvin Price",
+      "relationship_tier": "work_colleague",
+      "channel": "one_on_one",
+      "duration_seconds": 3600,
+      "direction": "bidirectional",
+      "location_context": "office"
+    },
+    {
+      "id": "b9d1f5c7a3e4",
+      "timestamp": "2024-03-05T09:30:00Z",
+      "contact_name": "Calvin Price",
+      "relationship_tier": "work_colleague",
+      "channel": "video_call",
+      "duration_seconds": 900,
+      "direction": "bidirectional",
+      "location_context": "remote"
+    },
+    {
+      "id": "f4a8e3d6c1b9",
+      "timestamp": "2023-11-12T13:00:00Z",
+      "contact_name": "Calvin Price",
+      "relationship_tier": "work_colleague",
+      "channel": "in_person_meal",
+      "duration_seconds": 3600,
+      "direction": "bidirectional",
+      "location_context": "cafeteria"
+    },
+    {
+      "id": "a7c5f2e9d4b1",
+      "timestamp": "2023-08-08T15:00:00Z",
+      "contact_name": "Calvin Price",
+      "relationship_tier": "work_colleague",
+      "channel": "email",
+      "direction": "bidirectional",
+      "location_context": "async"
+    },
+    {
+      "id": "d2b7f1c9a5e8",
+      "timestamp": "2024-04-18T13:00:00Z",
+      "contact_name": "Iris Romero",
+      "relationship_tier": "work_colleague",
+      "channel": "video_call",
+      "duration_seconds": 1800,
+      "direction": "bidirectional",
+      "location_context": "remote"
+    },
+    {
+      "id": "e8a1d6c4f3b7",
+      "timestamp": "2024-01-22T10:00:00Z",
+      "contact_name": "Iris Romero",
+      "relationship_tier": "work_colleague",
+      "channel": "in_person_work",
+      "duration_seconds": 10800,
+      "direction": "bidirectional",
+      "location_context": "workspace_area"
+    },
+    {
+      "id": "c3f9b5e2a7d4",
+      "timestamp": "2023-10-30T11:00:00Z",
+      "contact_name": "Iris Romero",
+      "relationship_tier": "work_colleague",
+      "channel": "voice_call",
+      "duration_seconds": 300,
+      "direction": "outbound",
+      "location_context": "mobile"
+    },
+    {
+      "id": "b1e4d8c6f9a2",
+      "timestamp": "2023-07-14T14:30:00Z",
+      "contact_name": "Iris Romero",
+      "relationship_tier": "work_colleague",
+      "channel": "email",
+      "direction": "inbound",
+      "location_context": "async"
+    },
+    {
+      "id": "f7c3a9e5d2b8",
+      "timestamp": "2024-05-02T09:00:00Z",
+      "contact_name": "Grace Lin",
+      "relationship_tier": "work_colleague",
+      "channel": "meeting",
+      "duration_seconds": 7200,
+      "direction": "bidirectional",
+      "location_context": "main_conference_room"
+    },
+    {
+      "id": "a9e2d7c1f6b4",
+      "timestamp": "2024-01-05T15:00:00Z",
+      "contact_name": "Grace Lin",
+      "relationship_tier": "work_colleague",
+      "channel": "messaging_work",
+      "direction": "bidirectional",
+      "location_context": "async"
+    },
+    {
+      "id": "d5b8f3c9a1e7",
+      "timestamp": "2023-10-15T11:00:00Z",
+      "contact_name": "Grace Lin",
+      "relationship_tier": "work_colleague",
+      "channel": "video_call",
+      "duration_seconds": 2400,
+      "direction": "bidirectional",
+      "location_context": "remote"
+    },
+    {
+      "id": "e3c6a2f8d4b9",
+      "timestamp": "2023-06-25T10:00:00Z",
+      "contact_name": "Grace Lin",
+      "relationship_tier": "work_colleague",
+      "channel": "one_on_one",
+      "duration_seconds": 3600,
+      "direction": "bidirectional",
+      "location_context": "office"
+    }
+  ]
+}

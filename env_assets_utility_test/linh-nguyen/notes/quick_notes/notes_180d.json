@@ -1,0 +1,292 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/quick_notes/notes_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T22:15:00Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "nt-20240528-a3f9",
+      "timestamp": "2024-05-28T09:15:00-06:00",
+      "content": "Pick up almond milk and sourdough starter for Leah",
+      "tags": [
+        "shopping",
+        "home"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240605-b7e2",
+      "timestamp": "2024-06-05T14:30:00-06:00",
+      "content": "Iris feedback on Q3 report: add more granular cohort data",
+      "tags": [
+        "work",
+        "feedback"
+      ],
+      "source_device": "desktop"
+    },
+    {
+      "id": "nt-20240612-c5d1",
+      "timestamp": "2024-06-12T07:45:00-06:00",
+      "content": "Weekend hike with Malik and Owen - check trail status at Golden Gate Canyon",
+      "tags": [
+        "personal",
+        "outdoors"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240620-d8a4",
+      "timestamp": "2024-06-20T16:20:00-06:00",
+      "content": "Book rec from Priya: 'The Anthropocene Reviewed' by John Green",
+      "tags": [
+        "reading",
+        "recommendations"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240703-e2b7",
+      "timestamp": "2024-07-03T12:10:00-06:00",
+      "content": "Nina suggested restaurant in RiNo called 'The Wolf's Tail' - try the tasting menu",
+      "tags": [
+        "food",
+        "social"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240715-f9c3",
+      "timestamp": "2024-07-15T10:00:00-06:00",
+      "content": "HVAC filter size: 16x25x4, pick up at McGuckin Hardware",
+      "tags": [
+        "home",
+        "maintenance"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240722-g1d6",
+      "timestamp": "2024-07-22T08:45:00-06:00",
+      "content": "Brightline all-hands prep questions: ask about Q4 remote work policy updates",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "source_device": "desktop"
+    },
+    {
+      "id": "nt-20240801-h4j8",
+      "timestamp": "2024-08-01T11:30:00-06:00",
+      "content": "Dentist appointment scheduled Dr. Ramirez Sept 15th 10am, confirm insurance",
+      "tags": [
+        "health",
+        "appointments"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240810-i2k5",
+      "timestamp": "2024-08-10T15:00:00-06:00",
+      "content": "Birthday gift idea for Leah: pottery class at Blue Sparrow Studio on Tennyson",
+      "tags": [
+        "gifts",
+        "planning"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240818-j9m2",
+      "timestamp": "2024-08-18T09:20:00-06:00",
+      "content": "Grace Lin new contact: 720-334-8921, update in work directory",
+      "tags": [
+        "work",
+        "contacts"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240825-k3n7",
+      "timestamp": "2024-08-25T13:45:00-06:00",
+      "content": "Research ops maturity model article: nngroup.com/articles/research-ops-framework/",
+      "tags": [
+        "work",
+        "resources"
+      ],
+      "source_device": "desktop"
+    },
+    {
+      "id": "nt-20240902-l5p1",
+      "timestamp": "2024-09-02T18:30:00-06:00",
+      "content": "Home wifi hint: standard phrase + house number, updated last Tuesday",
+      "tags": [
+        "home",
+        "tech"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240908-m8q4",
+      "timestamp": "2024-09-08T10:15:00-06:00",
+      "content": "Call mom about Thanksgiving travel plans - check if she needs airport pickup",
+      "tags": [
+        "family",
+        "travel"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240915-n1r9",
+      "timestamp": "2024-09-15T14:00:00-06:00",
+      "content": "Need new running shoes: Brooks Ghost, size 8.5, check Running Company on 17th",
+      "tags": [
+        "shopping",
+        "fitness"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20240922-o6s3",
+      "timestamp": "2024-09-22T11:00:00-06:00",
+      "content": "Check flights to Portland for December - Alaska Air has direct from DIA",
+      "tags": [
+        "travel",
+        "planning"
+      ],
+      "source_device": "tablet"
+    },
+    {
+      "id": "nt-20241001-p2t8",
+      "timestamp": "2024-10-01T19:45:00-06:00",
+      "content": "Leah's butternut squash soup modifications: add fresh ginger next time",
+      "tags": [
+        "cooking",
+        "home"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241008-q9u2",
+      "timestamp": "2024-10-08T16:30:00-06:00",
+      "content": "Q1 2025 budget draft notes: emphasize user research tools and participant incentives",
+      "tags": [
+        "work",
+        "budget"
+      ],
+      "source_device": "desktop"
+    },
+    {
+      "id": "nt-20241015-r4v7",
+      "timestamp": "2024-10-15T08:00:00-06:00",
+      "content": "Plant watering schedule: Monstera Tuesdays, Pothos Fridays, cactus monthly",
+      "tags": [
+        "home",
+        "plants"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241022-s1w5",
+      "timestamp": "2024-10-22T12:20:00-06:00",
+      "content": "Neighborhood composting program: contact arena district admin about drop-off locations",
+      "tags": [
+        "home",
+        "community"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241029-t8x3",
+      "timestamp": "2024-10-29T09:10:00-06:00",
+      "content": "DMV renewal due Oct 2024, plate TJK-8472, check if smog required",
+      "tags": [
+        "admin",
+        "vehicle"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241103-u5y9",
+      "timestamp": "2024-11-03T10:30:00-07:00",
+      "content": "Meeting notes with Calvin: Vendor A vs B analysis, recommend A for support quality",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "source_device": "laptop"
+    },
+    {
+      "id": "nt-20241105-v2z1",
+      "timestamp": "2024-11-05T07:15:00-07:00",
+      "content": "Yoga schedule: MWF 6pm at CorePower on 32nd Ave, bring own mat",
+      "tags": [
+        "fitness",
+        "schedule"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241110-w7a4",
+      "timestamp": "2024-11-10T15:30:00-07:00",
+      "content": "Backup WD Passport drive to safe deposit box at First National, update contents list",
+      "tags": [
+        "tech",
+        "security"
+      ],
+      "source_device": "desktop"
+    },
+    {
+      "id": "nt-20241112-x4b8",
+      "timestamp": "2024-11-12T11:00:00-07:00",
+      "content": "IRA contribution limit for 2024: confirm $7,000 limit before Dec 31",
+      "tags": [
+        "finance",
+        "retirement"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241115-y9c2",
+      "timestamp": "2024-11-15T16:45:00-07:00",
+      "content": "Garage door making noise - call Apex Doors 303-455-9823 for service",
+      "tags": [
+        "home",
+        "maintenance"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241118-z1d6",
+      "timestamp": "2024-11-18T08:30:00-07:00",
+      "content": "Research ops framework draft: map current tooling against maturity levels",
+      "tags": [
+        "work",
+        "strategy"
+      ],
+      "source_device": "desktop"
+    },
+    {
+      "id": "nt-20241120-a8e3",
+      "timestamp": "2024-11-20T17:00:00-07:00",
+      "content": "Dinner with Priya and Jordan Friday 7pm at Mercantile, reservations confirmed",
+      "tags": [
+        "social",
+        "food"
+      ],
+      "source_device": "mobile"
+    },
+    {
+      "id": "nt-20241125-b5f7",
+      "timestamp": "2024-11-25T09:45:00-07:00",
+      "content": "Pick up prescription at Walgreens on Colfax, order number ready",
+      "tags": [
+        "health",
+        "errands"
+      ],
+      "source_device": "mobile"
+    }
+  ]
+}

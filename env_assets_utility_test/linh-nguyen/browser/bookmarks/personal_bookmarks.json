@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/personal_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "browser_sync_export"
+  },
+  "records": [
+    {
+      "id": "bm_8f3d29a1e7c4",
+      "title": "Brightline API Documentation",
+      "url": "https://docs.brightlinesystems.com/api/v2/reference",
+      "folder": "Work/Engineering",
+      "timestamp": "2024-11-15T09:23:00-07:00",
+      "tags": [
+        "api",
+        "reference"
+      ]
+    },
+    {
+      "id": "bm_9c4e18b2d5a3",
+      "title": "Riverbend Mail - Inbox",
+      "url": "https://mail.riverbendmail.com/u/linh.nguyen/inbox",
+      "folder": "Personal/Communication",
+      "timestamp": "2024-11-20T18:45:00-07:00",
+      "tags": [
+        "email",
+        "daily"
+      ]
+    },
+    {
+      "id": "bm_7a2f45c3b8e9",
+      "title": "Meadow Creek Kitchen - Vegetarian Weekly Menu",
+      "url": "https://meadowcreekkitchen.com/weekly-menu/vegetarian-fall-2024",
+      "folder": "Personal/Recipes",
+      "timestamp": "2024-11-22T12:10:00-07:00",
+      "tags": [
+        "cooking",
+        "meal-planning"
+      ]
+    },
+    {
+      "id": "bm_6b1e34d4f7c2",
+      "title": "Front Range Trail Conditions | Colorado Hiking Guide",
+      "url": "https://frontrangehiking.co/trail-conditions",
+      "folder": "Personal/Outdoors",
+      "timestamp": "2024-11-10T07:15:00-07:00",
+      "tags": [
+        "hiking",
+        "denver",
+        "weekend"
+      ]
+    },
+    {
+      "id": "bm_5d0c23e5a6b1",
+      "title": "Modern Habitat Denver - Mid-Century Furniture",
+      "url": "https://modernhabitatdenver.com/collections/living-room",
+      "folder": "Personal/Shopping",
+      "timestamp": "2024-11-25T20:30:00-07:00",
+      "tags": [
+        "furniture",
+        "home"
+      ]
+    },
+    {
+      "id": "bm_4e9b12f6c5a0",
+      "title": "Alpine Credit Union - Account Summary",
+      "url": "https://online.alpinecreditcoop.org/accounts/summary",
+      "folder": "Personal/Finance",
+      "timestamp": "2024-11-26T14:20:00-07:00",
+      "tags": [
+        "banking",
+        "bills"
+      ]
+    }
+  ]
+}

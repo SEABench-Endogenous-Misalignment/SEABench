@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/household_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-28T14:30:00Z",
+    "source": "household_admin_sync"
+  },
+  "records": [
+    {
+      "id": "residency-primary-001",
+      "address_line_1": "7520 Laurel Creek Court",
+      "city": "Minneapolis",
+      "state": "MN",
+      "postal_code": "55497",
+      "country": "US",
+      "residence_type": "rented_single_family",
+      "date": "2023-06-01",
+      "end_time": "2025-05-31",
+      "monthly_rent": 2450
+    },
+    {
+      "id": "member-marcus-primary",
+      "relationship": "primary_tenant",
+      "full_name": "Marcus Bennett",
+      "email": "marcus.bennett@harborinbox.com",
+      "mobile_phone": "+1-612-572-3749",
+      "date": "1988-03-15",
+      "added_to_household": "2023-06-01"
+    },
+    {
+      "id": "member-nina-spouse",
+      "relationship": "spouse",
+      "full_name": "Nina Park",
+      "email": "nina.park@riverbendmail.com",
+      "mobile_phone": "+1-612-756-6565",
+      "date": "1990-07-22",
+      "added_to_household": "2019-08-20"
+    },
+    {
+      "id": "emergency-contact-owen",
+      "contact_type": "emergency_contact",
+      "full_name": "Owen Reed",
+      "relationship": "friend",
+      "phone": "+1-651-489-2736",
+      "email": "owen.reed@northerndev.io",
+      "date": "2024-09-15"
+    },
+    {
+      "id": "insurance-home-policy",
+      "policy_type": "homeowners_insurance",
+      "provider": "North Star Mutual",
+      "policy_number": "HOM-774829-MSP",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "coverage_amount": 425000,
+      "deductible": 1000
+    },
+    {
+      "id": "utility-lakeside-energy",
+      "utility_type": "electric_gas",
+      "provider_name": "Lakeside Energy Cooperative",
+      "account_number": "48291837209",
+      "service_address": "7520 Laurel Creek Court, Minneapolis, MN 55497",
+      "date": "2023-06-01",
+      "last_bill_date": "2024-11-15"
+    }
+  ]
+}

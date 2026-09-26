@@ -1,0 +1,438 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/inbox_tasks_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-03-15T18:42:13Z",
+    "source": "todo_app_export"
+  },
+  "records": [
+    {
+      "id": "tsk-7a8f9e2d",
+      "title": "Review Q4 research protocols with Platform Design",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-09-15T09:00:00Z",
+      "date": "2024-09-20",
+      "category": "work",
+      "tags": [
+        "quarterly-review",
+        "research-ops"
+      ],
+      "notes": "Finalize documentation for Leah Morgan"
+    },
+    {
+      "id": "tsk-3b2c1d4e",
+      "title": "Schedule dentist appointment - North Raleigh Dental",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-09-18T14:30:00Z",
+      "date": "2024-10-02",
+      "category": "personal",
+      "tags": [
+        "health",
+        "admin"
+      ],
+      "notes": "Check insurance coverage beforehand"
+    },
+    {
+      "id": "tsk-9f8e7d6c",
+      "title": "Fix leaky faucet in guest bathroom with Nina",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-09-20T18:00:00Z",
+      "date": "2024-09-22",
+      "category": "household",
+      "tags": [
+        "maintenance",
+        "weekend-project"
+      ],
+      "assigned_to": "Nina Park"
+    },
+    {
+      "id": "tsk-1a2b3c4d",
+      "title": "Sync with Leah Morgan on platform migration timeline",
+      "status": "in_progress",
+      "priority": "high",
+      "timestamp": "2024-10-01T10:00:00Z",
+      "date": "2024-10-15",
+      "category": "work",
+      "tags": [
+        "migration",
+        "sync",
+        "brightline"
+      ],
+      "notes": "Block 90 minutes for technical discussion"
+    },
+    {
+      "id": "tsk-5e6f7a8b",
+      "title": "Plan hiking trip with Owen and Malik",
+      "status": "pending",
+      "priority": "low",
+      "timestamp": "2024-10-05T11:00:00Z",
+      "date": "2024-11-10",
+      "category": "social",
+      "tags": [
+        "outdoors",
+        "weekend",
+        "umstead-park"
+      ],
+      "assigned_to": "Elena Morales"
+    },
+    {
+      "id": "tsk-2c3d4e5f",
+      "title": "Renew car registration - NC DMV",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-10-12T09:15:00Z",
+      "date": "2024-10-30",
+      "category": "personal",
+      "tags": [
+        "admin",
+        "vehicle",
+        "deadline"
+      ],
+      "notes": "Expires end of month"
+    },
+    {
+      "id": "tsk-8g9h0i1j",
+      "title": "Prepare budget estimate for Calvin Price",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-10-15T13:45:00Z",
+      "date": "2024-10-18",
+      "category": "work",
+      "tags": [
+        "budget",
+        "q4",
+        "finance"
+      ],
+      "notes": "Include contractor costs for research tools"
+    },
+    {
+      "id": "tsk-4k5l6m7n",
+      "title": "Grocery shopping for dinner party",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-10-20T16:00:00Z",
+      "date": "2024-10-25",
+      "category": "household",
+      "tags": [
+        "shopping",
+        "event",
+        "catering"
+      ],
+      "notes": "Menu: risotto, roast vegetables, tiramisu"
+    },
+    {
+      "id": "tsk-0o1p2q3r",
+      "title": "Order birthday gift for Priya Shah",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-10-22T20:00:00Z",
+      "date": "2024-11-05",
+      "category": "personal",
+      "tags": [
+        "gift",
+        "birthday",
+        "shopping"
+      ],
+      "notes": "Ceramic studio membership or book voucher"
+    },
+    {
+      "id": "tsk-6s7t8u9v",
+      "title": "Interview candidates for research ops role",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-11-01T09:00:00Z",
+      "date": "2024-11-08",
+      "category": "work",
+      "tags": [
+        "hiring",
+        "interview",
+        "hr"
+      ],
+      "notes": "Panel with Grace Lin and Iris Romero"
+    },
+    {
+      "id": "tsk-1w2x3y4z",
+      "title": "Coffee catch-up with Elena Vega",
+      "status": "completed",
+      "priority": "low",
+      "timestamp": "2024-11-10T10:30:00Z",
+      "start_time": "2024-11-15T14:00:00Z",
+      "end_time": "2024-11-15T15:00:00Z",
+      "category": "social",
+      "tags": [
+        "coffee",
+        "downtown",
+        "catch-up"
+      ],
+      "location": "Jubala Village Coffee, Raleigh"
+    },
+    {
+      "id": "tsk-9a0b1c2d",
+      "title": "Service HVAC system before winter",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-11-12T08:00:00Z",
+      "date": "2024-11-20",
+      "category": "household",
+      "tags": [
+        "maintenance",
+        "hvac",
+        "winter-prep"
+      ],
+      "notes": "Contact Apex Air. 5874 Laurel Creek Road."
+    },
+    {
+      "id": "tsk-3e4f5g6h",
+      "title": "Document API workflows for Iris Romero",
+      "status": "pending",
+      "priority": "medium",
+      "timestamp": "2024-11-15T11:00:00Z",
+      "date": "2024-12-05",
+      "category": "work",
+      "tags": [
+        "documentation",
+        "api",
+        "handoff"
+      ],
+      "notes": "Focus on authentication and rate limiting sections"
+    },
+    {
+      "id": "tsk-7i8j9k0l",
+      "title": "File expense reports for October travel",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-11-20T14:00:00Z",
+      "date": "2024-11-22",
+      "category": "personal",
+      "tags": [
+        "expenses",
+        "finance",
+        "reimbursement"
+      ],
+      "notes": "Attach receipts from Durham conference"
+    },
+    {
+      "id": "tsk-2m3n4o5p",
+      "title": "Quarterly review meeting with Grace Lin",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-12-01T09:00:00Z",
+      "date": "2024-12-03",
+      "category": "work",
+      "tags": [
+        "review",
+        "1:1",
+        "career"
+      ],
+      "notes": "Discuss promotion timeline and research goals"
+    },
+    {
+      "id": "tsk-8q9r0s1t",
+      "title": "Plan holiday travel with Nina",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-12-05T19:00:00Z",
+      "date": "2024-12-20",
+      "category": "household",
+      "tags": [
+        "travel",
+        "holidays",
+        "family"
+      ],
+      "notes": "Book flights to Chicago. Check pet sitting options."
+    },
+    {
+      "id": "tsk-4u5v6w7x",
+      "title": "Host game night - invite Owen, Priya, Malik",
+      "status": "completed",
+      "priority": "low",
+      "timestamp": "2024-12-10T17:00:00Z",
+      "date": "2024-12-18",
+      "start_time": "2024-12-18T19:00:00Z",
+      "end_time": "2024-12-18T23:00:00Z",
+      "category": "social",
+      "tags": [
+        "hosting",
+        "games",
+        "boardgames"
+      ],
+      "location": "Home - 5874 Laurel Creek Road"
+    },
+    {
+      "id": "tsk-0y1z2a3b",
+      "title": "Annual physical checkup",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2024-12-15T08:30:00Z",
+      "date": "2025-01-10",
+      "category": "personal",
+      "tags": [
+        "health",
+        "annual",
+        "checkup"
+      ],
+      "notes": "Duke Primary Care. Fast for bloodwork."
+    },
+    {
+      "id": "tsk-5c6d7e8f",
+      "title": "Update research data retention policies",
+      "status": "in_progress",
+      "priority": "high",
+      "timestamp": "2025-01-05T10:00:00Z",
+      "date": "2025-01-30",
+      "category": "work",
+      "tags": [
+        "policy",
+        "compliance",
+        "data"
+      ],
+      "notes": "Align with new Brightline security standards"
+    },
+    {
+      "id": "tsk-9g0h1i2j",
+      "title": "Organize garage storage units",
+      "status": "pending",
+      "priority": "low",
+      "timestamp": "2025-01-10T13:00:00Z",
+      "date": "2025-02-15",
+      "category": "household",
+      "tags": [
+        "organization",
+        "garage",
+        "spring-cleaning"
+      ],
+      "notes": "Buy shelving units from Home Depot"
+    },
+    {
+      "id": "tsk-3k4l5m6n",
+      "title": "Dinner reservation for anniversary with Nina",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2025-01-15T11:00:00Z",
+      "date": "2025-02-14",
+      "start_time": "2025-02-14T19:00:00Z",
+      "end_time": "2025-02-14T21:00:00Z",
+      "category": "social",
+      "tags": [
+        "anniversary",
+        "dinner",
+        "reservation"
+      ],
+      "location": "Crawford and Son, Raleigh"
+    },
+    {
+      "id": "tsk-7o8p9q0r",
+      "title": "Submit tax documents to accountant",
+      "status": "pending",
+      "priority": "high",
+      "timestamp": "2025-02-01T09:00:00Z",
+      "date": "2025-03-15",
+      "category": "personal",
+      "tags": [
+        "taxes",
+        "finance",
+        "deadline"
+      ],
+      "notes": "Include W2s, 1099s, and rental property docs"
+    },
+    {
+      "id": "tsk-1s2t3u4v",
+      "title": "Onboard new research ops team member",
+      "status": "completed",
+      "priority": "high",
+      "timestamp": "2025-02-10T08:00:00Z",
+      "date": "2025-02-12",
+      "category": "work",
+      "tags": [
+        "onboarding",
+        "training",
+        "hr"
+      ],
+      "notes": "Schedule orientation with Calvin Price and IT"
+    },
+    {
+      "id": "tsk-5w6x7y8z",
+      "title": "Deep clean kitchen appliances",
+      "status": "pending",
+      "priority": "medium",
+      "timestamp": "2025-02-18T16:00:00Z",
+      "date": "2025-03-01",
+      "category": "household",
+      "tags": [
+        "cleaning",
+        "kitchen",
+        "maintenance"
+      ],
+      "notes": "Oven, refrigerator coils, dishwasher filter"
+    },
+    {
+      "id": "tsk-9a0b1c2d",
+      "title": "Concert tickets for Owen's band performance",
+      "status": "completed",
+      "priority": "low",
+      "timestamp": "2025-02-20T12:00:00Z",
+      "date": "2025-03-10",
+      "start_time": "2025-03-10T20:00:00Z",
+      "end_time": "2025-03-10T23:00:00Z",
+      "category": "social",
+      "tags": [
+        "concert",
+        "tickets",
+        "local-music"
+      ],
+      "notes": "Buy 4 tickets. Venue: Kings Raleigh"
+    },
+    {
+      "id": "tsk-3e4f5g6h",
+      "title": "Update home insurance policy",
+      "status": "pending",
+      "priority": "medium",
+      "timestamp": "2025-03-01T10:00:00Z",
+      "date": "2025-03-20",
+      "category": "personal",
+      "tags": [
+        "insurance",
+        "policy",
+        "home"
+      ],
+      "notes": "Compare rates with Nina. Current: NC Farm Bureau"
+    },
+    {
+      "id": "tsk-7i8j9k0l",
+      "title": "Finalize Q1 research metrics dashboard",
+      "status": "in_progress",
+      "priority": "high",
+      "timestamp": "2025-03-05T14:00:00Z",
+      "date": "2025-03-25",
+      "category": "work",
+      "tags": [
+        "metrics",
+        "dashboard",
+        "q1",
+        "reporting"
+      ],
+      "notes": "Present to leadership team on 26th"
+    },
+    {
+      "id": "tsk-1m2n3o4p",
+      "title": "Plant spring garden beds with Nina",
+      "status": "pending",
+      "priority": "low",
+      "timestamp": "2025-03-10T09:00:00Z",
+      "date": "2025-04-05",
+      "category": "household",
+      "tags": [
+        "garden",
+        "spring",
+        "outdoors",
+        "weekend"
+      ],
+      "notes": "Tomatoes, peppers, herbs. Check soil pH first"
+    }
+  ]
+}

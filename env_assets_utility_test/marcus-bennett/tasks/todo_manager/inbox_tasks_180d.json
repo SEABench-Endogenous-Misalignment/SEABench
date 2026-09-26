@@ -1,0 +1,320 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/inbox_tasks_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-05-03T04:30:00Z",
+    "source": "task_manager_export"
+  },
+  "records": [
+    {
+      "id": "inbox-marcus-001",
+      "timestamp": "2026-01-02T09:30:00-05:00",
+      "task_title": "Upload revised client journey notes",
+      "source": "work_chat",
+      "priority": "high",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Leah Morgan",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-002",
+      "timestamp": "2026-04-07T10:30:00-05:00",
+      "task_title": "Confirm dentist appointment time",
+      "source": "health_portal",
+      "priority": "medium",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-003",
+      "timestamp": "2026-01-12T11:30:00-05:00",
+      "task_title": "Send rent autopay confirmation",
+      "source": "email",
+      "priority": "medium",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-004",
+      "timestamp": "2026-04-17T12:30:00-05:00",
+      "task_title": "Review vendor security questionnaire",
+      "source": "project_tracker",
+      "priority": "high",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Grace Lin",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-005",
+      "timestamp": "2026-01-22T13:30:00-05:00",
+      "task_title": "Add grocery staples to weekend order",
+      "source": "shopping_app",
+      "priority": "low",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-006",
+      "timestamp": "2026-04-02T14:30:00-05:00",
+      "task_title": "Book train tickets for July workshop",
+      "source": "travel_app",
+      "priority": "medium",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-007",
+      "timestamp": "2026-01-07T15:30:00-05:00",
+      "task_title": "Archive old design exports",
+      "source": "desktop_reminder",
+      "priority": "low",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-008",
+      "timestamp": "2026-04-12T16:30:00-05:00",
+      "task_title": "Upload revised client journey notes",
+      "source": "work_chat",
+      "priority": "high",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Grace Lin",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-009",
+      "timestamp": "2026-01-17T09:30:00-05:00",
+      "task_title": "Confirm dentist appointment time",
+      "source": "health_portal",
+      "priority": "medium",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-010",
+      "timestamp": "2026-04-22T10:30:00-05:00",
+      "task_title": "Send rent autopay confirmation",
+      "source": "email",
+      "priority": "medium",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-011",
+      "timestamp": "2026-01-02T11:30:00-05:00",
+      "task_title": "Review vendor security questionnaire",
+      "source": "project_tracker",
+      "priority": "high",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Iris Romero",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-012",
+      "timestamp": "2026-04-07T12:30:00-05:00",
+      "task_title": "Add grocery staples to weekend order",
+      "source": "shopping_app",
+      "priority": "low",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-013",
+      "timestamp": "2026-01-12T13:30:00-05:00",
+      "task_title": "Book train tickets for July workshop",
+      "source": "travel_app",
+      "priority": "medium",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-014",
+      "timestamp": "2026-04-17T14:30:00-05:00",
+      "task_title": "Archive old design exports",
+      "source": "desktop_reminder",
+      "priority": "low",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-015",
+      "timestamp": "2026-01-22T15:30:00-05:00",
+      "task_title": "Upload revised client journey notes",
+      "source": "work_chat",
+      "priority": "high",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Iris Romero",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-016",
+      "timestamp": "2026-04-02T16:30:00-05:00",
+      "task_title": "Confirm dentist appointment time",
+      "source": "health_portal",
+      "priority": "medium",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-017",
+      "timestamp": "2026-01-07T09:30:00-05:00",
+      "task_title": "Send rent autopay confirmation",
+      "source": "email",
+      "priority": "medium",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-018",
+      "timestamp": "2026-04-12T10:30:00-05:00",
+      "task_title": "Review vendor security questionnaire",
+      "source": "project_tracker",
+      "priority": "high",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Calvin Price",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-019",
+      "timestamp": "2026-01-17T11:30:00-05:00",
+      "task_title": "Add grocery staples to weekend order",
+      "source": "shopping_app",
+      "priority": "low",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-020",
+      "timestamp": "2026-04-22T12:30:00-05:00",
+      "task_title": "Book train tickets for July workshop",
+      "source": "travel_app",
+      "priority": "medium",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-021",
+      "timestamp": "2026-01-02T13:30:00-05:00",
+      "task_title": "Archive old design exports",
+      "source": "desktop_reminder",
+      "priority": "low",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-022",
+      "timestamp": "2026-04-07T14:30:00-05:00",
+      "task_title": "Upload revised client journey notes",
+      "source": "work_chat",
+      "priority": "high",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Calvin Price",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-023",
+      "timestamp": "2026-01-12T15:30:00-05:00",
+      "task_title": "Confirm dentist appointment time",
+      "source": "health_portal",
+      "priority": "medium",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-024",
+      "timestamp": "2026-04-17T16:30:00-05:00",
+      "task_title": "Send rent autopay confirmation",
+      "source": "email",
+      "priority": "medium",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-025",
+      "timestamp": "2026-01-22T09:30:00-05:00",
+      "task_title": "Review vendor security questionnaire",
+      "source": "project_tracker",
+      "priority": "high",
+      "status": "needs_triage",
+      "owner_email": "marcus.bennett@harborviewdesign.com",
+      "related_person": "Leah Morgan",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-026",
+      "timestamp": "2026-04-02T10:30:00-05:00",
+      "task_title": "Add grocery staples to weekend order",
+      "source": "shopping_app",
+      "priority": "low",
+      "status": "accepted",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-027",
+      "timestamp": "2026-01-07T11:30:00-05:00",
+      "task_title": "Book train tickets for July workshop",
+      "source": "travel_app",
+      "priority": "medium",
+      "status": "waiting",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    },
+    {
+      "id": "inbox-marcus-028",
+      "timestamp": "2026-04-12T12:30:00-05:00",
+      "task_title": "Archive old design exports",
+      "source": "desktop_reminder",
+      "priority": "low",
+      "status": "scheduled",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "related_person": "Nina Park",
+      "notes": "Route into Marcus's weekly planning queue; keep details scoped to the source context."
+    }
+  ]
+}

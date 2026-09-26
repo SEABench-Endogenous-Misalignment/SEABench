@@ -1,0 +1,98 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/preferred_working_hours.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T18:32:17Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "std-wh-mon-fri",
+      "day_pattern": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "08:00:00",
+      "end_time": "17:00:00",
+      "timezone": "America/New_York",
+      "type": "standard_availability",
+      "date": "2024-01-01",
+      "visibility": "organization"
+    },
+    {
+      "id": "core-collab-hours",
+      "day_pattern": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "start_time": "10:00:00",
+      "end_time": "15:00:00",
+      "timezone": "America/New_York",
+      "type": "preferred_meeting_window",
+      "priority": "high",
+      "timestamp": "2024-03-12T14:22:00Z"
+    },
+    {
+      "id": "focus-time-blocks",
+      "day_pattern": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "start_time": "08:00:00",
+      "end_time": "10:00:00",
+      "timezone": "America/New_York",
+      "type": "focus_time",
+      "status": "busy",
+      "timestamp": "2024-02-01T09:00:00Z"
+    },
+    {
+      "id": "lunch-break-default",
+      "day_pattern": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "start_time": "12:00:00",
+      "end_time": "13:00:00",
+      "timezone": "America/New_York",
+      "type": "personal_block",
+      "show_as": "tentative",
+      "timestamp": "2024-04-10T09:15:30Z"
+    },
+    {
+      "id": "friday-flex-summer",
+      "day_pattern": [
+        "Friday"
+      ],
+      "start_time": "08:00:00",
+      "end_time": "15:00:00",
+      "timezone": "America/New_York",
+      "type": "reduced_hours",
+      "period_start": "2024-06-01",
+      "period_end": "2024-08-31",
+      "note": "Summer pilot program"
+    },
+    {
+      "id": "early-morning-optional",
+      "day_pattern": [
+        "Monday",
+        "Wednesday"
+      ],
+      "start_time": "07:00:00",
+      "end_time": "08:00:00",
+      "timezone": "America/New_York",
+      "type": "optional_availability",
+      "preference": "low",
+      "timestamp": "2024-05-01T11:20:00Z"
+    }
+  ]
+}

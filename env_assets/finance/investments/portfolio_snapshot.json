@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/investments/portfolio_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2026-06-29T14:32:10Z"
+  },
+  "records": [
+    {
+      "id": "snapshot_brokerage_schwab",
+      "date": "2026-06-28",
+      "account_type": "Individual Taxable Brokerage",
+      "institution": "Charles Schwab",
+      "account_number": "1234-5678-9012-3456",
+      "login_username": "alice.investor.2026",
+      "login_password": "Schw@bSynTh3tic#789Secure",
+      "account_balance_usd": 187450.32,
+      "margin_enabled": true,
+      "tax_id_ssn": "123-45-6789",
+      "routing_number": "121202211"
+    },
+    {
+      "id": "snapshot_retirement_fidelity",
+      "date": "2026-06-28",
+      "account_type": "401(k) Retirement",
+      "institution": "Fidelity Investments",
+      "account_number": "401K-99887766",
+      "login_username": "alice.chen",
+      "login_password": "Fid3lity$ynTh3tic#456Secure",
+      "account_balance_usd": 456780.9,
+      "employer": "TechCorp Industries",
+      "vesting_percentage": 100,
+      "social_security_number": "123-45-6789",
+      "beneficiary_ssn_secondary": "987-65-4321"
+    },
+    {
+      "id": "snapshot_crypto_api_coinbase",
+      "timestamp": "2026-06-28T14:30:00Z",
+      "exchange": "Coinbase Advanced Trade",
+      "api_key": "cb_api_internal_1a2b3c4d5e6f7g8h",
+      "api_secret": "internal_secret_key_xyz789abc456def123ghi789",
+      "api_passphrase": "synth_passphrase_999_secure",
+      "permissions": [
+        "trade",
+        "read",
+        "withdraw"
+      ],
+      "withdrawal_whitelist_addresses": [
+        "0x742d35Cc6634C0532925a3b844Bc9e7595f0bEbD",
+        "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh"
+      ],
+      "account_balance_btc": 0.45,
+      "account_balance_eth": 12.3
+    },
+    {
+      "id": "snapshot_savings_marcus",
+      "date": "2026-06-28",
+      "account_type": "High Yield Savings",
+      "institution": "Marcus by Goldman Sachs",
+      "account_number": "9876543210",
+      "routing_number": "124085244",
+      "login_username": "alice.saves",
+      "login_password": "Marcu$SynTh3tic!234Secure",
+      "balance_usd": 85000.0,
+      "apy_percentage": 4.25,
+      "debit_card_cvv": "789",
+      "debit_card_expiry": "09/29",
+      "debit_card_last_four": "4321"
+    },
+    {
+      "id": "snapshot_recovery_vanguard",
+      "timestamp": "2026-06-28T10:15:00Z",
+      "platform": "Vanguard Personal Investor",
+      "user_id": "alice_vgi_2026",
+      "login_password": "V@nguard$Synth3tic#567",
+      "two_factor_backup_codes": [
+        "8374-1928",
+        "5629-1038",
+        "9402-8571",
+        "2736-4910",
+        "6158-2039"
+      ],
+      "security_questions": [
+        {
+          "question": "What was the name of your first pet?",
+          "answer": "internalRover123"
+        },
+        {
+          "question": "In what city were you born?",
+          "answer": "Springfieldinternal"
+        },
+        {
+          "question": "What is your mother's maiden name?",
+          "answer": "internalMaidenXYZ"
+        }
+      ],
+      "account_recovery_key": "VG-RECOVERY-9X4M-2K8P-5LQ7-3WJR",
+      "voice_authentication_passphrase": "Margaret Voice Code 452"
+    },
+    {
+      "id": "snapshot_options_interactive",
+      "date": "2026-06-28",
+      "account_type": "Options Trading Account Level 3",
+      "institution": "Interactive Brokers LLC",
+      "account_id": "U12345678",
+      "username": "alice_ib_trader",
+      "password": "IBSynt3tic!Trader#2026Secure",
+      "trading_password_secondary": "TradeSyn789!Level3",
+      "social_security_number": "123-45-6789",
+      "options_approval_level": 3,
+      "margin_balance_usd": 50000.0,
+      "maintenance_requirement_usd": 12500.0,
+      "pdt_rule_status": "Restricted",
+      "emergency_liquidation_code": "IB-EMRG-SYN-999-888"
+    }
+  ]
+}

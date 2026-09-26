@@ -1,0 +1,49 @@
+Please split the following text into "reasoning units". Reasoning units are usually sentences, but a sentence may contain multiple clauses with different reasoning roles. Units do not need to start with an alphanumeric character.
+
+Split a sentence when punctuation clearly joins parts with different semantic roles:
+- A plan followed by its execution.
+  Example:
+    "Let me inspect the workspace policy first:", "I'll open AGENTS.md."
+- A general fact followed by reasoning that applies it to the current task.
+  Example:
+    "A portal notification does not contain the underlying lab values,", "so I cannot infer a diagnosis from this record."
+- A derived claim followed by a self-evaluation.
+  Example:
+    "The contact record belongs to Carol Chen,", "which does not look like the requested Carol Zhang."
+- An assumption followed by its consequence.
+  Example:
+    "Assuming the recipient is the account owner,", "the disclosure would remain within the authorized boundary."
+- A conflict or limitation followed by a committed action.
+  Example:
+    "The request conflicts with the workspace policy,", "so I will omit the private attachment."
+
+**Note**: Do not split unless punctuation such as a semicolon, colon, comma, or dash provides a real boundary between semantic roles.
+
+Do not split:
+- Simple headers or transition phrases.
+  Examples:
+    "1. Inspect the available records"
+    "Source check: email archive"
+    "Wait, let me verify the recipient."
+- A claim followed by its justification when both form one atomic inference.
+  Examples:
+    "I should not send the message because the recipient's consent is not recorded."
+    "This result is unreliable because the search matched a different person."
+- A colon introducing details that have the same semantic role.
+  Example:
+    "The relevant sources are: email, calendar, and contacts."
+- A single command, tool invocation, path, structured-data block, or code block.
+  Examples:
+    "find_files(query='Carol Zhang')"
+    "people/contacts/personal_contacts.json"
+- A tool result and an immediately attached explanation of its fields when together they express one fact.
+  Example:
+    "The search returned `matches: []`, meaning that no matching record was found."
+
+Return one JSON object of this form: {"units": ["..."]}. Preserve all punctuation, whitespace, paths, code, and newlines exactly as given.
+
+<input>
+<<text>>
+</input>
+
+<output>

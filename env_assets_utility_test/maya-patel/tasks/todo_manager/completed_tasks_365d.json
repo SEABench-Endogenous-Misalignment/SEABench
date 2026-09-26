@@ -1,0 +1,264 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/completed_tasks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "todoist_export"
+  },
+  "records": [
+    {
+      "id": "9f4e2a8b-1c3d-4e5f-9a0b-1c2d3e4f5a6b",
+      "timestamp": "2024-05-10T16:30:00Z",
+      "title": "Submit quarterly budget forecast to finance",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "8e3d1a7c-0b2e-3d4f-890a-0b1c2d3e4f5a",
+      "timestamp": "2024-04-30T14:15:00Z",
+      "title": "Schedule follow-up interviews with cardiology participants",
+      "category": "Research",
+      "priority": "high"
+    },
+    {
+      "id": "7c2b0f6d-9a1d-2c3e-789f-9a0b1c2d3e4f",
+      "timestamp": "2024-04-20T10:45:00Z",
+      "title": "Renew parking permit for Alder Ridge Road",
+      "category": "Personal",
+      "priority": "medium"
+    },
+    {
+      "id": "6b1a9e5c-8f0c-1b2d-678e-890a9b0c1d2e",
+      "timestamp": "2024-04-10T13:20:00Z",
+      "title": "Prepare presentation for UX Research all-hands",
+      "category": "Work",
+      "priority": "medium"
+    },
+    {
+      "id": "5a098d4b-7e9b-0a1c-567d-789f890a1b2c",
+      "timestamp": "2024-03-31T15:00:00Z",
+      "title": "Book flights for AHRA conference in Denver",
+      "category": "Travel",
+      "priority": "medium"
+    },
+    {
+      "id": "4f987c3a-6d8a-9f0b-456c-678e789f0a1b",
+      "timestamp": "2024-03-21T09:30:00Z",
+      "title": "Review protocol amendments with Iris Romero",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "3e876b29-5c79-8e9a-345b-567d678e9f0a",
+      "timestamp": "2024-03-11T11:45:00Z",
+      "title": "File tax returns",
+      "category": "Personal",
+      "priority": "high"
+    },
+    {
+      "id": "2d765a18-4b68-7d89-234a-456c567d8e9f",
+      "timestamp": "2024-03-01T17:30:00Z",
+      "title": "Order birthday cake for Priya Shah",
+      "category": "Personal",
+      "priority": "medium"
+    },
+    {
+      "id": "1c654907-3a57-6c78-1239-345b456c7d8e",
+      "timestamp": "2024-02-20T10:00:00Z",
+      "title": "Submit expense report for January site visits",
+      "category": "Work",
+      "priority": "low"
+    },
+    {
+      "id": "0b5438f6-2946-5b67-0128-234a345b6c7d",
+      "timestamp": "2024-02-10T14:20:00Z",
+      "title": "Schedule car maintenance at Parkway Auto",
+      "category": "Personal",
+      "priority": "medium"
+    },
+    {
+      "id": "f943278e-1835-4a56-9017-1239234a5b6c",
+      "timestamp": "2024-01-31T16:45:00Z",
+      "title": "Volunteer coordination call with Elena Vega",
+      "category": "Community",
+      "priority": "medium"
+    },
+    {
+      "id": "e832167d-0724-3945-8906-0128123a4b5c",
+      "timestamp": "2024-01-21T11:30:00Z",
+      "title": "Finalize holiday travel itinerary",
+      "category": "Travel",
+      "priority": "high"
+    },
+    {
+      "id": "d721056c-9613-2834-7805-9017012a3b4c",
+      "timestamp": "2024-01-11T09:15:00Z",
+      "title": "Gift shopping for Malik Brooks housewarming",
+      "category": "Personal",
+      "priority": "medium"
+    },
+    {
+      "id": "c610945b-8502-1723-6704-890601192a3b",
+      "timestamp": "2024-01-01T13:00:00Z",
+      "title": "Prepare agenda for Q1 planning session",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "b509834a-7401-0612-5603-7895091a2b3c",
+      "timestamp": "2023-12-22T15:30:00Z",
+      "title": "Renew renters insurance policy",
+      "category": "Personal",
+      "priority": "high"
+    },
+    {
+      "id": "a4f87239-63f9-9501-4502-678408091a2b",
+      "timestamp": "2023-12-12T10:45:00Z",
+      "title": "Dental cleaning appointment",
+      "category": "Health",
+      "priority": "medium"
+    },
+    {
+      "id": "93e76128-52e8-8490-3401-5673079809a1",
+      "timestamp": "2023-12-02T14:00:00Z",
+      "title": "Review grant proposal with Leah Morgan",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "82d65017-41d7-7389-2300-456206870890",
+      "timestamp": "2023-11-22T11:20:00Z",
+      "title": "Clean gutters before winter",
+      "category": "Home",
+      "priority": "medium"
+    },
+    {
+      "id": "71c54906-30c6-6278-1299-345105769789",
+      "timestamp": "2023-11-12T16:00:00Z",
+      "title": "Return samples to lab storage",
+      "category": "Work",
+      "priority": "medium"
+    },
+    {
+      "id": "60b438f5-2b5b-5167-0188-234004658678",
+      "timestamp": "2023-11-02T09:45:00Z",
+      "title": "Plan hiking trip with Owen Reed",
+      "category": "Personal",
+      "priority": "low"
+    },
+    {
+      "id": "51a327e4-1a4a-4056-9077-123903547567",
+      "timestamp": "2023-10-23T13:30:00Z",
+      "title": "Update research database access permissions",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "409216d3-0939-3945-8066-012802436456",
+      "timestamp": "2023-10-13T10:15:00Z",
+      "title": "Schedule eye exam at Squirrel Hill Optometry",
+      "category": "Health",
+      "priority": "medium"
+    },
+    {
+      "id": "3f8105c2-9828-2834-7055-901701325345",
+      "timestamp": "2023-10-03T15:45:00Z",
+      "title": "Organize files for audit preparation",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "2e7004b1-8717-1723-6044-890600214234",
+      "timestamp": "2023-09-23T18:00:00Z",
+      "title": "Host dinner party for Grace Lin and Calvin Price",
+      "category": "Personal",
+      "priority": "medium"
+    },
+    {
+      "id": "1d6f0390-7606-0612-5033-789509103123",
+      "timestamp": "2023-09-13T12:30:00Z",
+      "title": "Replace air filters in HVAC system",
+      "category": "Home",
+      "priority": "low"
+    },
+    {
+      "id": "0c5e927f-65f5-9501-4022-678408092012",
+      "timestamp": "2023-09-03T09:00:00Z",
+      "title": "Submit IRB modification for Phase II study",
+      "category": "Work",
+      "priority": "high"
+    },
+    {
+      "id": "fb4d816e-54e4-8490-3011-567307981901",
+      "timestamp": "2023-08-24T14:15:00Z",
+      "title": "Buy wedding gift for Nina Park",
+      "category": "Personal",
+      "priority": "high"
+    },
+    {
+      "id": "ea3c705d-43d3-7389-2000-456206870890",
+      "timestamp": "2023-08-14T11:00:00Z",
+      "title": "Complete mandatory cybersecurity training",
+      "category": "Work",
+      "priority": "medium"
+    },
+    {
+      "id": "d92b6f4c-32c2-6278-1099-345105769789",
+      "timestamp": "2023-08-04T16:30:00Z",
+      "title": "Schedule plumber for kitchen sink leak",
+      "category": "Home",
+      "priority": "high"
+    },
+    {
+      "id": "c81a5e3b-21b1-5167-0988-234004658678",
+      "timestamp": "2023-07-25T10:45:00Z",
+      "title": "Draft user interview script for diabetes app",
+      "category": "Work",
+      "priority": "medium"
+    },
+    {
+      "id": "b7094d2a-10a0-4056-0877-123903547567",
+      "timestamp": "2023-07-15T14:30:00Z",
+      "title": "Renew JAMA Network subscription",
+      "category": "Work",
+      "priority": "low"
+    },
+    {
+      "id": "a6083c19-0f99-3945-0766-012802436456",
+      "timestamp": "2023-07-05T09:15:00Z",
+      "title": "Tax document collection for accountant",
+      "category": "Personal",
+      "priority": "high"
+    },
+    {
+      "id": "95072b08-e8e8-2834-0655-901701325345",
+      "timestamp": "2023-06-25T13:00:00Z",
+      "title": "Schedule team building activity with Iris Romero",
+      "category": "Work",
+      "priority": "medium"
+    },
+    {
+      "id": "84061af7-d7d7-1723-0544-890600214234",
+      "timestamp": "2023-06-15T15:30:00Z",
+      "title": "Deep clean refrigerator",
+      "category": "Home",
+      "priority": "low"
+    },
+    {
+      "id": "730509e6-c6c6-0612-0433-789509103123",
+      "timestamp": "2023-05-25T11:45:00Z",
+      "title": "Return borrowed books to Carnegie Library",
+      "category": "Personal",
+      "priority": "low"
+    },
+    {
+      "id": "6204f8d5-b5b5-9501-0322-678408092012",
+      "timestamp": "2023-05-16T10:00:00Z",
+      "title": "Plan itinerary for Seattle work trip",
+      "category": "Travel",
+      "priority": "medium"
+    }
+  ]
+}

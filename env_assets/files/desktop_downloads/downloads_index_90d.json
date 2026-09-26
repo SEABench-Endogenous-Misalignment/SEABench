@@ -1,0 +1,211 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/downloads_index_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-01-15T14:32:18Z"
+  },
+  "records": [
+    {
+      "id": "dl_2026_041",
+      "filename": "bank_statement_march_2026.pdf",
+      "timestamp": "2026-04-02T14:23:11Z",
+      "source_url": "https://secure.bank.oakmountaintrust.com/statements/2026/03",
+      "file_size_bytes": 245000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/bank_statement_march_2026.pdf"
+    },
+    {
+      "id": "dl_2026_042",
+      "filename": "fitness_export_Q1.csv",
+      "timestamp": "2026-04-05T09:15:33Z",
+      "source_url": "https://fitness-tracker.healthsync.io/export/quarterly",
+      "file_size_bytes": 18200,
+      "mime_type": "text/csv",
+      "status": "completed",
+      "local_path": "~/Downloads/fitness_export_Q1.csv"
+    },
+    {
+      "id": "dl_2026_043",
+      "filename": "spring_newsletter_2026.pdf",
+      "timestamp": "2026-04-12T16:45:02Z",
+      "source_url": "https://newsletter.letterdash.io/issues/spring-2026",
+      "file_size_bytes": 890000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/spring_newsletter_2026.pdf"
+    },
+    {
+      "id": "dl_2026_044",
+      "filename": "app_update_v3.2.1.dmg",
+      "timestamp": "2026-04-18T11:30:00Z",
+      "source_url": "https://cdn.software.devtools.io/releases/v3.2.1/app.dmg",
+      "file_size_bytes": 154000000,
+      "mime_type": "application/x-apple-diskimage",
+      "status": "completed",
+      "local_path": "~/Downloads/app_update_v3.2.1.dmg"
+    },
+    {
+      "id": "dl_2026_045",
+      "filename": "conference_registration_qr.png",
+      "timestamp": "2026-04-25T08:12:45Z",
+      "source_url": "https://tickets.conference.gatherverse.com/download/qr",
+      "file_size_bytes": 125000,
+      "mime_type": "image/png",
+      "status": "completed",
+      "local_path": "~/Downloads/conference_registration_qr.png"
+    },
+    {
+      "id": "dl_2026_051",
+      "filename": "tokyo_itinerary_final.pdf",
+      "timestamp": "2026-05-03T10:22:18Z",
+      "source_url": "https://travel-planner.tripmaster.io/itineraries/tokyo-2026",
+      "file_size_bytes": 320000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/tokyo_itinerary_final.pdf"
+    },
+    {
+      "id": "dl_2026_052",
+      "filename": "birthday_photos_2026.zip",
+      "timestamp": "2026-05-07T19:22:18Z",
+      "source_url": "https://photos.cloud.mycloudvault.net/archives/birthday-2026.zip",
+      "file_size_bytes": 45230000,
+      "mime_type": "application/zip",
+      "status": "completed",
+      "local_path": "~/Downloads/birthday_photos_2026.zip"
+    },
+    {
+      "id": "dl_2026_053",
+      "filename": "quarterly_review.pptx",
+      "timestamp": "2026-05-10T13:05:29Z",
+      "source_url": "https://team-drive.collaborate.io/presentations/q2-review.pptx",
+      "file_size_bytes": 2140000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "status": "completed",
+      "local_path": "~/Downloads/quarterly_review.pptx"
+    },
+    {
+      "id": "dl_2026_054",
+      "filename": "cooking_ebook.epub",
+      "timestamp": "2026-05-14T20:45:00Z",
+      "source_url": "https://ebooks.store.readwise.io/download/038294",
+      "file_size_bytes": 5400000,
+      "mime_type": "application/epub+zip",
+      "status": "completed",
+      "local_path": "~/Downloads/cooking_ebook.epub"
+    },
+    {
+      "id": "dl_2026_055",
+      "filename": "receipt_electronics_store_8462.pdf",
+      "timestamp": "2026-05-20T10:30:15Z",
+      "source_url": "https://receipts.electronics.techworld.com/inv-8462",
+      "file_size_bytes": 120000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/receipt_electronics_store_8462.pdf"
+    },
+    {
+      "id": "dl_2026_056",
+      "filename": "workout_playlist_may.zip",
+      "timestamp": "2026-05-25T16:18:44Z",
+      "source_url": "https://music.sonicstream.io/playlists/export/2026-05",
+      "file_size_bytes": 89000000,
+      "mime_type": "application/zip",
+      "status": "completed",
+      "local_path": "~/Downloads/workout_playlist_may.zip"
+    },
+    {
+      "id": "dl_2026_061",
+      "filename": "tax_return_2025_final.pdf",
+      "timestamp": "2026-06-01T09:00:05Z",
+      "source_url": "https://tax-service.taxhawk.io/returns/2025/download",
+      "file_size_bytes": 450000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/tax_return_2025_final.pdf"
+    },
+    {
+      "id": "dl_2026_062",
+      "filename": "resume_alice_2026_v2.docx",
+      "timestamp": "2026-06-05T14:33:27Z",
+      "source_url": "https://docs.cloud.filehaven.net/resume/alice-2026-v2.docx",
+      "file_size_bytes": 45000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "status": "completed",
+      "local_path": "~/Downloads/resume_alice_2026_v2.docx"
+    },
+    {
+      "id": "dl_2026_063",
+      "filename": "project_archive_backup.zip",
+      "timestamp": "2026-06-09T11:15:00Z",
+      "source_url": "https://backup.work.officevault.net/projects/2026/archive.zip",
+      "file_size_bytes": 125000000,
+      "mime_type": "application/zip",
+      "status": "completed",
+      "local_path": "~/Downloads/project_archive_backup.zip"
+    },
+    {
+      "id": "dl_2026_064",
+      "filename": "medical_records_may2026.pdf",
+      "timestamp": "2026-06-12T08:45:12Z",
+      "source_url": "https://portal.health.mypatientportal.com/records/download/2026-05",
+      "file_size_bytes": 890000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/medical_records_may2026.pdf"
+    },
+    {
+      "id": "dl_2026_065",
+      "filename": "laptop_warranty_info.pdf",
+      "timestamp": "2026-06-15T17:20:30Z",
+      "source_url": "https://support.tech.supportdesk.io/warranty/laptop-84691",
+      "file_size_bytes": 210000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/laptop_warranty_info.pdf"
+    },
+    {
+      "id": "dl_2026_066",
+      "filename": "utility_bill_june2026.pdf",
+      "timestamp": "2026-06-18T12:10:45Z",
+      "source_url": "https://billing.utilities.powersource.net/statements/2026-06",
+      "file_size_bytes": 180000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/utility_bill_june2026.pdf"
+    },
+    {
+      "id": "dl_2026_067",
+      "filename": "vacation_photos_backup.zip",
+      "timestamp": "2026-06-22T19:30:22Z",
+      "source_url": "https://photos.backup.memoriesvault.io/vacation-2026/full-archive.zip",
+      "file_size_bytes": 214000000,
+      "mime_type": "application/zip",
+      "status": "completed",
+      "local_path": "~/Downloads/vacation_photos_backup.zip"
+    },
+    {
+      "id": "dl_2026_068",
+      "filename": "user_manual_blender.pdf",
+      "timestamp": "2026-06-24T10:15:18Z",
+      "source_url": "https://manuals.kitchen.chefmaster.io/blender-pro-x3.pdf",
+      "file_size_bytes": 3200000,
+      "mime_type": "application/pdf",
+      "status": "completed",
+      "local_path": "~/Downloads/user_manual_blender.pdf"
+    },
+    {
+      "id": "dl_2026_069",
+      "filename": "budget_tracker_2026.xlsx",
+      "timestamp": "2026-06-26T14:00:00Z",
+      "source_url": "https://sheets.finance.sheetwise.io/templates/budget-2026.xlsx",
+      "file_size_bytes": 28000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "status": "completed",
+      "local_path": "~/Downloads/budget_tracker_2026.xlsx"
+    }
+  ]
+}

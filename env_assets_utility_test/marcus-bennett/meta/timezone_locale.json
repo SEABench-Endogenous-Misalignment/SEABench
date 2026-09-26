@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/timezone_locale.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-05-17T14:32:18Z",
+    "source": "system_settings_export"
+  },
+  "records": [
+    {
+      "id": "dev-7a8f9c2e1d4b",
+      "device_name": "Cedar-Grove-MBP",
+      "device_type": "workstation",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "timezone": "America/Los_Angeles",
+      "locale": "en-US",
+      "region_code": "US",
+      "timestamp": "2024-05-17T14:30:00Z"
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "device_name": "Marcus-iPhone-15",
+      "device_type": "mobile",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "timezone": "America/Los_Angeles",
+      "locale": "en-US",
+      "timestamp": "2024-05-17T14:28:00Z"
+    },
+    {
+      "id": "imac-9k8j7h6g5f4e",
+      "device_name": "Laurel-Creek-iMac",
+      "device_type": "desktop",
+      "owner_email": "marcus.bennett@harborinbox.com",
+      "timezone": "America/Los_Angeles",
+      "locale": "en-US",
+      "date": "2024-05-17"
+    },
+    {
+      "id": "gap-772839104657",
+      "service_name": "GoogleWorkspace",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "timezone": "America/Los_Angeles",
+      "language": "en",
+      "timestamp": "2024-05-16T09:15:00Z"
+    },
+    {
+      "id": "m365-marbennett-9821",
+      "service_name": "Microsoft365",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "timezone": "Pacific Standard Time",
+      "preferred_language": "en-US",
+      "timestamp": "2024-05-15T11:00:00Z"
+    },
+    {
+      "id": "nest-hub-kitchen-7741",
+      "device_name": "Kitchen-Hub",
+      "device_type": "smart_display",
+      "household_location": "7464 Laurel Creek Street",
+      "timezone": "America/Los_Angeles",
+      "locale": "en-US",
+      "timestamp": "2024-05-17T12:00:00Z"
+    }
+  ]
+}

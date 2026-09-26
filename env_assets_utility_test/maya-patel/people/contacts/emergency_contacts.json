@@ -1,0 +1,64 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/emergency_contacts.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T22:14:33Z",
+    "source": "contacts_app_export"
+  },
+  "records": [
+    {
+      "id": "emc-7729-ps",
+      "contact_name": "Priya Shah",
+      "relationship": "Roommate / Emergency Contact",
+      "phone_primary": "+1-412-803-3736",
+      "email": "priya.shah@riverbendmail.com",
+      "address": "7387 Alder Ridge Road, Pittsburgh, PA 15249",
+      "date": "2023-08-15"
+    },
+    {
+      "id": "emc-8841-ap",
+      "contact_name": "Anika Patel",
+      "relationship": "Sister",
+      "phone_primary": "+1-614-229-8843",
+      "email": "anika.patel@columbusmail.net",
+      "address": "4523 Highland Ave, Columbus, OH 43214",
+      "date": "2019-03-22"
+    },
+    {
+      "id": "emc-3356-np",
+      "contact_name": "Nina Park",
+      "relationship": "Close Friend",
+      "phone_primary": "+1-412-445-9921",
+      "email": "nina.park@pinevalleytech.com",
+      "timestamp": "2024-01-10T14:30:00Z"
+    },
+    {
+      "id": "emc-4490-or",
+      "contact_name": "Owen Reed",
+      "relationship": "Close Friend",
+      "phone_primary": "+1-412-778-3342",
+      "email": "owen.reed@oakstreamdesign.com",
+      "timestamp": "2023-11-05T09:15:00Z"
+    },
+    {
+      "id": "emc-5562-lm",
+      "contact_name": "Leah Morgan",
+      "relationship": "Work Emergency Contact",
+      "phone_primary": "+1-412-990-1124",
+      "email": "leah.morgan@rivertonhealthlabs.com",
+      "date": "2022-07-01"
+    },
+    {
+      "id": "emc-9910-jh",
+      "contact_name": "Dr. James Holloway",
+      "relationship": "Primary Care Physician",
+      "phone_primary": "+1-412-681-4400",
+      "phone_emergency": "+1-412-681-4401",
+      "organization": "Southside Medical Associates",
+      "address": "2200 Wharton St, Suite 300, Pittsburgh, PA 15203",
+      "date": "2021-09-18"
+    }
+  ]
+}

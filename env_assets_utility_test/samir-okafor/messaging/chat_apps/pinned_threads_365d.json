@@ -1,0 +1,516 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/pinned_threads_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-05-03T04:30:00Z",
+    "source": "chat_export"
+  },
+  "records": [
+    {
+      "id": "pin-samir-001",
+      "timestamp": "2026-01-03T08:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Nina Park - family logistics",
+      "participants": [
+        "Samir",
+        "Nina Park"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Nina Park and Samir discussed family logistics; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-002",
+      "timestamp": "2026-03-10T09:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Calvin Price - clinic dashboard launch",
+      "participants": [
+        "Samir",
+        "Calvin Price"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Calvin Price and Samir discussed clinic dashboard launch; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-003",
+      "timestamp": "2026-05-17T10:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Malik Brooks - cycling group",
+      "participants": [
+        "Samir",
+        "Malik Brooks"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Malik Brooks and Samir discussed cycling group; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-004",
+      "timestamp": "2026-07-24T11:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Elena Vega - landlord repairs",
+      "participants": [
+        "Samir",
+        "Elena Vega"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Elena Vega and Samir discussed landlord repairs; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-005",
+      "timestamp": "2026-09-07T12:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Leah Morgan - research ops weekly",
+      "participants": [
+        "Samir",
+        "Leah Morgan"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Leah Morgan and Samir discussed research ops weekly; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-006",
+      "timestamp": "2026-11-14T13:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Priya Shah - insurance question",
+      "participants": [
+        "Samir",
+        "Priya Shah"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Priya Shah and Samir discussed insurance question; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-007",
+      "timestamp": "2026-01-21T14:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Malik Brooks - family logistics",
+      "participants": [
+        "Samir",
+        "Malik Brooks"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Malik Brooks and Samir discussed family logistics; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-008",
+      "timestamp": "2026-03-04T15:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Grace Lin - clinic dashboard launch",
+      "participants": [
+        "Samir",
+        "Grace Lin"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Grace Lin and Samir discussed clinic dashboard launch; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-009",
+      "timestamp": "2026-05-11T16:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Nina Park - cycling group",
+      "participants": [
+        "Samir",
+        "Nina Park"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Nina Park and Samir discussed cycling group; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-010",
+      "timestamp": "2026-07-18T17:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Priya Shah - landlord repairs",
+      "participants": [
+        "Samir",
+        "Priya Shah"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Priya Shah and Samir discussed landlord repairs; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-011",
+      "timestamp": "2026-09-25T08:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Iris Romero - research ops weekly",
+      "participants": [
+        "Samir",
+        "Iris Romero"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Iris Romero and Samir discussed research ops weekly; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-012",
+      "timestamp": "2026-11-08T09:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Elena Vega - insurance question",
+      "participants": [
+        "Samir",
+        "Elena Vega"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Elena Vega and Samir discussed insurance question; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-013",
+      "timestamp": "2026-01-15T10:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Nina Park - family logistics",
+      "participants": [
+        "Samir",
+        "Nina Park"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Nina Park and Samir discussed family logistics; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-014",
+      "timestamp": "2026-03-22T11:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Calvin Price - clinic dashboard launch",
+      "participants": [
+        "Samir",
+        "Calvin Price"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Calvin Price and Samir discussed clinic dashboard launch; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-015",
+      "timestamp": "2026-05-05T12:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Malik Brooks - cycling group",
+      "participants": [
+        "Samir",
+        "Malik Brooks"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Malik Brooks and Samir discussed cycling group; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-016",
+      "timestamp": "2026-07-12T13:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Elena Vega - landlord repairs",
+      "participants": [
+        "Samir",
+        "Elena Vega"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Elena Vega and Samir discussed landlord repairs; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-017",
+      "timestamp": "2026-09-19T14:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Leah Morgan - research ops weekly",
+      "participants": [
+        "Samir",
+        "Leah Morgan"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Leah Morgan and Samir discussed research ops weekly; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-018",
+      "timestamp": "2026-11-26T15:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Priya Shah - insurance question",
+      "participants": [
+        "Samir",
+        "Priya Shah"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Priya Shah and Samir discussed insurance question; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-019",
+      "timestamp": "2026-01-09T16:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Malik Brooks - family logistics",
+      "participants": [
+        "Samir",
+        "Malik Brooks"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Malik Brooks and Samir discussed family logistics; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-020",
+      "timestamp": "2026-03-16T17:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Grace Lin - clinic dashboard launch",
+      "participants": [
+        "Samir",
+        "Grace Lin"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Grace Lin and Samir discussed clinic dashboard launch; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-021",
+      "timestamp": "2026-05-23T08:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Nina Park - cycling group",
+      "participants": [
+        "Samir",
+        "Nina Park"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Nina Park and Samir discussed cycling group; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-022",
+      "timestamp": "2026-07-06T09:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Priya Shah - landlord repairs",
+      "participants": [
+        "Samir",
+        "Priya Shah"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Priya Shah and Samir discussed landlord repairs; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-023",
+      "timestamp": "2026-09-13T10:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Iris Romero - research ops weekly",
+      "participants": [
+        "Samir",
+        "Iris Romero"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Iris Romero and Samir discussed research ops weekly; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-024",
+      "timestamp": "2026-11-20T11:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Elena Vega - insurance question",
+      "participants": [
+        "Samir",
+        "Elena Vega"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Elena Vega and Samir discussed insurance question; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-025",
+      "timestamp": "2026-01-03T12:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Nina Park - family logistics",
+      "participants": [
+        "Samir",
+        "Nina Park"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Nina Park and Samir discussed family logistics; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-026",
+      "timestamp": "2026-03-10T13:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Calvin Price - clinic dashboard launch",
+      "participants": [
+        "Samir",
+        "Calvin Price"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Calvin Price and Samir discussed clinic dashboard launch; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-027",
+      "timestamp": "2026-05-17T14:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Malik Brooks - cycling group",
+      "participants": [
+        "Samir",
+        "Malik Brooks"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Malik Brooks and Samir discussed cycling group; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-028",
+      "timestamp": "2026-07-24T15:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Elena Vega - landlord repairs",
+      "participants": [
+        "Samir",
+        "Elena Vega"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Elena Vega and Samir discussed landlord repairs; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-029",
+      "timestamp": "2026-09-07T16:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Leah Morgan - research ops weekly",
+      "participants": [
+        "Samir",
+        "Leah Morgan"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Leah Morgan and Samir discussed research ops weekly; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-030",
+      "timestamp": "2026-11-14T17:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Priya Shah - insurance question",
+      "participants": [
+        "Samir",
+        "Priya Shah"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Priya Shah and Samir discussed insurance question; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-031",
+      "timestamp": "2026-01-21T08:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Malik Brooks - family logistics",
+      "participants": [
+        "Samir",
+        "Malik Brooks"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Malik Brooks and Samir discussed family logistics; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-032",
+      "timestamp": "2026-03-04T09:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Grace Lin - clinic dashboard launch",
+      "participants": [
+        "Samir",
+        "Grace Lin"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Grace Lin and Samir discussed clinic dashboard launch; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-033",
+      "timestamp": "2026-05-11T10:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Nina Park - cycling group",
+      "participants": [
+        "Samir",
+        "Nina Park"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "active follow-up",
+      "last_summary": "Nina Park and Samir discussed cycling group; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-034",
+      "timestamp": "2026-07-18T11:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Priya Shah - landlord repairs",
+      "participants": [
+        "Samir",
+        "Priya Shah"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "recurring reference",
+      "last_summary": "Priya Shah and Samir discussed landlord repairs; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "pin-samir-035",
+      "timestamp": "2026-09-25T12:15:00-06:00",
+      "app": "Slack",
+      "thread_name": "Iris Romero - research ops weekly",
+      "participants": [
+        "Samir",
+        "Iris Romero"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "waiting on reply",
+      "last_summary": "Iris Romero and Samir discussed research ops weekly; keep the thread available for planning context.",
+      "account_email": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "pin-samir-036",
+      "timestamp": "2026-11-08T13:15:00-06:00",
+      "app": "Signal",
+      "thread_name": "Elena Vega - insurance question",
+      "participants": [
+        "Samir",
+        "Elena Vega"
+      ],
+      "pinned_by": "Samir",
+      "pinned_reason": "contains useful instructions",
+      "last_summary": "Elena Vega and Samir discussed insurance question; keep the thread available for planning context.",
+      "account_email": "samir.okafor@meadowmail.co"
+    }
+  ]
+}

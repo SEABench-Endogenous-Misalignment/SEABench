@@ -1,0 +1,701 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/milestones_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T14:32:00Z",
+    "source": "asana_workplace_export"
+  },
+  "records": [
+    {
+      "id": "MILE-RH-2023-001",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "Stakeholder Alignment Workshop",
+      "date": "2023-01-10",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "description": "Kickoff session with clinical operations to define UX success metrics and technical constraints for the portal overhaul."
+    },
+    {
+      "id": "MILE-RH-2023-002",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "Research Plan Finalization",
+      "date": "2023-01-25",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Completed documentation of user interview protocols and recruitment strategy for patient cohorts."
+    },
+    {
+      "id": "MILE-RH-2023-003",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "User Interview Synthesis",
+      "date": "2023-02-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Aggregated findings from 24 patient interviews identifying key pain points in appointment scheduling."
+    },
+    {
+      "id": "MILE-RH-2023-004",
+      "project_code": "PROJ-RH-52",
+      "project_name": "Legacy Data Migration Tool",
+      "milestone_title": "Requirements Sign-off",
+      "date": "2023-02-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "description": "Finalized technical specifications for EHR data extraction and transformation workflows."
+    },
+    {
+      "id": "MILE-RH-2023-005",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "Wireframe Review Cycle",
+      "date": "2023-03-10",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Mid-fidelity wireframes approved by healthcare compliance and UX leads."
+    },
+    {
+      "id": "MILE-RH-2023-006",
+      "project_code": "PROJ-RH-52",
+      "project_name": "Legacy Data Migration Tool",
+      "milestone_title": "System Architecture Approval",
+      "date": "2023-03-22",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "description": "Cloud infrastructure design reviewed and approved by IT security board."
+    },
+    {
+      "id": "MILE-RH-2023-007",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "Usability Testing Round 1",
+      "date": "2023-04-12",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "description": "Completed task-based testing with 8 participants across desktop and mobile devices."
+    },
+    {
+      "id": "MILE-RH-2023-008",
+      "project_code": "PROJ-RH-52",
+      "project_name": "Legacy Data Migration Tool",
+      "milestone_title": "Proof of Concept Demo",
+      "date": "2023-04-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "description": "Functional prototype demonstrating data integrity validation during migration process."
+    },
+    {
+      "id": "MILE-RH-2023-009",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "Design System Handoff",
+      "date": "2023-05-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Delivered component library and interaction specifications to engineering team."
+    },
+    {
+      "id": "MILE-RH-2023-010",
+      "project_code": "PROJ-RH-52",
+      "project_name": "Legacy Data Migration Tool",
+      "milestone_title": "Security Audit Completion",
+      "date": "2023-05-30",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "description": "Third-party penetration testing completed with zero critical vulnerabilities identified."
+    },
+    {
+      "id": "MILE-RH-2023-011",
+      "project_code": "PROJ-RH-48",
+      "project_name": "Patient Portal Experience Redesign",
+      "milestone_title": "Beta Release to Pilot Group",
+      "date": "2023-06-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan"
+      ],
+      "description": "Soft launch to 200 patients in the cardiology department for feedback collection."
+    },
+    {
+      "id": "MILE-RH-2023-012",
+      "project_code": "PROJ-RH-52",
+      "project_name": "Legacy Data Migration Tool",
+      "milestone_title": "Pilot Department Deployment",
+      "date": "2023-06-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "description": "Successfully migrated historical records for radiology department without service interruption."
+    },
+    {
+      "id": "MILE-RH-2023-013",
+      "project_code": "PROJ-RH-61",
+      "project_name": "Mobile App Accessibility Initiative",
+      "milestone_title": "WCAG 2.1 Audit Completion",
+      "date": "2023-07-10",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Comprehensive accessibility assessment identifying 14 areas requiring remediation."
+    },
+    {
+      "id": "MILE-RH-2023-014",
+      "project_code": "PROJ-RH-61",
+      "project_name": "Mobile App Accessibility Initiative",
+      "milestone_title": "Remediation Design Updates",
+      "date": "2023-07-25",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "description": "Updated color palettes and touch targets to meet AA compliance standards."
+    },
+    {
+      "id": "MILE-RH-2023-015",
+      "project_code": "PROJ-RH-61",
+      "project_name": "Mobile App Accessibility Initiative",
+      "milestone_title": "Screen Reader Optimization",
+      "date": "2023-08-14",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "description": "Refactored navigation labels and semantic markup for VoiceOver and TalkBack compatibility."
+    },
+    {
+      "id": "MILE-RH-2023-016",
+      "project_code": "PROJ-RH-73",
+      "project_name": "Analytics Dashboard V2",
+      "milestone_title": "KPI Definition Workshop",
+      "date": "2023-08-29",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "description": "Stakeholders aligned on 12 core metrics for clinical performance monitoring."
+    },
+    {
+      "id": "MILE-RH-2023-017",
+      "project_code": "PROJ-RH-52",
+      "project_name": "Legacy Data Migration Tool",
+      "milestone_title": "Enterprise Production Launch",
+      "date": "2023-09-12",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "description": "Full rollout across all departments with real-time sync capabilities activated."
+    },
+    {
+      "id": "MILE-RH-2023-018",
+      "project_code": "PROJ-RH-61",
+      "project_name": "Mobile App Accessibility Initiative",
+      "milestone_title": "QA Accessibility Validation",
+      "date": "2023-09-27",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Automated and manual testing confirming compliance across iOS and Android builds."
+    },
+    {
+      "id": "MILE-RH-2023-019",
+      "project_code": "PROJ-RH-61",
+      "project_name": "Mobile App Accessibility Initiative",
+      "milestone_title": "App Store Submission",
+      "date": "2023-10-10",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "description": "Version 3.2 submitted to Apple App Store and Google Play with accessibility statements."
+    },
+    {
+      "id": "MILE-RH-2023-020",
+      "project_code": "PROJ-RH-73",
+      "project_name": "Analytics Dashboard V2",
+      "milestone_title": "Data Pipeline Activation",
+      "date": "2023-10-25",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan"
+      ],
+      "description": "Real-time ETL processes established connecting six clinical data sources."
+    },
+    {
+      "id": "MILE-RH-2023-021",
+      "project_code": "PROJ-RH-73",
+      "project_name": "Analytics Dashboard V2",
+      "milestone_title": "Visualization Design Review",
+      "date": "2023-11-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "description": "Interactive prototypes for cohort analysis and trend forecasting approved."
+    },
+    {
+      "id": "MILE-RH-2023-022",
+      "project_code": "PROJ-RH-73",
+      "project_name": "Analytics Dashboard V2",
+      "milestone_title": "Stakeholder Beta Access",
+      "date": "2023-11-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan"
+      ],
+      "description": "Department heads granted early access with feedback sessions scheduled."
+    },
+    {
+      "id": "MILE-RH-2023-023",
+      "project_code": "PROJ-RH-73",
+      "project_name": "Analytics Dashboard V2",
+      "milestone_title": "Training Documentation Complete",
+      "date": "2023-12-12",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Video tutorials and quick-reference guides published to internal knowledge base."
+    },
+    {
+      "id": "MILE-RH-2023-024",
+      "project_code": "PROJ-RH-81",
+      "project_name": "Year-end UX Audit",
+      "milestone_title": "Annual Review Compilation",
+      "date": "2023-12-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel"
+      ],
+      "description": "Consolidated usability metrics and project retrospectives for leadership presentation."
+    },
+    {
+      "id": "MILE-RH-2024-025",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "Discovery Workshop Series",
+      "date": "2024-01-10",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "description": "Mapped current-state workflows for nursing staff and identified integration points."
+    },
+    {
+      "id": "MILE-RH-2024-026",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "Vendor Partner Selection",
+      "date": "2024-01-25",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Contract signed with integration partner following technical evaluation."
+    },
+    {
+      "id": "MILE-RH-2024-027",
+      "project_code": "PROJ-RH-73",
+      "project_name": "Analytics Dashboard V2",
+      "milestone_title": "Official V2 Launch",
+      "date": "2024-02-14",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "description": "Organization-wide rollout with dedicated support channels established."
+    },
+    {
+      "id": "MILE-RH-2024-028",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "API Specification Finalization",
+      "date": "2024-02-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price"
+      ],
+      "description": "RESTful API endpoints documented for patient admission and discharge workflows."
+    },
+    {
+      "id": "MILE-RH-2024-029",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "Phase 1 Integration Live",
+      "date": "2024-03-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "description": "Admission workflow automation activated for emergency department."
+    },
+    {
+      "id": "MILE-RH-2024-030",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Patient Journey Mapping",
+      "date": "2024-03-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Detailed journey maps created for four distinct patient personas."
+    },
+    {
+      "id": "MILE-RH-2024-031",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "HIPAA Compliance Verification",
+      "date": "2024-04-12",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "description": "Security controls audited and documentation submitted to compliance officer."
+    },
+    {
+      "id": "MILE-RH-2024-032",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Provider Interview Synthesis",
+      "date": "2024-04-25",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "description": "Consolidated feedback from 15 physicians regarding virtual consultation pain points."
+    },
+    {
+      "id": "MILE-RH-2024-033",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "End-user Training Completion",
+      "date": "2024-05-10",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan"
+      ],
+      "description": "All nursing shifts completed hands-on training with new integration features."
+    },
+    {
+      "id": "MILE-RH-2024-034",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Initial Wireframe Delivery",
+      "date": "2024-05-22",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Low-fidelity screens for appointment booking and video consultation interfaces."
+    },
+    {
+      "id": "MILE-RH-2024-035",
+      "project_code": "PROJ-RH-89",
+      "project_name": "Clinical Workflow Integration",
+      "milestone_title": "Full Production Deployment",
+      "date": "2024-06-14",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "description": "Hospital-wide activation of automated workflow integrations."
+    },
+    {
+      "id": "MILE-RH-2024-036",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Remote Usability Sessions",
+      "date": "2024-06-27",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Moderated testing with 12 patients using Figma prototypes on personal devices."
+    },
+    {
+      "id": "MILE-RH-2024-037",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Design Iteration Sprint",
+      "date": "2024-07-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Refined interface based on usability findings and accessibility requirements."
+    },
+    {
+      "id": "MILE-RH-2024-038",
+      "project_code": "PROJ-RH-102",
+      "project_name": "Design System Standards",
+      "milestone_title": "Component Library Review",
+      "date": "2024-07-30",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "description": "Audit completed ensuring all UI elements meet WCAG 2.1 AA standards."
+    },
+    {
+      "id": "MILE-RH-2024-039",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Engineering Handoff",
+      "date": "2024-08-14",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "description": "Annotated specifications and interaction documentation delivered to development teams."
+    },
+    {
+      "id": "MILE-RH-2024-040",
+      "project_code": "PROJ-RH-108",
+      "project_name": "Q3 Strategic Planning",
+      "milestone_title": "Roadmap Finalization",
+      "date": "2024-08-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Prioritized initiatives for Q4 2024 and Q1 2025 with resource allocation."
+    },
+    {
+      "id": "MILE-RH-2024-041",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Pilot Program Launch",
+      "date": "2024-09-13",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "description": "Limited release to internal medicine group for real-world stress testing."
+    },
+    {
+      "id": "MILE-RH-2024-042",
+      "project_code": "PROJ-RH-112",
+      "project_name": "Internal Tools Optimization",
+      "milestone_title": "UX Heuristic Evaluation",
+      "date": "2024-09-26",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Iris Romero"
+      ],
+      "description": "Expert review of inventory management interface identifying usability improvements."
+    },
+    {
+      "id": "MILE-RH-2024-043",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "Feedback Integration Cycle",
+      "date": "2024-10-15",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "description": "Implemented critical fixes from pilot program including connection stability indicators."
+    },
+    {
+      "id": "MILE-RH-2024-044",
+      "project_code": "PROJ-RH-118",
+      "project_name": "Annual Analytics Report",
+      "milestone_title": "Data Aggregation Complete",
+      "date": "2024-10-28",
+      "status": "completed",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel"
+      ],
+      "description": "Compiled annual metrics on UX improvements and system adoption rates."
+    },
+    {
+      "id": "MILE-RH-2024-045",
+      "project_code": "PROJ-RH-95",
+      "project_name": "Telehealth Platform UX",
+      "milestone_title": "General Availability Release",
+      "date": "2024-11-12",
+      "status": "in_progress",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Calvin Price",
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "description": "Full rollout to all clinical departments with 24/7 support coverage."
+    },
+    {
+      "id": "MILE-RH-2024-046",
+      "project_code": "PROJ-RH-124",
+      "project_name": "2025 Strategy Preparation",
+      "milestone_title": "Strategic Planning Document",
+      "date": "2024-11-25",
+      "status": "not_started",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Grace Lin"
+      ],
+      "description": "Drafting comprehensive UX roadmap aligned with organizational objectives."
+    },
+    {
+      "id": "MILE-RH-2024-047",
+      "project_code": "PROJ-RH-129",
+      "project_name": "Knowledge Base Migration",
+      "milestone_title": "Documentation Migration",
+      "date": "2024-12-10",
+      "status": "not_started",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel",
+        "Leah Morgan"
+      ],
+      "description": "Transferring all project documentation to new centralized wiki platform."
+    },
+    {
+      "id": "MILE-RH-2024-048",
+      "project_code": "PROJ-RH-132",
+      "project_name": "Year-end Wrap Up",
+      "milestone_title": "Project Retrospectives",
+      "date": "2024-12-20",
+      "status": "not_started",
+      "owner": "Maya Patel",
+      "assignees": [
+        "Maya Patel"
+      ],
+      "description": "Final review sessions for all active initiatives and resource planning for 2025."
+    }
+  ]
+}

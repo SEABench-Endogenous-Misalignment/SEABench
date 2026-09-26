@@ -1,0 +1,1021 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/subscriptions_24m.json",
+    "time_span": "24m",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T18:45:32Z",
+    "source": "finance_app_export"
+  },
+  "records": [
+    {
+      "id": "sub_7f3a9k2m",
+      "service_name": "Netflix Premium",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Premium (4K)",
+        "monthly_cost": 22.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-06-15",
+      "period_end": "2025-01-15",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_9p2l4q8r",
+      "service_name": "Spotify Family",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Family (6 accounts)",
+        "monthly_cost": 19.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-07-20",
+      "period_end": "2025-01-20",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_3m8v5x1z",
+      "service_name": "Disney+ Premium",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "No Ads",
+        "annual_cost": 139.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-08-10",
+      "period_end": "2025-08-10",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_5k2j9h4n",
+      "service_name": "Adobe Creative Cloud",
+      "category": "software",
+      "plan_details": {
+        "tier": "All Apps",
+        "monthly_cost": 59.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-06-01",
+      "period_end": "2025-01-01",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_1b4c6d9f",
+      "service_name": "Microsoft 365 Family",
+      "category": "software",
+      "plan_details": {
+        "tier": "Family (6 users)",
+        "annual_cost": 99.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-09-05",
+      "period_end": "2025-09-05",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8g3h2j5k",
+      "service_name": "Amazon Prime",
+      "category": "shopping_membership",
+      "plan_details": {
+        "tier": "Annual",
+        "annual_cost": 139.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-06-20",
+      "period_end": "2025-06-20",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6m7n8p2q",
+      "service_name": "The New York Times Digital",
+      "category": "news",
+      "plan_details": {
+        "tier": "All Access",
+        "monthly_cost": 19.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-07-08",
+      "period_end": "2025-01-08",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4r5s6t7u",
+      "service_name": "Peloton App Membership",
+      "category": "fitness",
+      "plan_details": {
+        "tier": "App+",
+        "monthly_cost": 12.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-08-12",
+      "period_end": "2025-01-12",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2v8w9x0y",
+      "service_name": "Apple iCloud 2TB",
+      "category": "cloud_storage",
+      "plan_details": {
+        "tier": "2TB",
+        "monthly_cost": 9.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-06-18",
+      "period_end": "2025-01-18",
+      "payment_method": {
+        "type": "apple_pay",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_9z1a2b3c",
+      "service_name": "Dropbox Plus",
+      "category": "cloud_storage",
+      "plan_details": {
+        "tier": "2TB",
+        "annual_cost": 119.88,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-10-03",
+      "period_end": "2025-10-03",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_5d4e3f2g",
+      "service_name": "Max (HBO Max)",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Ad-Free",
+        "monthly_cost": 15.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-11-22",
+      "period_end": "2025-01-22",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_7h6i5j4k",
+      "service_name": "YouTube Premium",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Individual",
+        "monthly_cost": 13.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-06-25",
+      "period_end": "2025-01-25",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_3l2m1n0o",
+      "service_name": "Nintendo Switch Online + Expansion",
+      "category": "gaming",
+      "plan_details": {
+        "tier": "Family + Expansion Pack",
+        "annual_cost": 79.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-07-30",
+      "period_end": "2025-07-30",
+      "payment_method": {
+        "type": "paypal",
+        "email": "marcus.bennett@harborinbox.com"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8p7q6r5s",
+      "service_name": "PlayStation Plus Extra",
+      "category": "gaming",
+      "plan_details": {
+        "tier": "Extra",
+        "annual_cost": 134.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-08-15",
+      "period_end": "2025-08-15",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2t1u0v9w",
+      "service_name": "Xbox Game Pass Ultimate",
+      "category": "gaming",
+      "plan_details": {
+        "tier": "Ultimate",
+        "monthly_cost": 16.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-09-10",
+      "period_end": "2025-01-10",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4x8y7z6a",
+      "service_name": "NordVPN Standard",
+      "category": "vpn",
+      "plan_details": {
+        "tier": "Standard (2-year plan paid yearly)",
+        "annual_cost": 59.88,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-10-28",
+      "period_end": "2025-10-28",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6b5c4d3e",
+      "service_name": "Notion Plus",
+      "category": "software",
+      "plan_details": {
+        "tier": "Plus (Personal)",
+        "monthly_cost": 8.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-11-14",
+      "period_end": "2025-01-14",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_1f2g3h4i",
+      "service_name": "Figma Professional",
+      "category": "software",
+      "plan_details": {
+        "tier": "Professional",
+        "monthly_cost": 15.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-12-01",
+      "period_end": "2025-01-01",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_9j8k7l6m",
+      "service_name": "GitHub Copilot Pro",
+      "category": "software",
+      "plan_details": {
+        "tier": "Individual",
+        "monthly_cost": 19.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-01-15",
+      "period_end": "2025-01-15",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_5n4o3p2q",
+      "service_name": "Calm Premium",
+      "category": "fitness",
+      "plan_details": {
+        "tier": "Premium",
+        "annual_cost": 69.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2024-02-20",
+      "period_end": "2025-02-20",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_7r6s5t4u",
+      "service_name": "The Atlantic Digital",
+      "category": "news",
+      "plan_details": {
+        "tier": "Digital Only",
+        "monthly_cost": 9.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-03-05",
+      "period_end": "2025-01-05",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_3v2w1x0y",
+      "service_name": "Washington Post Digital",
+      "category": "news",
+      "plan_details": {
+        "tier": "All Access",
+        "monthly_cost": 12.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-04-12",
+      "period_end": "2025-01-12",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_1z9a8b7c",
+      "service_name": "Apple TV+",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Monthly",
+        "monthly_cost": 9.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-05-18",
+      "period_end": "2025-01-18",
+      "payment_method": {
+        "type": "apple_pay",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4d3e2f1g",
+      "service_name": "Hulu (No Ads)",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "No Ads",
+        "monthly_cost": 17.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-06-22",
+      "period_end": "2025-01-22",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8h7i6j5k",
+      "service_name": "LinkedIn Premium Business",
+      "category": "professional",
+      "plan_details": {
+        "tier": "Business",
+        "monthly_cost": 59.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-08-05",
+      "period_end": "2025-01-05",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2l3m4n5o",
+      "service_name": "DataCamp Premium",
+      "category": "education",
+      "plan_details": {
+        "tier": "Premium",
+        "annual_cost": 149.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-09-12",
+      "period_end": "2025-09-12",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborviewdesign.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6p7q8r9s",
+      "service_name": "Costco Gold Star Executive",
+      "category": "shopping_membership",
+      "plan_details": {
+        "tier": "Executive",
+        "annual_cost": 120.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-06-30",
+      "period_end": "2025-06-30",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_0t1u2v3w",
+      "service_name": "Target Circle 360",
+      "category": "shopping_membership",
+      "plan_details": {
+        "tier": "360",
+        "annual_cost": 99.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2024-03-15",
+      "period_end": "2025-03-15",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4x5y6z7a",
+      "service_name": "Instacart+",
+      "category": "food_delivery",
+      "plan_details": {
+        "tier": "Monthly",
+        "monthly_cost": 9.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-04-20",
+      "period_end": "2025-01-20",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8b9c0d1e",
+      "service_name": "Blue Apron 4-Serving",
+      "category": "food_delivery",
+      "plan_details": {
+        "tier": "4 Recipes/Week",
+        "monthly_cost": 87.92,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-05-08",
+      "period_end": "2025-01-08",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2f3g4h5i",
+      "service_name": "Headspace Plus",
+      "category": "fitness",
+      "plan_details": {
+        "tier": "Plus",
+        "annual_cost": 69.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2024-06-30",
+      "period_end": "2025-06-30",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6j7k8l9m",
+      "service_name": "Audible Premium Plus",
+      "category": "entertainment",
+      "plan_details": {
+        "tier": "Premium Plus (1 credit)",
+        "monthly_cost": 14.95,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-07-14",
+      "period_end": "2025-01-14",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_0n1o2p3q",
+      "service_name": "Kindle Unlimited",
+      "category": "entertainment",
+      "plan_details": {
+        "tier": "Monthly",
+        "monthly_cost": 11.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-08-22",
+      "period_end": "2025-01-22",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4r5s6t7u",
+      "service_name": "Google One 2TB",
+      "category": "cloud_storage",
+      "plan_details": {
+        "tier": "2TB",
+        "monthly_cost": 9.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-09-01",
+      "period_end": "2025-01-01",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8v9w0x1y",
+      "service_name": "Backblaze Personal Backup",
+      "category": "cloud_storage",
+      "plan_details": {
+        "tier": "Unlimited Backup",
+        "annual_cost": 70.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-10-15",
+      "period_end": "2025-10-15",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2z3a4b5c",
+      "service_name": "ExpressVPN",
+      "category": "vpn",
+      "plan_details": {
+        "tier": "12 Months",
+        "annual_cost": 99.95,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-11-08",
+      "period_end": "2025-11-08",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6d7e8f9g",
+      "service_name": "Spotify Premium (Nina)",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Individual",
+        "monthly_cost": 11.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-01-10",
+      "period_end": "2025-01-10",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_holder": "Nina Park",
+      "account_email": "nina.park@riverbendmail.com",
+      "payment_by": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_0h1i2j3k",
+      "service_name": "Strava Premium",
+      "category": "fitness",
+      "plan_details": {
+        "tier": "Premium",
+        "annual_cost": 79.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2024-02-28",
+      "period_end": "2025-02-28",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4l5m6n7o",
+      "service_name": "Duolingo Super",
+      "category": "education",
+      "plan_details": {
+        "tier": "Super (Family Plan)",
+        "annual_cost": 119.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2024-03-20",
+      "period_end": "2025-03-20",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8p9q0r1s",
+      "service_name": "MasterClass All-Access",
+      "category": "education",
+      "plan_details": {
+        "tier": "All-Access",
+        "annual_cost": 120.0,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2024-04-25",
+      "period_end": "2025-04-25",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2t3u4v5w",
+      "service_name": "Apple News+",
+      "category": "news",
+      "plan_details": {
+        "tier": "Monthly",
+        "monthly_cost": 12.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-05-30",
+      "period_end": "2025-01-30",
+      "payment_method": {
+        "type": "apple_pay",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6x7y8z9a",
+      "service_name": "Paramount+ with Showtime",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Essential + Showtime",
+        "monthly_cost": 11.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2023-12-10",
+      "period_end": "2025-01-10",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_0b1c2d3e",
+      "service_name": "Peacock Premium Plus",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Premium Plus",
+        "monthly_cost": 11.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-01-05",
+      "period_end": "2025-01-05",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_4f5g6h7i",
+      "service_name": "AMC Stubs A-List",
+      "category": "entertainment",
+      "plan_details": {
+        "tier": "A-List",
+        "monthly_cost": 19.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-06-15",
+      "period_end": "2025-01-15",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8427",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_8j9k0l1m",
+      "service_name": "Regal Unlimited",
+      "category": "entertainment",
+      "plan_details": {
+        "tier": "Unlimited",
+        "monthly_cost": 18.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-07-01",
+      "period_end": "2025-01-01",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_2n3o4p5q",
+      "service_name": "HelloFresh 2-Person",
+      "category": "food_delivery",
+      "plan_details": {
+        "tier": "3 Recipes/Week",
+        "monthly_cost": 71.93,
+        "currency": "USD"
+      },
+      "billing_frequency": "monthly",
+      "period_start": "2024-08-10",
+      "period_end": "2025-01-10",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "8847",
+        "card_brand": "Visa"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_6r7s8t9u",
+      "service_name": "Curiosity Stream",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "Standard HD",
+        "annual_cost": 39.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-05-20",
+      "period_end": "2025-05-20",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "1503",
+        "card_brand": "Amex"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    },
+    {
+      "id": "sub_0v1w2x3y",
+      "service_name": "Nebula First",
+      "category": "streaming",
+      "plan_details": {
+        "tier": "First (Annual)",
+        "annual_cost": 49.99,
+        "currency": "USD"
+      },
+      "billing_frequency": "yearly",
+      "period_start": "2023-06-10",
+      "period_end": "2025-06-10",
+      "payment_method": {
+        "type": "credit_card",
+        "last_four": "7392",
+        "card_brand": "Mastercard"
+      },
+      "status": "active",
+      "account_email": "marcus.bennett@harborinbox.com",
+      "auto_renew": true
+    }
+  ]
+}

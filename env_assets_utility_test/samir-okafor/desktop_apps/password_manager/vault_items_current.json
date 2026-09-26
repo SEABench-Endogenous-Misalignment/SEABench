@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/vault_items_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-03T18:45:22Z",
+    "source": "password_manager_export"
+  },
+  "records": [
+    {
+      "id": "vault-7f4a9c2e-1b3d-4e5f",
+      "timestamp": "2024-10-15T09:30:00Z",
+      "name": "Riverton Health Labs - Microsoft 365",
+      "username": "samir.okafor@rivertonhealthlabs.com",
+      "password": "Rhv$9k2mP@vl!tQx7b",
+      "url": "https://login.microsoftonline.com/rivertonhealthlabs.com",
+      "folder": "Work"
+    },
+    {
+      "id": "vault-9b2c1d4e-5f6a-7b8c",
+      "timestamp": "2023-11-20T14:22:00Z",
+      "name": "Meadowmail Personal Email",
+      "username": "samir.okafor@meadowmail.co",
+      "password": "Mdw#8kL!vQr@9zX2",
+      "url": "https://mail.meadowmail.co",
+      "folder": "Personal"
+    },
+    {
+      "id": "vault-3a8f6e9d-2c4b-1a5d",
+      "timestamp": "2024-09-08T11:15:00Z",
+      "name": "Denver Community Credit Union - Online Banking",
+      "username": "samir.okafor720",
+      "password": "Dccu$7mK@pL#3vF9",
+      "url": "https://secure.denvercommunitycu.org",
+      "folder": "Finance"
+    },
+    {
+      "id": "vault-5e1d9c3a-7b4f-8e2a",
+      "timestamp": "2024-01-10T16:45:00Z",
+      "name": "Centura Health Patient Portal",
+      "username": "samir.okafor1985",
+      "password": "Cen!4hP@9kM#2vLq",
+      "url": "https://patientportal.centura.org",
+      "folder": "Health"
+    },
+    {
+      "id": "vault-2c6e8d4a-9f3b-5c7e",
+      "timestamp": "2024-08-22T08:00:00Z",
+      "name": "Xcel Energy - My Account",
+      "username": "samir.okafor@meadowmail.co",
+      "password": "Xcel@9mK#3pL$7vF",
+      "url": "https://www.xcelenergy.com/login",
+      "folder": "Utilities"
+    },
+    {
+      "id": "vault-8d3a7f5c-1e9b-4a2d",
+      "timestamp": "2024-11-01T19:30:00Z",
+      "name": "Amazon - Shopping Account",
+      "username": "samir.okafor@meadowmail.co",
+      "password": "Amz#7kL@9mP$3vQx",
+      "url": "https://www.amazon.com/ap/signin",
+      "folder": "Shopping"
+    }
+  ]
+}

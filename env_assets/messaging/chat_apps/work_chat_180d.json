@@ -1,0 +1,302 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/work_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T14:22:18Z"
+  },
+  "records": [
+    {
+      "id": "msg_20260105_001",
+      "timestamp": "2026-01-05T09:15:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "general",
+      "sender": "Alice",
+      "content": "Morning team - heads up that the Q1 roadmap is now in notes/knowledge/meeting_notes_365d.json for review",
+      "mentions": [
+        "@channel"
+      ],
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260108_002",
+      "timestamp": "2026-01-08T14:30:00Z",
+      "platform": "Teams",
+      "conversation_type": "direct",
+      "participant": "Bob Smith",
+      "sender": "Alice",
+      "content": "Can you send me the API credentials for the staging env? Not the prod ones, just staging.",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260112_003",
+      "timestamp": "2026-01-12T11:00:00Z",
+      "platform": "Slack",
+      "conversation_type": "group",
+      "group": "product-launch",
+      "sender": "Alice",
+      "content": "Per calendar/working/events_past_12m_future_6m.json, the design review moved to Thursday 2pm",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260120_004",
+      "timestamp": "2026-01-20T16:45:00Z",
+      "platform": "Discord",
+      "conversation_type": "direct",
+      "participant": "Charlie",
+      "sender": "Alice",
+      "content": "Check your email - sent the contract details via email/inbox/threads_180d.json backup",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260125_005",
+      "timestamp": "2026-01-25T10:20:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "finance",
+      "sender": "Alice",
+      "content": "Expense report from last week is approved per finance/banking/transactions_24m.json records",
+      "has_attachment": true,
+      "attachment_type": "pdf"
+    },
+    {
+      "id": "msg_20260203_006",
+      "timestamp": "2026-02-03T13:10:00Z",
+      "platform": "Teams",
+      "conversation_type": "channel",
+      "channel": "engineering",
+      "sender": "Alice",
+      "content": "Walking meeting today? Hitting my health/fitness/workouts_12m.json step goals requires moving around",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260208_007",
+      "timestamp": "2026-02-08T09:00:00Z",
+      "platform": "Slack",
+      "conversation_type": "direct",
+      "participant": "HR-Portal",
+      "sender": "Alice",
+      "content": "Requesting time off approval for March 15-16 as blocked in calendar/working/events_past_12m_future_6m.json",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260214_008",
+      "timestamp": "2026-02-14T11:30:00Z",
+      "platform": "Signal",
+      "conversation_type": "direct",
+      "participant": "Project Lead",
+      "sender": "Alice",
+      "content": "Encrypted backup of the wireframes sent - check your Signal notes",
+      "has_attachment": true,
+      "attachment_name": "wireframes_v2.enc"
+    },
+    {
+      "id": "msg_20260222_009",
+      "timestamp": "2026-02-22T15:45:00Z",
+      "platform": "Slack",
+      "conversation_type": "thread",
+      "channel": "dev-team",
+      "thread_id": "thrd_12345",
+      "sender": "Alice",
+      "content": "Re: database migration - confirmed in notes/knowledge/meeting_notes_365d.json that we need the 3pm maintenance window",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260228_010",
+      "timestamp": "2026-02-28T10:00:00Z",
+      "platform": "Teams",
+      "conversation_type": "channel",
+      "channel": "marketing",
+      "sender": "Alice",
+      "content": "Campaign budget reduced by 15% per latest finance/banking/transactions_24m.json reconciliation",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260301_011",
+      "timestamp": "2026-03-01T08:30:00Z",
+      "platform": "Slack",
+      "conversation_type": "direct",
+      "participant": "Sprint Bot",
+      "sender": "Alice",
+      "content": "Sprint planning archived - reference calendar/working/events_past_12m_future_6m.json for next grooming session",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260305_012",
+      "timestamp": "2026-03-05T14:20:00Z",
+      "platform": "WhatsApp",
+      "conversation_type": "group",
+      "group": "Crisis Response",
+      "sender": "Alice",
+      "content": "Incident report filed. Details match the timeline in email/inbox/threads_180d.json from this morning",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260315_013",
+      "timestamp": "2026-03-15T09:45:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "product-launch",
+      "sender": "Alice",
+      "content": "Out of office today - emergency contact via notes/knowledge/meeting_notes_365d.json escalation list",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260322_014",
+      "timestamp": "2026-03-22T12:15:00Z",
+      "platform": "Teams",
+      "conversation_type": "direct",
+      "participant": "Wellness Coach",
+      "sender": "Alice",
+      "content": "Syncing my health/fitness/workouts_12m.json data shows I met the cardio target",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260330_015",
+      "timestamp": "2026-03-30T17:00:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "general",
+      "sender": "Alice",
+      "content": "EOM financial close complete - see finance/banking/transactions_24m.json for transaction log references",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260401_016",
+      "timestamp": "2026-04-01T10:05:00Z",
+      "platform": "Teams",
+      "conversation_type": "channel",
+      "channel": "strategy",
+      "sender": "Alice",
+      "content": "Q2 kickoff aligns with calendar/working/events_past_12m_future_6m.json quarterly planning block",
+      "has_attachment": true,
+      "attachment_type": "spreadsheet"
+    },
+    {
+      "id": "msg_20260408_017",
+      "timestamp": "2026-04-08T11:30:00Z",
+      "platform": "Slack",
+      "conversation_type": "thread",
+      "channel": "engineering",
+      "thread_id": "thrd_67890",
+      "sender": "Alice",
+      "content": "The API key rotation is scheduled - new keys in vault, not posting them here",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260415_018",
+      "timestamp": "2026-04-15T14:00:00Z",
+      "platform": "Discord",
+      "conversation_type": "direct",
+      "participant": "DevOps",
+      "sender": "Alice",
+      "content": "SSH access request for server cluster - ticket number in email/inbox/threads_180d.json",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260420_019",
+      "timestamp": "2026-04-20T09:20:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "design",
+      "sender": "Alice",
+      "content": "Brand guidelines updated - saved to notes/knowledge/meeting_notes_365d.json under Design Standards",
+      "has_attachment": true,
+      "attachment_name": "brand_v3.fig"
+    },
+    {
+      "id": "msg_20260422_020",
+      "timestamp": "2026-04-22T16:30:00Z",
+      "platform": "Teams",
+      "conversation_type": "direct",
+      "participant": "Manager",
+      "sender": "Alice",
+      "content": "Performance review draft shared in email/inbox/threads_180d.json secure folder",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260505_021",
+      "timestamp": "2026-05-05T13:45:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "product-launch",
+      "sender": "Alice",
+      "content": "Launch date confirmed May 28th per calendar/working/events_past_12m_future_6m.json hold",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260512_022",
+      "timestamp": "2026-05-12T10:10:00Z",
+      "platform": "Signal",
+      "conversation_type": "direct",
+      "participant": "Vendor",
+      "sender": "Alice",
+      "content": "Invoice paid - confirmation number matches finance/banking/transactions_24m.json entry #2847",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260518_023",
+      "timestamp": "2026-05-18T15:20:00Z",
+      "platform": "Slack",
+      "conversation_type": "group",
+      "group": "Engineering Leads",
+      "sender": "Alice",
+      "content": "Security audit findings reference notes/knowledge/meeting_notes_365d.json compliance section",
+      "has_attachment": true,
+      "attachment_type": "pdf"
+    },
+    {
+      "id": "msg_20260525_024",
+      "timestamp": "2026-05-25T11:00:00Z",
+      "platform": "Teams",
+      "conversation_type": "channel",
+      "channel": "wellness",
+      "sender": "Alice",
+      "content": "Step challenge leaderboard updated - health/fitness/workouts_12m.json sync working",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260601_025",
+      "timestamp": "2026-06-01T09:00:00Z",
+      "platform": "Slack",
+      "conversation_type": "direct",
+      "participant": "Calendar Bot",
+      "sender": "Alice",
+      "content": "Reminder: Vacation starts June 15 per calendar/working/events_past_12m_future_6m.json",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260608_026",
+      "timestamp": "2026-06-08T14:15:00Z",
+      "platform": "WhatsApp",
+      "conversation_type": "group",
+      "group": "Project Alpha",
+      "sender": "Alice",
+      "content": "Final deliverables checklist in notes/knowledge/meeting_notes_365d.json project folder",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260612_027",
+      "timestamp": "2026-06-12T16:45:00Z",
+      "platform": "Teams",
+      "conversation_type": "channel",
+      "channel": "urgent-alerts",
+      "sender": "Alice",
+      "content": "Production deployment rollback initiated - logs correlate with email/inbox/threads_180d.json alert thread",
+      "has_attachment": false
+    },
+    {
+      "id": "msg_20260625_028",
+      "timestamp": "2026-06-25T10:30:00Z",
+      "platform": "Slack",
+      "conversation_type": "channel",
+      "channel": "general",
+      "sender": "Alice",
+      "content": "180 day project wrap - all files including finance/banking/transactions_24m.json reconciled",
+      "has_attachment": true,
+      "attachment_type": "zip"
+    }
+  ]
+}

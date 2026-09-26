@@ -1,0 +1,335 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/household/chores_365d.json",
+    "time_span": "365d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-18T14:22:00Z"
+  },
+  "records": [
+    {
+      "id": "chore_001",
+      "title": "Deep clean kitchen",
+      "date": "2025-07-05",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 120
+    },
+    {
+      "id": "chore_002",
+      "title": "Vacuum all carpets",
+      "date": "2025-07-15",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 60
+    },
+    {
+      "id": "chore_003",
+      "title": "Wash bedding and pillows",
+      "date": "2025-07-25",
+      "status": "completed",
+      "priority": "low",
+      "category": "laundry",
+      "estimated_minutes": 90
+    },
+    {
+      "id": "chore_004",
+      "title": "Deep clean bathroom",
+      "date": "2025-08-05",
+      "status": "completed",
+      "priority": "high",
+      "category": "cleaning",
+      "estimated_minutes": 75
+    },
+    {
+      "id": "chore_005",
+      "title": "Grocery inventory and restock",
+      "date": "2025-08-15",
+      "status": "completed",
+      "priority": "medium",
+      "category": "errands",
+      "estimated_minutes": 120
+    },
+    {
+      "id": "chore_006",
+      "title": "Clean interior windows",
+      "date": "2025-08-25",
+      "status": "completed",
+      "priority": "low",
+      "category": "cleaning",
+      "estimated_minutes": 45
+    },
+    {
+      "id": "chore_007",
+      "title": "Mop hardwood floors",
+      "date": "2025-09-05",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 50
+    },
+    {
+      "id": "chore_008",
+      "title": "Change HVAC filters",
+      "date": "2025-09-15",
+      "status": "completed",
+      "priority": "high",
+      "category": "maintenance",
+      "estimated_minutes": 15
+    },
+    {
+      "id": "chore_009",
+      "title": "Clean refrigerator coils",
+      "date": "2025-09-25",
+      "status": "completed",
+      "priority": "medium",
+      "category": "maintenance",
+      "estimated_minutes": 30
+    },
+    {
+      "id": "chore_010",
+      "title": "Vacuum car interior",
+      "date": "2025-10-05",
+      "status": "completed",
+      "priority": "low",
+      "category": "vehicle",
+      "estimated_minutes": 40
+    },
+    {
+      "id": "chore_011",
+      "title": "Launder curtains",
+      "date": "2025-10-15",
+      "status": "completed",
+      "priority": "low",
+      "category": "laundry",
+      "estimated_minutes": 60
+    },
+    {
+      "id": "chore_012",
+      "title": "Clean oven",
+      "date": "2025-10-25",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 90
+    },
+    {
+      "id": "chore_013",
+      "title": "Organize garage",
+      "date": "2025-11-05",
+      "status": "completed",
+      "priority": "low",
+      "category": "organization",
+      "estimated_minutes": 180
+    },
+    {
+      "id": "chore_014",
+      "title": "Dust ceiling fans",
+      "date": "2025-11-15",
+      "status": "completed",
+      "priority": "low",
+      "category": "cleaning",
+      "estimated_minutes": 30
+    },
+    {
+      "id": "chore_015",
+      "title": "Clean baseboards",
+      "date": "2025-11-25",
+      "status": "completed",
+      "priority": "low",
+      "category": "cleaning",
+      "estimated_minutes": 60
+    },
+    {
+      "id": "chore_016",
+      "title": "Wash exterior windows",
+      "date": "2025-12-05",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 120
+    },
+    {
+      "id": "chore_017",
+      "title": "Rotate mattresses",
+      "date": "2025-12-15",
+      "status": "completed",
+      "priority": "low",
+      "category": "maintenance",
+      "estimated_minutes": 30
+    },
+    {
+      "id": "chore_018",
+      "title": "Deep clean guest bathroom",
+      "date": "2025-12-25",
+      "status": "completed",
+      "priority": "high",
+      "category": "cleaning",
+      "estimated_minutes": 80
+    },
+    {
+      "id": "chore_019",
+      "title": "Post-holiday declutter",
+      "date": "2026-01-05",
+      "status": "completed",
+      "priority": "medium",
+      "category": "organization",
+      "estimated_minutes": 150
+    },
+    {
+      "id": "chore_020",
+      "title": "Clean garbage disposal",
+      "date": "2026-01-15",
+      "status": "completed",
+      "priority": "low",
+      "category": "maintenance",
+      "estimated_minutes": 15
+    },
+    {
+      "id": "chore_021",
+      "title": "Shampoo living room carpet",
+      "date": "2026-01-25",
+      "status": "completed",
+      "priority": "medium",
+      "category": "deep_cleaning",
+      "estimated_minutes": 90
+    },
+    {
+      "id": "chore_022",
+      "title": "Organize pantry",
+      "date": "2026-02-05",
+      "status": "completed",
+      "priority": "medium",
+      "category": "organization",
+      "estimated_minutes": 75
+    },
+    {
+      "id": "chore_023",
+      "title": "Clean dishwasher filter",
+      "date": "2026-02-15",
+      "status": "completed",
+      "priority": "medium",
+      "category": "maintenance",
+      "estimated_minutes": 20
+    },
+    {
+      "id": "chore_024",
+      "title": "Vacuum under furniture",
+      "date": "2026-02-25",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 60
+    },
+    {
+      "id": "chore_025",
+      "title": "Clean blinds",
+      "date": "2026-03-05",
+      "status": "completed",
+      "priority": "low",
+      "category": "cleaning",
+      "estimated_minutes": 45
+    },
+    {
+      "id": "chore_026",
+      "title": "Wash mattress protectors",
+      "date": "2026-03-15",
+      "status": "completed",
+      "priority": "low",
+      "category": "laundry",
+      "estimated_minutes": 60
+    },
+    {
+      "id": "chore_027",
+      "title": "Spring garden prep",
+      "date": "2026-03-25",
+      "status": "completed",
+      "priority": "medium",
+      "category": "outdoor",
+      "estimated_minutes": 120
+    },
+    {
+      "id": "chore_028",
+      "title": "Deep clean kitchen",
+      "date": "2026-04-05",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 120
+    },
+    {
+      "id": "chore_029",
+      "title": "Clean refrigerator interior",
+      "date": "2026-04-15",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 45
+    },
+    {
+      "id": "chore_030",
+      "title": "Wash windows",
+      "date": "2026-04-25",
+      "status": "completed",
+      "priority": "medium",
+      "category": "cleaning",
+      "estimated_minutes": 90
+    },
+    {
+      "id": "chore_031",
+      "title": "Vacuum upholstery",
+      "date": "2026-05-05",
+      "status": "completed",
+      "priority": "low",
+      "category": "cleaning",
+      "estimated_minutes": 45
+    },
+    {
+      "id": "chore_032",
+      "title": "Clean gutters",
+      "date": "2026-05-15",
+      "status": "completed",
+      "priority": "high",
+      "category": "maintenance",
+      "estimated_minutes": 90
+    },
+    {
+      "id": "chore_033",
+      "title": "Organize hallway closet",
+      "date": "2026-05-25",
+      "status": "completed",
+      "priority": "low",
+      "category": "organization",
+      "estimated_minutes": 60
+    },
+    {
+      "id": "chore_034",
+      "title": "Deep clean master bathroom",
+      "date": "2026-06-05",
+      "status": "completed",
+      "priority": "high",
+      "category": "cleaning",
+      "estimated_minutes": 90
+    },
+    {
+      "id": "chore_035",
+      "title": "Grocery bulk shopping",
+      "date": "2026-06-15",
+      "status": "completed",
+      "priority": "medium",
+      "category": "errands",
+      "estimated_minutes": 150
+    },
+    {
+      "id": "chore_036",
+      "title": "Clean outdoor patio",
+      "date": "2026-06-25",
+      "status": "scheduled",
+      "priority": "medium",
+      "category": "outdoor",
+      "estimated_minutes": 120
+    }
+  ]
+}

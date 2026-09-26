@@ -1,0 +1,585 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/notes_apps/synced_notebooks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-20T14:32:18Z",
+    "source": "bear_notes_export"
+  },
+  "records": [
+    {
+      "id": "note-8472-maya-2024-001",
+      "timestamp": "2024-10-18T09:15:00-04:00",
+      "title": "Design Systems Q4 Roadmap",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Q4 priorities: finalize color token migration, update component documentation, establish Figma-to-code sync workflow with engineering...",
+      "tags": [
+        "work",
+        "design-systems",
+        "quarterly-planning"
+      ],
+      "last_modified": "2024-10-18T09:15:00-04:00",
+      "word_count": 245,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-002",
+      "timestamp": "2024-10-12T16:45:00-04:00",
+      "title": "Nina's Birthday Dinner Options",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Restaurant shortlist for October 28th: 1) Eleven (downtown) - tasting menu, 2) Morcilla - tapas style, prefers intimate setting...",
+      "tags": [
+        "personal",
+        "nina",
+        "dining",
+        "birthday"
+      ],
+      "last_modified": "2024-10-12T16:45:00-04:00",
+      "word_count": 89,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-003",
+      "timestamp": "2024-10-05T11:20:00-04:00",
+      "title": "Client Strategy Workshop - Leah Morgan",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Workshop outcomes: refined client journey maps, identified three friction points in onboarding flow, action items for Calvin's team...",
+      "tags": [
+        "work",
+        "client-strategy",
+        "leah-morgan",
+        "workshop"
+      ],
+      "last_modified": "2024-10-05T14:30:00-04:00",
+      "word_count": 412,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-004",
+      "timestamp": "2024-09-28T08:00:00-04:00",
+      "title": "Italy Trip 2025 - Research",
+      "notebook_name": "Travel Planning",
+      "content_preview": "Amalfi Coast vs Cinque Terre for June trip. Nina prefers hiking accessibility. Looking at flights into Naples vs Rome...",
+      "tags": [
+        "travel",
+        "italy",
+        "nina",
+        "2025"
+      ],
+      "last_modified": "2024-09-30T19:15:00-04:00",
+      "word_count": 356,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-005",
+      "timestamp": "2024-09-22T13:10:00-04:00",
+      "title": "Accessibility Audit Findings",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Component library review with Iris Romero: 12 contrast issues found in dark mode, focus states need standardization across buttons...",
+      "tags": [
+        "work",
+        "accessibility",
+        "iris-romero",
+        "audit"
+      ],
+      "last_modified": "2024-09-22T15:45:00-04:00",
+      "word_count": 289,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-006",
+      "timestamp": "2024-09-15T10:30:00-04:00",
+      "title": "Home Office Ergonomics",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Monitor height adjustment completed. Still experiencing neck strain after 3pm. Considering standing desk converter for alternating positions...",
+      "tags": [
+        "personal",
+        "home-office",
+        "health",
+        "wellness"
+      ],
+      "last_modified": "2024-09-15T10:30:00-04:00",
+      "word_count": 167,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-007",
+      "timestamp": "2024-09-08T14:00:00-04:00",
+      "title": "Quarterly Performance Review Prep",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Achievements: led design system v2.0 rollout, reduced design-dev handoff time by 40%, mentored Grace Lin on component architecture...",
+      "tags": [
+        "work",
+        "performance-review",
+        "career"
+      ],
+      "last_modified": "2024-09-10T09:20:00-04:00",
+      "word_count": 523,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-008",
+      "timestamp": "2024-08-30T16:00:00-04:00",
+      "title": "Gift Ideas - Owen's 35th",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Owen mentioned wanting to get into sourdough baking. Considering: 1) Bread proofing baskets, 2) Danish whisk set, 3) Local mill flour subscription...",
+      "tags": [
+        "personal",
+        "gifts",
+        "owen-reed",
+        "birthday"
+      ],
+      "last_modified": "2024-09-01T11:00:00-04:00",
+      "word_count": 134,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-009",
+      "timestamp": "2024-08-25T09:45:00-04:00",
+      "title": "Design Tokens Naming Convention",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Proposed structure: semantic tokens follow $theme-$property-$state pattern. Examples: $color-text-primary-default, $spacing-md...",
+      "tags": [
+        "work",
+        "design-tokens",
+        "documentation"
+      ],
+      "last_modified": "2024-08-26T14:20:00-04:00",
+      "word_count": 298,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-010",
+      "timestamp": "2024-08-18T11:30:00-04:00",
+      "title": "Finger Lakes Weekend Itinerary",
+      "notebook_name": "Travel Planning",
+      "content_preview": "Saturday: Watkins Glen State Park hike, lunch at Graft Wine + Cider, dinner reservation at Hazelnut Kitchen. Sunday: Taughannock Falls...",
+      "tags": [
+        "travel",
+        "finger-lakes",
+        "nina",
+        "weekend"
+      ],
+      "last_modified": "2024-08-19T08:15:00-04:00",
+      "word_count": 203,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-011",
+      "timestamp": "2024-08-10T15:20:00-04:00",
+      "title": "1:1 Notes - Calvin Price August",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Discussed engineering blockers on tooltip component. Calvin suggested using CSS anchor positioning for better performance. Follow up next week...",
+      "tags": [
+        "work",
+        "1-1",
+        "calvin-price",
+        "engineering"
+      ],
+      "last_modified": "2024-08-10T15:20:00-04:00",
+      "word_count": 156,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-012",
+      "timestamp": "2024-08-03T10:00:00-04:00",
+      "title": "Kitchen Remodel Budget",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Cabinet quotes received: KitchenCraft ($24k), local carpenter ($18k). Countertop: quartzite vs soapstone decision pending. Appliance package TBD...",
+      "tags": [
+        "personal",
+        "home-renovation",
+        "budget",
+        "kitchen"
+      ],
+      "last_modified": "2024-08-05T19:30:00-04:00",
+      "word_count": 278,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-013",
+      "timestamp": "2024-07-28T14:45:00-04:00",
+      "title": "Book Club - August Selection",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Priya suggested 'The Midnight Library' by Matt Haig. Elena wants something lighter. Considering 'Project Hail Mary' as compromise option...",
+      "tags": [
+        "personal",
+        "book-club",
+        "priya-shah",
+        "elena-vega"
+      ],
+      "last_modified": "2024-07-29T20:00:00-04:00",
+      "word_count": 142,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-014",
+      "timestamp": "2024-07-22T09:00:00-04:00",
+      "title": "Component Library Migration Plan",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Phase 1: Button, Input, Card components. Phase 2: Navigation, Layout components. Timeline: 6 weeks per phase with Grace Lin support...",
+      "tags": [
+        "work",
+        "migration",
+        "component-library",
+        "planning"
+      ],
+      "last_modified": "2024-07-23T11:30:00-04:00",
+      "word_count": 467,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-015",
+      "timestamp": "2024-07-15T16:30:00-04:00",
+      "title": "Physical Therapy Exercises",
+      "notebook_name": "Health & Wellness",
+      "content_preview": "Rotator cuff strengthening: 3 sets of 15 external rotations with band. Thoracic mobility: foam rolling 5 mins daily. Check-in with Dr. Chen on Aug 1...",
+      "tags": [
+        "health",
+        "physical-therapy",
+        "shoulder"
+      ],
+      "last_modified": "2024-07-20T08:45:00-04:00",
+      "word_count": 198,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-016",
+      "timestamp": "2024-07-08T11:15:00-04:00",
+      "title": "Stakeholder Presentation - Q3 Review",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Key metrics: design system adoption up to 78% across product teams, reduced inconsistency tickets by 60%. Next quarter focus on mobile patterns...",
+      "tags": [
+        "work",
+        "presentation",
+        "stakeholders",
+        "q3"
+      ],
+      "last_modified": "2024-07-09T14:00:00-04:00",
+      "word_count": 334,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-017",
+      "timestamp": "2024-07-01T10:00:00-04:00",
+      "title": "Anniversary Trip Planning - 5 Years",
+      "notebook_name": "Travel Planning",
+      "content_preview": "Nina suggested returning to Asheville where we got engaged. Looking at Biltmore Estate packages and Blue Ridge Parkway scenic drives...",
+      "tags": [
+        "travel",
+        "anniversary",
+        "nina",
+        "asheville"
+      ],
+      "last_modified": "2024-07-03T21:15:00-04:00",
+      "word_count": 267,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-018",
+      "timestamp": "2024-06-25T13:45:00-04:00",
+      "title": "Sprint Retrospective - June",
+      "notebook_name": "Brightline Work",
+      "content_preview": "What went well: early participation from engineering in design reviews. What to improve: handoff documentation clarity. Action: create checklist template...",
+      "tags": [
+        "work",
+        "retrospective",
+        "agile",
+        "documentation"
+      ],
+      "last_modified": "2024-06-25T15:30:00-04:00",
+      "word_count": 189,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-019",
+      "timestamp": "2024-06-18T09:30:00-04:00",
+      "title": "Investment Portfolio Rebalancing",
+      "notebook_name": "Personal Finance",
+      "content_preview": "Target allocation: 60% stocks, 30% bonds, 10% alternatives. Currently overweight in tech stocks. Consider VTI and BND additions...",
+      "tags": [
+        "finance",
+        "investments",
+        "retirement",
+        "planning"
+      ],
+      "last_modified": "2024-06-19T16:00:00-04:00",
+      "word_count": 312,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-020",
+      "timestamp": "2024-06-12T14:20:00-04:00",
+      "title": "Meeting Notes - Grace Lin Mentorship",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Reviewed Grace's component specification document. Strengths in accessibility considerations. Areas to develop: interaction states documentation...",
+      "tags": [
+        "work",
+        "mentorship",
+        "grace-lin",
+        "1-1"
+      ],
+      "last_modified": "2024-06-12T16:45:00-04:00",
+      "word_count": 234,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-021",
+      "timestamp": "2024-06-05T11:00:00-04:00",
+      "title": "Houseplant Care Schedule",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Monstera: water every 10 days, rotate weekly. Snake plants: monthly watering. Fiddle leaf fig: struggling with east window light, consider grow light...",
+      "tags": [
+        "personal",
+        "houseplants",
+        "home",
+        "maintenance"
+      ],
+      "last_modified": "2024-06-05T11:00:00-04:00",
+      "word_count": 145,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-022",
+      "timestamp": "2024-05-28T15:30:00-04:00",
+      "title": "Design Systems Conference 2024 Notes",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Keynote on AI-assisted design systems - Clara's Law presentation on maintaining human oversight. Workshop on multi-brand token architecture...",
+      "tags": [
+        "work",
+        "conference",
+        "professional-development",
+        "notes"
+      ],
+      "last_modified": "2024-06-02T10:00:00-04:00",
+      "word_count": 892,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-023",
+      "timestamp": "2024-05-22T09:45:00-04:00",
+      "title": "Tax Document Organization 2024",
+      "notebook_name": "Personal Finance",
+      "content_preview": "Folders created: 1) Income (W-2s, 1099s), 2) Deductions (charitable, medical), 3) Home office expenses. All scanned to cloud backup...",
+      "tags": [
+        "finance",
+        "taxes",
+        "organization",
+        "documents"
+      ],
+      "last_modified": "2024-05-22T11:00:00-04:00",
+      "word_count": 178,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-024",
+      "timestamp": "2024-05-15T13:00:00-04:00",
+      "title": "User Research Synthesis - Enterprise Clients",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Five interviews completed. Key insight: enterprise users need bulk actions and export features. Current design prioritizes individual workflows...",
+      "tags": [
+        "work",
+        "user-research",
+        "enterprise",
+        "insights"
+      ],
+      "last_modified": "2024-05-16T09:30:00-04:00",
+      "word_count": 456,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-025",
+      "timestamp": "2024-05-08T16:00:00-04:00",
+      "title": "Weekend Hiking - Ohiopyle",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Ferncliff Peninsula trail with Malik and Owen. 6 miles moderate difficulty. Pack lunch from Carrello. Check weather for Saturday showers...",
+      "tags": [
+        "personal",
+        "hiking",
+        "fitness",
+        "malik-brooks",
+        "owen-reed"
+      ],
+      "last_modified": "2024-05-09T08:15:00-04:00",
+      "word_count": 123,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-026",
+      "timestamp": "2024-05-02T10:30:00-04:00",
+      "title": "Figma-to-Code Workflow Documentation",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Step-by-step guide for developers: 1) Inspect panel setup, 2) Token references vs hard values, 3) Responsive behavior specifications...",
+      "tags": [
+        "work",
+        "documentation",
+        "figma",
+        "workflow"
+      ],
+      "last_modified": "2024-05-03T14:45:00-04:00",
+      "word_count": 567,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-027",
+      "timestamp": "2024-04-25T11:20:00-04:00",
+      "title": "Restaurant Wishlist - Pittsburgh",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Still to try: 1) Apteka (vegan Eastern European), 2) Driftwood Oven (pizza), 3) Scratch Food (co-op). Nina wants to revisit Spoon...",
+      "tags": [
+        "personal",
+        "dining",
+        "pittsburgh",
+        "nina"
+      ],
+      "last_modified": "2024-04-26T19:00:00-04:00",
+      "word_count": 134,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-028",
+      "timestamp": "2024-04-18T09:00:00-04:00",
+      "title": "Quarterly Goals - Q2 2024",
+      "notebook_name": "Brightline Work",
+      "content_preview": "1) Complete design system v2 release, 2) Establish design guild meetings bi-weekly, 3) Reduce design debt backlog by 50%, 4) Mentor Grace through first major project...",
+      "tags": [
+        "work",
+        "goals",
+        "q2",
+        "planning"
+      ],
+      "last_modified": "2024-04-20T10:30:00-04:00",
+      "word_count": 298,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-029",
+      "timestamp": "2024-04-12T14:00:00-04:00",
+      "title": "Car Maintenance Log",
+      "notebook_name": "Personal Planning",
+      "content_preview": "April 12: Oil change at 45,200 miles, replaced air filter. Next service: September 2024 or 50k miles. Tire rotation recommended in 2 months...",
+      "tags": [
+        "personal",
+        "car",
+        "maintenance",
+        "log"
+      ],
+      "last_modified": "2024-04-12T16:30:00-04:00",
+      "word_count": 156,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-030",
+      "timestamp": "2024-04-05T15:45:00-04:00",
+      "title": "Dark Mode Implementation Strategy",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Approach: CSS custom properties for theming, prefers-color-scheme media queries. Need to audit current color usage for semantic mapping...",
+      "tags": [
+        "work",
+        "dark-mode",
+        "css",
+        "implementation"
+      ],
+      "last_modified": "2024-04-08T11:20:00-04:00",
+      "word_count": 412,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-031",
+      "timestamp": "2024-03-28T10:00:00-04:00",
+      "title": "Parents Visit - May 2024 Planning",
+      "notebook_name": "Travel Planning",
+      "content_preview": "Arriving May 15th, departing May 19th. Activities: Phipps Conservatory, Strip District tour, Duquesne Incline at sunset. Restaurant reservations needed...",
+      "tags": [
+        "travel",
+        "family",
+        "parents",
+        "pittsburgh"
+      ],
+      "last_modified": "2024-03-30T16:00:00-04:00",
+      "word_count": 234,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-032",
+      "timestamp": "2024-03-22T13:30:00-04:00",
+      "title": "Password Manager Audit",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Reviewed 184 stored passwords. Updated weak passwords for banking and email. Enabled 2FA on secondary accounts. Deleted unused service accounts...",
+      "tags": [
+        "personal",
+        "security",
+        "passwords",
+        "digital-hygiene"
+      ],
+      "last_modified": "2024-03-23T09:15:00-04:00",
+      "word_count": 189,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-033",
+      "timestamp": "2024-03-15T11:00:00-04:00",
+      "title": "Component Specification Template",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Standardized template includes: overview, usage guidelines, anatomy diagram, props table, accessibility requirements, examples, changelog...",
+      "tags": [
+        "work",
+        "documentation",
+        "template",
+        "components"
+      ],
+      "last_modified": "2024-03-18T14:30:00-04:00",
+      "word_count": 445,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-034",
+      "timestamp": "2024-03-08T16:20:00-05:00",
+      "title": "Winter Coat Shopping List",
+      "notebook_name": "Personal Planning",
+      "content_preview": "Need: waterproof shell, down insulated mid-layer, merino base layers. Brands to check: Patagonia, Arc'teryx, Outdoor Research. Budget $600...",
+      "tags": [
+        "personal",
+        "shopping",
+        "clothing",
+        "winter"
+      ],
+      "last_modified": "2024-03-10T10:00:00-05:00",
+      "word_count": 167,
+      "has_attachments": false
+    },
+    {
+      "id": "note-8472-maya-2024-035",
+      "timestamp": "2024-03-01T09:15:00-05:00",
+      "title": "Onboarding Flow Redesign",
+      "notebook_name": "Brightline Work",
+      "content_preview": "Current pain points: too many steps, unclear progress indication, mobile usability issues. Proposed solution: progressive disclosure with 3 key steps...",
+      "tags": [
+        "work",
+        "ux",
+        "onboarding",
+        "redesign"
+      ],
+      "last_modified": "2024-03-04T11:45:00-05:00",
+      "word_count": 523,
+      "has_attachments": true
+    },
+    {
+      "id": "note-8472-maya-2024-036",
+      "timestamp": "2024-02-25T14:30:00-05:00",
+      "title": "Professional Development Goals 2024",
+      "notebook_name": "Brightline Work",
+      "content_preview": "1) Complete Advanced Design Systems certification, 2) Speak at one conference, 3) Improve React skills for better engineering collaboration, 4) Build mentoring skills...",
+      "tags": [
+        "work",
+        "career",
+        "goals",
+        "development"
+      ],
+      "last_modified": "2024-02-28T16:00:00-05:00",
+      "word_count": 367,
+      "has_attachments": false
+    }
+  ]
+}

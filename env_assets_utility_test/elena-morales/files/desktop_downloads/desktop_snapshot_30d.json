@@ -1,0 +1,147 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/desktop_snapshot_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-15T14:30:00Z",
+    "source": "desktop_sync"
+  },
+  "records": [
+    {
+      "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "timestamp": "2024-07-14T16:45:00Z",
+      "filename": "Q3_Product_Roadmap_Review.pdf",
+      "file_path": "/Users/elena.morales/Desktop/Q3_Product_Roadmap_Review.pdf",
+      "file_size_bytes": 2841600,
+      "file_type": "application/pdf",
+      "source_domain": "sharepoint.cedargrovestudio.com",
+      "downloaded_by": "elena.morales",
+      "status": "active",
+      "shared_by": "Leah Morgan"
+    },
+    {
+      "id": "a3bb8c92-1f4d-4e8b-9c5a-7d2e6f8b1c34",
+      "timestamp": "2024-07-13T11:20:00Z",
+      "filename": "Appliance_Receipt_Washer.pdf",
+      "file_path": "/Users/elena.morales/Desktop/Appliance_Receipt_Washer.pdf",
+      "file_size_bytes": 89234,
+      "file_type": "application/pdf",
+      "source_domain": "homedepot.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "b5d9e3f1-8a2c-4d7e-b6f1-3c8a9d2e5b71",
+      "timestamp": "2024-07-11T09:30:00Z",
+      "filename": "Frontend_Architecture_Draft.fig",
+      "file_path": "/Users/elena.morales/Desktop/Frontend_Architecture_Draft.fig",
+      "file_size_bytes": 15456700,
+      "file_type": "application/figma",
+      "source_domain": "figma.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "c8e1a4d7-5f3b-4c9a-8e2d-1b4c6f7a3e98",
+      "timestamp": "2024-07-09T07:15:00Z",
+      "filename": "Weekend_Hiking_Trail_Map.gpx",
+      "file_path": "/Users/elena.morales/Desktop/Weekend_Hiking_Trail_Map.gpx",
+      "file_size_bytes": 45632,
+      "file_type": "application/gpx+xml",
+      "source_domain": "alltrails.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "d2f5b8c9-4a1e-4d7c-9b3f-5e7a2c4d6f81",
+      "timestamp": "2024-07-07T14:45:00Z",
+      "filename": "Contract_Amendment_July.docx",
+      "file_path": "/Users/elena.morales/Desktop/Contract_Amendment_July.docx",
+      "file_size_bytes": 125440,
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "source_domain": "sharepoint.cedargrovestudio.com",
+      "downloaded_by": "elena.morales",
+      "status": "active",
+      "shared_by": "Calvin Price"
+    },
+    {
+      "id": "e7a3c6d9-8b5f-4a2e-9c7d-3f6b1e5a8c42",
+      "timestamp": "2024-07-04T18:30:00Z",
+      "filename": "Monthly_Investment_Report.pdf",
+      "file_path": "/Users/elena.morales/Desktop/Monthly_Investment_Report.pdf",
+      "file_size_bytes": 342000,
+      "file_type": "application/pdf",
+      "source_domain": "fidelity.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "f1c8d5e2-9a7b-4c3f-8e6a-2d7c5b4e1f93",
+      "timestamp": "2024-07-02T12:00:00Z",
+      "filename": "Birthday_Invitation_Grace.png",
+      "file_path": "/Users/elena.morales/Desktop/Birthday_Invitation_Grace.png",
+      "file_size_bytes": 1458200,
+      "file_type": "image/png",
+      "source_domain": "canva.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "a4e7b2c8-6d3f-4a9e-8c5b-1f7e3d6c9a51",
+      "timestamp": "2024-06-29T10:00:00Z",
+      "filename": "Tax_Document_W2_CedarGrove.pdf",
+      "file_path": "/Users/elena.morales/Desktop/Tax_Document_W2_CedarGrove.pdf",
+      "file_size_bytes": 215000,
+      "file_type": "application/pdf",
+      "source_domain": "my.adp.com",
+      "downloaded_by": "elena.morales",
+      "status": "archived"
+    },
+    {
+      "id": "b8f3a6d1-4c7e-4b2a-9f8c-5e3a7d1b6c24",
+      "timestamp": "2024-06-26T21:45:00Z",
+      "filename": "Travel_Booking_Confirmation_Miami.pdf",
+      "file_path": "/Users/elena.morales/Desktop/Travel_Booking_Confirmation_Miami.pdf",
+      "file_size_bytes": 178900,
+      "file_type": "application/pdf",
+      "source_domain": "booking.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "c5d9e7a3-8f2b-4c6a-9e1d-7b4f8c2a5e76",
+      "timestamp": "2024-06-23T15:30:00Z",
+      "filename": "Team_Retreat_Photos.zip",
+      "file_path": "/Users/elena.morales/Desktop/Team_Retreat_Photos.zip",
+      "file_size_bytes": 45872000,
+      "file_type": "application/zip",
+      "source_domain": "wetransfer.com",
+      "downloaded_by": "elena.morales",
+      "status": "active",
+      "shared_by": "Iris Romero"
+    },
+    {
+      "id": "d9a2c5f8-7b4e-4d3a-9c6f-1e8b5d7a3c92",
+      "timestamp": "2024-06-21T08:20:00Z",
+      "filename": "Recipe_Collection_2024.epub",
+      "file_path": "/Users/elena.morales/Desktop/Recipe_Collection_2024.epub",
+      "file_size_bytes": 854000,
+      "file_type": "application/epub+zip",
+      "source_domain": "gumroad.com",
+      "downloaded_by": "elena.morales",
+      "status": "active"
+    },
+    {
+      "id": "e3b7f1a9-6c8d-4e2b-9a5f-4c1d8e6b3f57",
+      "timestamp": "2024-06-19T13:10:00Z",
+      "filename": "Security_Update_Installer.pkg",
+      "file_path": "/Users/elena.morales/Desktop/Security_Update_Installer.pkg",
+      "file_size_bytes": 125829120,
+      "file_type": "application/vnd.apple.installer-package-archive",
+      "source_domain": "support.apple.com",
+      "downloaded_by": "elena.morales",
+      "status": "pending"
+    }
+  ]
+}

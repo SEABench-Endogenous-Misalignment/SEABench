@@ -1,0 +1,60 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/open_tabs_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T19:35:00Z",
+    "source": "browser_session_export"
+  },
+  "records": [
+    {
+      "id": "tab-2847",
+      "url": "https://cedararch.cedargrovestudio.com/wiki/platform-specs",
+      "title": "Platform Technical Specs | Cedar Arch",
+      "timestamp": "2024-07-22T14:32:10Z",
+      "window_id": "win-994",
+      "index": 0
+    },
+    {
+      "id": "tab-2849",
+      "url": "https://mail.northstarmail.com/u/elena.morales/inbox",
+      "title": "North Star Mail - Inbox (12 unread)",
+      "timestamp": "2024-07-22T14:28:00Z",
+      "window_id": "win-994",
+      "index": 1
+    },
+    {
+      "id": "tab-2851",
+      "url": "https://designsync.io/files/cg-studio-system",
+      "title": "Design System v2.4 - DesignSync",
+      "timestamp": "2024-07-22T14:15:45Z",
+      "window_id": "win-994",
+      "index": 2
+    },
+    {
+      "id": "tab-2852",
+      "url": "https://sharedkeep.app/doc/household-budget-q3",
+      "title": "Household Budget Q3 - Shared with Grace Lin",
+      "timestamp": "2024-07-22T13:50:22Z",
+      "window_id": "win-995",
+      "index": 0
+    },
+    {
+      "id": "tab-2854",
+      "url": "https://practicalproduct.xyz/metrics-frameworks",
+      "title": "Product Metrics That Matter | Practical Product",
+      "timestamp": "2024-07-22T12:05:18Z",
+      "window_id": "win-995",
+      "index": 1
+    },
+    {
+      "id": "tab-2856",
+      "url": "https://madison.eatlocal.com/restaurants/wilson-street",
+      "title": "Wilson Street Farm-to-Table Menus - Madison Eat Local",
+      "timestamp": "2024-07-22T11:20:30Z",
+      "window_id": "win-995",
+      "index": 2
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/work_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "contacts_export"
+  },
+  "records": [
+    {
+      "id": "cnt-7291",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@brightlinesystems.com",
+      "phone": "+1-919-445-2234",
+      "organization": "Brightline Systems",
+      "title": "Senior Product Manager",
+      "date": "2022-08-15"
+    },
+    {
+      "id": "cnt-1847",
+      "name": "Calvin Price",
+      "email": "calvin.price@brightlinesystems.com",
+      "phone": "+1-919-332-9087",
+      "organization": "Brightline Systems",
+      "title": "DevOps Engineer",
+      "date": "2022-09-03"
+    },
+    {
+      "id": "cnt-5520",
+      "name": "Iris Romero",
+      "email": "iris.romero@brightlinesystems.com",
+      "phone": "+1-919-776-4451",
+      "organization": "Brightline Systems",
+      "title": "UX Researcher",
+      "date": "2022-11-20"
+    },
+    {
+      "id": "cnt-3382",
+      "name": "Grace Lin",
+      "email": "grace.lin@brightlinesystems.com",
+      "phone": "+1-919-554-7832",
+      "organization": "Brightline Systems",
+      "title": "Frontend Developer",
+      "date": "2023-01-12"
+    },
+    {
+      "id": "cnt-9012",
+      "name": "Marcus Chen",
+      "email": "marcus.chen@thinkforward.io",
+      "phone": "+1-415-223-8841",
+      "organization": "ThinkForward Analytics",
+      "title": "Solutions Architect",
+      "date": "2022-06-14"
+    },
+    {
+      "id": "cnt-4456",
+      "name": "Sarah O'Brien",
+      "email": "sarah.obrien@nexustech.com",
+      "phone": "+1-312-445-9920",
+      "organization": "Nexus Technology Partners",
+      "title": "Account Director",
+      "date": "2022-07-22"
+    },
+    {
+      "id": "cnt-7783",
+      "name": "David Kim",
+      "email": "david.kim@horizonlabs.co",
+      "phone": "+1-206-332-4456",
+      "organization": "Horizon Labs",
+      "title": "Research Scientist",
+      "date": "2022-08-30"
+    },
+    {
+      "id": "cnt-2291",
+      "name": "Rachel Torres",
+      "email": "rachel.torres@mountainviewconsulting.net",
+      "phone": "+1-303-554-2231",
+      "organization": "Mountain View Consulting",
+      "title": "Senior Consultant",
+      "date": "2022-10-05"
+    },
+    {
+      "id": "cnt-6647",
+      "name": "James Wilson",
+      "email": "j.wilson@pacificsoft.com",
+      "phone": "+1-415-667-3341",
+      "organization": "Pacific Software",
+      "title": "VP of Sales",
+      "date": "2022-10-18"
+    },
+    {
+      "id": "cnt-1123",
+      "name": "Aisha Johnson",
+      "email": "aisha.johnson@datastream.io",
+      "phone": "+1-212-445-7766",
+      "organization": "DataStream Inc",
+      "title": "Data Engineer",
+      "date": "2022-11-12"
+    },
+    {
+      "id": "cnt-8834",
+      "name": "Robert Park",
+      "email": "robert.park@velocitycloud.net",
+      "phone": "+1-617-332-5544",
+      "organization": "Velocity Cloud",
+      "title": "Cloud Architect",
+      "date": "2022-12-03"
+    },
+    {
+      "id": "cnt-3366",
+      "name": "Sofia Martinez",
+      "email": "sofia.martinez@citrixpulse.com",
+      "phone": "+1-512-778-9901",
+      "organization": "Citrix Pulse",
+      "title": "Technical Writer",
+      "date": "2022-12-15"
+    },
+    {
+      "id": "cnt-7751",
+      "name": "Kevin O'Connor",
+      "email": "kevin.oconnor@silverlinegroup.com",
+      "phone": "+1-214-332-4455",
+      "organization": "Silverline Group",
+      "title": "Project Manager",
+      "date": "2023-01-08"
+    },
+    {
+      "id": "cnt-2244",
+      "name": "Amanda Foster",
+      "email": "amanda.foster@brightlinesystems.com",
+      "phone": "+1-919-667-2211",
+      "organization": "Brightline Systems",
+      "title": "HR Business Partner",
+      "date": "2023-01-25"
+    },
+    {
+      "id": "cnt-9928",
+      "name": "Jason Lee",
+      "email": "jason.lee@quantumridge.io",
+      "phone": "+1-650-445-3322",
+      "organization": "Quantum Ridge",
+      "title": "Machine Learning Engineer",
+      "date": "2023-02-14"
+    },
+    {
+      "id": "cnt-5543",
+      "name": "Maria Garcia",
+      "email": "maria.garcia@alphasolutions.com",
+      "phone": "+1-305-776-4433",
+      "organization": "Alpha Solutions",
+      "title": "Business Analyst",
+      "date": "2023-03-01"
+    },
+    {
+      "id": "cnt-1189",
+      "name": "Brian Okonkwo",
+      "email": "brian.okonkwo@techvantage.net",
+      "phone": "+1-404-332-7788",
+      "organization": "TechVantage",
+      "title": "Security Engineer",
+      "date": "2023-03-22"
+    },
+    {
+      "id": "cnt-6672",
+      "name": "Linda Zhang",
+      "email": "linda.zhang@meridiansoft.co",
+      "phone": "+1-617-554-2233",
+      "organization": "Meridian Software",
+      "title": "Product Designer",
+      "date": "2023-04-10"
+    },
+    {
+      "id": "cnt-3001",
+      "name": "Christopher Hayes",
+      "email": "chris.hayes@summitdigital.io",
+      "phone": "+1-720-667-4455",
+      "organization": "Summit Digital",
+      "title": "Creative Director",
+      "date": "2023-04-28"
+    },
+    {
+      "id": "cnt-8556",
+      "name": "Jennifer Wu",
+      "email": "jennifer.wu@pinnacledata.com",
+      "phone": "+1-415-778-3322",
+      "organization": "Pinnacle Data",
+      "title": "Database Administrator",
+      "date": "2023-05-15"
+    },
+    {
+      "id": "cnt-4490",
+      "name": "Michael Brown",
+      "email": "michael.brown@vertexconsulting.net",
+      "phone": "+1-713-445-6677",
+      "organization": "Vertex Consulting",
+      "title": "Managing Consultant",
+      "date": "2023-06-02"
+    },
+    {
+      "id": "cnt-7752",
+      "name": "Stephanie Miller",
+      "email": "stephanie.miller@brightlinesystems.com",
+      "phone": "+1-919-332-1144",
+      "organization": "Brightline Systems",
+      "title": "Marketing Manager",
+      "date": "2023-06-20"
+    },
+    {
+      "id": "cnt-2211",
+      "name": "Andrew Davis",
+      "email": "andrew.davis@cloudmatrix.io",
+      "phone": "+1-206-778-6655",
+      "organization": "CloudMatrix",
+      "title": "SRE Lead",
+      "date": "2023-07-12"
+    },
+    {
+      "id": "cnt-9934",
+      "name": "Nicole Taylor",
+      "email": "nicole.taylor@stellarsystems.com",
+      "phone": "+1-214-554-8899",
+      "organization": "Stellar Systems",
+      "title": "QA Engineer",
+      "date": "2023-07-30"
+    },
+    {
+      "id": "cnt-5567",
+      "name": "Daniel Anderson",
+      "email": "daniel.anderson@ironcladsec.io",
+      "phone": "+1-415-332-9900",
+      "organization": "Ironclad Security",
+      "title": "Penetration Tester",
+      "date": "2023-08-18"
+    },
+    {
+      "id": "cnt-1034",
+      "name": "Michelle Thomas",
+      "email": "michelle.thomas@nexusinnovate.net",
+      "phone": "+1-617-445-2234",
+      "organization": "Nexus Innovate",
+      "title": "Scrum Master",
+      "date": "2023-09-05"
+    },
+    {
+      "id": "cnt-7721",
+      "name": "Ryan Jackson",
+      "email": "ryan.jackson@bluepeaktech.com",
+      "phone": "+1-512-332-4456",
+      "organization": "Blue Peak Technologies",
+      "title": "Network Engineer",
+      "date": "2023-09-22"
+    },
+    {
+      "id": "cnt-3389",
+      "name": "Laura White",
+      "email": "laura.white@everestcloud.co",
+      "phone": "+1-303-778-1122",
+      "organization": "Everest Cloud",
+      "title": "Customer Success Manager",
+      "date": "2023-10-10"
+    },
+    {
+      "id": "cnt-8855",
+      "name": "Brandon Harris",
+      "email": "brandon.harris@redwoodsoft.io",
+      "phone": "+1-650-554-7788",
+      "organization": "Redwood Software",
+      "title": "Backend Developer",
+      "date": "2023-10-28"
+    },
+    {
+      "id": "cnt-2247",
+      "name": "Elizabeth Martin",
+      "email": "elizabeth.martin@brightlinesystems.com",
+      "phone": "+1-919-667-9933",
+      "organization": "Brightline Systems",
+      "title": "Finance Analyst",
+      "date": "2023-11-15"
+    },
+    {
+      "id": "cnt-6612",
+      "name": "Tyler Thompson",
+      "email": "tyler.thompson@prismaworks.com",
+      "phone": "+1-212-332-4455",
+      "organization": "PrismaWorks",
+      "title": "DevRel Manager",
+      "date": "2023-12-03"
+    },
+    {
+      "id": "cnt-1178",
+      "name": "Katherine Garcia",
+      "email": "k.garcia@velocitytech.net",
+      "phone": "+1-305-554-6677",
+      "organization": "Velocity Tech",
+      "title": "Systems Analyst",
+      "date": "2023-12-20"
+    },
+    {
+      "id": "cnt-5548",
+      "name": "Aaron Robinson",
+      "email": "aaron.robinson@quantumsoft.io",
+      "phone": "+1-404-778-3322",
+      "organization": "QuantumSoft",
+      "title": "Full Stack Developer",
+      "date": "2024-01-08"
+    },
+    {
+      "id": "cnt-9003",
+      "name": "Melissa Clark",
+      "email": "melissa.clark@summitdata.co",
+      "phone": "+1-713-445-8899",
+      "organization": "Summit Data",
+      "title": "BI Developer",
+      "date": "2024-01-25"
+    },
+    {
+      "id": "cnt-3377",
+      "name": "Justin Rodriguez",
+      "email": "justin.rodriguez@apexconsulting.net",
+      "phone": "+1-512-332-1144",
+      "organization": "Apex Consulting",
+      "title": "Technical Lead",
+      "date": "2024-02-14"
+    },
+    {
+      "id": "cnt-7729",
+      "name": "Rebecca Lewis",
+      "email": "rebecca.lewis@brightlinesystems.com",
+      "phone": "+1-919-554-3366",
+      "organization": "Brightline Systems",
+      "title": "Legal Counsel",
+      "date": "2024-03-01"
+    },
+    {
+      "id": "cnt-1156",
+      "name": "Nathan Walker",
+      "email": "nathan.walker@horizonsolutions.io",
+      "phone": "+1-617-778-2233",
+      "organization": "Horizon Solutions",
+      "title": "IT Director",
+      "date": "2024-03-18"
+    },
+    {
+      "id": "cnt-4499",
+      "name": "Christina Hall",
+      "email": "christina.hall@novatech.net",
+      "phone": "+1-415-554-9900",
+      "organization": "NovaTech",
+      "title": "Product Owner",
+      "date": "2024-04-05"
+    },
+    {
+      "id": "cnt-8833",
+      "name": "Brandon Young",
+      "email": "brandon.young@pacificdata.com",
+      "phone": "+1-206-332-7788",
+      "organization": "Pacific Data",
+      "title": "Data Architect",
+      "date": "2022-05-12"
+    },
+    {
+      "id": "cnt-2266",
+      "name": "Victoria Allen",
+      "email": "victoria.allen@stellarconsulting.co",
+      "phone": "+1-720-445-1122",
+      "organization": "Stellar Consulting",
+      "title": "Change Manager",
+      "date": "2022-06-25"
+    },
+    {
+      "id": "cnt-6688",
+      "name": "Kyle King",
+      "email": "kyle.king@innovatech.io",
+      "phone": "+1-312-778-4455",
+      "organization": "Innovatech",
+      "title": "Mobile Developer",
+      "date": "2022-07-08"
+    },
+    {
+      "id": "cnt-1102",
+      "name": "Samantha Wright",
+      "email": "samantha.wright@brightlinesystems.com",
+      "phone": "+1-919-332-5566",
+      "organization": "Brightline Systems",
+      "title": "Content Strategist",
+      "date": "2022-08-22"
+    },
+    {
+      "id": "cnt-5577",
+      "name": "Eric Lopez",
+      "email": "eric.lopez@metadrive.net",
+      "phone": "+1-214-332-9988",
+      "organization": "MetaDrive",
+      "title": "Infrastructure Engineer",
+      "date": "2022-09-30"
+    },
+    {
+      "id": "cnt-9944",
+      "name": "Danielle Hill",
+      "email": "danielle.hill@cloudscape.com",
+      "phone": "+1-415-554-2234",
+      "organization": "CloudScape",
+      "title": "Solutions Engineer",
+      "date": "2022-10-15"
+    },
+    {
+      "id": "cnt-3311",
+      "name": "Adam Green",
+      "email": "adam.green@techflow.io",
+      "phone": "+1-303-778-6655",
+      "organization": "TechFlow",
+      "title": "Performance Engineer",
+      "date": "2022-11-28"
+    },
+    {
+      "id": "cnt-7766",
+      "name": "Natalie Adams",
+      "email": "natalie.adams@brightlinesystems.com",
+      "phone": "+1-919-445-7788",
+      "organization": "Brightline Systems",
+      "title": "Operations Coordinator",
+      "date": "2022-12-10"
+    },
+    {
+      "id": "cnt-2288",
+      "name": "Kevin Baker",
+      "email": "kevin.baker@datashift.net",
+      "phone": "+1-206-554-3344",
+      "organization": "DataShift",
+      "title": "Analytics Lead",
+      "date": "2023-01-18"
+    },
+    {
+      "id": "cnt-6633",
+      "name": "Rachel Nelson",
+      "email": "rachel.nelson@apexsystems.io",
+      "phone": "+1-512-778-9922",
+      "organization": "Apex Systems",
+      "title": "Implementation Specialist",
+      "date": "2023-02-05"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/search_queries_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T23:15:30Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "sq_8f3a2b91",
+      "timestamp": "2024-08-30T19:42:15-06:00",
+      "query_text": "maple hollow avenue denver recycling pickup schedule",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=maple+hollow+avenue+denver+recycling+pickup+schedule",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_9c7d4e22",
+      "timestamp": "2024-09-05T10:18:33-06:00",
+      "query_text": "google sheets pivot table multiple data ranges",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=google+sheets+pivot+table+multiple+data+ranges",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_1a8b5c76",
+      "timestamp": "2024-09-12T15:27:09-06:00",
+      "query_text": "hardwood floor scratch repair denver",
+      "search_engine": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q=hardwood+floor+scratch+repair+denver",
+      "device": "desktop"
+    },
+    {
+      "id": "sq_3d2e7f45",
+      "timestamp": "2024-09-18T09:55:42-06:00",
+      "query_text": "product operations manager interview questions 2024",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=product+operations+manager+interview+questions+2024",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_5h4i1j98",
+      "timestamp": "2024-09-24T20:03:11-06:00",
+      "query_text": "thai food delivery 80262",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=thai+food+delivery+80262",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_7k6l3m87",
+      "timestamp": "2024-10-02T14:45:28-06:00",
+      "query_text": "brightline systems employee benefits portal",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=brightline+systems+employee+benefits+portal",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_2n5o8p34",
+      "timestamp": "2024-10-08T11:22:07-06:00",
+      "query_text": "confluence page templates product requirements documentation",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=confluence+page+templates+product+requirements+documentation",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_4q7r9s65",
+      "timestamp": "2024-10-14T16:38:52-06:00",
+      "query_text": "subaru outback winter tires review",
+      "search_engine": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q=subaru+outback+winter+tires+review",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_6t1u4v29",
+      "timestamp": "2024-10-17T09:15:44-06:00",
+      "query_text": "user research field notes best practices",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=user+research+field+notes+best+practices",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_8w3x5y78",
+      "timestamp": "2024-10-22T13:50:19-06:00",
+      "query_text": "stimulus materials for usability testing examples",
+      "search_engine": "Bing",
+      "url": "https://www.bing.com/search?q=stimulus+materials+for+usability+testing+examples",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_0z2a4b56",
+      "timestamp": "2024-10-28T21:12:33-06:00",
+      "query_text": "leather anniversary gift ideas for wife",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=leather+anniversary+gifts+for+wife",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_9c6d8e12",
+      "timestamp": "2024-11-01T10:05:17-06:00",
+      "query_text": "okr vs kpi product teams difference",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=okr+vs+kpi+product+teams+difference",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_3f7g1h89",
+      "timestamp": "2024-11-04T15:33:41-07:00",
+      "query_text": "qualtrics survey logic branching tutorial",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=qualtrics+survey+logic+branching+tutorial",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_5i9j2k47",
+      "timestamp": "2024-11-09T18:45:22-07:00",
+      "query_text": "denver to seattle flights january 2025",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=denver+to+seattle+flights+january+2025",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_7l4m6n23",
+      "timestamp": "2024-11-14T14:22:08-07:00",
+      "query_text": "high altitude baking adjustments cookies",
+      "search_engine": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q=high+altitude+baking+adjustments+cookies",
+      "device": "desktop"
+    },
+    {
+      "id": "sq_1o8p0q67",
+      "timestamp": "2024-11-19T11:55:36-07:00",
+      "query_text": "denver botanic gardens winter hours 2024",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=denver+botanic+gardens+winter+hours+2024",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_4r6s8t91",
+      "timestamp": "2024-11-23T16:40:59-07:00",
+      "query_text": "iphone 16 pro battery life real world",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=iphone+16+pro+battery+life+real+world",
+      "device": "mobile"
+    },
+    {
+      "id": "sq_2u5v7w34",
+      "timestamp": "2024-11-25T09:28:15-07:00",
+      "query_text": "zoom transcription accuracy settings",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=zoom+transcription+accuracy+settings",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_6x9y1z58",
+      "timestamp": "2024-11-26T20:15:47-07:00",
+      "query_text": "notion vs confluence product documentation 2024",
+      "search_engine": "Bing",
+      "url": "https://www.bing.com/search?q=notion+vs+confluence+product+documentation+2024",
+      "device": "work-laptop"
+    },
+    {
+      "id": "sq_8a2b4c76",
+      "timestamp": "2024-11-27T07:50:12-07:00",
+      "query_text": "best waterproof winter boots for icy sidewalks",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=best+waterproof+winter+boots+for+icy+sidewalks",
+      "device": "mobile"
+    }
+  ]
+}

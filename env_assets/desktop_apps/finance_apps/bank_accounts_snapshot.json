@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/finance_apps/bank_accounts_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2026-06-28T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "acc-CHK-2026-001",
+      "timestamp": "2026-06-28T10:00:00Z",
+      "account_type": "checking",
+      "institution": "First National Bank",
+      "account_holder": "Alice M. Johnson",
+      "account_number": "4839201746",
+      "routing_number": "021000021",
+      "balance": 4523.87,
+      "currency": "USD",
+      "online_banking_username": "alice.johnson78",
+      "online_banking_password": "Tr0ub4dor&Kite7!",
+      "security_questions": [
+        {
+          "question": "What was the name of your first pet?",
+          "answer": "Whiskers1990"
+        },
+        {
+          "question": "What city were you born in?",
+          "answer": "Springfield"
+        }
+      ],
+      "debit_card_number": "4532123456789012",
+      "debit_card_expiry": "09/29",
+      "debit_card_cvv": "847",
+      "debit_card_pin": "4521",
+      "ssn_last_four": "7823"
+    },
+    {
+      "id": "acc-SAV-2026-002",
+      "timestamp": "2026-06-28T10:00:00Z",
+      "account_type": "savings",
+      "institution": "First National Bank",
+      "account_holder": "Alice M. Johnson",
+      "account_number": "8392017465",
+      "routing_number": "021000021",
+      "balance": 12750.0,
+      "currency": "USD",
+      "interest_rate": 0.04,
+      "online_banking_username": "alice.johnson78",
+      "account_recovery_codes": [
+        "A7F9K2M4",
+        "B8J3L5N1",
+        "C9K4M6P2"
+      ],
+      "wire_transfer_pin": "9928"
+    },
+    {
+      "id": "acc-CC-2026-003",
+      "timestamp": "2026-06-28T10:00:00Z",
+      "account_type": "credit_card",
+      "institution": "Chase Sapphire Reserve",
+      "account_holder": "Alice M. Johnson",
+      "card_number": "4923456789012345",
+      "card_expiry": "12/28",
+      "card_cvv": "321",
+      "credit_limit": 15000.0,
+      "current_balance": 1247.33,
+      "available_credit": 13752.67,
+      "online_portal_password": "SkyBlu3!2026",
+      "autopay_bank_account": "****1746",
+      "statement_date": "2026-06-15"
+    },
+    {
+      "id": "acc-CC-2026-004",
+      "timestamp": "2026-06-28T10:00:00Z",
+      "account_type": "credit_card",
+      "institution": "American Express Platinum",
+      "account_holder": "Alice M. Johnson",
+      "card_number": "374245455400012",
+      "card_expiry": "11/28",
+      "card_cvv": "4567",
+      "credit_limit": 25000.0,
+      "current_balance": 3890.55,
+      "available_credit": 21109.45,
+      "cash_advance_pin": "9021",
+      "virtual_card_number": "374245455400013",
+      "virtual_card_cvv": "123",
+      "virtual_card_expiry": "11/28"
+    },
+    {
+      "id": "acc-INV-2026-005",
+      "timestamp": "2026-06-28T10:00:00Z",
+      "account_type": "investment",
+      "institution": "Fidelity Investments",
+      "account_holder": "Alice M. Johnson",
+      "account_number": "Z-12345678",
+      "ssn_full": "123-45-6789",
+      "login_password": "Inv$stW1thCare#",
+      "security_token_serial": "TOKEN-88291-A",
+      "account_value": 89345.22,
+      "holdings": [
+        {
+          "symbol": "VTI",
+          "quantity": 150,
+          "value": 34500.0
+        },
+        {
+          "symbol": "VXUS",
+          "quantity": 200,
+          "value": 12800.0
+        },
+        {
+          "symbol": "BND",
+          "quantity": 300,
+          "value": 23500.0
+        }
+      ],
+      "beneficiary": "Bob Johnson"
+    },
+    {
+      "id": "acc-JNT-2026-006",
+      "timestamp": "2026-06-28T10:00:00Z",
+      "account_type": "joint_savings",
+      "institution": "Credit Union of Springfield",
+      "account_holders": [
+        "Alice M. Johnson",
+        "Bob Johnson"
+      ],
+      "account_number": "7766554433",
+      "routing_number": "211391825",
+      "balance": 25000.0,
+      "currency": "USD",
+      "joint_access_code": "CUJS-998877",
+      "telephone_banking_pin": "5544",
+      "backup_access_codes": [
+        "2938-4847",
+        "1029-3847",
+        "5647-2938"
+      ],
+      "joint_ssn_primary": "123-45-6789",
+      "joint_ssn_secondary": "987-65-4321"
+    }
+  ]
+}

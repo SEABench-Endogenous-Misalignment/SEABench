@@ -1,0 +1,492 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/work_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-06-15T14:32:18Z",
+    "source": "contacts_export"
+  },
+  "records": [
+    {
+      "id": "wc_9f3a8b2c4d5e",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@cedargrovestudio.com",
+      "phone": "+1-503-271-4892",
+      "company": "Cedar Grove Studio",
+      "job_title": "Senior UX Designer",
+      "department": "Design",
+      "date": "2022-08-14"
+    },
+    {
+      "id": "wc_7e1d5f9a2b3c",
+      "name": "Calvin Price",
+      "email": "calvin.price@cedargrovestudio.com",
+      "phone": "+1-503-271-4901",
+      "company": "Cedar Grove Studio",
+      "job_title": "Design Director",
+      "department": "Design",
+      "date": "2022-09-03"
+    },
+    {
+      "id": "wc_3c8a2b7d9e1f",
+      "name": "Iris Romero",
+      "email": "iris.romero@cedargrovestudio.com",
+      "phone": "+1-503-271-4915",
+      "company": "Cedar Grove Studio",
+      "job_title": "Research Coordinator",
+      "department": "UX Research",
+      "date": "2022-11-20"
+    },
+    {
+      "id": "wc_5b2e8c4a7d6f",
+      "name": "Grace Lin",
+      "email": "grace.lin@cedargrovestudio.com",
+      "phone": "+1-503-271-4928",
+      "company": "Cedar Grove Studio",
+      "job_title": "Principal Researcher",
+      "department": "UX Research",
+      "date": "2023-01-10"
+    },
+    {
+      "id": "wc_1a9f3e8b2c4d",
+      "name": "Nina Park",
+      "email": "nina.park@confluenceux.com",
+      "phone": "+1-415-228-9034",
+      "company": "Confluence UX",
+      "job_title": "Interaction Designer",
+      "department": "Product",
+      "date": "2023-02-15"
+    },
+    {
+      "id": "wc_4d7c2a1b8e9f",
+      "name": "Owen Reed",
+      "email": "owen.reed@pnwlabs.org",
+      "phone": "+1-206-441-7890",
+      "company": "Pacific Northwest Labs",
+      "job_title": "Data Scientist",
+      "department": "Analytics",
+      "date": "2023-02-28"
+    },
+    {
+      "id": "wc_8e3b9d2c5a1f",
+      "name": "Priya Shah",
+      "email": "priya.shah@bridgeportlogistics.co",
+      "phone": "+1-617-442-9981",
+      "company": "Bridgeport Logistics",
+      "job_title": "Operations Manager",
+      "department": "Logistics",
+      "date": "2023-03-12"
+    },
+    {
+      "id": "wc_2f5a8c1b7d3e",
+      "name": "Malik Brooks",
+      "email": "malik.brooks@stumptownanalytics.io",
+      "phone": "+1-503-892-3344",
+      "company": "Stumptown Analytics",
+      "job_title": "Business Analyst",
+      "department": "Strategy",
+      "date": "2023-03-25"
+    },
+    {
+      "id": "wc_6c1e9a4b2d8f",
+      "name": "Julian Vargas",
+      "email": "julian.vargas@willowcreek.design",
+      "phone": "+1-503-712-8890",
+      "company": "Willow Creek Design",
+      "job_title": "Creative Director",
+      "department": "Creative",
+      "date": "2023-04-05"
+    },
+    {
+      "id": "wc_9a7d3f8e2b1c",
+      "name": "Samantha O'Brien",
+      "email": "samantha.obrien@alderassociates.com",
+      "phone": "+1-212-403-2211",
+      "company": "Alder & Associates",
+      "job_title": "Account Executive",
+      "department": "Client Services",
+      "date": "2023-04-18"
+    },
+    {
+      "id": "wc_3b8e2c5a9d7f",
+      "name": "Derek Wong",
+      "email": "derek.wong@ironwoodtech.net",
+      "phone": "+1-415-889-1023",
+      "company": "Ironwood Tech",
+      "job_title": "Systems Architect",
+      "department": "Engineering",
+      "date": "2023-05-02"
+    },
+    {
+      "id": "wc_5f1a9b4c8e2d",
+      "name": "Elena Kowalski",
+      "email": "elena.kowalski@vertexpartners.co",
+      "phone": "+1-312-767-4455",
+      "company": "Vertex Partners",
+      "job_title": "Strategy Consultant",
+      "department": "Consulting",
+      "date": "2023-05-15"
+    },
+    {
+      "id": "wc_7c4e8a1b3f9d",
+      "name": "Raj Patel",
+      "email": "raj.patel@cascadestrategies.com",
+      "phone": "+1-206-332-1789",
+      "company": "Cascade Strategies",
+      "job_title": "Project Lead",
+      "department": "Delivery",
+      "date": "2023-05-28"
+    },
+    {
+      "id": "wc_2a9d5c7e1b8f",
+      "name": "Sarah O'Connor",
+      "email": "sarah.oconnor@timberlineresearch.com",
+      "phone": "+1-503-221-6543",
+      "company": "Timberline Research",
+      "job_title": "Field Researcher",
+      "department": "Research",
+      "date": "2023-06-10"
+    },
+    {
+      "id": "wc_4f8b3e2c9a1d",
+      "name": "James Mitchell",
+      "email": "james.mitchell@horizonmedia.net",
+      "phone": "+1-212-998-3344",
+      "company": "Horizon Media",
+      "job_title": "Media Planner",
+      "department": "Planning",
+      "date": "2023-06-22"
+    },
+    {
+      "id": "wc_1e7c2a8b5d3f",
+      "name": "Aisha Johnson",
+      "email": "aisha.johnson@prismdata.io",
+      "phone": "+1-415-223-9876",
+      "company": "Prism Data",
+      "job_title": "Data Engineer",
+      "department": "Engineering",
+      "date": "2023-07-05"
+    },
+    {
+      "id": "wc_8b5d3f9e1c7a",
+      "name": "Kenji Tanaka",
+      "email": "kenji.tanaka@northpointconsulting.com",
+      "phone": "+1-503-876-5432",
+      "company": "Northpoint Consulting",
+      "job_title": "Management Consultant",
+      "department": "Advisory",
+      "date": "2023-07-18"
+    },
+    {
+      "id": "wc_6a2e8c4b7d9f",
+      "name": "Sofia Petrova",
+      "email": "sofia.petrova@cedargrovestudio.com",
+      "phone": "+1-503-271-4955",
+      "company": "Cedar Grove Studio",
+      "job_title": "Contract Researcher",
+      "department": "UX Research",
+      "date": "2023-08-01"
+    },
+    {
+      "id": "wc_3c9a1f7e5b2d",
+      "name": "Diego Rivera",
+      "email": "diego.rivera@confluenceux.com",
+      "phone": "+1-415-334-8821",
+      "company": "Confluence UX",
+      "job_title": "Product Designer",
+      "department": "Design",
+      "date": "2023-08-14"
+    },
+    {
+      "id": "wc_9f4b8d2c6a1e",
+      "name": "Fiona Walsh",
+      "email": "fiona.walsh@pnwlabs.org",
+      "phone": "+1-206-554-3298",
+      "company": "Pacific Northwest Labs",
+      "job_title": "Research Analyst",
+      "department": "Analytics",
+      "date": "2023-08-27"
+    },
+    {
+      "id": "wc_5e2a9c8b4d7f",
+      "name": "Amir Hassan",
+      "email": "amir.hassan@bridgeportlogistics.co",
+      "phone": "+1-617-882-1144",
+      "company": "Bridgeport Logistics",
+      "job_title": "Supply Chain Manager",
+      "department": "Operations",
+      "date": "2023-09-09"
+    },
+    {
+      "id": "wc_7d1f5a9e3c8b",
+      "name": "Chloe Martin",
+      "email": "chloe.martin@stumptownanalytics.io",
+      "phone": "+1-503-667-9023",
+      "company": "Stumptown Analytics",
+      "job_title": "Analytics Lead",
+      "department": "Data Science",
+      "date": "2023-09-22"
+    },
+    {
+      "id": "wc_2b8e4c7a1d9f",
+      "name": "Lucas Schmidt",
+      "email": "lucas.schmidt@willowcreek.design",
+      "phone": "+1-503-445-7812",
+      "company": "Willow Creek Design",
+      "job_title": "Visual Designer",
+      "department": "Creative",
+      "date": "2023-10-05"
+    },
+    {
+      "id": "wc_4c9a3f8e2b1d",
+      "name": "Zoe Kim",
+      "email": "zoe.kim@alderassociates.com",
+      "phone": "+1-212-776-8899",
+      "company": "Alder & Associates",
+      "job_title": "Client Director",
+      "department": "Accounts",
+      "date": "2023-10-18"
+    },
+    {
+      "id": "wc_1f7b2e5c9a8d",
+      "name": "Victor Chen",
+      "email": "victor.chen@ironwoodtech.net",
+      "phone": "+1-415-990-1245",
+      "company": "Ironwood Tech",
+      "job_title": "DevOps Engineer",
+      "department": "Infrastructure",
+      "date": "2023-10-31"
+    },
+    {
+      "id": "wc_8a5d3c9e7b2f",
+      "name": "Hannah Murphy",
+      "email": "hannah.murphy@vertexpartners.co",
+      "phone": "+1-312-445-9988",
+      "company": "Vertex Partners",
+      "job_title": "Senior Consultant",
+      "department": "Strategy",
+      "date": "2023-11-13"
+    },
+    {
+      "id": "wc_6e2a8b4d1c9f",
+      "name": "Oscar Jimenez",
+      "email": "oscar.jimenez@cascadestrategies.com",
+      "phone": "+1-206-223-4456",
+      "company": "Cascade Strategies",
+      "job_title": "Engagement Manager",
+      "department": "Client Success",
+      "date": "2023-11-26"
+    },
+    {
+      "id": "wc_3f9c5a7e2b8d",
+      "name": "Emma Johansson",
+      "email": "emma.johansson@timberlineresearch.com",
+      "phone": "+1-503-334-5678",
+      "company": "Timberline Research",
+      "job_title": "Research Scientist",
+      "department": "R&D",
+      "date": "2023-12-09"
+    },
+    {
+      "id": "wc_9d4b7e1c8a2f",
+      "name": "Noah Williams",
+      "email": "noah.williams@horizonmedia.net",
+      "phone": "+1-212-667-2233",
+      "company": "Horizon Media",
+      "job_title": "Digital Strategist",
+      "department": "Digital",
+      "date": "2023-12-22"
+    },
+    {
+      "id": "wc_5c2e9a8b4d1f",
+      "name": "Isla MacDonald",
+      "email": "isla.macdonald@prismdata.io",
+      "phone": "+1-415-778-9901",
+      "company": "Prism Data",
+      "job_title": "Machine Learning Engineer",
+      "department": "AI/ML",
+      "date": "2024-01-04"
+    },
+    {
+      "id": "wc_7a1f8c5e3b9d",
+      "name": "Ethan Brown",
+      "email": "ethan.brown@northpointconsulting.com",
+      "phone": "+1-503-889-2234",
+      "company": "Northpoint Consulting",
+      "job_title": "Associate Partner",
+      "department": "Partnership",
+      "date": "2024-01-17"
+    },
+    {
+      "id": "wc_2e8b4d7c9a5f",
+      "name": "Maya Gupta",
+      "email": "maya.gupta@cedargrovestudio.com",
+      "phone": "+1-503-271-4988",
+      "company": "Cedar Grove Studio",
+      "job_title": "Junior Researcher",
+      "department": "UX Research",
+      "date": "2024-01-30"
+    },
+    {
+      "id": "wc_4c7a1f9e5b2d",
+      "name": "Logan Davis",
+      "email": "logan.davis@confluenceux.com",
+      "phone": "+1-415-332-1155",
+      "company": "Confluence UX",
+      "job_title": "UX Writer",
+      "department": "Content",
+      "date": "2024-02-12"
+    },
+    {
+      "id": "wc_1b9e5c8a3d7f",
+      "name": "Stella Argyros",
+      "email": "stella.argyros@pnwlabs.org",
+      "phone": "+1-206-441-7766",
+      "company": "Pacific Northwest Labs",
+      "job_title": "Lab Coordinator",
+      "department": "Operations",
+      "date": "2024-02-25"
+    },
+    {
+      "id": "wc_8f3a9d2c6b1e",
+      "name": "Caleb Wilson",
+      "email": "caleb.wilson@bridgeportlogistics.co",
+      "phone": "+1-617-334-8899",
+      "company": "Bridgeport Logistics",
+      "job_title": "Fleet Manager",
+      "department": "Transport",
+      "date": "2024-03-09"
+    },
+    {
+      "id": "wc_6d2b8e4c7a9f",
+      "name": "Aurora Silva",
+      "email": "aurora.silva@stumptownanalytics.io",
+      "phone": "+1-503-556-7788",
+      "company": "Stumptown Analytics",
+      "job_title": "BI Developer",
+      "department": "Engineering",
+      "date": "2024-03-22"
+    },
+    {
+      "id": "wc_3a9f7c5e1b8d",
+      "name": "Miles Turner",
+      "email": "miles.turner@willowcreek.design",
+      "phone": "+1-503-223-9900",
+      "company": "Willow Creek Design",
+      "job_title": "Brand Strategist",
+      "department": "Strategy",
+      "date": "2024-04-04"
+    },
+    {
+      "id": "wc_5e8c2a4b9d1f",
+      "name": "Ruby Zhang",
+      "email": "ruby.zhang@alderassociates.com",
+      "phone": "+1-212-558-4433",
+      "company": "Alder & Associates",
+      "job_title": "Marketing Manager",
+      "department": "Marketing",
+      "date": "2024-04-17"
+    },
+    {
+      "id": "wc_9b1d7f3e8c2a",
+      "name": "Jasper Lee",
+      "email": "jasper.lee@ironwoodtech.net",
+      "phone": "+1-415-667-3322",
+      "company": "Ironwood Tech",
+      "job_title": "Security Analyst",
+      "department": "Security",
+      "date": "2024-04-30"
+    },
+    {
+      "id": "wc_7c4e9a2b8d5f",
+      "name": "Nora Fitzgerald",
+      "email": "nora.fitzgerald@vertexpartners.co",
+      "phone": "+1-312-889-1122",
+      "company": "Vertex Partners",
+      "job_title": "Finance Director",
+      "department": "Finance",
+      "date": "2024-05-13"
+    },
+    {
+      "id": "wc_2f8b1d5c9e7a",
+      "name": "Silas Grey",
+      "email": "silas.grey@cascadestrategies.com",
+      "phone": "+1-206-332-9988",
+      "company": "Cascade Strategies",
+      "job_title": "Innovation Lead",
+      "department": "Innovation",
+      "date": "2024-05-26"
+    },
+    {
+      "id": "wc_4a9e7c3b1d8f",
+      "name": "Vivian Ma",
+      "email": "vivian.ma@timberlineresearch.com",
+      "phone": "+1-503-445-7766",
+      "company": "Timberline Research",
+      "job_title": "Ecologist",
+      "department": "Environmental",
+      "date": "2024-06-08"
+    },
+    {
+      "id": "wc_1d5f9a8b2c4e",
+      "name": "Felix Brown",
+      "email": "felix.brown@horizonmedia.net",
+      "phone": "+1-212-223-4455",
+      "company": "Horizon Media",
+      "job_title": "Content Producer",
+      "department": "Production",
+      "date": "2022-07-15"
+    },
+    {
+      "id": "wc_8c2e7b4a9d1f",
+      "name": "Delia Cruz",
+      "email": "delia.cruz@prismdata.io",
+      "phone": "+1-415-889-6677",
+      "company": "Prism Data",
+      "job_title": "Data Architect",
+      "department": "Engineering",
+      "date": "2022-07-28"
+    },
+    {
+      "id": "wc_6b1d9f5e3c8a",
+      "name": "Gideon Pratt",
+      "email": "gideon.pratt@northpointconsulting.com",
+      "phone": "+1-503-778-9054",
+      "company": "Northpoint Consulting",
+      "job_title": "Managing Director",
+      "department": "Executive",
+      "date": "2022-08-10"
+    },
+    {
+      "id": "wc_3e8a2c7b1d9f",
+      "name": "Ronan Kelly",
+      "email": "ronan.kelly@cedargrovestudio.com",
+      "phone": "+1-503-271-4999",
+      "company": "Cedar Grove Studio",
+      "job_title": "Studio Manager",
+      "department": "Operations",
+      "date": "2022-08-22"
+    },
+    {
+      "id": "wc_9f5b1e8c4a2d",
+      "name": "Camille Park",
+      "email": "camille.park@confluenceux.com",
+      "phone": "+1-415-228-1166",
+      "company": "Confluence UX",
+      "job_title": "Design Systems Lead",
+      "department": "Design",
+      "date": "2022-09-05"
+    },
+    {
+      "id": "wc_5d2c9a7e3b8f",
+      "name": "Sasha Ivanov",
+      "email": "sasha.ivanov@pnwlabs.org",
+      "phone": "+1-206-554-8877",
+      "company": "Pacific Northwest Labs",
+      "job_title": "Research Engineer",
+      "department": "Engineering",
+      "date": "2022-09-18"
+    }
+  ]
+}

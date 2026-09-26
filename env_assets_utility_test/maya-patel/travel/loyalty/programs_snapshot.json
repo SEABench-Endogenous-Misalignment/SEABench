@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/loyalty/programs_snapshot.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T22:15:30Z",
+    "source": "travel_wallet_export"
+  },
+  "records": [
+    {
+      "id": "dl-sm-845120791",
+      "program_name": "Delta SkyMiles",
+      "member_number": "845120791",
+      "current_tier": "Gold Medallion",
+      "miles_balance": 84750,
+      "qualification_year": 2024,
+      "associated_email": "maya.patel@harborinbox.com",
+      "home_airport": "PIT",
+      "timestamp": "2024-10-20T18:42:00Z"
+    },
+    {
+      "id": "mb-449218765",
+      "program_name": "Marriott Bonvoy",
+      "member_number": "449218765",
+      "current_tier": "Titanium Elite",
+      "points_balance": 125400,
+      "qualification_nights": 68,
+      "associated_email": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-20T12:15:00Z"
+    },
+    {
+      "id": "aa-adv-99218437",
+      "program_name": "American Airlines AAdvantage",
+      "member_number": "99218437",
+      "current_tier": "Platinum",
+      "miles_balance": 52300,
+      "qualifying_segments": 42,
+      "associated_email": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-18T09:45:00Z"
+    },
+    {
+      "id": "hh-77829104",
+      "program_name": "Hilton Honors",
+      "member_number": "77829104",
+      "current_tier": "Diamond",
+      "points_balance": 67800,
+      "qualification_stays": 28,
+      "associated_email": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-19T16:20:00Z"
+    },
+    {
+      "id": "chase-ur-sapphire-4821",
+      "program_name": "Chase Ultimate Rewards",
+      "card_suffix": "4821",
+      "points_balance": 45200,
+      "associated_email": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-20T08:00:00Z"
+    },
+    {
+      "id": "hertz-gp-55678912",
+      "program_name": "Hertz Gold Plus Rewards",
+      "member_number": "55678912",
+      "current_tier": "Five Star",
+      "points_balance": 8900,
+      "associated_email": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-17T11:30:00Z"
+    }
+  ]
+}

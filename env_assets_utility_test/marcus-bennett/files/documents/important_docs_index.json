@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/important_docs_index.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T22:15:43Z",
+    "source": "personal_archive_manager"
+  },
+  "records": [
+    {
+      "id": "doc-passport-marcus-2023",
+      "document_type": "passport",
+      "document_number": "A587293641",
+      "issuing_country": "United States",
+      "full_name": "Marcus Bennett",
+      "date": "2023-04-12",
+      "expiration_date": "2033-04-12",
+      "storage_location": "safe_deposit_box_bank_mpls",
+      "file_path": "/important_documents/identity/passport_marcus_2023.pdf",
+      "scan_resolution": "300dpi"
+    },
+    {
+      "id": "doc-home-ins-policy-2024",
+      "document_type": "insurance_policy",
+      "policy_number": "HMN-7748291-MS",
+      "provider": "North Star Mutual Insurance",
+      "insured_property": "7520 Laurel Creek Court, Minneapolis, MN 55497",
+      "policy_holder": "Marcus Bennett",
+      "period_start": "2024-06-01",
+      "period_end": "2025-05-31",
+      "coverage_amount": 485000,
+      "file_path": "/important_documents/insurance/homeowner_policy_2024.pdf",
+      "endorsements": [
+        "water_backup",
+        "identity_recovery"
+      ]
+    },
+    {
+      "id": "doc-marriage-cert-2019",
+      "document_type": "marriage_certificate",
+      "certificate_number": "2019-0457821",
+      "jurisdiction": "Hennepin County, Minnesota",
+      "party_a": "Marcus Bennett",
+      "party_b": "Nina Park",
+      "date": "2019-09-14",
+      "officiant": "Judge Harriet Sullivan",
+      "file_path": "/important_documents/legal/marriage_certificate_2019.pdf",
+      "witnesses": [
+        "Owen Reed",
+        "Priya Shah"
+      ]
+    },
+    {
+      "id": "doc-employment-harborview-2022",
+      "document_type": "employment_agreement",
+      "employer": "Harborview Design",
+      "employee": "Marcus Bennett",
+      "start_time": "2022-01-10T08:00:00-06:00",
+      "title": "Research Operations Lead",
+      "department": "Data Partnerships",
+      "salary_band": "L5-Senior",
+      "review_date": "2024-12-15",
+      "file_path": "/important_documents/employment/harborview_offer_2022.pdf",
+      "benefits_enrolled": [
+        "health_ppo",
+        "dental",
+        "vision",
+        "401k_match"
+      ]
+    },
+    {
+      "id": "doc-vehicle-title-2020",
+      "document_type": "vehicle_certificate_of_title",
+      "vin": "4S4BSANC7L3234567",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Outback Premium",
+      "owner": "Marcus Bennett",
+      "title_number": "MN2020TX8847562",
+      "date": "2020-08-22",
+      "lien_holder": "None",
+      "file_path": "/important_documents/vehicle/subaru_title_2020.pdf",
+      "registration_state": "Minnesota"
+    },
+    {
+      "id": "doc-healthcare-directive-2023",
+      "document_type": "advance_healthcare_directive",
+      "principal": "Marcus Bennett",
+      "healthcare_agent": "Nina Park",
+      "alternate_agent": "Owen Reed",
+      "timestamp": "2023-11-05T14:30:00-06:00",
+      "notary_public": "Amanda Foster",
+      "jurisdiction": "State of Minnesota",
+      "file_path": "/important_documents/medical/advance_directive_2023.pdf",
+      "living_will_included": true,
+      "hipaa_release": true
+    }
+  ]
+}

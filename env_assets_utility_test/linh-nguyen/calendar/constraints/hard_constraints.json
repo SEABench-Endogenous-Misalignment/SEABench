@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/hard_constraints.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-01-14T16:32:47Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "c4a8b2f1-9d3e-4f5a-8b7c-2d1e4f6a8b0c",
+      "constraint_type": "medical_therapy",
+      "title": "Weekly CBT Session - Dr. Hartwell",
+      "start_time": "2024-01-15T17:00:00-05:00",
+      "end_time": "2024-01-15T18:00:00-05:00",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO;UNTIL=20240630T235959Z",
+      "location": {
+        "name": "Hartwell Psychological Services",
+        "address": "3718 Fifth Avenue, Suite 204",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15213"
+      },
+      "participant_contact": {
+        "name": "Dr. Sarah Hartwell",
+        "phone": "+1-412-681-3342",
+        "email": "scheduling@hartwellpsych.net"
+      },
+      "buffer_minutes": 15,
+      "immovable_flag": true
+    },
+    {
+      "id": "e7d3c9a5-2b8f-4e1d-9c6a-5f3e8d2c1b0a",
+      "constraint_type": "caregiving_transport",
+      "title": "Iris Specialist Appointment Transport",
+      "date": "2024-01-22",
+      "start_time": "2024-01-22T09:30:00-05:00",
+      "end_time": "2024-01-22T12:30:00-05:00",
+      "related_party": {
+        "name": "Iris Romero",
+        "relationship": "sibling",
+        "contact_phone": "+1-412-633-6256"
+      },
+      "destination": {
+        "facility": "UPMC Mercy Rheumatology",
+        "address": "1400 Locust Street",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15219"
+      },
+      "constraint_reason": "medical_mobility_assistance_required"
+    },
+    {
+      "id": "f9e2b8d4-6c1a-4f7e-8d3b-9a5c2e1f4b8d",
+      "constraint_type": "work_presentation",
+      "title": "Q4 Data Infrastructure Review - Executive Staff",
+      "start_time": "2024-01-17T09:00:00-05:00",
+      "end_time": "2024-01-17T11:30:00-05:00",
+      "location": {
+        "name": "Atlas Civic Partners - Executive Boardroom",
+        "address": "4500 Oxford Drive",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15213"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@atlascivicpartners.com",
+          "role": "VP Operations"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@atlascivicpartners.com",
+          "role": "Chief Data Officer"
+        }
+      ],
+      "preparation_block": {
+        "start_time": "2024-01-17T08:00:00-05:00",
+        "end_time": "2024-01-17T09:00:00-05:00"
+      }
+    },
+    {
+      "id": "a1c5e9f3-8b2d-4a6e-9f4c-7d3b8e2a5f1c",
+      "constraint_type": "legal_immigration",
+      "title": "O-1 Visa Extension Filing Review",
+      "timestamp": "2024-01-18T14:00:00-05:00",
+      "end_time": "2024-01-18T15:30:00-05:00",
+      "law_firm": {
+        "name": "Berger & Kline Immigration Law",
+        "address": "600 Grant Street, Floor 44",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15219"
+      },
+      "attorney": {
+        "name": "Marcus Berger",
+        "email": "mberger@bergerkline.law",
+        "phone": "+1-412-766-8901"
+      },
+      "document_deadline": "2024-01-25",
+      "sensitivity_classification": "confidential_legal"
+    },
+    {
+      "id": "b3d7f1a9-4c8e-5f2b-1d6a-9e4c7f3b2d8a",
+      "constraint_type": "medical_infusion",
+      "title": "Monthly IVIG Infusion - Suite 3",
+      "start_time": "2024-01-20T08:30:00-05:00",
+      "end_time": "2024-01-20T12:00:00-05:00",
+      "facility": {
+        "name": "UPMC Presbyterian Infusion Center",
+        "address": "200 Lothrop Street, C-Wing Level 2",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15213"
+      },
+      "nursing_contact": "+1-412-647-8765",
+      "recovery_buffer_end": "2024-01-20T14:00:00-05:00"
+    },
+    {
+      "id": "d5e9c3b7-2f1a-6d8e-4b9c-1f7e3a5d2b8c",
+      "constraint_type": "estate_administration",
+      "title": "Executor Meeting - Parents' Estate Distribution",
+      "period_start": "2024-01-24T10:00:00-05:00",
+      "period_end": "2024-01-24T12:00:00-05:00",
+      "location": {
+        "name": "PNC Bank Trust Office",
+        "address": "300 Fifth Avenue",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "postal_code": "15222"
+      },
+      "other_heirs": [
+        {
+          "name": "Iris Romero",
+          "relation": "sibling"
+        }
+      ],
+      "trust_officer": {
+        "name": "Diane Kowalski",
+        "phone": "+1-412-762-4451"
+      }
+    }
+  ]
+}

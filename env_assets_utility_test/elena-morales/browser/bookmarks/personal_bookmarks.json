@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/personal_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T14:30:00Z",
+    "source": "browser_bookmark_export"
+  },
+  "records": [
+    {
+      "id": "bm_cgs_platform_roadmap",
+      "url": "https://internal.cedar-grove.design/docs/platform-roadmap-q3",
+      "title": "Platform Roadmap Q3 2024 - Cedar Grove",
+      "folder": "Work/Projects",
+      "timestamp": "2024-07-14T16:32:00-05:00",
+      "tags": [
+        "work",
+        "planning",
+        "roadmap"
+      ]
+    },
+    {
+      "id": "bookmark_7f3a9b2e",
+      "url": "https://my.northstarmail.com/inbox",
+      "title": "North Star Mail - Inbox",
+      "folder": "Personal/Email",
+      "timestamp": "2024-07-10T09:15:22-05:00",
+      "tags": [
+        "personal",
+        "email",
+        "daily"
+      ]
+    },
+    {
+      "id": "bm_wi_caps",
+      "url": "https://www.capitalbrewery.com/taproom-menu",
+      "title": "Capital Brewery - Taproom Menu",
+      "folder": "Personal/Dining",
+      "timestamp": "2024-06-28T19:45:00-05:00",
+      "tags": [
+        "madison",
+        "dining",
+        "weekend"
+      ]
+    },
+    {
+      "id": "bk_2024_06_14_asana",
+      "url": "https://app.asana.com/0/1203456789012345/board",
+      "title": "Platform Design Sprint - Asana",
+      "folder": "Work/Tools",
+      "timestamp": "2024-06-14T11:20:00-05:00",
+      "tags": [
+        "work",
+        "project-management",
+        "sprint"
+      ]
+    },
+    {
+      "id": "elena_bmk_run_2024",
+      "url": "https://www.runhaverunners.org/training-schedules",
+      "title": "Madison Running Club - Fall Training Schedule",
+      "folder": "Health/Fitness",
+      "timestamp": "2024-07-08T07:30:00-05:00",
+      "tags": [
+        "fitness",
+        "running",
+        "training"
+      ]
+    },
+    {
+      "id": "bm_wf_organic",
+      "url": "https://www.willystreet.coop/weekly-deals",
+      "title": "Willy Street Co-op - Weekly Deals",
+      "folder": "Home/Shopping",
+      "timestamp": "2024-07-12T12:10:00-05:00",
+      "tags": [
+        "groceries",
+        "madison",
+        "weekly"
+      ]
+    }
+  ]
+}

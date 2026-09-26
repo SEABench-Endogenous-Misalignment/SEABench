@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/insurance_cards_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-07-22T18:30:00Z",
+    "source": "document_scan_export"
+  },
+  "records": [
+    {
+      "id": "crd-dean-med-2024-eln",
+      "card_type": "medical",
+      "member_name": "Elena Morales",
+      "member_id": "XJ882930114",
+      "group_number": "CGS-2024-PLAT",
+      "insurer_name": "Dean Health Plan",
+      "plan_name": "Essential PPO - Premium Network",
+      "network_tier": "Tier 1",
+      "issuer_phone": "+1-800-279-1301",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "date": "2023-12-20",
+      "card_number": "XJ882930114"
+    },
+    {
+      "id": "crd-deltadent-dent-2024-eln",
+      "card_type": "dental",
+      "member_name": "Elena Morales",
+      "member_id": "DD77492033",
+      "group_number": "GRP-88432-DE",
+      "insurer_name": "Delta Dental of Wisconsin",
+      "plan_name": "PPO Premium",
+      "network_tier": "Delta Dental Premier",
+      "issuer_phone": "+1-800-236-3713",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "date": "2023-12-18",
+      "card_number": "DD77492033"
+    },
+    {
+      "id": "crd-vsp-vis-2024-eln",
+      "card_type": "vision",
+      "member_name": "Elena Morales",
+      "member_id": "VSP992837401",
+      "group_number": "CGS-VSP-001",
+      "insurer_name": "Vision Service Plan",
+      "plan_name": "Standard Option",
+      "network_tier": "VSP Choice Network",
+      "issuer_phone": "+1-800-877-7195",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "date": "2023-12-22",
+      "card_number": "VSP992837401"
+    },
+    {
+      "id": "crd-express-rx-2024-eln",
+      "card_type": "pharmacy",
+      "member_name": "Elena Morales",
+      "member_id": "RX884930112",
+      "rx_bin": "003858",
+      "rx_pcn": "ADV",
+      "rx_group": "WISC0922",
+      "insurer_name": "Express Scripts",
+      "plan_name": "Standard Rx Coverage",
+      "issuer_phone": "+1-866-284-5181",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "date": "2023-12-20",
+      "card_number": "RX884930112"
+    },
+    {
+      "id": "crd-navia-fsa-2024-eln",
+      "card_type": "fsa",
+      "member_name": "Elena Morales",
+      "card_number": "9823774199208834",
+      "issuer_name": "Navia Benefit Solutions",
+      "plan_name": "Health Care FSA",
+      "annual_election": 2600.0,
+      "currency": "USD",
+      "issuer_phone": "+1-844-469-6282",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "date": "2024-01-05"
+    },
+    {
+      "id": "crd-grouphlth-med-2024-grc",
+      "card_type": "medical",
+      "member_name": "Grace Lin",
+      "member_id": "GHC774920331",
+      "group_number": "UWM-GRP-2024",
+      "insurer_name": "Group Health Cooperative of South Central Wisconsin",
+      "plan_name": "Access PPO",
+      "network_tier": "GHC Network",
+      "issuer_phone": "+1-608-828-4853",
+      "period_start": "2024-02-01",
+      "period_end": "2024-12-31",
+      "date": "2024-01-28",
+      "card_number": "GHC774920331"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/investments/portfolio_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-10-20T17:30:00Z",
+    "source": "portfolio_sync_export"
+  },
+  "records": [
+    {
+      "id": "fb-29834-aapl",
+      "date": "2024-10-20",
+      "account_type": "Individual Taxable",
+      "institution": "Fidelity Investments",
+      "account_number_masked": "****9812",
+      "asset_name": "Apple Inc.",
+      "ticker": "AAPL",
+      "asset_class": "Equity",
+      "quantity": 45,
+      "last_price": 222.91,
+      "market_value": 10030.95,
+      "currency": "USD"
+    },
+    {
+      "id": "fb-29834-cash",
+      "date": "2024-10-20",
+      "account_type": "Individual Taxable",
+      "institution": "Fidelity Investments",
+      "account_number_masked": "****9812",
+      "asset_name": "Fidelity Government Money Market",
+      "ticker": "SPAXX",
+      "asset_class": "Cash Equivalent",
+      "quantity": 1250.5,
+      "last_price": 1.0,
+      "market_value": 1250.5,
+      "currency": "USD"
+    },
+    {
+      "id": "vg-roth-4421-vti",
+      "date": "2024-10-20",
+      "account_type": "Roth IRA",
+      "institution": "Vanguard",
+      "account_number_masked": "****4421",
+      "asset_name": "Vanguard Total Stock Market ETF",
+      "ticker": "VTI",
+      "asset_class": "ETF",
+      "quantity": 120,
+      "last_price": 288.45,
+      "market_value": 34614.0,
+      "currency": "USD"
+    },
+    {
+      "id": "principal-401k-7734-trpjx",
+      "date": "2024-10-20",
+      "account_type": "401(k)",
+      "institution": "Principal Financial Group",
+      "account_number_masked": "****7734",
+      "asset_name": "T. Rowe Price Retirement 2050 Fund",
+      "ticker": "TRPJX",
+      "asset_class": "Target Date Fund",
+      "quantity": 850.5,
+      "last_price": 42.35,
+      "market_value": 36018.68,
+      "currency": "USD"
+    },
+    {
+      "id": "pnc-hsa-1192-vfiax",
+      "date": "2024-10-20",
+      "account_type": "HSA Investment",
+      "institution": "PNC Bank",
+      "account_number_masked": "****1192",
+      "asset_name": "Vanguard 500 Index Fund Admiral",
+      "ticker": "VFIAX",
+      "asset_class": "Mutual Fund",
+      "quantity": 85.0,
+      "last_price": 425.1,
+      "market_value": 36133.5,
+      "currency": "USD"
+    },
+    {
+      "id": "schwab-6628-msft",
+      "date": "2024-10-20",
+      "account_type": "Individual Taxable",
+      "institution": "Charles Schwab",
+      "account_number_masked": "****6628",
+      "asset_name": "Microsoft Corporation",
+      "ticker": "MSFT",
+      "asset_class": "Equity",
+      "quantity": 20,
+      "last_price": 418.5,
+      "market_value": 8370.0,
+      "currency": "USD"
+    }
+  ]
+}

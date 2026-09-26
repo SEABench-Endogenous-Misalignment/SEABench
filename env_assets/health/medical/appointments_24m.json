@@ -1,0 +1,994 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/appointments_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2025-01-15T14:32:00Z"
+  },
+  "records": [
+    {
+      "id": "apt-001",
+      "date": "2026-04-10",
+      "start_time": "2026-04-10T09:00:00",
+      "end_time": "2026-04-10T09:30:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Annual Physical",
+      "reason": "Routine wellness examination and hypertension follow-up",
+      "notes": "BP 138/88, elevated from last visit. Discussed lifestyle modifications. Renewed Lisinopril 10mg. Labs ordered: CMP, Lipid panel, HbA1c.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z00.00",
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-448291",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-002",
+      "date": "2026-04-24",
+      "start_time": "2026-04-24T14:00:00",
+      "end_time": "2026-04-24T14:45:00",
+      "provider_name": "Dr. James Park",
+      "specialty": "Dentistry",
+      "facility_name": "Bright Smile Dental",
+      "facility_address": "4500 Broadway Ave, Suite 310, Metro City, ST 54321",
+      "visit_type": "Cleaning and Examination",
+      "reason": "Six-month preventive care",
+      "notes": "Routine cleaning performed. No cavities detected. Recommended fluoride treatment. Next visit scheduled for October.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-452891",
+      "copay_usd": 0.0
+    },
+    {
+      "id": "apt-003",
+      "date": "2026-05-08",
+      "start_time": "2026-05-08T10:30:00",
+      "end_time": "2026-05-08T11:00:00",
+      "provider_name": "Dr. Emily Watson",
+      "specialty": "Obstetrics and Gynecology",
+      "facility_name": "Women's Health Partners",
+      "facility_address": "890 Oak Street, Metro City, ST 54322",
+      "visit_type": "Annual Well-Woman Exam",
+      "reason": "Routine screening and contraception consultation",
+      "notes": "Pap smear collected. Breast exam normal. Discussed switching to IUD; patient considering options.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.419",
+        "Z30.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-462314",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-004",
+      "date": "2026-05-15",
+      "start_time": "2026-05-15T15:00:00",
+      "end_time": "2026-05-15T15:45:00",
+      "provider_name": "Karen Lewis",
+      "specialty": "Physical Therapy",
+      "facility_name": "Parkview Physical Therapy",
+      "facility_address": "334 Industrial Blvd, Metro City, ST 54320",
+      "visit_type": "PT Session",
+      "reason": "Right knee rehabilitation post-meniscectomy, session 1 of 6",
+      "notes": "Initial assessment. ROM 0-95 degrees. Pain level 4/10 with flexion. Home exercise program initiated. Ice therapy applied.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M25.561",
+        "Z47.1"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-465882",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-005",
+      "date": "2026-05-22",
+      "start_time": "2026-05-22T15:00:00",
+      "end_time": "2026-05-22T15:45:00",
+      "provider_name": "Karen Lewis",
+      "specialty": "Physical Therapy",
+      "facility_name": "Parkview Physical Therapy",
+      "facility_address": "334 Industrial Blvd, Metro City, ST 54320",
+      "visit_type": "PT Session",
+      "reason": "Right knee rehabilitation, session 2 of 6",
+      "notes": "Improved extension. Electrical stimulation applied. Patient tolerating exercises well. Pain level reduced to 2/10.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M25.561"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-468992",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-006",
+      "date": "2026-06-05",
+      "start_time": "2026-06-05T11:15:00",
+      "end_time": "2026-06-05T12:00:00",
+      "provider_name": "Dr. Lisa Thompson",
+      "specialty": "Dermatology",
+      "facility_name": "Metro Skin Care Center",
+      "facility_address": "2200 Medical Plaza, Suite 150, Metro City, ST 54321",
+      "visit_type": "Annual Skin Check",
+      "reason": "Full body examination for suspicious lesions",
+      "notes": "Found suspicious 4mm lesion on left shoulder. Biopsy performed. Patient counseled on sun protection.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z12.83",
+        "L82.1"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-478201",
+      "copay_usd": 45.0
+    },
+    {
+      "id": "apt-007",
+      "date": "2026-06-12",
+      "start_time": "2026-06-12T09:00:00",
+      "end_time": "2026-06-12T09:45:00",
+      "provider_name": "Karen Lewis",
+      "specialty": "Physical Therapy",
+      "facility_name": "Parkview Physical Therapy",
+      "facility_address": "334 Industrial Blvd, Metro City, ST 54320",
+      "visit_type": "PT Session",
+      "reason": "Right knee rehabilitation, session 3 of 6",
+      "notes": "Discharged to home program. ROM 0-125 degrees. Pain 0/10 at rest. Will schedule follow-up in 3 months.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M25.561"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-481334",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-008",
+      "date": "2026-07-08",
+      "start_time": "2026-07-08T14:30:00",
+      "end_time": "2026-07-08T15:30:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Follow-up Visit",
+      "reason": "Hypertension medication review and lab results",
+      "notes": "Lipids slightly elevated. LDL 142. Continue Lisinopril. Added Atorvastatin 20mg. Dietary counseling provided.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10",
+        "E78.5"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-492101",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-009",
+      "date": "2026-08-14",
+      "start_time": "2026-08-14T10:00:00",
+      "end_time": "2026-08-14T10:45:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Cardiology Consult",
+      "reason": "Hypertension management and baseline EKG",
+      "notes": "EKG normal sinus rhythm. Echo scheduled. Optimize BP control. Current regimen adequate for now.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-512445",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-010",
+      "date": "2026-08-28",
+      "start_time": "2026-08-28T13:00:00",
+      "end_time": "2026-08-28T13:30:00",
+      "provider_name": "Dr. Robert Kim",
+      "specialty": "Orthopedics",
+      "facility_name": "Orthopedic Specialists of Metro",
+      "facility_address": "789 Sports Medicine Way, Metro City, ST 54324",
+      "visit_type": "Post-Op Follow-up",
+      "reason": "Right knee surgery follow-up and suture removal",
+      "notes": "Incision healing well. No signs of infection. Continue PT exercises. May resume light jogging in 4 weeks.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z47.1",
+        "Z98.890"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-524001",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-011",
+      "date": "2026-09-18",
+      "start_time": "2026-09-18T09:30:00",
+      "end_time": "2026-09-18T10:00:00",
+      "provider_name": "Dr. Amanda Foster",
+      "specialty": "Optometry",
+      "facility_name": "City Eye Care",
+      "facility_address": "331 Vision Blvd, Metro City, ST 54321",
+      "visit_type": "Annual Eye Exam",
+      "reason": "Vision check and glaucoma screening",
+      "notes": "Visual acuity 20/25 OD, 20/20 OS. IOP normal. Prescription updated for right eye. No cataracts.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.00",
+        "H52.13"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-538990",
+      "copay_usd": 10.0
+    },
+    {
+      "id": "apt-012",
+      "date": "2026-09-30",
+      "start_time": "2026-09-30T16:00:00",
+      "end_time": "2026-09-30T16:50:00",
+      "provider_name": "Dr. Jennifer Wu",
+      "specialty": "Psychology",
+      "facility_name": "Metro Behavioral Health",
+      "facility_address": "400 Mental Wellness Dr, Metro City, ST 54322",
+      "visit_type": "Therapy Session",
+      "reason": "Anxiety management - Cognitive Behavioral Therapy",
+      "notes": "Discussing work-related stress. Practicing breathing techniques. Progress noted in sleep hygiene.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-545221",
+      "copay_usd": 30.0
+    },
+    {
+      "id": "apt-013",
+      "date": "2026-10-22",
+      "start_time": "2026-10-22T14:00:00",
+      "end_time": "2026-10-22T14:45:00",
+      "provider_name": "Dr. James Park",
+      "specialty": "Dentistry",
+      "facility_name": "Bright Smile Dental",
+      "facility_address": "4500 Broadway Ave, Suite 310, Metro City, ST 54321",
+      "visit_type": "Cleaning and Examination",
+      "reason": "Six-month preventive care",
+      "notes": "Light tartar buildup removed. Flossing technique reviewed. One small cavity detected on lower left molar, filling scheduled.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.20",
+        "K02.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-562114",
+      "copay_usd": 0.0
+    },
+    {
+      "id": "apt-014",
+      "date": "2026-10-30",
+      "start_time": "2026-10-30T11:00:00",
+      "end_time": "2026-10-30T11:30:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Echo Review",
+      "reason": "Review echocardiogram results",
+      "notes": "Echo shows normal LV function, EF 60%. No valvular abnormalities. Continue current antihypertensive regimen.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-568432",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-015",
+      "date": "2026-11-12",
+      "start_time": "2026-11-12T10:15:00",
+      "end_time": "2026-11-12T10:45:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Sick Visit",
+      "reason": "Persistent cough and low-grade fever",
+      "notes": "Upper respiratory infection, likely viral. Prescribed rest and fluids. OTC cough suppressant recommended. Return if symptoms worsen.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "J06.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-578901",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-016",
+      "date": "2026-11-20",
+      "start_time": "2026-11-20T15:30:00",
+      "end_time": "2026-11-20T16:00:00",
+      "provider_name": "Dr. David Martinez",
+      "specialty": "Endocrinology",
+      "facility_name": "Metro Diabetes Center",
+      "facility_address": "680 Endocrine Way, Metro City, ST 54323",
+      "visit_type": "Diabetes Management",
+      "reason": "HbA1c review and medication adjustment",
+      "notes": "HbA1c 7.2%, down from 7.8%. Continue Metformin 1000mg BID. Dietary compliance improving. Recheck in 6 months.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "E11.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-582341",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-017",
+      "date": "2026-12-03",
+      "start_time": "2026-12-03T09:00:00",
+      "end_time": "2026-12-03T09:30:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Quarterly Hypertension Check",
+      "reason": "Blood pressure monitoring and medication compliance",
+      "notes": "BP well controlled at 124/78. Patient tolerating Atorvastatin well. No muscle aches reported.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-590112",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-018",
+      "date": "2026-12-15",
+      "start_time": "2026-12-15T14:00:00",
+      "end_time": "2026-12-15T14:45:00",
+      "provider_name": "Dr. Lisa Thompson",
+      "specialty": "Dermatology",
+      "facility_name": "Metro Skin Care Center",
+      "facility_address": "2200 Medical Plaza, Suite 150, Metro City, ST 54321",
+      "visit_type": "Biopsy Follow-up",
+      "reason": "Review pathology results from June biopsy",
+      "notes": "Pathology negative for malignancy. Lesion was seborrheic keratosis. No further treatment required.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "L82.1"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2026-594332",
+      "copay_usd": 0.0
+    },
+    {
+      "id": "apt-019",
+      "date": "2027-01-11",
+      "start_time": "2027-01-11T10:00:00",
+      "end_time": "2027-01-11T10:30:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Quarterly Follow-up",
+      "reason": "Chronic disease management",
+      "notes": "Weight down 3 lbs. BP 126/80. Renewed all medications for 90 days. Scheduled annual physical for April.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10",
+        "E11.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-001223",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-020",
+      "date": "2027-01-25",
+      "start_time": "2027-01-25T16:30:00",
+      "end_time": "2027-01-25T17:00:00",
+      "provider_name": "Dr. Robert Kim",
+      "specialty": "Orthopedics",
+      "facility_name": "Orthopedic Specialists of Metro",
+      "facility_address": "789 Sports Medicine Way, Metro City, ST 54324",
+      "visit_type": "Follow-up Visit",
+      "reason": "Knee pain recurrence assessment",
+      "notes": "Patient reports intermittent pain with running. MRI ordered to evaluate for new meniscal tear.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M25.561"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-008445",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-021",
+      "date": "2027-02-05",
+      "start_time": "2027-02-05T15:00:00",
+      "end_time": "2027-02-05T15:45:00",
+      "provider_name": "PT Alex Rivera",
+      "specialty": "Physical Therapy",
+      "facility_name": "Advanced Rehab Center",
+      "facility_address": "900 Recovery Rd, Metro City, ST 54320",
+      "visit_type": "PT Evaluation",
+      "reason": "Chronic lower back pain, initial evaluation",
+      "notes": "Decreased lumbar flexion. Core weakness noted. Prescribed 8 weeks PT, 2x weekly.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M54.5",
+        "M25.50"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-015332",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-022",
+      "date": "2027-02-12",
+      "start_time": "2027-02-12T15:00:00",
+      "end_time": "2027-02-12T15:45:00",
+      "provider_name": "PT Alex Rivera",
+      "specialty": "Physical Therapy",
+      "facility_name": "Advanced Rehab Center",
+      "facility_address": "900 Recovery Rd, Metro City, ST 54320",
+      "visit_type": "PT Session",
+      "reason": "Lumbar stabilization exercises",
+      "notes": "Progress with McKenzie exercises. Pain level decreased from 6/10 to 4/10.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M54.5"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-018901",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-023",
+      "date": "2027-02-26",
+      "start_time": "2027-02-26T09:00:00",
+      "end_time": "2027-02-26T09:30:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Quarterly Hypertension Check",
+      "reason": "Routine monitoring",
+      "notes": "BP 122/76. Excellent control. Lipid panel shows LDL 98 on statin therapy. Continue current plan.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-025114",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-024",
+      "date": "2027-03-15",
+      "start_time": "2027-03-15T14:15:00",
+      "end_time": "2027-03-15T14:45:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Annual Physical",
+      "reason": "Comprehensive wellness examination",
+      "notes": "All systems stable. Mammogram ordered. Pap smear up to date. Refilled all maintenance meds.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z00.00",
+        "I10",
+        "E11.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-032889",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-025",
+      "date": "2027-04-07",
+      "start_time": "2027-04-07T11:30:00",
+      "end_time": "2027-04-07T12:00:00",
+      "provider_name": "Dr. Emily Watson",
+      "specialty": "Obstetrics and Gynecology",
+      "facility_name": "Women's Health Partners",
+      "facility_address": "890 Oak Street, Metro City, ST 54322",
+      "visit_type": "IUD Consultation",
+      "reason": "Discuss intrauterine device placement",
+      "notes": "Counseling completed. Patient opted for hormonal IUD. Placement scheduled for next month.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z30.9",
+        "Z30.017"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-038112",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-026",
+      "date": "2027-04-21",
+      "start_time": "2027-04-21T10:00:00",
+      "end_time": "2027-04-21T10:45:00",
+      "provider_name": "Dr. James Park",
+      "specialty": "Dentistry",
+      "facility_name": "Bright Smile Dental",
+      "facility_address": "4500 Broadway Ave, Suite 310, Metro City, ST 54321",
+      "visit_type": "Restorative Procedure",
+      "reason": "Fill cavity detected in October",
+      "notes": "Composite filling placed on tooth #19. Local anesthesia administered. Post-op instructions given.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "K02.9"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-045223",
+      "copay_usd": 75.0
+    },
+    {
+      "id": "apt-027",
+      "date": "2027-05-05",
+      "start_time": "2027-05-05T13:30:00",
+      "end_time": "2027-05-05T14:00:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Semi-Annual Stress REF_ID",
+      "reason": "Exercise tolerance evaluation",
+      "notes": "Stress REF_ID completed without ischemic changes. Achieved 10 METS. No angina symptoms.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.810",
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-051445",
+      "copay_usd": 150.0
+    },
+    {
+      "id": "apt-028",
+      "date": "2027-05-19",
+      "start_time": "2027-05-19T09:45:00",
+      "end_time": "2027-05-19T10:30:00",
+      "provider_name": "Dr. Emily Watson",
+      "specialty": "Obstetrics and Gynecology",
+      "facility_name": "Women's Health Partners",
+      "facility_address": "890 Oak Street, Metro City, ST 54322",
+      "visit_type": "IUD Placement",
+      "reason": "Hormonal IUD insertion",
+      "notes": "Successfully placed Mirena IUD. Minimal cramping. Ultrasound confirms proper placement. Follow-up in 6 weeks.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z30.017"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-058001",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-029",
+      "date": "2027-06-09",
+      "start_time": "2027-06-09T15:00:00",
+      "end_time": "2027-06-09T15:30:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Sick Visit",
+      "reason": "Urinary tract infection symptoms",
+      "notes": "Dysuria and frequency. Urinalysis positive for infection. Prescribed Nitrofurantoin 100mg BID x5 days.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "N39.0"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-065332",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-030",
+      "date": "2027-06-23",
+      "start_time": "2027-06-23T10:00:00",
+      "end_time": "2027-06-23T10:45:00",
+      "provider_name": "Dr. Robert Kim",
+      "specialty": "Orthopedics",
+      "facility_name": "Orthopedic Specialists of Metro",
+      "facility_address": "789 Sports Medicine Way, Metro City, ST 54324",
+      "visit_type": "MRI Review",
+      "reason": "Review knee MRI performed June 2027",
+      "notes": "Small parrot-beak tear of posterior horn medial meniscus. Recommend arthroscopic repair vs PT. Patient opting for PT first.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M23.91"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-071223",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-031",
+      "date": "2027-07-14",
+      "start_time": "2027-07-14T14:00:00",
+      "end_time": "2027-07-14T14:45:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Quarterly Visit",
+      "reason": "Hypertension and lipid management",
+      "notes": "BP 118/78. LDL 88. Excellent control. Continue current medications. Annual echo ordered.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10",
+        "E78.5"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-078901",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-032",
+      "date": "2027-07-28",
+      "start_time": "2027-07-28T11:00:00",
+      "end_time": "2027-07-28T11:30:00",
+      "provider_name": "Dr. Amanda Foster",
+      "specialty": "Optometry",
+      "facility_name": "City Eye Care",
+      "facility_address": "331 Vision Blvd, Metro City, ST 54321",
+      "visit_type": "Contact Lens Fitting",
+      "reason": "Update contact lens prescription",
+      "notes": "Refraction unchanged. Trial of new daily disposable lenses. Check back in one week.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.00"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-085114",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-033",
+      "date": "2027-08-11",
+      "start_time": "2027-08-11T09:15:00",
+      "end_time": "2027-08-11T09:45:00",
+      "provider_name": "Dr. Robert Kim",
+      "specialty": "Orthopedics",
+      "facility_name": "Orthopedic Specialists of Metro",
+      "facility_address": "789 Sports Medicine Way, Metro City, ST 54324",
+      "visit_type": "Knee Follow-up",
+      "reason": "Assess PT progress for meniscal tear",
+      "notes": "Function improved. Pain with twisting motions only. Patient declining surgery. Continue maintenance PT.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M23.91"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-092221",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-034",
+      "date": "2027-08-25",
+      "start_time": "2027-08-25T16:00:00",
+      "end_time": "2027-08-25T16:50:00",
+      "provider_name": "Dr. Jennifer Wu",
+      "specialty": "Psychology",
+      "facility_name": "Metro Behavioral Health",
+      "facility_address": "400 Mental Wellness Dr, Metro City, ST 54322",
+      "visit_type": "Therapy Session",
+      "reason": "Anxiety and stress management",
+      "notes": "Discussing upcoming work presentation. Coping strategies reviewed. Patient using breathing app successfully.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "F41.1"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-098332",
+      "copay_usd": 30.0
+    },
+    {
+      "id": "apt-035",
+      "date": "2027-09-08",
+      "start_time": "2027-09-08T10:30:00",
+      "end_time": "2027-09-08T11:00:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Medication Review",
+      "reason": "Quarterly chronic care visit",
+      "notes": "All vitals stable. Discussed flu shot. Patient agrees to vaccination today.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z51.81",
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-105441",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-036",
+      "date": "2027-09-22",
+      "start_time": "2027-09-22T14:30:00",
+      "end_time": "2027-09-22T15:15:00",
+      "provider_name": "Dr. Nancy Holt",
+      "specialty": "Allergist",
+      "facility_name": "Allergy and Asthma Associates",
+      "facility_address": "556 Pollen Lane, Metro City, ST 54325",
+      "visit_type": "Allergy Testing",
+      "reason": "Seasonal allergy evaluation",
+      "notes": "Skin prick REF_ID positive for tree and grass pollen. Prescribed Flonase and Cetirizine.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.82",
+        "J30.2"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-112334",
+      "copay_usd": 45.0
+    },
+    {
+      "id": "apt-037",
+      "date": "2027-10-13",
+      "start_time": "2027-10-13T09:00:00",
+      "end_time": "2027-10-13T09:45:00",
+      "provider_name": "Dr. James Park",
+      "specialty": "Dentistry",
+      "facility_name": "Bright Smile Dental",
+      "facility_address": "4500 Broadway Ave, Suite 310, Metro City, ST 54321",
+      "visit_type": "Cleaning and Examination",
+      "reason": "Six-month preventive care",
+      "notes": "Excellent oral hygiene. No new caries. Flossing recommended daily.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.20"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-119001",
+      "copay_usd": 0.0
+    },
+    {
+      "id": "apt-038",
+      "date": "2027-10-27",
+      "start_time": "2027-10-27T11:30:00",
+      "end_time": "2027-10-27T12:00:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Annual Echo Review",
+      "reason": "Review echocardiogram",
+      "notes": "Echo unchanged from previous. Normal LV function. No progression of disease.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10",
+        "Z01.810"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-125884",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-039",
+      "date": "2027-11-10",
+      "start_time": "2027-11-10T15:30:00",
+      "end_time": "2027-11-10T16:15:00",
+      "provider_name": "PT Lisa Wong",
+      "specialty": "Physical Therapy",
+      "facility_name": "Elite Sports Rehab",
+      "facility_address": "1122 Athletic Blvd, Metro City, ST 54320",
+      "visit_type": "Shoulder PT Evaluation",
+      "reason": "Rotator cuff tendinitis",
+      "notes": "Pain with abduction over 90 degrees. Impingement positive. Plan for 6 weeks PT.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M75.51"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-132445",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-040",
+      "date": "2027-11-17",
+      "start_time": "2027-11-17T15:30:00",
+      "end_time": "2027-11-17T16:15:00",
+      "provider_name": "PT Lisa Wong",
+      "specialty": "Physical Therapy",
+      "facility_name": "Elite Sports Rehab",
+      "facility_address": "1122 Athletic Blvd, Metro City, ST 54320",
+      "visit_type": "Shoulder PT Session",
+      "reason": "Therapeutic exercises and ultrasound",
+      "notes": "Improved range of motion. Pain level 2/10. Home exercises compliance good.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "M75.51"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-135778",
+      "copay_usd": 40.0
+    },
+    {
+      "id": "apt-041",
+      "date": "2027-12-01",
+      "start_time": "2027-12-01T10:00:00",
+      "end_time": "2027-12-01T10:30:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Preventive Visit",
+      "reason": "Pre-travel consultation for international trip",
+      "notes": "Reviewed immunizations. Prescribed prophylaxis for traveler's diarrhea. Malaria prophylaxis not indicated for destination.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z01.84",
+        "Z20.7"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-142001",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-042",
+      "date": "2027-12-15",
+      "start_time": "2027-12-15T14:00:00",
+      "end_time": "2027-12-15T14:30:00",
+      "provider_name": "Dr. Michael Ross",
+      "specialty": "Cardiology",
+      "facility_name": "Summit Cardiology Associates",
+      "facility_address": "550 Summit Ave, Suite 400, Metro City, ST 54323",
+      "visit_type": "Quarterly Hypertension Check",
+      "reason": "End of year review",
+      "notes": "BP 120/78. All goals met for year. Patient educated on holiday dietary restrictions.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "I10"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2027-148332",
+      "copay_usd": 50.0
+    },
+    {
+      "id": "apt-043",
+      "date": "2028-01-12",
+      "start_time": "2028-01-12T09:30:00",
+      "end_time": "2028-01-12T10:00:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Annual Physical",
+      "reason": "Comprehensive yearly examination",
+      "notes": "Weight stable. Mammogram results reviewed - negative. Renewed all prescriptions. Plan colonoscopy due age 45.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z00.00",
+        "Z12.31"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2028-001114",
+      "copay_usd": 25.0
+    },
+    {
+      "id": "apt-044",
+      "date": "2028-01-26",
+      "start_time": "2028-01-26T13:00:00",
+      "end_time": "2028-01-26T13:45:00",
+      "provider_name": "Dr. Kevin Patel",
+      "specialty": "Gastroenterology",
+      "facility_name": "Digestive Health Institute",
+      "facility_address": "777 GI Way, Metro City, ST 54324",
+      "visit_type": "Consultation",
+      "reason": "Pre-colonoscopy consultation",
+      "notes": "Discussed procedure risks and preparation. Scheduled colonoscopy for February. Low risk for polyps based on family history.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z12.31",
+        "Z01.411"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2028-008221",
+      "copay_usd": 45.0
+    },
+    {
+      "id": "apt-045",
+      "date": "2028-02-09",
+      "start_time": "2028-02-09T11:00:00",
+      "end_time": "2028-02-09T12:30:00",
+      "provider_name": "Dr. Kevin Patel",
+      "specialty": "Gastroenterology",
+      "facility_name": "Metro Surgery Center",
+      "facility_address": "999 Surgical Court, Metro City, ST 54324",
+      "visit_type": "Outpatient Procedure",
+      "reason": "Screening colonoscopy",
+      "notes": "Procedure completed without complications. Removed two small polyps from ascending colon. Pathology pending.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z12.31"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2028-015445",
+      "copay_usd": 250.0
+    },
+    {
+      "id": "apt-046",
+      "date": "2028-02-23",
+      "start_time": "2028-02-23T10:30:00",
+      "end_time": "2028-02-23T11:15:00",
+      "provider_name": "Dr. Robert Kim",
+      "specialty": "Orthopedics",
+      "facility_name": "Orthopedic Specialists of Metro",
+      "facility_address": "789 Sports Medicine Way, Metro City, ST 54324",
+      "visit_type": "Annual Knee Check",
+      "reason": "Long-term follow-up post-meniscectomy",
+      "notes": "Knee stable. No effusion. Maintenance exercises sufficient. No imaging required at this time.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z47.1",
+        "Z98.890"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2028-022001",
+      "copay_usd": 35.0
+    },
+    {
+      "id": "apt-047",
+      "date": "2028-03-08",
+      "start_time": "2028-03-08T14:00:00",
+      "end_time": "2028-03-08T14:45:00",
+      "provider_name": "Dr. Rachel Green",
+      "specialty": "Dermatology",
+      "facility_name": "Metro Skin Care Center",
+      "facility_address": "2200 Medical Plaza, Suite 150, Metro City, ST 54321",
+      "visit_type": "Annual Skin Examination",
+      "reason": "Full body check",
+      "notes": "One new benign-appearing nevus on back. No biopsy needed. Patient counseling on sun protection.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "Z12.83"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2028-029114",
+      "copay_usd": 45.0
+    },
+    {
+      "id": "apt-048",
+      "date": "2028-03-22",
+      "start_time": "2028-03-22T09:15:00",
+      "end_time": "2028-03-22T09:45:00",
+      "provider_name": "Dr. Sarah Chen",
+      "specialty": "Primary Care",
+      "facility_name": "Riverside Family Practice",
+      "facility_address": "1200 Riverside Dr, Suite 200, Metro City, ST 54321",
+      "visit_type": "Follow-up",
+      "reason": "Colonoscopy pathology review and wellness planning",
+      "notes": "Hyperplastic polyps, benign. Next colonoscopy in 10 years. All health metrics optimal. Annual physical scheduled.",
+      "patient_mrn": "MRN-77482910",
+      "diagnosis_codes": [
+        "K31.7",
+        "Z86.010"
+      ],
+      "status": "completed",
+      "insurance_claim_id": "CLM-2028-035882",
+      "copay_usd": 25.0
+    }
+  ]
+}

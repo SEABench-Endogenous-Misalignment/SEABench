@@ -1,0 +1,930 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/folders/travel_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2025-01-15T14:32:18Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "trv-230310-ua-01",
+      "date": "2023-03-10T09:15:00-05:00",
+      "subject": "Your trip to Austin (AUS) is confirmed",
+      "from": {
+        "name": "United Airlines",
+        "email": "united@united.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Your reservation is confirmed. Confirmation number: G7T9K2. Flight UA 2154 departing Pittsburgh on Wednesday, March 15 at 6:45 AM. Arrives Austin 9:30 AM.",
+      "size_bytes": 45233,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-230310-ua-02",
+      "date": "2023-03-10T09:18:00-05:00",
+      "subject": "Your trip to Pittsburgh (PIT) is confirmed",
+      "from": {
+        "name": "United Airlines",
+        "email": "united@united.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation number: G7T9K2 (Return). Flight UA 2155 departing Austin on Friday, March 17 at 4:00 PM. Arrives Pittsburgh 7:45 PM.",
+      "size_bytes": 44892,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-230312-mar-03",
+      "date": "2023-03-12T14:30:00-04:00",
+      "subject": "Booking Confirmation - Marriott Austin Downtown",
+      "from": {
+        "name": "Marriott International",
+        "email": "reservations@marriott.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "cc": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Dear Samir, Thank you for choosing Marriott Austin Downtown. Confirmation: 8841203. Check-in: March 15, Check-out: March 17. King room.",
+      "size_bytes": 38921,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-230314-ent-04",
+      "date": "2023-03-14T11:00:00-04:00",
+      "subject": "Enterprise Confirmation: Austin Bergstrom Intl",
+      "from": {
+        "name": "Enterprise Rent-A-Car",
+        "email": "confirmations@erac.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation Number: 456A123. Pickup: March 15 at 1:00 PM. Return: March 17 at 2:00 PM. Midsize SUV.",
+      "size_bytes": 32450,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-230605-aa-05",
+      "date": "2023-06-05T10:22:00-04:00",
+      "subject": "Your reservation is confirmed - American Airlines",
+      "from": {
+        "name": "American Airlines",
+        "email": "no-reply@aa.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation code: HJK9PL. Passenger(s): Samir Okafor, Theo Harris. Flight AA 412 on June 20, PIT to ORD.",
+      "size_bytes": 52100,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-230606-air-06",
+      "date": "2023-06-06T16:45:00-04:00",
+      "subject": "Reservation confirmed: Lakeview Coach House",
+      "from": {
+        "name": "Airbnb",
+        "email": "automated@airbnb.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "You are confirmed. Host: Sarah. Check-in: June 20 after 3PM. Check-out: June 25. Guests: Samir Okafor, Theo Harris.",
+      "size_bytes": 41230,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-230618-aa-07",
+      "date": "2023-06-18T08:00:00-04:00",
+      "subject": "Check in for your flight to Chicago",
+      "from": {
+        "name": "American Airlines",
+        "email": "no-reply@aa.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Your flight AA 412 departs in 48 hours. Check in now to select seats and receive mobile boarding passes.",
+      "size_bytes": 28934,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-230620-opn-08",
+      "date": "2023-06-20T19:30:00-04:00",
+      "subject": "Reservation confirmed at Girl & the Goat",
+      "from": {
+        "name": "OpenTable",
+        "email": "noreply@opentable.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Reservation for Samir Okafor on Thursday, June 22 at 7:00 PM. Party of 2. Confirmation: 3344556.",
+      "size_bytes": 26500,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-230814-dal-09",
+      "date": "2023-08-14T13:10:00-04:00",
+      "subject": "Booking confirmed: PIT to LGA",
+      "from": {
+        "name": "Delta Air Lines",
+        "email": "delta@delta.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: DM8V4L. Flight DL 845 on Friday, August 25, departing 2:30 PM. Return flight DL 846 on Sunday, August 27.",
+      "size_bytes": 49800,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-230814-ind-10",
+      "date": "2023-08-14T13:15:00-04:00",
+      "subject": "Confirmation of your stay at Hotel Indigo NYC Brooklyn",
+      "from": {
+        "name": "IHG",
+        "email": "confirmations@ihg.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: 99871234. Hotel Indigo NYC Brooklyn. Check-in: August 25, Check-out: August 27. 1 King Bed.",
+      "size_bytes": 35600,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-230825-dal-11",
+      "date": "2023-08-25T09:00:00-04:00",
+      "subject": "Your flight DL 845 is ready for check-in",
+      "from": {
+        "name": "Delta Air Lines",
+        "email": "delta@delta.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Check in opens 24 hours. Your flight departs at 2:30 PM from PIT Terminal B. Gate information available at noon.",
+      "size_bytes": 30120,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-230825-tlc-12",
+      "date": "2023-08-25T16:20:00-04:00",
+      "subject": "Order Confirmation - Hadestown",
+      "from": {
+        "name": "Telecharge",
+        "email": "customerservice@telecharge.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Order:987654321. Performance: Saturday August 26 at 8:00 PM. Seats: Orchestra R, Row D. Order total: $298.00.",
+      "size_bytes": 28400,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-231002-aka-13",
+      "date": "2023-10-02T11:00:00-04:00",
+      "subject": "Alaska Airlines Flight Confirmation",
+      "from": {
+        "name": "Alaska Airlines",
+        "email": "alaskaairlines@alaskaair.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: EML4A. Flight AS 334 on October 12, PIT to SEA departing 7:25 AM. Arrives 10:50 AM PT.",
+      "size_bytes": 47500,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-231002-hil-14",
+      "date": "2023-10-02T11:05:00-04:00",
+      "subject": "Your Hilton reservation is confirmed",
+      "from": {
+        "name": "Hilton",
+        "email": "reservations@hilton.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: 3344556. Hilton Seattle. Check-in: Oct 12, Check-out: Oct 14. Rate: $189/night. Executive floor.",
+      "size_bytes": 36200,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-231015-ubr-15",
+      "date": "2023-10-15T14:00:00-04:00",
+      "subject": "Your Thursday afternoon trip with Uber",
+      "from": {
+        "name": "Uber",
+        "email": "receipts@uber.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Thanks for riding, Samir. Total: $42.15. Trip from SEA to Hilton Seattle on Oct 12 at 11:30 AM.",
+      "size_bytes": 22450,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-231016-cal-16",
+      "date": "2023-10-16T09:00:00-04:00",
+      "subject": "Seattle Ops Meet - Travel details attached",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Samir, Attached is the venue map and my arrival info. See you Thursday at the conference center. Dinner at 7?",
+      "size_bytes": 15800,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-231218-jbu-17",
+      "date": "2023-12-18T10:00:00-05:00",
+      "subject": "You're going to Miami! Booking confirmed.",
+      "from": {
+        "name": "JetBlue Airways",
+        "email": "jetblue@jetblue.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: B6A1C2. Flight B6 554 on Dec 22 departing PIT at 9:00 AM. Return B6 555 on Dec 29.",
+      "size_bytes": 46700,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-231218-vrb-18",
+      "date": "2023-12-18T10:05:00-05:00",
+      "subject": "Reservation confirmed: Miami Beachfront Condo",
+      "from": {
+        "name": "Vrbo",
+        "email": "no-reply@vrbo.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: 44889922. Property: Ocean Drive Retreat. Check-in Dec 22, Check-out Dec 29. Guests: 2.",
+      "size_bytes": 39800,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-231222-jbu-19",
+      "date": "2023-12-22T07:00:00-05:00",
+      "subject": "Your boarding pass for flight B6 554",
+      "from": {
+        "name": "JetBlue Airways",
+        "email": "jetblue@jetblue.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Check in complete. Boarding Group C. Gate B12. Departs 9:00 AM. Seat 12A.",
+      "size_bytes": 28900,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-231222-snk-20",
+      "date": "2023-12-22T12:30:00-05:00",
+      "subject": "Booking confirmed: Key Biscayne Snorkel Tour",
+      "from": {
+        "name": "GetYourGuide",
+        "email": "noreply@getyourguide.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Samir, Your activity on Dec 24 at 10:00 AM is confirmed. Meeting point: Crandon Park Marina.",
+      "size_bytes": 24500,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-240208-swa-21",
+      "date": "2024-02-08T15:00:00-05:00",
+      "subject": "Southwest Airlines Confirmation",
+      "from": {
+        "name": "Southwest Airlines",
+        "email": "southwestairlines@southwest.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: ABC123. Passenger: Samir Okafor. Flight WN 1122 on Feb 15, PIT to DEN at 11:30 AM.",
+      "size_bytes": 41200,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-240208-lod-22",
+      "date": "2024-02-08T15:10:00-05:00",
+      "subject": "Reservation Confirmed - Frisco Lodge",
+      "from": {
+        "name": "Frisco Lodge",
+        "email": "reservations@friscolodge.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Dates: Feb 15-20, 2024. Guests: 2 (Samir Okafor, Theo Harris). Cabin: Columbine. Confirmation: FL-8899.",
+      "size_bytes": 32100,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240220-ski-23",
+      "date": "2024-02-20T08:00:00-07:00",
+      "subject": "Ski Rental Confirmation - Christy Sports",
+      "from": {
+        "name": "Christy Sports",
+        "email": "info@christysports.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Reservation #: 7890. Pickup: Feb 16 at 9:00 AM. Return: Feb 20. Equipment: Performance Ski Package.",
+      "size_bytes": 27800,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240222-wth-24",
+      "date": "2024-02-22T11:00:00-07:00",
+      "subject": "Ikon Alert: Winter weather for Copper Mountain",
+      "from": {
+        "name": "Ikon Pass",
+        "email": "alerts@ikonpass.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Heavy snow expected Thursday. Lifts may experience delays. Road conditions: Chain law in effect.",
+      "size_bytes": 23100,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240410-dal-25",
+      "date": "2024-04-10T09:30:00-04:00",
+      "subject": "Flight Confirmation - Boston Logan",
+      "from": {
+        "name": "Delta Air Lines",
+        "email": "delta@delta.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: G9K2LM. Flight DL 201 on April 8, PIT to BOS departing 6:00 AM. Return April 11.",
+      "size_bytes": 46500,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-240410-air-26",
+      "date": "2024-04-10T09:35:00-04:00",
+      "subject": "Cambridge Garden Apartment - Confirmed",
+      "from": {
+        "name": "Airbnb",
+        "email": "automated@airbnb.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Host: David. Check-in: Monday, April 8. Check-out: Thursday, April 11. Address: 44 Maple Ave, Cambridge.",
+      "size_bytes": 38900,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240412-cnf-27",
+      "date": "2024-04-12T13:00:00-04:00",
+      "subject": "DesignOps Boston 2024 - Registration Confirmed",
+      "from": {
+        "name": "DesignOps Boston",
+        "email": "tickets@designopsboston.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Samir Okafor, your registration for April 10-11 is confirmed. Venue: Boston Convention Center. Badge ready.",
+      "size_bytes": 30200,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-240414-opn-28",
+      "date": "2024-04-14T19:00:00-04:00",
+      "subject": "Table for 2 at Oleana",
+      "from": {
+        "name": "OpenTable",
+        "email": "noreply@opentable.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Tuesday, April 9 at 8:00 PM. Confirmation: 112233. Cancellation policy applies.",
+      "size_bytes": 25600,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240720-aka-29",
+      "date": "2024-07-20T11:00:00-04:00",
+      "subject": "Alaska Airlines: Your trip to Portland",
+      "from": {
+        "name": "Alaska Airlines",
+        "email": "alaskaairlines@alaskaair.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: PDX789. Flight AS 780 on July 22, PIT to PDX departing 8:15 AM. Return July 29.",
+      "size_bytes": 48300,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-240720-jup-30",
+      "date": "2024-07-20T11:05:00-04:00",
+      "subject": "Jupiter Hotel Reservation",
+      "from": {
+        "name": "Jupiter Hotel",
+        "email": "rooms@jupiterhotel.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "July 22-29, 2024. Confirmation: JGH-9988. Room 204. Late check-in requested.",
+      "size_bytes": 31200,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240722-ent-31",
+      "date": "2024-07-22T10:00:00-04:00",
+      "subject": "Enterprise Reservation: Portland Intl",
+      "from": {
+        "name": "Enterprise",
+        "email": "confirmations@erac.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: 321XYZ. Pickup July 22 at 11:00 AM. Return July 29. Compact Car.",
+      "size_bytes": 29800,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240726-eat-32",
+      "date": "2024-07-26T09:00:00-04:00",
+      "subject": "Tasty Portland Food Tour Confirmation",
+      "from": {
+        "name": "Tasty Portland",
+        "email": "hello@tastyportlandtours.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "See you Saturday July 27 at 11:00 AM. Meeting: Powell's Books entrance. Dietary: None listed.",
+      "size_bytes": 24300,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240909-dal-33",
+      "date": "2024-09-09T14:00:00-04:00",
+      "subject": "Delta Confirmation: PIT to ATL",
+      "from": {
+        "name": "Delta Air Lines",
+        "email": "delta@delta.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: DL55A99. Flight DL 1451 on Sept 15 departing 1:00 PM. Return DL 1452 Sept 18.",
+      "size_bytes": 45900,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-240909-hyt-34",
+      "date": "2024-09-09T14:05:00-04:00",
+      "subject": "Hyatt Regency Atlanta Midtown",
+      "from": {
+        "name": "Hyatt",
+        "email": "reservations@hyatt.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: 556677. Check-in: Sept 15. Check-out: Sept 18. King room with city view.",
+      "size_bytes": 34500,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-240910-iri-35",
+      "date": "2024-09-10T11:00:00-04:00",
+      "subject": "Atlanta Site Visit - Travel Logistics",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Samir, I've arranged the car service from ATL to the client site. Departing airport 3:30 PM tomorrow.",
+      "size_bytes": 18900,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-240912-dal-36",
+      "date": "2024-09-12T16:00:00-04:00",
+      "subject": "Reminder: Check in for your return flight DL 1452",
+      "from": {
+        "name": "Delta Air Lines",
+        "email": "delta@delta.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Your flight departs Atlanta at 5:45 PM today. Check in now to confirm seat 14C.",
+      "size_bytes": 26700,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-241125-swa-37",
+      "date": "2024-11-25T08:00:00-05:00",
+      "subject": "Southwest Airlines Reservation",
+      "from": {
+        "name": "Southwest Airlines",
+        "email": "southwestairlines@southwest.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: XYZ987. Flight WN 1245 on Nov 26, PIT to DTW at 10:00 AM.",
+      "size_bytes": 40100,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-241125-grad-38",
+      "date": "2024-11-25T08:05:00-05:00",
+      "subject": "Your Graduate Ann Arbor Reservation is Confirmed",
+      "from": {
+        "name": "Graduate Hotels",
+        "email": "reservations@graduatehotels.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Dates: Nov 26-30. Confirmation: GAA-4455. Guest: Samir Okafor. 1 King Bed.",
+      "size_bytes": 32800,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-241128-swa-39",
+      "date": "2024-11-28T09:00:00-05:00",
+      "subject": "Updated itinerary: Your trip on Nov 30",
+      "from": {
+        "name": "Southwest Airlines",
+        "email": "southwestairlines@southwest.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Your flight WN 1246 is on time. Departs DTW at 2:00 PM. Arrives PIT 3:30 PM.",
+      "size_bytes": 27600,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-241128-zin-40",
+      "date": "2024-11-28T14:00:00-05:00",
+      "subject": "Your Zingerman's Delicatessen receipt",
+      "from": {
+        "name": "Zingerman's",
+        "email": "receipts@zingermans.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Thank you for dining. Check #2049. Total: $87.40. Visited: Nov 28 at 12:30 PM.",
+      "size_bytes": 21800,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-241226-aca-41",
+      "date": "2024-12-26T10:00:00-05:00",
+      "subject": "Air Canada Booking Confirmation",
+      "from": {
+        "name": "Air Canada",
+        "email": "confirmation@aircanada.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: AC22DD. Flight AC 7288 on Dec 26, PIT to YYZ departing 2:00 PM. Return Dec 29.",
+      "size_bytes": 48300,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-241226-hyt-42",
+      "date": "2024-12-26T10:05:00-05:00",
+      "subject": "Hyatt Regency Toronto - Confirmed",
+      "from": {
+        "name": "Hyatt",
+        "email": "reservations@hyatt.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: YTO9988. Dates: Dec 26-30. Rate: CAD 220/night. Harbor view room.",
+      "size_bytes": 35400,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-241227-tml-43",
+      "date": "2024-12-27T09:00:00-05:00",
+      "subject": "Maple Leafs Tickets - Order Confirmation",
+      "from": {
+        "name": "Ticketmaster",
+        "email": "noreply@ticketmaster.ca"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Event: Dec 28 vs Detroit at Scotiabank Arena. Sec 212 Row 5. Order total: $445.00.",
+      "size_bytes": 31200,
+      "attachments_count": 2,
+      "is_read": true
+    },
+    {
+      "id": "trv-241229-aca-44",
+      "date": "2024-12-29T08:00:00-05:00",
+      "subject": "Your check-in is complete - Flight AC 7289",
+      "from": {
+        "name": "Air Canada",
+        "email": "boardingpass@aircanada.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Boarding pass attached. Gate: D15. Departs 10:00 AM. Arrives PIT 11:35 AM.",
+      "size_bytes": 30400,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-250108-ua-45",
+      "date": "2025-01-08T13:00:00-05:00",
+      "subject": "United Airlines Confirmation: PIT to SAN",
+      "from": {
+        "name": "United Airlines",
+        "email": "united@united.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: UN55AA. Flight UA 223 on Jan 8 departing 7:00 AM. Return UA 224 Jan 10.",
+      "size_bytes": 46700,
+      "attachments_count": 1,
+      "is_read": true
+    },
+    {
+      "id": "trv-250108-mar-46",
+      "date": "2025-01-08T13:05:00-05:00",
+      "subject": "San Diego Marriott Gaslamp Quarter Confirmed",
+      "from": {
+        "name": "Marriott",
+        "email": "reservations@marriott.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Confirmation: 998877. Check-in: Jan 8. Check-out: Jan 10. Deluxe room.",
+      "size_bytes": 34100,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-250110-ubr-47",
+      "date": "2025-01-10T09:00:00-08:00",
+      "subject": "Your Friday morning trip with Uber",
+      "from": {
+        "name": "Uber",
+        "email": "receipts@uber.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Trip to San Diego International Airport. Total: $38.50. Driver: Marcus. Jan 10 at 6:30 AM.",
+      "size_bytes": 22900,
+      "attachments_count": 0,
+      "is_read": true
+    },
+    {
+      "id": "trv-250110-ua-48",
+      "date": "2025-01-10T14:00:00-08:00",
+      "subject": "Reminder: Your flight UA 224 check-in opens soon",
+      "from": {
+        "name": "United Airlines",
+        "email": "united@united.com"
+      },
+      "to": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co"
+        }
+      ],
+      "body_preview": "Check in starts in 24 hours. Departs SAN at 4:00 PM. Arrives PIT 11:45 PM.",
+      "size_bytes": 27800,
+      "attachments_count": 0,
+      "is_read": true
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/important_docs_index.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T21:30:00Z",
+    "source": "secure_docs_indexer"
+  },
+  "records": [
+    {
+      "id": "doc-ppt-884729401",
+      "document_type": "passport",
+      "title": "United States Passport",
+      "document_number": "884729401",
+      "owner_full_name": "Linh Nguyen",
+      "date": "2022-03-15",
+      "expiration_date": "2032-03-14",
+      "issuing_authority": "US Department of State",
+      "storage_location": "vault://primary/safe/fireproof_box",
+      "file_hash": "sha256:a8f4d92c1b7e3f5d",
+      "tags": [
+        "travel",
+        "identity",
+        "government"
+      ]
+    },
+    {
+      "id": "doc-deed-dnv-2019-44721",
+      "document_type": "property_deed",
+      "title": "Warranty Deed - 4072 Maple Hollow Ave",
+      "county": "Denver County",
+      "state": "CO",
+      "date": "2019-07-22",
+      "grantor": "Summit Residential Partners LLC",
+      "grantee": "Linh Nguyen and Leah Morgan",
+      "recording_number": "2019081400044721",
+      "storage_location": "vault://primary/safe/fireproof_box",
+      "file_hash": "sha256:b7c3e8f2a9d1e4b6",
+      "tags": [
+        "real_estate",
+        "home",
+        "legal"
+      ]
+    },
+    {
+      "id": "doc-mcert-co-2020-88192",
+      "document_type": "marriage_certificate",
+      "title": "Certificate of Marriage",
+      "jurisdiction": "Colorado",
+      "date": "2020-09-12",
+      "spouse_a": "Linh Nguyen",
+      "spouse_b": "Leah Morgan",
+      "certificate_number": "2020-CS-88192",
+      "storage_location": "vault://primary/safe/fireproof_box",
+      "file_hash": "sha256:c9d2f1e8b5a3c7d4",
+      "tags": [
+        "family",
+        "legal",
+        "vital_records"
+      ]
+    },
+    {
+      "id": "doc-ins-tl-8849201",
+      "document_type": "insurance_policy",
+      "title": "Term Life Insurance Policy",
+      "policy_number": "TL-8849201-NG",
+      "issuer": "Guardian Life Insurance Company",
+      "period_start": "2021-06-01",
+      "period_end": "2041-05-31",
+      "insured_party": "Linh Nguyen",
+      "primary_beneficiary": "Leah Morgan",
+      "storage_location": "vault://cloud/encrypted/policies",
+      "file_hash": "sha256:d1e4a9c3f7b2e8d5",
+      "tags": [
+        "insurance",
+        "financial",
+        "long_term"
+      ]
+    },
+    {
+      "id": "doc-will-co-2023-7742",
+      "document_type": "last_will",
+      "title": "Last Will and Testament",
+      "date": "2023-11-08",
+      "testator": "Linh Nguyen",
+      "executor": "Leah Morgan",
+      "witness_count": 2,
+      "storage_location": "vault://primary/safe/fireproof_box",
+      "file_hash": "sha256:e2f5b0d4c8a1f6e9",
+      "tags": [
+        "estate_planning",
+        "legal",
+        "end_of_life"
+      ]
+    },
+    {
+      "id": "doc-emp-bls-2022-001",
+      "document_type": "employment_contract",
+      "title": "Employment Agreement - Brightline Systems",
+      "employer": "Brightline Systems",
+      "employee": "Linh Nguyen",
+      "date": "2022-01-10",
+      "start_time": "2022-02-01",
+      "end_time": null,
+      "position": "Research Operations Lead",
+      "storage_location": "vault://work/employment_docs",
+      "file_hash": "sha256:f3g6c1e5b9a2d7f8",
+      "tags": [
+        "employment",
+        "work",
+        "legal"
+      ]
+    }
+  ]
+}

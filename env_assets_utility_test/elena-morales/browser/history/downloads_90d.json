@@ -1,0 +1,212 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/downloads_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T23:45:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "dwn-20240722-a1b2c3d4",
+      "timestamp": "2024-07-22T09:15:30-05:00",
+      "url": "https://www.cedargrapestudio.com/assets/brand-guidelines-v3.pdf",
+      "filename": "brand-guidelines-v3.pdf",
+      "file_size_bytes": 4523456,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/brand-guidelines-v3.pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240721-b2c3d4e5",
+      "timestamp": "2024-07-21T16:45:12-05:00",
+      "url": "https://cdn.notion.so/signed/f42c8a99/document.pdf",
+      "filename": "Q3-Roadmap-Draft.pdf",
+      "file_size_bytes": 1245789,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/Q3-Roadmap-Draft.pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240719-c3d4e5f6",
+      "timestamp": "2024-07-19T11:20:05-05:00",
+      "url": "https://github.com/cedargrove/mobile-app/releases/download/v2.1.0/app-release.apk",
+      "filename": "app-release-v2.1.0.apk",
+      "file_size_bytes": 28569412,
+      "mime_type": "application/vnd.android.package-archive",
+      "save_path": "/Users/elena/Downloads/app-release-v2.1.0.apk",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240718-d4e5f6g7",
+      "timestamp": "2024-07-18T14:10:33-05:00",
+      "url": "https://invoices.stripe.com/i/acct_1H/invst_Vm9PdF8KxLhE4u/invoice.pdf",
+      "filename": "invoice-cedar-grove-hosting-2024-07.pdf",
+      "file_size_bytes": 89234,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/invoice-cedar-grove-hosting-2024-07.pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240715-e5f6g7h8",
+      "timestamp": "2024-07-15T09:55:18-05:00",
+      "url": "https://static.figma.com/uploads/8f3d2a1c/design-system-components.fig",
+      "filename": "design-system-components.fig",
+      "file_size_bytes": 15678902,
+      "mime_type": "application/octet-stream",
+      "save_path": "/Users/elena/Downloads/design-system-components.fig",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240712-f6g7h8i9",
+      "timestamp": "2024-07-12T15:30:45-05:00",
+      "url": "https://cdn.zoom.us/prod/5.17.10/ZoomInstaller.pkg",
+      "filename": "zoom-installer-5.17.10.pkg",
+      "file_size_bytes": 124567890,
+      "mime_type": "application/x-newton-compatible-pkg",
+      "save_path": "/Users/elena/Downloads/zoom-installer-5.17.10.pkg",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240708-g7h8i9j0",
+      "timestamp": "2024-07-08T10:22:11-05:00",
+      "url": "https://delivery.icloud.com/content/0d3f4e/download/photo.jpg",
+      "filename": "grace-birthday-party-photo.jpg",
+      "file_size_bytes": 3876543,
+      "mime_type": "image/jpeg",
+      "save_path": "/Users/elena/Downloads/grace-birthday-party-photo.jpg",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240705-h8i9j0k1",
+      "timestamp": "2024-07-05T13:45:29-05:00",
+      "url": "https://account.amazon.com/gp/digital/fiona/redirect.html/manifest.mobi",
+      "filename": "product-management-lean-team.mobi",
+      "file_size_bytes": 2145678,
+      "mime_type": "application/x-mobipocket-ebook",
+      "save_path": "/Users/elena/Downloads/product-management-lean-team.mobi",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240701-i9j0k1l2",
+      "timestamp": "2024-07-01T08:15:00-05:00",
+      "url": "https://payroll.gusto.com/api/v1/employees/2480/documents/paystub.pdf",
+      "filename": "paystub-2024-06-30.pdf",
+      "file_size_bytes": 156789,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/paystub-2024-06-30.pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240628-j0k1l2m3",
+      "timestamp": "2024-06-28T16:20:15-05:00",
+      "url": "https://attachments.airtable.com/9k8j7h6g/project-budget-2024.xlsx",
+      "filename": "project-budget-2024.xlsx",
+      "file_size_bytes": 456789,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "save_path": "/Users/elena/Downloads/project-budget-2024.xlsx",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240625-k1l2m3n4",
+      "timestamp": "2024-06-25T11:10:42-05:00",
+      "url": "https://cdn.jsdelivr.net/npm/@vue/cli@5.0.8/vue-cli-5.0.8.tgz",
+      "filename": "vue-cli-5.0.8.tgz",
+      "file_size_bytes": 1234567,
+      "mime_type": "application/gzip",
+      "save_path": "/Users/elena/Downloads/vue-cli-5.0.8.tgz",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240622-l2m3n4o5",
+      "timestamp": "2024-06-22T19:05:33-05:00",
+      "url": "https://t4.ftcdn.net/jpg/02/48/95/79/240_F_248957904_5dFpHYDlmW8QOqK9umwo6y9x2u9X5LGO.jpg",
+      "filename": "floral-pattern-background.jpg",
+      "file_size_bytes": 289456,
+      "mime_type": "image/jpeg",
+      "save_path": "/Users/elena/Downloads/floral-pattern-background.jpg",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240618-m3n4o5p6",
+      "timestamp": "2024-06-18T09:45:00-05:00",
+      "url": "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=osx&lang=en-US",
+      "filename": "Firefox Developer Edition.dmg",
+      "file_size_bytes": 156789012,
+      "mime_type": "application/x-apple-diskimage",
+      "save_path": "/Users/elena/Downloads/Firefox Developer Edition.dmg",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240612-n4o5p6q7",
+      "timestamp": "2024-06-12T14:22:18-05:00",
+      "url": "https://drive.google.com/uc?export=download&id=1aBcD3fGhIjKlMnOpQrStUvWxYz",
+      "filename": "user-research-interviews-june.zip",
+      "file_size_bytes": 45678912,
+      "mime_type": "application/zip",
+      "save_path": "/Users/elena/Downloads/user-research-interviews-june.zip",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240605-o5p6q7r8",
+      "timestamp": "2024-06-05T11:30:55-05:00",
+      "url": "https://www.irs.gov/pub/irs-pdf/fw4.pdf",
+      "filename": "w4-form-2024.pdf",
+      "file_size_bytes": 156789,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/w4-form-2024.pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240528-p6q7r8s9",
+      "timestamp": "2024-05-28T10:15:20-05:00",
+      "url": "https://assets.squarespace.com/secure/attachments/8823456/lease-agreement-3812-willow-bend.pdf",
+      "filename": "lease-agreement-2024-2025.pdf",
+      "file_size_bytes": 890123,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/lease-agreement-2024-2025.pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240520-q7r8s9t0",
+      "timestamp": "2024-05-20T16:45:10-05:00",
+      "url": "https://f4.bcbits.com/img/0012345678_10.jpg",
+      "filename": "album-artwork-nina-park-recommendation.jpg",
+      "file_size_bytes": 234567,
+      "mime_type": "image/jpeg",
+      "save_path": "/Users/elena/Downloads/album-artwork-nina-park-recommendation.jpg",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240515-r8s9t0u1",
+      "timestamp": "2024-05-15T08:50:33-05:00",
+      "url": "https://code.visualstudio.com/sha/download?build=stable&os=darwin",
+      "filename": "Visual Studio Code.zip",
+      "file_size_bytes": 134567890,
+      "mime_type": "application/zip",
+      "save_path": "/Users/elena/Downloads/Visual Studio Code.zip",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240508-s9t0u1v2",
+      "timestamp": "2024-05-08T13:25:47-05:00",
+      "url": "https://support.apple.com/downloads/DL1998/en_US/macOSUpdater.dmg",
+      "filename": "macOS-Sonoma-14.5-patch.dmg",
+      "file_size_bytes": 1345678901,
+      "mime_type": "application/x-apple-diskimage",
+      "save_path": "/Users/elena/Downloads/macOS-Sonoma-14.5-patch.dmg",
+      "status": "completed"
+    },
+    {
+      "id": "dwn-20240423-t0u1v2w3",
+      "timestamp": "2024-04-23T11:00:00-05:00",
+      "url": "https://secure.booking.com/confirmation/print.html?id=729461234",
+      "filename": "booking-confirmation-chicago-april.pdf",
+      "file_size_bytes": 345678,
+      "mime_type": "application/pdf",
+      "save_path": "/Users/elena/Downloads/booking-confirmation-chicago-april.pdf",
+      "status": "completed"
+    }
+  ]
+}

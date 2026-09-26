@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/tool_permissions_seed.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-20T16:45:32Z",
+    "source": "agent_runtime_export"
+  },
+  "records": [
+    {
+      "id": "perm_email_8f3a9d",
+      "tool_name": "Brightline Mail Orchestrator",
+      "scope": "email:send_read_threads",
+      "resource_path": "email/inbox/threads_180d.json",
+      "grantee": "BrightlineSystems",
+      "grantor": "maya.patel@brightlinesystems.com",
+      "timestamp": "2024-09-12T14:23:09Z",
+      "end_time": "2025-09-12T14:23:09Z",
+      "status": "active",
+      "permission_level": "write"
+    },
+    {
+      "id": "perm_cal_7b2c4e",
+      "tool_name": "Calendar Sync Bridge",
+      "scope": "calendar:read_write_events",
+      "resource_path": "calendar/working/events_past_12m_future_6m.json",
+      "grantee": "BrightlineSystems",
+      "grantor": "maya.patel@brightlinesystems.com",
+      "timestamp": "2024-08-28T09:15:33Z",
+      "end_time": "2025-08-28T09:15:33Z",
+      "status": "active",
+      "permission_level": "admin"
+    },
+    {
+      "id": "perm_files_9d1e5f",
+      "tool_name": "Document Indexer",
+      "scope": "files:read_index",
+      "resource_path": "files/documents/file_index_180d.json",
+      "grantee": "LocalAgentRuntime",
+      "grantor": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-05T11:42:18Z",
+      "end_time": "2025-04-05T11:42:18Z",
+      "status": "active",
+      "permission_level": "read"
+    },
+    {
+      "id": "perm_task_3a7b8c",
+      "tool_name": "Task Manager API",
+      "scope": "tasks:read_write",
+      "resource_path": "tasks/todo_manager/active_tasks.json",
+      "grantee": "BrightlineSystems",
+      "grantor": "maya.patel@brightlinesystems.com",
+      "timestamp": "2024-07-15T16:08:47Z",
+      "end_time": "2025-07-15T16:08:47Z",
+      "status": "active",
+      "permission_level": "write"
+    },
+    {
+      "id": "perm_browser_2c5d9e",
+      "tool_name": "Session Assistant",
+      "scope": "browser:read_history_tabs",
+      "resource_path": "browser/history/visits_90d.json",
+      "grantee": "LocalAgentRuntime",
+      "grantor": "maya.patel@harborinbox.com",
+      "timestamp": "2024-10-18T08:55:21Z",
+      "date": "2024-10-18",
+      "status": "pending_review",
+      "permission_level": "read"
+    },
+    {
+      "id": "perm_finance_4e6f1a",
+      "tool_name": "Expense Parser",
+      "scope": "finance:read_transactions",
+      "resource_path": "finance/banking/transactions_24m.json",
+      "grantee": "BrightlineSystems",
+      "grantor": "maya.patel@brightlinesystems.com",
+      "timestamp": "2024-06-20T13:30:55Z",
+      "period_start": "2024-06-20T13:30:55Z",
+      "period_end": "2024-12-20T13:30:55Z",
+      "status": "restricted",
+      "permission_level": "read"
+    }
+  ]
+}

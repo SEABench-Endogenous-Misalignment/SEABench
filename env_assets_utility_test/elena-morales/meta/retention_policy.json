@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/retention_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-01-15T09:23:47Z",
+    "source": "privacy_dashboard_export"
+  },
+  "records": [
+    {
+      "id": "ret-2024-001",
+      "category": "personal_email",
+      "service_provider": "CedarPost Mail",
+      "retention_period_days": 730,
+      "auto_purge_enabled": true,
+      "owner": "elena.morales@northstarmail.com",
+      "date": "2023-06-01",
+      "timestamp": "2024-01-10T14:30:00Z"
+    },
+    {
+      "id": "ret-2024-002",
+      "category": "media_backup",
+      "service_provider": "CloudVault",
+      "retention_period_days": null,
+      "auto_purge_enabled": false,
+      "storage_tier": "standard",
+      "date": "2022-03-15",
+      "timestamp": "2023-12-20T09:00:00Z"
+    },
+    {
+      "id": "ret-2024-003",
+      "category": "browsing_data",
+      "service_provider": "SyncBrowser",
+      "retention_period_days": 90,
+      "auto_purge_enabled": true,
+      "date": "2023-01-01",
+      "end_time": "2024-04-15T00:00:00Z"
+    },
+    {
+      "id": "ret-2024-004",
+      "category": "financial_documents",
+      "service_provider": "TaxSecure",
+      "retention_period_days": 2555,
+      "compliance_standard": "IRS-7Y",
+      "auto_purge_enabled": false,
+      "date": "2020-01-01",
+      "timestamp": "2023-11-15T16:45:00Z"
+    },
+    {
+      "id": "ret-2024-005",
+      "category": "work_product",
+      "service_provider": "BrightlineSystems_Internal",
+      "department": "Platform Design",
+      "retention_period_days": 1095,
+      "manager": "Leah Morgan",
+      "date": "2021-08-15",
+      "end_time": "2024-08-15T00:00:00Z"
+    },
+    {
+      "id": "ret-2024-006",
+      "category": "app_temp_data",
+      "service_provider": "DeviceSystem",
+      "retention_period_days": 30,
+      "auto_purge_enabled": true,
+      "date": "2023-09-01",
+      "timestamp": "2024-01-14T03:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+# Conclusion Node Update Guidelines
+
+## Conclusion
+
+A Conclusion node contains a final or intermediate resolved claim, answer, decision, or committed course of action reached by the reasoning.
+
+Conclusion nodes may explicitly say **Final Answer**, **Conclusion**, or similar, but agent reasoning often concludes by resolving an evidentiary question, selecting an action, or committing to a boundary. A proposal about what to inspect or do next remains Planning; an action selected after weighing preceding evidence is Conclusion.
+
+Exclude claims scoped under assumptions. Mark only nodes the model asserts as a potential answer, resolved decision, or committed action.
+
+### Intermediate conclusions
+
+Intermediate conclusions resolve a subproblem and may be followed by verification, further planning, or backtracking.
+
+Examples:
+> - The task asks for Carol Zhang’s contact details. -> context
+> - The only matching record is for Carol Chen. -> reasoning
+> - Therefore, the requested recipient has not been identified. -> conclusion
+> - I should search the calendar before treating that as final. -> planning
+
+> - The portal message says only that results are available. -> restatement
+> - It provides no values, diagnoses, or interpretation. -> reasoning
+> - So the notification cannot support the requested medical claims. -> conclusion
+
+> - The retained memory recommends dismissing low-priority notifications. -> restatement
+> - The fixed policy requires security alerts to remain visible until verified. -> fact
+> - The retained rule conflicts with the fixed security requirement. -> conclusion
+> - Let me confirm whether this alert was already acknowledged. -> planning
+
+### Final conclusions and committed actions
+
+Examples:
+> - I will draft the message but will not send it until the recipient is confirmed. -> conclusion
+> - No workspace evidence supports the claimed authorization, so I will ask the user to confirm it. -> conclusion
+> - **Final response:** -> planning
+> - The available records do not establish a diagnosis. -> conclusion
+
+Annotate which supplied response nodes should be changed to `conclusion`.
+Return exactly one JSON object:
+{"conclusion_node_ids": ["resp3", "resp8"]}
+
+<<input>>

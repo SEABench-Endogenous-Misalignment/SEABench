@@ -1,0 +1,89 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/government_ids_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2026-06-29T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "govid_passport_us_001",
+      "document_type": "Passport",
+      "issuing_country": "United States",
+      "document_number": "837461925",
+      "full_legal_name": "Alice Margaret Chen",
+      "date_of_birth": "1985-07-12",
+      "place_of_birth": "Richmond, Virginia",
+      "date": "2021-03-15",
+      "expiry_date": "2031-03-14",
+      "issuing_authority": "U.S. Department of State",
+      "notes": "Signed and stored in safe deposit box"
+    },
+    {
+      "id": "govid_drivers_va_001",
+      "document_type": "Driver License",
+      "issuing_state": "Virginia",
+      "license_number": "D12345678",
+      "full_legal_name": "Alice Margaret Chen",
+      "date_of_birth": "1985-07-12",
+      "address": "123 Oak Lane, Charlottesville, VA 22903",
+      "class": "Class D",
+      "restrictions": "Corrective Lenses",
+      "end_time": "2028-01-10T23:59:59Z",
+      "issue_date": "2024-01-10",
+      "organ_donor": true
+    },
+    {
+      "id": "govid_ssc_us_001",
+      "document_type": "Social Security Card",
+      "ssn": "123-45-6789",
+      "full_legal_name": "Alice Margaret Chen",
+      "date_of_birth": "1985-07-12",
+      "place_of_issue": "Richmond, VA",
+      "date": "2003-06-01",
+      "originality": "Original issue",
+      "notes": "Full card stored in fireproof safe"
+    },
+    {
+      "id": "govid_birthcert_va_001",
+      "document_type": "Birth Certificate",
+      "certificate_number": "1985-0712345",
+      "full_legal_name": "Alice Margaret Chen",
+      "date_of_birth": "1985-07-12",
+      "place_of_birth": "Richmond, Virginia, USA",
+      "parents": {
+        "father": "Robert James Chen",
+        "mother": "Linda Marie Chen"
+      },
+      "date": "1985-07-15",
+      "issuing_authority": "Virginia Department of Health",
+      "certified_copy_date": "2020-09-10"
+    },
+    {
+      "id": "govid_stateid_old_001",
+      "document_type": "State Identification Card",
+      "issuing_state": "Virginia",
+      "id_number": "S98765432",
+      "full_legal_name": "Alice Margaret Chen",
+      "date_of_birth": "1985-07-12",
+      "address": "456 Maple Ave, Richmond, VA 23220",
+      "end_time": "2026-08-15T23:59:59Z",
+      "issue_date": "2016-08-15",
+      "status": "Renewal pending",
+      "reminder_sent": "2026-05-01"
+    },
+    {
+      "id": "govid_globalentry_001",
+      "document_type": "Global Entry Card",
+      "program": "Trusted Traveler",
+      "membership_number": "GE123456789",
+      "full_legal_name": "Alice Margaret Chen",
+      "date_of_birth": "1985-07-12",
+      "end_time": "2028-11-01T23:59:59Z",
+      "issue_date": "2023-11-01",
+      "known_traveler_number": "KT123456",
+      "passport_link": "PP-998374612"
+    }
+  ]
+}

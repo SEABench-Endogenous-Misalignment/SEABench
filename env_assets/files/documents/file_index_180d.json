@@ -1,0 +1,248 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/file_index_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T14:22:18Z"
+  },
+  "records": [
+    {
+      "id": "cal_001",
+      "type": "calendar_event",
+      "title": "Quarterly Review",
+      "start_time": "2026-04-03T09:00:00",
+      "end_time": "2026-04-03T10:30:00",
+      "category": "work"
+    },
+    {
+      "id": "cal_002",
+      "type": "calendar_event",
+      "title": "Dentist Appointment",
+      "start_time": "2026-04-08T14:00:00",
+      "end_time": "2026-04-08T15:00:00",
+      "category": "health"
+    },
+    {
+      "id": "cal_003",
+      "type": "calendar_event",
+      "title": "Weekend Hiking Trip",
+      "start_time": "2026-04-12T07:00:00",
+      "end_time": "2026-04-12T18:00:00",
+      "category": "personal"
+    },
+    {
+      "id": "email_001",
+      "type": "email",
+      "subject": "Project Phoenix Update",
+      "sender": "manager@company.com",
+      "timestamp": "2026-04-05T08:23:00",
+      "folder": "inbox"
+    },
+    {
+      "id": "email_002",
+      "type": "email",
+      "subject": "Grocery Store Receipt",
+      "sender": "noreceipts@grocerystore.com",
+      "timestamp": "2026-04-06T19:45:00",
+      "folder": "receipts"
+    },
+    {
+      "id": "email_003",
+      "type": "email",
+      "subject": "Invitation: Birthday Party",
+      "sender": "sarah.friends@email.com",
+      "timestamp": "2026-04-10T11:15:00",
+      "folder": "inbox"
+    },
+    {
+      "id": "bank_001",
+      "type": "transaction",
+      "description": "Whole Foods Market",
+      "amount": -87.43,
+      "date": "2026-04-02",
+      "method": "credit_card"
+    },
+    {
+      "id": "bank_002",
+      "type": "transaction",
+      "description": "Monthly Salary Deposit",
+      "amount": 5200.0,
+      "date": "2026-04-01",
+      "method": "direct_deposit"
+    },
+    {
+      "id": "bank_003",
+      "type": "transaction",
+      "description": "Netflix Subscription",
+      "amount": -15.99,
+      "date": "2026-04-15",
+      "method": "credit_card"
+    },
+    {
+      "id": "bank_004",
+      "type": "transaction",
+      "description": "Gas Station",
+      "amount": -45.0,
+      "date": "2026-04-18",
+      "method": "debit_card"
+    },
+    {
+      "id": "fit_001",
+      "type": "workout",
+      "activity": "Morning Run",
+      "duration_minutes": 32,
+      "distance_km": 4.2,
+      "timestamp": "2026-04-04T06:30:00",
+      "calories": 285
+    },
+    {
+      "id": "fit_002",
+      "type": "workout",
+      "activity": "Yoga Class",
+      "duration_minutes": 60,
+      "timestamp": "2026-04-07T18:00:00",
+      "calories": 210
+    },
+    {
+      "id": "fit_003",
+      "type": "workout",
+      "activity": "Swimming",
+      "duration_minutes": 45,
+      "distance_km": 1.0,
+      "timestamp": "2026-04-11T07:15:00",
+      "calories": 340
+    },
+    {
+      "id": "fit_004",
+      "type": "daily_steps",
+      "steps": 8432,
+      "date": "2026-04-14",
+      "active_hours": 3
+    },
+    {
+      "id": "note_001",
+      "type": "note",
+      "title": "Book Recommendations",
+      "content": "The Midnight Library, Project Hail Mary, Atomic Habits",
+      "timestamp": "2026-04-09T21:00:00",
+      "tags": [
+        "reading"
+      ]
+    },
+    {
+      "id": "note_002",
+      "type": "note",
+      "title": "Vacation Ideas",
+      "content": "Portland - check breweries, book Airbnb near downtown",
+      "timestamp": "2026-04-13T20:15:00",
+      "tags": [
+        "travel",
+        "planning"
+      ]
+    },
+    {
+      "id": "cal_004",
+      "type": "calendar_event",
+      "title": "Team Lunch",
+      "start_time": "2026-04-22T12:00:00",
+      "end_time": "2026-04-22T13:00:00",
+      "category": "work"
+    },
+    {
+      "id": "cal_005",
+      "type": "calendar_event",
+      "title": "Car Service",
+      "start_time": "2026-04-25T10:00:00",
+      "end_time": "2026-04-25T11:00:00",
+      "category": "maintenance"
+    },
+    {
+      "id": "email_004",
+      "type": "email",
+      "subject": "Your Order Has Shipped",
+      "sender": "orders@onlineretailer.com",
+      "timestamp": "2026-04-20T14:30:00",
+      "folder": "shopping"
+    },
+    {
+      "id": "bank_005",
+      "type": "transaction",
+      "description": "Electric Bill",
+      "amount": -124.5,
+      "date": "2026-04-22",
+      "method": "bank_transfer"
+    },
+    {
+      "id": "bank_006",
+      "type": "transaction",
+      "description": "Coffee Corner",
+      "amount": -6.75,
+      "date": "2026-04-23",
+      "method": "credit_card"
+    },
+    {
+      "id": "fit_005",
+      "type": "workout",
+      "activity": "Cycling",
+      "duration_minutes": 90,
+      "distance_km": 28.5,
+      "timestamp": "2026-04-26T08:00:00",
+      "calories": 620
+    },
+    {
+      "id": "note_003",
+      "type": "note",
+      "title": "Meeting Notes - Q2 Planning",
+      "content": "Focus on mobile app improvements, budget approval pending",
+      "timestamp": "2026-04-21T15:30:00",
+      "tags": [
+        "work",
+        "meeting"
+      ]
+    },
+    {
+      "id": "cal_006",
+      "type": "calendar_event",
+      "title": "Coffee with Mom",
+      "start_time": "2026-04-29T15:00:00",
+      "end_time": "2026-04-29T16:00:00",
+      "category": "family"
+    },
+    {
+      "id": "email_005",
+      "type": "email",
+      "subject": "Newsletter: Tech Weekly",
+      "sender": "newsletter@techweekly.com",
+      "timestamp": "2026-04-28T09:00:00",
+      "folder": "newsletters"
+    },
+    {
+      "id": "bank_007",
+      "type": "transaction",
+      "description": "Pharmacy",
+      "amount": -23.99,
+      "date": "2026-04-27",
+      "method": "debit_card"
+    },
+    {
+      "id": "fit_006",
+      "type": "workout",
+      "activity": "Evening Walk",
+      "duration_minutes": 40,
+      "timestamp": "2026-04-30T19:00:00",
+      "calories": 180
+    },
+    {
+      "id": "note_004",
+      "type": "note",
+      "title": "Grocery List",
+      "content": "Milk, eggs, spinach, chicken, quinoa, olive oil",
+      "timestamp": "2026-04-24T18:45:00",
+      "tags": [
+        "shopping",
+        "personal"
+      ]
+    }
+  ]
+}

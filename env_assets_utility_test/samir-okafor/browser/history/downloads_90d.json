@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/downloads_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-28T16:30:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "dl_a7f3k2m9",
+      "timestamp": "2024-10-28T09:15:32-06:00",
+      "filename": "Q4_Customer_Journey_Map_Final.pdf",
+      "url": "https://rivertonhealthlabs.sharepoint.com/Shared%20Documents/Design/Q4_Customer_Journey_Map_Final.pdf",
+      "file_size_bytes": 4520000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_b8g4l3n0",
+      "timestamp": "2024-10-25T14:22:18-06:00",
+      "filename": "Denver_Museum_Tickets_Oct26.pdf",
+      "url": "https://tickets.denverartmuseum.org/download/confirmation?order=78492",
+      "file_size_bytes": 89000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_c5h7j9k1",
+      "timestamp": "2024-10-22T11:05:47-06:00",
+      "filename": "Bloodwork_Results_LabCorp_Oct2024.pdf",
+      "url": "https://patient.labcorp.com/secure/download/result?id=rx7893412",
+      "file_size_bytes": 124000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_d2k8m4p6",
+      "timestamp": "2024-10-18T16:45:12-06:00",
+      "filename": "Nina_Birthday_Photos_Selected.zip",
+      "url": "https://photos.meadowmail.co/download/album/nov-2024?dl=1",
+      "file_size_bytes": 156000000,
+      "mime_type": "application/zip",
+      "status": "completed"
+    },
+    {
+      "id": "dl_e9n2q5r8",
+      "timestamp": "2024-10-15T10:30:05-06:00",
+      "filename": "Southwest_Boarding_Pass_MDW.pdf",
+      "url": "https://www.southwest.com/air/check-in/boardingPass.html?confirmationNumber=ABC123",
+      "file_size_bytes": 45000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_f1s6t9u4",
+      "timestamp": "2024-10-12T19:20:33-06:00",
+      "filename": "Bosch_Dishwasher_Series6_Manual.pdf",
+      "url": "https://www.bosch-home.com/us/productdownloads/SHX78B75UC/manual.pdf",
+      "file_size_bytes": 3200000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_g3v8w2x7",
+      "timestamp": "2024-10-08T13:12:56-06:00",
+      "filename": "Platform_Design_System_Components_v3.fig",
+      "url": "https://www.figma.com/file/AbC123XyZ/Design-System/download",
+      "file_size_bytes": 45000000,
+      "mime_type": "application/octet-stream",
+      "status": "completed"
+    },
+    {
+      "id": "dl_h5y1z4a9",
+      "timestamp": "2024-10-05T09:45:22-06:00",
+      "filename": "Credit_Union_Statement_September2024.pdf",
+      "url": "https://online.milehighcu.org/statements/download/09-2024?account=4459",
+      "file_size_bytes": 210000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_j7b3c6d2",
+      "timestamp": "2024-10-01T15:30:18-06:00",
+      "filename": "Invoice_2847_HVAC_Repair_Sept.pdf",
+      "url": "https://portal.affordablecomforthvac.com/invoices/download/2847",
+      "file_size_bytes": 180000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_k9e5f8g4",
+      "timestamp": "2024-09-28T11:22:45-06:00",
+      "filename": "The_Design_of_Everyday_Things_Don_Norman.epub",
+      "url": "https://www.audible.com/library/download?asin=B07Z4X2Y9X",
+      "file_size_bytes": 5200000,
+      "mime_type": "application/epub+zip",
+      "status": "completed"
+    },
+    {
+      "id": "dl_m2h6i9j3",
+      "timestamp": "2024-09-25T14:05:39-06:00",
+      "filename": "Zoom_Installer_v6.2.0.pkg",
+      "url": "https://zoom.us/client/latest/ZoomInstallerIT.pkg?arch=x64",
+      "file_size_bytes": 125000000,
+      "mime_type": "application/octet-stream",
+      "status": "completed"
+    },
+    {
+      "id": "dl_n4k7l1m8",
+      "timestamp": "2024-09-22T10:18:52-06:00",
+      "filename": "Property_Tax_Notice_2024_Denver.pdf",
+      "url": "https://www.denvergov.org/propertytax/download/notice/2024/8663-maple-hollow",
+      "file_size_bytes": 340000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_p5o9q2r6",
+      "timestamp": "2024-09-18T16:40:11-06:00",
+      "filename": "Customer_Insights_RawData_Q3.csv",
+      "url": "https://analytics-tableau.rivertonhealthlabs.com/download/customer_insights_q3.csv",
+      "file_size_bytes": 8900000,
+      "mime_type": "text/csv",
+      "status": "completed"
+    },
+    {
+      "id": "dl_q7s3t8u1",
+      "timestamp": "2024-09-15T09:25:33-06:00",
+      "filename": "Auto_Insurance_Renewal_Policy_2024.pdf",
+      "url": "https://www.statefarm.com/account/documents/download/policy-renewal-4459218",
+      "file_size_bytes": 1200000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_r9v4w2x5",
+      "timestamp": "2024-09-10T13:50:47-06:00",
+      "filename": "Resume_Samir_Okafor_ProductDesign_2024.pdf",
+      "url": "https://docs.google.com/document/d/1Xk9mPqRs/export?format=pdf",
+      "file_size_bytes": 450000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_s2y6z9a3",
+      "timestamp": "2024-09-05T15:15:22-06:00",
+      "filename": "Podcast_The_Insight_Hour_Ep142.mp3",
+      "url": "https://traffic.libsyn.com/insighthour/ep142_customer_journeys.mp3",
+      "file_size_bytes": 48500000,
+      "mime_type": "audio/mpeg",
+      "status": "completed"
+    },
+    {
+      "id": "dl_t4b7c1d8",
+      "timestamp": "2024-09-01T11:30:55-06:00",
+      "filename": "Receipt_BestBuy_TV_Mount_20240831.pdf",
+      "url": "https://www.bestbuy.com/site/receipt/view?token=X7h9kL2mP4qR8vT",
+      "file_size_bytes": 95000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    },
+    {
+      "id": "dl_u6e9f3g2",
+      "timestamp": "2024-08-28T10:45:18-06:00",
+      "filename": "Wedding_Invitation_Design_Owen_Elena.png",
+      "url": "https://www.canva.com/design/DAFxyz123/download?type=png",
+      "file_size_bytes": 2400000,
+      "mime_type": "image/png",
+      "status": "completed"
+    },
+    {
+      "id": "dl_v8h2j5k9",
+      "timestamp": "2024-08-25T14:20:40-06:00",
+      "filename": "GitHub_Desktop_Installer_x64.exe",
+      "url": "https://desktop.github.com/releases/3.4.2/GitHubDesktopSetup-x64.exe",
+      "file_size_bytes": 98000000,
+      "mime_type": "application/x-msdownload",
+      "status": "completed"
+    },
+    {
+      "id": "dl_w1l4m7n3",
+      "timestamp": "2024-08-22T09:10:12-06:00",
+      "filename": "Medical_Insurance_Card_2024_Front.pdf",
+      "url": "https://member.cigna.com/secure/download/idcard?memberId=884729104",
+      "file_size_bytes": 320000,
+      "mime_type": "application/pdf",
+      "status": "completed"
+    }
+  ]
+}

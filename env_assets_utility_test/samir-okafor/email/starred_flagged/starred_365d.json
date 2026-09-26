@@ -1,0 +1,372 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/starred_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T14:32:18Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "<20231228.102938476.proton@meadowmail.co>",
+      "timestamp": "2023-12-28T10:29:00Z",
+      "sender_name": "Malik Brooks",
+      "sender_email": "malik.brooks@proton.me",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Holiday party photos",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240108_08305544",
+      "timestamp": "2024-01-08T08:30:00Z",
+      "sender_name": "Dr. Elena Varga",
+      "sender_email": "evarga@alleghenyhealth.net",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Annual physical reminder",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240114.092300112@alleghenyhealth.net>",
+      "timestamp": "2024-01-14T09:23:00Z",
+      "sender_name": "Dr. Elena Varga",
+      "sender_email": "evarga@alleghenyhealth.net",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Your Lab Results - Follow-up Needed",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240203_14328921",
+      "timestamp": "2024-02-03T14:32:00Z",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "FY25 Budget Approval - Platform Design",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240214.174500883@meadowmail.co>",
+      "timestamp": "2024-02-14T17:45:00Z",
+      "sender_name": "Theo Harris",
+      "sender_email": "theo.harris@meadowmail.co",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Dinner reservation confirmed - 8pm",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240218_11152991",
+      "timestamp": "2024-02-18T11:15:00Z",
+      "sender_name": "Theo Harris",
+      "sender_email": "theo.harris@meadowmail.co",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Potential house on Juniper - viewing scheduled",
+      "starred": true,
+      "is_read": false
+    },
+    {
+      "id": "<20240305.08231129@pnc.com>",
+      "timestamp": "2024-03-05T08:23:00Z",
+      "sender_name": "PNC Mortgage Services",
+      "sender_email": "mortgage@pnc.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Pre-Approval Letter - Ref: 284756391",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240312_10443322",
+      "timestamp": "2024-03-12T10:44:00Z",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Security training completion certificate",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240322.16458291@fastmail.fm>",
+      "timestamp": "2024-03-22T16:45:00Z",
+      "sender_name": "Owen Reed",
+      "sender_email": "owen.r@fastmail.fm",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Draft chapters for your review",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240410_10347782",
+      "timestamp": "2024-04-10T10:34:00Z",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Q2 Research Ops Metrics - Confidential",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240420.22332244@brightlinesystems.com>",
+      "timestamp": "2024-04-20T22:33:00Z",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Offsite agenda - Pittsburgh office",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240428_13207564",
+      "timestamp": "2024-04-28T13:20:00Z",
+      "sender_name": "Priya Shah",
+      "sender_email": "priya.shah@outlook.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Wedding venue photos and contract",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240515.09213344@duquesnelight.com>",
+      "timestamp": "2024-05-15T09:21:00Z",
+      "sender_name": "Duquesne Light Company",
+      "sender_email": "billing@duquesnelight.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Final Notice - Account 412278153",
+      "starred": true,
+      "is_read": false
+    },
+    {
+      "id": "msg_20240530_12347788",
+      "timestamp": "2024-05-30T12:34:00Z",
+      "sender_name": "Amazon.com",
+      "sender_email": "orders@amazon.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Your order has shipped - Order #112-8847563-2293847",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240602.15309912@gmail.com>",
+      "timestamp": "2024-06-02T15:30:00Z",
+      "sender_name": "Nina Park",
+      "sender_email": "nina.park@gmail.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Emergency contact list for the trip",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240615_09188374",
+      "timestamp": "2024-06-15T09:18:00Z",
+      "sender_name": "Priya Shah",
+      "sender_email": "priya.shah@outlook.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Bridal shower venue options",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240618.11225567@brightlinesystems.com>",
+      "timestamp": "2024-06-18T11:22:00Z",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Compliance audit findings - Action required",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240704_10293849",
+      "timestamp": "2024-07-04T10:29:00Z",
+      "sender_name": "Malik Brooks",
+      "sender_email": "malik.brooks@proton.me",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Investment proposal details",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240710.15453322@pnc.com>",
+      "timestamp": "2024-07-10T15:45:00Z",
+      "sender_name": "PNC Bank",
+      "sender_email": "alert@pnc.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Large withdrawal alert - Card ending in 3847",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240722_14159876",
+      "timestamp": "2024-07-22T14:15:00Z",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@meadowmail.co",
+      "recipient_email": "theo.harris@meadowmail.co",
+      "subject": "FWD: Insurance claim status",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240808.19283746@brightlinesystems.com>",
+      "timestamp": "2024-08-08T19:28:00Z",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "VP Candidate Interview Schedule",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240818_22446688",
+      "timestamp": "2024-08-18T22:44:00Z",
+      "sender_name": "Nina Park",
+      "sender_email": "nina.park@gmail.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Concert tickets - Section C",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240825.08302233@upmc.edu>",
+      "timestamp": "2024-08-25T08:30:00Z",
+      "sender_name": "UPMC MyHealth",
+      "sender_email": "noreply@upmc.edu",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Appointment Confirmation - Sept 12",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240905_09231144",
+      "timestamp": "2024-09-05T09:23:00Z",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "All-hands meeting transcript - Sept 4",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20240912.14554433@meadowmail.co>",
+      "timestamp": "2024-09-12T14:55:00Z",
+      "sender_name": "Theo Harris",
+      "sender_email": "theo.harris@meadowmail.co",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Mom's flight itinerary - arrival 8pm",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20240928_16057744",
+      "timestamp": "2024-09-28T16:05:00Z",
+      "sender_name": "Internal Revenue Service",
+      "sender_email": "no-reply@irs.gov",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "2023 Tax Return Acknowledgment",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20241008.15566778@fastmail.fm>",
+      "timestamp": "2024-10-08T15:56:00Z",
+      "sender_name": "Owen Reed",
+      "sender_email": "owen.r@fastmail.fm",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Draft proposal comments",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20241015_09188877",
+      "timestamp": "2024-10-15T09:18:00Z",
+      "sender_name": "Leah Morgan",
+      "sender_email": "leah.morgan@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Strategic Plan 2025 - Your Input Needed",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20241022.11346677@citizensbank.com>",
+      "timestamp": "2024-10-22T11:34:00Z",
+      "sender_name": "Citizens Bank",
+      "sender_email": "secure@citizensbank.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Your October Statement Available",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20241105_22334455",
+      "timestamp": "2024-11-05T22:33:00Z",
+      "sender_name": "Owen Reed",
+      "sender_email": "owen.r@fastmail.fm",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Contractor quote for bathroom renovation",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20241112.18123366@meadowmail.co>",
+      "timestamp": "2024-11-12T18:12:00Z",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@meadowmail.co",
+      "recipient_email": "theo.harris@meadowmail.co",
+      "subject": "Re: Moving company quotes",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20241118_09458899",
+      "timestamp": "2024-11-18T09:45:00Z",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Year-end performance review preparation",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20241125.11223344@gmail.com>",
+      "timestamp": "2024-11-25T11:22:00Z",
+      "sender_name": "Nina Park",
+      "sender_email": "nina.park@gmail.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Photos from the hike last weekend",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "msg_20241202_15230011",
+      "timestamp": "2024-12-02T15:23:00Z",
+      "sender_name": "Samir Okafor",
+      "sender_email": "samir.okafor@meadowmail.co",
+      "recipient_email": "priya.shah@outlook.com",
+      "subject": "Re: Wedding photographer contracts",
+      "starred": true,
+      "is_read": true
+    },
+    {
+      "id": "<20241210.11445566@brightlinesystems.com>",
+      "timestamp": "2024-12-10T11:44:00Z",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Holiday party logistics - Dec 20",
+      "starred": true,
+      "is_read": false
+    },
+    {
+      "id": "msg_20241215_07459900",
+      "timestamp": "2024-12-15T07:45:00Z",
+      "sender_name": "UPMC Prescription Services",
+      "sender_email": "rx@upmc.edu",
+      "recipient_email": "samir.okafor@meadowmail.co",
+      "subject": "Prescription ready for pickup - Ref #883746291",
+      "starred": true,
+      "is_read": true
+    }
+  ]
+}

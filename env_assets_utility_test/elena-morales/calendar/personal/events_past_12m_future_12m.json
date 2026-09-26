@@ -1,0 +1,940 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/personal/events_past_12m_future_12m.json",
+    "time_span": "rolling 24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T14:32:17Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "evt_7a8f9c2d1e3b",
+      "title": "Q4 Retrospective",
+      "start_time": "2023-12-14T14:00:00-05:00",
+      "end_time": "2023-12-14T15:30:00-05:00",
+      "location": "Brightline Systems - Conference Room B",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_b2c3d4e5f6a1",
+      "title": "Holiday Market",
+      "start_time": "2023-12-16T10:00:00-05:00",
+      "end_time": "2023-12-16T13:00:00-05:00",
+      "location": "State Farmers Market, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_c4d5e6f7a8b2",
+      "title": "Q1 Platform Planning",
+      "start_time": "2024-01-09T09:00:00-05:00",
+      "end_time": "2024-01-09T11:00:00-05:00",
+      "location": "Brightline Systems - Main Campus",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_d5e6f7g8h9c3",
+      "title": "Dinner at Bida Manda",
+      "start_time": "2024-01-20T19:00:00-05:00",
+      "end_time": "2024-01-20T21:00:00-05:00",
+      "location": "Bida Manda, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_e6f7g8h9i0d4",
+      "title": "Design System Review",
+      "start_time": "2024-02-13T13:00:00-05:00",
+      "end_time": "2024-02-13T14:00:00-05:00",
+      "location": "Brightline Systems - Design Lab",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_f7g8h9i0j1e5",
+      "title": "Hiking at Umstead",
+      "start_time": "2024-02-24T08:00:00-05:00",
+      "end_time": "2024-02-24T12:00:00-05:00",
+      "location": "Umstead State Park, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@outlook.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_g8h9i0j1k2f6",
+      "title": "Client Presentation - Acme Corp",
+      "start_time": "2024-03-05T10:00:00-05:00",
+      "end_time": "2024-03-05T11:30:00-05:00",
+      "location": "Brightline Systems - Conference Room A",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_h9i0j1k2l3g7",
+      "title": "Spring Garden Planning",
+      "start_time": "2024-03-17T14:00:00-04:00",
+      "end_time": "2024-03-17T16:00:00-04:00",
+      "location": "Home - 5874 Laurel Creek Road",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_i0j1k2l3m4h8",
+      "title": "Workshop: Research Methods",
+      "start_time": "2024-04-11T09:30:00-04:00",
+      "end_time": "2024-04-11T12:30:00-04:00",
+      "location": "Brightline Systems - Training Room 3",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_j1k2l3m4n5i9",
+      "title": "Priya's Birthday Dinner",
+      "start_time": "2024-04-20T18:30:00-04:00",
+      "end_time": "2024-04-20T21:00:00-04:00",
+      "location": "Poole's Diner, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@gmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.b@proton.me"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@fastmail.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_k2l3m4n5o6j0",
+      "title": "All-Hands Meeting",
+      "start_time": "2024-05-08T14:00:00-04:00",
+      "end_time": "2024-05-08T15:00:00-04:00",
+      "location": "Brightline Systems - Auditorium",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_l3m4n5o6p7k1",
+      "title": "Weekend in Asheville",
+      "start_time": "2024-05-25T16:00:00-04:00",
+      "end_time": "2024-05-27T20:00:00-04:00",
+      "location": "Asheville, NC",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_m4n5o6p7q8l2",
+      "title": "Mid-Year Performance Review",
+      "start_time": "2024-06-12T10:00:00-04:00",
+      "end_time": "2024-06-12T11:00:00-04:00",
+      "location": "Brightline Systems - Office 412",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_n5o6p7q8r9m3",
+      "title": "Juneteenth Community Gathering",
+      "start_time": "2024-06-19T16:00:00-04:00",
+      "end_time": "2024-06-19T20:00:00-04:00",
+      "location": "John Chavis Memorial Park",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@fastmail.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_o6p7q8r9s0n4",
+      "title": "Sprint Planning - Q3",
+      "start_time": "2024-07-09T09:00:00-04:00",
+      "end_time": "2024-07-09T10:30:00-04:00",
+      "location": "Brightline Systems - Agile Room",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_p7q8r9s0t1o5",
+      "title": "Emerald Isle Beach Trip",
+      "start_time": "2024-07-20T07:00:00-04:00",
+      "end_time": "2024-07-22T19:00:00-04:00",
+      "location": "Emerald Isle, NC",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_q8r9s0t1u2p6",
+      "title": "UX Audit Session",
+      "start_time": "2024-08-14T13:00:00-04:00",
+      "end_time": "2024-08-14T15:00:00-04:00",
+      "location": "Brightline Systems - Design Lab",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_r9s0t1u2v3q7",
+      "title": "Volunteer Orientation - RAFT",
+      "start_time": "2024-08-24T10:00:00-04:00",
+      "end_time": "2024-08-24T11:30:00-04:00",
+      "location": "RAFT Headquarters, Durham",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_s0t1u2v3w4r8",
+      "title": "Q3 Review and Q4 Prep",
+      "start_time": "2024-09-10T14:00:00-04:00",
+      "end_time": "2024-09-10T16:00:00-04:00",
+      "location": "Brightline Systems - Conference Room B",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_t1u2v3w4x5s9",
+      "title": "Concert: The National",
+      "start_time": "2024-09-21T19:00:00-04:00",
+      "end_time": "2024-09-21T23:00:00-04:00",
+      "location": "Red Hat Amphitheater, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@outlook.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_u2v3w4x5y6t0",
+      "title": "Conference Prep: UX Summit",
+      "start_time": "2024-10-03T11:00:00-04:00",
+      "end_time": "2024-10-03T12:00:00-04:00",
+      "location": "Brightline Systems - Office 412",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_v3w4x5y6z7u1",
+      "title": "Halloween Party - Malik's",
+      "start_time": "2024-10-26T19:00:00-04:00",
+      "end_time": "2024-10-27T00:00:00-04:00",
+      "location": "402 Hillsborough St, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.b@proton.me"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@gmail.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_w4x5y6z7a8v2",
+      "title": "Project Retro: Atlas",
+      "start_time": "2024-11-07T13:00:00-05:00",
+      "end_time": "2024-11-07T14:30:00-05:00",
+      "location": "Brightline Systems - Conference Room B",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_x5y6z7a8b9w3",
+      "title": "Thanksgiving with Parents",
+      "start_time": "2024-11-28T12:00:00-05:00",
+      "end_time": "2024-11-28T20:00:00-05:00",
+      "location": "Charlotte, NC",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_y6z7a8b9c0x4",
+      "title": "Year-End Team Celebration",
+      "start_time": "2024-12-13T16:00:00-05:00",
+      "end_time": "2024-12-13T19:00:00-05:00",
+      "location": "Boxcar Bar + Arcade, Raleigh",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_z7a8b9c0d1y5",
+      "title": "Gift Shopping - North Hills",
+      "start_time": "2024-12-21T14:00:00-05:00",
+      "end_time": "2024-12-21T17:00:00-05:00",
+      "location": "North Hills, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_a8b9c0d1e2z6",
+      "title": "2025 Annual Planning",
+      "start_time": "2025-01-08T09:00:00-05:00",
+      "end_time": "2025-01-08T12:00:00-05:00",
+      "location": "Brightline Systems - Executive Suite",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_b9c0d1e2f3a7",
+      "title": "New Year Brunch",
+      "start_time": "2025-01-01T11:00:00-05:00",
+      "end_time": "2025-01-01T14:00:00-05:00",
+      "location": "Crawford and Son, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@fastmail.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_c0d1e2f3g4b8",
+      "title": "Training: Advanced Analytics",
+      "start_time": "2025-02-12T10:00:00-05:00",
+      "end_time": "2025-02-12T12:00:00-05:00",
+      "location": "Brightline Systems - Training Center",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_d1e2f3g4h5c9",
+      "title": "Nina's Birthday Dinner",
+      "start_time": "2025-02-15T19:00:00-05:00",
+      "end_time": "2025-02-15T21:30:00-05:00",
+      "location": "Herons at The Umstead",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@outlook.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@gmail.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_e2f3g4h5i6d0",
+      "title": "Product Launch: Nexus",
+      "start_time": "2025-03-04T13:00:00-05:00",
+      "end_time": "2025-03-04T14:30:00-05:00",
+      "location": "Brightline Systems - Demo Room",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_f3g4h5i6j7e1",
+      "title": "Spring Break - Charleston",
+      "start_time": "2025-03-15T08:00:00-04:00",
+      "end_time": "2025-03-19T20:00:00-04:00",
+      "location": "Charleston, SC",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_g4h5i6j7k8f2",
+      "title": "Tax Preparation Meeting",
+      "start_time": "2025-04-05T10:00:00-04:00",
+      "end_time": "2025-04-05T11:00:00-04:00",
+      "location": "Webb Accounting Partners, Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Marcus Webb",
+          "email": "marcus@webbcpas.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_h5i6j7k8l9g3",
+      "title": "Team Building Exercise",
+      "start_time": "2025-04-22T14:00:00-04:00",
+      "end_time": "2025-04-22T17:00:00-04:00",
+      "location": "Triangle Rock Club, Morrisville",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_i6j7k8l9m0h4",
+      "title": "Memorial Day Cookout",
+      "start_time": "2025-05-26T15:00:00-04:00",
+      "end_time": "2025-05-26T20:00:00-04:00",
+      "location": "Home - 5874 Laurel Creek Road",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@outlook.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@gmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.b@proton.me"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_j7k8l9m1n0i5",
+      "title": "Mid-Year Strategy Review",
+      "start_time": "2025-05-14T11:00:00-04:00",
+      "end_time": "2025-05-14T12:30:00-04:00",
+      "location": "Brightline Systems - Conference Room A",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_k8l9m1n0o1j6",
+      "title": "Design Conference - Seattle",
+      "start_time": "2025-06-09T07:00:00-04:00",
+      "end_time": "2025-06-12T20:00:00-04:00",
+      "location": "Seattle, WA",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_l9m1n0o1p2k7",
+      "title": "Pride Parade and Brunch",
+      "start_time": "2025-06-28T10:00:00-04:00",
+      "end_time": "2025-06-28T16:00:00-04:00",
+      "location": "Downtown Raleigh",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@fastmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_m1n0o1p2q3l8",
+      "title": "Summer Hours Policy Review",
+      "start_time": "2025-07-10T15:00:00-04:00",
+      "end_time": "2025-07-10T16:00:00-04:00",
+      "location": "Brightline Systems - HR Office",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_n0o1p2q3r4m9",
+      "title": "Cooking Class - Italian",
+      "start_time": "2025-07-19T18:00:00-04:00",
+      "end_time": "2025-07-19T21:00:00-04:00",
+      "location": "Sur La Table, Crabtree Valley",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_o1p2q3r4s5n0",
+      "title": "EdTech Platform Kickoff",
+      "start_time": "2025-08-06T09:00:00-04:00",
+      "end_time": "2025-08-06T10:30:00-04:00",
+      "location": "Brightline Systems - Conference Room B",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_p2q3r4s5t6o1",
+      "title": "Hiking with Malik",
+      "start_time": "2025-08-23T07:30:00-04:00",
+      "end_time": "2025-08-23T11:30:00-04:00",
+      "location": "Eno River State Park",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.b@proton.me"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_q3r4s5t6u7p2",
+      "title": "Q3 Strategy Session",
+      "start_time": "2025-09-11T13:00:00-04:00",
+      "end_time": "2025-09-11T17:00:00-04:00",
+      "location": "Brightline Systems - Executive Suite",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_r4s5t6u7v8q3",
+      "title": "Habitat for Humanity Build",
+      "start_time": "2025-09-20T08:00:00-04:00",
+      "end_time": "2025-09-20T15:00:00-04:00",
+      "location": "Wake County Build Site",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_s5t6u7v8w9r4",
+      "title": "Client Appreciation Dinner",
+      "start_time": "2025-10-16T18:00:00-04:00",
+      "end_time": "2025-10-16T21:00:00-04:00",
+      "location": "Margaux's Restaurant, Raleigh",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_t6u7v8w9x0s5",
+      "title": "State Fair",
+      "start_time": "2025-10-18T16:00:00-04:00",
+      "end_time": "2025-10-18T22:00:00-04:00",
+      "location": "NC State Fairgrounds",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@outlook.com"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_u7v8w9x0y1t6",
+      "title": "Friendsgiving",
+      "start_time": "2025-11-08T17:00:00-05:00",
+      "end_time": "2025-11-08T22:00:00-05:00",
+      "location": "Home - 5874 Laurel Creek Road",
+      "calendar_type": "personal",
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@gmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.b@proton.me"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@fastmail.com"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@outlook.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_v8w9x0y1z2u7",
+      "title": "2026 Budget Planning",
+      "start_time": "2025-12-03T14:00:00-05:00",
+      "end_time": "2025-12-03T15:30:00-05:00",
+      "location": "Brightline Systems - Finance Wing",
+      "calendar_type": "work",
+      "attendees": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "status": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/visits_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-02T20:45:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "h7k9m2p4q8r5",
+      "url": "https://portal.rivertonhealthlabs.com/platform-design/dashboard",
+      "title": "Platform Design Portal - Riverton Health Labs",
+      "timestamp": "2024-11-01T09:23:17-06:00",
+      "visit_duration_seconds": 845,
+      "transition_type": "typed"
+    },
+    {
+      "id": "s3d8f7g2h9j1",
+      "url": "https://www.linkedin.com/in/calvin-price-284a9b1",
+      "title": "Calvin Price | Senior Data Analyst | Riverton Health Labs",
+      "timestamp": "2024-10-30T12:45:33-06:00",
+      "visit_duration_seconds": 156,
+      "transition_type": "link"
+    },
+    {
+      "id": "k4l2z8x9c5v7",
+      "url": "https://calendar.google.com/calendar/u/0/r/week",
+      "title": "Google Calendar - Week of Oct 28",
+      "timestamp": "2024-10-29T08:15:02-06:00",
+      "visit_duration_seconds": 230,
+      "transition_type": "typed"
+    },
+    {
+      "id": "b9n3m5k2l8p4",
+      "url": "https://mail.meadowmail.co/inbox",
+      "title": "Meadowmail Inbox (12) - samir.okafor@meadowmail.co",
+      "timestamp": "2024-10-28T19:42:11-06:00",
+      "visit_duration_seconds": 480,
+      "transition_type": "typed"
+    },
+    {
+      "id": "w2e4r6t1y3u8",
+      "url": "https://public.tableau.com/views/HealthcareMetrics2024/CustomerSatisfaction",
+      "title": "Customer Satisfaction Trends - Q3 2024 | Tableau Public",
+      "timestamp": "2024-10-28T14:30:45-06:00",
+      "visit_duration_seconds": 620,
+      "transition_type": "link"
+    },
+    {
+      "id": "q1w2e3r4t5y6",
+      "url": "https://www.denverpost.com/2024/10/27/denver-healthcare-startup-funding/",
+      "title": "Denver healthcare startups see record funding in Q3",
+      "timestamp": "2024-10-27T07:50:22-06:00",
+      "visit_duration_seconds": 340,
+      "transition_type": "link"
+    },
+    {
+      "id": "a8s7d6f5g4h3",
+      "url": "https://www.doordash.com/store/pizza-alley-denver-87234",
+      "title": "Pizza Alley - Delivery in Denver - DoorDash",
+      "timestamp": "2024-10-26T18:20:55-06:00",
+      "visit_duration_seconds": 420,
+      "transition_type": "typed"
+    },
+    {
+      "id": "j9k8l7m6n5b4",
+      "url": "https://www.southwest.com/airfares?departureDate=2024-12-15&returnDate=2024-12-22&origin=den&destination=sea",
+      "title": "Southwest Airlines - DEN to SEA Flight Search",
+      "timestamp": "2024-10-25T20:15:38-06:00",
+      "visit_duration_seconds": 580,
+      "transition_type": "typed"
+    },
+    {
+      "id": "v2c3x4z5l6k7",
+      "url": "https://secure.chase.com/web/auth/dashboard#/dashboard/index",
+      "title": "Chase Account Dashboard",
+      "timestamp": "2024-10-24T08:05:19-06:00",
+      "visit_duration_seconds": 195,
+      "transition_type": "typed"
+    },
+    {
+      "id": "p9o8i7u6y5t4",
+      "url": "https://www.amazon.com/gp/cart/view.html",
+      "title": "Amazon Shopping Cart",
+      "timestamp": "2024-10-23T21:30:44-06:00",
+      "visit_duration_seconds": 265,
+      "transition_type": "link"
+    },
+    {
+      "id": "r3e2w1q9a8s7",
+      "url": "https://rivertonhealth.slack.com/archives/C04K8JENQ2L",
+      "title": "#customer-insights | Riverton Health Labs Slack",
+      "timestamp": "2024-10-22T13:45:30-06:00",
+      "visit_duration_seconds": 310,
+      "transition_type": "link"
+    },
+    {
+      "id": "d4f5g6h7j8k9",
+      "url": "https://medium.com/customer-insights-platform/voice-of-customer-analysis-framework-2024-9c3a8b2e1f4d",
+      "title": "Voice of Customer Analysis Framework for Healthcare",
+      "timestamp": "2024-10-21T15:20:15-06:00",
+      "visit_duration_seconds": 740,
+      "transition_type": "link"
+    },
+    {
+      "id": "l0z9x8c7v6b5",
+      "url": "https://www.google.com/maps/place/8663+Maple+Hollow+Road,+Denver,+CO+80219",
+      "title": "8663 Maple Hollow Road - Google Maps",
+      "timestamp": "2024-10-20T16:10:08-06:00",
+      "visit_duration_seconds": 85,
+      "transition_type": "typed"
+    },
+    {
+      "id": "n3m4b5v6c7x8",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "title": "Healthcare UX Research Methods Explained",
+      "timestamp": "2024-10-19T20:45:33-06:00",
+      "visit_duration_seconds": 480,
+      "transition_type": "link"
+    },
+    {
+      "id": "z1a2s3d4f5g6",
+      "url": "https://www.linkedin.com/in/priya-shah-5a7b8c9",
+      "title": "Priya Shah | Product Manager | Denver Tech",
+      "timestamp": "2024-10-18T12:15:50-06:00",
+      "visit_duration_seconds": 125,
+      "transition_type": "link"
+    },
+    {
+      "id": "h7j8k9l0p1o2",
+      "url": "https://myaccount.xcelenergy.com/oam/server/obrareq.cgi",
+      "title": "Xcel Energy - Pay Bill",
+      "timestamp": "2024-10-15T09:30:22-06:00",
+      "visit_duration_seconds": 340,
+      "transition_type": "typed"
+    },
+    {
+      "id": "i3u4y5t6r7e8",
+      "url": "https://rivertonhealthlabs.sharepoint.com/sites/platform-design/Shared%20Documents/Forms/AllItems.aspx",
+      "title": "Platform Design Documents - Riverton SharePoint",
+      "timestamp": "2024-10-14T14:20:10-06:00",
+      "visit_duration_seconds": 420,
+      "transition_type": "typed"
+    },
+    {
+      "id": "o9p0i8u7y6t5",
+      "url": "https://www.strava.com/dashboard",
+      "title": "Strava Dashboard | Samir Okafor",
+      "timestamp": "2024-10-13T07:45:15-06:00",
+      "visit_duration_seconds": 180,
+      "transition_type": "typed"
+    },
+    {
+      "id": "f1g2h3j4k5l6",
+      "url": "https://www.westword.com/arts/denver-art-weekend-events-october-2024-19283746",
+      "title": "Best Art Events This Weekend in Denver",
+      "timestamp": "2024-10-12T18:30:40-06:00",
+      "visit_duration_seconds": 290,
+      "transition_type": "link"
+    },
+    {
+      "id": "m7n8b9v0c1x2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39284756/",
+      "title": "Patient satisfaction metrics in digital health platforms - PubMed",
+      "timestamp": "2024-10-11T10:15:28-06:00",
+      "visit_duration_seconds": 560,
+      "transition_type": "link"
+    }
+  ]
+}

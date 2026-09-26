@@ -1,0 +1,834 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/meeting_notes_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-28T20:15:30Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "MN-20231115-001",
+      "date": "2023-11-15",
+      "title": "Q4 Data Partnership Review",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "Conference Room B",
+      "notes": "Reviewed quarterly metrics for the Data Partnerships team. Discussed vendor consolidation opportunities and identified three underperforming contracts. Leah presented the budget forecast for Q1 2024. Team agreed to prioritize the Midwest Analytics integration before year-end.",
+      "action_items": [
+        "Marcus to schedule vendor review with Iris by Nov 22",
+        "Calvin to prepare budget variance analysis",
+        "Leah to circulate revised SLA terms"
+      ],
+      "project_tag": "Quarterly Planning",
+      "tags": [
+        "review",
+        "budget",
+        "q4"
+      ]
+    },
+    {
+      "id": "MN-20231122-002",
+      "date": "2023-11-22",
+      "title": "Vendor Evaluation: Northwind Analytics",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Video Call",
+      "notes": "Evaluated Northwind Analytics proposal for the customer segmentation project. Grace had concerns about data export capabilities. Iris confirmed their API documentation meets our security standards. Decided to proceed with a 30-day pilot starting December 1.",
+      "action_items": [
+        "Grace to coordinate pilot kickoff",
+        "Iris to share security checklist with vendor",
+        "Marcus to notify legal of new vendor onboarding"
+      ],
+      "project_tag": "Vendor Management",
+      "tags": [
+        "vendor",
+        "analytics",
+        "evaluation"
+      ]
+    },
+    {
+      "id": "MN-20231205-003",
+      "date": "2023-12-05",
+      "title": "Annual Planning Kickoff",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Main Boardroom",
+      "notes": "Kicked off 2024 annual planning process. Calvin presented departmental objectives. Discussion focused on expanding the research operations team by two heads. Grace suggested investing in automated reporting tools. Set deadline for draft proposals by December 20.",
+      "action_items": [
+        "All to submit departmental needs by Dec 15",
+        "Marcus to draft Research Operations roadmap",
+        "Leah to compile budget requests"
+      ],
+      "project_tag": "Strategic Planning",
+      "tags": [
+        "annual-planning",
+        "2024",
+        "headcount"
+      ]
+    },
+    {
+      "id": "MN-20231212-004",
+      "date": "2023-12-12",
+      "title": "1:1 with Calvin Price",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "Calvin's Office",
+      "notes": "Biweekly sync with Calvin. Discussed his transition to the new project management system. He raised concerns about the Q1 timeline for the Lake Street data migration. Agreed to push the deadline by two weeks to ensure quality. Also reviewed his professional development goals for 2024.",
+      "action_items": [
+        "Marcus to update project timeline in Asana",
+        "Calvin to enroll in advanced SQL training course"
+      ],
+      "project_tag": "1:1s",
+      "tags": [
+        "check-in",
+        "professional-development"
+      ]
+    },
+    {
+      "id": "MN-20240109-005",
+      "date": "2024-01-09",
+      "title": "January Team Sync",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com"
+      ],
+      "location": "Conference Room B",
+      "notes": "First team meeting of 2024. Reviewed holiday coverage successes and pain points. Iris presented the updated data retention policy. Discussed upcoming audit preparation. Team morale is high despite the busy Q4.",
+      "action_items": [
+        "Iris to distribute retention policy document",
+        "Marcus to schedule audit prep session for Jan 23",
+        "Leah to organize team lunch for Jan 19"
+      ],
+      "project_tag": "Team Operations",
+      "tags": [
+        "sync",
+        "planning",
+        "audit"
+      ]
+    },
+    {
+      "id": "MN-20240116-006",
+      "date": "2024-01-16",
+      "title": "Client Meeting: Midwest Retail Solutions",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com",
+        "owen.reed@strategicadvisors.com"
+      ],
+      "location": "Client Site - Minneapolis",
+      "notes": "Met with Owen Reed and the Midwest Retail leadership team. Presented findings from the customer loyalty analysis. Client was impressed with the predictive models. Discussed phase two expansion into inventory optimization. Need to refine the pricing model before next presentation.",
+      "action_items": [
+        "Grace to revise pricing slide deck by Jan 22",
+        "Marcus to draft SOW for phase two",
+        "Owen to provide additional sales data"
+      ],
+      "project_tag": "Client Work",
+      "tags": [
+        "client",
+        "retail",
+        "analysis"
+      ]
+    },
+    {
+      "id": "MN-20240123-007",
+      "date": "2024-01-23",
+      "title": "Data Governance Workshop",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com"
+      ],
+      "location": "Training Room 3",
+      "notes": "Three-hour workshop on new data governance protocols. Calvin walked through the classification framework. Iris demonstrated the updated tagging system in the data warehouse. Identified gap in handling legacy data from the 2022 acquisition.",
+      "action_items": [
+        "Calvin to document legacy data handling procedures",
+        "Iris to schedule training for wider team",
+        "Marcus to update governance wiki"
+      ],
+      "project_tag": "Compliance",
+      "tags": [
+        "governance",
+        "training",
+        "compliance"
+      ]
+    },
+    {
+      "id": "MN-20240206-008",
+      "date": "2024-02-06",
+      "title": "Quarterly Budget Review",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com"
+      ],
+      "location": "Finance Conference Room",
+      "notes": "Reviewed Q1 budget utilization with Finance partner. Currently at 18% spend, slightly under target due to delayed vendor onboarding. Leah flagged the need for additional cloud storage budget in March. Approved contingency fund of $15K for emergency software licensing.",
+      "action_items": [
+        "Leah to submit revised cloud budget forecast",
+        "Marcus to approve pending software purchases",
+        "Finance to unlock contingency access"
+      ],
+      "project_tag": "Budget",
+      "tags": [
+        "finance",
+        "budget",
+        "q1"
+      ]
+    },
+    {
+      "id": "MN-20240213-009",
+      "date": "2024-02-13",
+      "title": "Project Retrospective: Lake Street Migration",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "Conference Room A",
+      "notes": "Retrospective on the recently completed Lake Street data migration. What went well: zero downtime during cutover, excellent testing coverage. Improvements needed: better communication with downstream teams, earlier involvement of security review. Calvin to lead improvements for next migration.",
+      "action_items": [
+        "Calvin to draft improved runbook",
+        "Grace to schedule lessons-learned session with broader org",
+        "Marcus to recognize team in next all-hands"
+      ],
+      "project_tag": "Project Retrospective",
+      "tags": [
+        "retrospective",
+        "migration",
+        "improvement"
+      ]
+    },
+    {
+      "id": "MN-20240227-010",
+      "date": "2024-02-27",
+      "title": "Stakeholder Interview: Malik Brooks",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "malik.brooks@independentconsulting.net"
+      ],
+      "location": "Video Call",
+      "notes": "Interview with Malik Brooks regarding the regional demographics study. He provided valuable insights on the Twin Cities market trends. Discussed potential collaboration on the upcoming white paper. His availability aligns with our March timeline.",
+      "action_items": [
+        "Marcus to draft collaboration agreement",
+        "Malik to send over recent census analysis",
+        "Schedule follow-up for March 5"
+      ],
+      "project_tag": "Research",
+      "tags": [
+        "interview",
+        "demographics",
+        "consultant"
+      ]
+    },
+    {
+      "id": "MN-20240305-011",
+      "date": "2024-03-05",
+      "title": "Vendor Demo: StreamLine CRM",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com"
+      ],
+      "location": "Demo Theater",
+      "notes": "StreamLine presented their enterprise CRM solution. Interface looks promising but integration with our existing data lake would require custom middleware. Leah concerned about per-seat pricing model. Iris verified SOC2 compliance documentation. Decision pending technical eval.",
+      "action_items": [
+        "Iris to conduct security deep-dive",
+        "Leah to negotiate pricing for 50+ seats",
+        "Marcus to coordinate technical trial with Engineering"
+      ],
+      "project_tag": "Vendor Evaluation",
+      "tags": [
+        "crm",
+        "demo",
+        "software"
+      ]
+    },
+    {
+      "id": "MN-20240312-012",
+      "date": "2024-03-12",
+      "title": "1:1 with Grace Lin",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Marcus's Office",
+      "notes": "Biweekly with Grace. She's making excellent progress on the client reporting automation. Expressed interest in taking on more project management responsibilities. Discussed potential mentorship opportunity with Leah. No blockers identified.",
+      "action_items": [
+        "Marcus to connect Grace with Leah for PM mentoring",
+        "Grace to present automation demo next week"
+      ],
+      "project_tag": "1:1s",
+      "tags": [
+        "check-in",
+        "career-growth"
+      ]
+    },
+    {
+      "id": "MN-20240319-013",
+      "date": "2024-03-19",
+      "title": "Cross-Functional Sync: Engineering",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "engine.lead@harborviewdesign.com"
+      ],
+      "location": "Engineering Wing",
+      "notes": "Quarterly sync with Engineering leadership. Discussed API rate limiting issues affecting our data exports. Engineering agreed to prioritize the bulk export endpoint for Q2. Calvin raised concerns about schema drift in the events table. Agreed on shared ownership model for data contracts.",
+      "action_items": [
+        "Engineering to deliver bulk endpoint by April 15",
+        "Calvin to document schema requirements",
+        "Iris to set up monitoring alerts"
+      ],
+      "project_tag": "Cross-Functional",
+      "tags": [
+        "engineering",
+        "api",
+        "collaboration"
+      ]
+    },
+    {
+      "id": "MN-20240326-014",
+      "date": "2024-03-26",
+      "title": "External Partner Check-in: Priya Shah",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "priya.shah@umn.edu"
+      ],
+      "location": "Campus Coffee Shop",
+      "notes": "Met with Priya Shah from University of Minnesota Research Center. Caught up on her team's progress with the urban planning dataset. She's interested in our aggregated mobility data for her spring semester project. Discussed data sharing agreement terms.",
+      "action_items": [
+        "Marcus to send DSA template to Priya",
+        "Priya to provide IRB approval documentation",
+        "Schedule joint presentation for May"
+      ],
+      "project_tag": "Academic Partnership",
+      "tags": [
+        "academia",
+        "partnership",
+        "research"
+      ]
+    },
+    {
+      "id": "MN-20240402-015",
+      "date": "2024-04-02",
+      "title": "Q1 Metrics Review",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "Analytics Lab",
+      "notes": "Deep dive into Q1 performance metrics. Data processing volume up 23% year-over-year. Error rates decreased to 0.4%. Calvin highlighted efficiency gains from the new pipeline. Leah noted that client satisfaction scores exceeded targets. Planning celebration for team.",
+      "action_items": [
+        "Calvin to prepare efficiency case study",
+        "Leah to book team dinner",
+        "Marcus to present highlights to executive team"
+      ],
+      "project_tag": "Metrics",
+      "tags": [
+        "q1",
+        "kpis",
+        "review"
+      ]
+    },
+    {
+      "id": "MN-20240409-016",
+      "date": "2024-04-09",
+      "title": "Strategy Session: 2025 Roadmap",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Strategy Room",
+      "notes": "Early planning for 2025 strategic initiatives. Three major themes emerged: AI-assisted research tools, expanded university partnerships, and real-time dashboard offerings. Grace suggested hiring a dedicated data visualization designer. Leah budgeted for two additional senior analysts.",
+      "action_items": [
+        "Marcus to draft 2025 strategy document",
+        "Grace to research AI tool vendors",
+        "Leah to finalize headcount request"
+      ],
+      "project_tag": "Strategic Planning",
+      "tags": [
+        "roadmap",
+        "2025",
+        "strategy"
+      ]
+    },
+    {
+      "id": "MN-20240416-017",
+      "date": "2024-04-16",
+      "title": "Legal Sync: Contract Renewals",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "Legal Department",
+      "notes": "Reviewed upcoming contract renewals with Legal team. Cloud infrastructure contract expires June 30. Analytics software licenses up for renewal August 1. Calvin identified an auto-renewal clause in the NDA template that needs revision. Legal agrees to expedite the vendor risk assessments.",
+      "action_items": [
+        "Calvin to provide vendor list to Legal",
+        "Legal to send revised NDA template",
+        "Marcus to approve standard renewal terms for under $50K"
+      ],
+      "project_tag": "Legal",
+      "tags": [
+        "contracts",
+        "compliance",
+        "renewal"
+      ]
+    },
+    {
+      "id": "MN-20240423-018",
+      "date": "2024-04-23",
+      "title": "Innovation Lab Brainstorming",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Innovation Space",
+      "notes": "Exploratory session for new research methodologies. Iris proposed using satellite imagery analysis for urban development tracking. Grace suggested sentiment analysis on local news sources for economic indicators. Marcus committed to prototyping budget for two ideas.",
+      "action_items": [
+        "Iris to scope satellite data costs",
+        "Grace to build news scraper prototype",
+        "Marcus to secure $10K innovation budget"
+      ],
+      "project_tag": "Innovation",
+      "tags": [
+        "brainstorming",
+        "r&d",
+        "methodology"
+      ]
+    },
+    {
+      "id": "MN-20240507-019",
+      "date": "2024-05-07",
+      "title": "Client Meeting: Twin Cities Health",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "elena.vega@tchealth.org"
+      ],
+      "location": "TCH Corporate Office",
+      "notes": "Quarterly business review with Elena Vega and the TCH analytics team. Our patient flow analysis identified 12% efficiency improvement opportunities. Elena concerned about HIPAA compliance in the new data sharing model. Resolved to use the approved secure enclave approach.",
+      "action_items": [
+        "Leah to schedule technical implementation call",
+        "Marcus to provide revised compliance documentation",
+        "Elena to secure internal security approval"
+      ],
+      "project_tag": "Client Work",
+      "tags": [
+        "healthcare",
+        "client",
+        "hipaa"
+      ]
+    },
+    {
+      "id": "MN-20240514-020",
+      "date": "2024-05-14",
+      "title": "Interview Notes: Senior Analyst Candidate",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Interview Room 2",
+      "notes": "Panel interview for Senior Analyst position. Candidate had strong SQL skills and relevant healthcare analytics experience. Grace liked their communication style. Calvin noted they asked thoughtful questions about data ethics. Recommend moving to final round.",
+      "action_items": [
+        "Marcus to schedule final interview with department head",
+        "Grace to check references",
+        "Calvin to prepare technical assessment for final round"
+      ],
+      "project_tag": "Hiring",
+      "tags": [
+        "interview",
+        "recruiting",
+        "analytics"
+      ]
+    },
+    {
+      "id": "MN-20240521-021",
+      "date": "2024-05-21",
+      "title": "Offsite Planning Committee",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com"
+      ],
+      "location": "Break Room",
+      "notes": "Planning the Q3 team offsite. Considering options between Stillwater retreat center and downtown Minneapolis hotel. Iris prefers the retreat for focus time. Leah concerned about accessibility for remote team members. Agreed on hybrid model with virtual participation options.",
+      "action_items": [
+        "Leah to get quotes from both venues",
+        "Iris to survey team on activity preferences",
+        "Marcus to book dates for September 12-13"
+      ],
+      "project_tag": "Team Events",
+      "tags": [
+        "offsite",
+        "planning",
+        "team-building"
+      ]
+    },
+    {
+      "id": "MN-20240604-022",
+      "date": "2024-06-04",
+      "title": "Data Privacy Compliance Workshop",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Training Center",
+      "notes": "Mandatory training on updated privacy regulations. Covered new CCPA requirements and GDPR article updates. Calvin raised scenario about handling EU researcher data. Grace clarified retention period questions. All team members completed certification quiz.",
+      "action_items": [
+        "Calvin to update data handling procedures for EU data",
+        "Grace to audit current retention schedules",
+        "Marcus to file compliance certificates"
+      ],
+      "project_tag": "Compliance",
+      "tags": [
+        "privacy",
+        "training",
+        "ccpa",
+        "gdpr"
+      ]
+    },
+    {
+      "id": "MN-20240611-023",
+      "date": "2024-06-11",
+      "title": "Monthly Vendor Management",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com"
+      ],
+      "location": "Leah's Desk",
+      "notes": "Regular check-in on vendor performance. Northwind Analytics performing above expectations. Minor issue with the new CRM vendor's support response times. Leah negotiating better SLA terms. Decided not to renew the legacy survey tool contract.",
+      "action_items": [
+        "Leah to send termination notice to SurveyPro",
+        "Marcus to approve Northwind contract expansion",
+        "Schedule quarterly business review with StreamLine"
+      ],
+      "project_tag": "Vendor Management",
+      "tags": [
+        "vendors",
+        "contracts",
+        "procurement"
+      ]
+    },
+    {
+      "id": "MN-20240618-024",
+      "date": "2024-06-18",
+      "title": "Post-Mortem: API Integration Outage",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "War Room",
+      "notes": "Incident review for the June 15 API outage. Root cause was expired SSL certificate on the third-party webhook service. Detection delayed by 4 hours due to monitoring gap. Calvin implemented automated certificate expiry checks. Iris updated the incident response playbook.",
+      "action_items": [
+        "Iris to distribute updated runbook",
+        "Calvin to set up cert monitoring alerts",
+        "Marcus to review vendor communication protocols"
+      ],
+      "project_tag": "Incident Response",
+      "tags": [
+        "post-mortem",
+        "outage",
+        "incident",
+        "api"
+      ]
+    },
+    {
+      "id": "MN-20240702-025",
+      "date": "2024-07-02",
+      "title": "Mid-Year Review Preparation",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com"
+      ],
+      "location": "Conference Room B",
+      "notes": "Preparing for mid-year performance reviews. Reviewed team goals against actuals. Leah's team exceeding targets on all fronts. Identified two team members ready for promotion. Discussed budget reallocation for the new research initiative approved in June.",
+      "action_items": [
+        "Marcus to complete performance reviews by July 15",
+        "Leah to prepare promotion paperwork",
+        "Finalize H2 budget adjustment"
+      ],
+      "project_tag": "HR",
+      "tags": [
+        "mid-year",
+        "reviews",
+        "performance"
+      ]
+    },
+    {
+      "id": "MN-20240709-026",
+      "date": "2024-07-09",
+      "title": "Consultant Sync: Owen Reed",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "owen.reed@strategicadvisors.com"
+      ],
+      "location": "Video Call",
+      "notes": "Biweekly check-in with Owen Reed on the retail optimization project. He delivered the competitive analysis report ahead of schedule. Discussed findings about seasonal inventory patterns. Recommendations align with our Q3 strategic goals.",
+      "action_items": [
+        "Owen to present findings to leadership on July 18",
+        "Marcus to integrate recommendations into quarterly plan",
+        "Schedule final deliverable review for August"
+      ],
+      "project_tag": "Consulting",
+      "tags": [
+        "consultant",
+        "strategy",
+        "retail"
+      ]
+    },
+    {
+      "id": "MN-20240716-027",
+      "date": "2024-07-16",
+      "title": "All-Hands Q2 Summary",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Main Auditorium",
+      "notes": "Department all-hands meeting. Presented Q2 achievements: 30% increase in data processing efficiency, successful launch of three new client deliverables, zero security incidents. Recognized Grace for outstanding client presentation work. Previewed Q3 priorities including the AI research pilot.",
+      "action_items": [
+        "Marcus to send meeting recording to remote team",
+        "Calvin to post metrics dashboard link",
+        "Grace to share presentation template with team"
+      ],
+      "project_tag": "All-Hands",
+      "tags": [
+        "town-hall",
+        "q2",
+        "celebration"
+      ]
+    },
+    {
+      "id": "MN-20240723-028",
+      "date": "2024-07-23",
+      "title": "Infrastructure Scaling Discussion",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "IT Operations Center",
+      "notes": "Technical planning for infrastructure scaling. Current compute resources sufficient through Q3 but anticipate shortage in Q4 due to new data ingestion pipelines. Calvin recommends moving to reserved instances for cost savings. Need $45K budget approval for hardware.",
+      "action_items": [
+        "Calvin to prepare infrastructure proposal",
+        "Marcus to request budget exception",
+        "Schedule architecture review with Engineering"
+      ],
+      "project_tag": "Infrastructure",
+      "tags": [
+        "scaling",
+        "cloud",
+        "budget"
+      ]
+    },
+    {
+      "id": "MN-20240806-029",
+      "date": "2024-08-06",
+      "title": "Board Update Preparation",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com"
+      ],
+      "location": "Executive Suite",
+      "notes": "Preparing presentation for the August board meeting. Focus on Data Partnerships growth metrics and ROI from the new analytics platform. Leah crafting the financial narrative. Emphasizing year-over-year client retention improvements. Need to address the delayed vendor integration briefly.",
+      "action_items": [
+        "Leah to finalize financial slides",
+        "Marcus to draft talking points",
+        "Rehearsal scheduled for August 12"
+      ],
+      "project_tag": "Executive",
+      "tags": [
+        "board",
+        "presentation",
+        "executive"
+      ]
+    },
+    {
+      "id": "MN-20240813-030",
+      "date": "2024-08-13",
+      "title": "Vendor Negotiation: CloudSecure Storage",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com"
+      ],
+      "location": "Video Call",
+      "notes": "Final negotiation for enterprise storage contract. Iris confirmed technical requirements are met. Negotiated 15% discount on three-year commitment. Included free migration support. Legal already reviewed standard terms. Ready to execute pending signature.",
+      "action_items": [
+        "Marcus to sign agreement",
+        "Iris to coordinate migration timeline",
+        "Procurement to process PO"
+      ],
+      "project_tag": "Vendor Management",
+      "tags": [
+        "negotiation",
+        "storage",
+        "vendor"
+      ]
+    },
+    {
+      "id": "MN-20240820-031",
+      "date": "2024-08-20",
+      "title": "Team Building Event Planning",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com"
+      ],
+      "location": "Coffee Shop",
+      "notes": "Planning details for the September offsite. Grace organized an escape room activity for the first evening. Marcus handling the recognition awards. Discussed dietary restrictions and accessibility needs. Weather backup plan confirmed for the outdoor activities.",
+      "action_items": [
+        "Grace to collect dietary preferences by Aug 30",
+        "Marcus to order awards",
+        "Confirm final headcount with Leah"
+      ],
+      "project_tag": "Team Events",
+      "tags": [
+        "offsite",
+        "planning",
+        "logistics"
+      ]
+    },
+    {
+      "id": "MN-20240903-032",
+      "date": "2024-09-03",
+      "title": "Q3 Goals Alignment",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com"
+      ],
+      "location": "Conference Room A",
+      "notes": "Post-summer alignment on Q3 objectives. Reviewed progress on the AI pilot project - 60% complete. Calvin's infrastructure upgrades on track. Leah's client satisfaction initiative showing early results. Adjusted timeline for the university partnership launch to October.",
+      "action_items": [
+        "Calvin to complete infra migration by Sept 15",
+        "Leah to launch client NPS survey",
+        "Marcus to prepare October partnership announcement"
+      ],
+      "project_tag": "Planning",
+      "tags": [
+        "q3",
+        "goals",
+        "alignment"
+      ]
+    },
+    {
+      "id": "MN-20240910-033",
+      "date": "2024-09-10",
+      "title": "External Audit: Data Handling",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com",
+        "sandra.kim@verityaudit.com"
+      ],
+      "location": "Audit Room",
+      "notes": "Annual external audit of data handling procedures. Auditor Sandra Kim reviewed our access controls and retention policies. Minor finding regarding documentation of the legacy data archive. Otherwise fully compliant with SOC2 and ISO27001 standards.",
+      "action_items": [
+        "Calvin to document archive access procedures by Sept 24",
+        "Iris to provide evidence of policy training",
+        "Marcus to review final audit report"
+      ],
+      "project_tag": "Audit",
+      "tags": [
+        "audit",
+        "compliance",
+        "external"
+      ]
+    },
+    {
+      "id": "MN-20240917-034",
+      "date": "2024-09-17",
+      "title": "Product Roadmap Input Session",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com"
+      ],
+      "location": "Product Lab",
+      "notes": "Collaborating with Product team on the analytics platform roadmap. Grace emphasized need for better visualization tools. Leah requested automated client reporting features. Product team committed to prioritizing our top three requests for Q4 development.",
+      "action_items": [
+        "Grace to submit detailed UX requirements",
+        "Leah to provide representative client reports",
+        "Marcus to attend product prioritization meeting"
+      ],
+      "project_tag": "Product",
+      "tags": [
+        "roadmap",
+        "collaboration",
+        "features"
+      ]
+    },
+    {
+      "id": "MN-20241001-035",
+      "date": "2024-10-01",
+      "title": "Research Partnership Renewal Talks",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "priya.shah@umn.edu",
+        "malik.brooks@independentconsulting.net"
+      ],
+      "location": "University Meeting Room",
+      "notes": "Discussed renewing the tri-party research partnership for 2025. Priya's team delivering excellent demographic insights. Malik's analysis of the business implications has been valuable. Agreed to expand scope to include rural outreach data. Budget increase of 20% under discussion.",
+      "action_items": [
+        "Marcus to draft 2025 partnership MOU",
+        "Priya to provide updated scope of work",
+        "Malik to prepare budget justification"
+      ],
+      "project_tag": "Partnership",
+      "tags": [
+        "renewal",
+        "academia",
+        "consultant"
+      ]
+    },
+    {
+      "id": "MN-20241015-036",
+      "date": "2024-10-15",
+      "title": "Year-End Strategy Retrospective",
+      "attendees": [
+        "marcus.bennett@harborviewdesign.com",
+        "leah.morgan@harborviewdesign.com",
+        "calvin.price@harborviewdesign.com",
+        "grace.lin@harborviewdesign.com",
+        "iris.romero@harborviewdesign.com"
+      ],
+      "location": "Executive Boardroom",
+      "notes": "Comprehensive review of 2024 strategic initiatives. Celebrated achievements: 40% efficiency gain, three new major clients, successful compliance audits. Identified lessons: need earlier vendor engagement for complex integrations, better cross-training within team. Planning 2025 strategy kickoff for November.",
+      "action_items": [
+        "Marcus to schedule 2025 planning sessions",
+        "Leah to compile year-end report",
+        "All to submit personal development goals for 2025"
+      ],
+      "project_tag": "Strategic Review",
+      "tags": [
+        "retrospective",
+        "year-end",
+        "strategy",
+        "2024"
+      ]
+    }
+  ]
+}

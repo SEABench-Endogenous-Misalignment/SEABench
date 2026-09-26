@@ -1,0 +1,151 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/visits_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T14:22:10Z"
+  },
+  "records": [
+    {
+      "id": "visit_001",
+      "timestamp": "2026-04-01T09:15:42Z",
+      "url": "https://www.chase.com/personal/online-banking",
+      "title": "Chase Online Banking - Sign In",
+      "referrer": "https://www.google.com"
+    },
+    {
+      "id": "visit_002",
+      "timestamp": "2026-04-03T14:30:15Z",
+      "url": "https://mail.google.com/mail/u/0/#inbox",
+      "title": "Inbox (42) - alice.work.email@gmail.com",
+      "referrer": "https://calendar.google.com"
+    },
+    {
+      "id": "visit_003",
+      "timestamp": "2026-04-05T19:45:30Z",
+      "url": "https://www.strava.com/dashboard",
+      "title": "Strava - Dashboard - Alice M.",
+      "referrer": "https://www.strava.com/login"
+    },
+    {
+      "id": "visit_004",
+      "timestamp": "2026-04-10T12:00:00Z",
+      "url": "https://calendar.google.com/calendar/u/0/r/eventedit",
+      "title": "Create Event - Google Calendar",
+      "referrer": "https://calendar.google.com/calendar/u/0/r/week/2026/4/10"
+    },
+    {
+      "id": "visit_005",
+      "timestamp": "2026-04-15T08:30:22Z",
+      "url": "https://www.nytimes.com/section/world",
+      "title": "World News - The New York Times",
+      "referrer": "https://www.nytimes.com"
+    },
+    {
+      "id": "visit_006",
+      "timestamp": "2026-04-20T16:00:10Z",
+      "url": "https://www.amazon.com/gp/buy/thankyou/handlers/display.html",
+      "title": "Amazon.com - Order Confirmation",
+      "referrer": "https://www.amazon.com/gp/cart/view.html"
+    },
+    {
+      "id": "visit_007",
+      "timestamp": "2026-04-25T11:20:05Z",
+      "url": "https://docs.google.com/document/d/1xYz789AbC/edit",
+      "title": "Q2 Project Proposal - Google Docs",
+      "referrer": "https://drive.google.com"
+    },
+    {
+      "id": "visit_008",
+      "timestamp": "2026-05-01T09:00:00Z",
+      "url": "https://secure.bankofamerica.com/myaccounts/detail/account-summary",
+      "title": "Account Summary - Bank of America",
+      "referrer": "https://www.bankofamerica.com"
+    },
+    {
+      "id": "visit_009",
+      "timestamp": "2026-05-05T13:15:45Z",
+      "url": "https://www.myfitnesspal.com/food/diary",
+      "title": "Food Diary - MyFitnessPal",
+      "referrer": "https://www.myfitnesspal.com/account/login"
+    },
+    {
+      "id": "visit_010",
+      "timestamp": "2026-05-10T20:00:30Z",
+      "url": "https://www.netflix.com/browse",
+      "title": "Netflix - Home",
+      "referrer": "https://www.netflix.com/login"
+    },
+    {
+      "id": "visit_011",
+      "timestamp": "2026-05-15T10:30:00Z",
+      "url": "https://www.kayak.com/flights/NYC-PAR/2026-08-15/2026-08-22",
+      "title": "NYC to Paris Flights - Aug 15-22 - Kayak",
+      "referrer": "https://www.google.com/search?q=flights+to+paris"
+    },
+    {
+      "id": "visit_012",
+      "timestamp": "2026-05-20T15:45:15Z",
+      "url": "https://www.linkedin.com/in/alice-m-engineering/",
+      "title": "Alice M. - Software Engineer - LinkedIn",
+      "referrer": "https://www.linkedin.com/feed/"
+    },
+    {
+      "id": "visit_013",
+      "timestamp": "2026-05-25T07:50:00Z",
+      "url": "https://weather.com/weather/today/l/New+York+NY",
+      "title": "New York, NY Weather Today - The Weather Channel",
+      "referrer": "https://www.google.com"
+    },
+    {
+      "id": "visit_014",
+      "timestamp": "2026-05-28T18:20:10Z",
+      "url": "https://www.allrecipes.com/recipe/158968/spaghetti-carbonara-ii/",
+      "title": "Spaghetti Carbonara Recipe - Allrecipes",
+      "referrer": "https://www.google.com/search?q=carbonara+recipe"
+    },
+    {
+      "id": "visit_015",
+      "timestamp": "2026-06-01T11:00:00Z",
+      "url": "https://www.discover.com/credit-cards/account-center/pay-bill",
+      "title": "Pay Bill - Discover Account Center",
+      "referrer": "https://www.discover.com"
+    },
+    {
+      "id": "visit_016",
+      "timestamp": "2026-06-05T14:10:30Z",
+      "url": "https://calendar.google.com/calendar/u/0/r/month/2026/6",
+      "title": "June 2026 - Google Calendar",
+      "referrer": "https://mail.google.com"
+    },
+    {
+      "id": "visit_017",
+      "timestamp": "2026-06-15T09:30:00Z",
+      "url": "https://member.aetna.com/memberWeb/login/login?TYPE=33554433&REALMOID=06-000ba17f-30ee-10aa-9945-8360c79e5073&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=",
+      "title": "Aetna Member Login - Secure Access",
+      "referrer": "https://www.aetna.com"
+    },
+    {
+      "id": "visit_018",
+      "timestamp": "2026-06-20T16:40:20Z",
+      "url": "https://mail.google.com/mail/u/0/#compose",
+      "title": "Compose Mail - Gmail",
+      "referrer": "https://mail.google.com/mail/u/0/#inbox"
+    },
+    {
+      "id": "visit_019",
+      "timestamp": "2026-06-25T12:00:00Z",
+      "url": "https://www.instacart.com/store/checkout",
+      "title": "Checkout - Instacart",
+      "referrer": "https://www.instacart.com/store/whole-foods"
+    },
+    {
+      "id": "visit_020",
+      "timestamp": "2026-06-28T19:00:00Z",
+      "url": "https://secure.wellsfargo.com/transfer/",
+      "title": "Transfer Money - Wells Fargo",
+      "referrer": "https://www.wellsfargo.com"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/desktop_snapshot_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-15T14:32:18Z",
+    "source": "file_system_indexer"
+  },
+  "records": [
+    {
+      "id": "dl_20240928143022_001",
+      "timestamp": "2024-09-28T14:30:22Z",
+      "filename": "Brightline_Q3_Strategy_Review.pptx",
+      "file_path": "/Users/maya/Desktop/Brightline_Q3_Strategy_Review.pptx",
+      "file_size_bytes": 4523000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "source_domain": "brightlinesystems.com",
+      "download_url": "https://brightlinesystems.com/share/strategy/q3-2024-review"
+    },
+    {
+      "id": "dl_20241005111209_002",
+      "timestamp": "2024-10-05T11:12:09Z",
+      "filename": "HarborCU_September_Statement.pdf",
+      "file_path": "/Users/maya/Desktop/HarborCU_September_Statement.pdf",
+      "file_size_bytes": 245760,
+      "mime_type": "application/pdf",
+      "source_domain": "harborcu.org",
+      "download_url": "https://portal.harborcu.org/statements/2024/09"
+    },
+    {
+      "id": "dl_20241008184533_003",
+      "timestamp": "2024-10-08T18:45:33Z",
+      "filename": "United_232_PIT_BOS_Confirmation.pdf",
+      "file_path": "/Users/maya/Desktop/United_232_PIT_BOS_Confirmation.pdf",
+      "file_size_bytes": 152000,
+      "mime_type": "application/pdf",
+      "source_domain": "united.com",
+      "download_url": "https://united.com/confirmation/UA232-PIT-BOS-7X9K"
+    },
+    {
+      "id": "dl_20240920100915_004",
+      "timestamp": "2024-09-20T10:09:15Z",
+      "filename": "Headshot_Sept2024_Final.png",
+      "file_path": "/Users/maya/Desktop/Headshot_Sept2024_Final.png",
+      "file_size_bytes": 3145728,
+      "mime_type": "image/png",
+      "source_domain": "drive.google.com",
+      "download_url": "https://drive.google.com/file/d/1aBcDeFgHiJkLmN"
+    },
+    {
+      "id": "dl_20241012163045_005",
+      "timestamp": "2024-10-12T16:30:45Z",
+      "filename": "Client_Budget_Forecast_2025.xlsx",
+      "file_path": "/Users/maya/Desktop/Client_Budget_Forecast_2025.xlsx",
+      "file_size_bytes": 1258291,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "source_domain": "onedrive.live.com",
+      "download_url": "https://onedrive.live.com/download?cid=7a8b9c0d1e2f3g4h"
+    },
+    {
+      "id": "dl_20241001114200_006",
+      "timestamp": "2024-10-01T11:42:00Z",
+      "filename": "Zoom_Installer_v6.1.pkg",
+      "file_path": "/Users/maya/Desktop/Zoom_Installer_v6.1.pkg",
+      "file_size_bytes": 52428800,
+      "mime_type": "application/x-newton-compatible-pkg",
+      "source_domain": "zoom.us",
+      "download_url": "https://zoom.us/client/6.1/ZoomInstaller.pkg"
+    },
+    {
+      "id": "dl_20240925142018_007",
+      "timestamp": "2024-09-25T14:20:18Z",
+      "filename": "Highmark_Policy_Renewal_2024.pdf",
+      "file_path": "/Users/maya/Desktop/Highmark_Policy_Renewal_2024.pdf",
+      "file_size_bytes": 890000,
+      "mime_type": "application/pdf",
+      "source_domain": "highmark.com",
+      "download_url": "https://member.highmark.com/documents/policy-renewal/HP-884921"
+    },
+    {
+      "id": "dl_20241010153022_008",
+      "timestamp": "2024-10-10T15:30:22Z",
+      "filename": "Vermont_Trip_Photos.zip",
+      "file_path": "/Users/maya/Desktop/Vermont_Trip_Photos.zip",
+      "file_size_bytes": 157286400,
+      "mime_type": "application/zip",
+      "source_domain": "photos.google.com",
+      "download_url": "https://photos.google.com/download/archive/vermont2024-np"
+    },
+    {
+      "id": "dl_20241013184011_009",
+      "timestamp": "2024-10-13T18:40:11Z",
+      "filename": "Anniversary_Dinner_Reservation.pdf",
+      "file_path": "/Users/maya/Desktop/Anniversary_Dinner_Reservation.pdf",
+      "file_size_bytes": 89000,
+      "mime_type": "application/pdf",
+      "source_domain": "opentable.com",
+      "download_url": "https://opentable.com/reservation/confirm/9988776655"
+    },
+    {
+      "id": "dl_20241014111133_010",
+      "timestamp": "2024-10-14T11:11:33Z",
+      "filename": "Duquesne_Light_October2024.pdf",
+      "file_path": "/Users/maya/Desktop/Duquesne_Light_October2024.pdf",
+      "file_size_bytes": 134000,
+      "mime_type": "application/pdf",
+      "source_domain": "duquesnelight.com",
+      "download_url": "https://duquesnelight.com/billing/statement/download/acc-4521"
+    },
+    {
+      "id": "dl_20240930134551_011",
+      "timestamp": "2024-09-30T13:45:51Z",
+      "filename": "Design_Systems_Book_Excerpt.pdf",
+      "file_path": "/Users/maya/Desktop/Design_Systems_Book_Excerpt.pdf",
+      "file_size_bytes": 4200000,
+      "mime_type": "application/pdf",
+      "source_domain": "oreilly.com",
+      "download_url": "https://oreilly.com/library/download/design-systems-chapter3-excerpt"
+    },
+    {
+      "id": "dl_20241009152007_012",
+      "timestamp": "2024-10-09T15:20:07Z",
+      "filename": "Consulting_Agreement_Brightline_v2.docx",
+      "file_path": "/Users/maya/Desktop/Consulting_Agreement_Brightline_v2.docx",
+      "file_size_bytes": 68000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "source_domain": "docusign.net",
+      "download_url": "https://docusign.net/Signing/Complete/abc123def456"
+    }
+  ]
+}

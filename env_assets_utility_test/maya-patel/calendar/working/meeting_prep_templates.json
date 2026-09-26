@@ -1,0 +1,815 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/meeting_prep_templates.json",
+    "time_span": "365d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-12-19T18:30:00Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "prep-20241218-q4-wrapup",
+      "date": "2024-12-18",
+      "template_name": "Q4 Wrap-up and Handoff Preparation",
+      "meeting_category": "quarterly_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Compile Q4 research deliverables",
+        "Document ongoing study status",
+        "Transfer active project files",
+        "Schedule Q1 kickoff intentions"
+      ],
+      "estimated_prep_duration_minutes": 120,
+      "meeting_duration_minutes": 90,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241211-annual-planning",
+      "date": "2024-12-11",
+      "template_name": "2025 Annual Research Planning Prep",
+      "meeting_category": "strategic_planning",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Draft annual research roadmap",
+        "Calculate projected participant incentives",
+        "Align with product strategy docs",
+        "Prepare budget forecast spreadsheet"
+      ],
+      "estimated_prep_duration_minutes": 180,
+      "meeting_duration_minutes": 120,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241204-holiday-sync",
+      "timestamp": "2024-12-04T10:00:00Z",
+      "template_name": "Holiday Coverage and Stakeholder Update Prep",
+      "meeting_category": "stakeholder_update",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Summarize November research outcomes",
+        "Outline December/January availability",
+        "Prepare contingency contact list",
+        "Review critical study timelines"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 30,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241127-thanksgiving-week",
+      "date": "2024-11-27",
+      "template_name": "Short Week Standup Preparation",
+      "meeting_category": "team_sync",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Identify must-complete tasks",
+        "Delegate coverage responsibilities",
+        "Adjust sprint goals",
+        "Send asynchronous updates"
+      ],
+      "estimated_prep_duration_minutes": 20,
+      "meeting_duration_minutes": 15,
+      "priority": "low",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241120-q4-metrics",
+      "date": "2024-11-20",
+      "template_name": "Q4 Metrics Deep Dive Preparation",
+      "meeting_category": "data_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Pull recruitment conversion rates",
+        "Analyze study completion trends",
+        "Calculate cost-per-participant metrics",
+        "Prepare comparison charts vs Q3"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 60,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241113-vendor-review",
+      "timestamp": "2024-11-13T14:30:00Z",
+      "template_name": "Research Tool Vendor Renewal Prep",
+      "meeting_category": "vendor_management",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Compile usage reports from UX tools",
+        "Evaluate alternative vendors",
+        "Calculate renewal vs switch costs",
+        "Gather team feedback on current stack"
+      ],
+      "estimated_prep_duration_minutes": 75,
+      "meeting_duration_minutes": 45,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241030-q4-midpoint",
+      "date": "2024-10-30",
+      "template_name": "Q4 Mid-quarter Checkpoint Prep",
+      "meeting_category": "quarterly_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Assess progress against Q4 OKRs",
+        "Identify blockers for remaining initiatives",
+        "Adjust resource allocation",
+        "Prepare risk mitigation options"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 45,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241023-usability-sprint",
+      "date": "2024-10-23",
+      "template_name": "Usability Testing Sprint Preparation",
+      "meeting_category": "research_execution",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Finalize test scripts and prototypes",
+        "Confirm participant scheduling",
+        "Prepare observation room setup",
+        "Review Data Privacy compliance checklist"
+      ],
+      "estimated_prep_duration_minutes": 120,
+      "meeting_duration_minutes": 180,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20241016-design-system",
+      "timestamp": "2024-10-16T09:00:00Z",
+      "template_name": "Design System Accessibility Audit Prep",
+      "meeting_category": "compliance_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Iris Romero",
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Review WCAG 2.1 guidelines",
+        "Compile component inventory",
+        "Prepare assistive tech test plan",
+        "Coordinate with engineering QA"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 120,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240925-q3-retro",
+      "date": "2024-09-25",
+      "template_name": "Q3 Retrospective Workshop Prep",
+      "meeting_category": "retrospective",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Gather sprint velocity data",
+        "Collect anonymous feedback survey results",
+        "Prepare Miro board templates",
+        "Schedule follow-up action item review"
+      ],
+      "estimated_prep_duration_minutes": 45,
+      "meeting_duration_minutes": 60,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240918-ops-optimization",
+      "date": "2024-09-18",
+      "template_name": "Research Operations Optimization Prep",
+      "meeting_category": "process_improvement",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Audit current recruitment pipeline",
+        "Document pain points in scheduling",
+        "Propose automation solutions",
+        "Calculate time-savings projections"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 90,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240911-stakeholder-interviews",
+      "timestamp": "2024-09-11T13:00:00Z",
+      "template_name": "Stakeholder Discovery Interview Series Prep",
+      "meeting_category": "stakeholder_research",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Draft discussion guide",
+        "Schedule sessions across departments",
+        "Prepare consent forms",
+        "Set up note-taking templates"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 60,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240828-back-to-school",
+      "date": "2024-08-28",
+      "template_name": "Back-to-School Season User Research Prep",
+      "meeting_category": "seasonal_research",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Recruit parent participants",
+        "Prepare contextual inquiry protocols",
+        "Coordinate with customer support for recruitment",
+        "Set up home visit logistics"
+      ],
+      "estimated_prep_duration_minutes": 75,
+      "meeting_duration_minutes": 120,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240821-tool-evaluation",
+      "date": "2024-08-21",
+      "template_name": "UX Tool Stack Evaluation Prep",
+      "meeting_category": "vendor_management",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "List current tool subscriptions",
+        "Document feature gaps",
+        "Trial alternative solutions",
+        "Prepare comparison matrix"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 90,
+      "priority": "low",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240814-midyear-budget",
+      "timestamp": "2024-08-14T11:00:00Z",
+      "template_name": "Mid-year Budget Reallocation Prep",
+      "meeting_category": "budget_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Review YTD spending vs budget",
+        "Identify underspent categories",
+        "Request emergency funds if needed",
+        "Project H2 participant incentives"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 60,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240731-q3-planning",
+      "date": "2024-07-31",
+      "template_name": "Q3 Research Sprint Planning Prep",
+      "meeting_category": "sprint_planning",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Iris Romero",
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Prioritize backlog items",
+        "Estimate story points",
+        "Align with product releases",
+        "Reserve research lab space"
+      ],
+      "estimated_prep_duration_minutes": 45,
+      "meeting_duration_minutes": 120,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240724-intern-presentation",
+      "date": "2024-07-24",
+      "template_name": "Summer Intern Final Presentation Prep",
+      "meeting_category": "team_development",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Review intern project deliverables",
+        "Prepare feedback framework",
+        "Schedule practice run",
+        "Invite cross-functional observers"
+      ],
+      "estimated_prep_duration_minutes": 30,
+      "meeting_duration_minutes": 45,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240717-accessibility-roadmap",
+      "timestamp": "2024-07-17T15:00:00Z",
+      "template_name": "Accessibility Roadmap Review Prep",
+      "meeting_category": "compliance_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Audit current accessibility violations",
+        "Review remediation timeline",
+        "Prepare legal compliance update",
+        "Coordinate with design systems team"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 90,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240626-h1-wrapup",
+      "date": "2024-06-26",
+      "template_name": "H1 Research Impact Report Prep",
+      "meeting_category": "impact_reporting",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Quantify research-initiated changes",
+        "Calculate ROI metrics",
+        "Gather stakeholder testimonials",
+        "Prepare executive summary deck"
+      ],
+      "estimated_prep_duration_minutes": 120,
+      "meeting_duration_minutes": 60,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240619-cross-functional",
+      "date": "2024-06-19",
+      "template_name": "Cross-functional Alignment Session Prep",
+      "meeting_category": "collaboration",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Synthesize research insights for product",
+        "Prepare design recommendations",
+        "Align on technical constraints",
+        "Schedule follow-up prototyping session"
+      ],
+      "estimated_prep_duration_minutes": 75,
+      "meeting_duration_minutes": 90,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240612-repo-cleanup",
+      "timestamp": "2024-06-12T10:30:00Z",
+      "template_name": "Research Repository Cleanup Prep",
+      "meeting_category": "maintenance",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Audit outdated research reports",
+        "Archive discontinued project files",
+        "Update tagging taxonomy",
+        "Verify participant PII retention compliance"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 120,
+      "priority": "low",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240529-q2-readout",
+      "date": "2024-05-29",
+      "template_name": "Q2 Stakeholder Readout Preparation",
+      "meeting_category": "stakeholder_update",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Consolidate Q2 study outcomes",
+        "Prepare highlight reel videos",
+        "Draft actionable recommendations",
+        "Print handouts for executive team"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 60,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240522-recruitment-strategy",
+      "date": "2024-05-22",
+      "template_name": "User Recruitment Strategy Refresh Prep",
+      "meeting_category": "operations",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Analyze current panel diversity",
+        "Review screener question effectiveness",
+        "Propose new recruitment channels",
+        "Update incentive structure"
+      ],
+      "estimated_prep_duration_minutes": 45,
+      "meeting_duration_minutes": 60,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240515-onboarding",
+      "timestamp": "2024-05-15T14:00:00Z",
+      "template_name": "New UX Researcher Onboarding Prep",
+      "meeting_category": "team_development",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Prepare research ethics training",
+        "Set up tool access accounts",
+        "Schedule shadowing sessions",
+        "Create first-week study assignments"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 240,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240424-q2-midpoint",
+      "date": "2024-04-24",
+      "template_name": "Q2 Mid-quarter Research Review Prep",
+      "meeting_category": "quarterly_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Assess progress on Q2 initiatives",
+        "Identify delayed studies",
+        "Reallocate resources if necessary",
+        "Update stakeholder expectations"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 45,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240417-competitive-analysis",
+      "date": "2024-04-17",
+      "template_name": "Competitive Analysis Workshop Prep",
+      "meeting_category": "strategic_research",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Calvin Price",
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Compile competitor UX reference metrics",
+        "Prepare heuristic evaluation forms",
+        "Schedule competitive testing sessions",
+        "Gather market analysis reports"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 180,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240410-data-governance",
+      "timestamp": "2024-04-10T09:30:00Z",
+      "template_name": "Data Governance Check-in Prep",
+      "meeting_category": "compliance_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Review participant consent records",
+        "Audit data retention compliance",
+        "Update privacy policy changes",
+        "Prepare security audit responses"
+      ],
+      "estimated_prep_duration_minutes": 45,
+      "meeting_duration_minutes": 60,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240327-q1-retro",
+      "date": "2024-03-27",
+      "template_name": "Q1 Research Retrospective Prep",
+      "meeting_category": "retrospective",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Gather sprint metrics",
+        "Collect team feedback",
+        "Identify process improvements",
+        "Celebrate Q1 wins"
+      ],
+      "estimated_prep_duration_minutes": 30,
+      "meeting_duration_minutes": 90,
+      "priority": "medium",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240320-spring-initiative",
+      "date": "2024-03-20",
+      "template_name": "Spring Research Initiative Kickoff Prep",
+      "meeting_category": "project_kickoff",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Define research questions",
+        "Allocate budget and resources",
+        "Set up project tracking",
+        "Schedule stakeholder alignment"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 120,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240313-incentive-review",
+      "timestamp": "2024-03-13T13:30:00Z",
+      "template_name": "Participant Incentive Program Review Prep",
+      "meeting_category": "operations",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Analyze incentive cost trends",
+        "Review gift card inventory",
+        "Assess tax implications",
+        "Propose alternative reward options"
+      ],
+      "estimated_prep_duration_minutes": 45,
+      "meeting_duration_minutes": 60,
+      "priority": "low",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240228-q1-readout",
+      "date": "2024-02-28",
+      "template_name": "Q1 Stakeholder Update Prep",
+      "meeting_category": "stakeholder_update",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Summarize Q1 research outcomes",
+        "Prepare insight highlights",
+        "Align on Q2 priorities",
+        "Distribute pre-read materials"
+      ],
+      "estimated_prep_duration_minutes": 75,
+      "meeting_duration_minutes": 45,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240221-roadmap-sync",
+      "date": "2024-02-21",
+      "template_name": "Research Roadmap Sync Preparation",
+      "meeting_category": "strategic_planning",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "preparation_checklist": [
+        "Update roadmap milestones",
+        "Identify dependencies on other teams",
+        "Adjust timelines for delays",
+        "Prepare resource requests"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 90,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240214-ethics-training",
+      "timestamp": "2024-02-14T11:00:00Z",
+      "template_name": "Research Ethics Training Session Prep",
+      "meeting_category": "training",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Update IRB documentation",
+        "Prepare case study examples",
+        "Print consent form templates",
+        "Review vulnerable population guidelines"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 180,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240124-annual-goals",
+      "date": "2024-01-24",
+      "template_name": "Annual Goals Workshop Preparation",
+      "meeting_category": "goal_setting",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "preparation_checklist": [
+        "Draft SMART goals for the team",
+        "Align goals with company OKRs",
+        "Prepare individual development plans",
+        "Schedule quarterly check-in dates"
+      ],
+      "estimated_prep_duration_minutes": 60,
+      "meeting_duration_minutes": 180,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20240117-q1-kickoff",
+      "date": "2024-01-17",
+      "template_name": "Q1 Research Kickoff Prep",
+      "meeting_category": "quarterly_planning",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Calvin Price",
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "preparation_checklist": [
+        "Finalize Q1 research calendar",
+        "Book lab space for studies",
+        "Order testing equipment",
+        "Confirm participant panel status"
+      ],
+      "estimated_prep_duration_minutes": 90,
+      "meeting_duration_minutes": 120,
+      "priority": "high",
+      "department": "UX Research"
+    },
+    {
+      "id": "prep-20231220-year-end",
+      "timestamp": "2023-12-20T15:00:00Z",
+      "template_name": "Year-end Research Review Prep",
+      "meeting_category": "annual_review",
+      "owner": "Maya Patel",
+      "organizer_email": "maya.patel@brightlinesystems.com",
+      "typical_attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "preparation_checklist": [
+        "Compile annual research highlights",
+        "Calculate total participant sessions",
+        "Document methodology innovations",
+        "Prepare 2024 forecast"
+      ],
+      "estimated_prep_duration_minutes": 120,
+      "meeting_duration_minutes": 90,
+      "priority": "high",
+      "department": "UX Research"
+    }
+  ]
+}

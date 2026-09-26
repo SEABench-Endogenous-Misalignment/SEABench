@@ -1,0 +1,332 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/work_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-26T20:00:00Z",
+    "source": "slack_workspace_export"
+  },
+  "records": [
+    {
+      "id": "msg_1717084800000x7a",
+      "timestamp": "2024-05-30T09:15:00-06:00",
+      "channel": "#research-ops",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Q2 participant recruitment is running 15% behind target. I've contacted Peak Insights to see if they can expedite the remaining 40 screener completions by June 15.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1718188800000b2",
+      "timestamp": "2024-06-12T14:30:00-06:00",
+      "channel": "@calvin.price",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "content": "Can you share the Athena Project budget spreadsheet? Finance is asking for revised Q3 projections by Thursday.",
+      "message_type": "direct_message",
+      "mentions": [
+        "linh.nguyen"
+      ],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1718707200000c9",
+      "timestamp": "2024-06-18T16:45:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "content": "Heads up: the Redwood Labs contract renewal is under legal review. Potential delay could impact our July fieldwork schedule. @linh.nguyen flagging for your timeline.",
+      "message_type": "channel",
+      "mentions": [
+        "linh.nguyen"
+      ],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1719312000000d1",
+      "timestamp": "2024-06-25T11:00:00-06:00",
+      "channel": "#general",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "content": "Welcome to Marcus Chen, joining us as Research Associate on Monday. @linh.nguyen can you handle the onboarding checklist and desk setup?",
+      "message_type": "channel",
+      "mentions": [
+        "linh.nguyen"
+      ],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1720464000000e3",
+      "timestamp": "2024-07-08T10:20:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Completed the Q2 retrospective analysis. Key finding: average study setup time decreased 22% after implementing the new vendor onboarding SOPs. Full report in the shared drive.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": "thr_1720464000000e3"
+    },
+    {
+      "id": "msg_1721078400000f5",
+      "timestamp": "2024-07-15T13:45:00-06:00",
+      "channel": "@calvin.price",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Sensitive update: the Meridian Health pilot feedback is mixed. Three participants dropped out due to app stability issues. Should we escalate to engineering before expanding the cohort?",
+      "message_type": "direct_message",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1721683200000g7",
+      "timestamp": "2024-07-22T09:00:00-06:00",
+      "channel": "#announcements",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "content": "Quarterly planning sessions scheduled for August 5-6 at the Boulder office. Please block your calendars and submit pre-reads by August 1.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1722888000000h8",
+      "timestamp": "2024-08-05T15:30:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "content": "Reviewing vendor diversity metrics for procurement. We need two more certified diverse suppliers by September to meet our annual goals. @linh.nguyen do you have candidates from the research vendor pool?",
+      "message_type": "channel",
+      "mentions": [
+        "linh.nguyen"
+      ],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1723492800000i9",
+      "timestamp": "2024-08-12T11:15:00-06:00",
+      "channel": "#research-labs",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Boulder office visit confirmed for August 28-29. Meeting rooms booked: Alpine (Tuesday AM) for team sync, Summit (Wednesday PM) for stakeholder reviews.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1724097600000j1",
+      "timestamp": "2024-08-19T14:20:00-06:00",
+      "channel": "@calvin.price",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "content": "Can you approve the $4,200 purchase for Otter.ai licenses? The team of 6 researchers needs transcription support for the Horizon Financial interviews starting next week.",
+      "message_type": "direct_message",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1724702400000k2",
+      "timestamp": "2024-08-26T08:45:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Draft Q3 roadmap posted. Heavy focus on automation tooling, participant experience improvements, and expanding our remote research capabilities. Comments welcome by Friday.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1725384000000l4",
+      "timestamp": "2024-09-03T16:00:00-06:00",
+      "channel": "@iris.romero",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "content": "Quick question: did you get approval for the contractor extension for Marcus? His term ends this Friday and he's in the middle of the data cleanup.",
+      "message_type": "direct_message",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1725992400000m6",
+      "timestamp": "2024-09-10T10:50:00-06:00",
+      "channel": "#general",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Celebrating a win: we hit 98% response rate on the Horizon Financial survey. Great work coordinating those participant incentives, everyone. Special thanks to Calvin for the troubleshooting yesterday.",
+      "message_type": "channel",
+      "mentions": [
+        "calvin.price"
+      ],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1726597200000n8",
+      "timestamp": "2024-09-17T09:30:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "content": "Security reminder: please review the updated data handling guidelines before next week's SOC2 audit. Critical that all PII storage follows the new retention policies.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1727202000000o1",
+      "timestamp": "2024-09-24T13:15:00-06:00",
+      "channel": "#research-labs",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "content": "New API documentation is live for the research platform. Testing environment credentials are in the 1Password vault under Engineering > Research Tools.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1727806800000p3",
+      "timestamp": "2024-10-01T11:00:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "October is going to be tight. We have four concurrent studies plus the platform migration. Can we do a prioritization meeting tomorrow at 10am to sequence the workloads?",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": "thr_1727806800000p3"
+    },
+    {
+      "id": "msg_1728411600000q5",
+      "timestamp": "2024-10-08T08:30:00-06:00",
+      "channel": "#announcements",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "content": "All-hands recording from last week is available. Key note: Q4 hiring freeze lifted for critical roles only. Please submit proposals through your department leads.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1729016400000r7",
+      "timestamp": "2024-10-15T14:45:00-06:00",
+      "channel": "@grace.lin",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Can we discuss the promotion case for Priya during our 1:1 today? I want to make sure we have strong impact metrics documented before the November review cycle.",
+      "message_type": "direct_message",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1729621200000s9",
+      "timestamp": "2024-10-22T10:30:00-06:00",
+      "channel": "#product-ops",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "content": "Migration update: 73% of historical data transferred to the new platform. ETA for cutover is still November 12. @linh.nguyen please validate the research archives when you have a moment.",
+      "message_type": "channel",
+      "mentions": [
+        "linh.nguyen"
+      ],
+      "thread_id": "thr_1729621200000s9"
+    },
+    {
+      "id": "msg_1730229600000t2",
+      "timestamp": "2024-10-29T12:00:00-06:00",
+      "channel": "#research-labs",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Halloween reminder: office costume contest at 3pm in the main atrium. Also, please log your October study hours by EOD today for budget reconciliation.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1730834400000u4",
+      "timestamp": "2024-11-05T09:15:00-07:00",
+      "channel": "@grace.lin",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "content": "Are you available to interview the final candidate for the Ops Manager role on Thursday at 2pm? Looking for your perspective on the research operations angle.",
+      "message_type": "direct_message",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1731439200000v6",
+      "timestamp": "2024-11-12T11:30:00-07:00",
+      "channel": "#product-ops",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "content": "Platform migration is complete. Please validate your access to historical studies and report any data discrepancies immediately via the incident channel.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1731637200000w8",
+      "timestamp": "2024-11-14T10:30:00-07:00",
+      "channel": "#general",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Team lunch next Tuesday at Root Down to celebrate the migration completion. Vegetarian and gluten-free options confirmed. Please RSVP by Monday.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1732044000000x1",
+      "timestamp": "2024-11-19T08:40:00-07:00",
+      "channel": "#research-labs",
+      "sender_name": "Calvin Price",
+      "sender_email": "calvin.price@brightlinesystems.com",
+      "content": "Q4 budget flush: any urgent tooling needs? We have $8,400 remaining in the software budget that needs to be committed by November 30.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1732220400000y3",
+      "timestamp": "2024-11-21T14:00:00-07:00",
+      "channel": "#product-ops",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "2025 planning survey is out. Please complete by Friday so we can finalize department OKRs and headcount requests before the holidays.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1732393200000z5",
+      "timestamp": "2024-11-23T10:00:00-07:00",
+      "channel": "#announcements",
+      "sender_name": "Grace Lin",
+      "sender_email": "grace.lin@brightlinesystems.com",
+      "content": "Office closure Nov 28-29 for Thanksgiving. Remote work optional on Wednesday Nov 27. Please set your Slack status if you're working offline.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1732555200000a7",
+      "timestamp": "2024-11-25T11:00:00-07:00",
+      "channel": "@iris.romero",
+      "sender_name": "Iris Romero",
+      "sender_email": "iris.romero@brightlinesystems.com",
+      "content": "Can you cover the standup tomorrow morning? I have a dentist appointment at 9:30am and will be in around 11.",
+      "message_type": "direct_message",
+      "mentions": [],
+      "thread_id": null
+    },
+    {
+      "id": "msg_1732645200000b9",
+      "timestamp": "2024-11-26T12:00:00-07:00",
+      "channel": "#product-ops",
+      "sender_name": "Linh Nguyen",
+      "sender_email": "linh.nguyen@brightlinesystems.com",
+      "content": "Wrapped the 2024 retrospective. Detailed report is in the Research Ops folder. Thank you all for a challenging but productive year. Looking forward to Q1 2025.",
+      "message_type": "channel",
+      "mentions": [],
+      "thread_id": null
+    }
+  ]
+}

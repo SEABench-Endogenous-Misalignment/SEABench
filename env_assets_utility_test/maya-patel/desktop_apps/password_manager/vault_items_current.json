@@ -1,0 +1,73 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/vault_items_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T14:32:18Z",
+    "source": "vault_sync_export"
+  },
+  "records": [
+    {
+      "id": "vault-7823",
+      "title": "Brightline Systems SSO",
+      "username": "maya.patel@brightlinesystems.com",
+      "password": "K9#mP2$vLq8!xWz",
+      "url": "https://id.brightlinesystems.com",
+      "timestamp": "2024-11-10T09:15:32Z",
+      "folder": "Work",
+      "type": "login"
+    },
+    {
+      "id": "vault-9156",
+      "title": "Harbor Inbox Mail",
+      "username": "maya.patel@harborinbox.com",
+      "password": "Fj39!kDm@pL8#Qz",
+      "url": "https://mail.harborinbox.com",
+      "timestamp": "2024-11-14T16:45:11Z",
+      "folder": "Personal",
+      "type": "login"
+    },
+    {
+      "id": "vault-3047",
+      "title": "Monongahela Bank Online",
+      "username": "mpatel7841",
+      "password": "B7$cR9mK!vDn2@X",
+      "url": "https://secure.monongahelabank.com",
+      "timestamp": "2024-10-28T11:22:09Z",
+      "folder": "Finance",
+      "type": "login",
+      "otp_secret": "JBSWY3DPEHPK3PXP"
+    },
+    {
+      "id": "vault-6218",
+      "title": "Allegheny Health Portal",
+      "username": "maya.p.4511",
+      "password": "Hq4!wE8$sTu9&Lm",
+      "url": "https://portal.alleghenyhealth.net",
+      "timestamp": "2024-09-15T08:30:45Z",
+      "folder": "Health",
+      "type": "login"
+    },
+    {
+      "id": "vault-4592",
+      "title": "CineStream Plus",
+      "username": "maya.patel@harborinbox.com",
+      "password": "Xy2$Zp9!vBn6@Qk",
+      "url": "https://accounts.cinestream.tv",
+      "timestamp": "2024-11-05T19:12:33Z",
+      "folder": "Entertainment",
+      "type": "login"
+    },
+    {
+      "id": "vault-8834",
+      "title": "Appalachian Utilities",
+      "username": "mpatel_lc6452",
+      "password": "Rt5!hJ8$kMw3#Lp",
+      "url": "https://billing.appalachianutil.com",
+      "timestamp": "2024-08-20T14:18:56Z",
+      "folder": "Home Utilities",
+      "type": "login"
+    }
+  ]
+}

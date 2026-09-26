@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/loyalty/programs_snapshot.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "UAL-MP-001",
+      "program_name": "United MileagePlus",
+      "status_tier": "Silver",
+      "member_id": "UA123456789",
+      "points_balance": 45600,
+      "date": "2019-03-15",
+      "timestamp": "2026-05-15T14:30:00Z"
+    },
+    {
+      "id": "DAL-SM-001",
+      "program_name": "Delta SkyMiles",
+      "status_tier": "Gold",
+      "member_id": "DL987654321",
+      "points_balance": 83200,
+      "date": "2020-01-20",
+      "timestamp": "2026-05-20T09:15:00Z"
+    },
+    {
+      "id": "MAR-BV-001",
+      "program_name": "Marriott Bonvoy",
+      "status_tier": "Platinum Elite",
+      "member_id": "MB456789123",
+      "points_balance": 125000,
+      "date": "2018-07-10",
+      "timestamp": "2026-06-01T16:45:00Z"
+    },
+    {
+      "id": "HIL-HN-001",
+      "program_name": "Hilton Honors",
+      "status_tier": "Gold",
+      "member_id": "HH789123456",
+      "points_balance": 67800,
+      "date": "2021-11-05",
+      "period_start": "2026-01-01",
+      "period_end": "2026-12-31"
+    },
+    {
+      "id": "HER-GP-001",
+      "program_name": "Hertz Gold Plus Rewards",
+      "status_tier": "Five Star",
+      "member_id": "HZ321654987",
+      "points_balance": 12400,
+      "date": "2020-05-12",
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "ENT-EP-001",
+      "program_name": "Enterprise Plus",
+      "status_tier": "Silver",
+      "member_id": "EP654321789",
+      "points_balance": 8900,
+      "date": "2022-09-01",
+      "timestamp": "2026-05-25T13:20:00Z"
+    }
+  ]
+}

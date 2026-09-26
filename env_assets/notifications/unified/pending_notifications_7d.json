@@ -1,0 +1,97 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/pending_notifications_7d.json",
+    "time_span": "7d",
+    "sensitivity": "low",
+    "generated_at_utc": "2026-06-15T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "notif-cal-20260615001",
+      "type": "calendar",
+      "title": "Team Standup - Q3 Planning",
+      "timestamp": "2026-06-16T09:00:00Z",
+      "source_app": "alice_calendar",
+      "priority": "high",
+      "read": false,
+      "description": "Daily sync with engineering team in Conference Room B"
+    },
+    {
+      "id": "notif-mail-20260615002",
+      "type": "email",
+      "sender": "sarah.chen@partnerfirm.com",
+      "subject": "Contract Review Complete",
+      "timestamp": "2026-06-15T11:22:00Z",
+      "source_app": "alice_emails",
+      "priority": "medium",
+      "read": false,
+      "preview": "Hi Alice, I've finished reviewing the vendor agreements..."
+    },
+    {
+      "id": "notif-bank-20260614003",
+      "type": "banking",
+      "title": "Automatic Transfer Completed",
+      "date": "2026-06-14",
+      "source_app": "alice_banking",
+      "priority": "low",
+      "read": true,
+      "details": "Monthly savings deposit processed"
+    },
+    {
+      "id": "notif-fit-20260615004",
+      "type": "fitness",
+      "title": "Weekly Goal: 70% Achieved",
+      "timestamp": "2026-06-15T08:00:00Z",
+      "source_app": "alice_fitness",
+      "priority": "low",
+      "read": false,
+      "metric": "steps",
+      "current_value": "24500",
+      "target_value": "35000"
+    },
+    {
+      "id": "notif-note-20260613005",
+      "type": "reminder",
+      "title": "Buy anniversary gift for Mom",
+      "date": "2026-06-13",
+      "source_app": "alice_notes",
+      "priority": "high",
+      "read": false,
+      "due_date": "2026-06-20"
+    },
+    {
+      "id": "notif-cal-20260618006",
+      "type": "calendar",
+      "title": "Dentist Appointment - Dr. Smith",
+      "start_time": "2026-06-18T15:30:00Z",
+      "end_time": "2026-06-18T16:30:00Z",
+      "source_app": "alice_calendar",
+      "priority": "medium",
+      "read": false,
+      "location": "Downtown Dental Clinic"
+    },
+    {
+      "id": "notif-sys-20260612007",
+      "type": "system",
+      "title": "Security Update Available",
+      "timestamp": "2026-06-12T03:00:00Z",
+      "source_app": "System",
+      "priority": "high",
+      "read": false,
+      "action_required": "restart"
+    },
+    {
+      "id": "notif-mail-20260615008",
+      "type": "email",
+      "sender": "alerts@utilityco.com",
+      "subject": "Monthly Bill Ready",
+      "timestamp": "2026-06-15T06:15:00Z",
+      "source_app": "alice_emails",
+      "priority": "medium",
+      "read": false,
+      "amount": "$84.50",
+      "due_date": "2026-07-05"
+    }
+  ]
+}

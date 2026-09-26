@@ -1,0 +1,396 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/personal_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-04-15T14:32:18Z",
+    "source": "contacts_export"
+  },
+  "records": [
+    {
+      "id": "7a3f8c2e-9b1d-4c5a-8f3e-2d1c4b5a6e7f",
+      "name": "Iris Romero",
+      "phone": "+1-412-633-6256",
+      "email": "iris.romero@meadowmail.co",
+      "category": "Family",
+      "date": "2022-03-15"
+    },
+    {
+      "id": "8b4e9d3f-0c2e-5d6b-9f4e-3e2d5c6b7f8a",
+      "name": "Nina Park",
+      "phone": "+1-412-344-9821",
+      "email": "nina.park@fastmail.com",
+      "category": "Friend",
+      "date": "2022-06-20"
+    },
+    {
+      "id": "9c5f0e4a-1d3f-6e7c-0f5f-4f3e6d7c8f9b",
+      "name": "Owen Reed",
+      "phone": "+1-412-267-8899",
+      "email": "owen.reed@gmail.com",
+      "category": "Friend",
+      "date": "2022-07-10"
+    },
+    {
+      "id": "0d6a1f5b-2e4a-7f8d-1f6f-5f4a7e8d9f0c",
+      "name": "Priya Shah",
+      "phone": "+1-412-788-2341",
+      "email": "priya.shah@proton.me",
+      "category": "Friend",
+      "date": "2022-08-05"
+    },
+    {
+      "id": "1e7b2f6c-3f5b-8f9e-2f7f-6f5b8f9e0f1d",
+      "name": "Malik Brooks",
+      "phone": "+1-412-902-4456",
+      "email": "malik.brooks@outlook.com",
+      "category": "Friend",
+      "date": "2022-09-12"
+    },
+    {
+      "id": "2f8c3f7d-4e6c-9f0f-3f8f-7f6c9f0f1f2e",
+      "name": "Leah Morgan",
+      "phone": "+1-412-333-6677",
+      "email": "leah.morgan@atlascivicpartners.com",
+      "category": "Work",
+      "date": "2023-01-10"
+    },
+    {
+      "id": "3f9d4f8e-5f7d-0f1f-4f9f-8f7d0f1f2f3f",
+      "name": "Calvin Price",
+      "phone": "+1-412-444-9988",
+      "email": "calvin.price@atlascivicpartners.com",
+      "category": "Work",
+      "date": "2023-02-15"
+    },
+    {
+      "id": "4f0e5f9f-6f8e-1f2f-5f0f-9f8e1f2f3f4a",
+      "name": "Grace Lin",
+      "phone": "+1-412-876-5432",
+      "email": "grace.lin@atlascivicpartners.com",
+      "category": "Work",
+      "date": "2023-03-20"
+    },
+    {
+      "id": "5f1f6f0f-7f9f-2f3f-6f1f-0f9f2f3f4f5b",
+      "name": "Minh Nguyen",
+      "phone": "+1-412-682-3344",
+      "email": "minh.nguyen65@verizon.net",
+      "category": "Family",
+      "date": "2022-01-10"
+    },
+    {
+      "id": "6f2f7f1f-8f0f-3f4f-7f2f-1f0f3f4f5f6c",
+      "name": "Lan Nguyen",
+      "phone": "+1-412-682-3345",
+      "email": "lan.nguyen65@verizon.net",
+      "category": "Family",
+      "date": "2022-01-10"
+    },
+    {
+      "id": "7f3f8f2f-9f1f-4f5f-8f3f-2f1f4f5f6f7d",
+      "name": "Tuan Nguyen",
+      "phone": "+1-610-445-9921",
+      "email": "tuan.nguyen@me.com",
+      "category": "Family",
+      "date": "2022-04-20"
+    },
+    {
+      "id": "8f4f9f3f-0f2f-5f6f-9f4f-3f2f5f6f7f8e",
+      "name": "Helen Hoang",
+      "phone": "+1-412-421-7766",
+      "email": "helen.hoang@yahoo.com",
+      "category": "Family",
+      "date": "2022-05-15"
+    },
+    {
+      "id": "9f5f0f4f-1f3f-6f7f-0f5f-4f3f6f7f8f9f",
+      "name": "Michael Tran",
+      "phone": "+1-724-889-3421",
+      "email": "michael.tran@gmail.com",
+      "category": "Family",
+      "date": "2022-05-15"
+    },
+    {
+      "id": "0f6f1f5f-2f4f-7f8f-1f6f-5f4f7f8f9f0a",
+      "name": "Danny Nguyen",
+      "phone": "+1-412-661-2234",
+      "email": "danny.nguyen@icloud.com",
+      "category": "Family",
+      "date": "2022-11-30"
+    },
+    {
+      "id": "1f7f2f6f-3f5f-8f9f-2f7f-6f5f8f9f0f1b",
+      "name": "Dr. Jennifer Walsh",
+      "phone": "+1-412-623-5800",
+      "email": "jennifer.walsh@upmc.edu",
+      "category": "Medical",
+      "date": "2022-02-28"
+    },
+    {
+      "id": "2f8f3f7f-4f6f-9f0f-3f8f-7f6f9f0f1f2c",
+      "name": "Dr. Robert Kim",
+      "phone": "+1-412-687-1400",
+      "email": "robert.kim@oaklanddental.com",
+      "category": "Medical",
+      "date": "2022-03-10"
+    },
+    {
+      "id": "3f9f4f8f-5f7f-0f1f-4f9f-8f7f0f1f2f3d",
+      "name": "Dr. Amanda Foster",
+      "phone": "+1-412-362-8200",
+      "email": "amanda.foster@visionworks.com",
+      "category": "Medical",
+      "date": "2022-10-15"
+    },
+    {
+      "id": "4f0f5f9f-6f8f-1f2f-5f0f-9f8f1f2f3f4e",
+      "name": "CVS Pharmacy Shadyside",
+      "phone": "+1-412-661-8700",
+      "email": "pharmacy.01927@cvs.com",
+      "category": "Medical",
+      "date": "2022-12-01"
+    },
+    {
+      "id": "5f1f6f0f-7f9f-2f3f-6f1f-0f9f2f3f4f5f",
+      "name": "Martinez Auto Repair",
+      "phone": "+1-412-681-9500",
+      "email": "martinez.auto@repairshop.com",
+      "category": "Service",
+      "date": "2023-04-10"
+    },
+    {
+      "id": "6f2f7f1f-8f0f-3f4f-7f2f-1f0f3f4f5f6a",
+      "name": "Hometown Heating & Cooling",
+      "phone": "+1-412-881-4200",
+      "email": "service@hometownhvac.com",
+      "category": "Service",
+      "date": "2023-05-20"
+    },
+    {
+      "id": "7f3f8f2f-9f1f-4f5f-8f3f-2f1f4f5f6f7b",
+      "name": "Greenfield Gardens Landscaping",
+      "phone": "+1-412-422-1100",
+      "email": "info@greenfieldgardens.net",
+      "category": "Service",
+      "date": "2023-06-15"
+    },
+    {
+      "id": "8f4f9f3f-0f2f-5f6f-9f4f-3f2f5f6f7f8c",
+      "name": "Elle Salon",
+      "phone": "+1-412-681-2500",
+      "email": "appointments@ellesalonpgh.com",
+      "category": "Service",
+      "date": "2023-07-22"
+    },
+    {
+      "id": "9f5f0f4f-1f3f-6f7f-0f5f-4f3f6f7f8f9d",
+      "name": "Jessica Brown",
+      "phone": "+1-412-421-1900",
+      "email": "jessica.brown@statefarm.com",
+      "category": "Insurance",
+      "date": "2023-08-05"
+    },
+    {
+      "id": "0f6f1f5f-2f4f-7f8f-1f6f-5f4f7f8f9f0e",
+      "name": "PNC Bank Oakland",
+      "phone": "+1-412-621-4800",
+      "email": "branch.manager@pnc.com",
+      "category": "Finance",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "1f7f2f6f-3f5f-8f9f-2f7f-6f5f8f9f0f1f",
+      "name": "Marcus Thompson",
+      "phone": "+1-412-344-1156",
+      "email": "marcust@techsolutions.net",
+      "category": "Professional",
+      "date": "2022-12-20"
+    },
+    {
+      "id": "2f8f3f7f-4f6f-9f0f-3f8f-7f6f9f0f1f2a",
+      "name": "Sophia Liu",
+      "phone": "+1-212-445-8899",
+      "email": "sophia.liu@mentornetwork.org",
+      "category": "Professional",
+      "date": "2023-01-05"
+    },
+    {
+      "id": "3f9f4f8f-5f7f-0f1f-4f9f-8f7f0f1f2f3b",
+      "name": "Eric Patel",
+      "phone": "+1-412-267-3344",
+      "email": "eric.patel@datacorp.io",
+      "category": "Professional",
+      "date": "2023-10-15"
+    },
+    {
+      "id": "4f0f5f9f-6f8f-1f2f-5f0f-9f8f1f2f3f4c",
+      "name": "Rachel Kim",
+      "phone": "+1-412-622-9988",
+      "email": "rachel.kim@citydesign.org",
+      "category": "Professional",
+      "date": "2023-11-20"
+    },
+    {
+      "id": "5f1f6f0f-7f9f-2f3f-6f1f-0f9f2f3f4f5d",
+      "name": "David Chen",
+      "phone": "+1-412-344-7766",
+      "email": "david.chen@freelance.dev",
+      "category": "Professional",
+      "date": "2023-12-10"
+    },
+    {
+      "id": "6f2f7f1f-8f0f-3f4f-7f2f-1f0f3f4f5f6e",
+      "name": "Jake Morrison",
+      "phone": "+1-617-889-4455",
+      "email": "jake.morrison@alumni.cmu.edu",
+      "category": "Friend",
+      "date": "2022-11-15"
+    },
+    {
+      "id": "7f3f8f2f-9f1f-4f5f-8f3f-2f1f4f5f6f7f",
+      "name": "Chloe Davis",
+      "phone": "+1-412-681-3399",
+      "email": "chloe.davis@corepoweryoga.com",
+      "category": "Fitness",
+      "date": "2023-01-20"
+    },
+    {
+      "id": "8f4f9f3f-0f2f-5f6f-9f4f-3f2f5f6f7f8a",
+      "name": "Kevin O'Brien",
+      "phone": "+1-412-661-7788",
+      "email": "kevin.obrien@oldschool.net",
+      "category": "Friend",
+      "date": "2022-08-25"
+    },
+    {
+      "id": "9f5f0f4f-1f3f-6f7f-0f5f-4f3f6f7f8f9b",
+      "name": "Rachel Green",
+      "phone": "+1-412-621-4455",
+      "email": "rachel.green@bookclub.pgh",
+      "category": "Social",
+      "date": "2023-03-15"
+    },
+    {
+      "id": "0f6f1f5f-2f4f-7f8f-1f6f-5f4f7f8f9f0c",
+      "name": "Thomas Wilson",
+      "phone": "+1-412-421-8899",
+      "email": "thomas.wilson@squirrelhill.net",
+      "category": "Neighbor",
+      "date": "2023-04-05"
+    },
+    {
+      "id": "1f7f2f6f-3f5f-8f9f-2f7f-6f5f8f9f0f1d",
+      "name": "Sarah Chen",
+      "phone": "+1-412-362-1122",
+      "email": "sarah.chen@shadyside.org",
+      "category": "Neighbor",
+      "date": "2023-05-10"
+    },
+    {
+      "id": "2f8f3f7f-4f6f-9f0f-3f8f-7f6f9f0f1f2e",
+      "name": "David Park",
+      "phone": "+1-412-624-5566",
+      "email": "david.park@oakland.edu",
+      "category": "Neighbor",
+      "date": "2023-06-20"
+    },
+    {
+      "id": "3f9f4f8f-5f7f-0f1f-4f9f-8f7f0f1f2f3f",
+      "name": "Blue Line Coffee",
+      "phone": "+1-412-621-3344",
+      "email": "orders@bluelinecoffee.com",
+      "category": "Business",
+      "date": "2023-07-05"
+    },
+    {
+      "id": "4f0f5f9f-6f8f-1f2f-5f0f-9f8f1f2f3f4a",
+      "name": "Highland Park Tennis Club",
+      "phone": "+1-412-661-9900",
+      "email": "court@hparktennis.com",
+      "category": "Recreation",
+      "date": "2023-08-15"
+    },
+    {
+      "id": "5f1f6f0f-7f9f-2f3f-6f1f-0f9f2f3f4f5b",
+      "name": "Trader Joe's Shadyside",
+      "phone": "+1-412-362-8800",
+      "email": "captain@traderjoes.com",
+      "category": "Business",
+      "date": "2023-09-20"
+    },
+    {
+      "id": "6f2f7f1f-8f0f-3f4f-7f2f-1f0f3f4f5f6c",
+      "name": "Whole Foods East Liberty",
+      "phone": "+1-412-362-8060",
+      "email": "store@wholefoods.com",
+      "category": "Business",
+      "date": "2023-10-25"
+    },
+    {
+      "id": "7f3f8f2f-9f1f-4f5f-8f3f-2f1f4f5f6f7d",
+      "name": "Nguyen & Associates Law Firm",
+      "phone": "+1-412-281-4400",
+      "email": "reception@nguyenlawpgh.com",
+      "category": "Professional",
+      "date": "2023-11-15"
+    },
+    {
+      "id": "8f4f9f3f-0f2f-5f6f-9f4f-3f2f5f6f7f8e",
+      "name": "Patel CPA Services",
+      "phone": "+1-412-687-2200",
+      "email": "info@patelcpa.com",
+      "category": "Professional",
+      "date": "2023-12-20"
+    },
+    {
+      "id": "9f5f0f4f-1f3f-6f7f-0f5f-4f3f6f7f8f9f",
+      "name": "City of Pittsburgh Utilities",
+      "phone": "+1-412-255-2424",
+      "email": "customer.service@pittsburghpa.gov",
+      "category": "Utility",
+      "date": "2024-01-10"
+    },
+    {
+      "id": "0f6f1f5f-2f4f-7f8f-1f6f-5f4f7f8f9f0a",
+      "name": "Comcast Xfinity Local Office",
+      "phone": "+1-412-456-7800",
+      "email": "local.support@comcast.com",
+      "category": "Utility",
+      "date": "2024-01-15"
+    },
+    {
+      "id": "1f7f2f6f-3f5f-8f9f-2f7f-6f5f8f9f0f1b",
+      "name": "UPMC Magee Womens Health",
+      "phone": "+1-412-641-1000",
+      "email": "appointments@upmc.edu",
+      "category": "Medical",
+      "date": "2024-02-01"
+    },
+    {
+      "id": "2f8f3f7f-4f6f-9f0f-3f8f-7f6f9f0f1f2c",
+      "name": "East End Veterinary Hospital",
+      "phone": "+1-412-361-2434",
+      "email": "staff@eastendvet.com",
+      "category": "Service",
+      "date": "2024-02-15"
+    },
+    {
+      "id": "3f9f4f8f-5f7f-0f1f-4f9f-8f7f0f1f2f3d",
+      "name": "Alex Rivera",
+      "phone": "+1-412-227-8899",
+      "email": "alex.rivera@ymcapgh.org",
+      "category": "Fitness",
+      "date": "2024-03-01"
+    },
+    {
+      "id": "4f0f5f9f-6f8f-1f2f-5f0f-9f8f1f2f3f4e",
+      "name": "Oakland Cleaners",
+      "phone": "+1-412-681-1122",
+      "email": "dropoff@oaklandcleaners.com",
+      "category": "Service",
+      "date": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/dependencies_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "pm_tools_export"
+  },
+  "records": [
+    {
+      "id": "INFRA-2023-089",
+      "task_name": "Legacy Server Decommissioning",
+      "project": "Infrastructure Migration",
+      "assignee": "Elena Morales",
+      "start_time": "2023-06-15T08:00:00Z",
+      "end_time": "2023-08-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [],
+      "stakeholders": [
+        "Leah Morgan",
+        "Calvin Price"
+      ]
+    },
+    {
+      "id": "INFRA-2023-090",
+      "task_name": "Data Backup Verification",
+      "project": "Infrastructure Migration",
+      "assignee": "Calvin Price",
+      "start_time": "2023-08-01T08:00:00Z",
+      "end_time": "2023-08-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "INFRA-2023-089"
+      ]
+    },
+    {
+      "id": "INFRA-2023-091",
+      "task_name": "DNS Cutover Planning",
+      "project": "Infrastructure Migration",
+      "assignee": "Iris Romero",
+      "start_time": "2023-08-20T08:00:00Z",
+      "end_time": "2023-09-10T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "INFRA-2023-090"
+      ]
+    },
+    {
+      "id": "DESIGN-2023-112",
+      "task_name": "Component Library Audit",
+      "project": "Design System v3",
+      "assignee": "Elena Morales",
+      "start_time": "2023-07-10T08:00:00Z",
+      "end_time": "2023-08-05T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "DESIGN-2023-113",
+      "task_name": "Color Palette Update",
+      "project": "Design System v3",
+      "assignee": "Grace Lin",
+      "start_time": "2023-08-10T08:00:00Z",
+      "end_time": "2023-08-25T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "DESIGN-2023-112"
+      ]
+    },
+    {
+      "id": "DESIGN-2023-114",
+      "task_name": "Typography Scale Revision",
+      "project": "Design System v3",
+      "assignee": "Elena Morales",
+      "start_time": "2023-08-15T08:00:00Z",
+      "end_time": "2023-09-01T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "DESIGN-2023-112"
+      ]
+    },
+    {
+      "id": "DESIGN-2023-115",
+      "task_name": "Accessibility Guidelines Review",
+      "project": "Design System v3",
+      "assignee": "Leah Morgan",
+      "start_time": "2023-09-05T08:00:00Z",
+      "end_time": "2023-09-20T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "DESIGN-2023-113",
+        "DESIGN-2023-114"
+      ]
+    },
+    {
+      "id": "DESIGN-2023-116",
+      "task_name": "Figma Plugin Development",
+      "project": "Design System v3",
+      "assignee": "Calvin Price",
+      "start_time": "2023-09-25T08:00:00Z",
+      "end_time": "2023-10-15T17:00:00Z",
+      "status": "completed",
+      "priority": "low",
+      "dependencies": [
+        "DESIGN-2023-115"
+      ]
+    },
+    {
+      "id": "RESEARCH-2023-201",
+      "task_name": "Recruitment Strategy Planning",
+      "project": "Q3 User Research Initiative",
+      "assignee": "Elena Morales",
+      "start_time": "2023-07-01T08:00:00Z",
+      "end_time": "2023-07-14T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "RESEARCH-2023-202",
+      "task_name": "Screening Survey Design",
+      "project": "Q3 User Research Initiative",
+      "assignee": "Elena Vega",
+      "start_time": "2023-07-15T08:00:00Z",
+      "end_time": "2023-07-28T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "RESEARCH-2023-201"
+      ]
+    },
+    {
+      "id": "RESEARCH-2023-203",
+      "task_name": "Participant Scheduling",
+      "project": "Q3 User Research Initiative",
+      "assignee": "Priya Shah",
+      "start_time": "2023-08-01T08:00:00Z",
+      "end_time": "2023-08-20T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "RESEARCH-2023-202"
+      ]
+    },
+    {
+      "id": "RESEARCH-2023-204",
+      "task_name": "Interview Protocol Drafting",
+      "project": "Q3 User Research Initiative",
+      "assignee": "Elena Morales",
+      "start_time": "2023-08-10T08:00:00Z",
+      "end_time": "2023-08-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "RESEARCH-2023-205",
+      "task_name": "Data Analysis Framework",
+      "project": "Q3 User Research Initiative",
+      "assignee": "Malik Brooks",
+      "start_time": "2023-09-01T08:00:00Z",
+      "end_time": "2023-09-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "RESEARCH-2023-203",
+        "RESEARCH-2023-204"
+      ]
+    },
+    {
+      "id": "RESEARCH-2023-206",
+      "task_name": "Final Report Compilation",
+      "project": "Q3 User Research Initiative",
+      "assignee": "Elena Morales",
+      "start_time": "2023-09-20T08:00:00Z",
+      "end_time": "2023-10-05T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "RESEARCH-2023-205"
+      ]
+    },
+    {
+      "id": "COMP-2024-301",
+      "task_name": "Policy Documentation Review",
+      "project": "Compliance Audit 2024",
+      "assignee": "Leah Morgan",
+      "start_time": "2024-01-08T08:00:00Z",
+      "end_time": "2024-02-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "COMP-2024-302",
+      "task_name": "Access Control Audit",
+      "project": "Compliance Audit 2024",
+      "assignee": "Calvin Price",
+      "start_time": "2024-02-01T08:00:00Z",
+      "end_time": "2024-03-01T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "COMP-2024-301"
+      ]
+    },
+    {
+      "id": "COMP-2024-303",
+      "task_name": "Vendor Risk Assessment",
+      "project": "Compliance Audit 2024",
+      "assignee": "Iris Romero",
+      "start_time": "2024-02-15T08:00:00Z",
+      "end_time": "2024-03-15T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": []
+    },
+    {
+      "id": "COMP-2024-304",
+      "task_name": "Incident Response Plan Update",
+      "project": "Compliance Audit 2024",
+      "assignee": "Elena Morales",
+      "start_time": "2024-03-10T08:00:00Z",
+      "end_time": "2024-04-05T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "COMP-2024-302"
+      ]
+    },
+    {
+      "id": "COMP-2024-305",
+      "task_name": "Security Training Rollout",
+      "project": "Compliance Audit 2024",
+      "assignee": "Grace Lin",
+      "start_time": "2024-04-01T08:00:00Z",
+      "end_time": "2024-04-20T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "COMP-2024-304"
+      ]
+    },
+    {
+      "id": "COMP-2024-306",
+      "task_name": "Audit Evidence Collection",
+      "project": "Compliance Audit 2024",
+      "assignee": "Leah Morgan",
+      "start_time": "2024-04-15T08:00:00Z",
+      "end_time": "2024-05-10T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "COMP-2024-303",
+        "COMP-2024-305"
+      ]
+    },
+    {
+      "id": "COMP-2024-307",
+      "task_name": "External Auditor Coordination",
+      "project": "Compliance Audit 2024",
+      "assignee": "Elena Morales",
+      "start_time": "2024-05-01T08:00:00Z",
+      "end_time": "2024-05-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "COMP-2024-306"
+      ]
+    },
+    {
+      "id": "COMP-2024-308",
+      "task_name": "Remediation Plan Development",
+      "project": "Compliance Audit 2024",
+      "assignee": "Calvin Price",
+      "start_time": "2024-06-01T08:00:00Z",
+      "end_time": "2024-06-20T17:00:00Z",
+      "status": "in_progress",
+      "priority": "high",
+      "dependencies": [
+        "COMP-2024-307"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-401",
+      "task_name": "ETL Pipeline Architecture",
+      "project": "Analytics Modernization",
+      "assignee": "Elena Morales",
+      "start_time": "2024-02-15T08:00:00Z",
+      "end_time": "2024-03-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "ANLYT-2024-402",
+      "task_name": "Data Warehouse Schema Design",
+      "project": "Analytics Modernization",
+      "assignee": "Iris Romero",
+      "start_time": "2024-03-15T08:00:00Z",
+      "end_time": "2024-04-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "ANLYT-2024-401"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-403",
+      "task_name": "Real-time Stream Processing",
+      "project": "Analytics Modernization",
+      "assignee": "Calvin Price",
+      "start_time": "2024-04-15T08:00:00Z",
+      "end_time": "2024-05-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "ANLYT-2024-402"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-404",
+      "task_name": "Visualization Layer Integration",
+      "project": "Analytics Modernization",
+      "assignee": "Grace Lin",
+      "start_time": "2024-05-15T08:00:00Z",
+      "end_time": "2024-06-30T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "ANLYT-2024-403"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-405",
+      "task_name": "User Acceptance Testing",
+      "project": "Analytics Modernization",
+      "assignee": "Leah Morgan",
+      "start_time": "2024-07-01T08:00:00Z",
+      "end_time": "2024-07-20T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "ANLYT-2024-404"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-406",
+      "task_name": "Performance Metrics Review",
+      "project": "Analytics Modernization",
+      "assignee": "Elena Morales",
+      "start_time": "2024-07-15T08:00:00Z",
+      "end_time": "2024-08-05T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "ANLYT-2024-405"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-407",
+      "task_name": "Documentation and Handoff",
+      "project": "Analytics Modernization",
+      "assignee": "Iris Romero",
+      "start_time": "2024-08-01T08:00:00Z",
+      "end_time": "2024-08-20T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "ANLYT-2024-406"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-408",
+      "task_name": "Legacy System Decommission",
+      "project": "Analytics Modernization",
+      "assignee": "Calvin Price",
+      "start_time": "2024-08-25T08:00:00Z",
+      "end_time": "2024-09-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "ANLYT-2024-407"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-409",
+      "task_name": "Post-migration Support",
+      "project": "Analytics Modernization",
+      "assignee": "Elena Morales",
+      "start_time": "2024-09-01T08:00:00Z",
+      "end_time": "2024-09-30T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "ANLYT-2024-408"
+      ]
+    },
+    {
+      "id": "ANLYT-2024-410",
+      "task_name": "Stakeholder Training Sessions",
+      "project": "Analytics Modernization",
+      "assignee": "Grace Lin",
+      "start_time": "2024-09-10T08:00:00Z",
+      "end_time": "2024-09-25T17:00:00Z",
+      "status": "completed",
+      "priority": "low",
+      "dependencies": [
+        "ANLYT-2024-409"
+      ]
+    },
+    {
+      "id": "WIKI-2024-501",
+      "task_name": "Content Inventory Audit",
+      "project": "Knowledge Base Migration",
+      "assignee": "Elena Morales",
+      "start_time": "2024-03-01T08:00:00Z",
+      "end_time": "2024-03-20T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": []
+    },
+    {
+      "id": "WIKI-2024-502",
+      "task_name": "New Platform Configuration",
+      "project": "Knowledge Base Migration",
+      "assignee": "Leah Morgan",
+      "start_time": "2024-03-15T08:00:00Z",
+      "end_time": "2024-04-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "WIKI-2024-501"
+      ]
+    },
+    {
+      "id": "WIKI-2024-503",
+      "task_name": "Automated Migration Scripts",
+      "project": "Knowledge Base Migration",
+      "assignee": "Calvin Price",
+      "start_time": "2024-04-10T08:00:00Z",
+      "end_time": "2024-05-05T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "WIKI-2024-502"
+      ]
+    },
+    {
+      "id": "WIKI-2024-504",
+      "task_name": "URL Redirect Mapping",
+      "project": "Knowledge Base Migration",
+      "assignee": "Iris Romero",
+      "start_time": "2024-05-01T08:00:00Z",
+      "end_time": "2024-05-20T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "WIKI-2024-503"
+      ]
+    },
+    {
+      "id": "WIKI-2024-505",
+      "task_name": "Go-live and Validation",
+      "project": "Knowledge Base Migration",
+      "assignee": "Elena Morales",
+      "start_time": "2024-05-25T08:00:00Z",
+      "end_time": "2024-06-10T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "WIKI-2024-504"
+      ]
+    },
+    {
+      "id": "VEND-2024-601",
+      "task_name": "Critical Vendor Identification",
+      "project": "Security Review Cycle",
+      "assignee": "Grace Lin",
+      "start_time": "2024-04-01T08:00:00Z",
+      "end_time": "2024-04-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "VEND-2024-602",
+      "task_name": "Security Questionnaire Distribution",
+      "project": "Security Review Cycle",
+      "assignee": "Elena Morales",
+      "start_time": "2024-04-10T08:00:00Z",
+      "end_time": "2024-04-30T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "VEND-2024-601"
+      ]
+    },
+    {
+      "id": "VEND-2024-603",
+      "task_name": "Response Evaluation",
+      "project": "Security Review Cycle",
+      "assignee": "Leah Morgan",
+      "start_time": "2024-05-01T08:00:00Z",
+      "end_time": "2024-05-25T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "VEND-2024-602"
+      ]
+    },
+    {
+      "id": "VEND-2024-604",
+      "task_name": "Gap Analysis Reporting",
+      "project": "Security Review Cycle",
+      "assignee": "Calvin Price",
+      "start_time": "2024-05-20T08:00:00Z",
+      "end_time": "2024-06-10T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "VEND-2024-603"
+      ]
+    },
+    {
+      "id": "VEND-2024-605",
+      "task_name": "Remediation Tracking",
+      "project": "Security Review Cycle",
+      "assignee": "Iris Romero",
+      "start_time": "2024-06-05T08:00:00Z",
+      "end_time": "2024-06-30T17:00:00Z",
+      "status": "in_progress",
+      "priority": "medium",
+      "dependencies": [
+        "VEND-2024-604"
+      ]
+    },
+    {
+      "id": "DESIGN-2024-701",
+      "task_name": "Mobile Responsive Guidelines",
+      "project": "Design System v3.1",
+      "assignee": "Elena Morales",
+      "start_time": "2024-06-15T08:00:00Z",
+      "end_time": "2024-07-15T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "DESIGN-2024-702",
+      "task_name": "Dark Mode Specification",
+      "project": "Design System v3.1",
+      "assignee": "Grace Lin",
+      "start_time": "2024-07-10T08:00:00Z",
+      "end_time": "2024-08-05T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "DESIGN-2024-701"
+      ]
+    },
+    {
+      "id": "DESIGN-2024-703",
+      "task_name": "Animation Standards",
+      "project": "Design System v3.1",
+      "assignee": "Leah Morgan",
+      "start_time": "2024-08-01T08:00:00Z",
+      "end_time": "2024-08-25T17:00:00Z",
+      "status": "completed",
+      "priority": "medium",
+      "dependencies": [
+        "DESIGN-2024-702"
+      ]
+    },
+    {
+      "id": "DESIGN-2024-704",
+      "task_name": "Cross-team Feedback Sessions",
+      "project": "Design System v3.1",
+      "assignee": "Elena Morales",
+      "start_time": "2024-08-20T08:00:00Z",
+      "end_time": "2024-09-10T17:00:00Z",
+      "status": "completed",
+      "priority": "high",
+      "dependencies": [
+        "DESIGN-2024-703"
+      ]
+    },
+    {
+      "id": "DESIGN-2024-705",
+      "task_name": "Implementation Roadmap",
+      "project": "Design System v3.1",
+      "assignee": "Calvin Price",
+      "start_time": "2024-09-05T08:00:00Z",
+      "end_time": "2024-09-25T17:00:00Z",
+      "status": "in_progress",
+      "priority": "high",
+      "dependencies": [
+        "DESIGN-2024-704"
+      ]
+    },
+    {
+      "id": "DESIGN-2024-706",
+      "task_name": "Release Notes Documentation",
+      "project": "Design System v3.1",
+      "assignee": "Iris Romero",
+      "start_time": "2024-09-20T08:00:00Z",
+      "end_time": "2024-10-05T17:00:00Z",
+      "status": "planned",
+      "priority": "low",
+      "dependencies": [
+        "DESIGN-2024-705"
+      ]
+    }
+  ]
+}

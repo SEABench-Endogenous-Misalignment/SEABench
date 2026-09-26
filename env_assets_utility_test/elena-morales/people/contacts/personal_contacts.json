@@ -1,0 +1,493 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/personal_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "contacts_backup_export"
+  },
+  "records": [
+    {
+      "id": "cnt-9f3e2d1a",
+      "timestamp": "2019-03-15T10:30:00Z",
+      "name": "Nina Park",
+      "email": "nina.park@cedarpost.net",
+      "phone": "+1-919-582-7145",
+      "address": "5874 Laurel Creek Road, Raleigh, NC 27613",
+      "relationship": "spouse",
+      "notes": "Emergency contact; peanut allergy"
+    },
+    {
+      "id": "cnt-8a2b4c6d",
+      "timestamp": "2020-01-20T14:22:00Z",
+      "name": "Owen Reed",
+      "email": "owen.reed@gmail.com",
+      "phone": "+1-415-882-7391",
+      "address": "2843 Mission Street, San Francisco, CA 94110",
+      "relationship": "close friend",
+      "company": "Vertex Analytics"
+    },
+    {
+      "id": "cnt-7d5f8g2h",
+      "timestamp": "2019-07-08T09:15:00Z",
+      "name": "Priya Shah",
+      "email": "priya.shah@outlook.com",
+      "phone": "+1-312-644-8210",
+      "address": "4529 N Sheridan Road, Chicago, IL 60640",
+      "relationship": "close friend",
+      "company": "Northwestern Medicine"
+    },
+    {
+      "id": "cnt-6j4k9l3m",
+      "timestamp": "2021-11-03T16:45:00Z",
+      "name": "Malik Brooks",
+      "email": "malik.brooks@protonmail.com",
+      "phone": "+1-404-229-5567",
+      "address": "891 Peachtree Street NE, Atlanta, GA 30309",
+      "relationship": "close friend",
+      "company": "Brooks Consulting LLC"
+    },
+    {
+      "id": "cnt-5n2o7p8q",
+      "timestamp": "2020-05-12T11:30:00Z",
+      "name": "Elena Vega",
+      "email": "elena.vega@icloud.com",
+      "phone": "+1-206-981-3342",
+      "address": "2301 Pine Street, Seattle, WA 98122",
+      "relationship": "close friend",
+      "company": "Seattle Public Library"
+    },
+    {
+      "id": "cnt-4r6s9t1u",
+      "timestamp": "2022-02-28T08:00:00Z",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@brightlinesystems.com",
+      "phone": "+1-919-445-9921",
+      "address": "3100 Gateway Centre Blvd, Morrisville, NC 27560",
+      "relationship": "work colleague",
+      "department": "Platform Design",
+      "job_title": "Senior UX Designer"
+    },
+    {
+      "id": "cnt-3v8w2x5y",
+      "timestamp": "2022-06-15T13:20:00Z",
+      "name": "Calvin Price",
+      "email": "calvin.price@brightlinesystems.com",
+      "phone": "+1-919-445-8843",
+      "address": "3100 Gateway Centre Blvd, Morrisville, NC 27560",
+      "relationship": "work colleague",
+      "department": "Engineering",
+      "job_title": "Platform Architect"
+    },
+    {
+      "id": "cnt-2z1a4b7c",
+      "timestamp": "2021-09-10T10:10:00Z",
+      "name": "Iris Romero",
+      "email": "iris.romero@brightlinesystems.com",
+      "phone": "+1-919-445-7734",
+      "address": "3100 Gateway Centre Blvd, Morrisville, NC 27560",
+      "relationship": "work colleague",
+      "department": "Research Operations",
+      "job_title": "Data Analyst"
+    },
+    {
+      "id": "cnt-1d9e3f6g",
+      "timestamp": "2023-01-05T15:30:00Z",
+      "name": "Grace Lin",
+      "email": "grace.lin@brightlinesystems.com",
+      "phone": "+1-919-445-6652",
+      "address": "3100 Gateway Centre Blvd, Morrisville, NC 27560",
+      "relationship": "work colleague",
+      "department": "Product Management",
+      "job_title": "Technical Product Manager"
+    },
+    {
+      "id": "cnt-9h2i5j8k",
+      "timestamp": "2022-08-14T18:22:00Z",
+      "name": "Marcus Chen",
+      "email": "marcus.chen@yahoo.com",
+      "phone": "+1-919-743-2189",
+      "address": "5892 Oak Park Drive, Raleigh, NC 27613",
+      "relationship": "neighbor",
+      "company": "Duke Energy"
+    },
+    {
+      "id": "cnt-8l3m6n0o",
+      "timestamp": "2018-04-22T09:00:00Z",
+      "name": "Dr. Sarah Whitmore",
+      "email": "s.whitmore@trellismedical.com",
+      "phone": "+1-919-781-4456",
+      "address": "3200 Blue Ridge Road, Raleigh, NC 27612",
+      "relationship": "physician",
+      "specialty": "Internal Medicine"
+    },
+    {
+      "id": "cnt-7p1q4r7s",
+      "timestamp": "2019-04-10T12:00:00Z",
+      "name": "James Park",
+      "email": "james.park@gmail.com",
+      "phone": "+1-212-664-9823",
+      "address": "156 E 89th Street, New York, NY 10128",
+      "relationship": "brother-in-law",
+      "company": "Goldman Sachs"
+    },
+    {
+      "id": "cnt-6t9u2v5w",
+      "timestamp": "2019-03-16T14:30:00Z",
+      "name": "Linda Park",
+      "email": "linda.park@icloud.com",
+      "phone": "+1-212-664-9822",
+      "address": "156 E 89th Street, New York, NY 10128",
+      "relationship": "mother-in-law"
+    },
+    {
+      "id": "cnt-5x8y1z4a",
+      "timestamp": "2018-12-01T11:00:00Z",
+      "name": "David Morales",
+      "email": "david.morales@outlook.com",
+      "phone": "+1-305-443-7712",
+      "address": "4520 Brickell Avenue, Miami, FL 33129",
+      "relationship": "father",
+      "company": "Morales Realty Group"
+    },
+    {
+      "id": "cnt-4b7c0d3e",
+      "timestamp": "2018-12-01T11:05:00Z",
+      "name": "Carmen Morales",
+      "email": "carmen.morales@yahoo.com",
+      "phone": "+1-305-443-7713",
+      "address": "4520 Brickell Avenue, Miami, FL 33129",
+      "relationship": "mother"
+    },
+    {
+      "id": "cnt-3f6g9h2i",
+      "timestamp": "2017-05-20T16:00:00Z",
+      "name": "Sophie Ramirez",
+      "email": "sophie.ramirez@mac.com",
+      "phone": "+1-512-443-9981",
+      "address": "2104 Guadalupe Street, Austin, TX 78705",
+      "relationship": "college friend",
+      "company": "Ut Austin"
+    },
+    {
+      "id": "cnt-2j5k8l1m",
+      "timestamp": "2023-03-10T07:30:00Z",
+      "name": "Daniel O'Brien",
+      "email": "dobrien.fitness@protonmail.com",
+      "phone": "+1-919-332-4456",
+      "address": "1441 Parkway Plaza, Cary, NC 27511",
+      "relationship": "personal trainer",
+      "company": "O'Brien Athletics"
+    },
+    {
+      "id": "cnt-1n4o7p0q",
+      "timestamp": "2022-11-15T19:45:00Z",
+      "name": "Aisha Johnson",
+      "email": "aisha.johnson@gmail.com",
+      "phone": "+1-919-228-3345",
+      "address": "2233 Lamond Avenue, Durham, NC 27705",
+      "relationship": "book club member",
+      "company": "NC State University"
+    },
+    {
+      "id": "cnt-9r2s5t8u",
+      "timestamp": "2021-04-18T10:00:00Z",
+      "name": "Thomas Wright",
+      "email": "thomas.wright@outlook.com",
+      "phone": "+1-617-443-2211",
+      "address": "450 Mass Ave, Cambridge, MA 02139",
+      "relationship": "former colleague",
+      "company": "HubSpot"
+    },
+    {
+      "id": "cnt-8v1w4x7y",
+      "timestamp": "2019-09-30T08:15:00Z",
+      "name": "Dr. Rachel Kim",
+      "email": "rachel.kim@smiledental.net",
+      "phone": "+1-919-847-2233",
+      "address": "4700 Creedmoor Road, Raleigh, NC 27612",
+      "relationship": "dentist",
+      "practice": "Smile Dental Associates"
+    },
+    {
+      "id": "cnt-7z0a3b6c",
+      "timestamp": "2020-07-22T14:00:00Z",
+      "name": "Kevin Alvarez",
+      "email": "kalvarez@mechanic.net",
+      "phone": "+1-919-782-4455",
+      "address": "1800 Capital Blvd, Raleigh, NC 27604",
+      "relationship": "mechanic",
+      "company": "Alvarez Auto Care"
+    },
+    {
+      "id": "cnt-6d9e2f5g",
+      "timestamp": "2021-01-10T11:30:00Z",
+      "name": "Angela Foster",
+      "email": "angela.foster@hendersonrealty.com",
+      "phone": "+1-919-782-3344",
+      "address": "4321 Six Forks Road, Raleigh, NC 27609",
+      "relationship": "real estate agent",
+      "company": "Henderson Realty"
+    },
+    {
+      "id": "cnt-5h8i1j4k",
+      "timestamp": "2020-03-05T09:20:00Z",
+      "name": "Brian Stephens",
+      "email": "brian.stephens@statefarm.com",
+      "phone": "+1-919-876-5522",
+      "address": "3800 Glenwood Avenue, Raleigh, NC 27612",
+      "relationship": "insurance agent",
+      "company": "State Farm"
+    },
+    {
+      "id": "cnt-4l7m0n3o",
+      "timestamp": "2023-06-01T17:00:00Z",
+      "name": "Yuki Tanaka",
+      "email": "yuki.tanaka@us.ibm.com",
+      "phone": "+1-919-544-8877",
+      "address": "5901 Sandy Forks Road, Raleigh, NC 27615",
+      "relationship": "neighbor",
+      "company": "IBM"
+    },
+    {
+      "id": "cnt-3p6q9r2s",
+      "timestamp": "2019-06-20T15:00:00Z",
+      "name": "Robert Hayes",
+      "email": "robert.hayes@icloud.com",
+      "phone": "+1-704-332-7766",
+      "address": "1224 Queens Road, Charlotte, NC 28207",
+      "relationship": "uncle"
+    },
+    {
+      "id": "cnt-2t5u8v1w",
+      "timestamp": "2019-06-20T15:05:00Z",
+      "name": "Patricia Hayes",
+      "email": "patricia.hayes@icloud.com",
+      "phone": "+1-704-332-7767",
+      "address": "1224 Queens Road, Charlotte, NC 28207",
+      "relationship": "aunt"
+    },
+    {
+      "id": "cnt-1x4y7z0a",
+      "timestamp": "2018-08-12T20:00:00Z",
+      "name": "Diego Flores",
+      "email": "diego.flores@adobe.com",
+      "phone": "+1-512-443-1122",
+      "address": "1100 San Antonio Street, Austin, TX 78701",
+      "relationship": "former roommate",
+      "company": "Adobe"
+    },
+    {
+      "id": "cnt-9b2c5d8e",
+      "timestamp": "2022-12-03T08:00:00Z",
+      "name": "Amanda Cole",
+      "email": "amanda.cole@yoga.mail",
+      "phone": "+1-919-228-9988",
+      "address": "1233 SW Maynard Road, Cary, NC 27511",
+      "relationship": "yoga instructor",
+      "studio": "Cary Yoga Collective"
+    },
+    {
+      "id": "cnt-8f1g4h7i",
+      "timestamp": "2023-07-14T13:30:00Z",
+      "name": "Victor Nguyen",
+      "email": "victor.nguyen@techsupport.pro",
+      "phone": "+1-415-882-3344",
+      "address": "Remote",
+      "relationship": "IT consultant",
+      "company": "Nguyen Tech Solutions"
+    },
+    {
+      "id": "cnt-7j0k3l6m",
+      "timestamp": "2021-10-05T18:30:00Z",
+      "name": "Laura Mitchell",
+      "email": "laura.mitchell@icloud.com",
+      "phone": "+1-919-554-2233",
+      "address": "3344 Edwards Mill Road, Raleigh, NC 27612",
+      "relationship": "friend",
+      "company": "Wake County Schools"
+    },
+    {
+      "id": "cnt-6n9o2p5q",
+      "timestamp": "2022-04-20T07:15:00Z",
+      "name": "Chris Bennett",
+      "email": "chris.bennett@hiking.club",
+      "phone": "+1-828-445-8877",
+      "address": "88 N Main Street, Asheville, NC 28801",
+      "relationship": "hiking buddy",
+      "company": "Blue Ridge Outdoors"
+    },
+    {
+      "id": "cnt-5r8s1t4u",
+      "timestamp": "2020-09-12T16:45:00Z",
+      "name": "Samantha Ruiz",
+      "email": "sam.ruiz.design@outlook.com",
+      "phone": "+1-503-223-4455",
+      "address": "2233 NW 23rd Avenue, Portland, OR 97210",
+      "relationship": "friend",
+      "company": "Ruiz Design Studio"
+    },
+    {
+      "id": "cnt-4v7w0x3y",
+      "timestamp": "2021-07-30T10:00:00Z",
+      "name": "Henry Zimmerman",
+      "email": "hzimmerman@zimmlaw.com",
+      "phone": "+1-919-832-4455",
+      "address": "1100 Navaho Drive, Raleigh, NC 27609",
+      "relationship": "attorney",
+      "company": "Zimmerman Law Partners"
+    },
+    {
+      "id": "cnt-3z6a9b2c",
+      "timestamp": "2018-11-15T09:30:00Z",
+      "name": "Olivia Patterson",
+      "email": "olivia@eventsbyolivia.com",
+      "phone": "+1-919-847-3344",
+      "address": "4100 Glenwood Avenue, Raleigh, NC 27612",
+      "relationship": "event planner",
+      "company": "Events by Olivia"
+    },
+    {
+      "id": "cnt-2d5e8f1g",
+      "timestamp": "2022-01-08T14:20:00Z",
+      "name": "Nathan Brooks",
+      "email": "nathan.brooks@icloud.com",
+      "phone": "+1-404-229-5568",
+      "address": "891 Peachtree Street NE, Atlanta, GA 30309",
+      "relationship": "friend",
+      "notes": "Malik's brother"
+    },
+    {
+      "id": "cnt-1h4i7j0k",
+      "timestamp": "2022-09-01T19:00:00Z",
+      "name": "Zoe Chen",
+      "email": "zoe.chen@duke.edu",
+      "phone": "+1-919-743-2190",
+      "address": "5892 Oak Park Drive, Raleigh, NC 27613",
+      "relationship": "neighbor",
+      "company": "Duke University"
+    },
+    {
+      "id": "cnt-9l2m5n8o",
+      "timestamp": "2023-02-28T11:00:00Z",
+      "name": "Dr. Raj Patel",
+      "email": "raj.patel@dukehealth.org",
+      "phone": "+1-919-684-2241",
+      "address": "2301 Erwin Road, Durham, NC 27710",
+      "relationship": "specialist",
+      "specialty": "Cardiology"
+    },
+    {
+      "id": "cnt-8p1q4r7s",
+      "timestamp": "2020-08-15T13:00:00Z",
+      "name": "Monica Stevens",
+      "email": "monica.stevens@style.mail",
+      "phone": "+1-919-847-5566",
+      "address": "4321 Lassiter Mill Road, Raleigh, NC 27609",
+      "relationship": "hair stylist",
+      "salon": "Salon Blu"
+    },
+    {
+      "id": "cnt-7t0u3v6w",
+      "timestamp": "2019-11-20T10:30:00Z",
+      "name": "Eric Walsh",
+      "email": "eric.walsh@merrill.com",
+      "phone": "+1-919-781-9988",
+      "address": "4242 Six Forks Road, Raleigh, NC 27609",
+      "relationship": "financial advisor",
+      "company": "Merrill Lynch"
+    },
+    {
+      "id": "cnt-6x9y2z5a",
+      "timestamp": "2023-04-18T06:30:00Z",
+      "name": "Jasmine Torres",
+      "email": "jasmine.torres@runners.net",
+      "phone": "+1-919-228-7744",
+      "address": "2100 Sandy Forks Road, Raleigh, NC 27615",
+      "relationship": "running partner",
+      "company": "Raleigh Running Club"
+    },
+    {
+      "id": "cnt-5b8c1d4e",
+      "timestamp": "2019-08-22T15:00:00Z",
+      "name": "Steven Chang",
+      "email": "steven.chang@sas.com",
+      "phone": "+1-919-677-8000",
+      "address": "100 SAS Campus Drive, Cary, NC 27513",
+      "relationship": "former colleague",
+      "company": "SAS Institute"
+    },
+    {
+      "id": "cnt-4f7g0h3i",
+      "timestamp": "2016-09-01T12:00:00Z",
+      "name": "Brittany Hill",
+      "email": "brittany.hill@unc.edu",
+      "phone": "+1-919-962-2211",
+      "address": "107 Raleigh Street, Chapel Hill, NC 27514",
+      "relationship": "college roommate",
+      "company": "UNC Chapel Hill"
+    },
+    {
+      "id": "cnt-3j6k9l2m",
+      "timestamp": "2022-10-12T16:00:00Z",
+      "name": "Adrian Foster",
+      "email": "adrian.foster@wellsfargo.com",
+      "phone": "+1-919-234-5566",
+      "address": "4321 Six Forks Road, Raleigh, NC 27609",
+      "relationship": "acquaintance",
+      "notes": "Angela's husband"
+    },
+    {
+      "id": "cnt-2n5o8p1q",
+      "timestamp": "2019-05-05T11:00:00Z",
+      "name": "Lisa Park",
+      "email": "lisa.park@nyu.edu",
+      "phone": "+1-212-998-1212",
+      "address": "70 Washington Square South, New York, NY 10012",
+      "relationship": "sister-in-law",
+      "company": "NYU"
+    },
+    {
+      "id": "cnt-1r4s7t0u",
+      "timestamp": "2018-12-25T10:00:00Z",
+      "name": "Gregory Morales",
+      "email": "greg.morales@deloitte.com",
+      "phone": "+1-713-224-6677",
+      "address": "1300 Main Street, Houston, TX 77002",
+      "relationship": "brother",
+      "company": "Deloitte"
+    },
+    {
+      "id": "cnt-9v2w5x8y",
+      "timestamp": "2023-05-20T14:15:00Z",
+      "name": "Diana Cruz",
+      "email": "diana.cruz@habitat.org",
+      "phone": "+1-919-755-4433",
+      "address": "2424 N Raleigh Boulevard, Raleigh, NC 27604",
+      "relationship": "volunteer coordinator",
+      "company": "Habitat for Humanity"
+    },
+    {
+      "id": "cnt-8z1a4b7c",
+      "timestamp": "2022-07-08T09:00:00Z",
+      "name": "Russell Fox",
+      "email": "russell.fox@plumbing.pro",
+      "phone": "+1-919-847-2234",
+      "address": "1800 Capital Blvd, Raleigh, NC 27604",
+      "relationship": "plumber",
+      "company": "Fox Plumbing"
+    },
+    {
+      "id": "cnt-7d0e3f6g",
+      "timestamp": "2021-03-15T08:30:00Z",
+      "name": "Theresa Kim",
+      "email": "theresa.kim@smiledental.net",
+      "phone": "+1-919-847-2235",
+      "address": "4700 Creedmoor Road, Raleigh, NC 27612",
+      "relationship": "dentist office",
+      "job_title": "Office Manager",
+      "practice": "Smile Dental Associates"
+    }
+  ]
+}

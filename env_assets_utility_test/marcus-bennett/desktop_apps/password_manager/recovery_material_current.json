@@ -1,0 +1,107 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/recovery_material_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-28T19:45:33Z",
+    "source": "vault_secure_export"
+  },
+  "records": [
+    {
+      "id": "rec-47b2a1c8e9f0",
+      "timestamp": "2024-11-28T19:45:33Z",
+      "service_name": "Harborinbox Mail",
+      "service_domain": "harborinbox.com",
+      "recovery_type": "two_factor_backup_codes",
+      "associated_account": "marcus.bennett@harborinbox.com",
+      "codes": [
+        "XK4P9M2L7Q",
+        "VR8N3J5T0W",
+        "BC6H9F2K4D",
+        "YP1L8M5X9J",
+        "QT3R7V2N6B",
+        "GH5K9P4C8M",
+        "WD2J6L9T1R",
+        "NS4B8H3F7K",
+        "AZ7C5E2M9P",
+        "TJ6R4K1N8V"
+      ],
+      "generated_date": "2024-09-15",
+      "used_codes_count": 0,
+      "storage_location": "encrypted_vault_partition"
+    },
+    {
+      "id": "rec-8d3e5f7a2b1c",
+      "timestamp": "2024-11-28T19:45:33Z",
+      "service_name": "Harborview Design SSO",
+      "service_domain": "auth.harborviewdesign.com",
+      "recovery_type": "emergency_recovery_key",
+      "associated_account": "marcus.bennett@harborviewdesign.com",
+      "recovery_key": "Z4K8M2P9Q7R5T1V3X6J8L0N4B7C9E2F5A8D1G4H7J0K3M6N9P2Q5R8T1V4W7",
+      "key_format": "hex256",
+      "generated_date": "2024-10-03",
+      "last_verified": "2024-11-20",
+      "storage_location": "hardware_token_backup"
+    },
+    {
+      "id": "rec-9f4a6b8c3d2e",
+      "timestamp": "2024-11-28T19:45:33Z",
+      "service_name": "Northstar Financial",
+      "service_domain": "secure.northstarfinancial.net",
+      "recovery_type": "wire_transfer_recovery_pin",
+      "associated_account": "marcus.bennett@harborinbox.com",
+      "account_suffix": "7392",
+      "recovery_pin": "847291",
+      "generated_date": "2023-08-22",
+      "expiry_date": "2025-08-22",
+      "storage_location": "vault_secure_note"
+    },
+    {
+      "id": "rec-1a5b7c9d4e3f",
+      "timestamp": "2024-11-28T19:45:33Z",
+      "service_name": "SummitSync Cloud",
+      "service_domain": "vault.summitsync.io",
+      "recovery_type": "master_key_fragment",
+      "associated_account": "marcus.bennett@harborinbox.com",
+      "key_fragment": "k7m3p9q2r5t8v1x4z6b9c2d5f7g0h3j6k9l2m5n8p1q4r7t0w3",
+      "fragment_index": 1,
+      "total_fragments": 3,
+      "generated_date": "2024-01-10",
+      "storage_location": "offline_cold_storage"
+    },
+    {
+      "id": "rec-2b6c8d0e5f4g",
+      "timestamp": "2024-11-28T19:45:33Z",
+      "service_name": "Prairie Wealth Management",
+      "service_domain": "client.prairiewealth.com",
+      "recovery_type": "account_access_codes",
+      "associated_account": "marcus.bennett@harborinbox.com",
+      "access_codes": [
+        "482917",
+        "639504",
+        "271836",
+        "947261",
+        "582039"
+      ],
+      "code_type": "single_use",
+      "generated_date": "2024-06-14",
+      "remaining_codes": 5,
+      "storage_location": "encrypted_note"
+    },
+    {
+      "id": "rec-3c7d9e1f6g5h",
+      "timestamp": "2024-11-28T19:45:33Z",
+      "service_name": "BitLocker System Drive",
+      "service_domain": "local.system",
+      "recovery_type": "drive_recovery_key",
+      "associated_account": "marcus.bennett@harborviewdesign.com",
+      "recovery_key_id": "F4C8-9A3B-2D7E-5F1G-8H4J-9K2L-6M8N-3P5Q",
+      "recovery_key": "483920-617284-950384-726195-847362-918475-263849-574638",
+      "drive_letter": "C:",
+      "generated_date": "2023-11-15",
+      "last_backup_verified": "2024-11-10",
+      "storage_location": "printed_copy_safe"
+    }
+  ]
+}

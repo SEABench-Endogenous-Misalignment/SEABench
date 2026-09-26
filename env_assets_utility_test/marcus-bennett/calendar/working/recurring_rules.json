@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/recurring_rules.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "rec-2024-089",
+      "created_at": "2024-01-15T09:00:00Z",
+      "start_time": "2024-01-15T10:00:00-08:00",
+      "end_time": "2024-01-15T10:30:00-08:00",
+      "title": "UX Research Team Standup",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO;UNTIL=20251231T235959Z",
+      "calendar_id": "work-primary",
+      "organizer": "marcus.bennett@harborviewdesign.com",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "location": "Conference Room B / Zoom",
+      "status": "active"
+    },
+    {
+      "id": "rec-2024-092",
+      "created_at": "2024-01-10T14:00:00Z",
+      "start_time": "2024-01-10T14:00:00-08:00",
+      "end_time": "2024-01-10T14:30:00-08:00",
+      "title": "1:1 with Leah",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=WE;UNTIL=20251231T235959Z",
+      "calendar_id": "work-primary",
+      "organizer": "marcus.bennett@harborviewdesign.com",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "location": "Small Conference Room",
+      "status": "active"
+    },
+    {
+      "id": "rec-2024-105",
+      "created_at": "2024-02-01T11:00:00Z",
+      "start_time": "2024-02-01T13:00:00-08:00",
+      "end_time": "2024-02-01T14:00:00-08:00",
+      "title": "Research Operations Review",
+      "recurrence_rule": "FREQ=MONTHLY;BYDAY=1FR;UNTIL=20251231T235959Z",
+      "calendar_id": "work-primary",
+      "organizer": "marcus.bennett@harborviewdesign.com",
+      "attendees": [
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "location": "Main Boardroom",
+      "status": "active"
+    },
+    {
+      "id": "rec-per-023",
+      "created_at": "2024-01-05T08:00:00Z",
+      "start_time": "2024-01-05T08:00:00-08:00",
+      "end_time": "2024-01-05T09:30:00-08:00",
+      "title": "Deep Work Block",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20251231T235959Z",
+      "calendar_id": "personal-focus",
+      "organizer": "marcus.bennett@harborviewdesign.com",
+      "attendees": [],
+      "location": "Home Office",
+      "visibility": "private",
+      "status": "active"
+    },
+    {
+      "id": "rec-per-031",
+      "created_at": "2024-01-20T18:00:00Z",
+      "start_time": "2024-01-20T19:00:00-08:00",
+      "end_time": "2024-01-20T21:00:00-08:00",
+      "title": "Weekly Dinner with Theo",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=SA;UNTIL=20251231T235959Z",
+      "calendar_id": "personal-shared",
+      "organizer": "marcus.bennett@harborviewdesign.com",
+      "attendees": [
+        "theo.harris@harborinbox.com"
+      ],
+      "location": "TBD Restaurant or Home",
+      "status": "active"
+    },
+    {
+      "id": "rec-2024-156",
+      "created_at": "2024-03-01T10:00:00Z",
+      "start_time": "2024-03-15T15:00:00-07:00",
+      "end_time": "2024-03-15T16:30:00-07:00",
+      "title": "Quarterly Stakeholder Readout",
+      "recurrence_rule": "FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=15;UNTIL=20251231T235959Z",
+      "calendar_id": "work-primary",
+      "organizer": "marcus.bennett@harborviewdesign.com",
+      "attendees": [
+        "leah.morgan@cedargrovestudio.com",
+        "exec-team@cedargrovestudio.com"
+      ],
+      "location": "Executive Conference Suite",
+      "status": "active"
+    }
+  ]
+}

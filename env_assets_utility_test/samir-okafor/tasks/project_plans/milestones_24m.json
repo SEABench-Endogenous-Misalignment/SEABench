@@ -1,0 +1,492 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/project_plans/milestones_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-09T16:45:30Z",
+    "source": "project_portal_export"
+  },
+  "records": [
+    {
+      "id": "MILE-3421",
+      "date": "2023-01-10",
+      "title": "Q1 Research Initiation",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3422",
+      "date": "2023-01-24",
+      "title": "Requirements Documentation",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3423",
+      "date": "2023-02-08",
+      "title": "Stakeholder Alignment Review",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Iris Romero",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3424",
+      "date": "2023-02-22",
+      "title": "Architecture Draft Completion",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3425",
+      "date": "2023-03-08",
+      "title": "Vendor Selection Finalized",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3426",
+      "date": "2023-03-22",
+      "title": "Contract Execution",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Samir Okafor",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3427",
+      "date": "2023-04-05",
+      "title": "Development Environment Setup",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3428",
+      "date": "2023-04-19",
+      "title": "Initial Data Migration",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3429",
+      "date": "2023-05-03",
+      "title": "API Design Review",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3430",
+      "date": "2023-05-17",
+      "title": "Security Audit Phase 1",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Leah Morgan",
+      "priority": "critical"
+    },
+    {
+      "id": "MILE-3431",
+      "date": "2023-06-01",
+      "title": "Frontend Mockups Delivery",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3432",
+      "date": "2023-06-15",
+      "title": "Backend Scaffolding Complete",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3433",
+      "date": "2023-07-06",
+      "title": "Integration Testing Start",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3434",
+      "date": "2023-07-20",
+      "title": "Performance Baseline Established",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Leah Morgan",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3435",
+      "date": "2023-08-03",
+      "title": "User Acceptance Testing",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3436",
+      "date": "2023-08-17",
+      "title": "Bug Fixes Round 1",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3437",
+      "date": "2023-09-07",
+      "title": "Technical Documentation Complete",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Internal Documentation Hub",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3438",
+      "date": "2023-09-21",
+      "title": "Training Material Preparation",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Internal Documentation Hub",
+      "assignee": "Samir Okafor",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3439",
+      "date": "2023-10-05",
+      "title": "Soft Launch Deployment",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3440",
+      "date": "2023-10-19",
+      "title": "Feedback Collection Period",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Calvin Price",
+      "priority": "low"
+    },
+    {
+      "id": "MILE-3441",
+      "date": "2023-11-02",
+      "title": "Hard Launch Preparation",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3442",
+      "date": "2023-11-16",
+      "title": "Marketing Alignment",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3443",
+      "date": "2023-12-07",
+      "title": "Year-End Project Review",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Samir Okafor",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3444",
+      "date": "2023-12-21",
+      "title": "Q4 Retrospective Completion",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Leah Morgan",
+      "priority": "low"
+    },
+    {
+      "id": "MILE-3445",
+      "date": "2024-01-09",
+      "title": "Q1 2024 Planning",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3446",
+      "date": "2024-01-23",
+      "title": "Resource Allocation Finalized",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Internal Documentation Hub",
+      "assignee": "Iris Romero",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3447",
+      "date": "2024-02-06",
+      "title": "New Hire Onboarding Plan",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Internal Documentation Hub",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3448",
+      "date": "2024-02-20",
+      "title": "Technical Debt Assessment",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3449",
+      "date": "2024-03-05",
+      "title": "Platform v2 Roadmap Draft",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Samir Okafor",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3450",
+      "date": "2024-03-19",
+      "title": "Client Feedback Synthesis",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Calvin Price",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3451",
+      "date": "2024-04-02",
+      "title": "Analytics Integration Complete",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Iris Romero",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3452",
+      "date": "2024-04-16",
+      "title": "Dashboard Redesign Kickoff",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Grace Lin",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3453",
+      "date": "2024-05-07",
+      "title": "Mobile Responsiveness Update",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3454",
+      "date": "2024-05-21",
+      "title": "Accessibility Audit",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Internal Documentation Hub",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3455",
+      "date": "2024-06-04",
+      "title": "Mid-Year Strategic Review",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Iris Romero",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3456",
+      "date": "2024-06-18",
+      "title": "Budget Reforecasting",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Samir Okafor",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3457",
+      "date": "2024-07-09",
+      "title": "Cloud Migration Phase 1",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Grace Lin",
+      "priority": "critical"
+    },
+    {
+      "id": "MILE-3458",
+      "date": "2024-07-23",
+      "title": "Disaster Recovery Testing",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Leah Morgan",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3459",
+      "date": "2024-08-06",
+      "title": "Load Testing Completion",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3460",
+      "date": "2024-08-20",
+      "title": "Security Patch Deployment",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Iris Romero",
+      "priority": "critical"
+    },
+    {
+      "id": "MILE-3461",
+      "date": "2024-09-03",
+      "title": "Feature Freeze Implementation",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Grace Lin",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3462",
+      "date": "2024-09-17",
+      "title": "Release Candidate Build",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Samir Okafor",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3463",
+      "date": "2024-10-01",
+      "title": "Production Deployment v3.0",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Leah Morgan",
+      "priority": "critical"
+    },
+    {
+      "id": "MILE-3464",
+      "date": "2024-10-15",
+      "title": "Post-Launch Monitoring Period",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Core Platform Migration",
+      "assignee": "Calvin Price",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3465",
+      "date": "2024-11-05",
+      "title": "Performance Optimization Sprint",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Analytics Suite v3",
+      "assignee": "Iris Romero",
+      "priority": "medium"
+    },
+    {
+      "id": "MILE-3466",
+      "date": "2024-11-19",
+      "title": "Holiday Code Freeze Planning",
+      "status": "completed",
+      "owner": "Samir Okafor",
+      "project": "Client Onboarding Portal",
+      "assignee": "Grace Lin",
+      "priority": "low"
+    },
+    {
+      "id": "MILE-3467",
+      "date": "2024-12-03",
+      "title": "2025 Roadmap Draft",
+      "status": "in_progress",
+      "owner": "Samir Okafor",
+      "project": "API Gateway Modernization",
+      "assignee": "Samir Okafor",
+      "priority": "high"
+    },
+    {
+      "id": "MILE-3468",
+      "date": "2024-12-17",
+      "title": "Annual Documentation Archive",
+      "status": "not_started",
+      "owner": "Samir Okafor",
+      "project": "Internal Documentation Hub",
+      "assignee": "Leah Morgan",
+      "priority": "low"
+    }
+  ]
+}

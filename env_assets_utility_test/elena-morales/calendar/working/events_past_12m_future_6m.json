@@ -1,0 +1,342 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/events_past_12m_future_6m.json",
+    "time_span": "rolling 18m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-15T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "evt_20230214_183000_k9m2p5",
+      "start_time": "2023-02-14T18:30:00-05:00",
+      "end_time": "2023-02-14T20:30:00-05:00",
+      "title": "Valentine's Dinner with Nina",
+      "location": "Herons Restaurant, The Umstead Hotel, Cary",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net"
+      ],
+      "description": "Reservation for 2 at 7:00 PM",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230310_140000_a3b8c1",
+      "start_time": "2023-03-10T14:00:00-05:00",
+      "end_time": "2023-03-10T15:00:00-05:00",
+      "title": "Q1 Platform Design Review",
+      "location": "Brightline Systems, Conference Room B, 4100 Atlantic Ave, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "Quarterly review of design ops metrics",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230422_190000_d7f2e9",
+      "start_time": "2023-04-22T19:00:00-04:00",
+      "end_time": "2023-04-22T22:00:00-04:00",
+      "title": "Malik's Birthday Celebration",
+      "location": "Boxcar Bar + Arcade, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "malik.brooks@icloud.com",
+        "priya.shah@outlook.com",
+        "owen.reed@gmail.com",
+        "nina.park@cedarpost.net"
+      ],
+      "description": "Private party room reserved",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230515_090000_g4h8j2",
+      "start_time": "2023-05-15T09:00:00-04:00",
+      "end_time": "2023-05-16T17:00:00-04:00",
+      "title": "Platform Design Team Offsite",
+      "location": "The Durham Hotel, Durham",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "Two-day strategic planning session",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230608_100000_k1l4m7",
+      "start_time": "2023-06-08T10:00:00-04:00",
+      "end_time": "2023-06-08T11:00:00-04:00",
+      "title": "Dental Cleaning",
+      "location": "North Raleigh Dental Arts, 8410 Falls of Neuse Rd",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [],
+      "description": "Routine six-month checkup",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230720_133000_n8p3q6",
+      "start_time": "2023-07-20T13:30:00-04:00",
+      "end_time": "2023-07-20T15:00:00-04:00",
+      "title": "Project Phoenix Kickoff",
+      "location": "Brightline Systems, Zoom Room 3",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "calvin.price@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "description": "Initial planning for Q3 research initiative",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230812_080000_r5s9t1",
+      "start_time": "2023-08-12T08:00:00-04:00",
+      "end_time": "2023-08-13T17:00:00-04:00",
+      "title": "Asheville Anniversary Trip",
+      "location": "Grove Park Inn, Asheville",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net"
+      ],
+      "description": "Weekend getaway",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20230905_110000_u2v6w4",
+      "start_time": "2023-09-05T11:00:00-04:00",
+      "end_time": "2023-09-05T12:00:00-04:00",
+      "title": "Research Ops Standup",
+      "location": "Brightline Systems, 4100 Atlantic Ave, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "description": "Weekly sync",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20231031_190000_x8y3z7",
+      "start_time": "2023-10-31T19:00:00-04:00",
+      "end_time": "2023-10-31T23:00:00-04:00",
+      "title": "Halloween Party at Owen's",
+      "location": "2332 Clark Ave, Raleigh",
+      "organizer": "owen.reed@gmail.com",
+      "attendees": [
+        "owen.reed@gmail.com",
+        "priya.shah@outlook.com",
+        "malik.brooks@icloud.com",
+        "elena.vega@protonmail.com"
+      ],
+      "description": "Costume party, bring appetizers",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20231115_150000_b4c7d9",
+      "start_time": "2023-11-15T15:00:00-05:00",
+      "end_time": "2023-11-15T16:30:00-05:00",
+      "title": "Annual Performance Review",
+      "location": "Brightline Systems, HR Conference Room",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "2023 performance evaluation with manager",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20231222_180000_e1f5g8",
+      "start_time": "2023-12-22T18:00:00-05:00",
+      "end_time": "2023-12-22T21:00:00-05:00",
+      "title": "Brightline Holiday Party",
+      "location": "The Merrimon-Wynne House, Raleigh",
+      "organizer": "hr@brightlinesystems.com",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "Annual company celebration",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20231225_100000_h2i6j3",
+      "start_time": "2023-12-25T10:00:00-05:00",
+      "end_time": "2023-12-25T16:00:00-05:00",
+      "title": "Christmas Morning and Dinner",
+      "location": "5874 Laurel Creek Road, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net"
+      ],
+      "description": "Family breakfast and dinner preparation",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240120_090000_k9l2m5",
+      "start_time": "2024-01-20T09:00:00-05:00",
+      "end_time": "2024-01-20T17:00:00-05:00",
+      "title": "Research Methodology Workshop",
+      "location": "Brightline Systems, Training Center",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Full-day workshop on qualitative methods",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240214_190000_n4o8p1",
+      "start_time": "2024-02-14T19:00:00-05:00",
+      "end_time": "2024-02-14T21:30:00-05:00",
+      "title": "Anniversary Dinner - 5 Years",
+      "location": "Crawford and Son, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net"
+      ],
+      "description": "Anniversary celebration reservation",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240305_060000_q7r3s9",
+      "start_time": "2024-03-05T06:00:00-05:00",
+      "end_time": "2024-03-08T20:00:00-05:00",
+      "title": "UX Research Conference - Denver",
+      "location": "Denver Convention Center, Denver, CO",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [],
+      "description": "Annual UXR industry conference, flight and hotel booked",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240312_140000_t5u9v2",
+      "start_time": "2024-03-12T14:00:00-04:00",
+      "end_time": "2024-03-12T14:30:00-04:00",
+      "title": "1:1 with Grace Lin",
+      "location": "Brightline Systems, Grace's Office",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Biweekly check-in",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240418_100000_w4x8y6",
+      "start_time": "2024-04-18T10:00:00-04:00",
+      "end_time": "2024-04-18T11:30:00-04:00",
+      "title": "Tax Preparation Appointment",
+      "location": "H&R Block, Creedmoor Rd, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net"
+      ],
+      "description": "Joint filing consultation",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240510_110000_z1a5b8",
+      "start_time": "2024-05-10T11:00:00-04:00",
+      "end_time": "2024-05-10T13:00:00-04:00",
+      "title": "Mother's Day Brunch",
+      "location": "Irregardless Cafe, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net",
+        "elena.vega@protonmail.com"
+      ],
+      "description": "Brunch with mom and Nina",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240522_090000_c3d7e2",
+      "start_time": "2024-05-22T09:00:00-04:00",
+      "end_time": "2024-05-23T17:00:00-04:00",
+      "title": "Product Strategy Summit",
+      "location": "Brightline Systems, Main Auditorium",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "description": "Two-day strategic planning with executive team",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240615_180000_f9g4h7",
+      "start_time": "2024-06-15T18:00:00-04:00",
+      "end_time": "2024-06-15T21:00:00-04:00",
+      "title": "Nina's Birthday Dinner",
+      "location": "Bida Manda, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net",
+        "owen.reed@gmail.com",
+        "priya.shah@outlook.com"
+      ],
+      "description": "Surprise dinner party",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240628_130000_i2j6k3",
+      "start_time": "2024-06-28T13:00:00-04:00",
+      "end_time": "2024-06-28T14:00:00-04:00",
+      "title": "Mid-Year Review with Calvin",
+      "location": "Brightline Systems, Calvin's Office",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "description": "6-month performance discussion",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240704_150000_l7m3n9",
+      "start_time": "2024-07-04T15:00:00-04:00",
+      "end_time": "2024-07-04T20:00:00-04:00",
+      "title": "Fourth of July Barbecue",
+      "location": "5874 Laurel Creek Road, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [
+        "nina.park@cedarpost.net",
+        "malik.brooks@icloud.com",
+        "elena.vega@protonmail.com"
+      ],
+      "description": "Backyard cookout and fireworks viewing",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240715_080000_o5p9q2",
+      "start_time": "2024-07-15T08:00:00-04:00",
+      "end_time": "2024-07-15T09:00:00-04:00",
+      "title": "Volkswagen Service Appointment",
+      "location": "Leith Volkswagen, Raleigh",
+      "organizer": "elena.morales@cedargrovestudio.com",
+      "attendees": [],
+      "description": "30,000 mile maintenance",
+      "status": "confirmed"
+    },
+    {
+      "id": "evt_20240722_190000_r8s4t7",
+      "start_time": "2024-07-22T19:00:00-04:00",
+      "end_time": "2024-07-22T20:30:00-04:00",
+      "title": "Monthly Book Club",
+      "location": "845 Hillsborough St, Raleigh",
+      "organizer": "elena.vega@protonmail.com",
+      "attendees": [
+        "elena.vega@protonmail.com",
+        "priya.shah@outlook.com"
+      ],
+      "description": "Discussing 'Tomorrow, and Tomorrow, and Tomorrow'",
+      "status": "confirmed"
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/work_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-28T18:45:22Z",
+    "source": "slack_export"
+  },
+  "records": [
+    {
+      "id": "1718455423.884721",
+      "timestamp": "2024-06-15T09:23:45-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "content": "Morning Leah, do you have the Q2 partnership metrics handy? I need them for the afternoon review.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1718709812.112003",
+      "timestamp": "2024-06-18T14:08:35-05:00",
+      "sender": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Just uploaded them to the shared drive. Let me know if the API section needs more detail.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": "1718455423.884721",
+      "edited": false
+    },
+    {
+      "id": "1719062400.445129",
+      "timestamp": "2024-06-22T07:00:04-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "data-partnerships",
+        "id": "C07K3B1RPA2"
+      },
+      "content": "Heads up team: new vendor onboarding kicks off Monday. I've attached the security checklist in the thread.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "data-partnerships",
+      "thread_id": null,
+      "has_attachment": true,
+      "edited": false
+    },
+    {
+      "id": "1720447200.992184",
+      "timestamp": "2024-07-08T11:20:01-05:00",
+      "sender": {
+        "name": "Calvin Price",
+        "email": "calvin.price@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Hey Marcus, quick question about the Data Partnerships API keys. Are we rotating them this month?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1720804800.331876",
+      "timestamp": "2024-07-12T14:34:13-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Calvin Price",
+        "email": "calvin.price@harborviewdesign.com"
+      },
+      "content": "Yes, rotation scheduled for Friday after hours. I'll send the new keys via 1Password.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": "1720447200.992184",
+      "edited": false
+    },
+    {
+      "id": "1721928000.778341",
+      "timestamp": "2024-07-25T16:20:05-05:00",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "research-ops",
+        "id": "C07K3B9ZKL4"
+      },
+      "content": "Reminder: all-hands research review is moved to Monday 10am CDT. Calendar invites updated.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "research-ops",
+      "thread_id": null,
+      "edited": true
+    },
+    {
+      "id": "1722878400.556201",
+      "timestamp": "2024-08-05T12:00:23-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Grace Lin",
+        "email": "grace.lin@harborviewdesign.com"
+      },
+      "content": "Grace, excellent job on the stakeholder presentation. The visualizations really landed well.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1723656000.110234",
+      "timestamp": "2024-08-14T11:00:01-05:00",
+      "sender": {
+        "name": "Grace Lin",
+        "email": "grace.lin@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Thanks Marcus! Happy to help with the follow-up deck if needed.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": "1722878400.556201",
+      "edited": false
+    },
+    {
+      "id": "1724174400.903456",
+      "timestamp": "2024-08-20T15:00:45-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "data-partnerships",
+        "id": "C07K3B1RPA2"
+      },
+      "content": "Alert: seeing some anomalous latency in the Riverbend feed. Engineering is investigating.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "data-partnerships",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1725384000.224467",
+      "timestamp": "2024-09-03T13:00:12-05:00",
+      "sender": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Urgent: Meridian client flagged discrepancies in yesterday's export. Can you jump on a quick call?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1725902400.667891",
+      "timestamp": "2024-09-09T13:00:44-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "content": "Meridian issue resolved. Was a timezone conversion bug in the pipeline. Fix is deploying now.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": "1725384000.224467",
+      "edited": false
+    },
+    {
+      "id": "1726593600.445782",
+      "timestamp": "2024-09-17T14:00:18-05:00",
+      "sender": {
+        "name": "Calvin Price",
+        "email": "calvin.price@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "general",
+        "id": "C07K3B0ABCDEF"
+      },
+      "content": "IT Maintenance window tonight 8pm-10pm CDT. VPN may be intermittent.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "general",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1727284800.332109",
+      "timestamp": "2024-09-25T14:00:22-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Iris Romero",
+        "email": "iris.romero@harborviewdesign.com"
+      },
+      "content": "Iris, checking in on the Q3 roadmap timeline. Are we still on track for the Oct 15 milestone?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1727889600.887654",
+      "timestamp": "2024-10-02T14:00:55-05:00",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Timeline shifted by 3 days due to vendor delays. Updating the project plan now.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": "1727284800.332109",
+      "edited": false
+    },
+    {
+      "id": "1728580800.221309",
+      "timestamp": "2024-10-10T14:00:10-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "data-partnerships",
+        "id": "C07K3B1RPA2"
+      },
+      "content": "Let's prep for the quarterly review. Please drop your deck links in this thread by EOD Thursday.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "data-partnerships",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1729012800.774433",
+      "timestamp": "2024-10-15T10:00:15-05:00",
+      "sender": {
+        "name": "Grace Lin",
+        "email": "grace.lin@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Handing off my projects while I'm out next week. Notes are in the wiki under 'Vacation-2024-Oct'.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1729617600.556021",
+      "timestamp": "2024-10-22T10:00:32-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "content": "Did you register for the Minneapolis Data Summit? Early bird ends Friday.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1730136000.339882",
+      "timestamp": "2024-10-28T10:00:22-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "research-ops",
+        "id": "C07K3B9ZKL4"
+      },
+      "content": "Evaluating a new data quality tool. Demo scheduled for Thursday at 2pm. All welcome.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "research-ops",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1730733600.112984",
+      "timestamp": "2024-11-04T09:00:17-06:00",
+      "sender": {
+        "name": "Calvin Price",
+        "email": "calvin.price@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": " confirming the sync meeting is still 10am CST (not CDT) now that we switched?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1730992800.884321",
+      "timestamp": "2024-11-07T09:00:37-06:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Grace Lin",
+        "email": "grace.lin@harborviewdesign.com"
+      },
+      "content": "Can you review the draft contract annex I sent to your email? Legal needs feedback by noon.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1731435600.445671",
+      "timestamp": "2024-11-12T12:00:43-06:00",
+      "sender": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "data-partnerships",
+        "id": "C07K3B1RPA2"
+      },
+      "content": "Summary of client feedback from last week's workshops is now in the shared folder. Key themes: latency and documentation.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "data-partnerships",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1719586800.776521",
+      "timestamp": "2024-06-28T10:00:21-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Iris Romero",
+        "email": "iris.romero@harborviewdesign.com"
+      },
+      "content": "Quick question on the vendor contract for Lakeside Analytics. Did legal approve clause 4B?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1720022400.331029",
+      "timestamp": "2024-07-03T12:00:22-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "research-ops",
+        "id": "C07K3B9ZKL4"
+      },
+      "content": "Parking lot discussion: should we standardize on Parquet or stick with CSV for the legacy feeds? Thoughts?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "research-ops",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1725038400.992184",
+      "timestamp": "2024-08-30T11:00:42-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Calvin Price",
+        "email": "calvin.price@harborviewdesign.com"
+      },
+      "content": "Can you approve the Azure budget increase for the test environment? About $200/month bump.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1726152000.556712",
+      "timestamp": "2024-09-12T10:00:15-05:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "general",
+        "id": "C07K3B0ABCDEF"
+      },
+      "content": "Please welcome David Park to the Data Partnerships team! He starts Monday.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "general",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1729272000.228934",
+      "timestamp": "2024-10-18T10:00:28-05:00",
+      "sender": {
+        "name": "Iris Romero",
+        "email": "iris.romero@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "content": "Attached the technical specs for the new ingestion pipeline. Let me know if the schema looks right.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "has_attachment": true,
+      "edited": false
+    },
+    {
+      "id": "1732125600.774102",
+      "timestamp": "2024-11-20T10:00:24-06:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "user",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@harborviewdesign.com"
+      },
+      "content": "Starting to draft the 2025 roadmap. Can we sync tomorrow morning to align on priorities?",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "direct",
+      "thread_id": null,
+      "edited": false
+    },
+    {
+      "id": "1732557600.338921",
+      "timestamp": "2024-11-25T10:00:10-06:00",
+      "sender": {
+        "name": "Marcus Bennett",
+        "email": "marcus.bennett@harborviewdesign.com"
+      },
+      "recipient": {
+        "type": "channel",
+        "name": "data-partnerships",
+        "id": "C07K3B1RPA2"
+      },
+      "content": "Early preview of the 2025 roadmap is in the strategy doc. Please review and comment by Wednesday.",
+      "platform": "Slack",
+      "team": "Harborview Design",
+      "channel": "data-partnerships",
+      "thread_id": null,
+      "edited": false
+    }
+  ]
+}

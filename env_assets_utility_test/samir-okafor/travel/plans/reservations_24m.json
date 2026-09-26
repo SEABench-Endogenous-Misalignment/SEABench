@@ -1,0 +1,1158 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "travel/plans/reservations_24m.json",
+    "time_span": "24m",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-15T16:45:00Z",
+    "source": "travel_app_export"
+  },
+  "records": [
+    {
+      "id": "res-2023-001",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "H7J9KL",
+      "travelers": [
+        {
+          "name": "Samir Okafor",
+          "email": "samir.okafor@meadowmail.co",
+          "phone": "+1-720-415-9475"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver",
+        "timezone": "America/Denver"
+      },
+      "destination": {
+        "code": "BOS",
+        "city": "Boston",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2023-11-14T07:15:00-07:00",
+      "end_time": "2023-11-14T13:45:00-05:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2023-10-20T14:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2023-002",
+      "type": "hotel",
+      "vendor_name": "Marriott Copley Place Boston",
+      "confirmation_number": "89472136",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "110 Huntington Avenue",
+        "city": "Boston",
+        "state": "MA",
+        "postal_code": "02116"
+      },
+      "start_time": "2023-11-14T15:00:00-05:00",
+      "end_time": "2023-11-16T11:00:00-05:00",
+      "room_type": "King Bed",
+      "booking_timestamp": "2023-10-20T15:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2023-003",
+      "type": "flight",
+      "vendor_name": "Delta Air Lines",
+      "confirmation_number": "DL7X9P2",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "SEA",
+        "city": "Seattle",
+        "timezone": "America/Los_Angeles"
+      },
+      "start_time": "2023-12-22T09:30:00-07:00",
+      "end_time": "2023-12-22T11:45:00-08:00",
+      "cabin": "First",
+      "booking_timestamp": "2023-11-15T09:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2023-004",
+      "type": "vacation_rental",
+      "vendor_name": "Airbnb",
+      "confirmation_number": "HM8K3P2D9",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@northstarmail.com",
+          "phone": "+1-720-296-8991"
+        }
+      ],
+      "location": {
+        "address": "1423 E Pine St",
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "start_time": "2023-12-22T16:00:00-08:00",
+      "end_time": "2023-12-26T11:00:00-08:00",
+      "property_type": "Entire Apartment",
+      "booking_timestamp": "2023-11-15T10:30:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-005",
+      "type": "flight",
+      "vendor_name": "Southwest Airlines",
+      "confirmation_number": "SW5Q8R",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "PHX",
+        "city": "Phoenix",
+        "timezone": "America/Phoenix"
+      },
+      "start_time": "2024-01-12T10:00:00-07:00",
+      "end_time": "2024-01-12T11:30:00-07:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2023-12-01T13:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-006",
+      "type": "hotel",
+      "vendor_name": "Hilton Phoenix Resort",
+      "confirmation_number": "4789215",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      "start_time": "2024-01-12T15:00:00-07:00",
+      "end_time": "2024-01-14T11:00:00-07:00",
+      "room_type": "Double Queen",
+      "booking_timestamp": "2023-12-01T13:30:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-007",
+      "type": "flight",
+      "vendor_name": "American Airlines",
+      "confirmation_number": "AA4K8M",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "ORD",
+        "city": "Chicago",
+        "timezone": "America/Chicago"
+      },
+      "start_time": "2024-02-05T06:00:00-07:00",
+      "end_time": "2024-02-05T09:30:00-06:00",
+      "cabin": "Business",
+      "booking_timestamp": "2024-01-10T11:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-008",
+      "type": "hotel",
+      "vendor_name": "Hyatt Regency Chicago",
+      "confirmation_number": "78945612",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "151 E Wacker Dr",
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "start_time": "2024-02-05T15:00:00-06:00",
+      "end_time": "2024-02-07T11:00:00-06:00",
+      "room_type": "King Bed Lake View",
+      "booking_timestamp": "2024-01-10T11:30:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-009",
+      "type": "car_rental",
+      "vendor_name": "Hertz",
+      "confirmation_number": "H987654321",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "pickup_location": {
+        "code": "ORD",
+        "address": "ORD Terminal 3",
+        "city": "Chicago"
+      },
+      "return_location": {
+        "code": "ORD",
+        "city": "Chicago"
+      },
+      "start_time": "2024-02-05T10:00:00-06:00",
+      "end_time": "2024-02-07T18:00:00-06:00",
+      "vehicle_class": "Midsize",
+      "booking_timestamp": "2024-01-10T12:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-010",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "UJ8P3K",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "SFO",
+        "city": "San Francisco",
+        "timezone": "America/Los_Angeles"
+      },
+      "start_time": "2024-03-11T08:30:00-06:00",
+      "end_time": "2024-03-11T10:15:00-07:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-02-15T10:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-011",
+      "type": "hotel",
+      "vendor_name": "The Westin St. Francis",
+      "confirmation_number": "95175382",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "335 Powell Street",
+        "city": "San Francisco",
+        "state": "CA"
+      },
+      "start_time": "2024-03-11T15:00:00-07:00",
+      "end_time": "2024-03-13T12:00:00-07:00",
+      "room_type": "Deluxe King",
+      "booking_timestamp": "2024-02-15T10:30:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-012",
+      "type": "train",
+      "vendor_name": "Amtrak",
+      "confirmation_number": "2847",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "station": "Denver Union Station",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "GSC",
+        "station": "Glenwood Springs",
+        "city": "Glenwood Springs"
+      },
+      "start_time": "2024-03-23T08:05:00-06:00",
+      "end_time": "2024-03-23T12:35:00-06:00",
+      "service": "California Zephyr",
+      "booking_timestamp": "2024-02-20T14:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-013",
+      "type": "flight",
+      "vendor_name": "Delta Air Lines",
+      "confirmation_number": "D9K3M2",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "LGA",
+        "city": "New York",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2024-04-08T11:15:00-06:00",
+      "end_time": "2024-04-08T17:00:00-04:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-03-10T09:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-014",
+      "type": "hotel",
+      "vendor_name": "Courtyard by Marriott Manhattan",
+      "confirmation_number": "33669988",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "307 W 37th Street",
+        "city": "New York",
+        "state": "NY"
+      },
+      "start_time": "2024-04-08T15:00:00-04:00",
+      "end_time": "2024-04-11T11:00:00-04:00",
+      "room_type": "Standard King",
+      "booking_timestamp": "2024-03-10T09:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-015",
+      "type": "flight",
+      "vendor_name": "JetBlue Airways",
+      "confirmation_number": "JB7X4P",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "MIA",
+        "city": "Miami",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2024-05-24T14:20:00-06:00",
+      "end_time": "2024-05-24T20:45:00-04:00",
+      "cabin": "Even More Space",
+      "booking_timestamp": "2024-04-01T16:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-016",
+      "type": "hotel",
+      "vendor_name": "W South Beach",
+      "confirmation_number": "77556622",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "location": {
+        "address": "2201 Collins Avenue",
+        "city": "Miami Beach",
+        "state": "FL"
+      },
+      "start_time": "2024-05-24T16:00:00-04:00",
+      "end_time": "2024-05-28T11:00:00-04:00",
+      "room_type": "Wonderful Studio",
+      "booking_timestamp": "2024-04-01T16:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-017",
+      "type": "flight",
+      "vendor_name": "Alaska Airlines",
+      "confirmation_number": "AS9K4M",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "PDX",
+        "city": "Portland",
+        "timezone": "America/Los_Angeles"
+      },
+      "start_time": "2024-05-15T07:45:00-06:00",
+      "end_time": "2024-05-15T09:30:00-07:00",
+      "cabin": "Premium Class",
+      "booking_timestamp": "2024-04-10T08:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-018",
+      "type": "hotel",
+      "vendor_name": "Ace Hotel Portland",
+      "confirmation_number": "88442211",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "1022 SW Stark St",
+        "city": "Portland",
+        "state": "OR"
+      },
+      "start_time": "2024-05-15T15:00:00-07:00",
+      "end_time": "2024-05-17T12:00:00-07:00",
+      "room_type": "Medium",
+      "booking_timestamp": "2024-04-10T08:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-019",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "UK5P9M",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "AUS",
+        "city": "Austin",
+        "timezone": "America/Chicago"
+      },
+      "start_time": "2024-06-03T09:10:00-06:00",
+      "end_time": "2024-06-03T12:05:00-05:00",
+      "cabin": "Economy Plus",
+      "booking_timestamp": "2024-05-01T11:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-020",
+      "type": "vacation_rental",
+      "vendor_name": "Airbnb",
+      "confirmation_number": "AU7K3P9M",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "2213 E 6th St",
+        "city": "Austin",
+        "state": "TX"
+      },
+      "start_time": "2024-06-03T15:00:00-05:00",
+      "end_time": "2024-06-06T11:00:00-05:00",
+      "property_type": "Entire House",
+      "booking_timestamp": "2024-05-01T11:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-021",
+      "type": "flight",
+      "vendor_name": "Delta Air Lines",
+      "confirmation_number": "DL8N4K2",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "ATL",
+        "city": "Atlanta",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2024-07-22T10:30:00-06:00",
+      "end_time": "2024-07-22T15:45:00-04:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-06-20T10:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-022",
+      "type": "hotel",
+      "vendor_name": "Kimpton Overland Hotel",
+      "confirmation_number": "55667788",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "1893 Phoenix Blvd",
+        "city": "Atlanta",
+        "state": "GA"
+      },
+      "start_time": "2024-07-22T16:00:00-04:00",
+      "end_time": "2024-07-25T11:00:00-04:00",
+      "room_type": "Standard King",
+      "booking_timestamp": "2024-06-20T10:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-023",
+      "type": "car_rental",
+      "vendor_name": "Enterprise Rent-A-Car",
+      "confirmation_number": "E789654123",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "pickup_location": {
+        "address": "ATL Domestic Terminal",
+        "city": "Atlanta"
+      },
+      "return_location": {
+        "address": "ATL Domestic Terminal",
+        "city": "Atlanta"
+      },
+      "start_time": "2024-07-22T16:00:00-04:00",
+      "end_time": "2024-07-25T09:00:00-04:00",
+      "vehicle_class": "Compact SUV",
+      "booking_timestamp": "2024-06-20T11:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-024",
+      "type": "flight",
+      "vendor_name": "Southwest Airlines",
+      "confirmation_number": "SW9K3M",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "SAN",
+        "city": "San Diego",
+        "timezone": "America/Los_Angeles"
+      },
+      "start_time": "2024-08-10T08:00:00-06:00",
+      "end_time": "2024-08-10T09:30:00-07:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-07-05T14:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-025",
+      "type": "hotel",
+      "vendor_name": "San Diego Marriott Mission Valley",
+      "confirmation_number": "11223344",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "8757 Rio San Diego Dr",
+        "city": "San Diego",
+        "state": "CA"
+      },
+      "start_time": "2024-08-10T15:00:00-07:00",
+      "end_time": "2024-08-13T11:00:00-07:00",
+      "room_type": "King Bay View",
+      "booking_timestamp": "2024-07-05T14:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-026",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "UM4P8K",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "DCA",
+        "city": "Washington",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2024-08-28T06:45:00-06:00",
+      "end_time": "2024-08-28T12:15:00-04:00",
+      "cabin": "Business",
+      "booking_timestamp": "2024-07-30T09:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-027",
+      "type": "hotel",
+      "vendor_name": "Hampton Inn DC Convention Center",
+      "confirmation_number": "77889900",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "901 6th St NW",
+        "city": "Washington",
+        "state": "DC"
+      },
+      "start_time": "2024-08-28T15:00:00-04:00",
+      "end_time": "2024-08-30T11:00:00-04:00",
+      "room_type": "Queen Double",
+      "booking_timestamp": "2024-07-30T09:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-028",
+      "type": "flight",
+      "vendor_name": "American Airlines",
+      "confirmation_number": "AA3K9P",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "DFW",
+        "city": "Dallas",
+        "timezone": "America/Chicago"
+      },
+      "start_time": "2024-09-16T13:20:00-06:00",
+      "end_time": "2024-09-16T16:45:00-05:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-08-20T10:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-029",
+      "type": "hotel",
+      "vendor_name": "Omni Dallas Hotel",
+      "confirmation_number": "22334455",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "555 S Lamar St",
+        "city": "Dallas",
+        "state": "TX"
+      },
+      "start_time": "2024-09-16T18:00:00-05:00",
+      "end_time": "2024-09-18T11:00:00-05:00",
+      "room_type": "Deluxe Room",
+      "booking_timestamp": "2024-08-20T10:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-030",
+      "type": "flight",
+      "vendor_name": "Delta Air Lines",
+      "confirmation_number": "DL5M7K2",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "BOS",
+        "city": "Boston",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2024-10-07T07:00:00-06:00",
+      "end_time": "2024-10-07T13:30:00-04:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-09-01T08:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-031",
+      "type": "hotel",
+      "vendor_name": "Courtyard Boston Cambridge",
+      "confirmation_number": "66778899",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "777 Memorial Dr",
+        "city": "Cambridge",
+        "state": "MA"
+      },
+      "start_time": "2024-10-07T15:00:00-04:00",
+      "end_time": "2024-10-09T11:00:00-04:00",
+      "room_type": "King Bed",
+      "booking_timestamp": "2024-09-01T08:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-032",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "UN2K4P",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "MSP",
+        "city": "Minneapolis",
+        "timezone": "America/Chicago"
+      },
+      "start_time": "2024-10-29T11:30:00-06:00",
+      "end_time": "2024-10-29T14:45:00-05:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-09-25T11:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-033",
+      "type": "hotel",
+      "vendor_name": "Hilton Minneapolis",
+      "confirmation_number": "33445566",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "1001 Marquette Ave",
+        "city": "Minneapolis",
+        "state": "MN"
+      },
+      "start_time": "2024-10-29T15:00:00-05:00",
+      "end_time": "2024-10-31T11:00:00-05:00",
+      "room_type": "Executive Level",
+      "booking_timestamp": "2024-09-25T11:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "res-2024-034",
+      "type": "flight",
+      "vendor_name": "Alaska Airlines",
+      "confirmation_number": "AS5P2K",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "SEA",
+        "city": "Seattle",
+        "timezone": "America/Los_Angeles"
+      },
+      "start_time": "2024-11-15T08:15:00-07:00",
+      "end_time": "2024-11-15T10:00:00-08:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-10-10T09:00:00-06:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2024-035",
+      "type": "hotel",
+      "vendor_name": "Fairmont Olympic Hotel",
+      "confirmation_number": "99887766",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "411 University St",
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "start_time": "2024-11-15T15:00:00-08:00",
+      "end_time": "2024-11-17T12:00:00-08:00",
+      "room_type": "Fairmont King",
+      "booking_timestamp": "2024-10-10T09:30:00-06:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2024-036",
+      "type": "flight",
+      "vendor_name": "JetBlue Airways",
+      "confirmation_number": "JB4M8K",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "JFK",
+        "city": "New York",
+        "timezone": "America/New_York"
+      },
+      "start_time": "2024-12-23T06:00:00-07:00",
+      "end_time": "2024-12-23T10:30:00-05:00",
+      "cabin": "Mint Business",
+      "booking_timestamp": "2024-11-01T10:00:00-06:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2024-037",
+      "type": "hotel",
+      "vendor_name": "New York Marriott Marquis",
+      "confirmation_number": "44556677",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "location": {
+        "address": "1535 Broadway",
+        "city": "New York",
+        "state": "NY"
+      },
+      "start_time": "2024-12-23T15:00:00-05:00",
+      "end_time": "2024-12-27T11:00:00-05:00",
+      "room_type": "City View Double",
+      "booking_timestamp": "2024-11-01T10:30:00-06:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-038",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "US7K3P",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "SLC",
+        "city": "Salt Lake City",
+        "timezone": "America/Denver"
+      },
+      "start_time": "2025-01-17T07:30:00-07:00",
+      "end_time": "2025-01-17T08:45:00-07:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2024-12-01T09:00:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-039",
+      "type": "hotel",
+      "vendor_name": "Marriott Salt Lake City Center",
+      "confirmation_number": "22338844",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "location": {
+        "address": "220 S State St",
+        "city": "Salt Lake City",
+        "state": "UT"
+      },
+      "start_time": "2025-01-17T15:00:00-07:00",
+      "end_time": "2025-01-20T11:00:00-07:00",
+      "room_type": "Mountain View King",
+      "booking_timestamp": "2024-12-01T09:30:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-040",
+      "type": "flight",
+      "vendor_name": "Delta Air Lines",
+      "confirmation_number": "DL2P5K8",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "ORD",
+        "city": "Chicago",
+        "timezone": "America/Chicago"
+      },
+      "start_time": "2025-02-10T09:45:00-07:00",
+      "end_time": "2025-02-10T13:15:00-06:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2025-01-05T10:00:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-041",
+      "type": "hotel",
+      "vendor_name": "Sofitel Chicago Magnificent Mile",
+      "confirmation_number": "55661122",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "20 E Chestnut St",
+        "city": "Chicago",
+        "state": "IL"
+      },
+      "start_time": "2025-02-10T15:00:00-06:00",
+      "end_time": "2025-02-12T12:00:00-06:00",
+      "room_type": "Luxury Room",
+      "booking_timestamp": "2025-01-05T10:30:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-042",
+      "type": "flight",
+      "vendor_name": "Southwest Airlines",
+      "confirmation_number": "SW3K7M",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "ABQ",
+        "city": "Albuquerque",
+        "timezone": "America/Denver"
+      },
+      "start_time": "2025-02-21T14:00:00-07:00",
+      "end_time": "2025-02-21T14:45:00-07:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2025-01-15T13:00:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-043",
+      "type": "vacation_rental",
+      "vendor_name": "Airbnb",
+      "confirmation_number": "ABQ8K3P",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "1509 Roma Ave NE",
+        "city": "Albuquerque",
+        "state": "NM"
+      },
+      "start_time": "2025-02-21T16:00:00-07:00",
+      "end_time": "2025-02-24T11:00:00-07:00",
+      "property_type": "Guest House",
+      "booking_timestamp": "2025-01-15T13:30:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-044",
+      "type": "flight",
+      "vendor_name": "United Airlines",
+      "confirmation_number": "UA9P4K",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "LAX",
+        "city": "Los Angeles",
+        "timezone": "America/Los_Angeles"
+      },
+      "start_time": "2025-03-17T10:20:00-06:00",
+      "end_time": "2025-03-17T12:05:00-07:00",
+      "cabin": "Economy Plus",
+      "booking_timestamp": "2025-02-20T11:00:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-045",
+      "type": "hotel",
+      "vendor_name": "InterContinental Los Angeles Downtown",
+      "confirmation_number": "33442211",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "location": {
+        "address": "900 Wilshire Blvd",
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "start_time": "2025-03-17T15:00:00-07:00",
+      "end_time": "2025-03-20T11:00:00-07:00",
+      "room_type": "Executive Room",
+      "booking_timestamp": "2025-02-20T11:30:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-046",
+      "type": "car_rental",
+      "vendor_name": "Avis Car Rental",
+      "confirmation_number": "A987456321",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        }
+      ],
+      "pickup_location": {
+        "address": "LAX Terminal 7",
+        "city": "Los Angeles"
+      },
+      "return_location": {
+        "address": "LAX Terminal 7",
+        "city": "Los Angeles"
+      },
+      "start_time": "2025-03-17T13:00:00-07:00",
+      "end_time": "2025-03-20T10:00:00-07:00",
+      "vehicle_class": "Full Size",
+      "booking_timestamp": "2025-02-20T12:00:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-047",
+      "type": "flight",
+      "vendor_name": "Delta Air Lines",
+      "confirmation_number": "DL6K2P9",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "origin": {
+        "code": "DEN",
+        "city": "Denver"
+      },
+      "destination": {
+        "code": "BNA",
+        "city": "Nashville",
+        "timezone": "America/Chicago"
+      },
+      "start_time": "2025-04-11T08:45:00-06:00",
+      "end_time": "2025-04-11T12:30:00-05:00",
+      "cabin": "Economy",
+      "booking_timestamp": "2025-03-01T10:00:00-07:00",
+      "status": "confirmed"
+    },
+    {
+      "id": "res-2025-048",
+      "type": "hotel",
+      "vendor_name": "Hilton Nashville Downtown",
+      "confirmation_number": "88776655",
+      "travelers": [
+        {
+          "name": "Samir Okafor"
+        },
+        {
+          "name": "Nina Park"
+        }
+      ],
+      "location": {
+        "address": "121 4th Ave S",
+        "city": "Nashville",
+        "state": "TN"
+      },
+      "start_time": "2025-04-11T15:00:00-05:00",
+      "end_time": "2025-04-14T11:00:00-05:00",
+      "room_type": "Double Queen",
+      "booking_timestamp": "2025-03-01T10:30:00-07:00",
+      "status": "confirmed"
+    }
+  ]
+}

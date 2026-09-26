@@ -1,0 +1,2076 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/income_tax/payroll_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-28T14:30:00Z",
+    "source": "payroll_system_export"
+  },
+  "records": [
+    {
+      "id": "PAY-20221115",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2022-11-01",
+      "period_end": "2022-11-15",
+      "pay_date": "2022-11-22",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4583.33,
+      "taxable_gross": 4003.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 275.0
+      },
+      "taxes": {
+        "federal_income_tax": 580.0,
+        "state_income_tax_co": 176.15,
+        "social_security_employee": 265.26,
+        "medicare_employee": 62.04
+      },
+      "net_pay": 2893.88,
+      "ytd_gross": 4583.33,
+      "ytd_net": 2893.88,
+      "ytd_taxes": {
+        "federal": 580.0,
+        "state": 176.15,
+        "social_security": 265.26,
+        "medicare": 62.04
+      },
+      "ytd_401k": 275.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20221130",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2022-11-16",
+      "period_end": "2022-11-30",
+      "pay_date": "2022-12-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4583.33,
+      "taxable_gross": 4003.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 275.0
+      },
+      "taxes": {
+        "federal_income_tax": 580.0,
+        "state_income_tax_co": 176.15,
+        "social_security_employee": 265.26,
+        "medicare_employee": 62.04
+      },
+      "net_pay": 2893.88,
+      "ytd_gross": 9166.66,
+      "ytd_net": 5787.76,
+      "ytd_taxes": {
+        "federal": 1160.0,
+        "state": 352.3,
+        "social_security": 530.52,
+        "medicare": 124.08
+      },
+      "ytd_401k": 550.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20221215",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2022-12-01",
+      "period_end": "2022-12-15",
+      "pay_date": "2022-12-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4583.33,
+      "taxable_gross": 4003.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 275.0
+      },
+      "taxes": {
+        "federal_income_tax": 580.0,
+        "state_income_tax_co": 176.15,
+        "social_security_employee": 265.26,
+        "medicare_employee": 62.04
+      },
+      "net_pay": 2893.88,
+      "ytd_gross": 13749.99,
+      "ytd_net": 8681.64,
+      "ytd_taxes": {
+        "federal": 1740.0,
+        "state": 528.45,
+        "social_security": 795.78,
+        "medicare": 186.12
+      },
+      "ytd_401k": 825.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20221231",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2022-12-16",
+      "period_end": "2022-12-31",
+      "pay_date": "2023-01-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4583.33,
+      "taxable_gross": 4003.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 275.0
+      },
+      "taxes": {
+        "federal_income_tax": 580.0,
+        "state_income_tax_co": 176.15,
+        "social_security_employee": 265.26,
+        "medicare_employee": 62.04
+      },
+      "net_pay": 2893.88,
+      "ytd_gross": 18333.32,
+      "ytd_net": 11575.52,
+      "ytd_taxes": {
+        "federal": 2320.0,
+        "state": 704.6,
+        "social_security": 1061.04,
+        "medicare": 248.16
+      },
+      "ytd_401k": 1100.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230115",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-01-01",
+      "period_end": "2023-01-15",
+      "pay_date": "2023-01-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 4791.67,
+      "ytd_net": 3005.18,
+      "ytd_taxes": {
+        "federal": 620.0,
+        "state": 184.76,
+        "social_security": 278.17,
+        "medicare": 65.06
+      },
+      "ytd_401k": 287.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230131",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-01-16",
+      "period_end": "2023-01-31",
+      "pay_date": "2023-02-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 9583.34,
+      "ytd_net": 6010.36,
+      "ytd_taxes": {
+        "federal": 1240.0,
+        "state": 369.52,
+        "social_security": 556.34,
+        "medicare": 130.12
+      },
+      "ytd_401k": 575.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230215",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-02-01",
+      "period_end": "2023-02-15",
+      "pay_date": "2023-02-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 14375.01,
+      "ytd_net": 9015.54,
+      "ytd_taxes": {
+        "federal": 1860.0,
+        "state": 554.28,
+        "social_security": 834.51,
+        "medicare": 195.18
+      },
+      "ytd_401k": 862.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230228",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-02-16",
+      "period_end": "2023-02-28",
+      "pay_date": "2023-03-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 19166.68,
+      "ytd_net": 12020.72,
+      "ytd_taxes": {
+        "federal": 2480.0,
+        "state": 739.04,
+        "social_security": 1112.68,
+        "medicare": 260.24
+      },
+      "ytd_401k": 1150.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230315",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-03-01",
+      "period_end": "2023-03-15",
+      "pay_date": "2023-03-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 23958.35,
+      "ytd_net": 15025.9,
+      "ytd_taxes": {
+        "federal": 3100.0,
+        "state": 923.8,
+        "social_security": 1390.85,
+        "medicare": 325.3
+      },
+      "ytd_401k": 1437.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230331",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-03-16",
+      "period_end": "2023-03-31",
+      "pay_date": "2023-04-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 28750.02,
+      "ytd_net": 18031.08,
+      "ytd_taxes": {
+        "federal": 3720.0,
+        "state": 1108.56,
+        "social_security": 1669.02,
+        "medicare": 390.36
+      },
+      "ytd_401k": 1725.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230415",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-04-01",
+      "period_end": "2023-04-15",
+      "pay_date": "2023-04-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 33541.69,
+      "ytd_net": 21036.26,
+      "ytd_taxes": {
+        "federal": 4340.0,
+        "state": 1293.32,
+        "social_security": 1947.19,
+        "medicare": 455.42
+      },
+      "ytd_401k": 2012.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230430",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-04-16",
+      "period_end": "2023-04-30",
+      "pay_date": "2023-05-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 38333.36,
+      "ytd_net": 24041.44,
+      "ytd_taxes": {
+        "federal": 4960.0,
+        "state": 1478.08,
+        "social_security": 2225.36,
+        "medicare": 520.48
+      },
+      "ytd_401k": 2300.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230515",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-05-01",
+      "period_end": "2023-05-15",
+      "pay_date": "2023-05-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 43125.03,
+      "ytd_net": 27046.62,
+      "ytd_taxes": {
+        "federal": 5580.0,
+        "state": 1662.84,
+        "social_security": 2503.53,
+        "medicare": 585.54
+      },
+      "ytd_401k": 2587.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230531",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-05-16",
+      "period_end": "2023-05-31",
+      "pay_date": "2023-06-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 47916.7,
+      "ytd_net": 30051.8,
+      "ytd_taxes": {
+        "federal": 6200.0,
+        "state": 1847.6,
+        "social_security": 2781.7,
+        "medicare": 650.6
+      },
+      "ytd_401k": 2875.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230615",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-06-01",
+      "period_end": "2023-06-15",
+      "pay_date": "2023-06-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 52708.37,
+      "ytd_net": 33056.98,
+      "ytd_taxes": {
+        "federal": 6820.0,
+        "state": 2032.36,
+        "social_security": 3059.87,
+        "medicare": 715.66
+      },
+      "ytd_401k": 3162.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230630",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-06-16",
+      "period_end": "2023-06-30",
+      "pay_date": "2023-07-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 57500.04,
+      "ytd_net": 36062.16,
+      "ytd_taxes": {
+        "federal": 7440.0,
+        "state": 2217.12,
+        "social_security": 3338.04,
+        "medicare": 780.72
+      },
+      "ytd_401k": 3450.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230715",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-07-01",
+      "period_end": "2023-07-15",
+      "pay_date": "2023-07-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 62291.71,
+      "ytd_net": 39067.34,
+      "ytd_taxes": {
+        "federal": 8060.0,
+        "state": 2401.88,
+        "social_security": 3616.21,
+        "medicare": 845.78
+      },
+      "ytd_401k": 3737.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230731",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-07-16",
+      "period_end": "2023-07-31",
+      "pay_date": "2023-08-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 67083.38,
+      "ytd_net": 42072.52,
+      "ytd_taxes": {
+        "federal": 8680.0,
+        "state": 2586.64,
+        "social_security": 3894.38,
+        "medicare": 910.84
+      },
+      "ytd_401k": 4025.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230815",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-08-01",
+      "period_end": "2023-08-15",
+      "pay_date": "2023-08-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 71875.05,
+      "ytd_net": 45077.7,
+      "ytd_taxes": {
+        "federal": 9300.0,
+        "state": 2771.4,
+        "social_security": 4172.55,
+        "medicare": 975.9
+      },
+      "ytd_401k": 4312.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230831",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-08-16",
+      "period_end": "2023-08-31",
+      "pay_date": "2023-09-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 76666.72,
+      "ytd_net": 48082.88,
+      "ytd_taxes": {
+        "federal": 9920.0,
+        "state": 2956.16,
+        "social_security": 4450.72,
+        "medicare": 1040.96
+      },
+      "ytd_401k": 4600.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230915",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-09-01",
+      "period_end": "2023-09-15",
+      "pay_date": "2023-09-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 81458.39,
+      "ytd_net": 51088.06,
+      "ytd_taxes": {
+        "federal": 10540.0,
+        "state": 3140.92,
+        "social_security": 4728.89,
+        "medicare": 1106.02
+      },
+      "ytd_401k": 4887.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20230930",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-09-16",
+      "period_end": "2023-09-30",
+      "pay_date": "2023-10-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 86250.06,
+      "ytd_net": 54093.24,
+      "ytd_taxes": {
+        "federal": 11160.0,
+        "state": 3325.68,
+        "social_security": 5007.06,
+        "medicare": 1171.08
+      },
+      "ytd_401k": 5175.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20231015",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-10-01",
+      "period_end": "2023-10-15",
+      "pay_date": "2023-10-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 91041.73,
+      "ytd_net": 57098.42,
+      "ytd_taxes": {
+        "federal": 11780.0,
+        "state": 3510.44,
+        "social_security": 5285.23,
+        "medicare": 1236.14
+      },
+      "ytd_401k": 5462.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20231031",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-10-16",
+      "period_end": "2023-10-31",
+      "pay_date": "2023-11-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 95833.4,
+      "ytd_net": 60103.6,
+      "ytd_taxes": {
+        "federal": 12400.0,
+        "state": 3695.2,
+        "social_security": 5563.4,
+        "medicare": 1301.2
+      },
+      "ytd_401k": 5750.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20231115",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-11-01",
+      "period_end": "2023-11-15",
+      "pay_date": "2023-11-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 100625.07,
+      "ytd_net": 63108.78,
+      "ytd_taxes": {
+        "federal": 13020.0,
+        "state": 3879.96,
+        "social_security": 5841.57,
+        "medicare": 1366.26
+      },
+      "ytd_401k": 6037.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20231130",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-11-16",
+      "period_end": "2023-11-30",
+      "pay_date": "2023-12-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 105416.74,
+      "ytd_net": 66113.96,
+      "ytd_taxes": {
+        "federal": 13640.0,
+        "state": 4064.72,
+        "social_security": 6119.74,
+        "medicare": 1431.32
+      },
+      "ytd_401k": 6325.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20231215",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-12-01",
+      "period_end": "2023-12-15",
+      "pay_date": "2023-12-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 110208.41,
+      "ytd_net": 69119.14,
+      "ytd_taxes": {
+        "federal": 14260.0,
+        "state": 4249.48,
+        "social_security": 6397.91,
+        "medicare": 1496.38
+      },
+      "ytd_401k": 6612.5,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20231231",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2023-12-16",
+      "period_end": "2023-12-31",
+      "pay_date": "2024-01-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 4791.67,
+      "taxable_gross": 4199.17,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 287.5
+      },
+      "taxes": {
+        "federal_income_tax": 620.0,
+        "state_income_tax_co": 184.76,
+        "social_security_employee": 278.17,
+        "medicare_employee": 65.06
+      },
+      "net_pay": 3005.18,
+      "ytd_gross": 115000.08,
+      "ytd_net": 72124.32,
+      "ytd_taxes": {
+        "federal": 14880.0,
+        "state": 4434.24,
+        "social_security": 6676.08,
+        "medicare": 1561.44
+      },
+      "ytd_401k": 6900.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240115",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-01-01",
+      "period_end": "2024-01-15",
+      "pay_date": "2024-01-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 5083.33,
+      "ytd_net": 3204.95,
+      "ytd_taxes": {
+        "federal": 680.0,
+        "state": 196.83,
+        "social_security": 296.26,
+        "medicare": 69.29
+      },
+      "ytd_401k": 305.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240131",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-01-16",
+      "period_end": "2024-01-31",
+      "pay_date": "2024-02-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 10166.66,
+      "ytd_net": 6409.9,
+      "ytd_taxes": {
+        "federal": 1360.0,
+        "state": 393.66,
+        "social_security": 592.52,
+        "medicare": 138.58
+      },
+      "ytd_401k": 610.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240215",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-02-01",
+      "period_end": "2024-02-15",
+      "pay_date": "2024-02-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 15249.99,
+      "ytd_net": 9614.85,
+      "ytd_taxes": {
+        "federal": 2040.0,
+        "state": 590.49,
+        "social_security": 888.78,
+        "medicare": 207.87
+      },
+      "ytd_401k": 915.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240229",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-02-16",
+      "period_end": "2024-02-29",
+      "pay_date": "2024-03-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 20333.32,
+      "ytd_net": 12819.8,
+      "ytd_taxes": {
+        "federal": 2720.0,
+        "state": 787.32,
+        "social_security": 1185.04,
+        "medicare": 277.16
+      },
+      "ytd_401k": 1220.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240315",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-03-01",
+      "period_end": "2024-03-15",
+      "pay_date": "2024-03-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 25416.65,
+      "ytd_net": 16024.75,
+      "ytd_taxes": {
+        "federal": 3400.0,
+        "state": 984.15,
+        "social_security": 1481.3,
+        "medicare": 346.45
+      },
+      "ytd_401k": 1525.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240331",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-03-16",
+      "period_end": "2024-03-31",
+      "pay_date": "2024-04-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 30499.98,
+      "ytd_net": 19229.7,
+      "ytd_taxes": {
+        "federal": 4080.0,
+        "state": 1180.98,
+        "social_security": 1777.56,
+        "medicare": 415.74
+      },
+      "ytd_401k": 1830.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240415",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-04-01",
+      "period_end": "2024-04-15",
+      "pay_date": "2024-04-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 35583.31,
+      "ytd_net": 22434.65,
+      "ytd_taxes": {
+        "federal": 4760.0,
+        "state": 1377.81,
+        "social_security": 2073.82,
+        "medicare": 485.03
+      },
+      "ytd_401k": 2135.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240430",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-04-16",
+      "period_end": "2024-04-30",
+      "pay_date": "2024-05-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 40666.64,
+      "ytd_net": 25639.6,
+      "ytd_taxes": {
+        "federal": 5440.0,
+        "state": 1574.64,
+        "social_security": 2370.08,
+        "medicare": 554.32
+      },
+      "ytd_401k": 2440.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240515",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-05-01",
+      "period_end": "2024-05-15",
+      "pay_date": "2024-05-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 45749.97,
+      "ytd_net": 28844.55,
+      "ytd_taxes": {
+        "federal": 6120.0,
+        "state": 1771.47,
+        "social_security": 2666.34,
+        "medicare": 623.61
+      },
+      "ytd_401k": 2745.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240531",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-05-16",
+      "period_end": "2024-05-31",
+      "pay_date": "2024-06-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 50833.3,
+      "ytd_net": 32049.5,
+      "ytd_taxes": {
+        "federal": 6800.0,
+        "state": 1968.3,
+        "social_security": 2962.6,
+        "medicare": 692.9
+      },
+      "ytd_401k": 3050.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240615",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-06-01",
+      "period_end": "2024-06-15",
+      "pay_date": "2024-06-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 55916.63,
+      "ytd_net": 35254.45,
+      "ytd_taxes": {
+        "federal": 7480.0,
+        "state": 2165.13,
+        "social_security": 3258.86,
+        "medicare": 762.19
+      },
+      "ytd_401k": 3355.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240630",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-06-16",
+      "period_end": "2024-06-30",
+      "pay_date": "2024-07-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 60999.96,
+      "ytd_net": 38459.4,
+      "ytd_taxes": {
+        "federal": 8160.0,
+        "state": 2361.96,
+        "social_security": 3555.12,
+        "medicare": 831.48
+      },
+      "ytd_401k": 3660.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240715",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-15",
+      "pay_date": "2024-07-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 66083.29,
+      "ytd_net": 41664.35,
+      "ytd_taxes": {
+        "federal": 8840.0,
+        "state": 2558.79,
+        "social_security": 3851.38,
+        "medicare": 900.77
+      },
+      "ytd_401k": 3965.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240731",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-07-16",
+      "period_end": "2024-07-31",
+      "pay_date": "2024-08-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 71166.62,
+      "ytd_net": 44869.3,
+      "ytd_taxes": {
+        "federal": 9520.0,
+        "state": 2755.62,
+        "social_security": 4147.64,
+        "medicare": 970.06
+      },
+      "ytd_401k": 4270.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240815",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-08-01",
+      "period_end": "2024-08-15",
+      "pay_date": "2024-08-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 76249.95,
+      "ytd_net": 48074.25,
+      "ytd_taxes": {
+        "federal": 10200.0,
+        "state": 2952.45,
+        "social_security": 4443.9,
+        "medicare": 1039.35
+      },
+      "ytd_401k": 4575.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240831",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-08-16",
+      "period_end": "2024-08-31",
+      "pay_date": "2024-09-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 81333.28,
+      "ytd_net": 51279.2,
+      "ytd_taxes": {
+        "federal": 10880.0,
+        "state": 3149.28,
+        "social_security": 4740.16,
+        "medicare": 1108.64
+      },
+      "ytd_401k": 4880.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240915",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-09-01",
+      "period_end": "2024-09-15",
+      "pay_date": "2024-09-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 86416.61,
+      "ytd_net": 54484.15,
+      "ytd_taxes": {
+        "federal": 11560.0,
+        "state": 3346.11,
+        "social_security": 5036.42,
+        "medicare": 1177.93
+      },
+      "ytd_401k": 5185.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20240930",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-09-16",
+      "period_end": "2024-09-30",
+      "pay_date": "2024-10-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 91499.94,
+      "ytd_net": 57689.1,
+      "ytd_taxes": {
+        "federal": 12240.0,
+        "state": 3542.94,
+        "social_security": 5332.68,
+        "medicare": 1247.22
+      },
+      "ytd_401k": 5490.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20241015",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-10-01",
+      "period_end": "2024-10-15",
+      "pay_date": "2024-10-20",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 96583.27,
+      "ytd_net": 60894.05,
+      "ytd_taxes": {
+        "federal": 12920.0,
+        "state": 3739.77,
+        "social_security": 5628.94,
+        "medicare": 1316.51
+      },
+      "ytd_401k": 5795.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    },
+    {
+      "id": "PAY-20241031",
+      "employee_id": "BS-4829",
+      "employee_name": "Linh Nguyen",
+      "employer": "Brightline Systems",
+      "department": "Product Operations",
+      "job_title": "Research Operations Lead",
+      "period_start": "2024-10-16",
+      "period_end": "2024-10-31",
+      "pay_date": "2024-11-05",
+      "pay_type": "Semi-Monthly Salary",
+      "gross_pay": 5083.33,
+      "taxable_gross": 4473.33,
+      "pretax_deductions": {
+        "health_insurance": 180.0,
+        "dental_insurance": 18.0,
+        "vision_insurance": 8.0,
+        "hsa_contribution": 125.0,
+        "401k_contribution": 305.0
+      },
+      "taxes": {
+        "federal_income_tax": 680.0,
+        "state_income_tax_co": 196.83,
+        "social_security_employee": 296.26,
+        "medicare_employee": 69.29
+      },
+      "net_pay": 3204.95,
+      "ytd_gross": 101666.6,
+      "ytd_net": 64099.0,
+      "ytd_taxes": {
+        "federal": 13600.0,
+        "state": 3936.6,
+        "social_security": 5925.2,
+        "medicare": 1385.8
+      },
+      "ytd_401k": 6100.0,
+      "deposit_account": {
+        "bank_name": "Denver Community Credit Union",
+        "account_last_4": "7821",
+        "routing_number": "302075881"
+      },
+      "ssn_last_4": "8847"
+    }
+  ]
+}

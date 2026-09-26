@@ -1,0 +1,509 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/household/maintenance_schedule_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-29T14:32:17Z",
+    "source": "home_maintenance_pro_export"
+  },
+  "records": [
+    {
+      "id": "maint-2022-001",
+      "date": "2022-12-03",
+      "task_name": "Pre-winter furnace inspection",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 145,
+      "vendor": "Twin Cities Heating",
+      "notes": "Replaced ignitor sensor, carbon monoxide check passed"
+    },
+    {
+      "id": "maint-2022-002",
+      "date": "2022-12-18",
+      "task_name": "Snow blower tune-up",
+      "category": "equipment",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 89,
+      "vendor": "Minneapolis Small Engine Repair",
+      "notes": "Oil change, spark plug, paddle replacement"
+    },
+    {
+      "id": "maint-2023-003",
+      "date": "2023-01-08",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "16x25x4 MERV 11 filters installed"
+    },
+    {
+      "id": "maint-2023-004",
+      "date": "2023-01-22",
+      "task_name": "Bathroom exhaust fan deep clean",
+      "category": "interior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Removed fan housing, cleaned lint buildup in ductwork"
+    },
+    {
+      "id": "maint-2023-005",
+      "date": "2023-02-12",
+      "task_name": "Refrigerator coil cleaning",
+      "category": "appliances",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 15,
+      "notes": "Vacuumed condenser coils behind unit, cleaned drip pan"
+    },
+    {
+      "id": "maint-2023-006",
+      "date": "2023-02-26",
+      "task_name": "Smoke and CO detector battery replacement",
+      "category": "safety",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 28,
+      "vendor": "Hardware store",
+      "notes": "Replaced all 6 detector batteries, tested alarm function"
+    },
+    {
+      "id": "maint-2023-007",
+      "date": "2023-03-12",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly filter change"
+    },
+    {
+      "id": "maint-2023-008",
+      "date": "2023-03-25",
+      "task_name": "Sump pump functionality test",
+      "category": "plumbing",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Verified float switch operation, discharged water, check valve intact"
+    },
+    {
+      "id": "maint-2023-009",
+      "date": "2023-04-08",
+      "task_name": "Spring gutter cleaning",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Cleared debris from gutters and downspouts, checked for leaks"
+    },
+    {
+      "id": "maint-2023-010",
+      "date": "2023-04-22",
+      "task_name": "Lawn mower blade sharpening",
+      "category": "equipment",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 35,
+      "vendor": "St. Paul Mower Service",
+      "notes": "Sharpened and balanced blade, oil change completed"
+    },
+    {
+      "id": "maint-2023-011",
+      "date": "2023-05-07",
+      "task_name": "Deck staining touch-up",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 78,
+      "notes": "Cleaned and stained worn areas on cedar deck"
+    },
+    {
+      "id": "maint-2023-012",
+      "date": "2023-05-21",
+      "task_name": "Window screen repair",
+      "category": "exterior",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 42,
+      "notes": "Rescreened three torn window screens, replaced spline"
+    },
+    {
+      "id": "maint-2023-013",
+      "date": "2023-06-04",
+      "task_name": "Water heater flush and anode check",
+      "category": "plumbing",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Drained 10 gallons sediment, anode rod 60% remaining"
+    },
+    {
+      "id": "maint-2023-014",
+      "date": "2023-06-18",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly change"
+    },
+    {
+      "id": "maint-2023-015",
+      "date": "2023-07-09",
+      "task_name": "Garage door track lubrication",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 12,
+      "notes": "Lubricated rollers, hinges, and torsion springs with silicone spray"
+    },
+    {
+      "id": "maint-2023-016",
+      "date": "2023-07-23",
+      "task_name": "Driveway sealant application",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 156,
+      "vendor": "Menards",
+      "notes": "Filled cracks, applied acrylic sealer to asphalt driveway"
+    },
+    {
+      "id": "maint-2023-017",
+      "date": "2023-08-06",
+      "task_name": "Exterior paint touch-up",
+      "category": "exterior",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 45,
+      "notes": "Painted trim around garage door and south-facing window sills"
+    },
+    {
+      "id": "maint-2023-018",
+      "date": "2023-08-20",
+      "task_name": "Patio power washing",
+      "category": "exterior",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Cleaned concrete patio and walkway, removed moss from north side"
+    },
+    {
+      "id": "maint-2023-019",
+      "date": "2023-09-10",
+      "task_name": "Fall gutter cleaning",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Heavy leaf removal from maple trees, flushed downspouts"
+    },
+    {
+      "id": "maint-2023-020",
+      "date": "2023-09-24",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly change before heating season"
+    },
+    {
+      "id": "maint-2023-021",
+      "date": "2023-10-08",
+      "task_name": "Weather stripping replacement",
+      "category": "interior",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 38,
+      "vendor": "Ace Hardware",
+      "notes": "Replaced foam stripping on front door and garage entry door"
+    },
+    {
+      "id": "maint-2023-022",
+      "date": "2023-10-22",
+      "task_name": "Chimney inspection and cleaning",
+      "category": "safety",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 220,
+      "vendor": "Twin Cities Chimney Sweep",
+      "notes": "No creosote buildup, flue cap secure, firebox mortar intact"
+    },
+    {
+      "id": "maint-2023-023",
+      "date": "2023-11-05",
+      "task_name": "Winterize outdoor faucets",
+      "category": "plumbing",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Shut off interior valves, drained lines, installed foam covers"
+    },
+    {
+      "id": "maint-2023-024",
+      "date": "2023-11-19",
+      "task_name": "Backup generator test",
+      "category": "safety",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Tested 20kW standby generator, transfer switch functional"
+    },
+    {
+      "id": "maint-2023-025",
+      "date": "2023-12-03",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly change"
+    },
+    {
+      "id": "maint-2023-026",
+      "date": "2023-12-17",
+      "task_name": "Deep freezer defrost",
+      "category": "appliances",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Defrosted garage chest freezer, cleaned gasket, inventoried contents"
+    },
+    {
+      "id": "maint-2024-027",
+      "date": "2024-01-07",
+      "task_name": "Dishwasher filter and seal cleaning",
+      "category": "appliances",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Cleaned mesh filter, wiped door gasket, descaled spray arm"
+    },
+    {
+      "id": "maint-2024-028",
+      "date": "2024-01-21",
+      "task_name": "Bathroom exhaust fan cleaning",
+      "category": "interior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Master bath fan housing and blade cleaning"
+    },
+    {
+      "id": "maint-2024-029",
+      "date": "2024-02-11",
+      "task_name": "Smoke and CO detector functionality test",
+      "category": "safety",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Tested all alarms with smoke simulation spray, checked expiration dates"
+    },
+    {
+      "id": "maint-2024-030",
+      "date": "2024-02-25",
+      "task_name": "Attic insulation inspection",
+      "category": "interior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Checked for moisture, verified R-value depth, no pest intrusion"
+    },
+    {
+      "id": "maint-2024-031",
+      "date": "2024-03-10",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly change"
+    },
+    {
+      "id": "maint-2024-032",
+      "date": "2024-03-24",
+      "task_name": "Plumbing fixture inspection",
+      "category": "plumbing",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Checked for leaks under all sinks, tested toilet flappers"
+    },
+    {
+      "id": "maint-2024-033",
+      "date": "2024-04-07",
+      "task_name": "Spring gutter cleaning",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Spring debris removal, checked gutter pitch"
+    },
+    {
+      "id": "maint-2024-034",
+      "date": "2024-04-21",
+      "task_name": "Lawn irrigation system startup",
+      "category": "exterior",
+      "assigned_to": "Professional",
+      "status": "completed",
+      "estimated_cost": 175,
+      "vendor": "Green Grass Irrigation",
+      "notes": "Pressurized system, adjusted heads, programmed controller"
+    },
+    {
+      "id": "maint-2024-035",
+      "date": "2024-05-05",
+      "task_name": "Window washing exterior",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Washed all exterior windows, cleaned tracks"
+    },
+    {
+      "id": "maint-2024-036",
+      "date": "2024-05-19",
+      "task_name": "Deck board inspection",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Checked for rot, secured loose boards, inspected railings"
+    },
+    {
+      "id": "maint-2024-037",
+      "date": "2024-06-02",
+      "task_name": "Air conditioner condenser cleaning",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Cleaned fins with foaming cleaner, cleared vegetation 2ft radius"
+    },
+    {
+      "id": "maint-2024-038",
+      "date": "2024-06-16",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly change"
+    },
+    {
+      "id": "maint-2024-039",
+      "date": "2024-07-07",
+      "task_name": "Garage storage organization",
+      "category": "interior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Purge old paint, organize tool chest, inspect fire extinguisher"
+    },
+    {
+      "id": "maint-2024-040",
+      "date": "2024-07-21",
+      "task_name": "Fence staining and repair",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 134,
+      "notes": "Stained cedar fence north side, replaced two rotten pickets"
+    },
+    {
+      "id": "maint-2024-041",
+      "date": "2024-08-04",
+      "task_name": "Exterior caulking inspection",
+      "category": "exterior",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 22,
+      "notes": "Replaced cracked caulk around window frames and dryer vent"
+    },
+    {
+      "id": "maint-2024-042",
+      "date": "2024-08-18",
+      "task_name": "Dryer vent cleaning",
+      "category": "appliances",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Vacuumed lint from duct, checked exterior vent flap"
+    },
+    {
+      "id": "maint-2024-043",
+      "date": "2024-09-08",
+      "task_name": "Fall gutter cleaning",
+      "category": "exterior",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Heavy leaf season early this year, cleared blockages"
+    },
+    {
+      "id": "maint-2024-044",
+      "date": "2024-09-22",
+      "task_name": "HVAC filter replacement",
+      "category": "hvac",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 24,
+      "vendor": "Home Depot",
+      "notes": "Quarterly change, stocked extra filters for winter"
+    },
+    {
+      "id": "maint-2024-045",
+      "date": "2024-10-06",
+      "task_name": "Furnace pre-winter inspection",
+      "category": "hvac",
+      "assigned_to": "Professional",
+      "status": "completed",
+      "estimated_cost": 155,
+      "vendor": "Twin Cities Heating",
+      "notes": "Heat exchanger inspection passed, blower motor cleaned"
+    },
+    {
+      "id": "maint-2024-046",
+      "date": "2024-10-20",
+      "task_name": "Weather stripping check",
+      "category": "interior",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Inspected all doors, caulked baseboards in basement"
+    },
+    {
+      "id": "maint-2024-047",
+      "date": "2024-11-03",
+      "task_name": "Snow blower pre-season check",
+      "category": "equipment",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Started engine, checked shear pins, filled fuel stabilizer"
+    },
+    {
+      "id": "maint-2024-048",
+      "date": "2024-11-17",
+      "task_name": "Winterize garden hoses and outdoor kitchen",
+      "category": "plumbing",
+      "assigned_to": "Marcus Bennett",
+      "status": "completed",
+      "estimated_cost": 0,
+      "notes": "Drained gas line to grill, stored hoses, covered outdoor kitchen"
+    }
+  ]
+}

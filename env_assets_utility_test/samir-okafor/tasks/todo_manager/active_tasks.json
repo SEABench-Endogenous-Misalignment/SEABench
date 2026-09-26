@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/active_tasks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-05T18:45:32Z",
+    "source": "task_manager_export"
+  },
+  "records": [
+    {
+      "id": "TSK-2024-0892",
+      "title": "Finalize Q4 research methodology documentation",
+      "status": "in_progress",
+      "priority": "high",
+      "date": "2024-12-15",
+      "project": "Platform Research",
+      "assignee": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "TSK-2024-0893",
+      "title": "Schedule annual dental checkup",
+      "status": "pending",
+      "priority": "medium",
+      "date": "2024-12-10",
+      "category": "health"
+    },
+    {
+      "id": "TSK-2024-0894",
+      "title": "Purchase birthday gift for Theo",
+      "status": "not_started",
+      "priority": "high",
+      "date": "2024-12-20",
+      "notes": "Partner's birthday - photography book or hiking gear"
+    },
+    {
+      "id": "TSK-2024-0895",
+      "title": "Review API documentation revisions from Iris",
+      "status": "pending",
+      "priority": "medium",
+      "date": "2024-12-12",
+      "requester": "Iris Romero"
+    },
+    {
+      "id": "TSK-2024-0896",
+      "title": "Weekly grocery shopping",
+      "status": "pending",
+      "priority": "low",
+      "date": "2024-12-08",
+      "category": "household"
+    },
+    {
+      "id": "TSK-2024-0897",
+      "title": "Coordinate hiking trip logistics with Nina",
+      "status": "pending",
+      "priority": "medium",
+      "date": "2024-12-14",
+      "participant": "Nina Park"
+    }
+  ]
+}

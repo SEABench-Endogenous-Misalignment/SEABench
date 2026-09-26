@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notifications/unified/notification_history_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T14:35:00Z",
+    "source": "unified_notification_center_sync"
+  },
+  "records": [
+    {
+      "id": "notif_20241019143022_8a3f",
+      "timestamp": "2024-10-19T14:30:22Z",
+      "source_app": "calendar",
+      "notification_type": "event_reminder",
+      "title": "Upcoming: Design Systems Review",
+      "body": "Meeting with Leah Morgan starts in 15 minutes",
+      "status": "read",
+      "priority": "high",
+      "category": "work"
+    },
+    {
+      "id": "notif_20241018190215_c7b2",
+      "timestamp": "2024-10-18T19:02:15Z",
+      "source_app": "mail",
+      "notification_type": "new_message",
+      "title": "New message from Nina Park",
+      "body": "Subject: Dinner plans this weekend?",
+      "status": "read",
+      "priority": "normal",
+      "category": "personal"
+    },
+    {
+      "id": "notif_20241017110045_d91e",
+      "timestamp": "2024-10-17T11:00:45Z",
+      "source_app": "tasks",
+      "notification_type": "due_soon",
+      "title": "Task due: Q4 Roadmap Finalization",
+      "body": "Due today at 5:00 PM",
+      "status": "read",
+      "priority": "high",
+      "category": "productivity"
+    },
+    {
+      "id": "notif_20241016184533_f4a9",
+      "timestamp": "2024-10-16T18:45:33Z",
+      "source_app": "messages",
+      "notification_type": "new_message",
+      "title": "Message from Priya Shah",
+      "body": "Running late, be there in 10 minutes",
+      "status": "read",
+      "priority": "normal",
+      "category": "personal"
+    },
+    {
+      "id": "notif_20241015083012_5e8d",
+      "timestamp": "2024-10-15T08:30:12Z",
+      "source_app": "travel",
+      "notification_type": "check_in_available",
+      "title": "Flight check-in now open",
+      "body": "Pittsburgh (PIT) to Boston (BOS) on Oct 17",
+      "status": "read",
+      "priority": "normal",
+      "category": "travel"
+    },
+    {
+      "id": "notif_20241014220007_2b1c",
+      "timestamp": "2024-10-14T22:00:07Z",
+      "source_app": "system",
+      "notification_type": "update_complete",
+      "title": "macOS Update Installed",
+      "body": "Version 14.6.1 installed successfully",
+      "status": "read",
+      "priority": "low",
+      "category": "system"
+    },
+    {
+      "id": "notif_20241013104518_a6f4",
+      "timestamp": "2024-10-13T10:45:18Z",
+      "source_app": "calendar",
+      "notification_type": "event_reminder",
+      "title": "Upcoming: Annual Physical",
+      "body": "Tomorrow 9:00 AM with Dr. Chen",
+      "status": "read",
+      "priority": "normal",
+      "category": "health"
+    },
+    {
+      "id": "notif_20241012091527_9d3e",
+      "timestamp": "2024-10-12T09:15:27Z",
+      "source_app": "mail",
+      "notification_type": "new_message",
+      "title": "New message from Calvin Price",
+      "body": "Subject: Q3 Client Metrics Review - Action Needed",
+      "status": "unread",
+      "priority": "high",
+      "category": "work"
+    },
+    {
+      "id": "notif_20241011080055_1c7b",
+      "timestamp": "2024-10-11T08:00:55Z",
+      "source_app": "health",
+      "notification_type": "medication_reminder",
+      "title": "Medication reminder",
+      "body": "Take daily supplement (Vitamin D)",
+      "status": "read",
+      "priority": "normal",
+      "category": "health"
+    },
+    {
+      "id": "notif_20241009214540_6e2a",
+      "timestamp": "2024-10-09T21:45:40Z",
+      "source_app": "security",
+      "notification_type": "sign_in_alert",
+      "title": "New sign-in detected",
+      "body": "iPhone 15 Pro from Pittsburgh, PA",
+      "status": "read",
+      "priority": "high",
+      "category": "security"
+    },
+    {
+      "id": "notif_20241008133019_4f8d",
+      "timestamp": "2024-10-08T13:30:19Z",
+      "source_app": "messages",
+      "notification_type": "new_message",
+      "title": "Message from Owen Reed",
+      "body": "Great catching up yesterday, let me know about Saturday",
+      "status": "read",
+      "priority": "normal",
+      "category": "personal"
+    },
+    {
+      "id": "notif_20241005204508_7b3e",
+      "timestamp": "2024-10-05T20:45:08Z",
+      "source_app": "calendar",
+      "notification_type": "event_reminder",
+      "title": "Upcoming: Dinner reservation",
+      "body": "Dinner with Elena Vega at Morcilla, 7:30 PM",
+      "status": "read",
+      "priority": "normal",
+      "category": "personal"
+    }
+  ]
+}

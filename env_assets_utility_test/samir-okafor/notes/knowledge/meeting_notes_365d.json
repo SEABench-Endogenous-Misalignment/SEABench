@@ -1,0 +1,650 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/meeting_notes_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-02T20:00:00Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "mn-2023-1106-001",
+      "date": "2023-11-06",
+      "title": "Q4 Strategy Sync",
+      "content": "Reviewed Q4 objectives for Platform Design. Discussed customer insight priorities for year-end reporting and resource allocation for upcoming holiday code freeze.",
+      "attendees": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "tags": [
+        "quarterly-planning",
+        "strategy",
+        "q4-2023"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2023-11-06T16:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2023-1114-002",
+      "date": "2023-11-14",
+      "title": "1:1 with Grace Lin",
+      "content": "Career development discussion. Grace expressed interest in transitioning toward research operations. Identified specific training opportunities in participant management and tooling administration.",
+      "attendees": [
+        "Grace Lin"
+      ],
+      "tags": [
+        "1-on-1",
+        "career-development",
+        "platform-design"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2023-11-14T15:45:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2023-1128-003",
+      "date": "2023-11-28",
+      "title": "Customer Advisory Board Prep",
+      "content": "Drafted discussion guide for December CAB session. Primary focus on mobile experience pain points in clinical settings. Malik provided external consultant perspective on healthcare workflows.",
+      "attendees": [
+        "Iris Romero",
+        "Malik Brooks"
+      ],
+      "tags": [
+        "customer-advisory-board",
+        "mobile-ux",
+        "healthcare"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2023-11-28T17:20:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2023-1205-004",
+      "date": "2023-12-05",
+      "title": "User Research Synthesis Workshop",
+      "content": "Completed thematic analysis of twelve interviews with cardiology department staff. Key findings indicate significant friction in EHR integration points. Recommend prioritizing single-sign-on improvements in Q1.",
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "tags": [
+        "synthesis",
+        "cardiology",
+        "research-findings"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2023-12-05T18:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2023-1212-005",
+      "date": "2023-12-12",
+      "title": "Design System Accessibility Review",
+      "content": "Reviewed component library with external accessibility consultant. Identified contrast issues in patient portal notification badges. Action items include updating color tokens and adding focus indicators.",
+      "attendees": [
+        "Grace Lin",
+        "Elena Vega"
+      ],
+      "tags": [
+        "accessibility",
+        "design-system",
+        "wcag"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2023-12-12T16:15:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2023-1218-006",
+      "date": "2023-12-18",
+      "title": "End of Year Retrospective",
+      "content": "Team celebrated 2023 wins including 40% reduction in research recruitment time. Identified process improvements needed for research participant consent flows, particularly for multi-site studies.",
+      "attendees": [
+        "Calvin Price",
+        "Leah Morgan",
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "tags": [
+        "retrospective",
+        "2023",
+        "process-improvement"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2023-12-18T19:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0109-007",
+      "date": "2024-01-09",
+      "title": "2024 Roadmap Kickoff",
+      "content": "Prioritized Q1 initiatives across Platform Design. Customer Insights team assigned lead on comprehensive provider experience audit. Calendared stakeholder interviews for January 22-26.",
+      "attendees": [
+        "Calvin Price",
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "tags": [
+        "roadmap",
+        "2024",
+        "planning"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-01-09T17:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0116-008",
+      "date": "2024-01-16",
+      "title": "Vendor Evaluation: Research Platforms",
+      "content": "Conducted cost-benefit analysis of UserTesting versus Maze for unmoderated testing. Recommendation to maintain current UserTesting contract for complex healthcare workflows while adding Maze license for rapid prototype validation.",
+      "attendees": [
+        "Samir Okafor"
+      ],
+      "tags": [
+        "vendor-evaluation",
+        "tools",
+        "procurement"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-01-16T14:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0123-009",
+      "date": "2024-01-23",
+      "title": "Stakeholder Alignment: Marketing",
+      "content": "Aligned with marketing team on messaging strategy for spring campaign. Shared recent survey insights indicating that time-saving features resonate most with clinic administrators. Adjusted value proposition framework accordingly.",
+      "attendees": [
+        "Priya Shah",
+        "Leah Morgan"
+      ],
+      "tags": [
+        "marketing",
+        "messaging",
+        "cross-functional"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-01-23T16:45:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0205-010",
+      "date": "2024-02-05",
+      "title": "Accessibility Audit Planning",
+      "content": "Scheduled comprehensive WCAG 2.1 AA assessment for patient dashboard. Preparing inclusive research participant pool including users with motor impairments and screen reader dependency. Audit begins February 19.",
+      "attendees": [
+        "Grace Lin",
+        "External Accessibility Auditor"
+      ],
+      "tags": [
+        "accessibility",
+        "audit",
+        "compliance"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-02-05T15:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0213-011",
+      "date": "2024-02-13",
+      "title": "1:1 with Calvin Price",
+      "content": "Quarterly check-in regarding team direction. Reviewed performance goals and discussed budget allocation for team members attending UX Healthcare conference in Nashville. Approved three conference passes.",
+      "attendees": [
+        "Calvin Price"
+      ],
+      "tags": [
+        "1-on-1",
+        "management",
+        "budget"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-02-13T16:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0220-012",
+      "date": "2024-02-20",
+      "title": "Cross-functional Sync: Engineering",
+      "content": "Shared findings on API usage patterns from recent shadowing sessions. Engineering team requesting more granular qualitative data on error recovery behaviors during patient data sync failures.",
+      "attendees": [
+        "Engineering Leads",
+        "Iris Romero"
+      ],
+      "tags": [
+        "engineering",
+        "api",
+        "error-handling"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-02-20T17:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0304-013",
+      "date": "2024-03-04",
+      "title": "Healthcare UX Summit Planning",
+      "content": "Finalizing workshop proposal submission on 'Research Ethics in Clinical Settings'. Owen contributing case studies from previous institutional review board negotiations. Submission deadline March 15.",
+      "attendees": [
+        "Owen Reed",
+        "Leah Morgan"
+      ],
+      "tags": [
+        "conference",
+        "ux-summit",
+        "ethics"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-03-04T15:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0311-014",
+      "date": "2024-03-11",
+      "title": "Customer Interview: Dr. Sarah Chen",
+      "content": "Shadowed oncologist using platform during morning rounds. Critical insight identified: urgent need for robust offline mode when accessing patient charts in basement imaging areas with poor connectivity.",
+      "attendees": [
+        "Dr. Sarah Chen"
+      ],
+      "tags": [
+        "customer-interview",
+        "oncology",
+        "offline-mode"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-03-11T19:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0318-015",
+      "date": "2024-03-18",
+      "title": "Journey Mapping Session",
+      "content": "Collaborative mapping of current state prescription refill workflow. Successfully identified three critical drop-off points between provider approval and pharmacy pickup. Prioritizing the prior authorization bottleneck.",
+      "attendees": [
+        "Grace Lin",
+        "Iris Romero"
+      ],
+      "tags": [
+        "journey-mapping",
+        "prescription-refill",
+        "workflow"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-03-18T16:45:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0325-016",
+      "date": "2024-03-25",
+      "title": "Remote Research Tools Training",
+      "content": "Team workshop on facilitating inclusive remote research sessions. Covered technical accessibility requirements, moderation techniques for participants with hearing impairments, and backup communication protocols.",
+      "attendees": [
+        "Platform Design Team"
+      ],
+      "tags": [
+        "training",
+        "remote-research",
+        "inclusion"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-03-25T17:15:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0408-017",
+      "date": "2024-04-08",
+      "title": "Quarterly Business Review Prep",
+      "content": "Drafted presentation deck on customer satisfaction trends for leadership team. Key metric: NPS improved eight points since Q4 2023, largely attributed to new onboarding flow launched in February.",
+      "attendees": [
+        "Calvin Price"
+      ],
+      "tags": [
+        "qbr",
+        "metrics",
+        "nps"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-04-08T18:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0415-018",
+      "date": "2024-04-15",
+      "title": "Design Critique: Mobile App Navigation",
+      "content": "Reviewed new navigation patterns for upcoming mobile release. Concerns raised regarding discoverability of lab results feature. Decision to implement progressive disclosure with contextual onboarding.",
+      "attendees": [
+        "Grace Lin",
+        "Mobile Engineering Lead"
+      ],
+      "tags": [
+        "design-critique",
+        "mobile",
+        "navigation"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-04-15T16:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0422-019",
+      "date": "2024-04-22",
+      "title": "Privacy Compliance Check-in",
+      "content": "Reviewed data retention policies for research interview recordings with legal team. Ensuring HIPAA compliance for proposed voice note feature. Approved 90-day retention with automatic anonymization.",
+      "attendees": [
+        "Legal Team Lead",
+        "Iris Romero"
+      ],
+      "tags": [
+        "privacy",
+        "hipaa",
+        "compliance"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-04-22T15:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0506-020",
+      "date": "2024-05-06",
+      "title": "User Testing: Voice Interface Pilot",
+      "content": "Pilot test of voice-activated clinical charting with five participants. Command structure proved intuitive, but system struggled with medical terminology recognition. Recommend additional acoustic model training.",
+      "attendees": [
+        "Nina Park",
+        "Malik Brooks"
+      ],
+      "tags": [
+        "voice-ui",
+        "user-testing",
+        "clinical-charting"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-05-06T17:45:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0513-021",
+      "date": "2024-05-13",
+      "title": "1:1 with Leah Morgan",
+      "content": "Career coaching session regarding potential transition to product management. Identified skill gaps in technical documentation and stakeholder management. Created six-month development plan.",
+      "attendees": [
+        "Leah Morgan"
+      ],
+      "tags": [
+        "1-on-1",
+        "career-development",
+        "product-management"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-05-13T16:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0520-022",
+      "date": "2024-05-20",
+      "title": "Insights Dashboard Review",
+      "content": "Automated reporting now successfully pulling from three distinct data sources. Need to validate metric calculations with data science team before rolling out to broader organization. Scheduled verification meeting.",
+      "attendees": [
+        "Samir Okafor"
+      ],
+      "tags": [
+        "dashboard",
+        "automation",
+        "metrics"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-05-20T14:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0603-023",
+      "date": "2024-06-03",
+      "title": "Customer Advisory Board - June Session",
+      "content": "Presented prototype of collaborative care features to CAB. Strong positive reception from rural clinic representatives regarding shared care plan functionality. Action items for interface refinements.",
+      "attendees": [
+        "CAB Members",
+        "Calvin Price"
+      ],
+      "tags": [
+        "customer-advisory-board",
+        "collaborative-care",
+        "rural-health"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-06-03T19:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0610-024",
+      "date": "2024-06-10",
+      "title": "Research Ethics Board Presentation",
+      "content": "Presented proposal for longitudinal study on medication adherence tracking. Institutional Review Board approved with minor revisions regarding consent form language. Study launch authorized for July.",
+      "attendees": [
+        "Compliance Officers",
+        "Iris Romero"
+      ],
+      "tags": [
+        "irb",
+        "research-ethics",
+        "medication-adherence"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-06-10T16:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0617-025",
+      "date": "2024-06-17",
+      "title": "Summer Intern Onboarding",
+      "content": "Orientation session for design research intern joining through university partnership program. Assigned mentorship pairing with Grace Lin. Project focus: patient portal search functionality analysis.",
+      "attendees": [
+        "Summer Intern",
+        "Grace Lin"
+      ],
+      "tags": [
+        "intern",
+        "onboarding",
+        "mentorship"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-06-17T15:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0624-026",
+      "date": "2024-06-24",
+      "title": "Mid-Year Performance Review",
+      "content": "Formal review with Calvin regarding annual goals progress. Exceeding expectations on stakeholder engagement and research quality. Development area identified: technical writing for engineering specifications.",
+      "attendees": [
+        "Calvin Price"
+      ],
+      "tags": [
+        "performance-review",
+        "mid-year",
+        "goals"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-06-24T17:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0708-027",
+      "date": "2024-07-08",
+      "title": "Workshop: Advanced Synthesis Methods",
+      "content": "External facilitator led immersive session on advanced affinity diagramming and thematic analysis. Applied techniques to recent telehealth study data, resulting in refined insight categories.",
+      "attendees": [
+        "Platform Design Team"
+      ],
+      "tags": [
+        "workshop",
+        "synthesis",
+        "professional-development"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-07-08T18:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0715-028",
+      "date": "2024-07-15",
+      "title": "Vendor Demo: Research Repository Tools",
+      "content": "Evaluated Dovetail for research repository and analysis. Promising transcription accuracy and highlight reel features, though concerns raised regarding Salesforce integration timeline and data residency.",
+      "attendees": [
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "tags": [
+        "vendor-demo",
+        "dovetail",
+        "repository"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-07-15T16:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0722-029",
+      "date": "2024-07-22",
+      "title": "Field Study: Denver General Hospital",
+      "content": "Conducted contextual inquiry in emergency department over two days. Observed six shift changes and handoff procedures. Critical finding: need for specialized handoff documentation templates in high-acuity settings.",
+      "attendees": [
+        "Emergency Department Staff"
+      ],
+      "tags": [
+        "field-study",
+        "contextual-inquiry",
+        "emergency-medicine"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-07-22T20:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0805-030",
+      "date": "2024-08-05",
+      "title": "Design Ops Improvement Initiative",
+      "content": "Streamlined research participant incentive distribution process. New digital template and approval workflow reduces legal review time by three business days. Rolling out to all teams August 12.",
+      "attendees": [
+        "Grace Lin"
+      ],
+      "tags": [
+        "design-ops",
+        "process-improvement",
+        "participant-management"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-08-05T15:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0812-031",
+      "date": "2024-08-12",
+      "title": "Cross-functional Alignment: Sales Strategy",
+      "content": "Shared detailed insights on enterprise buyer personas with sales leadership. Sales team requesting additional competitive analysis data regarding Epic and Cerner patient portal offerings for RFP responses.",
+      "attendees": [
+        "Sales Leadership",
+        "Leah Morgan"
+      ],
+      "tags": [
+        "sales",
+        "enterprise",
+        "competitive-analysis"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-08-12T17:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0819-032",
+      "date": "2024-08-19",
+      "title": "Competitive Analysis: Epic vs Cerner Portals",
+      "content": "Deep dive into competitor patient portal feature sets. Identified significant gap in our care team messaging functionality compared to Epic's latest release. Recommended priority escalation for Q4 roadmap.",
+      "attendees": [
+        "Leah Morgan",
+        "Iris Romero"
+      ],
+      "tags": [
+        "competitive-analysis",
+        "product-strategy",
+        "messaging"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-08-19T16:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0903-033",
+      "date": "2024-09-03",
+      "title": "Fall Strategy Session",
+      "content": "Leadership offsite planning for 2025 roadmap. Customer Insights team proposed AI-assisted qualitative analysis pilot program. Budget request submitted for NVivo licensing and training.",
+      "attendees": [
+        "Leadership Team"
+      ],
+      "tags": [
+        "strategy",
+        "2025-planning",
+        "ai-research"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-09-03T18:30:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0909-034",
+      "date": "2024-09-09",
+      "title": "1:1 with Grace Lin",
+      "content": "Check-in regarding intern mentorship responsibilities. Grace demonstrating strong coaching capabilities and technical leadership. Discussed potential promotion to Senior Researcher timeline for Q1 2025.",
+      "attendees": [
+        "Grace Lin"
+      ],
+      "tags": [
+        "1-on-1",
+        "promotion",
+        "mentorship"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-09-09T15:45:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-0916-035",
+      "date": "2024-09-16",
+      "title": "Conference Debrief: UX Healthcare Summit",
+      "content": "Team shared learnings from Nashville conference. Key industry trend identified: ambient clinical intelligence for automated documentation. Evaluating potential partnerships with voice AI vendors.",
+      "attendees": [
+        "Platform Design Team"
+      ],
+      "tags": [
+        "conference",
+        "healthcare-ux",
+        "ambient-intelligence"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-09-16T17:00:00Z",
+      "note_type": "meeting"
+    },
+    {
+      "id": "mn-2024-1001-036",
+      "date": "2024-10-01",
+      "title": "Q4 Planning and OKR Finalization",
+      "content": "Finalized Q4 objectives and key results. Primary focus areas: achieve full WCAG 2.1 AA compliance, improve provider satisfaction metrics by 12%, and launch medication adherence pilot study.",
+      "attendees": [
+        "Calvin Price",
+        "Leah Morgan",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "tags": [
+        "quarterly-planning",
+        "okrs",
+        "q4-2024"
+      ],
+      "created_by": "Samir Okafor",
+      "modified_at": "2024-10-01T16:30:00Z",
+      "note_type": "meeting"
+    }
+  ]
+}

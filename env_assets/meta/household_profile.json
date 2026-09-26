@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/household_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-29T12:00:00Z"
+  },
+  "records": [
+    {
+      "id": "hh-001",
+      "date": "2018-09-01",
+      "address": "123 Maple Street, Apt 4B",
+      "city": "Springfield",
+      "postal_code": "12345",
+      "occupants_count": 2,
+      "dwelling_type": "apartment"
+    },
+    {
+      "id": "resident-alice",
+      "timestamp": "2026-01-15T08:30:00Z",
+      "full_name": "Alice Chen",
+      "role": "primary_leaseholder",
+      "email": "alice.chen@velocitech.io",
+      "phone": "415-892-3412"
+    },
+    {
+      "id": "resident-bob",
+      "timestamp": "2026-01-15T08:30:00Z",
+      "full_name": "Bob Smith",
+      "role": "co_resident",
+      "email": "bob.smith@apex-solutions.net",
+      "phone": "212-442-9981"
+    },
+    {
+      "id": "lease-2025-001",
+      "period_start": "2025-07-01",
+      "period_end": "2026-06-30",
+      "monthly_rent": 2400,
+      "landlord_entity": "Springfield Property Management",
+      "lease_type": "fixed_term"
+    },
+    {
+      "id": "ins-home-789",
+      "start_time": "2025-01-01T00:00:00Z",
+      "end_time": "2026-01-01T00:00:00Z",
+      "provider": "SecureHome Insurance",
+      "policy_type": "renters_insurance",
+      "coverage_amount": 50000
+    },
+    {
+      "id": "utility-electric-202605",
+      "period_start": "2026-05-01",
+      "period_end": "2026-05-31",
+      "utility_type": "electricity",
+      "provider": "City Power & Light",
+      "usage_kwh": 450,
+      "amount_due": 142.35
+    }
+  ]
+}

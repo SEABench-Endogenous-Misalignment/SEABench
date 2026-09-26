@@ -1,0 +1,378 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/inbox/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-06-15T14:32:18Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_a7k3m9p2x8",
+      "timestamp": "2024-06-15T09:15:00-04:00",
+      "from": "nina.park@cedarpost.net",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Don't forget - Milo's dental cleaning at 4pm",
+      "body_preview": "Hey love, I put the reminder in the shared calendar but wanted to make sure you saw it. The vet said to withhold food after 8am...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_b2v5n1q7w4",
+      "timestamp": "2024-06-10T14:22:00-04:00",
+      "from": "calvin.price@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "RE: Q3 Roadmap Revision - Budget Constraints",
+      "body_preview": "Elena, after the finance review, we're looking at a 15% cut to the research operations budget. I need your input on which studies...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_c9x4k2m8p1",
+      "timestamp": "2024-06-05T11:03:00-04:00",
+      "from": "s.chen@raleighintegrativehealth.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Lab Results Available - Patient Portal",
+      "body_preview": "Dear Ms. Morales, Your recent laboratory results from June 3rd are now available in your secure patient portal. Please log in...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_d1y6l3n9q2",
+      "timestamp": "2024-05-28T16:45:00-04:00",
+      "from": "leah.morgan@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "1:1 Notes and Action Items",
+      "body_preview": "Hi Elena, Thanks for the sync yesterday. Attached are the notes from our discussion regarding the platform redesign timeline...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_e3z7m4o1r5",
+      "timestamp": "2024-05-22T10:30:00-04:00",
+      "from": "alerts@piedmontcb.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Unusual Activity Alert - Card ending in 7842",
+      "body_preview": "We detected a transaction of $4,200.00 at Raleigh Home Furnishings on 05/21. If this was not you, please call us immediately...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_f4a8n5p2s6",
+      "timestamp": "2024-05-18T20:15:00-04:00",
+      "from": "owen.reed@fieldstone.io",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Photos from the Falls Lake trail",
+      "body_preview": "Hey E! Finally uploaded those shots from last weekend. The lighting at the overlook was perfect. Check out the one where...",
+      "is_read": false,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_g5b9o6q3t7",
+      "timestamp": "2024-05-14T13:00:00-04:00",
+      "from": "grace.lin@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Research Participant NDA - Execute by Friday",
+      "body_preview": "Hi Elena, The legal team finalized the NDA for the enterprise user study participants. Please review and execute the attached...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_h6c0p7r4u8",
+      "timestamp": "2024-05-08T09:00:00-04:00",
+      "from": "iris.romero@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "subject": "Security Training Compliance - Action Required",
+      "body_preview": "Team, Several members of Platform Design are out of compliance with the mandatory security awareness training due by May 31...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_i7d1q8s5v9",
+      "timestamp": "2024-05-02T17:30:00-04:00",
+      "from": "dorothy.morales@gmail.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Summer cottage rental ideas",
+      "body_preview": "Hi sweetheart, Your father and I were thinking of renting that cottage in Avon again this July. Would you and Nina want to join...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_j8e2r9t6w0",
+      "timestamp": "2024-04-28T08:45:00-04:00",
+      "from": "priya.shah@meridian-consulting.net",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Wedding venue deposit - finally paid!",
+      "body_preview": "Elena! I transferred the deposit for the Fearrington Village barn today. Can you believe it's only three months away? I need...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_k9f3s0u7x1",
+      "timestamp": "2024-04-22T12:20:00-04:00",
+      "from": "malik.brooks@posteo.net",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Thank you for the referral",
+      "body_preview": "Elena, I wanted to thank you again for connecting me with the team at Brightline. The interview went great and I'm optimistic...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_l0g4t1v8y2",
+      "timestamp": "2024-04-18T15:10:00-04:00",
+      "from": "r.torres@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "FSA Claim Denied - Explanation of Benefits",
+      "body_preview": "Hi Elena, Your recent claim for $285.00 (Provider: Raleigh Integrative Health) was denied due to incorrect coding. Please resubmit...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_m1h5u2w9z3",
+      "timestamp": "2024-04-12T10:00:00-04:00",
+      "from": "elena.vega@designcollective.studio",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Next Saturday at the arboretum?",
+      "body_preview": "Hey! Are we still on for the plant sale next weekend? I can pick you up around 9 if that works. Also, how are you feeling after...",
+      "is_read": false,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_n2i6v3x0a4",
+      "timestamp": "2024-04-05T11:30:00-04:00",
+      "from": "nina.park@cedarpost.net",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Fwd: Introduction to Marcus Chen at Atlantic Mortgage",
+      "body_preview": "Fyi below - he's the broker Sarah recommended. Rates are looking decent right now and I think we should get pre-approved before...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_o3j7w4y1b5",
+      "timestamp": "2024-03-28T14:00:00-04:00",
+      "from": "leah.morgan@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Performance Calibration Notes",
+      "body_preview": "Elena, Attached are the final calibration notes for your direct reports. Please review before our meeting with HR next Tuesday...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_p4k8x5z2c6",
+      "timestamp": "2024-03-25T09:15:00-04:00",
+      "from": "calvin.price@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "subject": "Vendor Contract Renewal - UserTesting Platform",
+      "body_preview": "Team, The enterprise license renewal is due April 15th. Elena, I need your usage projections for the next fiscal year to negotiate...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_q5l9y6a3d7",
+      "timestamp": "2024-03-20T16:00:00-04:00",
+      "from": "iris.romero@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Quarterly Access Review - Platform Design",
+      "body_preview": "Hi Elena, Per SOC2 requirements, please certify the access permissions for your team members by March 31. The spreadsheet is...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_r6m0z7b4e8",
+      "timestamp": "2024-03-15T11:45:00-04:00",
+      "from": "grace.lin@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Design System Survey Results",
+      "body_preview": "Hi Elena, The internal survey on the new design system adoption closed yesterday. I've compiled the results in the attached deck...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_s7n1a8c5f9",
+      "timestamp": "2024-03-08T08:30:00-05:00",
+      "from": "owen.reed@fieldstone.io",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Wolfpack vs Duke tickets confirmed",
+      "body_preview": "Got us two seats in section 118 for the game on the 15th. Let me know if Nina wants to come too, I can probably scrounge up...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_t8o2b9d6g0",
+      "timestamp": "2024-03-01T13:20:00-05:00",
+      "from": "priya.shah@meridian-consulting.net",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Dress fitting moved to Sunday",
+      "body_preview": "Hi Elena, Bad news - the bridal shop needs to reschedule our appointment to Sunday at 2pm. I know that's your usual yoga time...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_u9p3c0e7h1",
+      "timestamp": "2024-02-25T10:00:00-05:00",
+      "from": "s.chen@raleighintegrativehealth.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Follow-up Appointment Availability",
+      "body_preview": "Dear Ms. Morales, We have availability for your follow-up on March 3rd at 10:00am or March 5th at 2:00pm. Please reply with...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_v0q4d1f8i2",
+      "timestamp": "2024-02-20T09:00:00-05:00",
+      "from": "payroll@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "W-2 Tax Document Now Available",
+      "body_preview": "Your 2023 W-2 form is now available in the employee portal. Please review for accuracy and download for your records...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_w1r5e2g9j3",
+      "timestamp": "2024-02-14T18:00:00-05:00",
+      "from": "reservations@bida-raleigh.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Reservation Confirmation - M voxel",
+      "body_preview": "Reservation confirmed for 2 guests on February 14, 2024 at 7:30pm under Morales. We look forward to hosting you and Ms. Park...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_x2s6f3h0k4",
+      "timestamp": "2024-02-08T11:00:00-05:00",
+      "from": "malik.brooks@posteo.net",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Quick question about your team",
+      "body_preview": "Hi Elena, Hope you're well! I saw that Brightline posted a Senior UX Researcher role. Is that on your team reporting to you...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_y3t7g4i1l5",
+      "timestamp": "2024-01-30T14:00:00-05:00",
+      "from": "elena.vega@designcollective.studio",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "That new coffee shop on Hillsborough",
+      "body_preview": "Have you tried the new place that opened where the old pharmacy used to be? They have incredible cortados and the wifi is...",
+      "is_read": false,
+      "folder": "inbox",
+      "importance": "low"
+    },
+    {
+      "id": "msg_z4u8h5j2m6",
+      "timestamp": "2024-01-22T09:30:00-05:00",
+      "from": "billing@raleighcityservices.gov",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "January 2024 Utility Statement",
+      "body_preview": "Your utility bill for period ending January 20 is $187.43. Payment is due February 15. View your detailed usage breakdown...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    },
+    {
+      "id": "msg_a5v9i6k3n7",
+      "timestamp": "2024-01-15T10:15:00-05:00",
+      "from": "dorothy.morales@gmail.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Tax documents for 2023",
+      "body_preview": "Hi honey, I'm sending over the forms from your investment account grandpa set up. The 1099-DIV is attached. Let me know if...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "high"
+    },
+    {
+      "id": "msg_b6w0j7l4o8",
+      "timestamp": "2023-12-20T11:00:00-05:00",
+      "from": "calvin.price@brightlinesystems.com",
+      "to": [
+        "elena.morales@cedargrovestudio.com"
+      ],
+      "subject": "Year-end planning and 2024 OKRs",
+      "body_preview": "Elena, As we wrap up Q4, I'd like to schedule time to review your contributions this year and discuss your objectives for next...",
+      "is_read": true,
+      "folder": "inbox",
+      "importance": "normal"
+    }
+  ]
+}

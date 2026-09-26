@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/active_tasks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-14T20:30:00Z",
+    "source": "task_manager_sync"
+  },
+  "records": [
+    {
+      "id": "task-78432",
+      "title": "Finalize participant consent forms for diabetes app study",
+      "date": "2024-01-15",
+      "status": "in_progress",
+      "priority": "high",
+      "assigned_to": "Maya Patel",
+      "project": "Riverton UX Research",
+      "tags": [
+        "compliance",
+        "q1-2024"
+      ]
+    },
+    {
+      "id": "task-78433",
+      "title": "Schedule lab equipment calibration",
+      "start_time": "2024-01-16T09:00:00-05:00",
+      "end_time": "2024-01-16T10:30:00-05:00",
+      "status": "pending",
+      "priority": "medium",
+      "location": "Building C, Room 302",
+      "tags": [
+        "maintenance"
+      ]
+    },
+    {
+      "id": "task-78434",
+      "title": "Review Priya's lease renewal draft",
+      "timestamp": "2024-01-14T16:45:00Z",
+      "status": "completed",
+      "priority": "low",
+      "assigned_to": "Maya Patel",
+      "notes": "Check clause about pet policy"
+    },
+    {
+      "id": "task-78435",
+      "title": "Submit quarterly budget forecast",
+      "date": "2024-01-20",
+      "status": "pending",
+      "priority": "high",
+      "assigned_to": "Maya Patel",
+      "department": "UX Research",
+      "tags": [
+        "finance",
+        "admin"
+      ]
+    },
+    {
+      "id": "task-78436",
+      "title": "Call Malik about weekend hiking plans",
+      "timestamp": "2024-01-15T14:00:00-05:00",
+      "status": "pending",
+      "priority": "low",
+      "contact": "Malik Brooks",
+      "tags": [
+        "personal"
+      ]
+    },
+    {
+      "id": "task-78437",
+      "title": "Prepare slides for All Hands meeting",
+      "period_start": "2024-01-22",
+      "period_end": "2024-01-24",
+      "status": "in_progress",
+      "priority": "medium",
+      "assigned_to": "Maya Patel",
+      "tags": [
+        "presentation",
+        "all-hands"
+      ]
+    }
+  ]
+}

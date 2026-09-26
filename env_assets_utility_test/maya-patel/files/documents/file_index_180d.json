@@ -1,0 +1,450 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/documents/file_index_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-25T14:32:18Z",
+    "source": "local_document_indexer"
+  },
+  "records": [
+    {
+      "id": "doc_7f8a9b2c1d3e",
+      "filename": "Q3_Design_System_Audit.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Strategy/",
+      "size_bytes": 2457600,
+      "timestamp": "2024-10-20T16:45:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "quarterly_review",
+        "design_systems"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_3e4f5a6b7c8d",
+      "filename": "Home_Renovation_Quotes.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "path": "/Users/maya.patel/Documents/Personal/Home/2024/",
+      "size_bytes": 892400,
+      "timestamp": "2024-10-18T09:30:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "renovation",
+        "budget",
+        "nina"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_9a8b7c6d5e4f",
+      "filename": "Maya_Patel_Resume_2024.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "path": "/Users/maya.patel/Documents/Career/",
+      "size_bytes": 450560,
+      "timestamp": "2024-09-15T14:22:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "resume",
+        "career",
+        "cv"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_1b2c3d4e5f6a",
+      "filename": "Japan_Vacation_Itinerary.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Travel/2024/",
+      "size_bytes": 1843200,
+      "timestamp": "2024-09-10T11:15:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "travel",
+        "japan",
+        "vacation",
+        "nina"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_7c8d9e0f1a2b",
+      "filename": "Tax_Return_2023_Patel.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Finance/Taxes/2023/",
+      "size_bytes": 3145728,
+      "timestamp": "2024-04-15T23:59:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "taxes",
+        "2023",
+        "irs",
+        "important"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_4d5e6f7a8b9c",
+      "filename": "Client_Onboarding_Template_v3.pptx",
+      "file_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Templates/",
+      "size_bytes": 1258291,
+      "timestamp": "2024-10-22T10:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "template",
+        "client_onboarding",
+        "strategy"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_2a3b4c5d6e7f",
+      "filename": "Nina_Birthday_Planning_2024.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "path": "/Users/maya.patel/Documents/Personal/Events/",
+      "size_bytes": 280000,
+      "timestamp": "2024-10-12T20:45:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "birthday",
+        "nina",
+        "planning",
+        "family"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_8b9c0d1e2f3a",
+      "filename": "Mortgage_Statement_Q3_2024.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Finance/Mortgage/",
+      "size_bytes": 524288,
+      "timestamp": "2024-10-01T08:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "mortgage",
+        "banking",
+        "quarterly"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_5c6d7e8f9a0b",
+      "filename": "Auto_Insurance_Renewal_2024.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Insurance/",
+      "size_bytes": 786400,
+      "timestamp": "2024-08-20T16:30:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "insurance",
+        "auto",
+        "policy"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_1e2f3a4b5c6d",
+      "filename": "Annual_Health_Screening_Results.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Medical/2024/",
+      "size_bytes": 1153433,
+      "timestamp": "2024-07-15T09:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "medical",
+        "health",
+        "confidential"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_9f0a1b2c3d4e",
+      "filename": "Project_Delta_Wireframes.fig",
+      "file_type": "application/figma",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Projects/Delta/",
+      "size_bytes": 4523456,
+      "timestamp": "2024-10-23T15:20:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "figma",
+        "wireframes",
+        "project_delta",
+        "design"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_6a7b8c9d0e1f",
+      "filename": "Team_Offsite_Budget_2025.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Events/",
+      "size_bytes": 340000,
+      "timestamp": "2024-10-19T11:45:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "budget",
+        "offsite",
+        "2025",
+        "team"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_2b3c4d5e6f7a",
+      "filename": "Kitchen_Inspiration_Board.jpg",
+      "file_type": "image/jpeg",
+      "path": "/Users/maya.patel/Documents/Personal/Home/Renovation/Photos/",
+      "size_bytes": 2560000,
+      "timestamp": "2024-09-28T14:10:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "design",
+        "kitchen",
+        "inspiration",
+        "home"
+      ],
+      "source_device": "phone_sync"
+    },
+    {
+      "id": "doc_7d8e9f0a1b2c",
+      "filename": "Passport_Renewal_Application.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Travel/Documents/",
+      "size_bytes": 450000,
+      "timestamp": "2024-08-05T10:30:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "passport",
+        "travel",
+        "government"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_4e5f6a7b8c9d",
+      "filename": "Investment_Portfolio_Q3_2024.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Finance/Investments/",
+      "size_bytes": 980000,
+      "timestamp": "2024-10-05T09:15:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "investments",
+        "portfolio",
+        "quarterly",
+        "finance"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_0f1a2b3c4d5e",
+      "filename": "Wedding_Photos_2019_Backup.zip",
+      "file_type": "application/zip",
+      "path": "/Users/maya.patel/Documents/Personal/Photos/Archives/",
+      "size_bytes": 52428800,
+      "timestamp": "2024-06-20T22:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "photos",
+        "wedding",
+        "nina",
+        "backup",
+        "archive"
+      ],
+      "source_device": "external_ssd"
+    },
+    {
+      "id": "doc_8c9d0e1f2a3b",
+      "filename": "Software_License_Inventory.txt",
+      "file_type": "text/plain",
+      "path": "/Users/maya.patel/Documents/Personal/Admin/",
+      "size_bytes": 45000,
+      "timestamp": "2024-05-15T13:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "licenses",
+        "software",
+        "inventory"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_3g4h5i6j7k8l",
+      "filename": "Client_Feedback_Session_Notes.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Meetings/",
+      "size_bytes": 125000,
+      "timestamp": "2024-10-21T17:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "meeting_notes",
+        "client_feedback",
+        "strategy"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_1m2n3o4p5q6r",
+      "filename": "HL7_Interface_Specifications_v2.3.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Technical/",
+      "size_bytes": 2100000,
+      "timestamp": "2024-10-16T14:30:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "technical",
+        "hl7",
+        "specs",
+        "healthcare"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_7s8t9u0v1w2x",
+      "filename": "Personal_Budget_2024_Master.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "path": "/Users/maya.patel/Documents/Personal/Finance/Budget/",
+      "size_bytes": 520000,
+      "timestamp": "2024-10-24T08:45:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "budget",
+        "personal",
+        "finance",
+        "tracking"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_4y5z6a7b8c9d",
+      "filename": "Medical_Receipts_2024_Collected.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Medical/Receipts/",
+      "size_bytes": 1800000,
+      "timestamp": "2024-10-08T19:20:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "medical",
+        "receipts",
+        "insurance_claim"
+      ],
+      "source_device": "phone_sync"
+    },
+    {
+      "id": "doc_2e3f4g5h6i7j",
+      "filename": "Travel_Rewards_Programs_Summary.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Travel/Loyalty/",
+      "size_bytes": 320000,
+      "timestamp": "2024-09-30T12:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "travel",
+        "rewards",
+        "loyalty",
+        "points"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_9k0l1m2n3o4p",
+      "filename": "Brightline_Employee_Handbook_2024.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/HR/",
+      "size_bytes": 4800000,
+      "timestamp": "2024-09-01T09:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "hr",
+        "handbook",
+        "policies",
+        "employment"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_5q6r7s8t9u0v",
+      "filename": "Design_Tokens_Primitive_Spec.json",
+      "file_type": "application/json",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Design_System/Tokens/",
+      "size_bytes": 89000,
+      "timestamp": "2024-10-23T11:30:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "design_tokens",
+        "json",
+        "specification",
+        "code"
+      ],
+      "source_device": "work_laptop"
+    },
+    {
+      "id": "doc_1w2x3y4z5a6b",
+      "filename": "Laurel_Creek_Lease_Agreement_2024.pdf",
+      "file_type": "application/pdf",
+      "path": "/Users/maya.patel/Documents/Personal/Home/Legal/",
+      "size_bytes": 1500000,
+      "timestamp": "2024-08-12T16:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "lease",
+        "legal",
+        "housing",
+        "6452_laurel_creek"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_8c7d6e5f4g3h",
+      "filename": "Subaru_Outback_Maintenance_Log.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "path": "/Users/maya.patel/Documents/Personal/Auto/",
+      "size_bytes": 180000,
+      "timestamp": "2024-10-17T10:15:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "auto",
+        "maintenance",
+        "subaru",
+        "log"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_2i3j4k5l6m7n",
+      "filename": "Parents_Visit_Nov_2024_Schedule.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "path": "/Users/maya.patel/Documents/Personal/Family/",
+      "size_bytes": 95000,
+      "timestamp": "2024-10-14T20:30:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "family",
+        "visit",
+        "parents",
+        "schedule"
+      ],
+      "source_device": "personal_macbook"
+    },
+    {
+      "id": "doc_0o1p2q3r4s5t",
+      "filename": "Q4_2024_Goals_and_KPIs.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "path": "/Users/maya.patel/Documents/Work/Brightline/Planning/",
+      "size_bytes": 165000,
+      "timestamp": "2024-10-25T09:00:00Z",
+      "owner": "maya.patel",
+      "tags": [
+        "goals",
+        "q4",
+        "2024",
+        "kpi",
+        "planning"
+      ],
+      "source_device": "work_laptop"
+    }
+  ]
+}

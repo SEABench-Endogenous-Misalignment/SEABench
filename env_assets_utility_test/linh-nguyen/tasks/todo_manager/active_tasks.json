@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/active_tasks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-18T14:32:18Z",
+    "source": "todoist_export"
+  },
+  "records": [
+    {
+      "id": "tsk_2847a9f3",
+      "title": "Review Q3 data pipeline documentation",
+      "status": "in_progress",
+      "priority": "high",
+      "timestamp": "2024-01-15T09:23:00Z",
+      "project": "Atlas Civic Partners Internal",
+      "owner_email": "linh.nguyen@riverbendmail.com"
+    },
+    {
+      "id": "tsk_5b2c1d8e",
+      "title": "Schedule calibration meeting with Leah Morgan",
+      "status": "pending",
+      "priority": "medium",
+      "date": "2024-01-18",
+      "context": "work",
+      "assignee": "Linh Nguyen"
+    },
+    {
+      "id": "tsk_9f4e2b1c",
+      "title": "Update Iris on house renovation timeline",
+      "status": "pending",
+      "priority": "low",
+      "start_time": "2024-01-20T10:00:00-05:00",
+      "category": "household",
+      "related_contact": "iris.romero@meadowmail.co"
+    },
+    {
+      "id": "tsk_3a8d7f2e",
+      "title": "Prepare presentation for town hall",
+      "status": "in_progress",
+      "priority": "high",
+      "end_time": "2024-01-25T09:00:00Z",
+      "created": "2024-01-10",
+      "department": "Product Operations"
+    },
+    {
+      "id": "tsk_7c1b9a4d",
+      "title": "Call dentist to reschedule appointment",
+      "status": "pending",
+      "priority": "medium",
+      "period_start": "2024-01-19T08:00:00-05:00",
+      "period_end": "2024-01-19T17:00:00-05:00",
+      "location": "Pittsburgh"
+    },
+    {
+      "id": "tsk_2e5f8b3a",
+      "title": "Research venue options for team offsite",
+      "status": "completed",
+      "priority": "medium",
+      "timestamp": "2024-01-16T13:45:00Z",
+      "completed_date": "2024-01-16",
+      "collaborators": [
+        "Calvin Price",
+        "Grace Lin"
+      ]
+    }
+  ]
+}

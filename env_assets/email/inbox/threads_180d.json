@@ -1,0 +1,476 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/inbox/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-29T15:00:00Z"
+  },
+  "records": [
+    {
+      "id": "thread_001",
+      "timestamp": "2026-06-28T09:23:11Z",
+      "subject": "Re: Q3 Budget Review - Action Required",
+      "sender": {
+        "name": "Michael Torres",
+        "email": "m.torres@innovatech-solutions.com"
+      },
+      "participants": [
+        "m.torres@innovatech-solutions.com",
+        "alice@mailhaven.net"
+      ],
+      "message_count": 4,
+      "unread": true,
+      "category": "work",
+      "snippet": "Please review the attached spreadsheet and confirm the travel allocations by EOD. I've highlighted the discrepancies we discussed..."
+    },
+    {
+      "id": "thread_002",
+      "timestamp": "2026-06-27T16:45:02Z",
+      "subject": "Unusual Activity Alert - Account ending in 4582",
+      "sender": {
+        "name": "SecureBank Alerts",
+        "email": "alerts@securetrust.bank"
+      },
+      "participants": [
+        "alerts@securetrust.bank"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "finance",
+      "snippet": "We noticed a login attempt from a new device in Seattle, WA. If this was you, no action is needed. If not, please contact us immediately."
+    },
+    {
+      "id": "thread_003",
+      "timestamp": "2026-06-26T08:10:33Z",
+      "subject": "Library Reminder: Books Due Soon",
+      "sender": {
+        "name": "Metro Public Library",
+        "email": "notices@cityarchives.org"
+      },
+      "participants": [
+        "notices@cityarchives.org"
+      ],
+      "message_count": 1,
+      "unread": true,
+      "category": "personal",
+      "snippet": "The following items are due on 2026-06-29: 'Project Hail Mary' (Barcode: 9821), 'Meditation Guide' (Barcode: 3345). Renew online or visit a branch."
+    },
+    {
+      "id": "thread_004",
+      "timestamp": "2026-06-25T14:22:18Z",
+      "subject": "Your Amazon Order #112-9546321-8841123",
+      "sender": {
+        "name": "Amazon",
+        "email": "ship-confirm@rapidretail.com"
+      },
+      "participants": [
+        "ship-confirm@rapidretail.com"
+      ],
+      "message_count": 2,
+      "unread": false,
+      "category": "shopping",
+      "snippet": "Your order of Wireless Noise Cancelling Headphones and 2 other items has shipped. Track your package via the link below. Expected delivery: June 27."
+    },
+    {
+      "id": "thread_005",
+      "timestamp": "2026-06-24T11:05:47Z",
+      "subject": "Re: Weekend hiking plans?",
+      "sender": {
+        "name": "Sarah Chen",
+        "email": "sarah.chen@socialconnect.io"
+      },
+      "participants": [
+        "sarah.chen@socialconnect.io",
+        "alice@mailhaven.net",
+        "david.kim@socialconnect.io"
+      ],
+      "message_count": 7,
+      "unread": false,
+      "category": "social",
+      "snippet": "Great! I'll bring the trail mix and first aid kit. Let's meet at the trailhead at 8 AM sharp. David, can you handle the parking pass?"
+    },
+    {
+      "id": "thread_006",
+      "timestamp": "2026-06-22T19:30:05Z",
+      "subject": "Invitation: Project Sync - June 23, 2026",
+      "sender": {
+        "name": "calendar@innovatech-solutions.com",
+        "email": "calendar@innovatech-solutions.com"
+      },
+      "participants": [
+        "calendar@innovatech-solutions.com",
+        "alice@mailhaven.net"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "calendar",
+      "snippet": "Alice has accepted your invitation to 'Project Sync' on Tuesday, June 23, 2026 at 10:00 AM - 11:00 AM (Conference Room B)."
+    },
+    {
+      "id": "thread_007",
+      "timestamp": "2026-06-20T07:15:22Z",
+      "subject": "Action Required: Membership Renewal",
+      "sender": {
+        "name": "Urban Fitness Club",
+        "email": "billing@urbanwellness.com"
+      },
+      "participants": [
+        "billing@urbanwellness.com",
+        "alice@mailhaven.net"
+      ],
+      "message_count": 3,
+      "unread": true,
+      "category": "fitness",
+      "snippet": "Your annual membership expires on July 15, 2026. Renew now to maintain your preferred rate of $45/month. Update payment method if needed."
+    },
+    {
+      "id": "thread_008",
+      "timestamp": "2026-06-18T13:40:11Z",
+      "subject": "Your prescription is ready for pickup",
+      "sender": {
+        "name": "Westside Pharmacy",
+        "email": "notifications@westpharma.com"
+      },
+      "participants": [
+        "notifications@westpharma.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "health",
+      "snippet": "Prescription #8847 for Alice [REDACTED] is ready. Pick up at your convenience during business hours (9 AM - 8 PM). Questions? Call us."
+    },
+    {
+      "id": "thread_009",
+      "timestamp": "2026-06-15T09:55:00Z",
+      "subject": "Re: Therapy Session Notes - June 12",
+      "sender": {
+        "name": "Dr. Emily Watson",
+        "email": "e.watson@harbortherapy.net"
+      },
+      "participants": [
+        "e.watson@harbortherapy.net",
+        "alice@protonmail.com"
+      ],
+      "message_count": 2,
+      "unread": false,
+      "category": "health",
+      "snippet": "As we discussed, please try the breathing exercises before bed. I've attached the resource sheet. See you next Thursday at 4 PM."
+    },
+    {
+      "id": "thread_010",
+      "timestamp": "2026-06-14T16:20:45Z",
+      "subject": "Refund Processed - Order #44219",
+      "sender": {
+        "name": "REI Customer Service",
+        "email": "orders@summitoutdoor.com"
+      },
+      "participants": [
+        "orders@summitoutdoor.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "shopping",
+      "snippet": "Your refund of $127.50 has been processed to your Visa ending in 8841. Please allow 3-5 business days for the credit to appear."
+    },
+    {
+      "id": "thread_011",
+      "timestamp": "2026-06-12T08:05:33Z",
+      "subject": "June Electric Bill - Due June 30",
+      "sender": {
+        "name": "City Power & Utilities",
+        "email": "billing@microtechsupply.com"
+      },
+      "participants": [
+        "billing@microtechsupply.com"
+      ],
+      "message_count": 1,
+      "unread": true,
+      "category": "utilities",
+      "snippet": "Amount Due: $84.33. Account: 7742-9813. Pay online to avoid late fees. Usage was slightly higher than last month due to cooling season."
+    },
+    {
+      "id": "thread_012",
+      "timestamp": "2026-06-10T11:30:18Z",
+      "subject": "Flight Confirmation: AS 342 Seattle to Boston",
+      "sender": {
+        "name": "Alaska Airlines",
+        "email": "confirmations@northernair.com"
+      },
+      "participants": [
+        "confirmations@northernair.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "travel",
+      "snippet": "Confirmation Code: ABC123. Departing SEA at 6:00 AM on July 14, 2026. Seat 12F (Window). Check in opens 24 hours prior."
+    },
+    {
+      "id": "thread_013",
+      "timestamp": "2026-06-08T15:45:52Z",
+      "subject": "Book Club - July Selection",
+      "sender": {
+        "name": "Rachel Green",
+        "email": "rachel.g@literarycircle.org"
+      },
+      "participants": [
+        "rachel.g@literarycircle.org",
+        "alice@protonmail.com",
+        "5 more"
+      ],
+      "message_count": 12,
+      "unread": false,
+      "category": "social",
+      "snippet": "We'll be reading 'The Midnight Library' for our July 20th meetup at Joanna's house. Alice, you're bringing the wine again, right?"
+    },
+    {
+      "id": "thread_014",
+      "timestamp": "2026-06-05T10:12:07Z",
+      "subject": "Your May Statement is Available",
+      "sender": {
+        "name": "Chase Credit Cards",
+        "email": "statements@nationalmercantile.bank"
+      },
+      "participants": [
+        "statements@nationalmercantile.bank"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "finance",
+      "snippet": "Your statement for account ending in 4389 is ready. New balance: $1,247.55. Minimum payment due: $35.00 by June 25, 2026."
+    },
+    {
+      "id": "thread_015",
+      "timestamp": "2026-06-03T14:28:39Z",
+      "subject": "Weekly Newsletter: Financial Planning Tips",
+      "sender": {
+        "name": "NerdWallet",
+        "email": "newsletter@financewise.net"
+      },
+      "participants": [
+        "newsletter@financewise.net"
+      ],
+      "message_count": 1,
+      "unread": true,
+      "category": "subscription",
+      "snippet": "5 ways to optimize your emergency fund in a high-interest environment. Plus: Understanding Series I Bonds as a savings vehicle."
+    },
+    {
+      "id": "thread_016",
+      "timestamp": "2026-06-01T09:00:15Z",
+      "subject": "Scheduled Maintenance: Email System June 2",
+      "sender": {
+        "name": "IT Support",
+        "email": "itsupport@acmeenterprises.com"
+      },
+      "participants": [
+        "itsupport@acmeenterprises.com",
+        "all-staff@acme-corp.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "work",
+      "snippet": "The email system will be down for maintenance on June 2 from 12:00 AM - 4:00 AM PST. Plan accordingly for critical communications."
+    },
+    {
+      "id": "thread_017",
+      "timestamp": "2026-05-28T17:55:22Z",
+      "subject": "Receipt from Whole Foods Market",
+      "sender": {
+        "name": "Whole Foods",
+        "email": "receipts@freshmarket.com"
+      },
+      "participants": [
+        "receipts@freshmarket.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "shopping",
+      "snippet": "Thanks for shopping with us. Total: $67.42. Items included: Organic Kale, Almond Milk, Salmon Fillet. View full receipt online."
+    },
+    {
+      "id": "thread_018",
+      "timestamp": "2026-05-25T12:10:08Z",
+      "subject": "Yoga Schedule Update - Summer Hours",
+      "sender": {
+        "name": "Serenity Yoga Studio",
+        "email": "admin@serenity-wellness.com"
+      },
+      "participants": [
+        "admin@serenity-wellness.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "fitness",
+      "snippet": "Starting July 1st, we'll be adding a 7 AM sunrise class on Tuesdays. Book your spots early as they fill up quickly!"
+    },
+    {
+      "id": "thread_019",
+      "timestamp": "2026-05-20T08:45:30Z",
+      "subject": "Lab Results Available on Patient Portal",
+      "sender": {
+        "name": "Sunrise Medical Group",
+        "email": "noreply@sunrise-health.com"
+      },
+      "participants": [
+        "noreply@sunrise-health.com"
+      ],
+      "message_count": 1,
+      "unread": true,
+      "category": "health",
+      "snippet": "Your recent lab results have been posted to your secure patient portal. Please log in to view. Contact your provider with questions."
+    },
+    {
+      "id": "thread_020",
+      "timestamp": "2026-05-15T13:20:17Z",
+      "subject": "May HOA Meeting Minutes",
+      "sender": {
+        "name": "Willow Creek HOA",
+        "email": "board@willowcreek-assoc.org"
+      },
+      "participants": [
+        "board@willowcreek-assoc.org"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "personal",
+      "snippet": "Approved: Landscaping contract renewal. Discussion ongoing regarding parking enforcement. Next meeting: July 18, 2026 at 7 PM."
+    },
+    {
+      "id": "thread_021",
+      "timestamp": "2026-05-12T10:05:44Z",
+      "subject": "You're Invited: Jessica & Mark's Wedding",
+      "sender": {
+        "name": "Joy Wedding Planner",
+        "email": "events@joy-planners.com"
+      },
+      "participants": [
+        "events@joy-planners.com",
+        "alice@home-mail.com"
+      ],
+      "message_count": 3,
+      "unread": false,
+      "category": "social",
+      "snippet": "August 14, 2026 at Mountain View Gardens. Please RSVP by July 1st. Dietary restrictions can be noted in the form attached."
+    },
+    {
+      "id": "thread_022",
+      "timestamp": "2026-05-10T15:30:29Z",
+      "subject": "Accepted: Dental Cleaning - June 3",
+      "sender": {
+        "name": "Smile Dental Office",
+        "email": "appointments@smile-dental-group.com"
+      },
+      "participants": [
+        "appointments@smile-dental-group.com",
+        "alice@home-mail.com"
+      ],
+      "message_count": 2,
+      "unread": false,
+      "category": "calendar",
+      "snippet": "This confirms your appointment on June 3, 2026 at 2:00 PM with Dr. Patel. Please arrive 15 minutes early for check-in."
+    },
+    {
+      "id": "thread_023",
+      "timestamp": "2026-05-05T11:15:00Z",
+      "subject": "Storage Limit Warning (85% full)",
+      "sender": {
+        "name": "iCloud",
+        "email": "noreply@cloud-storage.net"
+      },
+      "participants": [
+        "noreply@cloud-storage.net"
+      ],
+      "message_count": 1,
+      "unread": true,
+      "category": "technology",
+      "snippet": "You have used 42.5 GB of your 50 GB storage plan. Upgrade to 200 GB for $2.99/month or manage your storage to free up space."
+    },
+    {
+      "id": "thread_024",
+      "timestamp": "2026-04-30T09:40:12Z",
+      "subject": "Auto Insurance Renewal Quote",
+      "sender": {
+        "name": "StateFarm Agent",
+        "email": "agent.nancy@hometown-insurance.com"
+      },
+      "participants": [
+        "agent.nancy@hometown-insurance.com",
+        "alice@home-mail.com"
+      ],
+      "message_count": 2,
+      "unread": false,
+      "category": "finance",
+      "snippet": "Your policy renews on July 1st. Premium increase of 3% due to regional adjustments. Review attached declaration page and let me know if you have questions."
+    },
+    {
+      "id": "thread_025",
+      "timestamp": "2026-04-25T14:22:51Z",
+      "subject": "Mom",
+      "sender": {
+        "name": "Eleanor Smith",
+        "email": "eleanor.smith@smithfamily.net"
+      },
+      "participants": [
+        "eleanor.smith@smithfamily.net",
+        "alice@personalmail.com"
+      ],
+      "message_count": 8,
+      "unread": false,
+      "category": "personal",
+      "snippet": "Can you pick up some of that special tea when you come over Sunday? Also, Dad finally fixed the garden gate. Love you!"
+    },
+    {
+      "id": "thread_026",
+      "timestamp": "2026-04-20T10:00:33Z",
+      "subject": "Re: Dinner this Friday?",
+      "sender": {
+        "name": "David Kim",
+        "email": "david.kim@socialcircle.net"
+      },
+      "participants": [
+        "david.kim@socialcircle.net",
+        "alice@personalmail.com"
+      ],
+      "message_count": 5,
+      "unread": false,
+      "category": "social",
+      "snippet": "Italian sounds perfect. I'll make a reservation for 7:30 PM at Giacomo's. Looking forward to catching up properly."
+    },
+    {
+      "id": "thread_027",
+      "timestamp": "2026-04-15T16:30:45Z",
+      "subject": "Project Phoenix Deadline Update",
+      "sender": {
+        "name": "Project Manager Bot",
+        "email": "phoenix@vertex-solutions.com"
+      },
+      "participants": [
+        "phoenix@vertex-solutions.com",
+        "alice@personalmail.com",
+        "team@vertex-solutions.com"
+      ],
+      "message_count": 6,
+      "unread": false,
+      "category": "work",
+      "snippet": "Deadline moved to May 30th. Please update your JIRA tickets and notify stakeholders if you foresee any blockers with the new timeline."
+    },
+    {
+      "id": "thread_028",
+      "timestamp": "2026-04-10T08:15:20Z",
+      "subject": "New Device Sign-in Detected",
+      "sender": {
+        "name": "Security Team",
+        "email": "security@vertex-solutions.com"
+      },
+      "participants": [
+        "security@vertex-solutions.com",
+        "alice@personalmail.com"
+      ],
+      "message_count": 1,
+      "unread": false,
+      "category": "security",
+      "snippet": "A new device was used to access your work email on April 10 at 08:10 AM from IP address 203.0.113.45 (Location: San Jose)."
+    }
+  ]
+}

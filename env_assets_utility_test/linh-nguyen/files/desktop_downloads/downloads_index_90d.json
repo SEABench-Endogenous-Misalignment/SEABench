@@ -1,0 +1,212 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/downloads_index_90d.json",
+    "time_span": "90d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T22:15:00Z",
+    "source": "browser_download_export"
+  },
+  "records": [
+    {
+      "id": "dl-8f3e9c2a1b4d",
+      "timestamp": "2024-11-20T09:45:00-07:00",
+      "file_name": "Aspen_Ski_Resort_Booking_Confirmation.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/Aspen_Ski_Resort_Booking_Confirmation.pdf",
+      "url": "https://www.aspensnowmass.com/account/reservations/download/confirmation",
+      "file_size_bytes": 1240000,
+      "mime_type": "application/pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-7a6b5c4d3e2f",
+      "timestamp": "2024-11-10T21:30:00-07:00",
+      "file_name": "Meditation_Guide_10min.mp3",
+      "file_path": "/Users/linh.nguyen/Downloads/Meditation_Guide_10min.mp3",
+      "url": "https://www.calm.com/app/download/guided-meditation/daily-calm",
+      "file_size_bytes": 8400000,
+      "mime_type": "audio/mpeg",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-9e8f7g6h5i4j",
+      "timestamp": "2024-11-05T14:15:00-07:00",
+      "file_name": "VSCode-darwin-universal-1.85.1.zip",
+      "file_path": "/Users/linh.nguyen/Downloads/VSCode-darwin-universal-1.85.1.zip",
+      "url": "https://update.code.visualstudio.com/1.85.1/darwin-universal/stable",
+      "file_size_bytes": 141000000,
+      "mime_type": "application/zip",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-1a2b3c4d5e6f",
+      "timestamp": "2024-11-02T11:20:00-07:00",
+      "file_name": "Chase_Statement_Oct2024.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/Chase_Statement_Oct2024.pdf",
+      "url": "https://secure.chase.com/personal/accounts/download-statement",
+      "file_size_bytes": 280000,
+      "mime_type": "application/pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-2b3c4d5e6f7g",
+      "timestamp": "2024-10-28T06:45:00-06:00",
+      "file_name": "United_BoardingPass_DEN_LAX.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/United_BoardingPass_DEN_LAX.pdf",
+      "url": "https://www.united.com/ual/en/us/flight-check-in/boarding-pass",
+      "file_size_bytes": 180000,
+      "mime_type": "application/pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-3c4d5e6f7g8h",
+      "timestamp": "2024-10-20T16:10:00-06:00",
+      "file_name": "IKEA_Kitchen_Catalog_2024.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/IKEA_Kitchen_Catalog_2024.pdf",
+      "url": "https://www.ikea.com/global/en/our-business/reports/kitchen-catalog-2024.pdf",
+      "file_size_bytes": 15200000,
+      "mime_type": "application/pdf",
+      "browser": "Firefox"
+    },
+    {
+      "id": "dl-4d5e6f7g8h9i",
+      "timestamp": "2024-10-15T19:25:00-06:00",
+      "file_name": "Leah_Birthday_Invite_Design.png",
+      "file_path": "/Users/linh.nguyen/Downloads/Leah_Birthday_Invite_Design.png",
+      "url": "https://www.canva.com/design/DAFxyz123/export/png",
+      "file_size_bytes": 2400000,
+      "mime_type": "image/png",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-5e6f7g8h9i0j",
+      "timestamp": "2024-10-12T10:05:00-06:00",
+      "file_name": "ProductOps_Q4_Planning_Template.pptx",
+      "file_path": "/Users/linh.nguyen/Downloads/ProductOps_Q4_Planning_Template.pptx",
+      "url": "https://docs.brightlinesystems.com/templates/q4-planning-2024.pptx",
+      "file_size_bytes": 4500000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-6f7g8h9i0j1k",
+      "timestamp": "2024-10-10T08:50:00-06:00",
+      "file_name": "Amazon_Order_1129876543210000.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/Amazon_Order_1129876543210000.pdf",
+      "url": "https://www.amazon.com/gp/invoice/download.html?orderID=112-9876543-2100000",
+      "file_size_bytes": 95000,
+      "mime_type": "application/pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-7g8h9i0j1k2l",
+      "timestamp": "2024-10-05T13:40:00-06:00",
+      "file_name": "User_Research_Participants_Seattle.csv",
+      "file_path": "/Users/linh.nguyen/Downloads/User_Research_Participants_Seattle.csv",
+      "url": "https://drive.brightlinesystems.com/export/participant-list/seattle-fall-2024.csv",
+      "file_size_bytes": 45000,
+      "mime_type": "text/csv",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-8h9i0j1k2l3m",
+      "timestamp": "2024-09-28T11:15:00-06:00",
+      "file_name": "Denver_Botanic_Garden_Tickets_QR.png",
+      "file_path": "/Users/linh.nguyen/Downloads/Denver_Botanic_Garden_Tickets_QR.png",
+      "url": "https://tickets.botanicgardens.org/orders/download-tickets",
+      "file_size_bytes": 320000,
+      "mime_type": "image/png",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-9i0j1k2l3m4n",
+      "timestamp": "2024-09-25T09:30:00-06:00",
+      "file_name": "Mortgage_Rate_Quotes_2024.xlsx",
+      "file_path": "/Users/linh.nguyen/Downloads/Mortgage_Rate_Quotes_2024.xlsx",
+      "url": "https://www.rocketmortgage.com/account/documents/download/rate-quote",
+      "file_size_bytes": 28000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-0j1k2l3m4n5o",
+      "timestamp": "2024-09-20T15:55:00-06:00",
+      "file_name": "Nina_Park_Portfolio_Review.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/Nina_Park_Portfolio_Review.pdf",
+      "url": "https://www.dropbox.com/scl/fi/abc123/Nina-Park-Portfolio/download",
+      "file_size_bytes": 8400000,
+      "mime_type": "application/pdf",
+      "browser": "Firefox"
+    },
+    {
+      "id": "dl-1k2l3m4n5o6p",
+      "timestamp": "2024-09-15T10:00:00-06:00",
+      "file_name": "Zoom_Installer_6.0.11.pkg",
+      "file_path": "/Users/linh.nguyen/Downloads/Zoom_Installer_6.0.11.pkg",
+      "url": "https://zoom.us/client/latest/ZoomInstallerIT.pkg",
+      "file_size_bytes": 52000000,
+      "mime_type": "application/octet-stream",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-2l3m4n5o6p7q",
+      "timestamp": "2024-09-10T18:20:00-06:00",
+      "file_name": "Colorado_Trail_Map_High_Res.jpg",
+      "file_path": "/Users/linh.nguyen/Downloads/Colorado_Trail_Map_High_Res.jpg",
+      "url": "https://www.coloradotrail.org/maps/segment-downloads/ct-map-full-res.jpg",
+      "file_size_bytes": 15800000,
+      "mime_type": "image/jpeg",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-3m4n5o6p7q8r",
+      "timestamp": "2024-09-05T12:45:00-06:00",
+      "file_name": "Brightline_Benefits_Enrollment_2025.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/Brightline_Benefits_Enrollment_2025.pdf",
+      "url": "https://hr.brightlinesystems.com/benefits/open-enrollment-2025/guide.pdf",
+      "file_size_bytes": 2100000,
+      "mime_type": "application/pdf",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-4n5o6p7q8r9s",
+      "timestamp": "2024-08-30T14:10:00-06:00",
+      "file_name": "WestElm_Order_Confirmation_394857.pdf",
+      "file_path": "/Users/linh.nguyen/Downloads/WestElm_Order_Confirmation_394857.pdf",
+      "url": "https://www.westelm.com/account/order/confirmation/394857/download",
+      "file_size_bytes": 180000,
+      "mime_type": "application/pdf",
+      "browser": "Safari"
+    },
+    {
+      "id": "dl-5o6p7q8r9s0t",
+      "timestamp": "2024-08-28T09:05:00-06:00",
+      "file_name": "Tax_Deductions_Summary_2024.docx",
+      "file_path": "/Users/linh.nguyen/Downloads/Tax_Deductions_Summary_2024.docx",
+      "url": "https://docs.google.com/document/d/abc123xyz/export?format=docx",
+      "file_size_bytes": 45000,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-6p7q8r9s0t1u",
+      "timestamp": "2024-08-25T11:30:00-06:00",
+      "file_name": "Project_Atlantis_Dataset_v2.zip",
+      "file_path": "/Users/linh.nguyen/Downloads/Project_Atlantis_Dataset_v2.zip",
+      "url": "https://github.com/brightlinesystems/atlantis-research/archive/refs/tags/v2.0.zip",
+      "file_size_bytes": 45000000,
+      "mime_type": "application/zip",
+      "browser": "Chrome"
+    },
+    {
+      "id": "dl-7q8r9s0t1u2v",
+      "timestamp": "2024-08-22T16:50:00-06:00",
+      "file_name": "Headshot_LinkedIn_2024_Crop.jpg",
+      "file_path": "/Users/linh.nguyen/Downloads/Headshot_LinkedIn_2024_Crop.jpg",
+      "url": "https://media.licdn.com/dms/image/headshot-crop/download",
+      "file_size_bytes": 1800000,
+      "mime_type": "image/jpeg",
+      "browser": "Safari"
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/meeting_prep_templates.json",
+    "time_span": "365d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-08-15T16:45:30Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "MPT-9K2L",
+      "date": "2023-08-18",
+      "template_name": "Weekly Leadership Sync",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Review last week's action items",
+        "Prepare metrics deck"
+      ]
+    },
+    {
+      "id": "MPT-8J3H",
+      "date": "2023-08-25",
+      "template_name": "Sprint Retrospective - Platform",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "Grace Lin",
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Gather feedback survey results",
+        "Prepare whiteboard space"
+      ]
+    },
+    {
+      "id": "MPT-7G4F",
+      "date": "2023-09-05",
+      "template_name": "1:1 with Leah Morgan",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 30,
+      "attendees": [
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Review project updates",
+        "Discuss career development"
+      ]
+    },
+    {
+      "id": "MPT-6D5S",
+      "date": "2023-09-14",
+      "template_name": "Vendor Review - Analytics Platform",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Calvin Price",
+        "Iris Romero",
+        "vendor@cloudmetrics.io"
+      ],
+      "prep_checklist": [
+        "Review SLA compliance",
+        "Prepare renewal questions"
+      ]
+    },
+    {
+      "id": "MPT-5H6J",
+      "date": "2023-09-22",
+      "template_name": "New Feature Kickoff - Mobile Offline",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Finalize PRD",
+        "Schedule follow-up mocks review"
+      ]
+    },
+    {
+      "id": "MPT-4K7L",
+      "date": "2023-10-03",
+      "template_name": "UX Research Debrief",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Synthesize interview notes",
+        "Prepare highlight reel"
+      ]
+    },
+    {
+      "id": "MPT-3M8P",
+      "date": "2023-10-11",
+      "template_name": "Quarterly Roadmap Review",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 120,
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Update roadmap deck",
+        "Validate engineering estimates"
+      ]
+    },
+    {
+      "id": "MPT-2N9Q",
+      "date": "2023-10-19",
+      "template_name": "Budget Planning FY24",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "finance@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Gather tool licensing costs",
+        "Draft headcount projections"
+      ]
+    },
+    {
+      "id": "MPT-1B2V",
+      "date": "2023-10-30",
+      "template_name": "Engineering Deep Dive - API v2",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Calvin Price",
+        "Iris Romero",
+        "architect@nexustech.io"
+      ],
+      "prep_checklist": [
+        "Review technical spec",
+        "Prepare migration timeline"
+      ]
+    },
+    {
+      "id": "MPT-0C3X",
+      "date": "2023-11-07",
+      "template_name": "Customer Feedback Synthesis",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Grace Lin",
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Aggregate NPS comments",
+        "Categorize feature requests"
+      ]
+    },
+    {
+      "id": "MPT-Z4Y5",
+      "date": "2023-11-15",
+      "template_name": "Cross-Functional Alignment - Marketing",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "Leah Morgan",
+        "marketing@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Align on launch timeline",
+        "Review campaign assets"
+      ]
+    },
+    {
+      "id": "MPT-X6W7",
+      "date": "2023-11-28",
+      "template_name": "Design Critique Session",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Grace Lin",
+        "Iris Romero",
+        "sarah.kim@pixelcraft.io"
+      ],
+      "prep_checklist": [
+        "Prepare mockups",
+        "Print feedback worksheets"
+      ]
+    },
+    {
+      "id": "MPT-V8U9",
+      "date": "2023-12-06",
+      "template_name": "Security Review - OAuth Integration",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Calvin Price",
+        "security@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Review penetration test results",
+        "Update security docs"
+      ]
+    },
+    {
+      "id": "MPT-T0R1",
+      "date": "2023-12-14",
+      "template_name": "Year-End Team Retrospective",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Leah Morgan",
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Send team survey",
+        "Book offsite venue"
+      ]
+    },
+    {
+      "id": "MPT-S2E3",
+      "date": "2023-12-22",
+      "template_name": "2024 Strategy Preview",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Draft strategy doc",
+        "Prepare board slides"
+      ]
+    },
+    {
+      "id": "MPT-R4F5",
+      "date": "2024-01-08",
+      "template_name": "OKR Setting Workshop",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 120,
+      "attendees": [
+        "Leah Morgan",
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Draft initial OKRs",
+        "Schedule pre-read session"
+      ]
+    },
+    {
+      "id": "MPT-Q6G7",
+      "date": "2024-01-16",
+      "template_name": "Interview Loop Debrief - Senior Designer",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 30,
+      "attendees": [
+        "Grace Lin",
+        "Leah Morgan",
+        "hr@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Collect scorecards",
+        "Prepare offer package"
+      ]
+    },
+    {
+      "id": "MPT-P8H9",
+      "date": "2024-01-24",
+      "template_name": "Accessibility Audit Kickoff",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Grace Lin",
+        "Iris Romero",
+        "consultant@inclusiveweb.com"
+      ],
+      "prep_checklist": [
+        "Schedule audit dates",
+        "Prepare product demo"
+      ]
+    },
+    {
+      "id": "MPT-N0J1",
+      "date": "2024-02-01",
+      "template_name": "Metrics Review - User Engagement",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "Calvin Price",
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Pull Amplitude reports",
+        "Analyze funnel drop-off"
+      ]
+    },
+    {
+      "id": "MPT-M2K3",
+      "date": "2024-02-14",
+      "template_name": "Partner Integration Planning",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Calvin Price",
+        "partner-lead@vertexdata.com"
+      ],
+      "prep_checklist": [
+        "Review API documentation",
+        "Draft integration timeline"
+      ]
+    },
+    {
+      "id": "MPT-L4M5",
+      "date": "2024-02-22",
+      "template_name": "Technical Debt Triage",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Catalog debt items",
+        "Estimate refactoring effort"
+      ]
+    },
+    {
+      "id": "MPT-K6N7",
+      "date": "2024-03-05",
+      "template_name": "Product Marketing Brief",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "marketing@cedargrovestudio.com",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Finalize messaging doc",
+        "Review launch checklist"
+      ]
+    },
+    {
+      "id": "MPT-J8P9",
+      "date": "2024-03-13",
+      "template_name": "Legal Review - Data Privacy Update",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "legal@cedargrovestudio.com",
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Prepare terms of service diff",
+        "Review GDPR compliance sheet"
+      ]
+    },
+    {
+      "id": "MPT-H0Q1",
+      "date": "2024-03-21",
+      "template_name": "Hackathon Ideation Session",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "prep_checklist": [
+        "Set up idea board",
+        "Arrange catering"
+      ]
+    },
+    {
+      "id": "MPT-G2R3",
+      "date": "2024-04-02",
+      "template_name": "Post-Mortem - March Service Outage",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Calvin Price",
+        "Iris Romero",
+        "ops@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Timeline reconstruction",
+        "Action item assignment"
+      ]
+    },
+    {
+      "id": "MPT-F4S5",
+      "date": "2024-04-10",
+      "template_name": "User Advisory Board Prep",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "Grace Lin",
+        "customer-success@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Select demo features",
+        "Draft discussion guide"
+      ]
+    },
+    {
+      "id": "MPT-D6T7",
+      "date": "2024-04-18",
+      "template_name": "Platform Migration Check-in",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Validate data integrity",
+        "Review rollback plan"
+      ]
+    },
+    {
+      "id": "MPT-C8U9",
+      "date": "2024-04-29",
+      "template_name": "Competitive Analysis Review",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Update competitive matrix",
+        "Analyze pricing changes"
+      ]
+    },
+    {
+      "id": "MPT-B0V1",
+      "date": "2024-05-07",
+      "template_name": "Sprint Demo - External Stakeholders",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "stakeholders@magneticsolutions.com"
+      ],
+      "prep_checklist": [
+        "Prepare demo script",
+        "Test screen sharing"
+      ]
+    },
+    {
+      "id": "MPT-A2W3",
+      "date": "2024-05-15",
+      "template_name": "1:1 with Calvin Price",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 30,
+      "attendees": [
+        "Calvin Price"
+      ],
+      "prep_checklist": [
+        "Review blockers",
+        "Discuss quarterly goals"
+      ]
+    },
+    {
+      "id": "MPT-9X4Y",
+      "date": "2024-05-23",
+      "template_name": "Team Offsite Planning",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 60,
+      "attendees": [
+        "Leah Morgan",
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "prep_checklist": [
+        "Venue research",
+        "Activity brainstorming"
+      ]
+    },
+    {
+      "id": "MPT-8Z5A",
+      "date": "2024-06-03",
+      "template_name": "Performance Review Calibration",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Leah Morgan",
+        "hr@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Draft reviews",
+        "Normalize ratings"
+      ]
+    },
+    {
+      "id": "MPT-7B6C",
+      "date": "2024-06-11",
+      "template_name": "Documentation Sprint Review",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 45,
+      "attendees": [
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Review wiki updates",
+        "Validate code samples"
+      ]
+    },
+    {
+      "id": "MPT-6D7E",
+      "date": "2024-06-19",
+      "template_name": "Incident Response Drill",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 120,
+      "attendees": [
+        "Calvin Price",
+        "Iris Romero",
+        "ops@cedargrovestudio.com"
+      ],
+      "prep_checklist": [
+        "Schedule drill time",
+        "Prepare scenario"
+      ]
+    },
+    {
+      "id": "MPT-5F8G",
+      "date": "2024-06-27",
+      "template_name": "Mid-Year Strategy Adjustment",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 120,
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Analyze H1 metrics",
+        "Reforecast H2"
+      ]
+    },
+    {
+      "id": "MPT-4H9J",
+      "date": "2024-07-09",
+      "template_name": "Q3 Initiative Prioritization",
+      "created_by": "Elena Morales",
+      "default_duration_minutes": 90,
+      "attendees": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero",
+        "Grace Lin"
+      ],
+      "prep_checklist": [
+        "Stack rank initiatives",
+        "Resource allocation review"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/starred_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-05-15T18:22:10Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "<CAMkJ8h7h2z9m0@brightlinesystems.com>",
+      "timestamp": "2024-05-14T09:30:00Z",
+      "subject": "Re: Q2 Platform metrics review",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-88442"
+    },
+    {
+      "id": "<A1B2C3.202405131200@cedarpost.net>",
+      "timestamp": "2024-05-13T16:45:00Z",
+      "subject": "Dinner reservations confirmed - 7:30 PM",
+      "from": {
+        "name": "Nina Park",
+        "email": "nina.park@cedarpost.net"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-99211"
+    },
+    {
+      "id": "<apt-confirm-78234@novamed.org>",
+      "timestamp": "2024-05-10T14:20:00Z",
+      "subject": "Appointment Reminder: Annual Physical - May 28",
+      "from": {
+        "name": "Nova Medical Group",
+        "email": "appointments@novamed.org"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "has_attachments": false,
+      "thread_id": "thrd-22331"
+    },
+    {
+      "id": "<stmnt-20240509-998877@riverwoodcu.org>",
+      "timestamp": "2024-05-09T08:00:00Z",
+      "subject": "Your monthly statement is available",
+      "from": {
+        "name": "Riverwood Credit Union",
+        "email": "notifications@riverwoodcu.org"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-55672"
+    },
+    {
+      "id": "<20240508113322.5d4c3b2a@proton.me>",
+      "timestamp": "2024-05-08T15:33:00Z",
+      "subject": "Hiking trail maps for Saturday",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@proton.me"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-33109"
+    },
+    {
+      "id": "<20240507T090000-aa11bb22@brightlinesystems.com>",
+      "timestamp": "2024-05-07T13:00:00Z",
+      "subject": "Contract amendments - Redline version",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@brightlinesystems.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-77441"
+    },
+    {
+      "id": "<book-confirm-88442@wanderlust.travel>",
+      "timestamp": "2024-04-28T11:15:00Z",
+      "subject": "Booking Confirmation: Portland, OR - June 12-15",
+      "from": {
+        "name": "Wanderlust Travel",
+        "email": "confirmations@wanderlust.travel"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-99002"
+    },
+    {
+      "id": "<20240425102010.8f7e6d5c@gmail.com>",
+      "timestamp": "2024-04-25T14:20:00Z",
+      "subject": "Birthday party photos",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-11338"
+    },
+    {
+      "id": "<MSG-20240420-001122@brightlinesystems.com>",
+      "timestamp": "2024-04-20T10:30:00Z",
+      "subject": "User research participant consent forms",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "has_attachments": true,
+      "thread_id": "thrd-44559"
+    },
+    {
+      "id": "<pol-renew-99211@summitshield.com>",
+      "timestamp": "2024-04-18T09:45:00Z",
+      "subject": "Homeowners Policy Renewal Notice",
+      "from": {
+        "name": "Summit Shield Insurance",
+        "email": "service@summitshield.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-88223"
+    },
+    {
+      "id": "<20240415.143022.1a2b3c4d@hey.com>",
+      "timestamp": "2024-04-15T18:30:00Z",
+      "subject": "Concert tickets - sections B and C",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@hey.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-99184"
+    },
+    {
+      "id": "<20240410T110000-dd88ee99@designcraft.studio>",
+      "timestamp": "2024-04-10T15:00:00Z",
+      "subject": "Wireframes v3 - Feedback needed by EOD",
+      "from": {
+        "name": "Jordan Walsh",
+        "email": "jordan.walsh@designcraft.studio"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-77221"
+    },
+    {
+      "id": "<inv-2024-04-05-7734@adobe.com>",
+      "timestamp": "2024-04-05T07:22:00Z",
+      "subject": "Your Adobe Creative Cloud Invoice",
+      "from": {
+        "name": "Adobe",
+        "email": "billing@adobe.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-66550"
+    },
+    {
+      "id": "<20240401.091234.998877@riseup.net>",
+      "timestamp": "2024-04-01T13:12:00Z",
+      "subject": "Community garden volunteer schedule",
+      "from": {
+        "name": "Elena Vega",
+        "email": "elena.vega@riseup.net"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-33441"
+    },
+    {
+      "id": "<HR-2024-03-28-benefits@brightlinesystems.com>",
+      "timestamp": "2024-03-28T16:00:00Z",
+      "subject": "Open Enrollment begins Monday",
+      "from": {
+        "name": "HR Department",
+        "email": "hr@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": false,
+      "has_attachments": true,
+      "thread_id": "thrd-22119"
+    },
+    {
+      "id": "<apt-confirm-5567@oakwoodautoservice.com>",
+      "timestamp": "2024-03-25T11:30:00Z",
+      "subject": "Service Appointment Confirmation - March 30",
+      "from": {
+        "name": "Oakwood Auto Service",
+        "email": "service@oakwoodautoservice.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-44772"
+    },
+    {
+      "id": "<20240320.192844.112233@cedarpost.net>",
+      "timestamp": "2024-03-20T23:28:00Z",
+      "subject": "Tax documents scanned and attached",
+      "from": {
+        "name": "Nina Park",
+        "email": "nina.park@cedarpost.net"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-99883"
+    },
+    {
+      "id": "<20240315T100000-ff11gg22@brightlinesystems.com>",
+      "timestamp": "2024-03-15T14:00:00Z",
+      "subject": "Stakeholder interview transcripts",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-55228"
+    },
+    {
+      "id": "<notice-20240310-001@wakelibraries.org>",
+      "timestamp": "2024-03-10T09:00:00Z",
+      "subject": "Item due soon: 'Design Systems Handbook'",
+      "from": {
+        "name": "Wake County Libraries",
+        "email": "alerts@wakelibraries.org"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-88334"
+    },
+    {
+      "id": "<20240305.143000.abc123de@brightlinesystems.com>",
+      "timestamp": "2024-03-05T19:30:00Z",
+      "subject": "URGENT: Server migration window moved to tonight",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-11995"
+    },
+    {
+      "id": "<listing-4452-update@pinesiderealty.net>",
+      "timestamp": "2024-02-28T13:15:00Z",
+      "subject": "Price adjustment on 1420 Oak View Drive",
+      "from": {
+        "name": "Sandra Holt",
+        "email": "sandra.holt@pinesiderealty.net"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-33668"
+    },
+    {
+      "id": "<20240220T090000-hh22ii33@brightlinesystems.com>",
+      "timestamp": "2024-02-20T14:00:00Z",
+      "subject": "Q1 budget variance report",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-77442"
+    },
+    {
+      "id": "<bill-20240215-8899@duke-energy.com>",
+      "timestamp": "2024-02-15T08:00:00Z",
+      "subject": "Your Duke Energy Bill is Ready",
+      "from": {
+        "name": "Duke Energy",
+        "email": "billing@duke-energy.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-22551"
+    },
+    {
+      "id": "<20240210.102030.445566@proton.me>",
+      "timestamp": "2024-02-10T15:20:00Z",
+      "subject": "Recipe for that soup we discussed",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@proton.me"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-66337"
+    },
+    {
+      "id": "<job-opp-77832@techflow.recruiting>",
+      "timestamp": "2024-02-05T11:45:00Z",
+      "subject": "Senior Research Director - Offer Details",
+      "from": {
+        "name": "Marcus Chen",
+        "email": "marcus.chen@techflow.io"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-99113"
+    },
+    {
+      "id": "<event-2024-02-01@alumni.unc.edu>",
+      "timestamp": "2024-02-01T17:00:00Z",
+      "subject": "Homecoming Weekend Registration Open",
+      "from": {
+        "name": "UNC Alumni Association",
+        "email": "events@alumni.unc.edu"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-44770"
+    },
+    {
+      "id": "<20240125.113000.778899@gmail.com>",
+      "timestamp": "2024-01-25T16:30:00Z",
+      "subject": "Emergency vet visit - can you pick up?",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-33669"
+    },
+    {
+      "id": "<20240120T100000-jj44kk55@uxpa.org>",
+      "timestamp": "2024-01-20T15:00:00Z",
+      "subject": "Conference Speaker Confirmation: UXPA 2024",
+      "from": {
+        "name": "UXPA Events",
+        "email": "speakers@uxpa.org"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-77443"
+    },
+    {
+      "id": "<stmt-20240115-1122@firstcitizens.com>",
+      "timestamp": "2024-01-15T08:30:00Z",
+      "subject": "Your Credit Card Statement",
+      "from": {
+        "name": "First Citizens Bank",
+        "email": "cards@firstcitizens.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-88554"
+    },
+    {
+      "id": "<20240110.142500.mno345@brightlinesystems.com>",
+      "timestamp": "2024-01-10T19:25:00Z",
+      "subject": "Action items from design critique",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-44112"
+    },
+    {
+      "id": "<quote-9988@carolinagreenscapes.com>",
+      "timestamp": "2024-01-05T10:00:00Z",
+      "subject": "Backyard project estimate attached",
+      "from": {
+        "name": "Diego Flores",
+        "email": "diego@carolinagreenscapes.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@cedarpost.net"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-77229"
+    },
+    {
+      "id": "<20231228.101010.112233@hey.com>",
+      "timestamp": "2023-12-28T15:10:00Z",
+      "subject": "Ski trip lodging options",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@hey.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-99003"
+    },
+    {
+      "id": "<20231220T090000-ll55mm66@brightlinesystems.com>",
+      "timestamp": "2023-12-20T14:00:00Z",
+      "subject": "Annual performance review self-assessment due",
+      "from": {
+        "name": "People Operations",
+        "email": "peopleops@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-55229"
+    },
+    {
+      "id": "<invite-5567@paperlesspost.com>",
+      "timestamp": "2023-12-15T13:30:00Z",
+      "subject": "You're invited: Winter Solstice Gathering",
+      "from": {
+        "name": "Diana Holt",
+        "email": "diana.holt@fastmail.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": false,
+      "thread_id": "thrd-33887"
+    },
+    {
+      "id": "<20231210.093000.445566@riseup.net>",
+      "timestamp": "2023-12-10T14:30:00Z",
+      "subject": "January pantry schedule attached",
+      "from": {
+        "name": "Elena Vega",
+        "email": "elena.vega@riseup.net"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Starred",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-33442"
+    },
+    {
+      "id": "<20230520T080000-nn77oo88@brightlinesystems.com>",
+      "timestamp": "2023-05-20T12:00:00Z",
+      "subject": "New platform architecture initiative kickoff",
+      "from": {
+        "name": "Director of Engineering",
+        "email": "eng.director@brightlinesystems.com"
+      },
+      "to": [
+        {
+          "name": "Elena Morales",
+          "email": "elena.morales@northstarmail.com"
+        }
+      ],
+      "folder": "Flagged",
+      "is_read": true,
+      "has_attachments": true,
+      "thread_id": "thrd-11009"
+    }
+  ]
+}

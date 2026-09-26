@@ -1,0 +1,59 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/source_catalog.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-01-15T14:32:10Z",
+    "source": "connected_apps_sync"
+  },
+  "records": [
+    {
+      "id": "src_cal_7a3f9e",
+      "timestamp": "2023-08-12T09:15:00Z",
+      "service_name": "Google Calendar",
+      "account_email": "linh.nguyen@riverbendmail.com",
+      "sync_status": "active",
+      "last_data_pull": "2024-01-14T22:00:00Z"
+    },
+    {
+      "id": "src_task_4b2d1c",
+      "date": "2023-09-05",
+      "platform": "Todoist",
+      "user_id": "linh.nguyen@riverbendmail.com",
+      "project_count": 12,
+      "sync_frequency": "realtime"
+    },
+    {
+      "id": "src_fin_9e8a7b",
+      "start_time": "2023-11-20T08:00:00Z",
+      "provider": "Monarch Money",
+      "linked_accounts": 4,
+      "data_classification": "financial_summary"
+    },
+    {
+      "id": "src_fit_3c5d8e",
+      "timestamp": "2023-10-14T16:45:00Z",
+      "app_name": "Strava",
+      "athlete_id": "LN_8842",
+      "activities_synced": 156,
+      "privacy_setting": "friends_only"
+    },
+    {
+      "id": "src_mail_2f4a6b",
+      "period_start": "2023-01-01T00:00:00Z",
+      "period_end": "2024-01-15T00:00:00Z",
+      "provider": "Fastmail",
+      "primary_address": "linh.nguyen@riverbendmail.com",
+      "storage_used_mb": 2847
+    },
+    {
+      "id": "src_doc_1e9f5c",
+      "timestamp": "2023-07-22T11:30:00Z",
+      "service": "Dropbox",
+      "account_tier": "Plus",
+      "usage_gb": 23.4,
+      "shared_folders": 5
+    }
+  ]
+}

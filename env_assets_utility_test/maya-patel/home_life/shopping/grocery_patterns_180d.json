@@ -1,0 +1,501 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/shopping/grocery_patterns_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-15T18:45:32Z",
+    "source": "grocery_tracker_export"
+  },
+  "records": [
+    {
+      "id": "GE-240418-884732",
+      "date": "2024-04-18",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 127.45,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 34,
+      "primary_categories": [
+        "produce",
+        "dairy",
+        "pantry",
+        "meat"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TJ-240424-2194",
+      "date": "2024-04-24",
+      "store_name": "Trader Joe's",
+      "store_location": "East Liberty",
+      "total_amount": 58.23,
+      "shopper": "Nina Park",
+      "trip_type": "specialty",
+      "payment_method": "Chase Sapphire",
+      "items_count": 16,
+      "primary_categories": [
+        "frozen",
+        "wine",
+        "snacks"
+      ],
+      "loyalty_card_used": false
+    },
+    {
+      "id": "TGTX-240428-5561",
+      "date": "2024-04-28",
+      "store_name": "Target",
+      "store_location": "Waterfront",
+      "total_amount": 94.17,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Debit Card",
+      "items_count": 28,
+      "primary_categories": [
+        "household",
+        "pantry",
+        "dairy"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240504-992104",
+      "date": "2024-05-04",
+      "store_name": "Giant Eagle",
+      "store_location": "Squirrel Hill",
+      "total_amount": 143.88,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 41,
+      "primary_categories": [
+        "produce",
+        "meat",
+        "bakery",
+        "beverages"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "WF-240511-4482",
+      "date": "2024-05-11",
+      "store_name": "Whole Foods",
+      "store_location": "Waterfront",
+      "total_amount": 76.5,
+      "shopper": "Nina Park",
+      "trip_type": "specialty",
+      "payment_method": "Amex Gold",
+      "items_count": 12,
+      "primary_categories": [
+        "organic produce",
+        "specialty cheese",
+        "supplements"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240518-112039",
+      "date": "2024-05-18",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 112.34,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 33,
+      "primary_categories": [
+        "produce",
+        "dairy",
+        "frozen",
+        "cleaning"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "COST-240525-9903",
+      "date": "2024-05-25",
+      "store_name": "Costco",
+      "store_location": "Robinson Township",
+      "total_amount": 289.44,
+      "shopper": "Maya Patel",
+      "trip_type": "stock_up",
+      "payment_method": "Debit Card",
+      "items_count": 18,
+      "primary_categories": [
+        "bulk pantry",
+        "paper goods",
+        "wine",
+        "meat"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TGTX-240529-7732",
+      "date": "2024-05-29",
+      "store_name": "Target",
+      "store_location": "East Liberty",
+      "total_amount": 67.89,
+      "shopper": "Nina Park",
+      "trip_type": "weekly",
+      "payment_method": "Venmo Card",
+      "items_count": 22,
+      "primary_categories": [
+        "household",
+        "personal care",
+        "snacks"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TJ-240605-8841",
+      "date": "2024-06-05",
+      "store_name": "Trader Joe's",
+      "store_location": "East Liberty",
+      "total_amount": 43.27,
+      "shopper": "Maya Patel",
+      "trip_type": "specialty",
+      "payment_method": "Amex Gold",
+      "items_count": 11,
+      "primary_categories": [
+        "frozen",
+        "chocolate",
+        "coffee"
+      ],
+      "loyalty_card_used": false
+    },
+    {
+      "id": "GE-240615-445821",
+      "date": "2024-06-15",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 156.2,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 38,
+      "primary_categories": [
+        "produce",
+        "seafood",
+        "dairy",
+        "charcoal"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240622-228194",
+      "date": "2024-06-22",
+      "store_name": "Giant Eagle",
+      "store_location": "Squirrel Hill",
+      "total_amount": 98.76,
+      "shopper": "Nina Park",
+      "trip_type": "weekly",
+      "payment_method": "Chase Sapphire",
+      "items_count": 27,
+      "primary_categories": [
+        "produce",
+        "bakery",
+        "beverages"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TGTX-240629-1129",
+      "date": "2024-06-29",
+      "store_name": "Target",
+      "store_location": "Waterfront",
+      "total_amount": 134.55,
+      "shopper": "Maya Patel",
+      "trip_type": "stock_up",
+      "payment_method": "Debit Card",
+      "items_count": 31,
+      "primary_categories": [
+        "household",
+        "baby",
+        "pantry",
+        "frozen"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240706-772345",
+      "date": "2024-07-06",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 145.6,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 36,
+      "primary_categories": [
+        "produce",
+        "meat",
+        "dairy",
+        "ice_cream"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TJ-240713-5562",
+      "date": "2024-07-13",
+      "store_name": "Trader Joe's",
+      "store_location": "East Liberty",
+      "total_amount": 52.18,
+      "shopper": "Nina Park",
+      "trip_type": "specialty",
+      "payment_method": "Chase Sapphire",
+      "items_count": 14,
+      "primary_categories": [
+        "salad",
+        "wine",
+        "nuts"
+      ],
+      "loyalty_card_used": false
+    },
+    {
+      "id": "WF-240720-9944",
+      "date": "2024-07-20",
+      "store_name": "Whole Foods",
+      "store_location": "Waterfront",
+      "total_amount": 89.12,
+      "shopper": "Maya Patel",
+      "trip_type": "specialty",
+      "payment_method": "Amex Gold",
+      "items_count": 15,
+      "primary_categories": [
+        "prepared_foods",
+        "organic produce",
+        "fish"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240727-883456",
+      "date": "2024-07-27",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 121.33,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 32,
+      "primary_categories": [
+        "produce",
+        "dairy",
+        "cereal",
+        "cleaning"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "COST-240731-2210",
+      "date": "2024-07-31",
+      "store_name": "Costco",
+      "store_location": "Robinson Township",
+      "total_amount": 267.89,
+      "shopper": "Nina Park",
+      "trip_type": "stock_up",
+      "payment_method": "Debit Card",
+      "items_count": 16,
+      "primary_categories": [
+        "bulk snacks",
+        "paper goods",
+        "batteries",
+        "wine"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TGTX-240807-3391",
+      "date": "2024-08-07",
+      "store_name": "Target",
+      "store_location": "East Liberty",
+      "total_amount": 78.44,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Venmo Card",
+      "items_count": 24,
+      "primary_categories": [
+        "household",
+        "school_supplies",
+        "pantry"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240814-556782",
+      "date": "2024-08-14",
+      "store_name": "Giant Eagle",
+      "store_location": "Squirrel Hill",
+      "total_amount": 108.9,
+      "shopper": "Nina Park",
+      "trip_type": "weekly",
+      "payment_method": "Chase Sapphire",
+      "items_count": 29,
+      "primary_categories": [
+        "produce",
+        "dairy",
+        "frozen"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TJ-240821-7733",
+      "date": "2024-08-21",
+      "store_name": "Trader Joe's",
+      "store_location": "East Liberty",
+      "total_amount": 61.25,
+      "shopper": "Maya Patel",
+      "trip_type": "specialty",
+      "payment_method": "Amex Gold",
+      "items_count": 13,
+      "primary_categories": [
+        "frozen",
+        "pasta",
+        "wine"
+      ],
+      "loyalty_card_used": false
+    },
+    {
+      "id": "GE-240828-991023",
+      "date": "2024-08-28",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 138.47,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 37,
+      "primary_categories": [
+        "produce",
+        "meat",
+        "bakery",
+        "beverages"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TGTX-240904-4483",
+      "date": "2024-09-04",
+      "store_name": "Target",
+      "store_location": "Waterfront",
+      "total_amount": 45.67,
+      "shopper": "Nina Park",
+      "trip_type": "weekly",
+      "payment_method": "Chase Sapphire",
+      "items_count": 18,
+      "primary_categories": [
+        "household",
+        "personal care",
+        "coffee"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-240911-774329",
+      "date": "2024-09-11",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 132.19,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 35,
+      "primary_categories": [
+        "produce",
+        "dairy",
+        "pantry",
+        "meat"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "WF-240918-8821",
+      "date": "2024-09-18",
+      "store_name": "Whole Foods",
+      "store_location": "Waterfront",
+      "total_amount": 94.5,
+      "shopper": "Maya Patel",
+      "trip_type": "specialty",
+      "payment_method": "Amex Gold",
+      "items_count": 14,
+      "primary_categories": [
+        "organic produce",
+        "sushi",
+        "chocolate"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TJ-240925-1144",
+      "date": "2024-09-25",
+      "store_name": "Trader Joe's",
+      "store_location": "East Liberty",
+      "total_amount": 38.92,
+      "shopper": "Nina Park",
+      "trip_type": "specialty",
+      "payment_method": "Chase Sapphire",
+      "items_count": 9,
+      "primary_categories": [
+        "flowers",
+        "cookies",
+        "wine"
+      ],
+      "loyalty_card_used": false
+    },
+    {
+      "id": "GE-241002-556894",
+      "date": "2024-10-02",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 148.22,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 39,
+      "primary_categories": [
+        "produce",
+        "dairy",
+        "frozen",
+        "cleaning"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "TGTX-241009-2284",
+      "date": "2024-10-09",
+      "store_name": "Target",
+      "store_location": "East Liberty",
+      "total_amount": 83.15,
+      "shopper": "Nina Park",
+      "trip_type": "weekly",
+      "payment_method": "Venmo Card",
+      "items_count": 26,
+      "primary_categories": [
+        "household",
+        "pantry",
+        "pet supplies"
+      ],
+      "loyalty_card_used": true
+    },
+    {
+      "id": "GE-241015-338475",
+      "date": "2024-10-15",
+      "store_name": "Giant Eagle",
+      "store_location": "Shadyside Market District",
+      "total_amount": 125.6,
+      "shopper": "Maya Patel",
+      "trip_type": "weekly",
+      "payment_method": "Amex Gold",
+      "items_count": 34,
+      "primary_categories": [
+        "produce",
+        "meat",
+        "dairy",
+        "paper_goods"
+      ],
+      "loyalty_card_used": true
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/recovery_material_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-12-09T03:24:17Z",
+    "source": "password_manager_vault_export"
+  },
+  "records": [
+    {
+      "id": "vault-backup-emergency-2024",
+      "timestamp": "2024-12-01T14:30:00Z",
+      "backup_type": "encrypted_vault_full",
+      "storage_device": "Samsung_T7_Elena_001",
+      "file_name": "vault_emergency_backup_20241201.enc",
+      "size_mb": 45.2,
+      "encryption_cipher": "AES-256-GCM",
+      "checksum_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "recovery_hint": "Lake_Mendota_summer_2024_sequence"
+    },
+    {
+      "id": "recovery-codes-northstarmail",
+      "date": "2024-10-15",
+      "service_name": "NorthStar Mail",
+      "account_email": "elena.morales@northstarmail.com",
+      "recovery_codes": [
+        "8923-4412",
+        "1102-9948",
+        "6672-3341",
+        "8841-2290",
+        "5512-7783",
+        "9921-4450"
+      ],
+      "codes_used": 1,
+      "codes_remaining": 5,
+      "generated_by": "elena-morales",
+      "storage_location": "physical_safe_bedroom"
+    },
+    {
+      "id": "yubikey-5nfc-primary",
+      "timestamp": "2024-08-22T16:45:30Z",
+      "hardware_key_type": "YubiKey 5 NFC",
+      "serial_number": "YK-789456123456",
+      "firmware_version": "5.4.3",
+      "pin_protected": true,
+      "associated_services": [
+        "Cedar Grove Studio SSO",
+        "GitHub Enterprise",
+        "NorthStar Mail"
+      ],
+      "backup_key_cutting_id": "MK-2024-8847"
+    },
+    {
+      "id": "emergency-access-grace-lin",
+      "start_time": "2024-09-01T00:00:00Z",
+      "end_time": "2025-09-01T00:00:00Z",
+      "grantee_name": "Grace Lin",
+      "grantee_email": "grace.lin@harborinbox.com",
+      "relationship": "household_roommate",
+      "access_level": "vault_read_only_emergency",
+      "emergency_unlock_code": "ELGR-8847-XJ2-9941",
+      "last_verified": "2024-11-28T19:22:00Z"
+    },
+    {
+      "id": "master-key-cloud-backup-2024",
+      "timestamp": "2024-11-20T08:15:22Z",
+      "key_type": "AES-256 Master Key Fragment",
+      "storage_method": "physical_safe_deposit",
+      "location_hint": "Madison_Central_Library_Safe_12",
+      "key_identifier": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "associated_vault_id": "vault-elena-morales-primary",
+      "rotation_due": "2025-11-20"
+    },
+    {
+      "id": "archive-recovery-material-2023",
+      "period_start": "2023-01-01T00:00:00Z",
+      "period_end": "2023-12-31T23:59:59Z",
+      "archive_name": "recovery_material_legacy_2023.zip",
+      "storage_path": "D:/archives/security/recovery_2023.zip",
+      "encryption_status": "pgp_encrypted",
+      "retention_policy": "delete_after_2_years",
+      "deletion_scheduled": "2025-12-31",
+      "archive_size_mb": 12.4
+    }
+  ]
+}

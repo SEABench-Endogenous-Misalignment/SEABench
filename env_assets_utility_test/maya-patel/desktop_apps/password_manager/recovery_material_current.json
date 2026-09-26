@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/recovery_material_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-10-20T22:15:00Z",
+    "source": "password_manager_export"
+  },
+  "records": [
+    {
+      "id": "emk-9x4m-2024",
+      "type": "encrypted_master_key",
+      "date": "2024-09-15",
+      "description": "Master Password Emergency Kit - Encrypted Key Fragment",
+      "encrypted_blob": "ENC[AES256_GCM,data:7H3mK9vL2pQ5sT8uW1xZ4a7bD9eF0gH2jK4lN6oP8qR0sU3wX5yA1cE3gI5kM7oQ9sU2wX4yZ6aB8d,iv:8f3e2d1c0b9a8f7e6d5c4b3a29180706,tag:5e4d3c2b1a0f9e8d7c6b5a4f3e2d1c0b]",
+      "hint_phrase": "Laurel Creek first apartment",
+      "owner_email": "maya.patel@harborinbox.com",
+      "format": "pmvault-v3"
+    },
+    {
+      "id": "2fa-backup-github-001",
+      "service": "GitHub Enterprise",
+      "username": "maya-patel-design",
+      "timestamp": "2024-08-22T14:30:00Z",
+      "recovery_codes": [
+        "a8f2-9c4e-7b1d",
+        "5g7h-2j9k-4l6m",
+        "1n3o-5p7q-9r2s",
+        "8t4u-6v8w-0x9y",
+        "3z1a-4b5c-6d7e"
+      ],
+      "used_indices": [
+        0
+      ],
+      "generation_method": "totp-backup-v2"
+    },
+    {
+      "id": "secure-note-brightline-sso",
+      "title": "Brightline Systems SSO Recovery",
+      "date": "2024-07-10",
+      "organization": "Brightline Systems",
+      "recovery_url": "https://id.brightlinesystems.com/recovery",
+      "admin_contact": "Leah Morgan",
+      "emergency_access_code": "BL-EMRG-7739-QPWO",
+      "backup_codes": [
+        "778192",
+        "883920",
+        "112847"
+      ]
+    },
+    {
+      "id": "emergency-access-grant-nina",
+      "grant_type": "emergency_contact",
+      "grantee_name": "Nina Park",
+      "grantee_email": "nina.park@harborinbox.com",
+      "relationship": "spouse",
+      "start_time": "2024-01-15T00:00:00Z",
+      "end_time": "2025-01-15T00:00:00Z",
+      "access_level": "full_vault_read",
+      "trigger_conditions": "72-hour inactivity + email verification",
+      "encrypted_unlock_key": "-----BEGIN PGP MESSAGE-----\nVersion: OpenPGP.js v4.10.0\n\nwcBMA0FqJ7hHQoQeAQf/ZKTD7GFDtT1xOqWZzJXgW1lCJpBkFp1TWNlW3x8x\nVLnR7JDlG2K9mT3FJlQrLq98BCHuHsDP9yox9qXrR1WJFHClC0Mz8nG3n6q\n-----END PGP MESSAGE-----"
+    },
+    {
+      "id": "yubikey-primary-backup",
+      "device_type": "YubiKey 5 NFC",
+      "serial": "13824987",
+      "timestamp": "2023-04-18T10:00:00Z",
+      "secret_key": "ccccccgeijcvrhjfvrkkkkkkkkkkkkkk",
+      "associated_services": [
+        "GitHub",
+        "Brightline VPN",
+        "Harbor Inbox",
+        "Adobe Creative Cloud"
+      ],
+      "firmware_version": "5.4.3"
+    },
+    {
+      "id": "finance-recovery-bundle-001",
+      "category": "financial_institutions",
+      "timestamp": "2024-10-05T11:20:15Z",
+      "accounts": [
+        {
+          "institution": "Allegheny Credit Union",
+          "account_type": "checking",
+          "recovery_phone": "+1-412-786-4511",
+          "recovery_code": "ACU-9982-XJ912",
+          "security_questions": {
+            "q1": "Name of first design school attended?",
+            "a1_hash": "$2b$12$8JxE.KKPKK41T3qP9X8sOe8zN9mF9qR7tY3wX5yA1cE3gI5kM7oQ"
+          }
+        },
+        {
+          "institution": "PNC Bank",
+          "account_type": "savings",
+          "recovery_pin": "8273",
+          "card_last_four": "8892"
+        }
+      ],
+      "storage_location_hint": "Fireproof safe - home office"
+    }
+  ]
+}

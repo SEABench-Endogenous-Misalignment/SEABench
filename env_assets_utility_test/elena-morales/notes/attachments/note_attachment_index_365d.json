@@ -1,0 +1,624 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/attachments/note_attachment_index_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T16:45:00Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "timestamp": "2023-08-14T09:23:00-05:00",
+      "file_name": "Whiteboard_Strategy_Session.jpg",
+      "file_type": "image/jpeg",
+      "size_kb": 2847,
+      "source_notebook": "Work/Strategy",
+      "note_id": "note-2023-08-14-calvin-session",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-01-15T14:30:00-06:00",
+      "thumbnail_available": true,
+      "tags": [
+        "calvin-price",
+        "whiteboard",
+        "planning"
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-f23456789012",
+      "timestamp": "2023-09-05T16:45:00-05:00",
+      "file_name": "Research_Interview_Priya_Sep05.m4a",
+      "file_type": "audio/mp4",
+      "size_kb": 15420,
+      "source_notebook": "Research/Interviews",
+      "note_id": "note-2023-09-05-priya-research",
+      "created_by": "Elena Morales",
+      "last_accessed": "2023-09-06T10:12:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "priya-shah",
+        "user-research",
+        "audio"
+      ]
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "timestamp": "2023-10-22T11:30:00-05:00",
+      "file_name": "Lease_Agreement_2024.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 452,
+      "source_notebook": "Household/Admin",
+      "note_id": "note-2023-10-22-lease-renewal",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-03-10T09:00:00-06:00",
+      "thumbnail_available": true,
+      "tags": [
+        "grace-lin",
+        "lease",
+        "willow-bend"
+      ]
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-defa-456789012345",
+      "timestamp": "2023-11-08T14:15:00-06:00",
+      "file_name": "Q4_Platform_Roadmap.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 1890,
+      "source_notebook": "Work/Planning",
+      "note_id": "note-2023-11-08-q4-review",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-02-28T11:20:00-06:00",
+      "thumbnail_available": true,
+      "tags": [
+        "leah-morgan",
+        "roadmap",
+        "q4"
+      ]
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-efab-567890123456",
+      "timestamp": "2023-12-01T10:00:00-06:00",
+      "file_name": "Holiday_Flight_Confirmation.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 128,
+      "source_notebook": "Personal/Travel",
+      "note_id": "note-2023-12-01-holiday-trip",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2023-12-15T08:45:00-06:00",
+      "thumbnail_available": false,
+      "tags": [
+        "travel",
+        "flights",
+        "msp"
+      ]
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "timestamp": "2024-01-10T15:30:00-06:00",
+      "file_name": "Design_System_Components.png",
+      "file_type": "image/png",
+      "size_kb": 892,
+      "source_notebook": "Work/Design",
+      "note_id": "note-2024-01-10-design-review",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-01-12T09:15:00-06:00",
+      "thumbnail_available": true,
+      "tags": [
+        "iris-romero",
+        "design-system",
+        "ui"
+      ]
+    },
+    {
+      "id": "a7b8c9d0-e1f2-3456-abcd-789012345678",
+      "timestamp": "2024-01-25T13:20:00-06:00",
+      "file_name": "Team_Offsite_Agenda.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_kb": 56,
+      "source_notebook": "Work/Admin",
+      "note_id": "note-2024-01-25-offsite-prep",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-01-24T16:00:00-06:00",
+      "thumbnail_available": false,
+      "tags": [
+        "offsite",
+        "agenda",
+        "logistics"
+      ]
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4567-bcde-890123456789",
+      "timestamp": "2024-02-14T19:45:00-06:00",
+      "file_name": "Gift_Receipt_Grace.jpg",
+      "file_type": "image/jpeg",
+      "size_kb": 334,
+      "source_notebook": "Personal/Gifts",
+      "note_id": "note-2024-02-14-birthday-prep",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-02-20T12:00:00-06:00",
+      "thumbnail_available": true,
+      "tags": [
+        "grace-lin",
+        "gifts",
+        "birthday"
+      ]
+    },
+    {
+      "id": "c9d0e1f2-a3b4-5678-cdef-901234567890",
+      "timestamp": "2024-03-05T09:00:00-06:00",
+      "file_name": "API_Specification_Draft.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 2150,
+      "source_notebook": "Work/Technical",
+      "note_id": "note-2024-03-05-platform-specs",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-03-12T10:30:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "api",
+        "documentation",
+        "platform"
+      ]
+    },
+    {
+      "id": "d0e1f2a3-b4c5-6789-defa-012345678901",
+      "timestamp": "2024-03-18T16:00:00-05:00",
+      "file_name": "Plumbing_Repair_Estimate.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 412,
+      "source_notebook": "Household/Maintenance",
+      "note_id": "note-2024-03-18-contractor",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-03-20T11:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "maintenance",
+        "home",
+        "contractor"
+      ]
+    },
+    {
+      "id": "e1f2a3b4-c5d6-7890-efab-123456789012",
+      "timestamp": "2024-03-22T20:15:00-05:00",
+      "file_name": "Concert_Tickets_Malik.png",
+      "file_type": "image/png",
+      "size_kb": 156,
+      "source_notebook": "Personal/Events",
+      "note_id": "note-2024-03-22-weekend-plans",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-03-23T09:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "malik-brooks",
+        "tickets",
+        "events"
+      ]
+    },
+    {
+      "id": "f2a3b4c5-d6e7-8901-fabc-234567890123",
+      "timestamp": "2024-04-03T12:30:00-05:00",
+      "file_name": "Article_Share_Nina.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 890,
+      "source_notebook": "Personal/Reading",
+      "note_id": "note-2024-04-03-reading-list",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-04-05T14:20:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "nina-park",
+        "article",
+        "research"
+      ]
+    },
+    {
+      "id": "a3b4c5d6-e7f8-9012-abcd-345678901234",
+      "timestamp": "2024-04-10T07:00:00-05:00",
+      "file_name": "Workout_Summary_April.png",
+      "file_type": "image/png",
+      "size_kb": 445,
+      "source_notebook": "Health/Fitness",
+      "note_id": "note-2024-04-10-fitness-log",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-04-10T07:05:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "fitness",
+        "workout",
+        "health"
+      ]
+    },
+    {
+      "id": "b4c5d6e7-f8a9-0123-bcde-456789012345",
+      "timestamp": "2024-04-15T11:00:00-05:00",
+      "file_name": "Insurance_Card_Health.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 220,
+      "source_notebook": "Health/Medical",
+      "note_id": "note-2024-04-15-insurance-docs",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-05-01T10:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "insurance",
+        "medical",
+        "docs"
+      ]
+    },
+    {
+      "id": "c5d6e7f8-a9b0-1234-cdef-567890123456",
+      "timestamp": "2024-04-18T16:45:00-05:00",
+      "file_name": "Tax_Document_2023_Summary.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 1150,
+      "source_notebook": "Finance/Taxes",
+      "note_id": "note-2024-04-18-tax-prep",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-04-20T09:30:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "taxes",
+        "2023",
+        "finance"
+      ]
+    },
+    {
+      "id": "d6e7f8a9-b0c1-2345-defa-678901234567",
+      "timestamp": "2024-04-22T14:00:00-05:00",
+      "file_name": "User_Research_Owen_Apr22.mov",
+      "file_type": "video/quicktime",
+      "size_kb": 45890,
+      "source_notebook": "Research/Video",
+      "note_id": "note-2024-04-22-owen-interview",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-04-23T11:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "owen-reed",
+        "user-research",
+        "video"
+      ]
+    },
+    {
+      "id": "e7f8a9b0-c1d2-3456-efab-789012345678",
+      "timestamp": "2024-05-02T10:30:00-05:00",
+      "file_name": "Sync_Meeting_Leah_May02.m4a",
+      "file_type": "audio/mp4",
+      "size_kb": 8240,
+      "source_notebook": "Work/Meetings",
+      "note_id": "note-2024-05-02-weekly-sync",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-05-02T12:00:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "leah-morgan",
+        "meeting",
+        "audio"
+      ]
+    },
+    {
+      "id": "f8a9b0c1-d2e3-4567-fabc-890123456789",
+      "timestamp": "2024-05-08T21:00:00-05:00",
+      "file_name": "Chat_Screenshot_Grace.png",
+      "file_type": "image/png",
+      "size_kb": 128,
+      "source_notebook": "Personal/Messages",
+      "note_id": "note-2024-05-08-household-chat",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-05-09T08:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "grace-lin",
+        "chat",
+        "household"
+      ]
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-901234567890",
+      "timestamp": "2024-05-14T13:15:00-05:00",
+      "file_name": "Whiteboard_Architecture_May.jpg",
+      "file_type": "image/jpeg",
+      "size_kb": 3120,
+      "source_notebook": "Work/Design",
+      "note_id": "note-2024-05-14-architecture-session",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-05-15T09:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "iris-romero",
+        "whiteboard",
+        "architecture"
+      ]
+    },
+    {
+      "id": "b0c1d2e3-f4a5-6789-bcde-012345678901",
+      "timestamp": "2024-05-20T09:00:00-05:00",
+      "file_name": "UX_Conference_Registration.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 245,
+      "source_notebook": "Professional/Dev",
+      "note_id": "note-2024-05-20-conference",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-06-10T10:00:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "conference",
+        "ux",
+        "registration"
+      ]
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-123456789012",
+      "timestamp": "2024-05-25T17:30:00-05:00",
+      "file_name": "Hotel_Confirmation_Chicago.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 180,
+      "source_notebook": "Travel/Bookings",
+      "note_id": "note-2024-05-25-chicago-trip",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-06-01T11:00:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "travel",
+        "hotel",
+        "chicago"
+      ]
+    },
+    {
+      "id": "d2e3f4a5-b6c7-8901-defa-234567890123",
+      "timestamp": "2024-06-02T19:00:00-05:00",
+      "file_name": "Grocery_Receipt_June02.jpg",
+      "file_type": "image/jpeg",
+      "size_kb": 890,
+      "source_notebook": "Household/Expenses",
+      "note_id": "note-2024-06-02-groceries",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-06-03T10:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "groceries",
+        "expenses",
+        "receipt"
+      ]
+    },
+    {
+      "id": "e3f4a5b6-c7d8-9012-efab-345678901234",
+      "timestamp": "2024-06-08T10:00:00-05:00",
+      "file_name": "Dr_Chen_Summary_June08.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 340,
+      "source_notebook": "Health/Medical",
+      "note_id": "note-2024-06-08-appointment",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-06-08T14:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "medical",
+        "appointment",
+        "summary"
+      ]
+    },
+    {
+      "id": "f4a5b6c7-d8e9-0123-fabc-456789012345",
+      "timestamp": "2024-06-12T16:00:00-05:00",
+      "file_name": "Prescription_VitaminD.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 95,
+      "source_notebook": "Health/Medical",
+      "note_id": "note-2024-06-12-prescription",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-06-15T09:00:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "prescription",
+        "vitamins",
+        "health"
+      ]
+    },
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-567890123456",
+      "timestamp": "2024-06-15T08:30:00-05:00",
+      "file_name": "Banking_App_Screenshot_June.png",
+      "file_type": "image/png",
+      "size_kb": 234,
+      "source_notebook": "Finance/Banking",
+      "note_id": "note-2024-06-15-balance-check",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-06-15T08:31:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "banking",
+        "screenshot",
+        "balance"
+      ]
+    },
+    {
+      "id": "b6c7d8e9-f0a1-2345-bcde-678901234567",
+      "timestamp": "2024-06-18T05:45:00-05:00",
+      "file_name": "Boarding_Pass_SFO.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 112,
+      "source_notebook": "Travel/Bookings",
+      "note_id": "note-2024-06-18-sfo-flight",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-06-18T06:00:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "travel",
+        "boarding-pass",
+        "sfo"
+      ]
+    },
+    {
+      "id": "c7d8e9f0-a1b2-3456-cdef-789012345678",
+      "timestamp": "2024-06-20T11:20:00-05:00",
+      "file_name": "Car_Rental_Agreement.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 520,
+      "source_notebook": "Travel/Bookings",
+      "note_id": "note-2024-06-20-rental-car",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-06-25T10:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "travel",
+        "rental",
+        "car"
+      ]
+    },
+    {
+      "id": "d8e9f0a1-b2c3-4567-defa-890123456789",
+      "timestamp": "2024-07-01T14:00:00-05:00",
+      "file_name": "Living_Room_Inventory.jpg",
+      "file_type": "image/jpeg",
+      "size_kb": 1560,
+      "source_notebook": "Household/Inventory",
+      "note_id": "note-2024-07-01-home-inventory",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-07-05T16:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "inventory",
+        "home",
+        "insurance"
+      ]
+    },
+    {
+      "id": "e9f0a1b2-c3d4-5678-efab-901234567890",
+      "timestamp": "2024-07-05T12:00:00-05:00",
+      "file_name": "Wedding_Invitation_Malik_Nina.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 680,
+      "source_notebook": "Personal/Events",
+      "note_id": "note-2024-07-05-wedding-save-date",
+      "created_by": "elena.morales@northstarmail.com",
+      "last_accessed": "2024-07-10T09:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "malik-brooks",
+        "nina-park",
+        "wedding"
+      ]
+    },
+    {
+      "id": "f0a1b2c3-d4e5-6789-fabc-012345678901",
+      "timestamp": "2024-07-08T09:30:00-05:00",
+      "file_name": "Platform_Launch_Timeline.pdf",
+      "file_type": "application/pdf",
+      "size_kb": 1450,
+      "source_notebook": "Work/Projects",
+      "note_id": "note-2024-07-08-launch-plan",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-07-12T11:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "launch",
+        "timeline",
+        "platform"
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-123456789012",
+      "timestamp": "2024-07-10T15:00:00-05:00",
+      "file_name": "Competitor_Analysis_Q3.png",
+      "file_type": "image/png",
+      "size_kb": 780,
+      "source_notebook": "Work/Strategy",
+      "note_id": "note-2024-07-10-competitor-review",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-07-11T10:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "competitors",
+        "analysis",
+        "q3"
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6a7-8901-bcde-234567890123",
+      "timestamp": "2024-07-12T11:30:00-05:00",
+      "file_name": "Mobile_Mockup_v4.png",
+      "file_type": "image/png",
+      "size_kb": 2340,
+      "source_notebook": "Work/Design",
+      "note_id": "note-2024-07-12-mockup-iteration",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-07-13T09:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "mockup",
+        "mobile",
+        "design"
+      ]
+    },
+    {
+      "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+      "timestamp": "2024-07-15T07:15:00-05:00",
+      "file_name": "Morning_Walk_Thoughts.m4a",
+      "file_type": "audio/mp4",
+      "size_kb": 4520,
+      "source_notebook": "Personal/Journal",
+      "note_id": "note-2024-07-15-morning-thoughts",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-07-15T07:30:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "audio",
+        "journal",
+        "morning"
+      ]
+    },
+    {
+      "id": "d4e5f6a7-b8c9-0123-defa-456789012345",
+      "timestamp": "2024-07-17T16:30:00-05:00",
+      "file_name": "Calendar_Conflict_Screenshot.png",
+      "file_type": "image/png",
+      "size_kb": 189,
+      "source_notebook": "Work/Admin",
+      "note_id": "note-2024-07-17-scheduling-issue",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-07-17T16:35:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "scheduling",
+        "conflict",
+        "calendar"
+      ]
+    },
+    {
+      "id": "e5f6a7b8-c9d0-1234-efab-567890123456",
+      "timestamp": "2024-07-19T10:00:00-05:00",
+      "file_name": "Completed_Tasks_Export.csv",
+      "file_type": "text/csv",
+      "size_kb": 45,
+      "source_notebook": "Productivity/Archive",
+      "note_id": "note-2024-07-19-task-review",
+      "created_by": "Elena Morales",
+      "last_accessed": "2024-07-19T10:05:00-05:00",
+      "thumbnail_available": false,
+      "tags": [
+        "tasks",
+        "export",
+        "completed"
+      ]
+    },
+    {
+      "id": "f6a7b8c9-d0e1-2345-fabc-678901234567",
+      "timestamp": "2024-07-21T18:00:00-05:00",
+      "file_name": "Team_Dinner_Photo.jpg",
+      "file_type": "image/jpeg",
+      "size_kb": 3420,
+      "source_notebook": "Work/Social",
+      "note_id": "note-2024-07-21-team-dinner",
+      "created_by": "elena.morales@cedargrovestudio.com",
+      "last_accessed": "2024-07-22T09:00:00-05:00",
+      "thumbnail_available": true,
+      "tags": [
+        "team",
+        "cedar-grove",
+        "social"
+      ]
+    }
+  ]
+}

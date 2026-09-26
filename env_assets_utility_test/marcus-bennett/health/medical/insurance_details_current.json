@@ -1,0 +1,129 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/insurance_details_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-12-19T14:32:18Z",
+    "source": "benefits_enrollment_export"
+  },
+  "records": [
+    {
+      "id": "HP_med_2024_789456123",
+      "plan_name": "HealthPartners PPO Select",
+      "insurance_type": "Medical",
+      "member_id": "789456123",
+      "group_number": "HVW2024059",
+      "policy_holder": "Marcus Bennett",
+      "dependent_names": [
+        "Nina Park"
+      ],
+      "issuer_name": "HealthPartners",
+      "issuer_phone": "+1-952-883-7000",
+      "issuer_address": "8170 33rd Avenue South, Bloomington, MN 55425",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "deductible_individual": 1500,
+      "deductible_family": 4500,
+      "out_of_pocket_max_individual": 6000,
+      "out_of_pocket_max_family": 12000,
+      "copay_primary_care": 25,
+      "copay_specialist": 45,
+      "copay_urgent_care": 75,
+      "emergency_room_copay": 500
+    },
+    {
+      "id": "DD_den_2024_456789012",
+      "plan_name": "Delta Dental PPO Premium",
+      "insurance_type": "Dental",
+      "member_id": "456789012",
+      "group_number": "HVW2024DD059",
+      "policy_holder": "Marcus Bennett",
+      "dependent_names": [
+        "Nina Park"
+      ],
+      "issuer_name": "Delta Dental of Minnesota",
+      "issuer_phone": "+1-800-472-2363",
+      "issuer_address": "900 American Boulevard East, Minneapolis, MN 55420",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "annual_maximum": 2000,
+      "deductible_individual": 50,
+      "deductible_family": 150,
+      "orthodontia_lifetime_max": 1500
+    },
+    {
+      "id": "VSP_vis_2024_998877665",
+      "plan_name": "VSP Choice",
+      "insurance_type": "Vision",
+      "member_id": "998877665",
+      "group_number": "HVW2024VSP059",
+      "policy_holder": "Marcus Bennett",
+      "dependent_names": [
+        "Nina Park"
+      ],
+      "issuer_name": "VSP Global",
+      "issuer_phone": "+1-800-877-7195",
+      "issuer_website": "vsp.com",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "copay_exam": 15,
+      "copay_frame": 25,
+      "copay_materials": 25,
+      "frame_allowance": 180,
+      "contact_lens_allowance": 150
+    },
+    {
+      "id": "MET_life_2024_554433221",
+      "plan_name": "Group Term Life and AD&D",
+      "insurance_type": "Life",
+      "member_id": "554433221",
+      "group_number": "HVW2024LIFE059",
+      "policy_holder": "Marcus Bennett",
+      "dependent_names": [],
+      "beneficiary_primary": "Nina Park",
+      "issuer_name": "MetLife",
+      "issuer_phone": "+1-866-492-6983",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "coverage_amount": 150000,
+      "ad_d_amount": 150000
+    },
+    {
+      "id": "MUT_std_2024_112233445",
+      "plan_name": "Short-Term Disability Income",
+      "insurance_type": "Disability",
+      "member_id": "112233445",
+      "group_number": "HVW2024STD059",
+      "policy_holder": "Marcus Bennett",
+      "issuer_name": "Mutual of Omaha",
+      "issuer_phone": "+1-877-204-4787",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "benefit_percentage": 60,
+      "weekly_benefit_max": 1500,
+      "elimination_period_days": 14
+    },
+    {
+      "id": "XP_rx_2024_667788990",
+      "plan_name": "Express Scripts Pharmacy",
+      "insurance_type": "Prescription",
+      "member_id": "667788990",
+      "group_number": "HVW2024RX059",
+      "policy_holder": "Marcus Bennett",
+      "dependent_names": [
+        "Nina Park"
+      ],
+      "issuer_name": "Express Scripts",
+      "issuer_phone": "+1-800-711-0917",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "retail_copay_tier1": 10,
+      "retail_copay_tier2": 35,
+      "retail_copay_tier3": 60,
+      "mail_order_copay_tier1": 20,
+      "mail_order_copay_tier2": 70,
+      "mail_order_copay_tier3": 120
+    }
+  ]
+}

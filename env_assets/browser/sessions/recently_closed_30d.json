@@ -1,0 +1,107 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/recently_closed_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T14:00:00Z"
+  },
+  "records": [
+    {
+      "id": "sess_a1b2c3d4",
+      "timestamp": "2026-06-29T09:15:22Z",
+      "title": "Inbox - alice.work@email.com",
+      "url": "https://mail.workplace.com/inbox",
+      "window_id": "win_001",
+      "device": "laptop"
+    },
+    {
+      "id": "sess_e5f6g7h8",
+      "timestamp": "2026-06-28T14:30:45Z",
+      "title": "Running Shoes - ShopSport",
+      "url": "https://shopsport.net/products/athletic-footwear",
+      "window_id": "win_002",
+      "device": "laptop"
+    },
+    {
+      "id": "sess_i9j0k1l2",
+      "timestamp": "2026-06-27T08:45:10Z",
+      "title": "Morning Headlines - City News Daily",
+      "url": "https://citynewsdaily.com/local",
+      "window_id": "win_003",
+      "device": "phone"
+    },
+    {
+      "id": "sess_m3n4o5p6",
+      "timestamp": "2026-06-26T16:20:33Z",
+      "title": "Account Dashboard - Regional Credit Union",
+      "url": "https://online.regionalcu.org/dashboard",
+      "window_id": "win_001",
+      "device": "laptop"
+    },
+    {
+      "id": "sess_q7r8s9t0",
+      "timestamp": "2026-06-25T07:00:15Z",
+      "title": "Weekly Activity Summary - FitTrack",
+      "url": "https://fittrack.io/weekly-report",
+      "window_id": "win_004",
+      "device": "phone"
+    },
+    {
+      "id": "sess_u1v2w3x4",
+      "timestamp": "2026-06-24T11:30:00Z",
+      "title": "Edit Event: Project Kickoff",
+      "url": "https://quickcal.net/event/edit/12345",
+      "window_id": "win_001",
+      "device": "laptop"
+    },
+    {
+      "id": "sess_y5z6a7b8",
+      "timestamp": "2026-06-23T19:15:45Z",
+      "title": "Vegetarian Pasta Recipes - KitchenDaily",
+      "url": "https://freshrecipes.org/vegetarian/pasta",
+      "window_id": "win_002",
+      "device": "tablet"
+    },
+    {
+      "id": "sess_c9d0e1f2",
+      "timestamp": "2026-06-22T20:45:12Z",
+      "title": "Flight Search: NYC to Paris",
+      "url": "https://travelbook.net/flights/search",
+      "window_id": "win_003",
+      "device": "laptop"
+    },
+    {
+      "id": "sess_g3h4i5j6",
+      "timestamp": "2026-06-21T12:05:30Z",
+      "title": "Home - ConnectSocial",
+      "url": "https://connectsocial.io/feed",
+      "window_id": "win_005",
+      "device": "phone"
+    },
+    {
+      "id": "sess_k7l8m9n0",
+      "timestamp": "2026-06-20T15:22:18Z",
+      "title": "Q3 Budget Spreadsheet - DocsCloud",
+      "url": "https://docscloud.io/sheets/q3-budget-2026",
+      "window_id": "win_001",
+      "device": "laptop"
+    },
+    {
+      "id": "sess_o1p2q3r4",
+      "timestamp": "2026-06-19T21:10:55Z",
+      "title": "Documentary: Ocean Life - StreamView",
+      "url": "https://streamview.tv/watch/ocean-life",
+      "window_id": "win_006",
+      "device": "tablet"
+    },
+    {
+      "id": "sess_s5t6u7v8",
+      "timestamp": "2026-06-18T10:45:40Z",
+      "title": "Search: best hiking trails near me",
+      "url": "https://search.io/results?q=hiking+trails+near+me",
+      "window_id": "win_001",
+      "device": "laptop"
+    }
+  ]
+}

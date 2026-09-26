@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/privacy_redaction_rules.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T18:30:00Z",
+    "source": "privacy_config_export"
+  },
+  "records": [
+    {
+      "id": "redact-rule-9041",
+      "timestamp": "2024-09-18T16:45:22Z",
+      "rule_name": "Primary Personal Email Mask",
+      "scope": "email_exports,messaging_logs",
+      "match_type": "exact",
+      "target_value": "linh.nguyen@riverbendmail.com",
+      "replacement_strategy": "tokenize",
+      "priority": 1,
+      "is_active": true
+    },
+    {
+      "id": "redact-rule-9042",
+      "timestamp": "2024-09-18T16:46:10Z",
+      "rule_name": "Corporate Email Alias Protection",
+      "scope": "calendar_sync,work_comms",
+      "match_type": "exact",
+      "target_value": "linh.nguyen@brightlinesystems.com",
+      "replacement_strategy": "domain_mask",
+      "priority": 2,
+      "is_active": true
+    },
+    {
+      "id": "redact-rule-9043",
+      "timestamp": "2024-09-18T16:47:05Z",
+      "rule_name": "Mobile Number Obfuscation",
+      "scope": "contact_lists,call_history",
+      "match_type": "exact",
+      "target_value": "+1-720-455-5286",
+      "replacement_strategy": "last_four_only",
+      "priority": 1,
+      "is_active": true
+    },
+    {
+      "id": "redact-rule-9044",
+      "timestamp": "2024-09-18T16:48:33Z",
+      "rule_name": "Residential Address Scrub",
+      "scope": "travel_docs,form_autofill",
+      "match_type": "substring",
+      "target_value": "4072 Maple Hollow Ave",
+      "replacement_strategy": "geo_hash",
+      "priority": 3,
+      "is_active": true
+    },
+    {
+      "id": "redact-rule-9045",
+      "timestamp": "2024-09-18T16:49:18Z",
+      "rule_name": "Account Number Truncation",
+      "scope": "finance_exports,bank_statements",
+      "match_type": "regex",
+      "target_pattern": "\\b\\d{8,17}\\b",
+      "replacement_strategy": "mask_prefix",
+      "priority": 1,
+      "is_active": true
+    },
+    {
+      "id": "redact-rule-9046",
+      "timestamp": "2024-09-18T16:50:45Z",
+      "rule_name": "Employee ID Pseudonymization",
+      "scope": "hr_exports,payroll_sync",
+      "match_type": "prefix",
+      "target_prefix": "BLS-",
+      "replacement_strategy": "rotate_id",
+      "priority": 2,
+      "is_active": true
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/quick_notes/notes_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-04-15T18:30:00Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "nt_a4f2b8c1",
+      "timestamp": "2024-04-14T09:15:00-06:00",
+      "title": "User Interview Insights",
+      "content": "Key insight from today's session with Grace Lin: users want export options in JSON, not just CSV. Mention to Leah Morgan tomorrow.",
+      "tags": [
+        "work",
+        "riverton",
+        "insights"
+      ],
+      "folder": "Work"
+    },
+    {
+      "id": "nt_9e3d7a2f",
+      "timestamp": "2024-04-10T14:30:00-06:00",
+      "title": "Grocery Run",
+      "content": "- Oat milk\n- Sourdough bread\n- Avocados\n- Coffee beans (medium roast)\n- Check if Nina wants that specific chamomile tea",
+      "tags": [
+        "personal",
+        "shopping"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_1c8b5d4e",
+      "timestamp": "2024-04-05T20:45:00-06:00",
+      "title": "Weekend Hike with Owen",
+      "content": "Call Owen Reed about Saturday trail. Maybe Mount Sanitas? Check weather. Bring extra water.",
+      "tags": [
+        "personal",
+        "hiking",
+        "owen"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_3f7a9c2b",
+      "timestamp": "2024-04-01T11:20:00-06:00",
+      "title": "Article: Design Tokens",
+      "content": "https://designsystems.xyz/articles/tokens-at-scale Good reference for the platform redesign. Share with Calvin Price.",
+      "tags": [
+        "work",
+        "reading"
+      ],
+      "folder": "Inbox"
+    },
+    {
+      "id": "nt_8d2e5f1a",
+      "timestamp": "2024-03-28T16:00:00-06:00",
+      "title": "Nina's Birthday Ideas",
+      "content": "Ideas for May:\n1. Dinner at Mercantile\n2. Pottery class reservation\n3. Book she mentioned - 'The Invention of Nature'",
+      "tags": [
+        "personal",
+        "nina",
+        "gifts"
+      ],
+      "folder": "Personal"
+    },
+    {
+      "id": "nt_5b1c4a8d",
+      "timestamp": "2024-03-25T09:00:00-06:00",
+      "title": "Meeting Prep: Iris",
+      "content": "Questions for Iris Romero about Q2 roadmap:\n- Priority of mobile vs desktop\n- Timeline for user testing\n- Budget for recruiting",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "folder": "Work"
+    },
+    {
+      "id": "nt_2a9f6e3c",
+      "timestamp": "2024-03-20T13:45:00-06:00",
+      "title": "Draft: Email to Calvin",
+      "content": "Hi Calvin, Following up on the analytics dashboard. The retention curves look promising. Can we discuss the segmentation logic on Thursday?",
+      "tags": [
+        "work",
+        "drafts"
+      ],
+      "folder": "Drafts"
+    },
+    {
+      "id": "nt_7e4b8d2f",
+      "timestamp": "2024-03-15T19:30:00-06:00",
+      "title": "Book Rec from Priya",
+      "content": "Priya Shah recommended 'The Overstory' by Richard Powers. Says it changed her view on urban planning. Check library availability.",
+      "tags": [
+        "reading",
+        "priya"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_4c1d7a9e",
+      "timestamp": "2024-03-08T10:15:00-07:00",
+      "title": "Boulder Trip Planning",
+      "content": "Look into hotels near Pearl Street for the weekend getaway with Nina. Check if Eldora is open for late season skiing.",
+      "tags": [
+        "travel",
+        "nina",
+        "weekend"
+      ],
+      "folder": "Personal"
+    },
+    {
+      "id": "nt_6f3e8b2a",
+      "timestamp": "2024-03-01T08:00:00-07:00",
+      "title": "Plant Watering Schedule",
+      "content": "Monstera: weekly, Sundays\nSnake plant: bi-weekly\nFiddle leaf: check moisture, probably Thursday",
+      "tags": [
+        "home",
+        "plants"
+      ],
+      "folder": "Home"
+    },
+    {
+      "id": "nt_9a2d5f7c",
+      "timestamp": "2024-02-28T21:00:00-07:00",
+      "title": "Podcast Quote",
+      "content": "\"The best insights come from the messiest data.\" - Hidden Brain episode on intuition. Relevant to our customer feedback project.",
+      "tags": [
+        "ideas",
+        "work"
+      ],
+      "folder": "Ideas"
+    },
+    {
+      "id": "nt_1b8e4c6d",
+      "timestamp": "2024-02-20T14:15:00-07:00",
+      "title": "App Idea: Health Insights",
+      "content": "What if we built a lightweight tool that correlates wearable sleep data with calendar events? Could help optimize meeting scheduling.",
+      "tags": [
+        "ideas",
+        "health",
+        "side-project"
+      ],
+      "folder": "Ideas"
+    },
+    {
+      "id": "nt_5f7a3c9b",
+      "timestamp": "2024-02-14T18:30:00-07:00",
+      "title": "Camping Gear List",
+      "content": "Need new sleeping pad. Current one leaks. Also:\n- Headlamp batteries\n- Camp stove fuel\n- Check reservation at Golden Gate Canyon",
+      "tags": [
+        "camping",
+        "gear",
+        "shopping"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_3c9e2a8f",
+      "timestamp": "2024-02-05T09:45:00-07:00",
+      "title": "Dentist Appt",
+      "content": "Dr. Henderson, 303-484-9921. Scheduled for March 3rd. Address: 2450 S Colorado Blvd.",
+      "tags": [
+        "health",
+        "appointments"
+      ],
+      "folder": "Personal"
+    },
+    {
+      "id": "nt_8e1b5d4a",
+      "timestamp": "2024-01-30T11:00:00-07:00",
+      "title": "Customer Feedback Themes",
+      "content": "Synthesizing Q4 survey data. Top 3 themes:\n1. Export functionality (mentioned by 40%)\n2. Mobile responsiveness (32%)\n3. Dark mode (28%)",
+      "tags": [
+        "work",
+        "research"
+      ],
+      "folder": "Work"
+    },
+    {
+      "id": "nt_2d7f9e1c",
+      "timestamp": "2024-01-25T17:20:00-07:00",
+      "title": "Recipe: Miso Glazed Salmon",
+      "content": "https://cooking.nytimes.com/recipes/1023345-miso-glazed-salmon Try this for dinner Friday. Need white miso, mirin, sake.",
+      "tags": [
+        "cooking",
+        "recipes"
+      ],
+      "folder": "Inbox"
+    },
+    {
+      "id": "nt_6a4c8e2b",
+      "timestamp": "2024-01-20T08:30:00-07:00",
+      "title": "Bill Reminder",
+      "content": "Xcel Energy due on the 28th. Set up auto-pay? Check current usage spike from December cold snap.",
+      "tags": [
+        "finances",
+        "home"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_4f9a2e7d",
+      "timestamp": "2024-01-15T13:00:00-07:00",
+      "title": "Call Notes: Malik",
+      "content": "Catching up with Malik Brooks. He's moving to Denver in June. Looking for recommendations on neighborhoods near RiNo. Suggested Berkeley or Highlands.",
+      "tags": [
+        "personal",
+        "malik",
+        "friends"
+      ],
+      "folder": "Personal"
+    },
+    {
+      "id": "nt_9c3b7f1e",
+      "timestamp": "2024-01-10T20:00:00-07:00",
+      "title": "Movies to Watch",
+      "content": "Anatomy of a Fall (Nina wants to see)\nThe Zone of Interest\nPoor Things\nSociety of the Snow",
+      "tags": [
+        "entertainment",
+        "movies"
+      ],
+      "folder": "Media"
+    },
+    {
+      "id": "nt_1e8a6c4f",
+      "timestamp": "2023-12-28T10:45:00-07:00",
+      "title": "Home Office Setup",
+      "content": "Monitor arm for the 32\" display. Cable management tray under desk. Consider blue light glasses for late work sessions.",
+      "tags": [
+        "home",
+        "office",
+        "setup"
+      ],
+      "folder": "Home"
+    },
+    {
+      "id": "nt_7b2d5e9a",
+      "timestamp": "2023-12-20T09:30:00-07:00",
+      "title": "Project Retro Notes",
+      "content": "What worked:\n- Weekly check-ins with Leah\n- Async documentation in Confluence\nWhat didn't:\n- Scope creep on the dashboard widget\n- Late feedback from stakeholders",
+      "tags": [
+        "work",
+        "retro"
+      ],
+      "folder": "Work"
+    },
+    {
+      "id": "nt_5f1c8a3b",
+      "timestamp": "2023-12-15T16:00:00-07:00",
+      "title": "Car Maintenance",
+      "content": "Subaru needs oil change. Mileage: 45,200. Also rotate tires. Call Burt's Garage: 720-334-8891.",
+      "tags": [
+        "car",
+        "maintenance"
+      ],
+      "folder": "Personal"
+    },
+    {
+      "id": "nt_3a9f7c2e",
+      "timestamp": "2023-12-10T14:00:00-07:00",
+      "title": "Gift Ideas for Elena",
+      "content": "Elena Vega's housewarming - she got the place in Capitol Hill. Good bottle of wine? Or something for the balcony garden.",
+      "tags": [
+        "gifts",
+        "elena",
+        "friends"
+      ],
+      "folder": "Personal"
+    },
+    {
+      "id": "nt_8d6e2b4c",
+      "timestamp": "2023-12-05T11:15:00-07:00",
+      "title": "Presentation Outline Draft",
+      "content": "Q1 Review deck structure:\n1. Metrics snapshot\n2. Customer stories (3 quotes)\n3. Platform improvements\n4. Q2 priorities\nSend to Calvin for review by EOD.",
+      "tags": [
+        "work",
+        "presentation"
+      ],
+      "folder": "Work"
+    },
+    {
+      "id": "nt_2b5f9a7d",
+      "timestamp": "2023-11-28T07:30:00-07:00",
+      "title": "Yoga Schedule",
+      "content": "CorePower on 17th Street. Mon/Wed 7am with Sarah. Bring mat towel. Check if 10-class pack expired.",
+      "tags": [
+        "health",
+        "fitness"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_6e4a1c8f",
+      "timestamp": "2023-11-20T18:00:00-07:00",
+      "title": "Tomorrow's Priorities",
+      "content": "1. Finalize survey questions for user research\n2. Email Iris about Q1 budget\n3. Pick up prescription at CVS on Evans\n4. Call mom",
+      "tags": [
+        "todos",
+        "personal",
+        "work"
+      ],
+      "folder": "Quick Notes"
+    },
+    {
+      "id": "nt_9f3c8e2a",
+      "timestamp": "2023-11-15T12:30:00-07:00",
+      "title": "Book Summary: Thinking in Systems",
+      "content": "Key takeaway: Delays in feedback loops cause oscillations. Apply this to understanding why our NPS scores lag behind feature releases by 2 quarters.",
+      "tags": [
+        "reading",
+        "systems-thinking",
+        "work"
+      ],
+      "folder": "Knowledge"
+    },
+    {
+      "id": "nt_4a7b9d3e",
+      "timestamp": "2023-11-02T15:45:00-06:00",
+      "title": "Random Thought: Coffee",
+      "content": "Experiment with lower water temperature for the pour-over. Try 195F instead of 205F to reduce bitterness with the new Ethiopian beans.",
+      "tags": [
+        "coffee",
+        "hobbies"
+      ],
+      "folder": "Quick Notes"
+    }
+  ]
+}

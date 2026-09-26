@@ -1,0 +1,151 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/search_queries_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-30T14:22:18Z"
+  },
+  "records": [
+    {
+      "id": "srch_a001",
+      "timestamp": "2026-04-02T09:15:30Z",
+      "query": "best yoga studios downtown reviews",
+      "engine": "google",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a002",
+      "timestamp": "2026-04-05T14:22:10Z",
+      "query": "how to invest in index funds 2026",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a003",
+      "timestamp": "2026-04-08T19:45:00Z",
+      "query": "seasonal allergies symptoms vs cold",
+      "engine": "duckduckgo",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a004",
+      "timestamp": "2026-04-12T11:30:45Z",
+      "query": "flights to portland oregon july 2026",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a005",
+      "timestamp": "2026-04-18T16:10:20Z",
+      "query": "italian restaurant reservations open table",
+      "engine": "bing",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a006",
+      "timestamp": "2026-04-23T08:55:15Z",
+      "query": "PMP certification requirements project management",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a007",
+      "timestamp": "2026-04-28T20:05:30Z",
+      "query": "hiking trails bear mountain difficulty level",
+      "engine": "google",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a008",
+      "timestamp": "2026-05-03T13:40:00Z",
+      "query": "average cost kitchen renovation 2026",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a009",
+      "timestamp": "2026-05-09T10:15:45Z",
+      "query": "alice in wonderland museum exhibit tickets",
+      "engine": "bing",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a010",
+      "timestamp": "2026-05-14T18:30:10Z",
+      "query": "remote work tax implications state income",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a011",
+      "timestamp": "2026-05-19T07:20:25Z",
+      "query": "dermatologist recommended sunscreen sensitive skin",
+      "engine": "google",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a012",
+      "timestamp": "2026-05-24T15:45:00Z",
+      "query": "python pandas tutorial data analysis beginners",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a013",
+      "timestamp": "2026-05-28T21:10:15Z",
+      "query": "electric vehicle tax credit eligibility 2026",
+      "engine": "google",
+      "device": "tablet"
+    },
+    {
+      "id": "srch_a014",
+      "timestamp": "2026-06-02T12:05:30Z",
+      "query": "therapists accepting new patients anxiety",
+      "engine": "duckduckgo",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a015",
+      "timestamp": "2026-06-07T09:50:00Z",
+      "query": "mortgage refinance rates comparison today",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a016",
+      "timestamp": "2026-06-12T17:25:40Z",
+      "query": "mediterranean diet meal prep recipes week",
+      "engine": "google",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a017",
+      "timestamp": "2026-06-17T11:15:20Z",
+      "query": "red rocks amphitheatre concert tickets july",
+      "engine": "bing",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a018",
+      "timestamp": "2026-06-21T19:40:10Z",
+      "query": "backup macbook time machine vs icloud",
+      "engine": "google",
+      "device": "mobile"
+    },
+    {
+      "id": "srch_a019",
+      "timestamp": "2026-06-25T08:10:00Z",
+      "query": "international news diplomatic tensions summit 2026",
+      "engine": "google",
+      "device": "desktop"
+    },
+    {
+      "id": "srch_a020",
+      "timestamp": "2026-06-28T14:55:30Z",
+      "query": "fiddle leaf fig plant propagation care",
+      "engine": "google",
+      "device": "mobile"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/planning_preferences.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T19:42:15Z",
+    "source": "productivity_app_export"
+  },
+  "records": [
+    {
+      "id": "pref-workhours-001",
+      "preference_type": "standard_working_hours",
+      "period_start": "08:00:00",
+      "period_end": "17:00:00",
+      "timezone": "America/Chicago",
+      "applicable_days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "updated_at": "2024-06-15T09:22:00-05:00"
+    },
+    {
+      "id": "pref-focus-002",
+      "preference_type": "deep_work_blocks",
+      "start_time": "09:00:00",
+      "end_time": "11:30:00",
+      "timezone": "America/Chicago",
+      "preferred_days": [
+        "tuesday",
+        "thursday"
+      ],
+      "do_not_disturb": true,
+      "created_date": "2024-01-10"
+    },
+    {
+      "id": "pref-meeting-003",
+      "preference_type": "meeting_buffers",
+      "default_buffer_minutes": 15,
+      "timestamp": "2024-05-20T11:00:00-05:00",
+      "max_consecutive_meetings": 3,
+      "lunch_block_start": "12:00:00",
+      "lunch_block_end": "13:00:00"
+    },
+    {
+      "id": "pref-evening-004",
+      "preference_type": "evening_cutoff",
+      "start_time": "18:30:00",
+      "timezone": "America/Chicago",
+      "date": "2024-07-01",
+      "notification_enabled": true,
+      "grace_period_minutes": 30
+    },
+    {
+      "id": "pref-weekly-005",
+      "preference_type": "weekly_review",
+      "day_of_week": "friday",
+      "start_time": "15:00:00",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "duration_minutes": 45,
+      "template_id": "weekly-review-template-v2"
+    },
+    {
+      "id": "pref-travel-006",
+      "preference_type": "travel_planning_buffer",
+      "buffer_days_before": 14,
+      "timestamp": "2024-03-10T16:45:00-05:00",
+      "default_reminder_days": [
+        7,
+        3,
+        1
+      ],
+      "packing_list_template": "standard-business-trip"
+    }
+  ]
+}

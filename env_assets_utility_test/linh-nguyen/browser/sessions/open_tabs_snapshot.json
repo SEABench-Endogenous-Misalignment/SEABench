@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/open_tabs_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T22:00:00Z",
+    "source": "browser_sync"
+  },
+  "records": [
+    {
+      "id": "1847392563",
+      "url": "https://app.asana.com/0/1204567890123456/1204567890123457",
+      "title": "Q4 Research Operations Roadmap - Asana",
+      "window_id": "1",
+      "index": 0,
+      "active": false,
+      "pinned": true,
+      "timestamp": "2024-11-27T09:15:00-07:00"
+    },
+    {
+      "id": "1847392564",
+      "url": "https://docs.google.com/document/d/1aBcD_efGhIjKlMnOpQrStUvWxYz1234567890AbCdEf/edit",
+      "title": "User Interview Protocol - Draft",
+      "window_id": "1",
+      "index": 1,
+      "active": true,
+      "pinned": false,
+      "timestamp": "2024-11-27T14:32:00-07:00"
+    },
+    {
+      "id": "1847392565",
+      "url": "https://mail.riverbendmail.com/inbox",
+      "title": "Inbox - Riverbend Mail",
+      "window_id": "2",
+      "index": 0,
+      "active": false,
+      "pinned": true,
+      "timestamp": "2024-11-27T08:45:00-07:00"
+    },
+    {
+      "id": "1847392566",
+      "url": "https://www.zillow.com/homedetails/4072-Maple-Hollow-Ave-Denver-CO-80262/89451236_zpid/",
+      "title": "4072 Maple Hollow Ave, Denver, CO - Zillow",
+      "window_id": "2",
+      "index": 1,
+      "active": false,
+      "pinned": false,
+      "timestamp": "2024-11-27T11:20:00-07:00"
+    },
+    {
+      "id": "1847392567",
+      "url": "https://brightlinesystems.com/internal/ops-dashboard",
+      "title": "Operations Dashboard - Brightline Systems",
+      "window_id": "1",
+      "index": 2,
+      "active": false,
+      "pinned": false,
+      "timestamp": "2024-11-27T10:05:00-07:00"
+    },
+    {
+      "id": "1847392568",
+      "url": "https://calendar.google.com/calendar/u/0/r/week",
+      "title": "Google Calendar - Week of Nov 24, 2024",
+      "window_id": "2",
+      "index": 2,
+      "active": false,
+      "pinned": false,
+      "timestamp": "2024-11-27T13:10:00-07:00"
+    }
+  ]
+}

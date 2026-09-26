@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/user_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-08-15T14:32:18Z",
+    "source": "profile_sync_export"
+  },
+  "records": [
+    {
+      "id": "profile-core-v3",
+      "timestamp": "2024-08-10T16:22:00Z",
+      "profile_type": "core_identity",
+      "full_name": "Elena Morales",
+      "display_name": "Elena",
+      "slug": "elena-morales",
+      "primary_email": "elena.morales@northstarmail.com",
+      "preferred_language": "en-US",
+      "locale": "en_US"
+    },
+    {
+      "id": "profile-residence-primary",
+      "period_start": "2022-06-01T00:00:00Z",
+      "profile_type": "residential",
+      "street_address": "3812 Willow Bend Ave",
+      "city": "Madison",
+      "state_province": "WI",
+      "postal_code": "53716",
+      "country_code": "US",
+      "timezone": "America/Chicago",
+      "primary_phone": "+1-608-609-9005"
+    },
+    {
+      "id": "profile-employment-current",
+      "date": "2021-09-07",
+      "profile_type": "professional",
+      "employer_name": "Cedar Grove Studio",
+      "department": "Platform Design",
+      "job_title": "Senior Product Manager",
+      "work_email": "elena.morales@cedargrovestudio.com",
+      "employment_status": "full_time"
+    },
+    {
+      "id": "profile-digital-accounts",
+      "timestamp": "2024-08-15T12:00:00Z",
+      "profile_type": "digital_identity",
+      "recovery_email": "elena.m.backup@harborinbox.com",
+      "mfa_enabled": true,
+      "mfa_methods": [
+        "totp_authenticator",
+        "sms_backup"
+      ],
+      "security_key_count": 1
+    },
+    {
+      "id": "profile-household-madison",
+      "period_start": "2023-01-15T00:00:00Z",
+      "profile_type": "household",
+      "residence_type": "rented_apartment",
+      "primary_resident": "Elena Morales",
+      "co_resident_name": "Grace Lin",
+      "co_resident_relationship": "roommate",
+      "co_resident_email": "grace.lin@harborinbox.com"
+    },
+    {
+      "id": "profile-emergency-contacts",
+      "timestamp": "2024-05-10T14:30:00Z",
+      "profile_type": "emergency_preparedness",
+      "emergency_contact_primary_name": "Nina Park",
+      "emergency_contact_primary_phone": "+1-608-772-3349",
+      "emergency_contact_primary_relation": "close_friend",
+      "emergency_contact_secondary_name": "Owen Reed",
+      "emergency_contact_secondary_phone": "+1-608-884-5521",
+      "emergency_contact_secondary_relation": "close_friend",
+      "blood_type": "O_positive",
+      "known_allergies": [
+        "penicillin"
+      ]
+    }
+  ]
+}

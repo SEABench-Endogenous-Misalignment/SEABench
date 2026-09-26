@@ -1,0 +1,772 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/meeting_notes_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-22T19:42:15Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "nt-20240715-044",
+      "title": "Q3 Roadmap Review - Platform Design",
+      "date": "2024-07-15T14:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com"
+      ],
+      "content": "Reviewed the Q3 roadmap priorities. Decision made to delay the analytics dashboard refresh to August to accommodate the new accessibility requirements from the compliance audit. Calvin will update the JIRA epics by Wednesday. Leah confirmed resource availability for the mobile performance improvements. Need to follow up with Legal regarding the third-party SDK terms.",
+      "tags": [
+        "roadmap",
+        "planning",
+        "q3-2024"
+      ],
+      "project": "Platform Design",
+      "action_items": [
+        "Update epics - Calvin",
+        "Legal review - Elena"
+      ]
+    },
+    {
+      "id": "nt-20240708-043",
+      "title": "Sprint 24.7 Retrospective",
+      "date": "2024-07-08T10:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "content": "Retro focused on the deployment delays we experienced last week. Root cause identified as insufficient staging environment testing. Iris proposed adding a pre-deploy checklist which the team agreed to pilot. Grace noted that the design handoff process needs clearer documentation for edge cases. Velocity remained consistent at 42 points.",
+      "tags": [
+        "retrospective",
+        "sprint-24.7",
+        "process-improvement"
+      ],
+      "project": "Core Platform",
+      "action_items": [
+        "Draft pre-deploy checklist - Iris",
+        "Update handoff docs - Grace"
+      ]
+    },
+    {
+      "id": "nt-20240628-042",
+      "title": "Client Workshop - Horizon Labs Partnership",
+      "date": "2024-06-28T13:30:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "priya.shah@havenmail.com"
+      ],
+      "content": "Workshop with Horizon Labs to align on the integration timeline. They need the API webhooks live by September 15th to meet their fiscal quarter commitments. Discussed the shared authentication flow; Priya raised concerns about the token refresh behavior under load. Agreement to schedule a technical deep-dive next week with their engineering lead.",
+      "tags": [
+        "client",
+        "horizon-labs",
+        "partnership",
+        "api"
+      ],
+      "project": "Enterprise Integrations",
+      "action_items": [
+        "Schedule technical deep-dive",
+        "Review token refresh specs"
+      ]
+    },
+    {
+      "id": "nt-20240620-041",
+      "title": "Design System Sync - Cedar UI v3",
+      "date": "2024-06-20T11:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com"
+      ],
+      "content": "Reviewed the component library migration plan. Decision to phase the rollout starting with the form components in July. Calvin requested additional time to test the new date picker across timezones. Grace presented the updated color palette for dark mode; feedback was positive. Need to deprecate the legacy button variants by end of Q3.",
+      "tags": [
+        "design-system",
+        "cedar-ui",
+        "migration"
+      ],
+      "project": "Design Infrastructure",
+      "action_items": [
+        "Timezone testing - Calvin",
+        "Depreciation notice draft"
+      ]
+    },
+    {
+      "id": "nt-20240612-040",
+      "title": "Weekly 1:1 - Leah Morgan",
+      "date": "2024-06-12T09:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "content": "Discussed team morale after the recent crunch period. Leah is concerned about burnout on the backend team. Agreed to bring in a contractor for the next two sprints to alleviate pressure. Elena shared feedback from the last stakeholder meeting regarding the mobile app roadmap. Leah requested headcount approval for the senior DevOps role.",
+      "tags": [
+        "1:1",
+        "management",
+        "headcount"
+      ],
+      "project": "Team Operations",
+      "action_items": [
+        "Contractor req submission",
+        "DevOps job req approval"
+      ]
+    },
+    {
+      "id": "nt-20240530-039",
+      "title": "Platform Architecture Review - Microservices",
+      "date": "2024-05-30T14:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Deep dive into the service mesh implementation. Calvin presented latency reference metrics showing a 15% improvement since the last optimization. Iris raised concerns about the complexity of the new deployment pipeline. Decision tabled until we have clearer observability metrics. Reviewed the disaster recovery plan for the database layer.",
+      "tags": [
+        "architecture",
+        "microservices",
+        "performance"
+      ],
+      "project": "Infrastructure",
+      "action_items": [
+        "Observability dashboard review",
+        "DR runbook update"
+      ]
+    },
+    {
+      "id": "nt-20240515-038",
+      "title": "User Research Synthesis - Checkout Flow",
+      "date": "2024-05-15T13:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "nina.park@riversideconsulting.net"
+      ],
+      "content": "Synthesized findings from the 12 user interviews conducted last month. Key insight: users abandon at the shipping options page due to unclear delivery estimates. Nina recommended A/B testing a calendar widget vs. text-based estimates. Grace to update mocks by Friday. Also discussed the mobile tap target sizing issues observed in the moderated sessions.",
+      "tags": [
+        "ux-research",
+        "checkout",
+        "conversion"
+      ],
+      "project": "E-commerce Experience",
+      "action_items": [
+        "Update mocks - Grace",
+        "A/B test plan draft"
+      ]
+    },
+    {
+      "id": "nt-20240508-037",
+      "title": "Vendor Evaluation - Analytics Platform",
+      "date": "2024-05-08T10:30:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "malik.brooks@granitedata.io"
+      ],
+      "content": "Evaluated three vendors for the new product analytics stack. Segment and Mixpanel both meet our technical requirements; Amplitude pricing was prohibitive at our scale. Malik provided a security assessment noting that Mixpanel's EU data residency is still in beta. Decision to proceed with Segment for the pilot program starting June 1st.",
+      "tags": [
+        "vendor",
+        "analytics",
+        "procurement"
+      ],
+      "project": "Data Infrastructure",
+      "action_items": [
+        "Segment pilot setup",
+        "Security review finalization"
+      ]
+    },
+    {
+      "id": "nt-20240422-036",
+      "title": "Q2 Planning Session - Objectives & Key Results",
+      "date": "2024-04-22T09:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "content": "Set Q2 OKRs. Primary focus: reduce API latency P95 to under 200ms and launch the redesigned dashboard. Calvin committed to the backend optimizations. Grace blocked time for the design QA process. Iris noted dependencies on the infrastructure team's Kubernetes upgrade. Need to communicate the roadmap to Customer Success by end of week.",
+      "tags": [
+        "okrs",
+        "q2-2024",
+        "planning"
+      ],
+      "project": "Quarterly Planning",
+      "action_items": [
+        "CS team roadmap deck",
+        "Latency baseline measurement"
+      ]
+    },
+    {
+      "id": "nt-20240410-035",
+      "title": "Stakeholder Update - Executive Review",
+      "date": "2024-04-10T15:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "owen.reed@northstarmail.com"
+      ],
+      "content": "Presented the Q1 achievements to the executive team. Highlighted the 99.9% uptime milestone and the successful migration of legacy accounts. Owen asked about the competitive positioning against Riverwood Tech's new feature set. Agreed to expedite the feature parity analysis. Leah provided the updated budget forecast showing 3% under target.",
+      "tags": [
+        "executive",
+        "stakeholder",
+        "q1-review"
+      ],
+      "project": "Executive Reporting",
+      "action_items": [
+        "Competitive analysis - expedited",
+        "Budget variance report"
+      ]
+    },
+    {
+      "id": "nt-20240328-034",
+      "title": "Sprint 24.4 Planning",
+      "date": "2024-03-28T10:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Planned Sprint 24.4 scope. Prioritized the payment gateway integration and the accessibility fixes for screen readers. Grace clarified the error state designs needed for the payment flow. Iris raised a blocker regarding the third-party API rate limits. Team velocity estimated at 38 points. Committed to delivering the user profile refactor as a stretch goal.",
+      "tags": [
+        "sprint-planning",
+        "24.4",
+        "scrum"
+      ],
+      "project": "Core Platform",
+      "action_items": [
+        "Clarify rate limit strategy",
+        "Error state design spec"
+      ]
+    },
+    {
+      "id": "nt-20240315-033",
+      "title": "Product Strategy Offsite - Day 2",
+      "date": "2024-03-15T09:30:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "nina.park@riversideconsulting.net"
+      ],
+      "content": "Second day of the offsite focused on the 2024-2025 vision. Nina facilitated the workshop on market expansion opportunities. Key decision: prioritize the SMB segment over enterprise for Q3. Calvin expressed concerns about scaling infrastructure for the anticipated user growth. Leah drafted the headcount plan to support the new segment focus.",
+      "tags": [
+        "strategy",
+        "offsite",
+        "2025-vision"
+      ],
+      "project": "Strategic Planning",
+      "action_items": [
+        "Headcount plan draft",
+        "Infrastructure scaling assessment"
+      ]
+    },
+    {
+      "id": "nt-20240305-032",
+      "title": "Interview Debrief - Senior Product Designer",
+      "date": "2024-03-05T16:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Debriefed the final round candidate for the senior designer role. Strong portfolio and excellent cultural fit. Grace concerned about their experience with design systems at scale. Iris noted excellent collaboration skills during the cross-functional exercise. Consensus to extend an offer pending reference checks.",
+      "tags": [
+        "hiring",
+        "interview",
+        "design"
+      ],
+      "project": "Talent Acquisition",
+      "action_items": [
+        "Reference checks",
+        "Offer letter preparation"
+      ]
+    },
+    {
+      "id": "nt-20240227-031",
+      "title": "Cross-functional Sync - Marketing & Product",
+      "date": "2024-02-27T14:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "priya.shah@havenmail.com"
+      ],
+      "content": "Aligned on the March product launch messaging. Marketing needs the feature benefit matrix by Friday. Priya shared the customer testimonial videos which look polished. Discussed the pricing page A/B test results showing 12% lift on the new layout. Decision to delay the freemium tier announcement until Q2 to avoid cannibalization.",
+      "tags": [
+        "marketing",
+        "launch",
+        "cross-functional"
+      ],
+      "project": "Product Launch",
+      "action_items": [
+        "Feature matrix delivery",
+        "Freemium timeline update"
+      ]
+    },
+    {
+      "id": "nt-20240214-030",
+      "title": "FY24 Budget Review",
+      "date": "2024-02-14T11:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "owen.reed@northstarmail.com"
+      ],
+      "content": "Reviewed the remaining FY24 budget allocations. Cloud infrastructure costs trending 8% over forecast due to increased storage needs. Calvin proposed reserved instance purchases to reduce the compute spend. Owen approved the reallocation from the travel budget to cover the overage. Tooling licenses up for renewal in April need evaluation.",
+      "tags": [
+        "budget",
+        "finance",
+        "fy24"
+      ],
+      "project": "Financial Planning",
+      "action_items": [
+        "Reserved instance analysis",
+        "Tooling audit"
+      ]
+    },
+    {
+      "id": "nt-20240130-029",
+      "title": "Customer Advisory Board Prep",
+      "date": "2024-01-30T13:30:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "malik.brooks@granitedata.io"
+      ],
+      "content": "Prepared the agenda for the February CAB meeting. Malik to present the data insights from the annual user survey. Leah organizing the product roadmap preview session. Elena to moderate the feedback session on the mobile experience. Need to arrange dinner reservations for the evening event downtown.",
+      "tags": [
+        "cab",
+        "customer-advisory",
+        "prep"
+      ],
+      "project": "Customer Relations",
+      "action_items": [
+        "Survey presentation prep",
+        "Dinner reservations"
+      ]
+    },
+    {
+      "id": "nt-20240118-028",
+      "title": "Technical Debt Assessment",
+      "date": "2024-01-18T10:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com"
+      ],
+      "content": "Audited the backlog for technical debt items. The legacy authentication module flagged as highest risk. Iris estimated three sprints to refactor properly. Calvin suggested a strangler fig pattern approach to minimize risk. Agreed to allocate 20% of Sprint 24.2 capacity to debt reduction. Documented the decision in the wiki.",
+      "tags": [
+        "technical-debt",
+        "refactoring",
+        "architecture"
+      ],
+      "project": "Engineering Excellence",
+      "action_items": [
+        "Wiki documentation",
+        "Sprint capacity allocation"
+      ]
+    },
+    {
+      "id": "nt-20240108-027",
+      "title": "Annual Planning Kickoff 2024",
+      "date": "2024-01-08T09:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Kicked off the annual planning process. Reviewed the company strategic pillars for 2024. Product team focus areas: platform stability, user onboarding optimization, and enterprise readiness. Grace presented initial concepts for the onboarding redesign. Leah confirmed we have headcount for four new hires. Need to finalize the roadmap by February 1st.",
+      "tags": [
+        "annual-planning",
+        "2024",
+        "strategy"
+      ],
+      "project": "Strategic Planning",
+      "action_items": [
+        "Roadmap finalization",
+        "Hiring plan approval"
+      ]
+    },
+    {
+      "id": "nt-20231215-026",
+      "title": "Year-end Retrospective & Celebration Planning",
+      "date": "2023-12-15T15:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "priya.shah@havenmail.com"
+      ],
+      "content": "Reviewed the year’s accomplishments and challenges. Four major releases shipped on time. Highlight: the performance improvements reduced churn by 2%. Grace organized the team lunch for next Thursday. Priya shared positive feedback from the customer success team. Discussed lessons learned from the October outage.",
+      "tags": [
+        "retrospective",
+        "2023",
+        "team"
+      ],
+      "project": "Team Culture",
+      "action_items": [
+        "Team lunch coordination",
+        "Incident report review"
+      ]
+    },
+    {
+      "id": "nt-20231205-025",
+      "title": "Holiday Release Coordination",
+      "date": "2023-12-05T10:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Finalized the code freeze schedule for the holiday period. Freeze starts December 22nd, thaw on January 2nd. Calvin to deploy the security patches before the freeze. Iris prepared the on-call rotation schedule. Agreed to keep the hotfix process lightweight for critical issues only. Verified the monitoring alerts are routing correctly.",
+      "tags": [
+        "release-management",
+        "holiday",
+        "operations"
+      ],
+      "project": "Release Management",
+      "action_items": [
+        "Security patch deployment",
+        "On-call schedule publish"
+      ]
+    },
+    {
+      "id": "nt-20231120-024",
+      "title": "Mobile App Redesign Kickoff",
+      "date": "2023-11-20T11:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "content": "Kicked off the comprehensive mobile app redesign project. Grace presented the competitive analysis and user journey maps. Target launch: March 2024. Leah allocated two iOS and two Android engineers to the dedicated squad. Elena emphasized the importance of maintaining backward compatibility during the transition.",
+      "tags": [
+        "mobile",
+        "redesign",
+        "kickoff"
+      ],
+      "project": "Mobile Experience",
+      "action_items": [
+        "Squad formation",
+        "Technical spike on compatibility"
+      ]
+    },
+    {
+      "id": "nt-20231108-023",
+      "title": "Performance Review Calibration",
+      "date": "2023-11-08T14:00:00-06:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com"
+      ],
+      "content": "Calibrated performance ratings for the Platform Design team. Discussed calibration across the engineering and design functions. Calvin provided context on the high performers. Agreed on the promotion cases to present to the executive team. Leah reminded everyone about the feedback deadline of November 15th.",
+      "tags": [
+        "hr",
+        "performance-review",
+        "calibration"
+      ],
+      "project": "People Operations",
+      "action_items": [
+        "Promotion packets",
+        "Feedback deadline reminder"
+      ]
+    },
+    {
+      "id": "nt-20231025-022",
+      "title": "Accessibility Audit Results Review",
+      "date": "2023-10-25T13:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Reviewed the third-party accessibility audit results. We achieved WCAG 2.1 AA compliance on 85% of pages. Critical issues identified on the checkout flow and the settings panel. Grace to prioritize the design fixes in the next sprint. Iris to address the semantic markup issues. Timeline to full compliance: end of January.",
+      "tags": [
+        "accessibility",
+        "wcag",
+        "audit"
+      ],
+      "project": "Compliance",
+      "action_items": [
+        "Design fixes prioritization",
+        "Markup remediation plan"
+      ]
+    },
+    {
+      "id": "nt-20231012-021",
+      "title": "Partnership Discussion - Riverwood Tech",
+      "date": "2023-10-12T10:30:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "owen.reed@northstarmail.com"
+      ],
+      "content": "Explored potential partnership opportunities with Riverwood Tech. They propose a co-marketing arrangement for the Q4 holiday season. Owen concerned about the exclusivity clause in their draft agreement. Leah suggested a limited pilot rather than a full partnership. Need to review the legal implications before proceeding.",
+      "tags": [
+        "partnership",
+        "riverwood",
+        "business-development"
+      ],
+      "project": "Business Development",
+      "action_items": [
+        "Legal review of draft",
+        "Pilot proposal"
+      ]
+    },
+    {
+      "id": "nt-20230928-020",
+      "title": "Q4 Goals Alignment Session",
+      "date": "2023-09-28T09:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "content": "Aligned on Q4 objectives. Primary goal: stabilize the platform after the September scaling issues. Secondary: complete the design system documentation. Calvin committed to the infrastructure improvements. Grace to finalize the component usage guidelines. Iris handling the API deprecation notices. Everyone agreed to focus on debt reduction over new features.",
+      "tags": [
+        "q4-2023",
+        "goals",
+        "alignment"
+      ],
+      "project": "Quarterly Planning",
+      "action_items": [
+        "Infrastructure roadmap",
+        "Design docs finalization"
+      ]
+    },
+    {
+      "id": "nt-20230915-019",
+      "title": "Design Critique - Checkout Flow v2",
+      "date": "2023-09-15T14:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "nina.park@riversideconsulting.net"
+      ],
+      "content": "Critiqued the latest iteration of the checkout flow. Nina praised the simplified form layout but questioned the visibility of the security badges. Grace agreed to test a variation with the badges in the header. Discussion on the mobile keyboard handling for credit card entry. Action items: usability testing scheduled for next week.",
+      "tags": [
+        "design-critique",
+        "checkout",
+        "ux"
+      ],
+      "project": "E-commerce Experience",
+      "action_items": [
+        "Usability testing recruitment",
+        "Badge placement variation"
+      ]
+    },
+    {
+      "id": "nt-20230905-018",
+      "title": "Infrastructure Review - Database Scaling",
+      "date": "2023-09-05T11:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Assessed current database performance and scaling bottlenecks. Calvin presented read replica lag metrics showing occasional 3-second delays. Iris recommended implementing connection pooling via PgBouncer. Discussed the migration plan to the new instance types with NVMe storage. Decision to schedule the migration for the September maintenance window.",
+      "tags": [
+        "infrastructure",
+        "database",
+        "scaling"
+      ],
+      "project": "Infrastructure",
+      "action_items": [
+        "PgBouncer configuration",
+        "Migration runbook"
+      ]
+    },
+    {
+      "id": "nt-20230822-017",
+      "title": "Feature Flag Strategy Workshop",
+      "date": "2023-08-22T13:30:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "content": "Workshop on improving our feature flag hygiene. Currently 47 flags in production, many stale. Iris proposed a quarterly audit process. Leah concerned about the compliance implications of dark launches in regulated features. Agreed on a flag lifecycle policy: automatic removal after 30 days in 100% on state.",
+      "tags": [
+        "feature-flags",
+        "technical-strategy",
+        "debt"
+      ],
+      "project": "Engineering Process",
+      "action_items": [
+        "Flag audit script",
+        "Lifecycle policy documentation"
+      ]
+    },
+    {
+      "id": "nt-20230810-016",
+      "title": "Customer Success Sync - Feedback Review",
+      "date": "2023-08-10T10:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "malik.brooks@granitedata.io"
+      ],
+      "content": "Reviewed the top customer pain points from the last quarter. Malik presented data showing that reporting export functionality is the most requested feature. Discussed the feasibility of CSV vs. Excel export formats. Leah suggested a phased approach: CSV first, Excel later. Elena to prioritize against the roadmap.",
+      "tags": [
+        "customer-success",
+        "feedback",
+        "reporting"
+      ],
+      "project": "Customer Insights",
+      "action_items": [
+        "Export format technical spike",
+        "Roadmap prioritization"
+      ]
+    },
+    {
+      "id": "nt-20230728-015",
+      "title": "Mid-year Review - Platform Metrics",
+      "date": "2023-07-28T15:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "owen.reed@northstarmail.com"
+      ],
+      "content": "Mid-year state of the platform review. Uptime at 99.8%, slightly below the 99.9% target due to the June incidents. Calvin detailed the remediation actions taken. Owen requested a customer communication regarding the July 4th weekend maintenance. Reviewed the API response time trends showing gradual improvement.",
+      "tags": [
+        "mid-year",
+        "metrics",
+        "review"
+      ],
+      "project": "Operational Review",
+      "action_items": [
+        "Customer maintenance notice",
+        "Trend analysis report"
+      ]
+    },
+    {
+      "id": "nt-20230717-014",
+      "title": "API Design Workshop - Public Endpoints",
+      "date": "2023-07-17T11:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "content": "Workshop to design the v2 public API endpoints. Focus on RESTful principles and consistent naming conventions. Grace provided input on the pagination patterns from a UX perspective. Iris proposed GraphQL for the complex data queries but team decided to stick with REST for v2. Documented the authentication approach using OAuth 2.0.",
+      "tags": [
+        "api-design",
+        "rest",
+        "public-api"
+      ],
+      "project": "Developer Platform",
+      "action_items": [
+        "OpenAPI spec draft",
+        "Auth flow documentation"
+      ]
+    },
+    {
+      "id": "nt-20230630-013",
+      "title": "Team Offsite Planning - September",
+      "date": "2023-06-30T14:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com"
+      ],
+      "content": "Planning session for the September team offsite in Chicago. Leah handling the venue logistics. Grace organizing the design thinking workshop. Elena working on the agenda to balance work sessions with team building. Budget approved for 25 people. Need dietary restrictions by July 15th.",
+      "tags": [
+        "offsite",
+        "planning",
+        "team-building"
+      ],
+      "project": "Team Culture",
+      "action_items": [
+        "Venue deposit",
+        "Dietary survey",
+        "Agenda finalization"
+      ]
+    },
+    {
+      "id": "nt-20230615-012",
+      "title": "Competitor Analysis Review",
+      "date": "2023-06-15T10:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "priya.shah@havenmail.com",
+        "nina.park@riversideconsulting.net"
+      ],
+      "content": "Reviewed the competitive landscape analysis. Priya highlighted Riverwood Tech's new AI features launching next month. Nina provided insights on pricing strategies from the mid-market segment. Discussion on our differentiation in the user experience layer. Action items: update the competitive battle cards and brief the sales team.",
+      "tags": [
+        "competitive-intelligence",
+        "strategy"
+      ],
+      "project": "Product Strategy",
+      "action_items": [
+        "Battle cards update",
+        "Sales enablement session"
+      ]
+    },
+    {
+      "id": "nt-20230605-011",
+      "title": "Onboarding Flow Optimization",
+      "date": "2023-06-05T13:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "grace.lin@cedargrovestudio.com",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Analyzed the drop-off points in the current onboarding funnel. Major drop at the email verification step (35%). Grace proposed in-app verification as an alternative. Iris concerned about security implications. Agreed to A/B test the in-app flow against the email link for two weeks. Target: improve completion rate from 60% to 75%.",
+      "tags": [
+        "onboarding",
+        "optimization",
+        "conversion"
+      ],
+      "project": "Growth",
+      "action_items": [
+        "A/B test implementation",
+        "Security review"
+      ]
+    },
+    {
+      "id": "nt-20230522-010",
+      "title": "Spring Launch Retrospective",
+      "date": "2023-05-22T11:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "calvin.price@cedargrovestudio.com",
+        "leah.morgan@cedargrovestudio.com"
+      ],
+      "content": "Retrospective on the major spring feature launch. Generally successful with positive customer feedback. Issues identified: the marketing site wasn't updated with the new screenshots until two days post-launch. Calvin noted some performance degradation under initial load. Lessons: better coordination between product and marketing on launch assets.",
+      "tags": [
+        "retrospective",
+        "launch",
+        "spring-2023"
+      ],
+      "project": "Product Operations",
+      "action_items": [
+        "Launch checklist update",
+        "Performance load testing protocol"
+      ]
+    },
+    {
+      "id": "nt-20230508-009",
+      "title": "Product Metrics Deep Dive",
+      "date": "2023-05-08T14:00:00-05:00",
+      "attendees": [
+        "elena.morales@cedargrovestudio.com",
+        "malik.brooks@granitedata.io",
+        "iris.romero@cedargrovestudio.com"
+      ],
+      "content": "Deep dive into the product analytics. DAU/MAU ratio improved to 0.35, up from 0.28 last quarter. Malik identified a correlation between the new dashboard feature and increased session length. Iris requested better instrumentation on the error states to reduce the 'unknown error' bucket. Plan to implement the new event tracking schema next month.",
+      "tags": [
+        "metrics",
+        "analytics",
+        "data"
+      ],
+      "project": "Data & Analytics",
+      "action_items": [
+        "Error state instrumentation",
+        "Schema migration plan"
+      ]
+    }
+  ]
+}

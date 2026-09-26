@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/tool_permissions_seed.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-06-29T14:35:00Z"
+  },
+  "records": [
+    {
+      "id": "perm_001_cal",
+      "tool_name": "calendar_sync",
+      "provider": "Google Calendar",
+      "granted_scope": [
+        "read",
+        "write"
+      ],
+      "timestamp": "2026-04-05T11:20:00Z",
+      "end_time": "2026-10-05T11:20:00Z",
+      "status": "active"
+    },
+    {
+      "id": "perm_002_email",
+      "tool_name": "email_reader",
+      "provider": "Fastmail",
+      "granted_scope": [
+        "read",
+        "send"
+      ],
+      "timestamp": "2026-04-12T09:15:30Z",
+      "end_time": "2026-07-12T09:15:30Z",
+      "status": "active"
+    },
+    {
+      "id": "perm_003_banking",
+      "tool_name": "finance_monitor",
+      "provider": "Capital One",
+      "granted_scope": [
+        "read_only"
+      ],
+      "period_start": "2026-04-01T00:00:00Z",
+      "period_end": "2026-07-01T00:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "perm_004_fitness",
+      "tool_name": "health_tracker",
+      "provider": "Fitbit",
+      "granted_scope": [
+        "activity",
+        "sleep"
+      ],
+      "date": "2026-05-20",
+      "end_time": "2026-11-20T00:00:00Z",
+      "status": "active"
+    },
+    {
+      "id": "perm_005_notes",
+      "tool_name": "knowledge_base",
+      "provider": "Notion",
+      "granted_scope": [
+        "read",
+        "write",
+        "delete"
+      ],
+      "timestamp": "2026-05-15T14:30:00Z",
+      "status": "active"
+    },
+    {
+      "id": "perm_006_fs",
+      "tool_name": "local_storage",
+      "provider": "System",
+      "granted_scope": [
+        "read",
+        "write"
+      ],
+      "start_time": "2026-06-01T08:00:00Z",
+      "end_time": "2026-09-01T08:00:00Z",
+      "status": "active"
+    }
+  ]
+}

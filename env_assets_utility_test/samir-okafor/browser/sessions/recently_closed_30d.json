@@ -1,0 +1,96 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/recently_closed_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-15T14:32:18Z",
+    "source": "browser_session_export"
+  },
+  "records": [
+    {
+      "id": "tab_7a8f92c1d4e3",
+      "timestamp": "2024-10-15T08:15:42-06:00",
+      "url": "https://rivertonhealthlabs.com/platform/insights/q3-report",
+      "title": "Q3 Customer Insights Report - Riverton Health Labs",
+      "device": "desktop"
+    },
+    {
+      "id": "tab_3b2c5d8e9f01",
+      "timestamp": "2024-10-14T19:22:10-06:00",
+      "url": "https://meadowmail.co/inbox",
+      "title": "Inbox (14) - Meadow Mail",
+      "device": "mobile"
+    },
+    {
+      "id": "tab_9e4f7a2b8c5d",
+      "timestamp": "2024-10-14T12:45:33-06:00",
+      "url": "https://hbr.org/2024/10/the-new-rules-of-customer-engagement",
+      "title": "The New Rules of Customer Engagement - Harvard Business Review",
+      "device": "desktop"
+    },
+    {
+      "id": "tab_1f3e5d7c9b2a",
+      "timestamp": "2024-10-13T20:18:55-06:00",
+      "url": "https://www.thenorthface.com/en-us/mens-jackets-c299280",
+      "title": "Men's Jackets | The North Face",
+      "device": "tablet"
+    },
+    {
+      "id": "tab_6d8e0f2a4c6b",
+      "timestamp": "2024-10-12T16:30:12-06:00",
+      "url": "https://www.airbnb.com/rooms/48293475",
+      "title": "Cabin in Estes Park · ★4.95 · 2 bedrooms",
+      "device": "desktop"
+    },
+    {
+      "id": "tab_2a4b6c8d0e2f",
+      "timestamp": "2024-10-11T09:05:28-06:00",
+      "url": "https://www.chase.com/personal/checking",
+      "title": "Chase Checking Accounts - Open a Checking Account",
+      "device": "mobile"
+    },
+    {
+      "id": "tab_5c7e9f1b3d5e",
+      "timestamp": "2024-10-10T14:12:09-06:00",
+      "url": "https://calendar.google.com/calendar/u/0/r/week",
+      "title": "Google Calendar - Week of Oct 14, 2024",
+      "device": "desktop"
+    },
+    {
+      "id": "tab_8f0a2c4e6g8h",
+      "timestamp": "2024-10-09T11:38:47-06:00",
+      "url": "https://www.figma.com/file/AbCdEfGhIjKlMnOpQrStUv/Platform-Redesign",
+      "title": "Platform Redesign - Figma",
+      "device": "desktop"
+    },
+    {
+      "id": "tab_0h2j4k6l8m0n",
+      "timestamp": "2024-10-08T07:45:15-06:00",
+      "url": "https://www.denverpost.com/2024/10/08/weather-snow-forecast/",
+      "title": "Denver weather: Snow expected this weekend - The Denver Post",
+      "device": "mobile"
+    },
+    {
+      "id": "tab_3p5r7t9v1x3z",
+      "timestamp": "2024-10-07T18:22:38-06:00",
+      "url": "https://cooking.nytimes.com/recipes/1018357-sheet-pan-chicken-with-potatoes",
+      "title": "Sheet-Pan Chicken With Potatoes, Scallions and Capers Recipe",
+      "device": "tablet"
+    },
+    {
+      "id": "tab_4s6u8w0y2a4c",
+      "timestamp": "2024-10-06T13:10:55-06:00",
+      "url": "https://www.google.com/maps/dir/8663+Maple+Hollow+Road,+Denver,+CO/Red+Rocks+Park,+Colorado",
+      "title": "8663 Maple Hollow Road to Red Rocks Park - Google Maps",
+      "device": "desktop"
+    },
+    {
+      "id": "tab_7d9f1h3j5l7n",
+      "timestamp": "2024-10-05T15:55:22-06:00",
+      "url": "https://rivertonhealthlabs.slack.com/archives/C08ABC123",
+      "title": "Platform Design Team - Slack",
+      "device": "desktop"
+    }
+  ]
+}

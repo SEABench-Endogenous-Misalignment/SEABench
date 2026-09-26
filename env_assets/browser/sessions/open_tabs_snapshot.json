@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/sessions/open_tabs_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-05-15T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "tab_email_042",
+      "timestamp": "2026-05-15T14:30:00Z",
+      "window_id": "window_001",
+      "tab_index": 0,
+      "url": "https://mail.cloudstream.net/inbox",
+      "title": "Inbox (3 unread) - Alice M.",
+      "active": true,
+      "pinned": false,
+      "audible": false
+    },
+    {
+      "id": "tab_cal_001",
+      "timestamp": "2026-05-15T14:30:00Z",
+      "window_id": "window_001",
+      "tab_index": 1,
+      "url": "https://calendar.planit.io/week",
+      "title": "Calendar: Week of May 11",
+      "active": false,
+      "pinned": true,
+      "audible": false
+    },
+    {
+      "id": "tab_bank_007",
+      "timestamp": "2026-05-15T14:30:00Z",
+      "window_id": "window_001",
+      "tab_index": 2,
+      "url": "https://secure.pinnacletrust.bank/dashboard",
+      "title": "Account Dashboard - Bank Example",
+      "active": false,
+      "pinned": false,
+      "audible": false
+    },
+    {
+      "id": "tab_fit_103",
+      "timestamp": "2026-05-15T14:30:00Z",
+      "window_id": "window_002",
+      "tab_index": 0,
+      "url": "https://tracker.fitpulse.io/workouts/history",
+      "title": "Workout History - May 2026",
+      "active": false,
+      "pinned": false,
+      "audible": false
+    },
+    {
+      "id": "tab_notes_056",
+      "timestamp": "2026-05-15T14:30:00Z",
+      "window_id": "window_002",
+      "tab_index": 1,
+      "url": "https://notes.memoify.io/doc/grocery-planning",
+      "title": "Grocery Planning - Summer BBQ",
+      "active": false,
+      "pinned": false,
+      "audible": false
+    },
+    {
+      "id": "tab_shop_012",
+      "timestamp": "2026-05-15T14:30:00Z",
+      "window_id": "window_002",
+      "tab_index": 2,
+      "url": "https://shop.retailbox.net/cart",
+      "title": "Shopping Cart (2 items)",
+      "active": false,
+      "pinned": false,
+      "audible": false
+    }
+  ]
+}

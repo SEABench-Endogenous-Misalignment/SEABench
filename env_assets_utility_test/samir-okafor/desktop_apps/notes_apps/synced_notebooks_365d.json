@@ -1,0 +1,566 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/notes_apps/synced_notebooks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-26T20:15:00Z",
+    "source": "notes_app_sync_export"
+  },
+  "records": [
+    {
+      "id": "nb_8f3a9c2e",
+      "title": "Personal Journal 2024",
+      "timestamp": "2024-10-25T21:45:00-06:00",
+      "created_date": "2024-01-03T08:15:00-07:00",
+      "note_count": 142,
+      "size_kb": 24580,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "personal",
+        "journal",
+        "reflection"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_7b2d1f5a",
+      "title": "Riverton Customer Insights - Q3-Q4",
+      "timestamp": "2024-10-24T16:30:00-06:00",
+      "created_date": "2024-07-01T09:00:00-06:00",
+      "note_count": 38,
+      "size_kb": 12840,
+      "source_device": "MacBook Pro Work",
+      "tags": [
+        "work",
+        "riverton",
+        "research"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "shared_with": [
+        "Leah Morgan"
+      ]
+    },
+    {
+      "id": "nb_9c4e8b1d",
+      "title": "Meeting Notes Archive 2024",
+      "timestamp": "2024-10-26T09:15:00-06:00",
+      "created_date": "2024-01-15T10:30:00-07:00",
+      "note_count": 89,
+      "size_kb": 56200,
+      "source_device": "MacBook Pro Work",
+      "tags": [
+        "work",
+        "meetings",
+        "archive"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "nb_3f5a8e2c",
+      "title": "Home Projects with Nina",
+      "timestamp": "2024-10-20T14:20:00-06:00",
+      "created_date": "2024-02-10T11:00:00-07:00",
+      "note_count": 15,
+      "size_kb": 4850,
+      "source_device": "iPad Air",
+      "tags": [
+        "household",
+        "renovation",
+        "planning"
+      ],
+      "owner": "samir.okafor@meadowmail.co",
+      "shared_with": [
+        "Nina Park"
+      ]
+    },
+    {
+      "id": "nb_1a7d4f9b",
+      "title": "Colorado Trail Log",
+      "timestamp": "2024-10-18T07:30:00-06:00",
+      "created_date": "2024-03-22T08:45:00-06:00",
+      "note_count": 24,
+      "size_kb": 6200,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "hiking",
+        "outdoors",
+        "fitness"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_6e2b9c5f",
+      "title": "Financial Planning 2024",
+      "timestamp": "2024-10-22T19:45:00-06:00",
+      "created_date": "2023-12-28T20:00:00-07:00",
+      "note_count": 56,
+      "size_kb": 15400,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "finance",
+        "budget",
+        "planning"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_4d8a1e7c",
+      "title": "Reading List & Reviews",
+      "timestamp": "2024-10-15T20:10:00-06:00",
+      "created_date": "2024-01-08T18:30:00-07:00",
+      "note_count": 31,
+      "size_kb": 8900,
+      "source_device": "Kindle Scribe",
+      "tags": [
+        "books",
+        "media",
+        "reviews"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_2b6f3d8a",
+      "title": "Career Development Tracker",
+      "timestamp": "2024-10-19T13:25:00-06:00",
+      "created_date": "2024-04-05T14:00:00-06:00",
+      "note_count": 12,
+      "size_kb": 3200,
+      "source_device": "MacBook Pro Work",
+      "tags": [
+        "career",
+        "goals",
+        "growth"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "nb_5c9a2e4d",
+      "title": "User Research Sessions - Platform",
+      "timestamp": "2024-10-23T11:00:00-06:00",
+      "created_date": "2024-08-12T09:30:00-06:00",
+      "note_count": 47,
+      "size_kb": 28400,
+      "source_device": "MacBook Pro Work",
+      "tags": [
+        "work",
+        "ux-research",
+        "interviews"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "shared_with": [
+        "Calvin Price"
+      ]
+    },
+    {
+      "id": "nb_8e1f7b3a",
+      "title": "Design System Documentation",
+      "timestamp": "2024-10-21T15:40:00-06:00",
+      "created_date": "2024-05-20T10:15:00-06:00",
+      "note_count": 28,
+      "size_kb": 15600,
+      "source_device": "MacBook Pro Work",
+      "tags": [
+        "work",
+        "design-systems",
+        "documentation"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com",
+      "shared_with": [
+        "Grace Lin",
+        "Iris Romero"
+      ]
+    },
+    {
+      "id": "nb_3a9c6e2b",
+      "title": "Health Benefits & Claims",
+      "timestamp": "2024-10-14T10:30:00-06:00",
+      "created_date": "2024-02-01T11:00:00-07:00",
+      "note_count": 8,
+      "size_kb": 4200,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "health",
+        "insurance",
+        "medical"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_7f4d2a8e",
+      "title": "Subaru Outback Maintenance",
+      "timestamp": "2024-10-12T16:00:00-06:00",
+      "created_date": "2024-03-15T15:30:00-06:00",
+      "note_count": 14,
+      "size_kb": 3800,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "car",
+        "maintenance",
+        "auto"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_1c8b5f3d",
+      "title": "Tax Year 2023 Documents",
+      "timestamp": "2024-04-15T18:00:00-06:00",
+      "created_date": "2024-01-20T09:00:00-07:00",
+      "note_count": 22,
+      "size_kb": 14500,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "tax",
+        "finance",
+        "2023"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_9e3a7c1f",
+      "title": "Insurance Policies Index",
+      "timestamp": "2024-10-08T09:45:00-06:00",
+      "created_date": "2024-06-10T10:00:00-06:00",
+      "note_count": 6,
+      "size_kb": 2100,
+      "source_device": "iPad Air",
+      "tags": [
+        "insurance",
+        "legal",
+        "home"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_4b2e8d6a",
+      "title": "Subscription Management",
+      "timestamp": "2024-10-26T07:55:00-06:00",
+      "created_date": "2024-07-01T08:00:00-06:00",
+      "note_count": 19,
+      "size_kb": 1800,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "finance",
+        "admin",
+        "recurring"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_6d1f9a4c",
+      "title": "Gift Ideas & Budget 2024",
+      "timestamp": "2024-10-05T21:20:00-06:00",
+      "created_date": "2024-09-01T19:00:00-06:00",
+      "note_count": 33,
+      "size_kb": 5600,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "gifts",
+        "budget",
+        "holidays"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_2e7b4c8f",
+      "title": "Denver Restaurant Wishlist",
+      "timestamp": "2024-10-03T12:30:00-06:00",
+      "created_date": "2024-01-25T11:30:00-07:00",
+      "note_count": 41,
+      "size_kb": 7200,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "food",
+        "denver",
+        "restaurants"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_5a3f9e1b",
+      "title": "Photography Projects",
+      "timestamp": "2024-09-28T15:15:00-06:00",
+      "created_date": "2024-06-15T14:00:00-06:00",
+      "note_count": 17,
+      "size_kb": 8400,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "hobby",
+        "photography",
+        "creative"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_8c2a6f4d",
+      "title": "Wine Collection Notes",
+      "timestamp": "2024-09-25T19:40:00-06:00",
+      "created_date": "2023-11-10T18:00:00-07:00",
+      "note_count": 26,
+      "size_kb": 4100,
+      "source_device": "iPad Air",
+      "tags": [
+        "wine",
+        "hobby",
+        "tasting"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_1f5e9b2a",
+      "title": "Portland Trip Planning",
+      "timestamp": "2024-09-20T20:00:00-06:00",
+      "created_date": "2024-08-01T21:00:00-06:00",
+      "note_count": 12,
+      "size_kb": 3600,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "travel",
+        "planning",
+        "vacation"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_7a4c8e3f",
+      "title": "Apartment Search Notes",
+      "timestamp": "2024-03-15T14:10:00-06:00",
+      "created_date": "2024-02-01T10:00:00-07:00",
+      "note_count": 9,
+      "size_kb": 2800,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "housing",
+        "search",
+        "moved"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_3d9b1f7e",
+      "title": "Traditional Recipes Collection",
+      "timestamp": "2024-09-15T18:30:00-06:00",
+      "created_date": "2024-05-01T17:00:00-06:00",
+      "note_count": 38,
+      "size_kb": 9200,
+      "source_device": "iPad Air",
+      "tags": [
+        "cooking",
+        "family",
+        "recipes"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_6b2f8a5c",
+      "title": "Family History Documentation",
+      "timestamp": "2024-08-30T11:20:00-06:00",
+      "created_date": "2024-04-20T10:00:00-06:00",
+      "note_count": 15,
+      "size_kb": 5400,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "family",
+        "history",
+        "genealogy"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_9f4e2c7a",
+      "title": "Secure Reference Index",
+      "timestamp": "2024-10-01T08:00:00-06:00",
+      "created_date": "2024-01-10T09:00:00-07:00",
+      "note_count": 3,
+      "size_kb": 850,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "security",
+        "encrypted",
+        "private"
+      ],
+      "owner": "samir.okafor@meadowmail.co",
+      "is_encrypted": true
+    },
+    {
+      "id": "nb_2c8a5f1d",
+      "title": "Legal Documents Summary",
+      "timestamp": "2024-08-15T16:45:00-06:00",
+      "created_date": "2024-07-20T11:00:00-06:00",
+      "note_count": 7,
+      "size_kb": 3200,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "legal",
+        "important",
+        "contracts"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_5e1b9c4f",
+      "title": "UX Summit 2024 Notes",
+      "timestamp": "2024-07-22T09:30:00-06:00",
+      "created_date": "2024-07-15T08:00:00-06:00",
+      "note_count": 21,
+      "size_kb": 11400,
+      "source_device": "iPad Pro Work",
+      "tags": [
+        "conference",
+        "learning",
+        "ux"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "nb_1a8f3d6e",
+      "title": "Kubernetes Study Notes",
+      "timestamp": "2024-09-10T20:15:00-06:00",
+      "created_date": "2024-08-05T19:00:00-06:00",
+      "note_count": 44,
+      "size_kb": 12800,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "learning",
+        "tech",
+        "kubernetes"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_4f7c2a9b",
+      "title": "Interview Preparation Vault",
+      "timestamp": "2024-06-20T19:00:00-06:00",
+      "created_date": "2024-05-15T18:30:00-06:00",
+      "note_count": 11,
+      "size_kb": 4100,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "career",
+        "interviews",
+        "prep"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_8b3e7f2c",
+      "title": "Performance Review Materials",
+      "timestamp": "2024-09-28T10:00:00-06:00",
+      "created_date": "2024-09-01T09:00:00-06:00",
+      "note_count": 8,
+      "size_kb": 2800,
+      "source_device": "MacBook Pro Work",
+      "tags": [
+        "work",
+        "hr",
+        "review"
+      ],
+      "owner": "samir.okafor@rivertonhealthlabs.com"
+    },
+    {
+      "id": "nb_3f9a2c8e",
+      "title": "Budget Variance Analysis",
+      "timestamp": "2024-10-10T12:45:00-06:00",
+      "created_date": "2024-01-05T11:00:00-07:00",
+      "note_count": 29,
+      "size_kb": 7600,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "finance",
+        "analytics",
+        "budget"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_7c5f1b4a",
+      "title": "Investment Research Log",
+      "timestamp": "2024-10-07T18:20:00-06:00",
+      "created_date": "2024-02-15T17:00:00-07:00",
+      "note_count": 52,
+      "size_kb": 14200,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "finance",
+        "investing",
+        "research"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_2e8d6a3f",
+      "title": "Medical Visit Summaries",
+      "timestamp": "2024-09-12T14:30:00-06:00",
+      "created_date": "2024-01-18T13:00:00-07:00",
+      "note_count": 6,
+      "size_kb": 2400,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "health",
+        "medical",
+        "records"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_9a4c7f2b",
+      "title": "Cat Care Instructions",
+      "timestamp": "2024-08-20T09:00:00-06:00",
+      "created_date": "2024-06-01T10:00:00-06:00",
+      "note_count": 5,
+      "size_kb": 1200,
+      "source_device": "iPad Air",
+      "tags": [
+        "pets",
+        "household",
+        "care"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_1f3e9b8c",
+      "title": "Home Maintenance Schedule",
+      "timestamp": "2024-10-20T16:30:00-06:00",
+      "created_date": "2024-03-01T14:00:00-07:00",
+      "note_count": 18,
+      "size_kb": 4800,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "home",
+        "maintenance",
+        "schedule"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_6d2a8f5e",
+      "title": "Personal Letter Drafts",
+      "timestamp": "2024-09-05T21:45:00-06:00",
+      "created_date": "2024-08-01T20:00:00-06:00",
+      "note_count": 9,
+      "size_kb": 3100,
+      "source_device": "MacBook Pro Personal",
+      "tags": [
+        "personal",
+        "writing",
+        "correspondence"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "nb_4b9c1f7a",
+      "title": "Ideas & Brainstorming",
+      "timestamp": "2024-10-26T11:30:00-06:00",
+      "created_date": "2023-11-01T09:00:00-06:00",
+      "note_count": 67,
+      "size_kb": 15600,
+      "source_device": "iPhone 14 Pro",
+      "tags": [
+        "ideas",
+        "creative",
+        "brainstorm"
+      ],
+      "owner": "samir.okafor@meadowmail.co"
+    }
+  ]
+}

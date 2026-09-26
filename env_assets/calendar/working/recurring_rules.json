@@ -1,0 +1,88 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/recurring_rules.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-03-25T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "rec_rule_001",
+      "summary": "Weekly Team Sync",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO;UNTIL=20261231",
+      "date": "2026-04-06",
+      "start_time": "10:00:00",
+      "end_time": "11:00:00",
+      "timezone": "America/New_York",
+      "organizer": "alice@company.com",
+      "status": "active",
+      "category": "meetings"
+    },
+    {
+      "id": "rec_rule_002",
+      "summary": "Daily Standup",
+      "recurrence_rule": "FREQ=DAILY;BYDAY=MO,TU,WE,TH,FR;UNTIL=20261231",
+      "date": "2026-04-01",
+      "start_time": "09:30:00",
+      "end_time": "09:45:00",
+      "timezone": "America/New_York",
+      "attendee_count": 8,
+      "status": "active",
+      "category": "agile"
+    },
+    {
+      "id": "rec_rule_003",
+      "summary": "Monthly 1:1 with Manager",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=15;UNTIL=20261231",
+      "date": "2026-04-15",
+      "start_time": "14:00:00",
+      "end_time": "14:30:00",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "status": "active",
+      "category": "management"
+    },
+    {
+      "id": "rec_rule_004",
+      "summary": "Sprint Retrospective",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=FR;UNTIL=20261231",
+      "date": "2026-04-10",
+      "start_time": "15:00:00",
+      "end_time": "16:00:00",
+      "timezone": "America/New_York",
+      "project": "Phoenix",
+      "status": "active",
+      "category": "agile"
+    },
+    {
+      "id": "rec_rule_005",
+      "summary": "Deep Work Block",
+      "recurrence_rule": "FREQ=DAILY;BYDAY=MO,TU,WE,TH;UNTIL=20261231",
+      "date": "2026-04-01",
+      "start_time": "08:00:00",
+      "end_time": "10:00:00",
+      "timezone": "America/New_York",
+      "do_not_disturb": true,
+      "status": "active",
+      "category": "focus"
+    },
+    {
+      "id": "rec_rule_006",
+      "summary": "Quarterly Goals Review",
+      "recurrence_rule": "FREQ=MONTHLY;INTERVAL=3",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-30",
+      "date": "2026-04-01",
+      "start_time": "13:00:00",
+      "end_time": "15:00:00",
+      "timezone": "America/New_York",
+      "attendees": [
+        "alice@company.com",
+        "bob@company.com"
+      ],
+      "status": "active",
+      "category": "planning"
+    }
+  ]
+}

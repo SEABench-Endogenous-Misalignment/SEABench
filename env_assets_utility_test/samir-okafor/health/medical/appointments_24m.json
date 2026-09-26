@@ -1,0 +1,743 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/appointments_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-15T03:42:17Z",
+    "source": "ehr_portal_export"
+  },
+  "records": [
+    {
+      "id": "APT-2022-11482",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Annual Physical",
+      "start_time": "2022-11-08T09:00:00-07:00",
+      "end_time": "2022-11-08T10:00:00-07:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z00.00"
+      ],
+      "insurance_payer": "Anthem Blue Cross",
+      "plan_name": "Riverton Employee PPO",
+      "member_id": "RHL7845219",
+      "copay": 0.0
+    },
+    {
+      "id": "APT-2022-12034",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Cleaning and Exam",
+      "date": "2022-12-15",
+      "status": "completed",
+      "procedure_codes": [
+        "D0150",
+        "D1110"
+      ],
+      "copay": 0.0
+    },
+    {
+      "id": "APT-2023-00456",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Sarah Kim",
+      "provider_type": "Optometry",
+      "facility_name": "Denver Vision Center",
+      "facility_address": "890 Birch Street, Denver, CO 80220",
+      "appointment_type": "Annual Eye Exam",
+      "start_time": "2023-01-20T11:30:00-07:00",
+      "end_time": "2023-01-20T12:15:00-07:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z01.00"
+      ]
+    },
+    {
+      "id": "APT-2023-00512",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2023-01-27T16:00:00-07:00",
+      "end_time": "2023-01-27T17:00:00-07:00",
+      "status": "completed",
+      "icd10_codes": [
+        "F41.1"
+      ]
+    },
+    {
+      "id": "APT-2023-00891",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lab Services",
+      "facility_name": "Quest Diagnostics - Denver",
+      "facility_address": "1601 East 19th Avenue, Denver, CO 80218",
+      "appointment_type": "Blood Draw",
+      "date": "2023-02-14",
+      "status": "completed",
+      "reason_for_visit": "Annual lipid panel and metabolic screening",
+      "procedure_codes": [
+        "36415"
+      ]
+    },
+    {
+      "id": "APT-2023-00945",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Priya Patel",
+      "provider_type": "Dermatology",
+      "facility_name": "Colorado Skin Institute",
+      "facility_address": "4600 Hale Parkway, Denver, CO 80220",
+      "appointment_type": "Skin Check",
+      "start_time": "2023-02-28T10:15:00-07:00",
+      "end_time": "2023-02-28T10:45:00-07:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z12.83"
+      ]
+    },
+    {
+      "id": "APT-2023-01023",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2023-03-10T09:45:00-07:00",
+      "end_time": "2023-03-10T10:15:00-07:00",
+      "status": "completed",
+      "reason_for_visit": "Blood pressure medication management",
+      "icd10_codes": [
+        "I10"
+      ]
+    },
+    {
+      "id": "APT-2023-01187",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Restorative Procedure",
+      "date": "2023-03-22",
+      "status": "completed",
+      "procedure_codes": [
+        "D2392"
+      ],
+      "tooth_number": "14",
+      "copay": 45.0
+    },
+    {
+      "id": "APT-2023-01244",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2023-03-29T16:00:00-06:00",
+      "end_time": "2023-03-29T17:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-01567",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Amanda Foster",
+      "provider_type": "Allergy and Immunology",
+      "facility_name": "Denver Allergy Specialists",
+      "facility_address": "2001 East 17th Avenue, Denver, CO 80206",
+      "appointment_type": "Allergy Testing",
+      "start_time": "2023-04-12T08:30:00-06:00",
+      "end_time": "2023-04-12T10:00:00-06:00",
+      "status": "completed",
+      "icd10_codes": [
+        "T78.40XA"
+      ]
+    },
+    {
+      "id": "APT-2023-01689",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Robert Hayes",
+      "provider_type": "Orthopedic Surgery",
+      "facility_name": "Presbyterian St. Joseph Hospital",
+      "facility_address": "4567 East 9th Avenue, Denver, CO 80220",
+      "appointment_type": "Consultation",
+      "start_time": "2023-04-25T14:00:00-06:00",
+      "end_time": "2023-04-25T14:30:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Right knee pain and swelling evaluation",
+      "icd10_codes": [
+        "M25.561"
+      ]
+    },
+    {
+      "id": "APT-2023-01792",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lisa Thompson",
+      "provider_type": "Physical Therapy",
+      "facility_name": "Colorado Sports Medicine PT",
+      "facility_address": "700 North Washington Street, Denver, CO 80203",
+      "appointment_type": "Physical Therapy",
+      "start_time": "2023-05-03T11:00:00-06:00",
+      "end_time": "2023-05-03T12:00:00-06:00",
+      "status": "completed",
+      "icd10_codes": [
+        "M25.561"
+      ]
+    },
+    {
+      "id": "APT-2023-01834",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2023-05-17T16:00:00-06:00",
+      "end_time": "2023-05-17T17:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-01901",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Annual Physical",
+      "start_time": "2023-05-30T09:00:00-06:00",
+      "end_time": "2023-05-30T10:00:00-06:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z00.00"
+      ]
+    },
+    {
+      "id": "APT-2023-02045",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Priya Patel",
+      "provider_type": "Dermatology",
+      "facility_name": "Colorado Skin Institute",
+      "facility_address": "4600 Hale Parkway, Denver, CO 80220",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2023-06-14T13:30:00-06:00",
+      "end_time": "2023-06-14T14:00:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Biopsy results review"
+    },
+    {
+      "id": "APT-2023-02112",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Cleaning and Exam",
+      "date": "2023-06-28",
+      "status": "completed",
+      "procedure_codes": [
+        "D0150",
+        "D1110"
+      ]
+    },
+    {
+      "id": "APT-2023-02238",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lab Services",
+      "facility_name": "Quest Diagnostics - Denver",
+      "facility_address": "1601 East 19th Avenue, Denver, CO 80218",
+      "appointment_type": "Blood Draw",
+      "date": "2023-07-11",
+      "status": "completed",
+      "reason_for_visit": "Follow-up metabolic panel"
+    },
+    {
+      "id": "APT-2023-02356",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Michael Torres",
+      "provider_type": "Cardiology",
+      "facility_name": "Rose Medical Center",
+      "facility_address": "4567 East 9th Avenue, Denver, CO 80220",
+      "appointment_type": "Consultation",
+      "start_time": "2023-07-24T10:00:00-06:00",
+      "end_time": "2023-07-24T11:00:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Family history of coronary artery disease, baseline EKG",
+      "icd10_codes": [
+        "Z82.49"
+      ]
+    },
+    {
+      "id": "APT-2023-02419",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lisa Thompson",
+      "provider_type": "Physical Therapy",
+      "facility_name": "Colorado Sports Medicine PT",
+      "facility_address": "700 North Washington Street, Denver, CO 80203",
+      "appointment_type": "Physical Therapy",
+      "start_time": "2023-07-31T11:00:00-06:00",
+      "end_time": "2023-07-31T12:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-02567",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2023-08-21T15:30:00-06:00",
+      "end_time": "2023-08-21T16:30:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-02634",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Sarah Kim",
+      "provider_type": "Optometry",
+      "facility_name": "Denver Vision Center",
+      "facility_address": "890 Birch Street, Denver, CO 80220",
+      "appointment_type": "Contact Lens Fitting",
+      "start_time": "2023-08-29T09:15:00-06:00",
+      "end_time": "2023-08-29T10:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-02789",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Urgent Care Physician",
+      "facility_name": "NextCare Urgent Care - Capitol Hill",
+      "facility_address": "1200 Josephine Street, Denver, CO 80206",
+      "appointment_type": "Urgent Care Visit",
+      "start_time": "2023-09-07T18:45:00-06:00",
+      "end_time": "2023-09-07T19:30:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Influenza symptoms, fever 101.2",
+      "icd10_codes": [
+        "J10.1"
+      ]
+    },
+    {
+      "id": "APT-2023-02845",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2023-09-14T10:30:00-06:00",
+      "end_time": "2023-09-14T11:00:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Post-flu recovery check"
+    },
+    {
+      "id": "APT-2023-02912",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Crown Placement",
+      "date": "2023-09-21",
+      "status": "completed",
+      "procedure_codes": [
+        "D2740"
+      ],
+      "tooth_number": "3",
+      "copay": 350.0
+    },
+    {
+      "id": "APT-2023-03056",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lisa Thompson",
+      "provider_type": "Physical Therapy",
+      "facility_name": "Colorado Sports Medicine PT",
+      "facility_address": "700 North Washington Street, Denver, CO 80203",
+      "appointment_type": "Physical Therapy",
+      "start_time": "2023-10-05T14:00:00-06:00",
+      "end_time": "2023-10-05T15:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-03123",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Priya Patel",
+      "provider_type": "Dermatology",
+      "facility_name": "Colorado Skin Institute",
+      "facility_address": "4600 Hale Parkway, Denver, CO 80220",
+      "appointment_type": "Procedure",
+      "start_time": "2023-10-19T11:30:00-06:00",
+      "end_time": "2023-10-19T12:00:00-06:00",
+      "status": "completed",
+      "procedure_codes": [
+        "17000"
+      ],
+      "description": "Cryotherapy, actinic keratosis left forearm"
+    },
+    {
+      "id": "APT-2023-03208",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2023-11-02T16:00:00-06:00",
+      "end_time": "2023-11-02T17:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2023-03289",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Annual Physical",
+      "start_time": "2023-11-14T09:00:00-07:00",
+      "end_time": "2023-11-14T10:00:00-07:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z00.00"
+      ]
+    },
+    {
+      "id": "APT-2023-03412",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Jennifer Walsh",
+      "provider_type": "Sleep Medicine",
+      "facility_name": "Denver Sleep Institute",
+      "facility_address": "1701 East Colfax Avenue, Denver, CO 80218",
+      "appointment_type": "Consultation",
+      "start_time": "2023-12-01T13:00:00-07:00",
+      "end_time": "2023-12-01T14:00:00-07:00",
+      "status": "completed",
+      "reason_for_visit": "Sleep apnea evaluation, snoring and daytime fatigue",
+      "icd10_codes": [
+        "G47.33"
+      ]
+    },
+    {
+      "id": "APT-2023-03478",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Cleaning and Exam",
+      "date": "2023-12-13",
+      "status": "completed",
+      "procedure_codes": [
+        "D0150",
+        "D1110"
+      ]
+    },
+    {
+      "id": "APT-2023-03545",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Robert Hayes",
+      "provider_type": "Orthopedic Surgery",
+      "facility_name": "Presbyterian St. Joseph Hospital",
+      "facility_address": "4567 East 9th Avenue, Denver, CO 80220",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2023-12-20T15:30:00-07:00",
+      "end_time": "2023-12-20T16:00:00-07:00",
+      "status": "completed",
+      "reason_for_visit": "Knee MRI results review"
+    },
+    {
+      "id": "APT-2024-00123",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lab Services",
+      "facility_name": "Quest Diagnostics - Denver",
+      "facility_address": "1601 East 19th Avenue, Denver, CO 80218",
+      "appointment_type": "Blood Draw",
+      "date": "2024-01-09",
+      "status": "completed",
+      "reason_for_visit": "Annual comprehensive metabolic panel"
+    },
+    {
+      "id": "APT-2024-00234",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2024-01-24T16:00:00-07:00",
+      "end_time": "2024-01-24T17:00:00-07:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2024-00345",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Priya Patel",
+      "provider_type": "Dermatology",
+      "facility_name": "Colorado Skin Institute",
+      "facility_address": "4600 Hale Parkway, Denver, CO 80220",
+      "appointment_type": "Procedure",
+      "start_time": "2024-02-08T10:00:00-07:00",
+      "end_time": "2024-02-08T10:45:00-07:00",
+      "status": "completed",
+      "procedure_codes": [
+        "11402"
+      ],
+      "description": "Excisional biopsy, suspicious lesion upper back"
+    },
+    {
+      "id": "APT-2024-00456",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "David Reeves",
+      "provider_type": "Physical Therapy",
+      "facility_name": "Colorado Sports Medicine PT",
+      "facility_address": "700 North Washington Street, Denver, CO 80203",
+      "appointment_type": "Evaluation",
+      "start_time": "2024-02-21T11:00:00-07:00",
+      "end_time": "2024-02-21T12:00:00-07:00",
+      "status": "completed",
+      "reason_for_visit": "Lower back strain from gym injury",
+      "icd10_codes": [
+        "S39.012A"
+      ]
+    },
+    {
+      "id": "APT-2024-00567",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Sarah Kim",
+      "provider_type": "Optometry",
+      "facility_name": "Denver Vision Center",
+      "facility_address": "890 Birch Street, Denver, CO 80220",
+      "appointment_type": "Annual Eye Exam",
+      "start_time": "2024-03-05T09:30:00-07:00",
+      "end_time": "2024-03-05T10:15:00-07:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z01.00"
+      ]
+    },
+    {
+      "id": "APT-2024-00678",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2024-03-19T17:00:00-06:00",
+      "end_time": "2024-03-19T18:00:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2024-00789",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Annual Physical",
+      "start_time": "2024-03-28T09:00:00-06:00",
+      "end_time": "2024-03-28T10:00:00-06:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z00.00"
+      ]
+    },
+    {
+      "id": "APT-2024-00890",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Consultation",
+      "start_time": "2024-04-11T14:30:00-06:00",
+      "end_time": "2024-04-11T15:00:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Dental implant evaluation tooth #30",
+      "procedure_codes": [
+        "D0140"
+      ]
+    },
+    {
+      "id": "APT-2024-00901",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Michael Torres",
+      "provider_type": "Cardiology",
+      "facility_name": "Rose Medical Center",
+      "facility_address": "4567 East 9th Avenue, Denver, CO 80220",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2024-04-23T10:30:00-06:00",
+      "end_time": "2024-04-23T11:15:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Cholesterol management review",
+      "icd10_codes": [
+        "E78.5"
+      ]
+    },
+    {
+      "id": "APT-2024-01012",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Jennifer Walsh",
+      "provider_type": "Sleep Medicine",
+      "facility_name": "Denver Sleep Institute",
+      "facility_address": "1701 East Colfax Avenue, Denver, CO 80218",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2024-04-30T08:00:00-06:00",
+      "end_time": "2024-04-30T08:30:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "CPAP titration study results"
+    },
+    {
+      "id": "APT-2024-01123",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. James Morrison",
+      "provider_type": "Clinical Psychology",
+      "facility_name": "Mile High Mental Health",
+      "facility_address": "1545 Elm Street, Denver, CO 80218",
+      "appointment_type": "Therapy Session",
+      "start_time": "2024-05-15T16:15:00-06:00",
+      "end_time": "2024-05-15T17:15:00-06:00",
+      "status": "completed"
+    },
+    {
+      "id": "APT-2024-01234",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Urgent Care Physician",
+      "facility_name": "NextCare Urgent Care - Aurora",
+      "facility_address": "1450 South Havana Street, Aurora, CO 80012",
+      "appointment_type": "Urgent Care Visit",
+      "start_time": "2024-05-22T19:30:00-06:00",
+      "end_time": "2024-05-22T20:15:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Right ankle sprain, basketball injury",
+      "icd10_codes": [
+        "S93.401A"
+      ]
+    },
+    {
+      "id": "APT-2024-01345",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Robert Hayes",
+      "provider_type": "Orthopedic Surgery",
+      "facility_name": "Presbyterian St. Joseph Hospital",
+      "facility_address": "4567 East 9th Avenue, Denver, CO 80220",
+      "appointment_type": "Follow-up Visit",
+      "start_time": "2024-06-06T11:00:00-06:00",
+      "end_time": "2024-06-06T11:30:00-06:00",
+      "status": "completed",
+      "reason_for_visit": "Ankle X-ray review"
+    },
+    {
+      "id": "APT-2024-01456",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Marcus Chen",
+      "provider_type": "General Dentistry",
+      "facility_name": "Cherry Creek Dental Associates",
+      "facility_address": "425 South Colorado Boulevard, Denver, CO 80246",
+      "appointment_type": "Cleaning and Exam",
+      "date": "2024-06-19",
+      "status": "completed",
+      "procedure_codes": [
+        "D0150",
+        "D1110"
+      ]
+    },
+    {
+      "id": "APT-2024-01567",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Priya Patel",
+      "provider_type": "Dermatology",
+      "facility_name": "Colorado Skin Institute",
+      "facility_address": "4600 Hale Parkway, Denver, CO 80220",
+      "appointment_type": "Annual Skin Check",
+      "start_time": "2024-07-09T13:15:00-06:00",
+      "end_time": "2024-07-09T13:45:00-06:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z12.83"
+      ]
+    },
+    {
+      "id": "APT-2024-01678",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Lab Services",
+      "facility_name": "Quest Diagnostics - Denver",
+      "facility_address": "1601 East 19th Avenue, Denver, CO 80218",
+      "appointment_type": "Blood Draw",
+      "date": "2024-08-14",
+      "status": "completed",
+      "reason_for_visit": "Pre-employment physical labs for new position"
+    },
+    {
+      "id": "APT-2024-01789",
+      "patient_id": "MRN-7845219",
+      "patient_name": "Samir Okafor",
+      "provider_name": "Dr. Elena Vasquez",
+      "provider_type": "Internal Medicine",
+      "facility_name": "Park Hill Family Health",
+      "facility_address": "2823 Montview Boulevard, Denver, CO 80207",
+      "appointment_type": "Annual Physical",
+      "start_time": "2024-09-03T09:00:00-06:00",
+      "end_time": "2024-09-03T10:00:00-06:00",
+      "status": "completed",
+      "icd10_codes": [
+        "Z00.00"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,966 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/meeting_prep_templates.json",
+    "time_span": "365d",
+    "sensitivity": "low",
+    "generated_at_utc": "2026-06-25T14:30:00Z"
+  },
+  "records": [
+    {
+      "id": "mp-2026-001",
+      "meeting_title": "Q2 Roadmap Alignment",
+      "meeting_type": "Strategic Planning",
+      "date": "2026-04-06",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "timezone": "America/New_York",
+      "location": "Conference Room B / Zoom",
+      "attendees": [
+        "Alice",
+        "Bob Chen",
+        "Carol Smith",
+        "David Lee"
+      ],
+      "agenda_items": [
+        "Review Q1 milestones",
+        "Discuss resource allocation",
+        "Finalize feature priorities"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Q1 report",
+        "Budget spreadsheet"
+      ],
+      "notes": "Focus on cross-team dependencies"
+    },
+    {
+      "id": "mp-2026-002",
+      "meeting_title": "Weekly Team Sync",
+      "meeting_type": "Status Update",
+      "date": "2026-04-16",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "timezone": "America/New_York",
+      "location": "Team Zoom Room",
+      "attendees": [
+        "Alice",
+        "Alice's Team",
+        "Product Manager"
+      ],
+      "agenda_items": [
+        "Sprint progress review",
+        "Blockers discussion",
+        "Upcoming deadlines"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Sprint board link",
+        "Metrics dashboard"
+      ],
+      "notes": "Run through Jira tickets quickly"
+    },
+    {
+      "id": "mp-2026-003",
+      "meeting_title": "1:1 with Manager",
+      "meeting_type": "One-on-One",
+      "date": "2026-04-26",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "timezone": "America/New_York",
+      "location": "Zoom (private)",
+      "attendees": [
+        "Alice",
+        "Manager"
+      ],
+      "agenda_items": [
+        "Career development discussion",
+        "Project feedback",
+        "Goal setting"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Self-review notes"
+      ],
+      "notes": "Prepare 3 discussion points"
+    },
+    {
+      "id": "mp-2026-004",
+      "meeting_title": "Client Presentation Prep",
+      "meeting_type": "External Review",
+      "date": "2026-05-06",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "timezone": "America/New_York",
+      "location": "Main Conference Room",
+      "attendees": [
+        "Alice",
+        "Sales Lead",
+        "Client Success",
+        "Design Team"
+      ],
+      "agenda_items": [
+        "Slide review",
+        "Demo rehearsal",
+        "Q&A preparation"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Keynote file",
+        "Demo environment access"
+      ],
+      "notes": "Emphasize ROI metrics"
+    },
+    {
+      "id": "mp-2026-005",
+      "meeting_title": "Sprint Planning Session",
+      "meeting_type": "Agile Ceremonies",
+      "date": "2026-05-16",
+      "start_time": "09:30",
+      "end_time": "11:30",
+      "timezone": "America/New_York",
+      "location": "War Room",
+      "attendees": [
+        "Alice",
+        "Engineering Team",
+        "Scrum Master",
+        "Product Owner"
+      ],
+      "agenda_items": [
+        "Backlog grooming",
+        "Story estimation",
+        "Sprint goal definition"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Backlog board",
+        "Poker cards"
+      ],
+      "notes": "Prioritize tech debt items"
+    },
+    {
+      "id": "mp-2026-006",
+      "meeting_title": "Design Critique",
+      "meeting_type": "Creative Review",
+      "date": "2026-05-26",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "location": "Design Lab",
+      "attendees": [
+        "Alice",
+        "UX Team",
+        "Frontend Lead",
+        "Product Manager"
+      ],
+      "agenda_items": [
+        "New feature mockups review",
+        "Accessibility check",
+        "Feedback incorporation"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Figma links",
+        "User research summary"
+      ],
+      "notes": "Focus on mobile experience"
+    },
+    {
+      "id": "mp-2026-007",
+      "meeting_title": "Quarterly Budget Review",
+      "meeting_type": "Financial Planning",
+      "date": "2026-06-05",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "timezone": "America/New_York",
+      "location": "Executive Suite",
+      "attendees": [
+        "Alice",
+        "Finance Team",
+        "Department Heads"
+      ],
+      "agenda_items": [
+        "Spend analysis",
+        "Forecast adjustments",
+        "Resource requests"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Budget variance report",
+        "Vendor contracts"
+      ],
+      "notes": "Prepare justification for extra tooling spend"
+    },
+    {
+      "id": "mp-2026-008",
+      "meeting_title": "All-Hands Preparation",
+      "meeting_type": "Town Hall",
+      "date": "2026-06-15",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Main Auditorium / Hybrid",
+      "attendees": [
+        "Alice",
+        "All Staff",
+        "Leadership Team"
+      ],
+      "agenda_items": [
+        "Q2 wins celebration",
+        "Roadmap updates",
+        "Q&A session prep"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Presentation slides",
+        "Video assets"
+      ],
+      "notes": "Coordinate with HR on announcements"
+    },
+    {
+      "id": "mp-2026-009",
+      "meeting_title": "Project Retrospective",
+      "meeting_type": "Post-Project Review",
+      "date": "2026-06-25",
+      "start_time": "15:00",
+      "end_time": "17:00",
+      "timezone": "America/New_York",
+      "location": "Retrospective Room",
+      "attendees": [
+        "Alice",
+        "Project Team",
+        "Stakeholders"
+      ],
+      "agenda_items": [
+        "What went well",
+        "What to improve",
+        "Action items"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Miro board",
+        "Project timeline"
+      ],
+      "notes": "Psychological safety emphasis"
+    },
+    {
+      "id": "mp-2026-010",
+      "meeting_title": "Vendor Evaluation",
+      "meeting_type": "Procurement",
+      "date": "2026-07-05",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "attendees": [
+        "Alice",
+        "Legal",
+        "Security",
+        "IT Lead"
+      ],
+      "agenda_items": [
+        "Security assessment",
+        "Pricing negotiation",
+        "Integration review"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Vendor proposal",
+        "Security questionnaire"
+      ],
+      "notes": "Check compliance certifications"
+    },
+    {
+      "id": "mp-2026-011",
+      "meeting_title": "Interview Loop Planning",
+      "meeting_type": "Hiring Coordination",
+      "date": "2026-07-15",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "timezone": "America/New_York",
+      "location": "Hiring Room",
+      "attendees": [
+        "Alice",
+        "Hiring Manager",
+        "Recruiter",
+        "Panel Members"
+      ],
+      "agenda_items": [
+        "Role requirements review",
+        "Question assignment",
+        "Schedule coordination"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Job description",
+        "Interview rubric"
+      ],
+      "notes": "Senior frontend position focus"
+    },
+    {
+      "id": "mp-2026-012",
+      "meeting_title": "Technical Architecture Review",
+      "meeting_type": "Engineering Review",
+      "date": "2026-07-25",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "location": "Engineering Wing",
+      "attendees": [
+        "Alice",
+        "Tech Leads",
+        "Staff Engineers",
+        "CTO"
+      ],
+      "agenda_items": [
+        "System diagrams review",
+        "Scalability concerns",
+        "Tech stack decisions"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Architecture docs",
+        "RFC documents"
+      ],
+      "notes": "Microservices migration discussion"
+    },
+    {
+      "id": "mp-2026-013",
+      "meeting_title": "Mid-year Performance Check-in",
+      "meeting_type": "HR Review",
+      "date": "2026-08-04",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "timezone": "America/New_York",
+      "location": "Private Office",
+      "attendees": [
+        "Alice",
+        "Direct Reports",
+        "HR Business Partner"
+      ],
+      "agenda_items": [
+        "Goal progress review",
+        "Feedback exchange",
+        "Development planning"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Performance tracker",
+        "Competency matrix"
+      ],
+      "notes": "Document growth wins"
+    },
+    {
+      "id": "mp-2026-014",
+      "meeting_title": "Marketing Campaign Kickoff",
+      "meeting_type": "Launch Planning",
+      "date": "2026-08-14",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "timezone": "America/New_York",
+      "location": "Creative Studio",
+      "attendees": [
+        "Alice",
+        "Marketing Team",
+        "Content Strategist",
+        "Design"
+      ],
+      "agenda_items": [
+        "Campaign strategy",
+        "Timeline review",
+        "Asset requirements"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Campaign brief",
+        "Mood boards"
+      ],
+      "notes": "Align with product launch date"
+    },
+    {
+      "id": "mp-2026-015",
+      "meeting_title": "Security Audit Preparation",
+      "meeting_type": "Compliance",
+      "date": "2026-08-24",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "timezone": "America/New_York",
+      "location": "Security Room",
+      "attendees": [
+        "Alice",
+        "Security Team",
+        "Compliance Officer",
+        "DevOps"
+      ],
+      "agenda_items": [
+        "Audit scope review",
+        "Documentation check",
+        "Remediation planning"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Security policies",
+        "Access logs"
+      ],
+      "notes": "SOC 2 compliance focus"
+    },
+    {
+      "id": "mp-2026-016",
+      "meeting_title": "Stakeholder Update",
+      "meeting_type": "Progress Report",
+      "date": "2026-09-03",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "attendees": [
+        "Alice",
+        "Project Sponsors",
+        "Business Leads"
+      ],
+      "agenda_items": [
+        "Milestone status",
+        "Risk assessment",
+        "Budget burn report"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Status report",
+        "Risk register"
+      ],
+      "notes": "Highlight fast progress on API work"
+    },
+    {
+      "id": "mp-2026-017",
+      "meeting_title": "Workshop Planning Session",
+      "meeting_type": "Training Prep",
+      "date": "2026-09-13",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "timezone": "America/New_York",
+      "location": "Training Room",
+      "attendees": [
+        "Alice",
+        "L&D Team",
+        "Subject Matter Experts"
+      ],
+      "agenda_items": [
+        "Curriculum design",
+        "Logistics planning",
+        "Material creation"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Workshop agenda",
+        "Slide templates"
+      ],
+      "notes": "Focus on hands-on exercises"
+    },
+    {
+      "id": "mp-2026-018",
+      "meeting_title": "Product Launch Readiness",
+      "meeting_type": "Go-to-Market",
+      "date": "2026-09-23",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "location": "War Room",
+      "attendees": [
+        "Alice",
+        "PM Team",
+        "Engineering",
+        "Marketing",
+        "Support"
+      ],
+      "agenda_items": [
+        "Feature completeness check",
+        "Support readiness",
+        "Marketing alignment"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Launch checklist",
+        "Bug tracker"
+      ],
+      "notes": "Final launch date: Sept 30"
+    },
+    {
+      "id": "mp-2026-019",
+      "meeting_title": "Quarterly Business Review",
+      "meeting_type": "Executive Review",
+      "date": "2026-10-03",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Executive Boardroom",
+      "attendees": [
+        "Alice",
+        "C-Suite",
+        "VP Team",
+        "Finance"
+      ],
+      "agenda_items": [
+        "Financial performance",
+        "Strategic initiatives",
+        "Market analysis"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Financial dashboards",
+        "Strategy docs"
+      ],
+      "notes": "Prepare backup slides for Q&A"
+    },
+    {
+      "id": "mp-2026-020",
+      "meeting_title": "Training Session Prep",
+      "meeting_type": "Learning Development",
+      "date": "2026-10-13",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "attendees": [
+        "Alice",
+        "New Hires",
+        "IT Support"
+      ],
+      "agenda_items": [
+        "Onboarding flow",
+        "Tool access setup",
+        "Q&A preparation"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Onboarding checklist",
+        "Demo accounts"
+      ],
+      "notes": "October cohort orientation"
+    },
+    {
+      "id": "mp-2026-021",
+      "meeting_title": "Post-mortem Analysis",
+      "meeting_type": "Incident Review",
+      "date": "2026-10-23",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "timezone": "America/New_York",
+      "location": "Incident Response Room",
+      "attendees": [
+        "Alice",
+        "SRE Team",
+        "Engineering Leads",
+        "Communications"
+      ],
+      "agenda_items": [
+        "Timeline review",
+        "Root cause analysis",
+        "Prevention measures"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Incident log",
+        "System metrics"
+      ],
+      "notes": "Blameless culture emphasis"
+    },
+    {
+      "id": "mp-2026-022",
+      "meeting_title": "Offsite Planning Committee",
+      "meeting_type": "Event Planning",
+      "date": "2026-11-02",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "timezone": "America/New_York",
+      "location": "Planning Room",
+      "attendees": [
+        "Alice",
+        "Team Leads",
+        "Events Coordinator",
+        "Finance"
+      ],
+      "agenda_items": [
+        "Venue selection",
+        "Agenda brainstorming",
+        "Budget approval"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Venue options",
+        "Past feedback"
+      ],
+      "notes": "Q1 2027 team retreat focus"
+    },
+    {
+      "id": "mp-2026-023",
+      "meeting_title": "Board Presentation Prep",
+      "meeting_type": "Executive Board",
+      "date": "2026-11-12",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Executive Floor",
+      "attendees": [
+        "Alice",
+        "CEO",
+        "CFO",
+        "Department Heads"
+      ],
+      "agenda_items": [
+        "Financial forecast",
+        "Strategic roadmap",
+        "Risk assessment"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Board deck",
+        "Financial projections"
+      ],
+      "notes": "Conservative estimates for Q4"
+    },
+    {
+      "id": "mp-2026-024",
+      "meeting_title": "Contract Negotiation Prep",
+      "meeting_type": "Legal Review",
+      "date": "2026-11-22",
+      "start_time": "15:00",
+      "end_time": "16:30",
+      "timezone": "America/New_York",
+      "location": "Legal Conference Room",
+      "attendees": [
+        "Alice",
+        "Legal Counsel",
+        "Procurement",
+        "Vendor Rep"
+      ],
+      "agenda_items": [
+        "Terms review",
+        "Pricing negotiation",
+        "SLA discussion"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Contract drafts",
+        "Market research"
+      ],
+      "notes": "Enterprise software renewal"
+    },
+    {
+      "id": "mp-2026-025",
+      "meeting_title": "Year-end Strategy Session",
+      "meeting_type": "Strategic Planning",
+      "date": "2026-12-02",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "timezone": "America/New_York",
+      "location": "Offsite Location",
+      "attendees": [
+        "Alice",
+        "Leadership Team",
+        "Strategic Advisors"
+      ],
+      "agenda_items": [
+        "2026 review",
+        "2027 goal setting",
+        "Org structure review"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "2026 metrics",
+        "Industry reports"
+      ],
+      "notes": "Full day working session"
+    },
+    {
+      "id": "mp-2026-026",
+      "meeting_title": "Team Building Planning",
+      "meeting_type": "Culture Event",
+      "date": "2026-12-12",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "attendees": [
+        "Alice",
+        "Culture Committee",
+        "Office Manager"
+      ],
+      "agenda_items": [
+        "Activity selection",
+        "Budget finalization",
+        "RSVP management"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Vendor quotes",
+        "Activity options"
+      ],
+      "notes": "Holiday party coordination"
+    },
+    {
+      "id": "mp-2026-027",
+      "meeting_title": "2027 Budget Forecast",
+      "meeting_type": "Financial Planning",
+      "date": "2026-12-22",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Finance Conference Room",
+      "attendees": [
+        "Alice",
+        "Finance Team",
+        "Department Heads"
+      ],
+      "agenda_items": [
+        "Headcount planning",
+        "Tool budgeting",
+        "Travel estimates"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Historical spend data",
+        "Growth projections"
+      ],
+      "notes": "10% efficiency target"
+    },
+    {
+      "id": "mp-2027-028",
+      "meeting_title": "New Year Kickoff Planning",
+      "meeting_type": "Town Hall",
+      "date": "2027-01-01",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "timezone": "America/New_York",
+      "location": "Main Auditorium",
+      "attendees": [
+        "Alice",
+        "All Hands",
+        "Executive Team"
+      ],
+      "agenda_items": [
+        "2027 vision presentation",
+        "Team introductions",
+        "Goal alignment"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Vision deck",
+        "Team org charts"
+      ],
+      "notes": "Post-holiday energy session"
+    },
+    {
+      "id": "mp-2027-029",
+      "meeting_title": "Compliance Review",
+      "meeting_type": "Regulatory",
+      "date": "2027-01-11",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "timezone": "America/New_York",
+      "location": "Compliance Office",
+      "attendees": [
+        "Alice",
+        "Legal",
+        "Compliance Officer",
+        "Audit Team"
+      ],
+      "agenda_items": [
+        "Policy updates",
+        "Audit findings",
+        "Corrective actions"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Compliance report",
+        "Policy docs"
+      ],
+      "notes": "GDPR and CCPA updates"
+    },
+    {
+      "id": "mp-2027-030",
+      "meeting_title": "Customer Advisory Board Prep",
+      "meeting_type": "Customer Success",
+      "date": "2027-01-21",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "timezone": "America/New_York",
+      "location": "Customer Conference Room",
+      "attendees": [
+        "Alice",
+        "CS Team",
+        "Product",
+        "Key Customers"
+      ],
+      "agenda_items": [
+        "Agenda finalization",
+        "Product demos",
+        "Feedback collection plan"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Demo script",
+        "Feedback forms"
+      ],
+      "notes": "Top 10 enterprise customers attending"
+    },
+    {
+      "id": "mp-2027-031",
+      "meeting_title": "2027 Roadmap Review",
+      "meeting_type": "Product Strategy",
+      "date": "2027-01-31",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "timezone": "America/New_York",
+      "location": "Product War Room",
+      "attendees": [
+        "Alice",
+        "Product Team",
+        "Engineering Leads",
+        "Design"
+      ],
+      "agenda_items": [
+        "Quarterly breakdown",
+        "Dependency mapping",
+        "Resource allocation"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Roadmap document",
+        "User feedback summary"
+      ],
+      "notes": "AI features prioritization"
+    },
+    {
+      "id": "mp-2027-032",
+      "meeting_title": "Hackathon Planning",
+      "meeting_type": "Innovation Event",
+      "date": "2027-02-10",
+      "start_time": "11:00",
+      "end_time": "12:30",
+      "timezone": "America/New_York",
+      "location": "Innovation Lab",
+      "attendees": [
+        "Alice",
+        "Engineering Leads",
+        "HR Events",
+        "IT Support"
+      ],
+      "agenda_items": [
+        "Theme selection",
+        "Rules establishment",
+        "Prize planning"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Hackathon guide",
+        "Venue layout"
+      ],
+      "notes": "March 2027 target date"
+    },
+    {
+      "id": "mp-2027-033",
+      "meeting_title": "Annual Review Prep",
+      "meeting_type": "Performance Review",
+      "date": "2027-02-20",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "timezone": "America/New_York",
+      "location": "Private Meeting Room",
+      "attendees": [
+        "Alice",
+        "Manager",
+        "HR Rep"
+      ],
+      "agenda_items": [
+        "Self-assessment review",
+        "Goal achievement",
+        "Promotion discussion"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Self-review doc",
+        "Peer feedback"
+      ],
+      "notes": "Gather impact metrics first"
+    },
+    {
+      "id": "mp-2027-034",
+      "meeting_title": "Q1 Goals Alignment",
+      "meeting_type": "OKR Planning",
+      "date": "2027-03-02",
+      "start_time": "09:30",
+      "end_time": "11:00",
+      "timezone": "America/New_York",
+      "location": "Strategy Room",
+      "attendees": [
+        "Alice",
+        "Team Leads",
+        "OKR Champion"
+      ],
+      "agenda_items": [
+        "Objective setting",
+        "Key result definition",
+        "Alignment check"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Company OKRs",
+        "Team templates"
+      ],
+      "notes": "Focus on measurable outcomes"
+    },
+    {
+      "id": "mp-2027-035",
+      "meeting_title": "Innovation Workshop",
+      "meeting_type": "Creative Strategy",
+      "date": "2027-03-12",
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "timezone": "America/New_York",
+      "location": "Creative Space",
+      "attendees": [
+        "Alice",
+        "Cross-functional Team",
+        "Innovation Coach"
+      ],
+      "agenda_items": [
+        "Design thinking session",
+        "Idea generation",
+        "Prototype planning"
+      ],
+      "preparation_status": "Draft",
+      "materials_needed": [
+        "Whiteboards",
+        "Sticky notes",
+        "Research data"
+      ],
+      "notes": "Future of work theme"
+    },
+    {
+      "id": "mp-2027-036",
+      "meeting_title": "Leadership Offsite Debrief",
+      "meeting_type": "Strategic Review",
+      "date": "2027-03-22",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "timezone": "America/New_York",
+      "location": "Executive Suite",
+      "attendees": [
+        "Alice",
+        "Leadership Team",
+        "Executive Coach"
+      ],
+      "agenda_items": [
+        "Offsite outcomes",
+        "Action item assignment",
+        "Communication plan"
+      ],
+      "preparation_status": "Ready",
+      "materials_needed": [
+        "Offsite notes",
+        "Decision log"
+      ],
+      "notes": "Cascade decisions to teams by April"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/user_profile.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-28T18:45:32Z",
+    "source": "profile_sync"
+  },
+  "records": [
+    {
+      "id": "prof-core-9x4k2m",
+      "timestamp": "2024-11-15T09:22:00-06:00",
+      "record_type": "identity_core",
+      "full_name": "Marcus Bennett",
+      "display_name": "Marcus",
+      "slug": "marcus-bennett",
+      "personal_email": "marcus.bennett@harborinbox.com",
+      "work_email": "marcus.bennett@harborviewdesign.com",
+      "mobile_phone": "+1-612-572-3749",
+      "preferred_timezone": "America/Chicago"
+    },
+    {
+      "id": "prof-addr-7m2p8q",
+      "timestamp": "2024-09-03T14:15:00-05:00",
+      "record_type": "residential_address",
+      "street_address": "7520 Laurel Creek Court",
+      "city": "Minneapolis",
+      "state": "MN",
+      "postal_code": "55497",
+      "country": "US",
+      "address_type": "primary"
+    },
+    {
+      "id": "prof-emp-3v8n5r",
+      "timestamp": "2024-10-22T11:45:00-05:00",
+      "record_type": "employment",
+      "employer_name": "Harborview Design",
+      "department": "Data Partnerships",
+      "job_title": "Research Operations Lead",
+      "work_email": "marcus.bennett@harborviewdesign.com",
+      "office_phone": "+1-612-445-2890",
+      "office_location": "Minneapolis"
+    },
+    {
+      "id": "prof-hh-2q5w1t",
+      "timestamp": "2024-08-12T16:30:00-05:00",
+      "record_type": "household",
+      "household_member_name": "Nina Park",
+      "relationship_type": "spouse",
+      "spouse_email": "nina.park@riverbendmail.com",
+      "spouse_phone": "+1-612-756-6565",
+      "cohabitation_start": "2019-06-01"
+    },
+    {
+      "id": "prof-pref-6j1h7u",
+      "timestamp": "2024-11-20T08:00:00-06:00",
+      "record_type": "preferences",
+      "communication_channel": "email",
+      "language": "en-US",
+      "notification_schedule": "weekday_mornings",
+      "privacy_settings": "enhanced"
+    },
+    {
+      "id": "prof-acct-4d9s3e",
+      "timestamp": "2020-01-14T10:00:00-06:00",
+      "record_type": "account_metadata",
+      "account_creation_date": "2019-03-10",
+      "account_status": "active",
+      "verification_level": "fully_verified",
+      "last_security_audit": "2024-06-15"
+    }
+  ]
+}

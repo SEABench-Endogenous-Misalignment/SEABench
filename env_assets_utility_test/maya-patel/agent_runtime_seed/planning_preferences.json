@@ -1,0 +1,185 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/planning_preferences.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-21T18:45:32Z",
+    "source": "productivity_app_export"
+  },
+  "records": [
+    {
+      "id": "pref_working_hours_v3",
+      "timestamp": "2024-09-15T14:32:00Z",
+      "preference_type": "working_hours",
+      "owner_email": "maya.patel@brightlinesystems.com",
+      "timezone": "America/New_York",
+      "weekday_start": "09:00",
+      "weekday_end": "17:30",
+      "focus_blocks": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ]
+        },
+        {
+          "start_time": "14:00",
+          "end_time": "16:00",
+          "days": [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri"
+          ]
+        }
+      ],
+      "lunch_block": "12:00-13:00",
+      "sync_status": "active"
+    },
+    {
+      "id": "pref_meeting_sched_v2",
+      "timestamp": "2024-08-22T10:15:00Z",
+      "preference_type": "meeting_scheduling",
+      "owner_email": "maya.patel@brightlinesystems.com",
+      "buffer_time_minutes": 15,
+      "max_daily_meetings": 4,
+      "default_meeting_duration": 25,
+      "preferred_meeting_length": "25min_or_50min",
+      "avoid_time_ranges": [
+        {
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "start_time": "17:00",
+          "end_time": "18:00"
+        }
+      ],
+      "high_energy_slots": [
+        {
+          "start_time": "09:00",
+          "end_time": "11:00"
+        }
+      ],
+      "auto_decline_conflicts": false
+    },
+    {
+      "id": "pref_task_defaults_v4",
+      "timestamp": "2024-07-10T16:45:00Z",
+      "preference_type": "task_management",
+      "owner_email": "maya.patel@harborinbox.com",
+      "default_reminder_offset": "P1D",
+      "morning_review_time": "08:30",
+      "evening_shutdown_notification": "17:45",
+      "priority_framework": "impact_effort_matrix",
+      "inbox_zero_target": "daily",
+      "task_title_template": "[Context] Action - Outcome",
+      "sync_sources": [
+        "todoist",
+        "calendar"
+      ],
+      "last_modified_by": "Maya Patel"
+    },
+    {
+      "id": "pref_notifications_v1",
+      "timestamp": "2024-06-05T09:20:00Z",
+      "preference_type": "notification_settings",
+      "owner_email": "maya.patel@brightlinesystems.com",
+      "calendar_alerts": true,
+      "email_digest_time": "08:00",
+      "focus_mode_schedule": [
+        {
+          "day": "Mon",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "day": "Tue",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "day": "Wed",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "day": "Thu",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        },
+        {
+          "day": "Fri",
+          "start_time": "08:00",
+          "end_time": "09:00"
+        }
+      ],
+      "allowed_interrupt_contacts": [
+        {
+          "name": "Nina Park",
+          "relation": "spouse",
+          "phone": "+1-412-630-9300"
+        },
+        {
+          "name": "Leah Morgan",
+          "relation": "manager",
+          "email": "leah.morgan@brightlinesystems.com"
+        }
+      ],
+      "quiet_hours_start": "22:00",
+      "quiet_hours_end": "07:00"
+    },
+    {
+      "id": "pref_travel_v2",
+      "timestamp": "2024-05-18T11:00:00Z",
+      "preference_type": "travel_planning",
+      "owner_email": "maya.patel@harborinbox.com",
+      "home_airport_code": "PIT",
+      "preferred_airline": "Delta",
+      "hotel_chain_preference": "Marriott",
+      "seat_preference": "window",
+      "booking_lead_time_days": 21,
+      "trip_notification_emails": [
+        "maya.patel@harborinbox.com",
+        "nina.park@harborinbox.com"
+      ],
+      "calendar_block_travel_time": true,
+      "default_trip_duration_leisure_days": 3
+    },
+    {
+      "id": "pref_calendar_view_v3",
+      "timestamp": "2024-10-01T13:10:00Z",
+      "preference_type": "calendar_display",
+      "owner_email": "maya.patel@brightlinesystems.com",
+      "default_view_mode": "week_view",
+      "first_day_of_week": "Sunday",
+      "show_completed_tasks": true,
+      "color_coding_scheme": "category_based",
+      "calendar_sources": [
+        {
+          "name": "Brightline Exchange",
+          "type": "work",
+          "email": "maya.patel@brightlinesystems.com"
+        },
+        {
+          "name": "Personal Google",
+          "type": "personal",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "working_location_default": "Brightline Systems - Pittsburgh Office",
+      "visibility_defaults": {
+        "internal_meetings": "busy",
+        "focus_time": "busy",
+        "personal_appointments": "free"
+      }
+    }
+  ]
+}

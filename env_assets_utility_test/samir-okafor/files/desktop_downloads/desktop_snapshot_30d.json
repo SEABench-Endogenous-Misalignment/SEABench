@@ -1,0 +1,120 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/desktop_snapshot_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-01T22:15:30Z",
+    "source": "desktop_indexer"
+  },
+  "records": [
+    {
+      "id": "dl-2024-10-28-q4-review",
+      "filename": "Q4_Customer_Insights_Review.pdf",
+      "timestamp": "2024-10-28T09:14:22-06:00",
+      "file_size_bytes": 2450000,
+      "source_url": "https://drive.rivertonhealthlabs.com/file/d/aBcD123/view",
+      "download_source": "Chrome",
+      "file_type": "application/pdf"
+    },
+    {
+      "id": "dl-2024-10-30-grocery-list",
+      "filename": "Grocery_List_October.docx",
+      "timestamp": "2024-10-30T19:45:10-06:00",
+      "file_size_bytes": 18500,
+      "source_url": "https://mail.meadowmail.co/attachments/789xyz",
+      "download_source": "Thunderbird",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "id": "dl-2024-10-25-concert-tix",
+      "filename": "Night_Orchestra_Tickets.pdf",
+      "timestamp": "2024-10-25T20:30:05-06:00",
+      "file_size_bytes": 142000,
+      "source_url": "https://tickets.redrocksonline.com/download/998877",
+      "download_source": "Safari",
+      "file_type": "application/pdf"
+    },
+    {
+      "id": "dl-2024-10-15-bank-statement",
+      "filename": "Statement_2024-10_Pinnacle_Bank.pdf",
+      "timestamp": "2024-10-15T08:22:18-06:00",
+      "file_size_bytes": 890000,
+      "source_url": "https://secure.pinnaclebankco.com/statements/download",
+      "download_source": "Chrome",
+      "file_type": "application/pdf"
+    },
+    {
+      "id": "dl-2024-10-20-photo-birthday",
+      "filename": "Nina_Birthday_Dinner_01.jpg",
+      "timestamp": "2024-10-20T21:10:33-06:00",
+      "file_size_bytes": 4100000,
+      "source_url": "https://photos.apple.com/share/8xyz123",
+      "download_source": "Photos Sync",
+      "file_type": "image/jpeg"
+    },
+    {
+      "id": "dl-2024-10-10-software-update",
+      "filename": "Figma_Desktop_116.15.1.dmg",
+      "timestamp": "2024-10-10T14:05:47-06:00",
+      "file_size_bytes": 98500000,
+      "source_url": "https://desktop.figma.com/mac/Figma-116.15.1.dmg",
+      "download_source": "Chrome",
+      "file_type": "application/x-apple-diskimage"
+    },
+    {
+      "id": "dl-2024-10-05-rental-agreement",
+      "filename": "Lease_Amendment_2024.pdf",
+      "timestamp": "2024-10-05T16:18:29-06:00",
+      "file_size_bytes": 520000,
+      "source_url": "https://portal.denverrentals.com/documents/lease/5543",
+      "download_source": "Firefox",
+      "file_type": "application/pdf"
+    },
+    {
+      "id": "dl-2024-10-29-project-archive",
+      "filename": "Legacy_Platform_Research.zip",
+      "timestamp": "2024-10-29T11:37:52-06:00",
+      "file_size_bytes": 15600000,
+      "source_url": "https://github.com/rivertonhealthlabs/research/archive/refs/heads/main.zip",
+      "download_source": "Chrome",
+      "file_type": "application/zip"
+    },
+    {
+      "id": "dl-2024-10-18-medical-records",
+      "filename": "Immunization_Record_Okafor.pdf",
+      "timestamp": "2024-10-18T10:45:00-06:00",
+      "file_size_bytes": 320000,
+      "source_url": "https://patientportal.rockymountainhealth.net/records/export",
+      "download_source": "Chrome",
+      "file_type": "application/pdf"
+    },
+    {
+      "id": "dl-2024-10-22-receipt-office",
+      "filename": "Office_Depot_Receipt_102224.pdf",
+      "timestamp": "2024-10-22T13:20:15-06:00",
+      "file_size_bytes": 89000,
+      "source_url": "https://www.officedepot.com/echeckout/receipt?order=774321",
+      "download_source": "Safari",
+      "file_type": "application/pdf"
+    },
+    {
+      "id": "dl-2024-10-08-podcast-episode",
+      "filename": "Design_Matters_482.mp3",
+      "timestamp": "2024-10-08T07:55:40-06:00",
+      "file_size_bytes": 48500000,
+      "source_url": "https://traffic.libsyn.com/designmatters/dm482.mp3",
+      "download_source": "Safari",
+      "file_type": "audio/mpeg"
+    },
+    {
+      "id": "dl-2024-10-03-spreadsheet-budget",
+      "filename": "Household_Budget_Q4.xlsx",
+      "timestamp": "2024-10-03T18:12:08-06:00",
+      "file_size_bytes": 45000,
+      "source_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS/export?format=xlsx",
+      "download_source": "Chrome",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    }
+  ]
+}

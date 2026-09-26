@@ -1,0 +1,192 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/search_queries_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T16:45:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "sch_7a8f9c2e1b4d",
+      "timestamp": "2024-12-18T09:23:00-07:00",
+      "query_text": "customer insight platform analytics dashboard best practices",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=customer+insight+platform+analytics+dashboard+best+practices",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_9b2c4d8e5f1a",
+      "timestamp": "2024-12-17T20:15:33-07:00",
+      "query_text": "Nina Park photography exhibition Denver",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Nina+Park+photography+exhibition+Denver",
+      "browser_profile": "personal",
+      "device_type": "mobile"
+    },
+    {
+      "id": "sch_3f6a9b2c8d4e",
+      "timestamp": "2024-12-15T14:30:00-07:00",
+      "query_text": "Riverton Health Labs employee benefits portal",
+      "search_engine": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q=Riverton+Health+Labs+employee+benefits+portal",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_5e1a7b3c9f2d",
+      "timestamp": "2024-12-12T11:45:22-07:00",
+      "query_text": "80219 zip code boundaries",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=80219+zip+code+boundaries",
+      "browser_profile": "personal",
+      "device_type": "mobile"
+    },
+    {
+      "id": "sch_2c8d5e1a7b9f",
+      "timestamp": "2024-12-10T16:20:00-07:00",
+      "query_text": "HIPAA compliance checklist 2024 healthcare data",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=HIPAA+compliance+checklist+2024+healthcare+data",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_1a3b5c7d9e2f",
+      "timestamp": "2024-12-08T08:14:00-07:00",
+      "query_text": "Owen Reed Denver architect portfolio",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Owen+Reed+Denver+architect+portfolio",
+      "browser_profile": "personal",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_4b6d8f0a2c4e",
+      "timestamp": "2024-12-05T19:30:00-07:00",
+      "query_text": "best sourdough bread recipe dutch oven",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=best+sourdough+bread+recipe+dutch+oven",
+      "browser_profile": "personal",
+      "device_type": "tablet"
+    },
+    {
+      "id": "sch_8e0a2c4d6f8b",
+      "timestamp": "2024-12-03T13:45:00-07:00",
+      "query_text": "Leah Morgan customer insights LinkedIn",
+      "search_engine": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/people/?keywords=Leah%20Morgan%20customer%20insights",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_7c3e5a1b9d2f",
+      "timestamp": "2024-11-28T10:22:00-07:00",
+      "query_text": "Platform design system accessibility WCAG guidelines",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Platform+design+system+accessibility+WCAG+guidelines",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_9f2a4c6e8b0d",
+      "timestamp": "2024-11-25T21:10:00-07:00",
+      "query_text": "malik brooks jazz quartet tour dates",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=malik+brooks+jazz+quartet+tour+dates",
+      "browser_profile": "personal",
+      "device_type": "mobile"
+    },
+    {
+      "id": "sch_2d4f6h8j0l2n",
+      "timestamp": "2024-11-20T15:30:00-07:00",
+      "query_text": "Denver to Boston flights February 2025",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Denver+to+Boston+flights+February+2025",
+      "browser_profile": "personal",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_5g7i9k1m3o5q",
+      "timestamp": "2024-11-18T09:05:00-07:00",
+      "query_text": "meadowmail.co login",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=meadowmail.co+login",
+      "browser_profile": "personal",
+      "device_type": "mobile"
+    },
+    {
+      "id": "sch_8j0l2n4p6r8t",
+      "timestamp": "2024-11-15T11:20:00-07:00",
+      "query_text": "Priya Shah MD dermatology Denver contact",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Priya+Shah+MD+dermatology+Denver+contact",
+      "browser_profile": "personal",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_1m3o5q7s9u1w",
+      "timestamp": "2024-11-12T14:00:00-07:00",
+      "query_text": "IRS estimated tax payments Q4 2024 deadline",
+      "search_engine": "DuckDuckGo",
+      "url": "https://duckduckgo.com/?q=IRS+estimated+tax+payments+Q4+2024+deadline",
+      "browser_profile": "personal",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_4p6r8t0v2x4z",
+      "timestamp": "2024-11-08T18:45:00-07:00",
+      "query_text": "how to descale breville espresso machine",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=how+to+descale+breville+espresso+machine",
+      "browser_profile": "personal",
+      "device_type": "mobile"
+    },
+    {
+      "id": "sch_7s9u1w3y5a7c",
+      "timestamp": "2024-11-05T09:30:00-07:00",
+      "query_text": "Calvin Price Riverton Health Labs research",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Calvin+Price+Riverton+Health+Labs+research",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_0v2x4z6b8d0f",
+      "timestamp": "2024-11-01T20:00:00-06:00",
+      "query_text": "Elena Vega marketing summit keynote",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Elena+Vega+marketing+summit+keynote",
+      "browser_profile": "personal",
+      "device_type": "tablet"
+    },
+    {
+      "id": "sch_3y5a7c9e1g3i",
+      "timestamp": "2024-10-28T13:15:00-06:00",
+      "query_text": "Iris Romero platform design presentation slides",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=Iris+Romero+platform+design+presentation+slides",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_6b8d0f2h4j6l",
+      "timestamp": "2024-10-22T10:45:00-06:00",
+      "query_text": "Grace Lin UX research methodology book",
+      "search_engine": "Amazon",
+      "url": "https://www.amazon.com/s?k=Grace+Lin+UX+research+methodology",
+      "browser_profile": "work",
+      "device_type": "desktop"
+    },
+    {
+      "id": "sch_9e1g3i5k7m9o",
+      "timestamp": "2024-10-15T16:30:00-06:00",
+      "query_text": "best houseplants low light apartments",
+      "search_engine": "Google",
+      "url": "https://www.google.com/search?q=best+houseplants+low+light+apartments",
+      "browser_profile": "personal",
+      "device_type": "mobile"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/insurance_cards_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-05-22T14:33:17Z",
+    "source": "benefits_portal_export"
+  },
+  "records": [
+    {
+      "id": "ins-hmk-med-7a4b",
+      "carrier_name": "Highmark Blue Cross Blue Shield",
+      "plan_name": "Preferred Blue PPO",
+      "member_name": "Maya Patel",
+      "member_id": "HG774829105",
+      "group_number": "83194762",
+      "card_type": "medical",
+      "plan_admin": "Brightline Systems",
+      "date": "2023-12-10",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    },
+    {
+      "id": "ins-met-den-9c2d",
+      "carrier_name": "MetLife",
+      "plan_name": "Dental PPO High",
+      "member_name": "Maya Patel",
+      "member_id": "884736291",
+      "group_number": "555019283",
+      "card_type": "dental",
+      "date": "2023-12-10",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    },
+    {
+      "id": "ins-vsp-vis-3e8f",
+      "carrier_name": "VSP Vision Care",
+      "plan_name": "Signature Plan",
+      "member_name": "Maya Patel",
+      "member_id": "992847361",
+      "group_number": "771928364",
+      "card_type": "vision",
+      "date": "2023-12-10",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    },
+    {
+      "id": "ins-upm-med-5b1a",
+      "carrier_name": "UPMC Health Plan",
+      "plan_name": "Commercial HMO",
+      "member_name": "Nina Park",
+      "member_id": "UP884736192",
+      "group_number": "44192837",
+      "card_type": "medical",
+      "date": "2023-11-28",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    },
+    {
+      "id": "ins-gdn-den-2a9c",
+      "carrier_name": "Guardian",
+      "plan_name": "DentalGuard Preferred",
+      "member_name": "Nina Park",
+      "member_id": "GD774829106",
+      "group_number": "66192847",
+      "card_type": "dental",
+      "date": "2024-01-05",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    },
+    {
+      "id": "ins-eym-vis-4d7e",
+      "carrier_name": "EyeMed",
+      "plan_name": "Select Plan",
+      "member_name": "Nina Park",
+      "member_id": "EM992847362",
+      "group_number": "88273645",
+      "card_type": "vision",
+      "date": "2023-11-28",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31"
+    }
+  ]
+}

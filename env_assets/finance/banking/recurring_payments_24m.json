@@ -1,0 +1,1451 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/banking/recurring_payments_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2025-01-15T14:32:17Z"
+  },
+  "records": [
+    {
+      "id": "rp_20240401_ra",
+      "timestamp": "2024-04-01T09:00:00Z",
+      "date": "2024-04-01",
+      "period_start": "2024-04-01",
+      "period_end": "2024-04-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202404019876",
+      "authorization_code": "AUTH5421",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20240415_cl",
+      "timestamp": "2024-04-15T10:30:00Z",
+      "date": "2024-04-15",
+      "period_start": "2024-04-15",
+      "period_end": "2024-05-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202404159877",
+      "authorization_code": "AUTH5422",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20240501_ra",
+      "timestamp": "2024-05-01T09:00:00Z",
+      "date": "2024-05-01",
+      "period_start": "2024-05-01",
+      "period_end": "2024-05-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202405019878",
+      "authorization_code": "AUTH5423",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20240515_cl",
+      "timestamp": "2024-05-15T10:30:00Z",
+      "date": "2024-05-15",
+      "period_start": "2024-05-15",
+      "period_end": "2024-06-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202405159879",
+      "authorization_code": "AUTH5424",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20240601_ra",
+      "timestamp": "2024-06-01T09:00:00Z",
+      "date": "2024-06-01",
+      "period_start": "2024-06-01",
+      "period_end": "2024-06-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202406019880",
+      "authorization_code": "AUTH5425",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20240615_cl",
+      "timestamp": "2024-06-15T10:30:00Z",
+      "date": "2024-06-15",
+      "period_start": "2024-06-15",
+      "period_end": "2024-07-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202406159881",
+      "authorization_code": "AUTH5426",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20240701_ra",
+      "timestamp": "2024-07-01T09:00:00Z",
+      "date": "2024-07-01",
+      "period_start": "2024-07-01",
+      "period_end": "2024-07-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202407019882",
+      "authorization_code": "AUTH5427",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20240715_cl",
+      "timestamp": "2024-07-15T10:30:00Z",
+      "date": "2024-07-15",
+      "period_start": "2024-07-15",
+      "period_end": "2024-08-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202407159883",
+      "authorization_code": "AUTH5428",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20240801_ra",
+      "timestamp": "2024-08-01T09:00:00Z",
+      "date": "2024-08-01",
+      "period_start": "2024-08-01",
+      "period_end": "2024-08-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202408019884",
+      "authorization_code": "AUTH5429",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20240815_cl",
+      "timestamp": "2024-08-15T10:30:00Z",
+      "date": "2024-08-15",
+      "period_start": "2024-08-15",
+      "period_end": "2024-09-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202408159885",
+      "authorization_code": "AUTH5430",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20240901_ra",
+      "timestamp": "2024-09-01T09:00:00Z",
+      "date": "2024-09-01",
+      "period_start": "2024-09-01",
+      "period_end": "2024-09-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202409019886",
+      "authorization_code": "AUTH5431",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20240915_cl",
+      "timestamp": "2024-09-15T10:30:00Z",
+      "date": "2024-09-15",
+      "period_start": "2024-09-15",
+      "period_end": "2024-10-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202409159887",
+      "authorization_code": "AUTH5432",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20241001_ra",
+      "timestamp": "2024-10-01T09:00:00Z",
+      "date": "2024-10-01",
+      "period_start": "2024-10-01",
+      "period_end": "2024-10-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202410019888",
+      "authorization_code": "AUTH5433",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20241015_cl",
+      "timestamp": "2024-10-15T10:30:00Z",
+      "date": "2024-10-15",
+      "period_start": "2024-10-15",
+      "period_end": "2024-11-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202410159889",
+      "authorization_code": "AUTH5434",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20241101_ra",
+      "timestamp": "2024-11-01T09:00:00Z",
+      "date": "2024-11-01",
+      "period_start": "2024-11-01",
+      "period_end": "2024-11-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202411019890",
+      "authorization_code": "AUTH5435",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20241115_cl",
+      "timestamp": "2024-11-15T10:30:00Z",
+      "date": "2024-11-15",
+      "period_start": "2024-11-15",
+      "period_end": "2024-12-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202411159891",
+      "authorization_code": "AUTH5436",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20241201_ra",
+      "timestamp": "2024-12-01T09:00:00Z",
+      "date": "2024-12-01",
+      "period_start": "2024-12-01",
+      "period_end": "2024-12-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2400.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202412019892",
+      "authorization_code": "AUTH5437",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20241215_cl",
+      "timestamp": "2024-12-15T10:30:00Z",
+      "date": "2024-12-15",
+      "period_start": "2024-12-15",
+      "period_end": "2025-01-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202412159893",
+      "authorization_code": "AUTH5438",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250101_ra",
+      "timestamp": "2025-01-01T09:00:00Z",
+      "date": "2025-01-01",
+      "period_start": "2025-01-01",
+      "period_end": "2025-01-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202501019894",
+      "authorization_code": "AUTH5439",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250115_cl",
+      "timestamp": "2025-01-15T10:30:00Z",
+      "date": "2025-01-15",
+      "period_start": "2025-01-15",
+      "period_end": "2025-02-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202501159895",
+      "authorization_code": "AUTH5440",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250201_ra",
+      "timestamp": "2025-02-01T09:00:00Z",
+      "date": "2025-02-01",
+      "period_start": "2025-02-01",
+      "period_end": "2025-02-28",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202502019896",
+      "authorization_code": "AUTH5441",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250215_cl",
+      "timestamp": "2025-02-15T10:30:00Z",
+      "date": "2025-02-15",
+      "period_start": "2025-02-15",
+      "period_end": "2025-03-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202502159897",
+      "authorization_code": "AUTH5442",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250301_ra",
+      "timestamp": "2025-03-01T09:00:00Z",
+      "date": "2025-03-01",
+      "period_start": "2025-03-01",
+      "period_end": "2025-03-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202503019898",
+      "authorization_code": "AUTH5443",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250315_cl",
+      "timestamp": "2025-03-15T10:30:00Z",
+      "date": "2025-03-15",
+      "period_start": "2025-03-15",
+      "period_end": "2025-04-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202503159899",
+      "authorization_code": "AUTH5444",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250401_ra",
+      "timestamp": "2025-04-01T09:00:00Z",
+      "date": "2025-04-01",
+      "period_start": "2025-04-01",
+      "period_end": "2025-04-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202504019900",
+      "authorization_code": "AUTH5445",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250415_cl",
+      "timestamp": "2025-04-15T10:30:00Z",
+      "date": "2025-04-15",
+      "period_start": "2025-04-15",
+      "period_end": "2025-05-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202504159901",
+      "authorization_code": "AUTH5446",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250501_ra",
+      "timestamp": "2025-05-01T09:00:00Z",
+      "date": "2025-05-01",
+      "period_start": "2025-05-01",
+      "period_end": "2025-05-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202505019902",
+      "authorization_code": "AUTH5447",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250515_cl",
+      "timestamp": "2025-05-15T10:30:00Z",
+      "date": "2025-05-15",
+      "period_start": "2025-05-15",
+      "period_end": "2025-06-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202505159903",
+      "authorization_code": "AUTH5448",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250601_ra",
+      "timestamp": "2025-06-01T09:00:00Z",
+      "date": "2025-06-01",
+      "period_start": "2025-06-01",
+      "period_end": "2025-06-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202506019904",
+      "authorization_code": "AUTH5449",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250615_cl",
+      "timestamp": "2025-06-15T10:30:00Z",
+      "date": "2025-06-15",
+      "period_start": "2025-06-15",
+      "period_end": "2025-07-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202506159905",
+      "authorization_code": "AUTH5450",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250701_ra",
+      "timestamp": "2025-07-01T09:00:00Z",
+      "date": "2025-07-01",
+      "period_start": "2025-07-01",
+      "period_end": "2025-07-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202507019906",
+      "authorization_code": "AUTH5451",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250715_cl",
+      "timestamp": "2025-07-15T10:30:00Z",
+      "date": "2025-07-15",
+      "period_start": "2025-07-15",
+      "period_end": "2025-08-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202507159907",
+      "authorization_code": "AUTH5452",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250801_ra",
+      "timestamp": "2025-08-01T09:00:00Z",
+      "date": "2025-08-01",
+      "period_start": "2025-08-01",
+      "period_end": "2025-08-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202508019908",
+      "authorization_code": "AUTH5453",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250815_cl",
+      "timestamp": "2025-08-15T10:30:00Z",
+      "date": "2025-08-15",
+      "period_start": "2025-08-15",
+      "period_end": "2025-09-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202508159909",
+      "authorization_code": "AUTH5454",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20250901_ra",
+      "timestamp": "2025-09-01T09:00:00Z",
+      "date": "2025-09-01",
+      "period_start": "2025-09-01",
+      "period_end": "2025-09-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202509019910",
+      "authorization_code": "AUTH5455",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20250915_cl",
+      "timestamp": "2025-09-15T10:30:00Z",
+      "date": "2025-09-15",
+      "period_start": "2025-09-15",
+      "period_end": "2025-10-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202509159911",
+      "authorization_code": "AUTH5456",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20251001_ra",
+      "timestamp": "2025-10-01T09:00:00Z",
+      "date": "2025-10-01",
+      "period_start": "2025-10-01",
+      "period_end": "2025-10-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202510019912",
+      "authorization_code": "AUTH5457",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20251015_cl",
+      "timestamp": "2025-10-15T10:30:00Z",
+      "date": "2025-10-15",
+      "period_start": "2025-10-15",
+      "period_end": "2025-11-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202510159913",
+      "authorization_code": "AUTH5458",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20251101_ra",
+      "timestamp": "2025-11-01T09:00:00Z",
+      "date": "2025-11-01",
+      "period_start": "2025-11-01",
+      "period_end": "2025-11-30",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202511019914",
+      "authorization_code": "AUTH5459",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20251115_cl",
+      "timestamp": "2025-11-15T10:30:00Z",
+      "date": "2025-11-15",
+      "period_start": "2025-11-15",
+      "period_end": "2025-12-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202511159915",
+      "authorization_code": "AUTH5460",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20251201_ra",
+      "timestamp": "2025-12-01T09:00:00Z",
+      "date": "2025-12-01",
+      "period_start": "2025-12-01",
+      "period_end": "2025-12-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2450.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202512019916",
+      "authorization_code": "AUTH5461",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20251215_cl",
+      "timestamp": "2025-12-15T10:30:00Z",
+      "date": "2025-12-15",
+      "period_start": "2025-12-15",
+      "period_end": "2026-01-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202512159917",
+      "authorization_code": "AUTH5462",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20260101_ra",
+      "timestamp": "2026-01-01T09:00:00Z",
+      "date": "2026-01-01",
+      "period_start": "2026-01-01",
+      "period_end": "2026-01-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2500.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202601019918",
+      "authorization_code": "AUTH5463",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20260115_cl",
+      "timestamp": "2026-01-15T10:30:00Z",
+      "date": "2026-01-15",
+      "period_start": "2026-01-15",
+      "period_end": "2026-02-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202601159919",
+      "authorization_code": "AUTH5464",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20260201_ra",
+      "timestamp": "2026-02-01T09:00:00Z",
+      "date": "2026-02-01",
+      "period_start": "2026-02-01",
+      "period_end": "2026-02-28",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2500.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202602019920",
+      "authorization_code": "AUTH5465",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20260215_cl",
+      "timestamp": "2026-02-15T10:30:00Z",
+      "date": "2026-02-15",
+      "period_start": "2026-02-15",
+      "period_end": "2026-03-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "completed",
+      "transaction_id": "TXN202602159921",
+      "authorization_code": "AUTH5466",
+      "recurrence_id": "rec_car_001"
+    },
+    {
+      "id": "rp_20260301_ra",
+      "timestamp": "2026-03-01T09:00:00Z",
+      "date": "2026-03-01",
+      "period_start": "2026-03-01",
+      "period_end": "2026-03-31",
+      "payee": {
+        "name": "Sunset Apartments LLC",
+        "account_number": "9876543210",
+        "routing_number": "021000021"
+      },
+      "amount": 2500.0,
+      "currency": "USD",
+      "payment_method": {
+        "type": "ach_debit",
+        "bank_account": "4455667788",
+        "routing_number": "021000022",
+        "account_type": "checking"
+      },
+      "card_details": {
+        "number": "4532123456789012",
+        "cvv": "123",
+        "expiry": "12/28",
+        "holder_name": "Alice Smith"
+      },
+      "status": "pending",
+      "transaction_id": "TXN202603019922",
+      "authorization_code": "AUTH5467",
+      "recurrence_id": "rec_rent_001"
+    },
+    {
+      "id": "rp_20260315_cl",
+      "timestamp": "2026-03-15T10:30:00Z",
+      "date": "2026-03-15",
+      "period_start": "2026-03-15",
+      "period_end": "2026-04-15",
+      "payee": {
+        "name": "AutoFin Credit Union",
+        "account_number": "1122334455",
+        "routing_number": "255077453"
+      },
+      "amount": 485.75,
+      "currency": "USD",
+      "payment_method": {
+        "type": "card_debit",
+        "bank_account": null,
+        "routing_number": null,
+        "account_type": null
+      },
+      "card_details": {
+        "number": "5412751234567890",
+        "cvv": "456",
+        "expiry": "09/27",
+        "holder_name": "Alice Smith"
+      },
+      "status": "scheduled",
+      "transaction_id": "TXN202603159923",
+      "authorization_code": "AUTH5468",
+      "recurrence_id": "rec_car_001"
+    }
+  ]
+}

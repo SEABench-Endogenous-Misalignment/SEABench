@@ -1,0 +1,71 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/password_manager/vault_items_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-28T19:45:00Z",
+    "source": "password_manager_vault_export"
+  },
+  "records": [
+    {
+      "id": "hvd-7f3a9b",
+      "timestamp": "2024-10-15T14:32:11Z",
+      "type": "login",
+      "name": "Harborview Design SSO",
+      "username": "marcus.bennett@harborviewdesign.com",
+      "password": "Tr0ub4dor&K3n3dy!2024",
+      "url": "https://auth.harborviewdesign.com",
+      "folder": "Work"
+    },
+    {
+      "id": "hbr-8c2d1e",
+      "date": "2023-08-22",
+      "type": "login",
+      "name": "Harbor Inbox Primary",
+      "username": "marcus.bennett@harborinbox.com",
+      "password": "jX9$kL2#mP5*qR7",
+      "url": "https://webmail.harborinbox.com",
+      "folder": "Personal"
+    },
+    {
+      "id": "lkb-9a4f2c",
+      "timestamp": "2024-11-02T09:15:00Z",
+      "type": "login",
+      "name": "Lakefront Credit Union",
+      "username": "mbennett5723",
+      "password": "C0mpl3xP@ssphr@se99",
+      "url": "https://secure.lakefrontcu.org",
+      "folder": "Finance"
+    },
+    {
+      "id": "pmn-1b3e5d",
+      "date": "2024-01-10",
+      "type": "login",
+      "name": "Millbrook Supplies",
+      "username": "marcusb3749",
+      "password": "B!gD3al$hopper_MN",
+      "url": "https://account.millbrooksupplies.co",
+      "folder": "Shopping"
+    },
+    {
+      "id": "cc-sapphire-2d7f",
+      "timestamp": "2024-09-18T11:22:33Z",
+      "type": "credit_card",
+      "name": "Sapphire Reserve Business",
+      "cardholder_name": "Marcus Bennett",
+      "card_number": "4532123456789012",
+      "expiry_date": "09/27",
+      "cvv": "472",
+      "folder": "Finance"
+    },
+    {
+      "id": "note-recovery-4a8k",
+      "date": "2024-03-15",
+      "type": "secure_note",
+      "title": "Google Workspace Backup Codes",
+      "content": "6634 9801\n7721 0094\n8843 1122\n9901 5543\n1122 8834\n4455 9900",
+      "folder": "Work"
+    }
+  ]
+}

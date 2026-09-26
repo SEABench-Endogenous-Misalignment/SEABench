@@ -1,0 +1,356 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/sent/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T14:22:11Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "thr_8f3a9b2c",
+      "timestamp": "2024-12-18T16:30:00Z",
+      "subject": "Q4 Research Wrap-up",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 4,
+      "snippet": "Attached the final metrics from the usability sessions we ran last week."
+    },
+    {
+      "id": "thr_2d4e6f8a",
+      "timestamp": "2024-12-12T09:15:00Z",
+      "subject": "Infrastructure Budget Review",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 6,
+      "snippet": "Can we schedule a walkthrough of the projected costs for the new staging environment?"
+    },
+    {
+      "id": "thr_9c7b5a3d",
+      "timestamp": "2024-12-06T20:45:00Z",
+      "subject": "Holiday travel plans",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "nina.park@cedarpost.net"
+      ],
+      "cc": [],
+      "message_count": 3,
+      "snippet": "I found flights that get us into Portland by Thursday evening. Let me know if the timing works."
+    },
+    {
+      "id": "thr_1e3f5g7h",
+      "timestamp": "2024-11-30T14:20:00Z",
+      "subject": "Participant Incentive Cards",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "cc": [
+        "procurement@brightlinesystems.com"
+      ],
+      "message_count": 2,
+      "snippet": "The gift cards for the research participants have been approved and should arrive Tuesday."
+    },
+    {
+      "id": "thr_4i6j8k2l",
+      "timestamp": "2024-11-24T18:10:00Z",
+      "subject": "Gallery opening photos",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "malik.brooks@brookscapital.com"
+      ],
+      "cc": [],
+      "message_count": 5,
+      "snippet": "Thanks for the invitation last night. I uploaded the shots I took to the shared folder."
+    },
+    {
+      "id": "thr_0m2n4o6p",
+      "timestamp": "2024-11-18T11:30:00Z",
+      "subject": "Re: Hiking gear exchange",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "owen.reed@reedconsulting.net"
+      ],
+      "cc": [],
+      "message_count": 7,
+      "snippet": "I can drop off the poles and jacket at your office lobby if that is easier."
+    },
+    {
+      "id": "thr_7q8r9s1t",
+      "timestamp": "2024-11-12T15:45:00Z",
+      "subject": "Design Token Migration",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 8,
+      "snippet": "The color palette variables are ready for the engineering handoff. Review when you have a moment."
+    },
+    {
+      "id": "thr_3u5v7w9x",
+      "timestamp": "2024-11-06T10:00:00Z",
+      "subject": "Platform Strategy Sync",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 12,
+      "snippet": "Let us consolidate the roadmap items before the leadership review on Friday."
+    },
+    {
+      "id": "thr_2y4z6a8b",
+      "timestamp": "2024-10-31T16:30:00Z",
+      "subject": "Downtown coffee meetup",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "priya.shah@gmail.com"
+      ],
+      "cc": [],
+      "message_count": 3,
+      "snippet": "Are you still free Thursday afternoon? I can meet at the roastery on Fayetteville Street."
+    },
+    {
+      "id": "thr_9c0d2e4f",
+      "timestamp": "2024-10-25T08:20:00Z",
+      "subject": "Headcount Approval Request",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "finance@brightlinesystems.com"
+      ],
+      "cc": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "message_count": 2,
+      "snippet": "Submitting the formal request for the additional researcher to start in January."
+    },
+    {
+      "id": "thr_5g7h9i1j",
+      "timestamp": "2024-10-19T13:15:00Z",
+      "subject": "Panel discussion prep",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "elena.vega@vegaconsulting.net"
+      ],
+      "cc": [],
+      "message_count": 4,
+      "snippet": "Looking forward to moderating the session. I have prepared the questions we discussed."
+    },
+    {
+      "id": "thr_2k4l6m8n",
+      "timestamp": "2024-10-13T19:00:00Z",
+      "subject": "Kitchen renovation quote",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "nina.park@cedarpost.net"
+      ],
+      "cc": [],
+      "message_count": 9,
+      "snippet": "The contractor sent over the updated estimate with the countertop pricing included."
+    },
+    {
+      "id": "thr_1o3p5q7r",
+      "timestamp": "2024-10-07T11:45:00Z",
+      "subject": "Usability Test Schedule",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 5,
+      "snippet": "Blocked the conference room for Tuesday and Thursday afternoons next week."
+    },
+    {
+      "id": "thr_8s0t2u4v",
+      "timestamp": "2024-10-01T14:30:00Z",
+      "subject": "SaaS Renewal Quote",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "accounts@cloudmatrix.net"
+      ],
+      "cc": [],
+      "message_count": 3,
+      "snippet": "Please find the signed agreement attached. We would like to renew for another twelve months."
+    },
+    {
+      "id": "thr_6w8x0y2z",
+      "timestamp": "2024-09-25T09:00:00Z",
+      "subject": "Component Library Access",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 2,
+      "snippet": "Granted you admin access to the repository. Let me know if you see any permission issues."
+    },
+    {
+      "id": "thr_3a4b5c6d",
+      "timestamp": "2024-09-19T17:30:00Z",
+      "subject": "Camping reservations",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "owen.reed@reedconsulting.net",
+        "malik.brooks@brookscapital.com"
+      ],
+      "cc": [],
+      "message_count": 6,
+      "snippet": "Confirming the site at Falls Lake for the weekend of the twenty-third. Bring firewood."
+    },
+    {
+      "id": "thr_7e8f9g0h",
+      "timestamp": "2024-09-13T10:15:00Z",
+      "subject": "API Documentation Updates",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 4,
+      "snippet": "Clarified the rate limiting section based on the feedback from the beta partners."
+    },
+    {
+      "id": "thr_1i2j3k4l",
+      "timestamp": "2024-09-07T12:30:00Z",
+      "subject": "Birthday gift suggestions",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "priya.shah@gmail.com"
+      ],
+      "cc": [],
+      "message_count": 8,
+      "snippet": "I was thinking of getting her that pottery class voucher. What do you think?"
+    },
+    {
+      "id": "thr_5m6n7o8p",
+      "timestamp": "2024-09-01T21:00:00Z",
+      "subject": "Mortgage escrow adjustment",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "nina.park@cedarpost.net"
+      ],
+      "cc": [],
+      "message_count": 3,
+      "snippet": "The bank sent the annual analysis. Our monthly payment will drop by forty dollars starting October."
+    },
+    {
+      "id": "thr_9q0r1s2t",
+      "timestamp": "2024-08-26T15:45:00Z",
+      "subject": "Quarterly OKR Draft",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 7,
+      "snippet": "Drafted the objectives for the research team. Happy to revise based on your comments."
+    },
+    {
+      "id": "thr_3u4v5w6x",
+      "timestamp": "2024-08-20T11:30:00Z",
+      "subject": "Speaker travel reimbursement",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "events@techtrend.events"
+      ],
+      "cc": [],
+      "message_count": 2,
+      "snippet": "Submitted the expense report for the Denver conference. Receipts are attached."
+    },
+    {
+      "id": "thr_7y8z9a0b",
+      "timestamp": "2024-08-14T14:00:00Z",
+      "subject": "Research Ethics Submission",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 5,
+      "snippet": "The IRB application has been finalized and submitted for the generative AI study."
+    },
+    {
+      "id": "thr_2c3d4e5f",
+      "timestamp": "2024-08-08T16:20:00Z",
+      "subject": "Intro to colleague",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "elena.vega@vegaconsulting.net"
+      ],
+      "cc": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "message_count": 3,
+      "snippet": "You two should connect regarding the accessibility audit requirements for the new product."
+    },
+    {
+      "id": "thr_6g7h8i9j",
+      "timestamp": "2024-08-02T18:45:00Z",
+      "subject": "Garden watering schedule",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "nina.park@cedarpost.net"
+      ],
+      "cc": [],
+      "message_count": 4,
+      "snippet": "Remember to move the soaker hose to the tomatoes on Wednesday if I am late getting home."
+    },
+    {
+      "id": "thr_0k1l2m3n",
+      "timestamp": "2024-07-27T09:30:00Z",
+      "subject": "Figma Organization Audit",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 6,
+      "snippet": "Cleaned up the archived projects from 2022. The file structure should be easier to navigate now."
+    },
+    {
+      "id": "thr_4o5p6q7r",
+      "timestamp": "2024-07-21T13:00:00Z",
+      "subject": "Data Pipeline Status",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "message_count": 9,
+      "snippet": "The export job completed successfully overnight. Logs show no timeouts or memory issues."
+    },
+    {
+      "id": "thr_8s9t0u1v",
+      "timestamp": "2024-07-15T19:15:00Z",
+      "subject": "Concert tickets",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "owen.reed@reedconsulting.net"
+      ],
+      "cc": [],
+      "message_count": 2,
+      "snippet": "Secured two seats for the Friday show at the Red Hat Amphitheater. Forwarding the PDF now."
+    },
+    {
+      "id": "thr_2w3x4y5z",
+      "timestamp": "2024-06-23T11:00:00Z",
+      "subject": "Summer barbecue plans",
+      "from": "elena.morales@cedargrovestudio.com",
+      "to": [
+        "priya.shah@gmail.com"
+      ],
+      "cc": [],
+      "message_count": 5,
+      "snippet": "We are grilling Saturday around four. Bring that salad you made last time if you can."
+    }
+  ]
+}

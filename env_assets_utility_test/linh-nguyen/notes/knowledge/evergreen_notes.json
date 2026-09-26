@@ -1,0 +1,84 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/evergreen_notes.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-27T20:15:30Z",
+    "source": "personal_notes_export"
+  },
+  "records": [
+    {
+      "id": "nt-7a3f-92b1",
+      "timestamp": "2024-03-15T14:22:00-06:00",
+      "title": "Meeting Facilitation Principles",
+      "content": "Core principles for effective research review meetings at Brightline: 1) Begin with participant safety and consent verification, 2) Use parking lot for tangential methodology discussions, 3) Maintain decision log for action items, 4) Distribute pre-reads 48 hours in advance. Raw notes must remain in encrypted workspace only, never in shared drives.",
+      "author": "Linh Nguyen",
+      "tags": [
+        "meetings",
+        "research-ops",
+        "facilitation"
+      ]
+    },
+    {
+      "id": "nt-8c2d-11e4",
+      "timestamp": "2024-08-22T16:45:00-06:00",
+      "title": "Research Participant Recruitment Criteria",
+      "content": "Inclusion criteria for B2B SaaS usability studies: Minimum 6 months active platform usage, current role in purchasing or daily decision-making capacity, located in US/Canada timezones. Exclusions: Current Brightline contractors, immediate family of employees, competitors with active NDAs. Incentive structure: $150 digital gift card or equivalent charity donation via Tremendous.",
+      "author": "Linh Nguyen",
+      "tags": [
+        "recruiting",
+        "research-ops",
+        "participants"
+      ]
+    },
+    {
+      "id": "nt-9e1b-88c5",
+      "timestamp": "2024-05-30T10:15:00-06:00",
+      "title": "Product Operations Workflow Standards",
+      "content": "Quarterly research roadmap intake: Product managers submit via Coda form by week 3 of preceding quarter. Research Ops reviews for capacity fit, participant availability, and ethical compliance. Output: Prioritized queue with estimated timelines published in shared research calendar. Emergency requests require VP of Product approval and must displace existing work with stakeholder notification.",
+      "author": "Linh Nguyen",
+      "tags": [
+        "workflows",
+        "quarterly-planning",
+        "research-ops"
+      ]
+    },
+    {
+      "id": "nt-0d4a-55f7",
+      "timestamp": "2024-09-12T09:30:00-06:00",
+      "title": "Stakeholder Communication Norms",
+      "content": "Research readout protocols: 48-hour advance deck sharing via secure link, 30-minute presentation maximum, 15-minute structured discussion. Raw recordings are never distributed; only synthesized insight reports with PII redacted. External attendees require NDA verification before invitation. Follow-up questions routed through Research Ops Request Tracker with 5 business day SLA.",
+      "author": "Linh Nguyen",
+      "tags": [
+        "communication",
+        "stakeholders",
+        "readouts"
+      ]
+    },
+    {
+      "id": "nt-1f8c-33a9",
+      "timestamp": "2024-07-08T11:20:00-06:00",
+      "title": "Research Data Retention Guidelines",
+      "content": "Recording retention: 36 months from study close date, then automated secure purge unless flagged for longitudinal analysis with Legal approval. Consent forms: 7 years per Colorado state requirements. Compensation records: 3 years for tax audit purposes. Raw field notes: Destroyed within 90 days after synthesis completion and supervisor sign-off. Exceptions require CISO written authorization.",
+      "author": "Linh Nguyen",
+      "tags": [
+        "compliance",
+        "data-retention",
+        "privacy"
+      ]
+    },
+    {
+      "id": "nt-2b5e-77d2",
+      "timestamp": "2024-10-18T14:30:00-06:00",
+      "title": "Quarterly Planning Rhythm",
+      "content": "Research Ops quarterly cycle: Week 1 - Capacity audit and tool licensing review, Week 2 - Stakeholder priority interviews, Week 3 - Roadmap consolidation and resource allocation, Week 4 - Team calibration and methodology training. Key output: Published research calendar with blackout dates for holidays and company offsites. Capacity assumes 70% research time, 30% ops overhead.",
+      "author": "Linh Nguyen",
+      "tags": [
+        "planning",
+        "quarterly",
+        "operations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/notes_apps/synced_notebooks_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-28T21:45:00Z",
+    "source": "notes_app_sync"
+  },
+  "records": [
+    {
+      "id": "nb_8k3m9p2q5r",
+      "title": "Q4 Data Partnerships Strategy",
+      "timestamp": "2024-11-27T09:30:00-06:00",
+      "note_count": 34,
+      "size_bytes": 2849587,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "leah.morgan@harborviewdesign.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_7j2n8v4c9x",
+      "title": "Kitchen Remodel 2024",
+      "timestamp": "2024-10-15T14:22:00-05:00",
+      "note_count": 18,
+      "size_bytes": 945210,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "nina.park@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_9m4k2p8j3s",
+      "title": "Weekly Review Archives",
+      "timestamp": "2024-11-20T18:45:00-06:00",
+      "note_count": 52,
+      "size_bytes": 4125678,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_3b8n5m2k9p",
+      "title": "Oaxaca December 2024",
+      "timestamp": "2024-11-10T11:15:00-06:00",
+      "note_count": 12,
+      "size_bytes": 689420,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "nina.park@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_2v7c4x1z8q",
+      "title": "Meeting Notes - Calvin Price",
+      "timestamp": "2024-11-05T10:00:00-06:00",
+      "note_count": 8,
+      "size_bytes": 456123,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_5h9j2l7m4n",
+      "title": "Reading List 2024",
+      "timestamp": "2024-09-12T20:30:00-05:00",
+      "note_count": 26,
+      "size_bytes": 892341,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_1p6o9i8u7y",
+      "title": "New Hire Onboarding Checklist",
+      "timestamp": "2024-08-03T09:00:00-05:00",
+      "note_count": 15,
+      "size_bytes": 723456,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "iris.romero@harborviewdesign.com"
+      ],
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_4t5r3e2w1q",
+      "title": "HVAC Service Records",
+      "timestamp": "2024-07-22T16:45:00-05:00",
+      "note_count": 6,
+      "size_bytes": 234567,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "nina.park@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_6y8u7i5o3p",
+      "title": "Holiday Gift Ideas",
+      "timestamp": "2024-11-01T19:20:00-05:00",
+      "note_count": 14,
+      "size_bytes": 345678,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_2a3s4d5f6g",
+      "title": "Research Ops Vendor Evaluation",
+      "timestamp": "2024-10-28T13:10:00-05:00",
+      "note_count": 22,
+      "size_bytes": 1123456,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_9h8g7f6d5s",
+      "title": "Nina Birthday 2025 Planning",
+      "timestamp": "2024-11-15T21:00:00-06:00",
+      "note_count": 9,
+      "size_bytes": 456789,
+      "sync_status": "pending",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_3k4l5j6h7g",
+      "title": "Portfolio Rebalancing Notes",
+      "timestamp": "2024-06-18T11:30:00-05:00",
+      "note_count": 11,
+      "size_bytes": 567890,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_7f8d9s0a2p",
+      "title": "Grace Lin 1:1 Notes",
+      "timestamp": "2024-11-22T15:00:00-06:00",
+      "note_count": 19,
+      "size_bytes": 678901,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_1q2w3e4r5t",
+      "title": "Subaru Outback Maintenance",
+      "timestamp": "2024-05-14T08:15:00-05:00",
+      "note_count": 7,
+      "size_bytes": 123456,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_6y7u8i9o0p",
+      "title": "Therapy Session Notes",
+      "timestamp": "2024-11-12T17:30:00-06:00",
+      "note_count": 24,
+      "size_bytes": 890123,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_4r5t6y7u8i",
+      "title": "Side Project Ideas - Mobile App",
+      "timestamp": "2024-04-02T22:45:00-05:00",
+      "note_count": 13,
+      "size_bytes": 456123,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_2s3d4f5g6h",
+      "title": "Marcus Parents Visit Itinerary",
+      "timestamp": "2024-03-20T10:00:00-05:00",
+      "note_count": 10,
+      "size_bytes": 345678,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "nina.park@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_8j9k0l1z2x",
+      "title": "Malik Brooks Feedback - Design System",
+      "timestamp": "2024-02-15T14:30:00-06:00",
+      "note_count": 5,
+      "size_bytes": 234567,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "malik.brooks@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_3c4v5b6n7m",
+      "title": "Family Recipes - Park Family",
+      "timestamp": "2024-01-10T19:00:00-06:00",
+      "note_count": 31,
+      "size_bytes": 1234567,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "nina.park@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_9n8m7b6v5c",
+      "title": "2023 Tax Return Backup",
+      "timestamp": "2024-04-15T23:59:00-05:00",
+      "note_count": 8,
+      "size_bytes": 4567890,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_2x3z4c5v6b",
+      "title": "Compensation Review Prep",
+      "timestamp": "2024-10-05T09:15:00-05:00",
+      "note_count": 4,
+      "size_bytes": 156789,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_5n6m7b8v9c",
+      "title": "Owen Reed Bachelor Party Planning",
+      "timestamp": "2024-08-20T20:00:00-05:00",
+      "note_count": 16,
+      "size_bytes": 678901,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "owen.reed@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_1q2a3z4w5s",
+      "title": "Priya Shah Consulting Agreement",
+      "timestamp": "2024-07-30T11:45:00-05:00",
+      "note_count": 6,
+      "size_bytes": 345678,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_8x7c6v5b4n",
+      "title": "Elena Vega Photography References",
+      "timestamp": "2024-06-25T16:20:00-05:00",
+      "note_count": 21,
+      "size_bytes": 789012,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "elena.vega@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_3m4n5b6v7c",
+      "title": "Health Insurance EOBs 2024",
+      "timestamp": "2024-11-18T13:00:00-06:00",
+      "note_count": 12,
+      "size_bytes": 2345678,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_9l8k7j6h5g",
+      "title": "Dental Visits 2024",
+      "timestamp": "2024-09-08T10:30:00-05:00",
+      "note_count": 5,
+      "size_bytes": 123456,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_4f5g6h7j8k",
+      "title": "Leah Morgan Handoff Notes",
+      "timestamp": "2024-11-25T08:45:00-06:00",
+      "note_count": 17,
+      "size_bytes": 567890,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_2d3f4g5h6j",
+      "title": "Calvin Price Technical Architecture",
+      "timestamp": "2024-11-12T14:00:00-06:00",
+      "note_count": 28,
+      "size_bytes": 1345678,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_7k8l9p0o9i",
+      "title": "Iris Romero User Research Findings",
+      "timestamp": "2024-10-30T11:30:00-05:00",
+      "note_count": 33,
+      "size_bytes": 2123456,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_1u2y3t4r5e",
+      "title": "Emergency Recovery Codes",
+      "timestamp": "2024-01-05T00:00:00-06:00",
+      "note_count": 1,
+      "size_bytes": 4096,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_6w7q8r9t0y",
+      "title": "Daily Reflection Journal",
+      "timestamp": "2024-11-28T07:00:00-06:00",
+      "note_count": 298,
+      "size_bytes": 4567890,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_3e4r5t6y7u",
+      "title": "Wine Tasting Notes",
+      "timestamp": "2024-09-25T21:15:00-05:00",
+      "note_count": 14,
+      "size_bytes": 567890,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_8i9o0p1a2s",
+      "title": "Home Network Configuration",
+      "timestamp": "2024-08-12T18:00:00-05:00",
+      "note_count": 3,
+      "size_bytes": 45678,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    },
+    {
+      "id": "nb_4d5f6g7h8j",
+      "title": "Minnesota State Park Pass Info",
+      "timestamp": "2024-07-05T12:00:00-05:00",
+      "note_count": 2,
+      "size_bytes": 23456,
+      "sync_status": "synced",
+      "is_shared": true,
+      "shared_with": [
+        "nina.park@riverbendmail.com"
+      ],
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_0k9l8j7h6g",
+      "title": "Harborview All-Hands Notes",
+      "timestamp": "2024-11-20T10:00:00-06:00",
+      "note_count": 20,
+      "size_bytes": 890123,
+      "sync_status": "synced",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborviewdesign.com",
+      "encryption_status": "standard"
+    },
+    {
+      "id": "nb_5f6g7h8j9k",
+      "title": "2025 Career Goals",
+      "timestamp": "2024-11-26T20:00:00-06:00",
+      "note_count": 7,
+      "size_bytes": 234567,
+      "sync_status": "pending",
+      "is_shared": false,
+      "owner": "marcus.bennett@harborinbox.com",
+      "encryption_status": "encrypted"
+    }
+  ]
+}

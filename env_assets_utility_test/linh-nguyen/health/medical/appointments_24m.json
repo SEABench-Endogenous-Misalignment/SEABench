@@ -1,0 +1,1389 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "health/medical/appointments_24m.json",
+    "time_span": "24m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-27T18:30:00Z",
+    "source": "epic_myhealth_export"
+  },
+  "records": [
+    {
+      "id": "EHR-9X4M2P8L-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-01-10T09:00:00-07:00",
+      "end_time": "2023-01-10T09:45:00-07:00",
+      "facility_name": "Skyline Family Medicine",
+      "facility_address": "2843E Colfax Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-320-2144",
+      "department": "Primary Care",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_npi": "1835476291",
+      "appointment_type": "Annual Physical Examination",
+      "reason_for_visit": "Routine annual wellness check and preventive screening",
+      "diagnoses": [
+        {
+          "code": "Z00.00",
+          "description": "Encounter for general adult medical examination without abnormal findings",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Patient reports adequate sleep and regular activity. BP 118/76. HR 72. Lungs clear. Scheduled routine labs.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 25.0
+    },
+    {
+      "id": "EHR-K9N3V7B1-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-01-24T10:30:00-07:00",
+      "end_time": "2023-01-24T11:15:00-07:00",
+      "facility_name": "Cherry Creek Dental Group",
+      "facility_address": "3300 E 1st Ave Ste 200, Denver, CO 80206",
+      "facility_phone": "+1-303-722-5959",
+      "department": "General Dentistry",
+      "provider_name": "Dr. James Morrison",
+      "provider_npi": "1928374650",
+      "appointment_type": "Dental Cleaning and Exam",
+      "reason_for_visit": "Six-month hygiene appointment",
+      "diagnoses": [
+        {
+          "code": "K02.9",
+          "description": "Dental caries, unspecified",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "K05.1",
+          "description": "Chronic gingivitis",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Routine prophylaxis completed. Moderate plaque on lower anterior. Flossing technique reinforced. No xrays today.",
+      "insurance_primary": "Cigna Dental",
+      "insurance_policy_id": "CIG884219A-D",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-2P9M5X8Q-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-02-07T16:00:00-07:00",
+      "end_time": "2023-02-07T16:55:00-07:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Psychotherapy Consultation",
+      "reason_for_visit": "Initial intake for anxiety management",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Initial session. Patient reports work-related stress and sleep disturbance. CBT techniques introduced. Plan for biweekly sessions.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-4B7V2N9M-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-02-21T16:00:00-07:00",
+      "end_time": "2023-02-21T16:55:00-07:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Follow-up for anxiety disorder",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discussed work transitions. Patient using breathing techniques with moderate success. Mood stable. Continue plan.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-5C8D3F9G-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-03-07T13:30:00-07:00",
+      "end_time": "2023-03-07T14:15:00-07:00",
+      "facility_name": "High Plains Dermatology",
+      "facility_address": "1601 E 19th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-839-7010",
+      "department": "Dermatology",
+      "provider_name": "Dr. Lisa Thompson",
+      "provider_npi": "1188776655",
+      "appointment_type": "Annual Skin Examination",
+      "reason_for_visit": "Full body skin check for mole monitoring",
+      "diagnoses": [
+        {
+          "code": "Z12.83",
+          "description": "Encounter for screening for malignant neoplasm of skin",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Multiple benign nevi noted. One atypical lesion on left shoulder photographed. Patient advised on sun protection.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 40.0
+    },
+    {
+      "id": "EHR-7H2J4K6L-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-03-21T16:00:00-06:00",
+      "end_time": "2023-03-21T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "CBT session for anxiety",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Explored cognitive distortions related to work performance. Homework assigned.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-1A3S4D5F-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-04-04T16:00:00-06:00",
+      "end_time": "2023-04-04T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Anxiety management",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Patient reports improved sleep after reducing caffeine. Discussing boundary setting with family.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-6G8H9J0K-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-04-18T10:00:00-06:00",
+      "end_time": "2023-04-18T10:45:00-06:00",
+      "facility_name": "Colorado ENT Specialists",
+      "facility_address": "1630 Glenarm Pl, Denver, CO 80202",
+      "facility_phone": "+1-303-534-7890",
+      "department": "Otolaryngology",
+      "provider_name": "Dr. Michael Torres",
+      "provider_npi": "1547382910",
+      "appointment_type": "Allergy Consultation",
+      "reason_for_visit": "Seasonal rhinitis and congestion evaluation",
+      "diagnoses": [
+        {
+          "code": "J30.2",
+          "description": "Other seasonal allergic rhinitis",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Moderate turbinate hypertrophy. Recommended fluticasone spray and saline rinses. Allergen testing scheduled.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 50.0
+    },
+    {
+      "id": "EHR-2Q3W4E5R-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-05-02T16:00:00-06:00",
+      "end_time": "2023-05-02T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Stress management",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discussion regarding spouse's job transition. Patient coping well with techniques learned.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-8T9Y7U6I-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-05-16T14:00:00-06:00",
+      "end_time": "2023-05-16T14:50:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Rachel Green",
+      "provider_npi": "1765432109",
+      "appointment_type": "PT Evaluation",
+      "reason_for_visit": "Right knee pain after hiking",
+      "diagnoses": [
+        {
+          "code": "M25.561",
+          "description": "Pain in right knee",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "S83.401A",
+          "description": "Sprain of unspecified cruciate ligament of right knee, initial encounter",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Decreased ROM in flexion. Ligament testing negative. Plan for 6 weeks PT 2x/week.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-3O4P5L6K-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-05-30T14:00:00-06:00",
+      "end_time": "2023-05-30T14:45:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Rachel Green",
+      "provider_npi": "1765432109",
+      "appointment_type": "Physical Therapy Session",
+      "reason_for_visit": "Knee rehabilitation",
+      "diagnoses": [
+        {
+          "code": "M25.561",
+          "description": "Pain in right knee",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Manual therapy and quad strengthening. Patient tolerating well.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-9J8H7G6F-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-06-13T11:00:00-06:00",
+      "end_time": "2023-06-13T11:45:00-06:00",
+      "facility_name": "Cherry Creek Dental Group",
+      "facility_address": "3300 E 1st Ave Ste 200, Denver, CO 80206",
+      "facility_phone": "+1-303-722-5959",
+      "department": "General Dentistry",
+      "provider_name": "Dr. James Morrison",
+      "provider_npi": "1928374650",
+      "appointment_type": "Dental Cleaning",
+      "reason_for_visit": "Six-month prophylaxis",
+      "diagnoses": [
+        {
+          "code": "Z00.6",
+          "description": "Encounter for examination for normal comparison and control in clinical research program",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Good oral hygiene improved since last visit. No caries detected.",
+      "insurance_primary": "Cigna Dental",
+      "insurance_policy_id": "CIG884219A-D",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-5D4S3A2Q-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-06-27T16:00:00-06:00",
+      "end_time": "2023-06-27T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Anxiety follow-up",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discussed sleep hygiene improvements. Reports 7 hrs nightly.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-1Z2X3C4V-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-07-11T14:00:00-06:00",
+      "end_time": "2023-07-11T14:45:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Rachel Green",
+      "provider_npi": "1765432109",
+      "appointment_type": "Physical Therapy Session",
+      "reason_for_visit": "Knee strengthening",
+      "diagnoses": [
+        {
+          "code": "M25.561",
+          "description": "Pain in right knee",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Progressed to single leg exercises. Pain decreased to 2/10.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-7B6N5M4L-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-07-25T09:30:00-06:00",
+      "end_time": "2023-07-25T10:00:00-06:00",
+      "facility_name": "Skyline Family Medicine",
+      "facility_address": "2843 E Colfax Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-320-2144",
+      "department": "Primary Care",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_npi": "1835476291",
+      "appointment_type": "Follow-up Visit",
+      "reason_for_visit": "Knee pain progress and lab review",
+      "diagnoses": [
+        {
+          "code": "M25.561",
+          "description": "Pain in right knee",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Knee improving. HbA1c elevated at 7.2. Discussed dietary changes. Refer to nutritionist.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 25.0
+    },
+    {
+      "id": "EHR-9K8J7H6G-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-08-08T16:00:00-06:00",
+      "end_time": "2023-08-08T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Coping with health diagnosis",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "Z71.3",
+          "description": "Dietary counseling and surveillance",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Processing new diabetes diagnosis. Patient motivated for lifestyle change.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-3F4D5S6A-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-08-22T14:00:00-06:00",
+      "end_time": "2023-08-22T14:45:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Rachel Green",
+      "provider_npi": "1765432109",
+      "appointment_type": "Physical Therapy Session",
+      "reason_for_visit": "Final knee session",
+      "diagnoses": [
+        {
+          "code": "M25.561",
+          "description": "Pain in right knee",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discharged from PT. Full ROM restored. Home exercise program provided.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-5T6Y7U8I-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-09-05T10:00:00-06:00",
+      "end_time": "2023-09-05T10:45:00-06:00",
+      "facility_name": "Denver Wellness Collective",
+      "facility_address": "2900 Wyandot St, Denver, CO 80211",
+      "facility_phone": "+1-720-389-5544",
+      "department": "Nutrition Services",
+      "provider_name": "Amara Okafor",
+      "provider_npi": "1452369870",
+      "appointment_type": "Nutritional Counseling",
+      "reason_for_visit": "Diabetes management and meal planning",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "Z71.3",
+          "description": "Dietary counseling and surveillance",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Initial nutrition assessment. Baseline weight 154 lbs. Discussed carb counting and glycemic index.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 20.0
+    },
+    {
+      "id": "EHR-2O3P4I5U-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-09-19T15:00:00-06:00",
+      "end_time": "2023-09-19T15:45:00-06:00",
+      "facility_name": "Mile High Vision Center",
+      "facility_address": "3100 E 17th Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-331-9090",
+      "department": "Optometry",
+      "provider_name": "Dr. David Park",
+      "provider_npi": "1987654321",
+      "appointment_type": "Comprehensive Eye Exam",
+      "reason_for_visit": "Annual vision check and prescription update",
+      "diagnoses": [
+        {
+          "code": "H52.203",
+          "description": "Regular astigmatism, bilateral",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Visual acuity stable. Mild digital eye strain noted. Updated prescription for computer glasses.",
+      "insurance_primary": "Cigna Vision",
+      "insurance_policy_id": "CIG884219A-V",
+      "copay_paid": 15.0
+    },
+    {
+      "id": "EHR-8Y7T6R5E-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-10-03T16:00:00-06:00",
+      "end_time": "2023-10-03T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Anxiety maintenance",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reports reduced anxiety episodes. Discussing tapering session frequency to monthly.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-4W5Q6F7G-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-10-17T13:30:00-06:00",
+      "end_time": "2023-10-17T14:00:00-06:00",
+      "facility_name": "High Plains Dermatology",
+      "facility_address": "1601 E 19th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-839-7010",
+      "department": "Dermatology",
+      "provider_name": "Dr. Lisa Thompson",
+      "provider_npi": "1188776655",
+      "appointment_type": "Follow-up Visit",
+      "reason_for_visit": "Review atypical mole biopsy site",
+      "diagnoses": [
+        {
+          "code": "D22.5",
+          "description": "Melanocytic nevi of trunk",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Biopsy site healed well. Pathology benign. Continue annual surveillance.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 40.0
+    },
+    {
+      "id": "EHR-6H7J8K9L-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-10-31T16:00:00-06:00",
+      "end_time": "2023-10-31T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Monthly maintenance session",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reports stable mood. Good compliance with coping strategies. Plan for monthly visits.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-1A2S3D4F-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-11-14T18:30:00-07:00",
+      "end_time": "2023-11-14T19:15:00-07:00",
+      "facility_name": "NextCare Urgent Care",
+      "facility_address": "4300 E 8th Ave, Denver, CO 80220",
+      "facility_phone": "+1-303-320-4400",
+      "department": "Urgent Care",
+      "provider_name": "Dr. Daniel Okafor",
+      "provider_npi": "1678905432",
+      "appointment_type": "Urgent Care Visit",
+      "reason_for_visit": "Fever and respiratory symptoms",
+      "diagnoses": [
+        {
+          "code": "J06.9",
+          "description": "Acute upper respiratory infection, unspecified",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "R50.9",
+          "description": "Fever, unspecified",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Temp 101.2F. Negative flu and COVID rapid tests. Viral URI diagnosis. Supportive care recommended.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 75.0
+    },
+    {
+      "id": "EHR-7G8H9J0K-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-11-28T16:00:00-07:00",
+      "end_time": "2023-11-28T16:55:00-07:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Holiday stress management",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discussing family visit stressors. Reviewed grounding techniques.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-3L4K5J6H-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-12-12T10:00:00-07:00",
+      "end_time": "2023-12-12T10:45:00-07:00",
+      "facility_name": "Cherry Creek Dental Group",
+      "facility_address": "3300 E 1st Ave Ste 200, Denver, CO 80206",
+      "facility_phone": "+1-303-722-5959",
+      "department": "General Dentistry",
+      "provider_name": "Dr. James Morrison",
+      "provider_npi": "1928374650",
+      "appointment_type": "Dental Cleaning",
+      "reason_for_visit": "Routine prophylaxis",
+      "diagnoses": [
+        {
+          "code": "Z01.20",
+          "description": "Encounter for dental examination and cleaning without abnormal findings",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Excellent hygiene. Bite guards discussed for bruxism.",
+      "insurance_primary": "Cigna Dental",
+      "insurance_policy_id": "CIG884219A-D",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-9G8F7D6S-2023",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2023-12-26T16:00:00-07:00",
+      "end_time": "2023-12-26T16:55:00-07:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Post-holiday check-in",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reports manageable stress levels. Plan to reduce to biweekly in new year.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-5A6S7D8F-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-01-09T09:00:00-07:00",
+      "end_time": "2024-01-09T09:45:00-07:00",
+      "facility_name": "Skyline Family Medicine",
+      "facility_address": "2843 E Colfax Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-320-2144",
+      "department": "Primary Care",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_npi": "1835476291",
+      "appointment_type": "Annual Physical Examination",
+      "reason_for_visit": "2024 wellness check and diabetes monitoring",
+      "diagnoses": [
+        {
+          "code": "Z00.00",
+          "description": "Encounter for general adult medical examination without abnormal findings",
+          "type": "ICD-10-CM"
+        },
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Weight stable. BP 116/74. HbA1c improved to 6.8. Continue current management.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 25.0
+    },
+    {
+      "id": "EHR-2G3H4J5K-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-01-23T08:30:00-07:00",
+      "end_time": "2024-01-23T08:45:00-07:00",
+      "facility_name": "Quest Diagnostics",
+      "facility_address": "1601 E 19th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-839-6200",
+      "department": "Laboratory",
+      "provider_name": "Phlebotomy Services",
+      "appointment_type": "Blood Draw",
+      "reason_for_visit": "Fasting lipid panel and HbA1c",
+      "diagnoses": [
+        {
+          "code": "Z00.00",
+          "description": "Encounter for general adult medical examination",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Fasting 12 hrs. Vein access good. Samples collected per requisition.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-8L7K6J5H-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-02-06T16:00:00-07:00",
+      "end_time": "2024-02-06T16:55:00-07:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Biweekly maintenance",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discussing work project deadlines. Patient using stress management tools effectively.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-4F5G6H7J-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-02-20T13:00:00-07:00",
+      "end_time": "2024-02-20T13:45:00-07:00",
+      "facility_name": "Women's Health Pavilion",
+      "facility_address": "4500 E 9th Ave, Denver, CO 80220",
+      "facility_phone": "+1-303-388-4422",
+      "department": "Obstetrics and Gynecology",
+      "provider_name": "Dr. Jennifer Walsh",
+      "provider_npi": "1567890123",
+      "appointment_type": "Annual Well-Woman Exam",
+      "reason_for_visit": " routine preventive gynecological care",
+      "diagnoses": [
+        {
+          "code": "Z01.419",
+          "description": "Encounter for gynecological examination (general) (routine) without abnormal findings",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Breast exam normal. Pap smear collected. Recommended mammogram start age 40.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-9D8C7B6N-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-03-05T11:00:00-07:00",
+      "end_time": "2024-03-05T11:45:00-07:00",
+      "facility_name": "Denver Wellness Collective",
+      "facility_address": "2900 Wyandot St, Denver, CO 80211",
+      "facility_phone": "+1-720-389-5544",
+      "department": "Nutrition Services",
+      "provider_name": "Amara Okafor",
+      "provider_npi": "1452369870",
+      "appointment_type": "Nutritional Counseling",
+      "reason_for_visit": "Diabetes management follow-up",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Weight decreased 3 lbs. Blood logs showing good control. Adjusted meal timing suggestions.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 20.0
+    },
+    {
+      "id": "EHR-3M4N5B6V-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-03-19T16:00:00-06:00",
+      "end_time": "2024-03-19T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Anxiety management",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Discussing travel anxiety for upcoming work trip. Role-played scenarios.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-7C8X9Z0L-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-04-02T10:30:00-06:00",
+      "end_time": "2024-04-02T11:00:00-06:00",
+      "facility_name": "Colorado ENT Specialists",
+      "facility_address": "1630 Glenarm Pl, Denver, CO 80202",
+      "facility_phone": "+1-303-534-7890",
+      "department": "Otolaryngology",
+      "provider_name": "Dr. Michael Torres",
+      "provider_npi": "1547382910",
+      "appointment_type": "Follow-up Visit",
+      "reason_for_visit": "Allergy symptom assessment",
+      "diagnoses": [
+        {
+          "code": "J30.2",
+          "description": "Other seasonal allergic rhinitis",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Symptoms improved with current regimen. Continue fluticasone during high pollen season.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 50.0
+    },
+    {
+      "id": "EHR-5V6B7N8M-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-04-16T16:00:00-06:00",
+      "end_time": "2024-04-16T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Maintenance session",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reports good stress management during Q1 work cycle. Planning summer vacation.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-1Q2W3E4R-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-04-30T17:15:00-06:00",
+      "end_time": "2024-04-30T17:45:00-06:00",
+      "facility_name": "AFC Urgent Care Denver",
+      "facility_address": "850 E 18th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-733-4000",
+      "department": "Urgent Care",
+      "provider_name": "Dr. Robert Singh",
+      "provider_npi": "1346798520",
+      "appointment_type": "Urgent Care Visit",
+      "reason_for_visit": "Ankle sprain evaluation",
+      "diagnoses": [
+        {
+          "code": "S93.401A",
+          "description": "Sprain of unspecified ligament of right ankle, initial encounter",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Slipped on stairs. Mild swelling lateral malleolus. Xray negative for fracture. Ace wrap and RICE instructions.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 75.0
+    },
+    {
+      "id": "EHR-6T7Y8U9I-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-05-14T15:00:00-06:00",
+      "end_time": "2024-05-14T15:45:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Samuel Park",
+      "provider_npi": "1892345670",
+      "appointment_type": "PT Evaluation",
+      "reason_for_visit": "Right ankle rehabilitation",
+      "diagnoses": [
+        {
+          "code": "S93.401A",
+          "description": "Sprain of unspecified ligament of right ankle",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Grade 1 sprain. Started PROM and strengthening exercises. Plan 4 weeks.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-0O9I8U7Y-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-05-28T15:00:00-06:00",
+      "end_time": "2024-05-28T15:45:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Samuel Park",
+      "provider_npi": "1892345670",
+      "appointment_type": "Physical Therapy Session",
+      "reason_for_visit": "Ankle strengthening",
+      "diagnoses": [
+        {
+          "code": "S93.401A",
+          "description": "Sprain of unspecified ligament of right ankle",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Balance training initiated. Weight bearing without pain.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-4R5E6T7Y-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-06-11T09:30:00-06:00",
+      "end_time": "2024-06-11T10:15:00-06:00",
+      "facility_name": "Cherry Creek Dental Group",
+      "facility_address": "3300 E 1st Ave Ste 200, Denver, CO 80206",
+      "facility_phone": "+1-303-722-5959",
+      "department": "General Dentistry",
+      "provider_name": "Dr. James Morrison",
+      "provider_npi": "1928374650",
+      "appointment_type": "Dental Cleaning",
+      "reason_for_visit": "Six-month hygiene visit",
+      "diagnoses": [
+        {
+          "code": "Z01.20",
+          "description": "Encounter for dental examination and cleaning",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Stable periodontal health. Recommend electric toothbrush upgrade.",
+      "insurance_primary": "Cigna Dental",
+      "insurance_policy_id": "CIG884219A-D",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-2A3S4D5F-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-06-25T15:00:00-06:00",
+      "end_time": "2024-06-25T15:45:00-06:00",
+      "facility_name": "Front Range Physical Therapy",
+      "facility_address": "2000 S Colorado Blvd, Denver, CO 80222",
+      "facility_phone": "+1-303-758-2100",
+      "department": "Physical Therapy",
+      "provider_name": "Dr. Samuel Park",
+      "provider_npi": "1892345670",
+      "appointment_type": "Physical Therapy Session",
+      "reason_for_visit": "Final ankle session",
+      "diagnoses": [
+        {
+          "code": "S93.401A",
+          "description": "Sprain of unspecified ligament of right ankle",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Full strength and ROM restored. Discharged with home program.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 35.0
+    },
+    {
+      "id": "EHR-8G9H0J1K-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-07-09T14:00:00-06:00",
+      "end_time": "2024-07-09T14:30:00-06:00",
+      "facility_name": "High Plains Dermatology",
+      "facility_address": "1601 E 19th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-839-7010",
+      "department": "Dermatology",
+      "provider_name": "Dr. Lisa Thompson",
+      "provider_npi": "1188776655",
+      "appointment_type": "Dermatological Procedure",
+      "reason_for_visit": "Excision of atypical nevus left shoulder",
+      "diagnoses": [
+        {
+          "code": "D22.5",
+          "description": "Melanocytic nevi of trunk",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "3mm excision performed under local. Specimen sent to pathology. Wound care instructions given.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 150.0
+    },
+    {
+      "id": "EHR-5L6K7J8H-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-07-23T10:30:00-06:00",
+      "end_time": "2024-07-23T10:45:00-06:00",
+      "facility_name": "Skyline Family Medicine",
+      "facility_address": "2843 E Colfax Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-320-2144",
+      "department": "Primary Care",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_npi": "1835476291",
+      "appointment_type": "Immunization Visit",
+      "reason_for_visit": "Seasonal influenza vaccination",
+      "diagnoses": [
+        {
+          "code": "Z23",
+          "description": "Encounter for immunization",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Fluzone HD administered IM right deltoid. No immediate adverse reaction.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-9M8N7B6V-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-08-06T16:00:00-06:00",
+      "end_time": "2024-08-06T16:45:00-06:00",
+      "facility_name": "Mile High Vision Center",
+      "facility_address": "3100 E 17th Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-331-9090",
+      "department": "Optometry",
+      "provider_name": "Dr. David Park",
+      "provider_npi": "1987654321",
+      "appointment_type": "Comprehensive Eye Exam",
+      "reason_for_visit": "Annual vision examination",
+      "diagnoses": [
+        {
+          "code": "H52.203",
+          "description": "Regular astigmatism, bilateral",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Prescription unchanged. Retinal photography shows healthy optic nerves.",
+      "insurance_primary": "Cigna Vision",
+      "insurance_policy_id": "CIG884219A-V",
+      "copay_paid": 15.0
+    },
+    {
+      "id": "EHR-3C4X5Z6L-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-08-20T16:00:00-06:00",
+      "end_time": "2024-08-20T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Anxiety check-in",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reports stable mood. Discussing career development opportunities without distress.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-7V8B9N0M-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-09-03T09:15:00-06:00",
+      "end_time": "2024-09-03T09:45:00-06:00",
+      "facility_name": "Skyline Family Medicine",
+      "facility_address": "2843 E Colfax Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-320-2144",
+      "department": "Primary Care",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_npi": "1835476291",
+      "appointment_type": "Follow-up Visit",
+      "reason_for_visit": "Diabetes and hypertension monitoring",
+      "diagnoses": [
+        {
+          "code": "E11.9",
+          "description": "Type 2 diabetes mellitus without complications",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "HbA1c 6.7. Excellent control. Continue current medications and lifestyle.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 25.0
+    },
+    {
+      "id": "EHR-1Q2A3Z4W-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-09-17T08:00:00-06:00",
+      "end_time": "2024-09-17T08:30:00-06:00",
+      "facility_name": "Quest Diagnostics",
+      "facility_address": "1601 E 19th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-839-6200",
+      "department": "Laboratory",
+      "provider_name": "Phlebotomy Services",
+      "appointment_type": "Blood Draw",
+      "reason_for_visit": "Routine diabetes labs and CBC",
+      "diagnoses": [
+        {
+          "code": "Z01.812",
+          "description": "Encounter for preprocedural laboratory examination",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Fasting glucose and lipid panel drawn.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-6S7D8F9G-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-10-01T16:00:00-06:00",
+      "end_time": "2024-10-01T16:55:00-06:00",
+      "facility_name": "Park Hill Counseling Associates",
+      "facility_address": "2260 Kearney St, Denver, CO 80207",
+      "facility_phone": "+1-720-908-4455",
+      "department": "Behavioral Health",
+      "provider_name": "Dr. Emily Rodriguez",
+      "provider_npi": "1098765432",
+      "appointment_type": "Individual Therapy",
+      "reason_for_visit": "Monthly maintenance",
+      "diagnoses": [
+        {
+          "code": "F41.1",
+          "description": "Generalized anxiety disorder",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reports minimal anxiety symptoms. Reduce sessions to monthly unless needed sooner.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 30.0
+    },
+    {
+      "id": "EHR-4H5J6K7L-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-10-15T10:00:00-06:00",
+      "end_time": "2024-10-15T10:30:00-06:00",
+      "facility_name": "High Plains Dermatology",
+      "facility_address": "1601 E 19th Ave, Denver, CO 80218",
+      "facility_phone": "+1-303-839-7010",
+      "department": "Dermatology",
+      "provider_name": "Dr. Lisa Thompson",
+      "provider_npi": "1188776655",
+      "appointment_type": "Suture Removal",
+      "reason_for_visit": "Remove sutures from excision site",
+      "diagnoses": [
+        {
+          "code": "Z48.02",
+          "description": "Encounter for removal of sutures",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Healed well. Pathology benign. No further intervention needed.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 0.0
+    },
+    {
+      "id": "EHR-8J9K0L1P-2024",
+      "patient_name": "Linh Nguyen",
+      "patient_dob": "1988-03-14",
+      "patient_id": "MRN483920LNG",
+      "start_time": "2024-11-12T11:00:00-07:00",
+      "end_time": "2024-11-12T11:30:00-07:00",
+      "facility_name": "Skyline Family Medicine",
+      "facility_address": "2843 E Colfax Ave, Denver, CO 80206",
+      "facility_phone": "+1-303-320-2144",
+      "department": "Primary Care",
+      "provider_name": "Dr. Sarah Chen",
+      "provider_npi": "1835476291",
+      "appointment_type": "Pre-Travel Consultation",
+      "reason_for_visit": "Travel health counseling for international trip",
+      "diagnoses": [
+        {
+          "code": "Z71.84",
+          "description": "Encounter for health counseling related to travel",
+          "type": "ICD-10-CM"
+        }
+      ],
+      "status": "completed",
+      "notes": "Reviewed travel vaccines. Prescribed ciprofloxacin for travelers diarrhea prophylaxis.",
+      "insurance_primary": "Cigna HealthCare",
+      "insurance_policy_id": "CIG884219A",
+      "copay_paid": 25.0
+    }
+  ]
+}

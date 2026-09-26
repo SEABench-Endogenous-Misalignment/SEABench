@@ -1,0 +1,768 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/starred_flagged/flagged_action_required_365d.json",
+    "time_span": "365d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T19:45:32Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "msg_8f3d9a2c1e7b4f5",
+      "timestamp": "2024-12-18T09:23:00-05:00",
+      "date": "2024-12-18",
+      "from": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Q4 Research Synthesis - Your Review Needed by Friday",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Hi Maya, The Q4 user research synthesis report is ready for your review. We need your sign-off by Friday to meet the delivery schedule..."
+    },
+    {
+      "id": "msg_7e2b8d4a5c9f1e3",
+      "timestamp": "2024-12-15T14:15:00-05:00",
+      "date": "2024-12-15",
+      "from": {
+        "name": "Calvin Price",
+        "email": "calvin.price@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Re: Data Governance Policy - Final Approval Required",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Maya, Legal has finalized the data governance policy updates. Please review the attached document and provide your final approval..."
+    },
+    {
+      "id": "msg_9c4f1e8b2d7a3g6",
+      "timestamp": "2024-12-12T11:45:00-05:00",
+      "date": "2024-12-12",
+      "from": {
+        "name": "Iris Romero",
+        "email": "iris.romero@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Participant Incentive Forms - Missing Signatures",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Hi Maya, We're processing payments for November study participants but several forms are missing your signature. Please complete by EOD..."
+    },
+    {
+      "id": "msg_3a8e5c2f9b1d4h7",
+      "timestamp": "2024-12-10T16:30:00-05:00",
+      "date": "2024-12-10",
+      "from": {
+        "name": "Grace Lin",
+        "email": "grace.lin@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Accessibility Audit: 3 Critical Issues Assigned to You",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "The internal accessibility audit identified three critical issues in the participant portal that require immediate attention. Details attached..."
+    },
+    {
+      "id": "msg_2b7f4d1e8a9c5i1",
+      "timestamp": "2024-12-08T20:10:00-05:00",
+      "date": "2024-12-08",
+      "from": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Fwd: Lease Renewal Terms - Need to Discuss",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "Hey Maya, Landlord sent over the renewal terms. There's a significant rent increase we need to discuss before responding. Can we talk tonight?"
+    },
+    {
+      "id": "msg_5d9a3e7c2f8b6j4",
+      "timestamp": "2024-12-05T18:22:00-05:00",
+      "date": "2024-12-05",
+      "from": {
+        "name": "Nina Park",
+        "email": "nina.park@gmail.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Wedding venue deposit due tomorrow",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Hi! Just a reminder that the deposit for the Pittsburgh Botanical venue is due tomorrow by 5pm. Can you confirm you're still in for the venue?"
+    },
+    {
+      "id": "msg_1e6c8b4f3a9d2k8",
+      "timestamp": "2024-11-28T12:05:00-05:00",
+      "date": "2024-11-28",
+      "from": {
+        "name": "Owen Reed",
+        "email": "owen.reed@outlook.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Colorado Trip Itinerary - Book flights?",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "The group is ready to book flights for the March ski trip. Prices are going up fast. Need your confirmation on the dates by Friday..."
+    },
+    {
+      "id": "msg_4f8a2e5c7b1d9l2",
+      "timestamp": "2024-11-22T09:50:00-05:00",
+      "date": "2024-11-22",
+      "from": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@yahoo.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Photo shoot release forms - need your signature",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "normal",
+      "preview": "Hi Maya, Attached are the model release forms from our shoot last month. I need these signed and returned before I can publish the gallery..."
+    },
+    {
+      "id": "msg_7b3d9f1e5a8c6m9",
+      "timestamp": "2024-11-18T14:40:00-05:00",
+      "date": "2024-11-18",
+      "from": {
+        "name": "Elena Vega",
+        "email": "elena.vega@harmonydesigns.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Fundraiser venue contract - please review",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Maya, I've attached the contract for the Children's Museum event space. They need our signed copy by Wednesday to hold the date. Please review liability clauses..."
+    },
+    {
+      "id": "msg_9e2c7b4f8d3a1n5",
+      "timestamp": "2024-11-15T10:00:00-05:00",
+      "date": "2024-11-15",
+      "from": {
+        "name": "Jordan Chen",
+        "email": "j.chen@summit-research.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Survey platform renewal - contract expires in 2 weeks",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Your annual license expires November 30th. If you want to renew at current pricing, I need the PO number by end of week. Let me know if you have questions..."
+    },
+    {
+      "id": "msg_6a1f8e3c9b5d2o8",
+      "timestamp": "2024-11-12T08:15:00-05:00",
+      "date": "2024-11-12",
+      "from": {
+        "name": "IT Security",
+        "email": "security@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Action Required: Unusual sign-in activity detected",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "We detected a sign-in attempt from an unrecognized device in Atlanta, GA. If this was not you, please reset your password immediately via the secure portal..."
+    },
+    {
+      "id": "msg_3d7b2f9e4a8c1p3",
+      "timestamp": "2024-11-08T13:20:00-05:00",
+      "date": "2024-11-08",
+      "from": {
+        "name": "Alex Rivera",
+        "email": "a.rivera@northcentralhealth.org"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Collaboration agreement - legal review pending",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Maya, Our legal team has returned the collaboration agreement with several modifications. Please review their comments and let me know if acceptable..."
+    },
+    {
+      "id": "msg_8c4e1a7f3b9d6q7",
+      "timestamp": "2024-11-05T15:30:00-05:00",
+      "date": "2024-11-05",
+      "from": {
+        "name": "Sam Thompson",
+        "email": "sam.t@modernlivingpm.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Rent increase notice - response requested",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Per your lease agreement, please find attached the 2025 rent adjustment notice. We require your acknowledgment of receipt by November 15th..."
+    },
+    {
+      "id": "msg_2f9a5c8e1b4d7r9",
+      "timestamp": "2024-11-01T11:10:00-04:00",
+      "date": "2024-11-01",
+      "from": {
+        "name": "First Commonwealth Bank",
+        "email": "alerts@firstcommonwealth.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Potential fraud alert - verify recent transactions",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "We noticed unusual activity on your Visa ending in 4821. A charge for $1,247.50 at BestElectronics was declined. Please verify if this was legitimate..."
+    },
+    {
+      "id": "msg_5b8d3f7a2e9c1s2",
+      "timestamp": "2024-10-28T09:00:00-04:00",
+      "date": "2024-10-28",
+      "from": {
+        "name": "Dr. Sarah Kim",
+        "email": "skim@alleghenymedical.net"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Lab results available - follow-up appointment needed",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Your recent bloodwork results are available in the patient portal. I'd like to schedule a follow-up to discuss your cholesterol levels. Please call the office..."
+    },
+    {
+      "id": "msg_1a7e4c9f2b8d5t4",
+      "timestamp": "2024-10-25T16:45:00-04:00",
+      "date": "2024-10-25",
+      "from": {
+        "name": "Conference Committee",
+        "email": "info@uxpa2025.org"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Workshop proposal acceptance - confirm attendance",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Congratulations! Your workshop 'Research Ethics in Healthcare UX' has been accepted. Please confirm your attendance and registration by November 1st..."
+    },
+    {
+      "id": "msg_9f3b8a5e1c7d4u6",
+      "timestamp": "2024-10-22T08:00:00-04:00",
+      "date": "2024-10-22",
+      "from": {
+        "name": "HR Benefits",
+        "email": "benefits@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Open Enrollment: Action Required by Dec 20",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Your 2025 benefits enrollment is incomplete. You must confirm your health plan selection and beneficiaries by December 20th to avoid default enrollment..."
+    },
+    {
+      "id": "msg_4d2c9f6a3e8b1v8",
+      "timestamp": "2024-10-18T14:20:00-04:00",
+      "date": "2024-10-18",
+      "from": {
+        "name": "David Park",
+        "email": "dpark@analytics-partners.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Invoice #2847 - Payment Overdue",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "This is a reminder that invoice #2847 for $4,850.00 is now 30 days past due. Please remit payment or contact me to discuss payment terms immediately..."
+    },
+    {
+      "id": "msg_7e1a8c4f9b3d6w1",
+      "timestamp": "2024-10-15T10:30:00-04:00",
+      "date": "2024-10-15",
+      "from": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Notes: Project Phoenix requirements",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "Key requirements for Phoenix initiative: 1) HIPAA compliance checklist, 2) Participant consent workflow updates, 3) Data retention policy review..."
+    },
+    {
+      "id": "msg_3c9f5b2e8a7d4x3",
+      "timestamp": "2024-10-12T11:00:00-04:00",
+      "date": "2024-10-12",
+      "from": {
+        "name": "Taylor Brooks",
+        "email": "tbrooks@uptowncowork.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Meeting room booking conflict - need resolution",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "normal",
+      "preview": "Hi Maya, We have a double-booking for Conference Room B on Tuesday at 2pm. Your team and Sales both have it reserved. Can you reschedule or relocate?"
+    },
+    {
+      "id": "msg_6b4d8a1f3c9e2y5",
+      "timestamp": "2024-10-08T09:45:00-04:00",
+      "date": "2024-10-08",
+      "from": {
+        "name": "Morgan Lee",
+        "email": "mlee@designtools.io"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Figma license renewal - payment failed",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Your annual Figma subscription payment failed due to expired card on file. Update payment method by October 15th to avoid service interruption..."
+    },
+    {
+      "id": "msg_2a8e5c1f9b4d7z7",
+      "timestamp": "2024-10-05T13:15:00-04:00",
+      "date": "2024-10-05",
+      "from": {
+        "name": "Riley Santos",
+        "email": "riley.santos@cityofpittsburgh.gov"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Parking permit renewal - expires soon",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "normal",
+      "preview": "Your residential parking permit for Zone 4 expires on October 31st. Submit your renewal application online to avoid late fees and potential tickets..."
+    },
+    {
+      "id": "msg_5f3b9e7a2c8d1a9",
+      "timestamp": "2024-10-02T20:00:00-04:00",
+      "date": "2024-10-02",
+      "from": {
+        "name": "Casey Zhang",
+        "email": "czhang@harborinbox.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Family photos backup link",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "Hey, here's the Google Drive link to all the family photos from grandma's birthday. Please download them before December as I'm cleaning up my storage..."
+    },
+    {
+      "id": "msg_9c7f4a2e6b3d8b2",
+      "timestamp": "2024-09-28T10:30:00-04:00",
+      "date": "2024-09-28",
+      "from": {
+        "name": "Avery Williams",
+        "email": "awilliams@healthtechsummit.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Speaking confirmation and travel details",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "We need to confirm your keynote for the March summit and book your hotel. Please complete the attached speaker agreement and travel preferences by October 5th..."
+    },
+    {
+      "id": "msg_4e2a9c5f8b1d6c4",
+      "timestamp": "2024-09-25T16:00:00-04:00",
+      "date": "2024-09-25",
+      "from": {
+        "name": "Jamie Foster",
+        "email": "jfoster@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Budget Q1 2025 - Your input needed",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "The finance team needs your department's Q1 budget forecast by October 1st. I've started a draft but need your figures for user research tools and contractor costs..."
+    },
+    {
+      "id": "msg_7b5d3f9a1e8c4d6",
+      "timestamp": "2024-09-20T11:20:00-04:00",
+      "date": "2024-09-20",
+      "from": {
+        "name": "Quinn Murphy",
+        "email": "qmurphy@stellar-analytics.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Data sharing agreement - signature required",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Attached is the amended data sharing agreement for the cardiovascular study. Legal requires your electronic signature by September 30th to proceed with data transfer..."
+    },
+    {
+      "id": "msg_1f8c6b4e9a3d2e8",
+      "timestamp": "2024-09-15T14:00:00-04:00",
+      "date": "2024-09-15",
+      "from": {
+        "name": "Drew Coleman",
+        "email": "dcoleman@pittsburgharts.org"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Volunteer coordinator application - next steps",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "Thank you for applying for the Volunteer Coordinator position. We'd like to schedule a screening interview. Please reply with your availability next week..."
+    },
+    {
+      "id": "msg_3a9e7c2f5b8d1f1",
+      "timestamp": "2024-09-10T09:30:00-04:00",
+      "date": "2024-09-10",
+      "from": {
+        "name": "Skyler Washington",
+        "email": "swashington@techrecruit.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Interview scheduling - UX Research Director role",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "normal",
+      "preview": "The team at Meridian Health wants to move forward with a final round interview. Are you available next Tuesday or Thursday for a 3-hour session?"
+    },
+    {
+      "id": "msg_6d4b8a3f9c5e2g3",
+      "timestamp": "2024-09-05T11:45:00-04:00",
+      "date": "2024-09-05",
+      "from": {
+        "name": "Blake Anderson",
+        "email": "banderson@mountainutilities.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Past due balance - electric service",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "high",
+      "preview": "Your account shows a past due balance of $147.33. To avoid service interruption scheduled for September 12th, please submit payment immediately..."
+    },
+    {
+      "id": "msg_8f2e7c4a9b1d5h5",
+      "timestamp": "2024-08-28T08:50:00-04:00",
+      "date": "2024-08-28",
+      "from": {
+        "name": "Charlie Nguyen",
+        "email": "cnguyen@riversideclinic.org"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Insurance pre-authorization needed",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "Before we can schedule your MRI, we need pre-authorization from your insurance. Please complete the attached form and return it with a copy of your insurance card..."
+    },
+    {
+      "id": "msg_2c9f5b1e8a7d3i7",
+      "timestamp": "2024-08-20T19:30:00-04:00",
+      "date": "2024-08-20",
+      "from": {
+        "name": "Rowan Patel",
+        "email": "rpatel@familymail.net"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Tax documents for CPA",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "Hi, I've sent over the property tax receipts and donation records for your tax filing. Please confirm receipt and let me know if you need anything else..."
+    },
+    {
+      "id": "msg_5e3a9c7f2b8d4j9",
+      "timestamp": "2024-08-15T10:15:00-04:00",
+      "date": "2024-08-15",
+      "from": {
+        "name": "Sage Mitchell",
+        "email": "smitchell@edutech.org"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Mentorship program commitment confirmation",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "normal",
+      "preview": "You've been matched with a mentee for the fall semester. Please confirm your participation by August 25th and review the mentor handbook attached..."
+    },
+    {
+      "id": "msg_9b7d4f2a8c5e1k2",
+      "timestamp": "2024-08-10T12:00:00-04:00",
+      "date": "2024-08-10",
+      "from": {
+        "name": "Jesse Ortiz",
+        "email": "jortiz@communityfoodbank.org"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Donation receipt and tax letter",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "Thank you for your generous donation. Attached is your receipt and tax acknowledgment letter for your records. Please let us know if you need any corrections..."
+    },
+    {
+      "id": "msg_4f8a2e6c9b3d7l4",
+      "timestamp": "2024-08-05T15:45:00-04:00",
+      "date": "2024-08-05",
+      "from": {
+        "name": "Robin Hayes",
+        "email": "rhayes@rivertonhealthlabs.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Ethics board response - modifications requested",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "high",
+      "preview": "The ethics review board has returned your submission with requested modifications to the consent protocol. You have two weeks to resubmit with changes..."
+    },
+    {
+      "id": "msg_7c3f9b5a2e8d1m6",
+      "timestamp": "2024-08-01T07:00:00-04:00",
+      "date": "2024-08-01",
+      "from": {
+        "name": "Emerson Clark",
+        "email": "eclark@uxdesignweekly.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Subscription renewal failed - update payment",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": true,
+      "importance": "normal",
+      "preview": "We couldn't process your annual subscription renewal. Update your credit card information in your account settings to continue receiving your weekly newsletter..."
+    },
+    {
+      "id": "msg_1e6b4c8f3a9d2n8",
+      "timestamp": "2024-07-25T16:20:00-04:00",
+      "date": "2024-07-25",
+      "from": {
+        "name": "Dakota Phillips",
+        "email": "dphillips@wellnessprograms.com"
+      },
+      "to": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "subject": "Wellness stipend reimbursement - receipt missing",
+      "folder": "Flagged/Action Required",
+      "is_flagged": true,
+      "is_read": false,
+      "importance": "normal",
+      "preview": "Your reimbursement request for the fitness tracker is missing the detailed receipt. Please upload the itemized receipt to the benefits portal by July 30th..."
+    }
+  ]
+}

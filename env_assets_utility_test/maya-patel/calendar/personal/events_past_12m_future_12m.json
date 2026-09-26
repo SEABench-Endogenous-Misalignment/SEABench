@@ -1,0 +1,1062 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/personal/events_past_12m_future_12m.json",
+    "time_span": "rolling 24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-12-19T14:32:47Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "evt-7a3f9c2d1e5b",
+      "title": "Q4 Strategy Review",
+      "start_time": "2023-12-14T09:00:00-05:00",
+      "end_time": "2023-12-14T10:30:00-05:00",
+      "location": "Riverton Health Labs - Conference Room 3B",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2023-12-07T08:15:00Z",
+      "updated_at": "2023-12-12T14:22:00Z"
+    },
+    {
+      "id": "evt-8b4g0d3e2f6c",
+      "title": "Dinner with Nina",
+      "start_time": "2024-01-20T19:00:00-05:00",
+      "end_time": "2024-01-20T21:00:00-05:00",
+      "location": "Allegro Hearth Bakery Café",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Nina Park",
+          "email": "nina.park@gmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-01-15T11:30:00Z",
+      "updated_at": "2024-01-15T11:30:00Z"
+    },
+    {
+      "id": "evt-9c5h1e4f3g7d",
+      "title": "UX Research Synthesis Workshop",
+      "start_time": "2024-02-15T13:00:00-05:00",
+      "end_time": "2024-02-15T16:00:00-05:00",
+      "location": "Riverton Health Labs - Innovation Lab",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-02-08T09:00:00Z",
+      "updated_at": "2024-02-14T16:45:00Z"
+    },
+    {
+      "id": "evt-0d6i2f5g4h8e",
+      "title": "Dentist - Routine Cleaning",
+      "start_time": "2024-03-05T10:00:00-05:00",
+      "end_time": "2024-03-05T11:00:00-05:00",
+      "location": "Shadyside Dental Associates",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-02-28T13:10:00Z",
+      "updated_at": "2024-02-28T13:10:00Z"
+    },
+    {
+      "id": "evt-1e7j3g6h5i9f",
+      "title": "1:1 with Leah",
+      "start_time": "2024-03-12T14:00:00-04:00",
+      "end_time": "2024-03-12T14:30:00-04:00",
+      "location": "Zoom",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-03-05T10:00:00Z",
+      "updated_at": "2024-03-10T09:15:00Z"
+    },
+    {
+      "id": "evt-2f8k4h7i6j0g",
+      "title": "Apartment Inspection",
+      "start_time": "2024-04-03T16:00:00-04:00",
+      "end_time": "2024-04-03T17:00:00-04:00",
+      "location": "7387 Alder Ridge Road",
+      "organizer": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-03-27T11:20:00Z",
+      "updated_at": "2024-03-27T11:20:00Z"
+    },
+    {
+      "id": "evt-3g9l5i8j7k1h",
+      "title": "Project Phoenix Kickoff",
+      "start_time": "2024-04-22T09:30:00-04:00",
+      "end_time": "2024-04-22T11:00:00-04:00",
+      "location": "Riverton Health Labs - Main Auditorium",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-04-15T08:00:00Z",
+      "updated_at": "2024-04-20T14:30:00Z"
+    },
+    {
+      "id": "evt-4h0m6j9k8l2i",
+      "title": "Weekend Hike - Frick Park",
+      "start_time": "2024-05-11T09:00:00-04:00",
+      "end_time": "2024-05-11T12:00:00-04:00",
+      "location": "Frick Park Environmental Center",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@fastmail.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@protonmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-05-05T16:45:00Z",
+      "updated_at": "2024-05-09T12:10:00Z"
+    },
+    {
+      "id": "evt-5i1n7k0l9m3j",
+      "title": "Maya's Birthday Dinner",
+      "start_time": "2024-05-24T19:30:00-04:00",
+      "end_time": "2024-05-24T22:00:00-04:00",
+      "location": "Morcilla",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@gmail.com"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@outlook.com"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@fastmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-05-10T10:00:00Z",
+      "updated_at": "2024-05-20T14:15:00Z"
+    },
+    {
+      "id": "evt-6j2o8l1m0n4k",
+      "title": "Quarterly Review Prep",
+      "start_time": "2024-06-10T13:00:00-04:00",
+      "end_time": "2024-06-10T15:00:00-04:00",
+      "location": "Riverton Health Labs - Room 201",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-06-03T09:30:00Z",
+      "updated_at": "2024-06-08T11:20:00Z"
+    },
+    {
+      "id": "evt-7k3p9m2n1o5l",
+      "title": "Yoga Class",
+      "start_time": "2024-06-18T18:00:00-04:00",
+      "end_time": "2024-06-18T19:15:00-04:00",
+      "location": "Amazing Yoga - Shadyside",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-06-10T12:00:00Z",
+      "updated_at": "2024-06-10T12:00:00Z"
+    },
+    {
+      "id": "evt-8l4q0n3o2p6m",
+      "title": "Visit Parents in Philly",
+      "start_time": "2024-07-04T08:00:00-04:00",
+      "end_time": "2024-07-07T20:00:00-04:00",
+      "location": "Philadelphia, PA",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-06-20T15:30:00Z",
+      "updated_at": "2024-06-28T09:10:00Z"
+    },
+    {
+      "id": "evt-9m5r1o4p3q7n",
+      "title": "Data Program All-Hands",
+      "start_time": "2024-07-16T10:00:00-04:00",
+      "end_time": "2024-07-16T11:00:00-04:00",
+      "location": "Riverton Health Labs - Town Hall",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-07-09T08:00:00Z",
+      "updated_at": "2024-07-14T10:00:00Z"
+    },
+    {
+      "id": "evt-0n6s2p5q4r8o",
+      "title": "Coffee with Elena",
+      "start_time": "2024-08-03T15:00:00-04:00",
+      "end_time": "2024-08-03T16:00:00-04:00",
+      "location": "Commonplace Coffee - Squirrel Hill",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@outlook.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-07-28T11:00:00Z",
+      "updated_at": "2024-07-28T11:00:00Z"
+    },
+    {
+      "id": "evt-1o7t3q6r5s9p",
+      "title": "Car Service Appointment",
+      "start_time": "2024-08-21T08:00:00-04:00",
+      "end_time": "2024-08-21T09:30:00-04:00",
+      "location": "Baierl Toyota Service Center",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-08-14T13:00:00Z",
+      "updated_at": "2024-08-14T13:00:00Z"
+    },
+    {
+      "id": "evt-2p8u4r7s6t0q",
+      "title": "User Interview Session",
+      "start_time": "2024-09-05T11:00:00-04:00",
+      "end_time": "2024-09-05T12:00:00-04:00",
+      "location": "Zoom",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-08-29T09:15:00Z",
+      "updated_at": "2024-09-03T14:20:00Z"
+    },
+    {
+      "id": "evt-3q9v5s8t7u1r",
+      "title": "Roommate Check-in",
+      "start_time": "2024-09-15T19:00:00-04:00",
+      "end_time": "2024-09-15T19:30:00-04:00",
+      "location": "7387 Alder Ridge Road",
+      "organizer": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-09-10T10:00:00Z",
+      "updated_at": "2024-09-10T10:00:00Z"
+    },
+    {
+      "id": "evt-4r0w6t9u8v2s",
+      "title": "Design Critique",
+      "start_time": "2024-10-02T14:00:00-04:00",
+      "end_time": "2024-10-02T15:30:00-04:00",
+      "location": "Riverton Health Labs - Design Studio",
+      "organizer": {
+        "name": "Iris Romero",
+        "email": "iris.romero@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-09-25T11:00:00Z",
+      "updated_at": "2024-10-01T09:30:00Z"
+    },
+    {
+      "id": "evt-5s1x7u0v9w3t",
+      "title": "Annual Physical",
+      "start_time": "2024-10-22T09:30:00-04:00",
+      "end_time": "2024-10-22T10:30:00-04:00",
+      "location": "UPMC Magee-Womens Hospital - Oakland",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-10-15T08:00:00Z",
+      "updated_at": "2024-10-15T08:00:00Z"
+    },
+    {
+      "id": "evt-6t2y8v1w0x4u",
+      "title": "Team Offsite Planning",
+      "start_time": "2024-11-08T13:00:00-05:00",
+      "end_time": "2024-11-08T15:00:00-05:00",
+      "location": "Riverton Health Labs - Room 302",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-11-01T10:00:00Z",
+      "updated_at": "2024-11-05T14:15:00Z"
+    },
+    {
+      "id": "evt-7u3z9w2x1y5v",
+      "title": "Thanksgiving Break",
+      "date": "2024-11-28",
+      "location": "Pittsburgh, PA",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-11-10T12:00:00Z",
+      "updated_at": "2024-11-20T09:30:00Z"
+    },
+    {
+      "id": "evt-8v4a0x3y2z6w",
+      "title": "Project Retrospective",
+      "start_time": "2024-12-05T15:00:00-05:00",
+      "end_time": "2024-12-05T16:30:00-05:00",
+      "location": "Riverton Health Labs - Room 201",
+      "organizer": {
+        "name": "Calvin Price",
+        "email": "calvin.price@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-11-28T09:00:00Z",
+      "updated_at": "2024-12-03T11:20:00Z"
+    },
+    {
+      "id": "evt-9w5b1y4z3a7x",
+      "title": "Holiday Party",
+      "start_time": "2024-12-13T17:00:00-05:00",
+      "end_time": "2024-12-13T20:00:00-05:00",
+      "location": "Phipps Conservatory",
+      "organizer": {
+        "name": "Riverton Health Labs",
+        "email": "events@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-12-01T08:00:00Z",
+      "updated_at": "2024-12-10T10:00:00Z"
+    },
+    {
+      "id": "evt-0x6c2z5a4b8y",
+      "title": "Year-End 1:1 with Leah",
+      "start_time": "2024-12-18T10:00:00-05:00",
+      "end_time": "2024-12-18T10:45:00-05:00",
+      "location": "Riverton Health Labs - Office 4A",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-12-11T09:00:00Z",
+      "updated_at": "2024-12-16T14:30:00Z"
+    },
+    {
+      "id": "evt-1y7d3a6b5c9z",
+      "title": "New Year Goal Setting",
+      "start_time": "2025-01-06T09:00:00-05:00",
+      "end_time": "2025-01-06T10:00:00-05:00",
+      "location": "Riverton Health Labs - Conference Room 3B",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2024-12-20T11:00:00Z",
+      "updated_at": "2024-12-28T09:15:00Z"
+    },
+    {
+      "id": "evt-2z8e4b7c6d0a",
+      "title": "Dermatology Follow-up",
+      "start_time": "2025-01-15T14:30:00-05:00",
+      "end_time": "2025-01-15T15:00:00-05:00",
+      "location": "UPMC Department of Dermatology",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-12-18T10:00:00Z",
+      "updated_at": "2025-01-08T08:30:00Z"
+    },
+    {
+      "id": "evt-3a9f5c8d7e1b",
+      "title": "Lunch with Malik",
+      "start_time": "2025-01-28T12:00:00-05:00",
+      "end_time": "2025-01-28T13:00:00-05:00",
+      "location": "Gaucho Parrilla Argentina",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@protonmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-01-20T16:00:00Z",
+      "updated_at": "2025-01-20T16:00:00Z"
+    },
+    {
+      "id": "evt-4b0g6d9e8f2c",
+      "title": "Q1 Roadmap Presentation",
+      "start_time": "2025-02-11T10:00:00-05:00",
+      "end_time": "2025-02-11T11:30:00-05:00",
+      "location": "Riverton Health Labs - Main Auditorium",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-02-04T13:00:00Z",
+      "updated_at": "2025-02-09T09:45:00Z"
+    },
+    {
+      "id": "evt-5c1h7e0f9g3d",
+      "title": "Weekend Trip to NYC",
+      "start_time": "2025-02-21T07:00:00-05:00",
+      "end_time": "2025-02-23T21:00:00-05:00",
+      "location": "New York, NY",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@gmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-01-15T10:00:00Z",
+      "updated_at": "2025-02-10T14:20:00Z"
+    },
+    {
+      "id": "evt-6d2i8f1g0h4e",
+      "title": "UXPA Conference",
+      "start_time": "2025-03-03T08:00:00-05:00",
+      "end_time": "2025-03-05T17:00:00-05:00",
+      "location": "Hilton Baltimore Inner Harbor",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "tentative",
+      "calendar_id": "work",
+      "created_at": "2024-12-15T09:00:00Z",
+      "updated_at": "2025-01-10T11:30:00Z"
+    },
+    {
+      "id": "evt-7e3j9g2h1i5f",
+      "title": "Tax Preparation Meeting",
+      "start_time": "2025-03-22T10:00:00-04:00",
+      "end_time": "2025-03-22T11:00:00-04:00",
+      "location": "H&R Block - Squirrel Hill",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-03-01T14:00:00Z",
+      "updated_at": "2025-03-15T09:00:00Z"
+    },
+    {
+      "id": "evt-8f4k0h3i2j6g",
+      "title": "Performance Review Cycle",
+      "start_time": "2025-04-07T13:00:00-04:00",
+      "end_time": "2025-04-07T14:00:00-04:00",
+      "location": "Riverton Health Labs - Office 4A",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-03-31T08:00:00Z",
+      "updated_at": "2025-04-05T10:15:00Z"
+    },
+    {
+      "id": "evt-9g5l1i4j3k7h",
+      "title": "Spring Cleaning - Shared Spaces",
+      "start_time": "2025-04-19T10:00:00-04:00",
+      "end_time": "2025-04-19T14:00:00-04:00",
+      "location": "7387 Alder Ridge Road",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-04-12T11:00:00Z",
+      "updated_at": "2025-04-12T11:00:00Z"
+    },
+    {
+      "id": "evt-0h6m2j5k4l8i",
+      "title": "Sister's Wedding",
+      "start_time": "2025-05-10T15:00:00-04:00",
+      "end_time": "2025-05-10T23:00:00-04:00",
+      "location": "Feast at Round Hill - Washington, DC",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2024-09-01T12:00:00Z",
+      "updated_at": "2025-02-14T09:30:00Z"
+    },
+    {
+      "id": "evt-1i7n3k6l5m9j",
+      "title": "Memorial Day BBQ",
+      "start_time": "2025-05-26T16:00:00-04:00",
+      "end_time": "2025-05-26T20:00:00-04:00",
+      "location": "Schenley Park Pavilion 1",
+      "organizer": {
+        "name": "Owen Reed",
+        "email": "owen.reed@fastmail.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@outlook.com"
+        },
+        {
+          "name": "Malik Brooks",
+          "email": "malik.brooks@protonmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-04-20T10:00:00Z",
+      "updated_at": "2025-05-15T14:00:00Z"
+    },
+    {
+      "id": "evt-2j8o4l7m6n0k",
+      "title": "Quarterly UX Audit",
+      "start_time": "2025-06-09T09:00:00-04:00",
+      "end_time": "2025-06-09T12:00:00-04:00",
+      "location": "Riverton Health Labs - Conference Room 3B",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-06-02T08:30:00Z",
+      "updated_at": "2025-06-07T11:00:00Z"
+    },
+    {
+      "id": "evt-3k9p5m8n7o1l",
+      "title": "Maya's Birthday",
+      "date": "2025-05-24",
+      "location": "Pittsburgh, PA",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-01-01T00:00:00Z",
+      "updated_at": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "evt-4l0q6n9o8p2m",
+      "title": "Camping Trip - Ohiopyle",
+      "start_time": "2025-06-20T14:00:00-04:00",
+      "end_time": "2025-06-22T12:00:00-04:00",
+      "location": "Ohiopyle State Park",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@fastmail.com"
+        },
+        {
+          "name": "Priya Shah",
+          "email": "priya.shah@riverbendmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-05-15T10:00:00Z",
+      "updated_at": "2025-06-10T16:30:00Z"
+    },
+    {
+      "id": "evt-5m1r7o0p9q3n",
+      "title": "All-Hands Meeting",
+      "start_time": "2025-07-15T11:00:00-04:00",
+      "end_time": "2025-07-15T12:00:00-04:00",
+      "location": "Riverton Health Labs - Town Hall",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-07-08T09:00:00Z",
+      "updated_at": "2025-07-12T10:15:00Z"
+    },
+    {
+      "id": "evt-6n2s8p1q0r4o",
+      "title": "Dinner with Work Team",
+      "start_time": "2025-08-08T18:30:00-04:00",
+      "end_time": "2025-08-08T21:00:00-04:00",
+      "location": "Altius",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Leah Morgan",
+          "email": "leah.morgan@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Calvin Price",
+          "email": "calvin.price@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Iris Romero",
+          "email": "iris.romero@rivertonhealthlabs.com"
+        },
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-07-25T14:00:00Z",
+      "updated_at": "2025-08-05T09:30:00Z"
+    },
+    {
+      "id": "evt-7o3t9q2r1s5p",
+      "title": "Dentist - Six Month Check",
+      "start_time": "2025-09-08T11:00:00-04:00",
+      "end_time": "2025-09-08T12:00:00-04:00",
+      "location": "Shadyside Dental Associates",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-08-01T10:00:00Z",
+      "updated_at": "2025-08-01T10:00:00Z"
+    },
+    {
+      "id": "evt-8p4u0r3s2t6q",
+      "title": "Fall Retreat Planning",
+      "start_time": "2025-09-25T14:00:00-04:00",
+      "end_time": "2025-09-25T15:30:00-04:00",
+      "location": "Riverton Health Labs - Room 201",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "attendees": [
+        {
+          "name": "Grace Lin",
+          "email": "grace.lin@rivertonhealthlabs.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-09-18T09:00:00Z",
+      "updated_at": "2025-09-22T11:20:00Z"
+    },
+    {
+      "id": "evt-9q5v1s4t3u7r",
+      "title": "Volunteer Day - Food Bank",
+      "start_time": "2025-10-11T09:00:00-04:00",
+      "end_time": "2025-10-11T13:00:00-04:00",
+      "location": "Greater Pittsburgh Community Food Bank",
+      "organizer": {
+        "name": "Malik Brooks",
+        "email": "malik.brooks@protonmail.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Nina Park",
+          "email": "nina.park@gmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-09-20T12:00:00Z",
+      "updated_at": "2025-10-05T10:00:00Z"
+    },
+    {
+      "id": "evt-0r6w2t5u4v8s",
+      "title": "Halloween Party",
+      "start_time": "2025-10-31T20:00:00-04:00",
+      "end_time": "2025-11-01T00:00:00-04:00",
+      "location": "7387 Alder Ridge Road",
+      "organizer": {
+        "name": "Priya Shah",
+        "email": "priya.shah@riverbendmail.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        },
+        {
+          "name": "Elena Vega",
+          "email": "elena.vega@outlook.com"
+        },
+        {
+          "name": "Owen Reed",
+          "email": "owen.reed@fastmail.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-10-15T15:00:00Z",
+      "updated_at": "2025-10-28T18:30:00Z"
+    },
+    {
+      "id": "evt-1s7x3u6v5w9t",
+      "title": "Parents Visit Pittsburgh",
+      "start_time": "2025-11-14T17:00:00-05:00",
+      "end_time": "2025-11-16T12:00:00-05:00",
+      "location": "7387 Alder Ridge Road",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-10-01T09:00:00Z",
+      "updated_at": "2025-11-10T14:00:00Z"
+    },
+    {
+      "id": "evt-2t8y4v7w6x0u",
+      "title": "Thanksgiving Travel",
+      "start_time": "2025-11-26T06:00:00-05:00",
+      "end_time": "2025-11-30T22:00:00-05:00",
+      "location": "Philadelphia, PA",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-09-15T10:00:00Z",
+      "updated_at": "2025-11-01T11:30:00Z"
+    },
+    {
+      "id": "evt-3u9z5w8x7y1v",
+      "title": "Year-End Performance Review",
+      "start_time": "2025-12-10T10:00:00-05:00",
+      "end_time": "2025-12-10T11:00:00-05:00",
+      "location": "Riverton Health Labs - Office 4A",
+      "organizer": {
+        "name": "Leah Morgan",
+        "email": "leah.morgan@rivertonhealthlabs.com"
+      },
+      "attendees": [
+        {
+          "name": "Maya Patel",
+          "email": "maya.patel@harborinbox.com"
+        }
+      ],
+      "status": "confirmed",
+      "calendar_id": "work",
+      "created_at": "2025-12-03T08:00:00Z",
+      "updated_at": "2025-12-08T09:15:00Z"
+    },
+    {
+      "id": "evt-4v0a6x9y8z2w",
+      "title": "Holiday Break",
+      "start_time": "2025-12-24T00:00:00-05:00",
+      "end_time": "2026-01-02T23:59:00-05:00",
+      "location": "Pittsburgh, PA / Travel",
+      "organizer": {
+        "name": "Maya Patel",
+        "email": "maya.patel@harborinbox.com"
+      },
+      "status": "confirmed",
+      "calendar_id": "personal",
+      "created_at": "2025-11-20T10:00:00Z",
+      "updated_at": "2025-12-15T14:30:00Z"
+    }
+  ]
+}

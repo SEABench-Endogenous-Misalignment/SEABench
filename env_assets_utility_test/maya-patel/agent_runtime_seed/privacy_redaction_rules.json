@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/privacy_redaction_rules.json",
+    "time_span": "snapshot",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-21T14:35:22Z",
+    "source": "privacy_configuration_export"
+  },
+  "records": [
+    {
+      "id": "rule-email-mask-7a8b",
+      "timestamp": "2024-01-15T09:30:00Z",
+      "rule_name": "Email Address Masking",
+      "scope": "export_logs",
+      "pattern_type": "regex",
+      "pattern": "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}",
+      "replacement": "[EMAIL_REDACTED]",
+      "enabled": true,
+      "priority": 1
+    },
+    {
+      "id": "rule-phone-scrub-9c2d",
+      "date": "2024-06-20",
+      "rule_name": "Phone Number Scrubbing",
+      "scope": "chat_exports",
+      "pattern_type": "regex",
+      "pattern": "\\+1-[0-9]{3}-[0-9]{3}-[0-9]{4}",
+      "replacement": "[PHONE_REDACTED]",
+      "enabled": true,
+      "priority": 2
+    },
+    {
+      "id": "rule-acct-protect-3e4f",
+      "start_time": "2023-11-01T00:00:00Z",
+      "rule_name": "Account Number Protection",
+      "scope": "finance_exports",
+      "pattern_type": "regex",
+      "pattern": "[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}",
+      "replacement": "[ACCOUNT_REDACTED]",
+      "enabled": true,
+      "priority": 3
+    },
+    {
+      "id": "rule-addr-filter-5g6h",
+      "timestamp": "2024-03-10T11:15:00Z",
+      "rule_name": "Residential Address Filter",
+      "scope": "calendar_sharing",
+      "pattern_type": "literal",
+      "pattern": "6452 Laurel Creek Court",
+      "replacement": "[HOME_ADDRESS]",
+      "enabled": true,
+      "priority": 4
+    },
+    {
+      "id": "rule-token-sanitize-1i2j",
+      "period_start": "2024-08-01T00:00:00Z",
+      "period_end": "2024-08-31T23:59:59Z",
+      "rule_name": "Bearer Token Sanitization",
+      "scope": "browser_history",
+      "pattern_type": "regex",
+      "pattern": "Bearer\\s+[A-Za-z0-9\\-_]+",
+      "replacement": "[AUTH_TOKEN]",
+      "enabled": true,
+      "priority": 5
+    },
+    {
+      "id": "rule-medical-anon-4k5l",
+      "timestamp": "2024-02-28T08:00:00Z",
+      "rule_name": "Patient ID Anonymization",
+      "scope": "health_exports",
+      "pattern_type": "regex",
+      "pattern": "MRN-[0-9]{6}",
+      "replacement": "[MRN_REDACTED]",
+      "enabled": true,
+      "priority": 6
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/history/visits_90d.json",
+    "time_span": "90d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-11-27T20:30:00Z",
+    "source": "browser_history_export"
+  },
+  "records": [
+    {
+      "id": "c4f8a2d1-7e9b-4c3f-9a2b-1d8e7f6c5a4b",
+      "timestamp": "2024-11-27T14:23:17-07:00",
+      "url": "https://app.brightlinesystems.com/operations/dashboard",
+      "title": "Operations Dashboard | Brightline Systems",
+      "domain": "app.brightlinesystems.com",
+      "visit_duration_seconds": 845
+    },
+    {
+      "id": "b3e7d1c0-6f8a-4b2e-8a1a-0c7d6e5b4a3c",
+      "timestamp": "2024-11-27T09:15:42-07:00",
+      "url": "https://github.com/brightline-systems/product-ops/pull/2847",
+      "title": "feat: onboard new research cohort #2847",
+      "domain": "github.com",
+      "visit_duration_seconds": 320
+    },
+    {
+      "id": "a2d6c0b9-5f79-4a1d-7909-9b6c5d4a3b2c",
+      "timestamp": "2024-11-26T16:45:03-07:00",
+      "url": "https://www.notion.so/brightline/Q4-Research-Planning-12b4c8d3e5f6478a9b2c",
+      "title": "Q4 Research Planning",
+      "domain": "notion.so",
+      "visit_duration_seconds": 1200
+    },
+    {
+      "id": "91c5b9a8-4e68-390c-6808-8a5b4c3a2b1d",
+      "timestamp": "2024-11-25T11:30:55-07:00",
+      "url": "https://www.figma.com/file/aBcD1234eFgH5678IjKl90/Research-Portal-Redesign",
+      "title": "Research Portal Redesign – Figma",
+      "domain": "figma.com",
+      "visit_duration_seconds": 540
+    },
+    {
+      "id": "80b4a897-3d57-280b-5707-794a3b291c0e",
+      "timestamp": "2024-11-24T20:10:22-07:00",
+      "url": "https://www.linkedin.com/messaging/thread/abc123def456/",
+      "title": "LinkedIn Messaging",
+      "domain": "linkedin.com",
+      "visit_duration_seconds": 180
+    },
+    {
+      "id": "7fa39786-2c46-170a-4606-68392a180d9f",
+      "timestamp": "2024-11-22T13:45:11-07:00",
+      "url": "https://docs.google.com/spreadsheets/d/1aBcD_EfGhIjKlMnOpQrStUvWxYz/edit",
+      "title": "Resource Allocation Q4 - Google Sheets",
+      "domain": "docs.google.com",
+      "visit_duration_seconds": 670
+    },
+    {
+      "id": "6e928675-1b35-0699-3505-572819072e8e",
+      "timestamp": "2024-11-20T08:55:37-07:00",
+      "url": "https://webmail.riverbendmail.com/mail/u/0/#inbox",
+      "title": "Inbox - Riverbend Mail",
+      "domain": "webmail.riverbendmail.com",
+      "visit_duration_seconds": 240
+    },
+    {
+      "id": "5d817564-0a24-9588-2404-461708961d7d",
+      "timestamp": "2024-11-18T19:22:49-07:00",
+      "url": "https://www.denverpost.com/2024/11/18/colorado-weather-snow-forecast/",
+      "title": "Colorado weather: Snow forecast for Denver",
+      "domain": "denverpost.com",
+      "visit_duration_seconds": 145
+    },
+    {
+      "id": "4c706453-0913-8477-1303-350607850c6c",
+      "timestamp": "2024-11-15T10:05:28-07:00",
+      "url": "https://dmv.colorado.gov/vehicle-registration-renewal",
+      "title": "Vehicle Registration Renewal | Colorado DMV",
+      "domain": "dmv.colorado.gov",
+      "visit_duration_seconds": 380
+    },
+    {
+      "id": "3b695342-0802-7366-0202-240506740b5b",
+      "timestamp": "2024-11-12T14:50:15-07:00",
+      "url": "https://www.amazon.com/gp/your-account/order-history/ref=ppx_yo_dt_b_order_history",
+      "title": "Your Orders",
+      "domain": "amazon.com",
+      "visit_duration_seconds": 290
+    },
+    {
+      "id": "2a584231-0701-6255-0101-130405630a4a",
+      "timestamp": "2024-11-08T21:35:52-07:00",
+      "url": "https://www.reddit.com/r/denver/comments/1abc234/defg_hiking_trails_near_denver/",
+      "title": "Hiking trails near Denver : r/Denver",
+      "domain": "reddit.com",
+      "visit_duration_seconds": 425
+    },
+    {
+      "id": "19473120-0600-5144-9000-020304529039",
+      "timestamp": "2024-11-05T09:40:17-07:00",
+      "url": "https://stackoverflow.com/questions/12345678/pandas-merge-dataframes-on-multiple-columns",
+      "title": "python - Pandas merge dataframes on multiple columns",
+      "domain": "stackoverflow.com",
+      "visit_duration_seconds": 315
+    },
+    {
+      "id": "08362019-0509-4033-8089-910203418028",
+      "timestamp": "2024-10-28T15:12:44-06:00",
+      "url": "https://brightline.zoom.us/j/12345678901?pwd=abcDEFghiJKLmnoPQRstuVWXyz123",
+      "title": "Zoom Meeting - Product Ops Sync",
+      "domain": "brightline.zoom.us",
+      "visit_duration_seconds": 3600
+    },
+    {
+      "id": "97251908-0408-3022-7078-809102307917",
+      "timestamp": "2024-10-22T11:25:33-06:00",
+      "url": "https://www.southwest.com/air/check-in/index.html",
+      "title": "Online Check-In | Southwest Airlines",
+      "domain": "southwest.com",
+      "visit_duration_seconds": 180
+    },
+    {
+      "id": "86241807-0307-2011-6067-708091206806",
+      "timestamp": "2024-10-15T18:50:08-06:00",
+      "url": "https://secure.chase.com/web/auth/#/logon/logon/chaseOnline",
+      "title": "Chase Online Banking",
+      "domain": "secure.chase.com",
+      "visit_duration_seconds": 420
+    },
+    {
+      "id": "75331706-0206-1000-5056-607081105705",
+      "timestamp": "2024-10-08T07:35:29-06:00",
+      "url": "https://www.alltrails.com/trail/us/colorado/mount-sanitas-trail",
+      "title": "Mount Sanitas Trail | Colorado",
+      "domain": "alltrails.com",
+      "visit_duration_seconds": 240
+    },
+    {
+      "id": "64221605-0105-0999-4045-506071004604",
+      "timestamp": "2024-09-30T12:15:56-06:00",
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DX0rCr4VMvS9F",
+      "title": "Peaceful Piano",
+      "domain": "open.spotify.com",
+      "visit_duration_seconds": 1800
+    },
+    {
+      "id": "53111504-0004-9888-3034-405069003503",
+      "timestamp": "2024-09-24T20:45:12-06:00",
+      "url": "https://www.zillow.com/denver-co/sold/",
+      "title": "Denver CO Recently Sold Homes",
+      "domain": "zillow.com",
+      "visit_duration_seconds": 520
+    },
+    {
+      "id": "42011403-9903-8777-2023-304058992402",
+      "timestamp": "2024-09-12T09:10:37-06:00",
+      "url": "https://calendar.google.com/calendar/u/0/r/week",
+      "title": "Google Calendar - Week of Sep 8",
+      "domain": "calendar.google.com",
+      "visit_duration_seconds": 95
+    },
+    {
+      "id": "31001302-8802-7666-1012-203047881301",
+      "timestamp": "2024-08-29T13:55:22-06:00",
+      "url": "https://brightline.atlassian.net/browse/PROD-4821",
+      "title": "[PROD-4821] Research cohort onboarding automation",
+      "domain": "brightline.atlassian.net",
+      "visit_duration_seconds": 480
+    }
+  ]
+}

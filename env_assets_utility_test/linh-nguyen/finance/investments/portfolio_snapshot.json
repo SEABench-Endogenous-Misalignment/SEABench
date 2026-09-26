@@ -1,0 +1,264 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/investments/portfolio_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-27T23:45:17Z",
+    "source": "portfolio_sync"
+  },
+  "records": [
+    {
+      "id": "port-8845213-20241127",
+      "account_id": "···8845213",
+      "account_name": "Brightline Systems 401(k)",
+      "institution": "Fidelity Investments",
+      "account_type": "401k",
+      "ownership_type": "Individual",
+      "owner": "Linh Nguyen",
+      "timestamp": "2024-11-27T16:30:00-07:00",
+      "currency": "USD",
+      "total_value": 147325.5,
+      "market_value": 145100.25,
+      "cash_balance": 2225.25,
+      "holdings_count": 4,
+      "ytd_return_percent": 18.4,
+      "holdings": [
+        {
+          "symbol": "FXAIX",
+          "description": "Fidelity 500 Index Fund",
+          "quantity": 450.529,
+          "current_price": 198.21,
+          "market_value": 89300.4,
+          "allocation_percent": 60.6
+        },
+        {
+          "symbol": "FSKAX",
+          "description": "Fidelity Total Market Index Fund",
+          "quantity": 215.84,
+          "current_price": 128.45,
+          "market_value": 27724.65,
+          "allocation_percent": 18.8
+        },
+        {
+          "symbol": "FXNAX",
+          "description": "Fidelity US Bond Index Fund",
+          "quantity": 380.1,
+          "current_price": 12.8,
+          "market_value": 4865.28,
+          "allocation_percent": 3.3
+        },
+        {
+          "symbol": "BRST",
+          "description": "Brightline Systems Common Stock",
+          "quantity": 125,
+          "current_price": 184.5,
+          "market_value": 23062.5,
+          "allocation_percent": 15.7
+        }
+      ]
+    },
+    {
+      "id": "port-2910567-20241127",
+      "account_id": "···2910567",
+      "account_name": "Roth IRA",
+      "institution": "Vanguard",
+      "account_type": "Roth IRA",
+      "ownership_type": "Individual",
+      "owner": "Linh Nguyen",
+      "timestamp": "2024-11-27T16:30:00-07:00",
+      "currency": "USD",
+      "total_value": 68240.25,
+      "market_value": 68240.25,
+      "cash_balance": 0,
+      "holdings_count": 3,
+      "ytd_return_percent": 16.8,
+      "holdings": [
+        {
+          "symbol": "VTI",
+          "description": "Vanguard Total Stock Market ETF",
+          "quantity": 185,
+          "current_price": 284.32,
+          "market_value": 52599.2,
+          "allocation_percent": 77.1
+        },
+        {
+          "symbol": "VXUS",
+          "description": "Vanguard Total International Stock ETF",
+          "quantity": 280,
+          "current_price": 53.15,
+          "market_value": 14882,
+          "allocation_percent": 21.8
+        },
+        {
+          "symbol": "BND",
+          "description": "Vanguard Total Bond Market ETF",
+          "quantity": 8,
+          "current_price": 72.38,
+          "market_value": 579.04,
+          "allocation_percent": 0.8
+        }
+      ]
+    },
+    {
+      "id": "port-7789021-20241127",
+      "account_id": "···7789021",
+      "account_name": "Individual Taxable Account",
+      "institution": "Charles Schwab",
+      "account_type": "Taxable",
+      "ownership_type": "Individual",
+      "owner": "Linh Nguyen",
+      "timestamp": "2024-11-27T16:30:00-07:00",
+      "currency": "USD",
+      "total_value": 45210.8,
+      "market_value": 44850,
+      "cash_balance": 360.8,
+      "holdings_count": 3,
+      "ytd_return_percent": 12.3,
+      "holdings": [
+        {
+          "symbol": "SCHD",
+          "description": "Schwab US Dividend Equity ETF",
+          "quantity": 310,
+          "current_price": 28.45,
+          "market_value": 8819.5,
+          "allocation_percent": 19.5
+        },
+        {
+          "symbol": "AAPL",
+          "description": "Apple Inc.",
+          "quantity": 85,
+          "current_price": 229.87,
+          "market_value": 19538.95,
+          "allocation_percent": 43.2
+        },
+        {
+          "symbol": "MSFT",
+          "description": "Microsoft Corporation",
+          "quantity": 45,
+          "current_price": 423.46,
+          "market_value": 19055.7,
+          "allocation_percent": 42.1
+        }
+      ]
+    },
+    {
+      "id": "port-2234876-20241127",
+      "account_id": "···2234876",
+      "account_name": "Health Savings Account",
+      "institution": "HealthEquity",
+      "account_type": "HSA",
+      "ownership_type": "Individual",
+      "owner": "Linh Nguyen",
+      "timestamp": "2024-11-27T16:30:00-07:00",
+      "currency": "USD",
+      "total_value": 18550,
+      "market_value": 14200,
+      "cash_balance": 4350,
+      "holdings_count": 2,
+      "ytd_return_percent": 8.5,
+      "holdings": [
+        {
+          "symbol": "VFIAX",
+          "description": "Vanguard 500 Index Fund Admiral Shares",
+          "quantity": 25.5,
+          "current_price": 431.37,
+          "market_value": 11000,
+          "allocation_percent": 59.3
+        },
+        {
+          "symbol": "VTSAX",
+          "description": "Vanguard Total Stock Market Index Fund Admiral",
+          "quantity": 20,
+          "current_price": 160,
+          "market_value": 3200,
+          "allocation_percent": 17.3
+        }
+      ]
+    },
+    {
+      "id": "port-9901234-20241127",
+      "account_id": "···9901234",
+      "account_name": "Joint Brokerage Account",
+      "institution": "Vanguard",
+      "account_type": "Taxable",
+      "ownership_type": "Joint",
+      "owners": [
+        "Linh Nguyen",
+        "Leah Morgan"
+      ],
+      "timestamp": "2024-11-27T16:30:00-07:00",
+      "currency": "USD",
+      "total_value": 128900,
+      "market_value": 128400,
+      "cash_balance": 500,
+      "holdings_count": 4,
+      "ytd_return_percent": 14.7,
+      "holdings": [
+        {
+          "symbol": "VTWAX",
+          "description": "Vanguard Total World Stock Index Fund Admiral",
+          "quantity": 1850,
+          "current_price": 35.5,
+          "market_value": 65675,
+          "allocation_percent": 50.9
+        },
+        {
+          "symbol": "VBTLX",
+          "description": "Vanguard Total Bond Market Index Fund Admiral",
+          "quantity": 1250,
+          "current_price": 9.8,
+          "market_value": 12250,
+          "allocation_percent": 9.5
+        },
+        {
+          "symbol": "VTABX",
+          "description": "Vanguard Total International Bond Index Fund Admiral",
+          "quantity": 950,
+          "current_price": 21.5,
+          "market_value": 20425,
+          "allocation_percent": 15.8
+        },
+        {
+          "symbol": "VGSLX",
+          "description": "Vanguard Real Estate Index Fund Admiral",
+          "quantity": 125,
+          "current_price": 40,
+          "market_value": 5000,
+          "allocation_percent": 3.9
+        }
+      ]
+    },
+    {
+      "id": "port-espp-4457721-20241127",
+      "account_id": "ESPP-445-7721",
+      "account_name": "Brightline Systems ESPP",
+      "institution": "Morgan Stanley at Work",
+      "account_type": "ESPP",
+      "ownership_type": "Individual",
+      "owner": "Linh Nguyen",
+      "timestamp": "2024-11-27T16:30:00-07:00",
+      "currency": "USD",
+      "total_value": 8450,
+      "market_value": 8450,
+      "cash_balance": 0,
+      "holdings_count": 1,
+      "ytd_return_percent": 22.5,
+      "contribution_period": "H2 2024",
+      "purchase_date": "2024-06-30",
+      "purchase_price": 150.75,
+      "current_price": 184.5,
+      "shares": 45.77,
+      "holdings": [
+        {
+          "symbol": "BLSYS",
+          "description": "Brightline Systems Inc. Common Stock",
+          "quantity": 45.77,
+          "current_price": 184.5,
+          "market_value": 8444.57,
+          "allocation_percent": 100
+        }
+      ]
+    }
+  ]
+}

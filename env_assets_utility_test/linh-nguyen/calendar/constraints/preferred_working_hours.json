@@ -1,0 +1,97 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/preferred_working_hours.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "cstr-7f4e9d2a",
+      "label": "Standard Weekday Availability",
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday"
+      ],
+      "start_time": "09:00:00",
+      "end_time": "17:00:00",
+      "timezone": "America/New_York",
+      "date": "2024-01-15",
+      "priority": "high"
+    },
+    {
+      "id": "cstr-8g5f0e3b",
+      "label": "Friday Summer Hours",
+      "days": [
+        "friday"
+      ],
+      "start_time": "09:00:00",
+      "end_time": "15:00:00",
+      "timezone": "America/New_York",
+      "date": "2024-06-01",
+      "priority": "medium"
+    },
+    {
+      "id": "cstr-2h1i4j7k",
+      "label": "Daily Lunch Protection",
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "start_time": "12:00:00",
+      "end_time": "13:00:00",
+      "timezone": "America/New_York",
+      "date": "2024-01-15",
+      "priority": "medium"
+    },
+    {
+      "id": "cstr-9l2m5n8o",
+      "label": "Deep Work Blocks",
+      "days": [
+        "monday",
+        "wednesday"
+      ],
+      "start_time": "09:00:00",
+      "end_time": "11:00:00",
+      "timezone": "America/New_York",
+      "date": "2024-09-10",
+      "priority": "high"
+    },
+    {
+      "id": "cstr-3p6q9r1s",
+      "label": "Team Sync Preferred",
+      "days": [
+        "tuesday",
+        "thursday"
+      ],
+      "start_time": "14:00:00",
+      "end_time": "16:00:00",
+      "timezone": "America/New_York",
+      "date": "2024-09-10",
+      "priority": "medium"
+    },
+    {
+      "id": "cstr-4t7u0v2w",
+      "label": "Evening Transition",
+      "days": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "start_time": "17:00:00",
+      "end_time": "17:30:00",
+      "timezone": "America/New_York",
+      "date": "2024-03-15",
+      "priority": "low"
+    }
+  ]
+}

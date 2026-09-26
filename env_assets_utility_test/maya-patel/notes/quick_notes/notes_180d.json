@@ -1,0 +1,322 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/quick_notes/notes_180d.json",
+    "time_span": "180d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-10-20T18:30:00Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "note_a7f3k9m2p5q8",
+      "timestamp": "2024-04-21T14:30:00-04:00",
+      "title": "Design tokens sync",
+      "content": "Notes from sync with Grace about component library updates. Need to finalize color palette for dark mode before next sprint. Check contrast ratios against WCAG 2.1 AA standards.",
+      "tags": [
+        "work",
+        "design-system",
+        "brightline"
+      ],
+      "source_device": "MacBook Pro",
+      "location": "Pittsburgh, PA"
+    },
+    {
+      "id": "note_b8g4l0n3r6s9",
+      "timestamp": "2024-04-23T18:45:00-04:00",
+      "title": "Grocery run",
+      "content": "Milk, eggs, sourdough bread from Allegro Hearth, avocados, Ethiopian coffee beans, oat milk for Nina.",
+      "tags": [
+        "household",
+        "shopping"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_c9h5m1o4t7u0",
+      "timestamp": "2024-04-25T11:15:00-04:00",
+      "title": "Acme Corp feedback",
+      "content": "Feedback from Leah - they love the new typography scale and spacing system. Client mentioned the dashboard feels 'more breathable.' Need to share metrics with Iris for the case study.",
+      "tags": [
+        "work",
+        "client-strategy"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_d0i6n2p5v8w1",
+      "timestamp": "2024-05-02T09:20:00-04:00",
+      "title": "Coffee meeting spot",
+      "content": "Check out Adda Coffee in Lawrenceville for meeting with Malik next week. Good wifi and quiet corners for discussing the side project.",
+      "tags": [
+        "personal",
+        "pittsburgh"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_e1j7o3q6x9y2",
+      "timestamp": "2024-05-08T07:30:00-04:00",
+      "title": "HVAC maintenance",
+      "content": "Schedule HVAC maintenance before summer heat hits. Call Dominick's - last serviced in October. Filter size: 16x25x4.",
+      "tags": [
+        "household",
+        "maintenance"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_f2k8p4r7z0a3",
+      "timestamp": "2024-05-12T16:45:00-04:00",
+      "title": "CSS grid fix",
+      "content": "Snippet for dashboard layout overflow: display: grid; grid-template-columns: 240px 1fr; min-height: 100vh; overflow-x: hidden;",
+      "tags": [
+        "work",
+        "code"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_g3l9q5s8b1c4",
+      "timestamp": "2024-05-15T20:10:00-04:00",
+      "title": "Book rec from Priya",
+      "content": "Priya recommended 'The Design of Everyday Things' by Don Norman. Check Carnegie Library availability or pick up at Riverstone Books.",
+      "tags": [
+        "personal",
+        "reading"
+      ],
+      "source_device": "iPad Pro"
+    },
+    {
+      "id": "note_h4m0r6t9d2e5",
+      "timestamp": "2024-05-20T08:45:00-04:00",
+      "title": "Q3 roadmap prep",
+      "content": "Prep questions for roadmap review with Calvin and Iris. Key topics: resource allocation for MetroHealth onboarding, design system education series timeline.",
+      "tags": [
+        "work",
+        "planning"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_i5n1s7u0f3g6",
+      "timestamp": "2024-05-28T21:00:00-04:00",
+      "title": "July 4th weekend",
+      "content": "Look into cabins in Deep Creek Lake for July 4th weekend. Owen and Elena interested in joining. Check availability near Oakland or McHenry.",
+      "tags": [
+        "personal",
+        "travel"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_j6o2t8v1g4h7",
+      "timestamp": "2024-06-03T13:20:00-04:00",
+      "title": "Mobile nav mockups",
+      "content": "Figma link: final mockups for mobile navigation refactor. Resolved hamburger vs tab bar debate - going with bottom tab bar for thumb reachability. Share with engineering team.",
+      "tags": [
+        "work",
+        "figma"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_k7p3u9w2h5i8",
+      "timestamp": "2024-06-08T10:15:00-04:00",
+      "title": "IKEA list",
+      "content": "New desk lamp for office, KUGGIS storage bins for pantry organization, RIBBA frames for hallway gallery wall. Check inventory at Robinson Township location.",
+      "tags": [
+        "household",
+        "shopping"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_l8q4v0x3i6j9",
+      "timestamp": "2024-06-14T19:30:00-04:00",
+      "title": "Dinner at Morcilla",
+      "content": "Anniversary dinner with Nina was perfect. The patatas bravas and gambas al ajillo were standouts. Make reservation for her birthday in October.",
+      "tags": [
+        "personal",
+        "restaurants"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_m9r5w1y4j7k0",
+      "timestamp": "2024-06-19T09:45:00-04:00",
+      "title": "Standup action items",
+      "content": "1. Update design tokens documentation with new semantic colors 2. Sync with engineering on dark mode rollout timeline 3. Review Leah's feedback on the client portal redesign",
+      "tags": [
+        "work",
+        "tasks"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_n0s6x2z5k8l1",
+      "timestamp": "2024-06-25T15:30:00-04:00",
+      "title": "Plant care app idea",
+      "content": "App idea for tracking plant watering schedule with visual indicators. Wireframe this weekend. Features: photo logging, fertilizing reminders, light level tracking.",
+      "tags": [
+        "personal",
+        "ideas"
+      ],
+      "source_device": "iPad Pro"
+    },
+    {
+      "id": "note_o1t7y3a6l9m2",
+      "timestamp": "2024-07-02T12:00:00-04:00",
+      "title": "Nina's birthday gift",
+      "content": "Nina mentioned wanting a ceramic pour-over set from Commonplace Coffee in Squirrel Hill. Also check local pottery studios - maybe something from Union Project?",
+      "tags": [
+        "household",
+        "gifts"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_p2u8z4b7m0n3",
+      "timestamp": "2024-07-09T14:00:00-00",
+      "title": "TechFlow accessibility",
+      "content": "Call with TechFlow Industries - they need accessibility audit completed by Aug 15. Schedule screen reader testing sessions with Calvin. Priority: navigation and form labels.",
+      "tags": [
+        "work",
+        "a11y"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_q3v9a5c8n1o4",
+      "timestamp": "2024-07-15T18:00:00-04:00",
+      "title": "Garden update",
+      "content": "Cherry tomatoes and heirlooms doing well in the raised beds. Remember to fertilize Saturday morning. Japanese beetles spotted on pole beans - pick off by hand.",
+      "tags": [
+        "household",
+        "garden"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_r4w0b6d9o2p5",
+      "timestamp": "2024-07-22T21:15:00-04:00",
+      "title": "Hiking plan",
+      "content": "Owen suggested hiking McConnell's Mill State Park next Saturday. Check weather and trail conditions. Bring trekking poles for the gorge sections.",
+      "tags": [
+        "personal",
+        "outdoors"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_s5x1c7e0p3q6",
+      "timestamp": "2024-07-29T11:30:00-04:00",
+      "title": "DS Pittsburgh slides",
+      "content": "Draft slides for Design Systems Pittsburgh meetup. Focus: token architecture and semantic naming conventions. Case study from Brightline's component library migration.",
+      "tags": [
+        "work",
+        "speaking"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_t6y2d8f1q4r7",
+      "timestamp": "2024-08-05T16:20:00-04:00",
+      "title": "Philly hotel",
+      "content": "Confirmation HK89234 for work trip Aug 20-22. Hotel Monaco, 433 Chestnut St. Check-in 3pm. Add to calendar and share with Nina.",
+      "tags": [
+        "travel",
+        "work"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_u7z3e9g2r5s8",
+      "timestamp": "2024-08-12T19:45:00-04:00",
+      "title": "Book club",
+      "content": "Thursday book club with Priya and Elena. Discussing 'Tomorrow, and Tomorrow, and Tomorrow.' Need to finish Part 3. Location: Priya's place in Shadyside.",
+      "tags": [
+        "personal",
+        "reading"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_v8f4h0i3s6t9",
+      "timestamp": "2024-08-18T10:00:00-04:00",
+      "title": "Component library feedback",
+      "content": "Grace suggested adding loading state examples and empty states to the component library. Also need skeleton screen patterns for the data tables.",
+      "tags": [
+        "work",
+        "design-system"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_w9g5j1k4t7u0",
+      "timestamp": "2024-08-25T09:30:00-04:00",
+      "title": "Garage door squeak",
+      "content": "Garage door squeaking on the left track. Try lubricating with white lithium grease first. If that doesn't work, call Precision Door Service. Model: LiftMaster 8365.",
+      "tags": [
+        "household",
+        "maintenance"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_x0h6l2m5u8v1",
+      "timestamp": "2024-09-01T13:00:00-04:00",
+      "title": "The National concert",
+      "content": "Tickets for The National at Stage AE on Sept 28 secured. Malik wants to go too. Doors at 7pm, show at 8pm. Check if Calvin and Grace want to join.",
+      "tags": [
+        "personal",
+        "music"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_y1i7n3o6v9w2",
+      "timestamp": "2024-09-08T15:45:00-04:00",
+      "title": "Q4 priorities",
+      "content": "Q4 planning session notes: 1. Finalize design system v2.0 release 2. Onboard new client MetroHealth 3. Hire junior designer - post job description by Sept 15",
+      "tags": [
+        "work",
+        "planning"
+      ],
+      "source_device": "MacBook Pro"
+    },
+    {
+      "id": "note_z2j8p4q7w0x3",
+      "timestamp": "2024-09-15T17:30:00-04:00",
+      "title": "Nina's pasta recipe",
+      "content": "Save to Notion: 2 cloves garlic minced, pint cherry tomatoes halved, fresh basil, pecorino romano. Sauté garlic in olive oil, add tomatoes until jammy, toss with fresh pasta.",
+      "tags": [
+        "household",
+        "recipes"
+      ],
+      "source_device": "iPad Pro"
+    },
+    {
+      "id": "note_a3k9r5s8x1y4",
+      "timestamp": "2024-09-22T20:00:00-04:00",
+      "title": "Saturday plans",
+      "content": "Morning: Strip District farmers market for produce and coffee. Afternoon: De Fer Coffee with Calvin to discuss Q4 goals. Evening: dinner prep with Nina.",
+      "tags": [
+        "personal",
+        "weekend"
+      ],
+      "source_device": "iPhone 14"
+    },
+    {
+      "id": "note_b4l0t6u9y2z5",
+      "timestamp": "2024-10-10T14:30:00-04:00",
+      "title": "Team retro notes",
+      "content": "Retro with Client Strategy team. What went well: pattern library adoption exceeded 80% usage, workshop format was effective. Needs improvement: handoff documentation, Figma organization.",
+      "tags": [
+        "work",
+        "retro"
+      ],
+      "source_device": "MacBook Pro"
+    }
+  ]
+}

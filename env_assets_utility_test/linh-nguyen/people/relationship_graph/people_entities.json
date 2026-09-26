@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/relationship_graph/people_entities.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-07-15T18:30:00Z",
+    "source": "contact_graph_export"
+  },
+  "records": [
+    {
+      "id": "usr_8f3a9c2b-1d4e-4f5a-9b7c-6d8e2f1a3b5c",
+      "full_name": "Linh Nguyen",
+      "display_name": "Linh",
+      "email_personal": "linh.nguyen@riverbendmail.com",
+      "email_work": "linh.nguyen@riverbendmail.com",
+      "phone_mobile": "+1-412-795-6129",
+      "relationship_to_primary": "self",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "employer": "Atlas Civic Partners",
+      "timestamp": "2023-01-15T09:30:00Z"
+    },
+    {
+      "id": "cnt_7b2d4e6f-8a9b-4c1d-2e3f-4a5b6c7d8e9f",
+      "full_name": "Iris Romero",
+      "relationship_to_primary": "sibling",
+      "email": "iris.romero@meadowmail.co",
+      "phone_mobile": "+1-412-633-6256",
+      "employer": "Atlas Civic Partners",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "date": "2022-08-10"
+    },
+    {
+      "id": "cnt_3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "full_name": "Nina Park",
+      "relationship_to_primary": "close_friend",
+      "email": "nina.park@riveroak.net",
+      "phone_mobile": "+1-503-284-9127",
+      "city": "Portland",
+      "state": "OR",
+      "timestamp": "2021-03-22T11:15:00Z"
+    },
+    {
+      "id": "cnt_9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+      "full_name": "Owen Reed",
+      "relationship_to_primary": "close_friend",
+      "email": "owen.reed@posteo.net",
+      "phone_mobile": "+1-617-284-7731",
+      "employer": "Blueloom Consulting",
+      "city": "Boston",
+      "state": "MA",
+      "start_time": "2020-11-05T14:20:00Z"
+    },
+    {
+      "id": "cnt_1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "full_name": "Leah Morgan",
+      "relationship_to_primary": "work_contact",
+      "email": "leah.morgan@atlascivicpartners.com",
+      "phone_mobile": "+1-412-331-8894",
+      "department": "Urban Analytics",
+      "employer": "Atlas Civic Partners",
+      "timestamp": "2023-09-05T08:20:00Z"
+    },
+    {
+      "id": "cnt_4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+      "full_name": "Grace Lin",
+      "relationship_to_primary": "work_contact",
+      "email": "grace.lin@atlascivicpartners.com",
+      "phone_mobile": "+1-412-628-4451",
+      "department": "Data Infrastructure",
+      "employer": "Atlas Civic Partners",
+      "end_time": "2024-07-12T10:15:00Z"
+    }
+  ]
+}

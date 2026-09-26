@@ -1,0 +1,129 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/desktop_snapshot_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-29T14:35:22Z"
+  },
+  "records": [
+    {
+      "id": "file_dsk_001",
+      "filename": "Q2_Budget_Review.xlsx",
+      "type": "spreadsheet",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T09:15:00Z",
+      "size_kb": 450,
+      "source_app": "excel"
+    },
+    {
+      "id": "file_dsk_002",
+      "filename": "events_past_12m_future_6m.json",
+      "type": "json_export",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T16:00:00Z",
+      "size_kb": 120,
+      "source_app": "calendar",
+      "period_start": "2026-05-25",
+      "period_end": "2026-06-25"
+    },
+    {
+      "id": "file_dsk_003",
+      "filename": "Weekend_Hike_Photo.jpg",
+      "type": "image",
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T08:45:30Z",
+      "size_kb": 3500,
+      "source_app": "photos"
+    },
+    {
+      "id": "file_dsk_004",
+      "filename": "Bank_Statement_May2026.pdf",
+      "type": "pdf",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T10:30:00Z",
+      "period_start": "2026-05-01",
+      "period_end": "2026-05-31",
+      "size_kb": 890,
+      "source_app": "banking"
+    },
+    {
+      "id": "file_dsk_005",
+      "filename": "Project_Alpha_Notes.md",
+      "type": "markdown",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T14:22:00Z",
+      "size_kb": 15,
+      "source_app": "notes"
+    },
+    {
+      "id": "file_dsk_006",
+      "filename": "workouts_12m.json",
+      "type": "json_export",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T07:00:00Z",
+      "period_start": "2026-05-20",
+      "period_end": "2026-06-20",
+      "size_kb": 280,
+      "source_app": "fitness"
+    },
+    {
+      "id": "file_dsk_007",
+      "filename": "Flight_Receipt_SFO_NYC.pdf",
+      "type": "pdf",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T13:45:00Z",
+      "size_kb": 245,
+      "source_app": "email_client"
+    },
+    {
+      "id": "file_dsk_008",
+      "filename": "threads_180d.json",
+      "type": "json_export",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T20:00:00Z",
+      "period_start": "2026-05-22",
+      "period_end": "2026-06-22",
+      "size_kb": 5600,
+      "source_app": "email_client"
+    },
+    {
+      "id": "file_dsk_009",
+      "filename": "Q3_Planning_Draft.pptx",
+      "type": "presentation",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T16:45:00Z",
+      "size_kb": 2100,
+      "source_app": "powerpoint"
+    },
+    {
+      "id": "file_dsk_010",
+      "filename": "Insurance_Docs_2026.zip",
+      "type": "archive",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T11:00:00Z",
+      "size_kb": 15000,
+      "source_app": "file_system"
+    },
+    {
+      "id": "file_dsk_011",
+      "filename": "transactions_24m.json",
+      "type": "json_export",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T08:30:00Z",
+      "period_start": "2026-04-01",
+      "period_end": "2026-06-29",
+      "size_kb": 85,
+      "source_app": "banking"
+    },
+    {
+      "id": "file_dsk_012",
+      "filename": "meeting_notes_365d.json",
+      "type": "json_export",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T06:00:00Z",
+      "size_kb": 45,
+      "source_app": "notes"
+    }
+  ]
+}

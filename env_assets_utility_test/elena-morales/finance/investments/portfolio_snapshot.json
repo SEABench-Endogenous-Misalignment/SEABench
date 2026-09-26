@@ -1,0 +1,174 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "finance/investments/portfolio_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-07-22T23:15:00Z",
+    "source": "portfolio_sync_export"
+  },
+  "records": [
+    {
+      "id": "774829104",
+      "timestamp": "2024-07-22T20:00:00Z",
+      "account_type": "401k",
+      "account_name": "Cedar Grove Studio 401k",
+      "institution": "Fidelity Investments",
+      "owner": "Elena Morales",
+      "balance": 124750.42,
+      "currency": "USD",
+      "holdings": [
+        {
+          "symbol": "FXAIX",
+          "name": "Fidelity 500 Index Fund",
+          "shares": 450.5,
+          "value": 55211.25
+        },
+        {
+          "symbol": "FTIHX",
+          "name": "Fidelity Total International Index Fund",
+          "shares": 1200.0,
+          "value": 31200.0
+        },
+        {
+          "symbol": "FXNAX",
+          "name": "Fidelity US Bond Index Fund",
+          "shares": 380.2,
+          "value": 38339.17
+        }
+      ]
+    },
+    {
+      "id": "48394721",
+      "timestamp": "2024-07-22T20:00:00Z",
+      "account_type": "Roth IRA",
+      "account_name": "Elena Morales Roth IRA",
+      "institution": "The Vanguard Group",
+      "owner": "Elena Morales",
+      "balance": 45230.18,
+      "currency": "USD",
+      "holdings": [
+        {
+          "symbol": "VTI",
+          "name": "Vanguard Total Stock Market ETF",
+          "shares": 85.5,
+          "value": 22110.45
+        },
+        {
+          "symbol": "VXUS",
+          "name": "Vanguard Total International Stock ETF",
+          "shares": 95.2,
+          "value": 10512.58
+        },
+        {
+          "symbol": "BND",
+          "name": "Vanguard Total Bond Market ETF",
+          "shares": 125.0,
+          "value": 12607.15
+        }
+      ]
+    },
+    {
+      "id": "66182945",
+      "timestamp": "2024-07-22T20:00:00Z",
+      "account_type": "Taxable Brokerage",
+      "account_name": "Elena Morales Brokerage",
+      "institution": "Charles Schwab",
+      "owner": "Elena Morales",
+      "balance": 28450.75,
+      "currency": "USD",
+      "holdings": [
+        {
+          "symbol": "AAPL",
+          "name": "Apple Inc.",
+          "shares": 45.0,
+          "value": 9270.0
+        },
+        {
+          "symbol": "MSFT",
+          "name": "Microsoft Corporation",
+          "shares": 18.5,
+          "value": 7763.75
+        },
+        {
+          "symbol": "VTI",
+          "name": "Vanguard Total Stock Market ETF",
+          "shares": 45.0,
+          "value": 11617.0
+        }
+      ]
+    },
+    {
+      "id": "992847361",
+      "timestamp": "2024-07-22T20:00:00Z",
+      "account_type": "HSA Investment",
+      "account_name": "Elena Morales HSA Investments",
+      "institution": "Fidelity Investments",
+      "owner": "Elena Morales",
+      "balance": 12550.33,
+      "currency": "USD",
+      "holdings": [
+        {
+          "symbol": "SPAXX",
+          "name": "Fidelity Government Money Market Fund",
+          "shares": 2550.33,
+          "value": 2550.33
+        },
+        {
+          "symbol": "FXAIX",
+          "name": "Fidelity 500 Index Fund",
+          "shares": 100.0,
+          "value": 10000.0
+        }
+      ]
+    },
+    {
+      "id": "CB-883726451",
+      "timestamp": "2024-07-22T20:00:00Z",
+      "account_type": "Cryptocurrency Exchange",
+      "account_name": "Elena Coinbase Pro",
+      "institution": "Coinbase",
+      "owner": "Elena Morales",
+      "balance": 3400.0,
+      "currency": "USD",
+      "holdings": [
+        {
+          "symbol": "BTC",
+          "name": "Bitcoin",
+          "quantity": 0.025,
+          "value": 1650.0
+        },
+        {
+          "symbol": "ETH",
+          "name": "Ethereum",
+          "quantity": 0.5,
+          "value": 1750.0
+        }
+      ]
+    },
+    {
+      "id": "55829104",
+      "timestamp": "2024-07-22T20:00:00Z",
+      "account_type": "Rollover IRA",
+      "account_name": "Rollover IRA - Prior Employer",
+      "institution": "The Vanguard Group",
+      "owner": "Elena Morales",
+      "balance": 67890.12,
+      "currency": "USD",
+      "holdings": [
+        {
+          "symbol": "VTI",
+          "name": "Vanguard Total Stock Market ETF",
+          "shares": 150.0,
+          "value": 38700.0
+        },
+        {
+          "symbol": "VTIAX",
+          "name": "Vanguard Total International Stock Index Fund",
+          "shares": 1250.0,
+          "value": 29190.12
+        }
+      ]
+    }
+  ]
+}

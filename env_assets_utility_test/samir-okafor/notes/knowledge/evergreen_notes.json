@@ -1,0 +1,93 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/evergreen_notes.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-15T16:45:32Z",
+    "source": "notes_app_export"
+  },
+  "records": [
+    {
+      "id": "evg-2024-156",
+      "title": "Platform Design Research Standards",
+      "timestamp": "2024-09-12T10:15:00-06:00",
+      "category": "work",
+      "author": "Samir Okafor",
+      "content": "Guidelines for conducting user research within healthcare compliance frameworks at Riverton Health Labs. Includes IRB requirements, consent form templates, and data retention policies specific to Customer Insights Lead responsibilities.",
+      "tags": [
+        "research",
+        "compliance",
+        "healthcare",
+        "platform-design"
+      ]
+    },
+    {
+      "id": "evg-2024-089",
+      "title": "Annual Strategic Planning Template",
+      "date": "2024-01-08",
+      "category": "work",
+      "author": "samir.okafor@rivertonhealthlabs.com",
+      "content": "Framework for Q4 review and Q1 planning sessions including stakeholder mapping for the Platform Design department. Covers goal-setting methodology, OKR alignment, and resource allocation discussions with Calvin Price and Iris Romero.",
+      "tags": [
+        "strategy",
+        "planning",
+        "annual-review"
+      ]
+    },
+    {
+      "id": "evg-2023-234",
+      "title": "Customer Insights Repository Structure",
+      "timestamp": "2023-06-15T14:30:00-06:00",
+      "category": "work",
+      "author": "Samir Okafor",
+      "content": "Taxonomy for organizing research findings across Riverton Health Labs product lines. Includes tagging conventions, archival procedures, and cross-referencing standards for qualitative data collected from healthcare administrators.",
+      "tags": [
+        "taxonomy",
+        "repository",
+        "insights"
+      ]
+    },
+    {
+      "id": "note-7f8a9b2c",
+      "title": "Denver Area Hiking Trail References",
+      "date": "2024-05-20",
+      "category": "personal",
+      "author": "Samir",
+      "content": "Curated list of moderate trails within 45 minutes of Maple Hollow Road. Includes parking logistics for Kenosha Pass, Herman Gulch, and Mount Falcon. Notes on seasonal conditions and post-hike dining options near 80219 for weekend outings with Nina.",
+      "tags": [
+        "hiking",
+        "denver",
+        "outdoors",
+        "weekend"
+      ]
+    },
+    {
+      "id": "evg-2024-201",
+      "title": "Home Office Ergonomics Checklist",
+      "timestamp": "2024-07-03T14:22:00-06:00",
+      "category": "personal",
+      "author": "samir.okafor@meadowmail.co",
+      "content": "Setup guidelines for the second bedroom workspace at 8663 Maple Hollow Road. Includes monitor height calculations, keyboard positioning, lighting specifications for video calls with Leah Morgan and Grace Lin, and cable management solutions.",
+      "tags": [
+        "ergonomics",
+        "home-office",
+        "health"
+      ]
+    },
+    {
+      "id": "evg-2024-112",
+      "title": "Quarterly Customer Advisory Board Preparation",
+      "period_start": "2024-10-01",
+      "period_end": "2024-12-31",
+      "category": "work",
+      "author": "Samir Okafor",
+      "content": "Recurring preparation steps for CAB meetings including participant outreach to Malik Brooks and Elena Vega for feedback sessions. Covers agenda drafting, presentation deck standards, and follow-up documentation requirements for Q4 insights synthesis.",
+      "tags": [
+        "advisory-board",
+        "quarterly",
+        "customer-success"
+      ]
+    }
+  ]
+}

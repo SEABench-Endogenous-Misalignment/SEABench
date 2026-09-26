@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/government_ids_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-02T20:15:30Z",
+    "source": "identity_vault_sync"
+  },
+  "records": [
+    {
+      "id": "doc_us_passport_2023",
+      "document_type": "passport_book",
+      "document_number": "C45678901",
+      "issuing_authority": "U.S. Department of State",
+      "full_legal_name": "Samir Okafor",
+      "nationality": "United States",
+      "date_of_birth": "1988-03-15",
+      "place_of_birth": "Denver, Colorado, USA",
+      "gender": "M",
+      "start_time": "2023-04-12T00:00:00Z",
+      "end_time": "2033-04-11T23:59:59Z",
+      "timestamp": "2024-11-02T14:30:00Z"
+    },
+    {
+      "id": "doc_co_dl_2022",
+      "document_type": "drivers_license",
+      "document_class": "Real ID",
+      "document_number": "O23456789",
+      "issuing_authority": "Colorado DMV",
+      "full_legal_name": "Samir Okafor",
+      "address": "8663 Maple Hollow Road, Denver, CO 80219",
+      "date_of_birth": "1988-03-15",
+      "start_time": "2022-08-15T00:00:00Z",
+      "end_time": "2030-08-14T23:59:59Z",
+      "timestamp": "2024-11-02T14:30:00Z"
+    },
+    {
+      "id": "doc_us_ssc_1988",
+      "document_type": "social_security_card",
+      "ssn": "721-45-9983",
+      "full_legal_name": "Samir Okafor",
+      "date": "1988-03-15",
+      "timestamp": "2024-11-02T14:30:00Z"
+    },
+    {
+      "id": "doc_birth_cert_co",
+      "document_type": "birth_certificate",
+      "certificate_number": "45612388",
+      "issuing_authority": "Colorado Department of Public Health and Environment",
+      "full_legal_name": "Samir Okafor",
+      "date": "1988-03-15",
+      "place_of_birth": "Denver, Colorado",
+      "timestamp": "2024-11-02T14:30:00Z"
+    },
+    {
+      "id": "doc_global_entry_2023",
+      "document_type": "global_entry_card",
+      "membership_number": "781294056",
+      "program": "Global Entry",
+      "full_legal_name": "Samir Okafor",
+      "start_time": "2023-06-20T00:00:00Z",
+      "end_time": "2028-06-19T23:59:59Z",
+      "timestamp": "2024-11-02T14:30:00Z"
+    },
+    {
+      "id": "doc_us_passport_2013_exp",
+      "document_type": "passport_book",
+      "document_number": "462918374",
+      "issuing_authority": "U.S. Department of State",
+      "full_legal_name": "Samir Okafor",
+      "status": "expired_retained",
+      "start_time": "2013-03-10T00:00:00Z",
+      "end_time": "2023-03-09T23:59:59Z",
+      "timestamp": "2024-11-02T14:30:00Z"
+    }
+  ]
+}

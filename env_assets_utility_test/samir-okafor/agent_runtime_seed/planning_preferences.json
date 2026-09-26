@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "agent_runtime_seed/planning_preferences.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-01T16:45:32Z",
+    "source": "planning_preferences_export"
+  },
+  "records": [
+    {
+      "id": "pref-core-hours-2024",
+      "timestamp": "2024-10-15T09:23:00Z",
+      "category": "working_hours",
+      "weekday_start": "08:00",
+      "weekday_end": "17:00",
+      "timezone": "America/Denver",
+      "preferred_focus_blocks": [
+        "09:00-11:00",
+        "14:00-16:00"
+      ],
+      "lunch_buffer_minutes": 45
+    },
+    {
+      "id": "pref-meeting-buffer-v2",
+      "date": "2024-09-20",
+      "default_duration": 25,
+      "buffer_minutes": 5,
+      "preferred_locations": [
+        "Riverton Campus - West Wing",
+        "Virtual - Zoom"
+      ],
+      "avoid_back_to_back": true,
+      "max_daily_meeting_hours": 4
+    },
+    {
+      "id": "pref-focus-config",
+      "start_time": "2024-11-01T00:00:00Z",
+      "focus_duration_minutes": 90,
+      "do_not_disturb": true,
+      "allowed_interrupts": [
+        "Nina Park",
+        "Leah Morgan"
+      ],
+      "notification_suppression": [
+        "email",
+        "chat"
+      ],
+      "auto_decline_non_critical": true
+    },
+    {
+      "id": "pref-travel-auto-decline",
+      "period_start": "2024-11-15",
+      "period_end": "2024-11-20",
+      "auto_decline_meetings": true,
+      "delegate_to": "Leah Morgan",
+      "status_message": "Limited availability - traveling for customer insights research",
+      "calendar_visibility": "busy"
+    },
+    {
+      "id": "pref-task-autoprioritize",
+      "timestamp": "2024-10-28T14:30:00Z",
+      "high_priority_keywords": [
+        "deadline",
+        "customer blocking",
+        "executive request",
+        "platform launch"
+      ],
+      "low_priority_keywords": [
+        "fyi",
+        "optional",
+        "when you have time",
+        "no rush"
+      ],
+      "default_due_time": "17:00",
+      "auto_reschedule_overdue": true
+    },
+    {
+      "id": "pref-notification-quiet",
+      "start_time": "22:00",
+      "end_time": "07:00",
+      "timezone": "America/Denver",
+      "days_active": [
+        "Sun",
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "allowed_calls": [
+        "Nina Park",
+        "Owen Reed"
+      ],
+      "urgent_only_routing": true
+    }
+  ]
+}

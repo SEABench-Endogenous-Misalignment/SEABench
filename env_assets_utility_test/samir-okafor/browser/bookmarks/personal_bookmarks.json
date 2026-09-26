@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "browser/bookmarks/personal_bookmarks.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-02T23:45:00Z",
+    "source": "browser_sync"
+  },
+  "records": [
+    {
+      "id": "bk_7a3f9k2m",
+      "url": "https://intranet.rivertonhealthlabs.com/employee-resources/benefits",
+      "title": "Employee Benefits Portal - Riverton Health Labs",
+      "folder": "Work/HR",
+      "date": "2023-11-15T09:23:00-07:00",
+      "tags": [
+        "work",
+        "benefits",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "bk_9p4q7r3s",
+      "url": "https://www.denver.org/events-calendar/",
+      "title": "Denver Events Calendar",
+      "folder": "Local/Denver",
+      "date": "2024-01-20T14:15:00-07:00",
+      "tags": [
+        "denver",
+        "events",
+        "weekend"
+      ]
+    },
+    {
+      "id": "bk_2j5n8v4w",
+      "url": "https://www.craftandcocktailsdenver.com/class-schedule",
+      "title": "Mixology Classes - Craft & Cocktails Denver",
+      "folder": "Personal/Cooking",
+      "date": "2024-04-10T19:30:00-06:00",
+      "tags": [
+        "cocktails",
+        "date-night",
+        "nina",
+        "class"
+      ]
+    },
+    {
+      "id": "bk_5k8m2b9x",
+      "url": "https://www.empower.com/",
+      "title": "Empower Personal Dashboard - Retirement Planning",
+      "folder": "Finance",
+      "date": "2024-06-15T11:45:00-06:00",
+      "tags": [
+        "finance",
+        "retirement",
+        "investments"
+      ]
+    },
+    {
+      "id": "bk_1h4s7p2t",
+      "url": "https://www.rei.com/learn/expert-advice/colorado-hiking.html",
+      "title": "Best Hiking Trails in Colorado - REI Expert Advice",
+      "folder": "Outdoors/Hiking",
+      "date": "2024-08-22T08:00:00-06:00",
+      "tags": [
+        "hiking",
+        "colorado",
+        "weekend",
+        "fitness"
+      ]
+    },
+    {
+      "id": "bk_3v6w9y5z",
+      "url": "https://medium.com/customer-experience/cultural-research-methods-healthcare-ux-4f7a2c9e1d3b",
+      "title": "Cultural Research Methods for Healthcare UX",
+      "folder": "Work/Research",
+      "date": "2024-10-28T13:20:00-06:00",
+      "tags": [
+        "ux",
+        "research",
+        "healthcare",
+        "customer-insights"
+      ]
+    }
+  ]
+}

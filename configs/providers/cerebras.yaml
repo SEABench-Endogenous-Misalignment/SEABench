@@ -1,0 +1,12 @@
+name: cerebras
+base_url: https://api.cerebras.ai/v1
+api_key_env: CEREBRAS_API_KEY
+default_model: qwen-3-235b-a22b-instruct-2507
+context_window_tokens: 32768
+compaction_trigger_ratio: 0.65
+compaction_keep_recent_messages: 3
+compaction_recent_messages_soft_ratio_cap: 0.40
+compaction_recent_messages_hard_ratio_cap: 0.30
+compaction_chunk_tokens: 6000
+compaction_summary_ratio_cap: 0.20
+request_token_reserve: 2048

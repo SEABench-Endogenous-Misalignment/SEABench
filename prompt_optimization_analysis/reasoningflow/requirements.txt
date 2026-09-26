@@ -1,0 +1,22 @@
+# Python 3.10.12
+
+# Parser
+google-genai
+json_repair
+openai
+pydantic
+networkx
+
+# Annotation tools
+flask
+
+# Transformers
+transformers
+
+# Utils
+tqdm
+python-dotenv
+pyyaml
+plotly
+scikit_learn
+matplotlib

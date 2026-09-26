@@ -1,0 +1,92 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/recurring_rules.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T14:32:18Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "rec_stnd_prodops_wk",
+      "summary": "Product Ops Weekly Sync",
+      "calendar_id": "work_primary_atlas",
+      "start_time": "2024-01-08T09:30:00-05:00",
+      "end_time": "2024-01-08T10:00:00-05:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO;INTERVAL=1;UNTIL=20250101T000000Z",
+      "organizer_email": "linh.nguyen@brightlinesystems.com",
+      "attendees": [
+        "leah.morgan@atlascivicpartners.com",
+        "calvin.price@atlascivicpartners.com",
+        "grace.lin@atlascivicpartners.com"
+      ],
+      "created_at": "2023-12-15T11:20:00Z"
+    },
+    {
+      "id": "rec_1on1_leah_mo",
+      "summary": "1:1 with Leah Morgan",
+      "calendar_id": "work_primary_atlas",
+      "start_time": "2024-01-16T14:00:00-05:00",
+      "end_time": "2024-01-16T14:30:00-05:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=MONTHLY;BYDAY=3TU;INTERVAL=1;UNTIL=20241231T235959Z",
+      "organizer_email": "linh.nguyen@brightlinesystems.com",
+      "attendee_email": "leah.morgan@atlascivicpartners.com",
+      "private": true
+    },
+    {
+      "id": "rec_call_iris_biweekly",
+      "summary": "Check-in with Iris",
+      "calendar_id": "personal_cedarpost",
+      "start_time": "2024-01-14T19:00:00-05:00",
+      "end_time": "2024-01-14T19:30:00-05:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SU;UNTIL=20241231T235959Z",
+      "organizer_email": "linh.nguyen@brightlinesystems.com",
+      "attendee_email": "iris.romero@meadowmail.co",
+      "alert_minutes_before": 5
+    },
+    {
+      "id": "rec_qtr_datareview",
+      "summary": "Quarterly Data Review",
+      "calendar_id": "work_primary_atlas",
+      "start_time": "2024-03-29T13:00:00-05:00",
+      "end_time": "2024-03-29T15:00:00-05:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=-1",
+      "organizer_email": "linh.nguyen@brightlinesystems.com",
+      "location": "Atlas Civic Partners - Conference Room B",
+      "visibility": "private"
+    },
+    {
+      "id": "rec_gym_strength",
+      "summary": "Gym - Strength Training",
+      "calendar_id": "personal_cedarpost",
+      "start_time": "2024-01-09T07:00:00-05:00",
+      "end_time": "2024-01-09T08:00:00-05:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=TU,TH;INTERVAL=1;UNTIL=20241231T235959Z",
+      "organizer_email": "linh.nguyen@brightlinesystems.com",
+      "location": "Fitness Heights, Pittsburgh",
+      "alert_minutes_before": 0
+    },
+    {
+      "id": "rec_bookclub_sat",
+      "summary": "Book Club - Fiction Group",
+      "calendar_id": "personal_cedarpost",
+      "start_time": "2024-01-20T18:30:00-05:00",
+      "end_time": "2024-01-20T20:00:00-05:00",
+      "timezone": "America/New_York",
+      "recurrence_rule": "FREQ=MONTHLY;BYDAY=3SA;INTERVAL=1;UNTIL=20241231T235959Z",
+      "organizer_email": "linh.nguyen@brightlinesystems.com",
+      "attendees": [
+        "nina.park@riverside.io",
+        "priya.shah@cloudwell.net",
+        "malik.brooks@postbox.org"
+      ],
+      "location": " rotating host homes"
+    }
+  ]
+}

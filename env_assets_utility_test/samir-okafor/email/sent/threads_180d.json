@@ -1,0 +1,542 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/sent/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-12-19T14:30:00Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "18f3a9b2-44d1-7e8c-9f2a-1b8d4e9f0c3a",
+      "timestamp": "2024-06-22T09:15:00Z",
+      "subject": "Q3 Platform Roadmap - Initial Thoughts",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_7a8b9c0d",
+      "message_count": 4,
+      "has_attachments": true,
+      "size_bytes": 245000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Projects"
+      ]
+    },
+    {
+      "id": "28a4b7c3-55e2-8f9d-0a3b-2c9e5f0a1d4b",
+      "timestamp": "2024-06-28T16:45:00Z",
+      "subject": "Weekend hiking details",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "owen.reed@northridge.io"
+      ],
+      "cc": [],
+      "thread_id": "thread_8b9c0d1e",
+      "message_count": 2,
+      "has_attachments": false,
+      "size_bytes": 12500,
+      "labels": [
+        "Sent",
+        "Personal"
+      ]
+    },
+    {
+      "id": "39b5c8d4-66f3-9a0e-1b4c-3d0f6a1b2e5c",
+      "timestamp": "2024-07-05T11:30:00Z",
+      "subject": "Re: Budget approval for Q3",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_9c0d1e2f",
+      "message_count": 7,
+      "has_attachments": true,
+      "size_bytes": 890000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Finance"
+      ]
+    },
+    {
+      "id": "40c6d9e5-77a4-0b1f-2c5d-4e1a7b2c3f6d",
+      "timestamp": "2024-07-12T14:20:00Z",
+      "subject": "Book club selection for August",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "priya.shah@meridianconsulting.net"
+      ],
+      "cc": [],
+      "thread_id": "thread_0d1e2f3a",
+      "message_count": 3,
+      "has_attachments": false,
+      "size_bytes": 18200,
+      "labels": [
+        "Sent",
+        "Personal"
+      ]
+    },
+    {
+      "id": "51d7e0f6-88b5-1c2a-3d6e-5f2b8c3d4g7e",
+      "timestamp": "2024-07-19T10:00:00Z",
+      "subject": "Vendor coordination - Design Systems",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_1e2f3a4b",
+      "message_count": 5,
+      "has_attachments": true,
+      "size_bytes": 412000,
+      "labels": [
+        "Sent",
+        "Work"
+      ]
+    },
+    {
+      "id": "62e8f1a7-99c6-2d3b-4e7f-6g3c9d4e5h8f",
+      "timestamp": "2024-07-26T18:30:00Z",
+      "subject": "Dinner reservation confirmation",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "theo.harris@meadowmail.co"
+      ],
+      "cc": [],
+      "thread_id": "thread_2f3a4b5c",
+      "message_count": 2,
+      "has_attachments": false,
+      "size_bytes": 5400,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Household"
+      ]
+    },
+    {
+      "id": "73f9a2b8-aad7-3e4c-5f8g-7h4d0e5f6i9g",
+      "timestamp": "2024-08-02T09:45:00Z",
+      "subject": "Client feedback integration",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_3a4b5c6d",
+      "message_count": 6,
+      "has_attachments": true,
+      "size_bytes": 528000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Clients"
+      ]
+    },
+    {
+      "id": "84g0b3c9-bbe8-4f5d-6g9h-8i5e1f6g7j0h",
+      "timestamp": "2024-08-09T13:15:00Z",
+      "subject": "Concert tickets - September show",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "malik.brooks@velocitech.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_4b5c6d7e",
+      "message_count": 4,
+      "has_attachments": true,
+      "size_bytes": 31000,
+      "labels": [
+        "Sent",
+        "Personal"
+      ]
+    },
+    {
+      "id": "95h1c4d0-ccf9-5g6e-7h0i-9j6f2g7h8k1i",
+      "timestamp": "2024-08-16T11:00:00Z",
+      "subject": "Team sync - Action items",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_5c6d7e8f",
+      "message_count": 8,
+      "has_attachments": false,
+      "size_bytes": 45200,
+      "labels": [
+        "Sent",
+        "Work",
+        "Team"
+      ]
+    },
+    {
+      "id": "06i2d5e1-ddg0-6h7f-8i1j-0k7g3h8i9l2j",
+      "timestamp": "2024-08-23T17:45:00Z",
+      "subject": "Flight details for Denver trip",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "theo.harris@meadowmail.co"
+      ],
+      "cc": [],
+      "thread_id": "thread_6d7e8f9a",
+      "message_count": 3,
+      "has_attachments": true,
+      "size_bytes": 89000,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Travel"
+      ]
+    },
+    {
+      "id": "17j3e6f2-eeh1-7i8g-9j2k-1l8h4i9j0l3k",
+      "timestamp": "2024-08-30T10:30:00Z",
+      "subject": "Birthday planning committee",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "nina.park@artificestudio.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_7e8f9a0b",
+      "message_count": 5,
+      "has_attachments": false,
+      "size_bytes": 22100,
+      "labels": [
+        "Sent",
+        "Personal"
+      ]
+    },
+    {
+      "id": "28k4f7g3-ffi2-8j9h-0k3l-2m9i5j0k1l4l",
+      "timestamp": "2024-09-06T14:00:00Z",
+      "subject": "Q4 Report submission timeline",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_8f9a0b1c",
+      "message_count": 3,
+      "has_attachments": true,
+      "size_bytes": 1250000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Reports"
+      ]
+    },
+    {
+      "id": "39l5g8h4-ggj3-9k0i-1l4m-3n0j6k1l2m5m",
+      "timestamp": "2024-09-13T09:20:00Z",
+      "subject": "Group dinner - Saturday",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "nina.park@artificestudio.com",
+        "owen.reed@northridge.io"
+      ],
+      "cc": [],
+      "thread_id": "thread_9a0b1c2d",
+      "message_count": 6,
+      "has_attachments": false,
+      "size_bytes": 18700,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Social"
+      ]
+    },
+    {
+      "id": "40m6h9i5-hhk4-0l1j-2m5n-4o1k7l2m3n6n",
+      "timestamp": "2024-09-20T16:10:00Z",
+      "subject": "Workshop preparation materials",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "iris.romero@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_0b1c2d3e",
+      "message_count": 4,
+      "has_attachments": true,
+      "size_bytes": 975000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Training"
+      ]
+    },
+    {
+      "id": "51n7i0j6-iil5-1m2k-3n6o-5p2l8m3n4o7o",
+      "timestamp": "2024-09-27T11:45:00Z",
+      "subject": "Holiday plans discussion",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "theo.harris@meadowmail.co"
+      ],
+      "cc": [],
+      "thread_id": "thread_1c2d3e4f",
+      "message_count": 4,
+      "has_attachments": false,
+      "size_bytes": 15600,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Household"
+      ]
+    },
+    {
+      "id": "62o8j1k7-jjm6-2n3l-4o7p-6q3m9n4o5p8p",
+      "timestamp": "2024-10-04T10:00:00Z",
+      "subject": "Infrastructure security review",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_2d3e4f5a",
+      "message_count": 9,
+      "has_attachments": true,
+      "size_bytes": 2150000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Security"
+      ]
+    },
+    {
+      "id": "73p9k2l8-kkn7-3o4m-5p8q-7r4n0o5p6q9q",
+      "timestamp": "2024-10-11T15:30:00Z",
+      "subject": "Game night - November",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "priya.shah@meridianconsulting.net",
+        "malik.brooks@velocitech.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_3e4f5a6b",
+      "message_count": 3,
+      "has_attachments": false,
+      "size_bytes": 13400,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Social"
+      ]
+    },
+    {
+      "id": "84q0l3m9-llo8-4p5n-6q9r-8s5o1p6q7r0r",
+      "timestamp": "2024-10-18T09:00:00Z",
+      "subject": "Q3 Planning retrospective",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_4f5a6b7c",
+      "message_count": 5,
+      "has_attachments": true,
+      "size_bytes": 642000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Planning"
+      ]
+    },
+    {
+      "id": "95r1m4n0-mmp9-5q6o-7r0s-9t6p2q7r8s1s",
+      "timestamp": "2024-10-25T17:15:00Z",
+      "subject": "Apartment maintenance schedule",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "theo.harris@meadowmail.co"
+      ],
+      "cc": [],
+      "thread_id": "thread_5a6b7c8d",
+      "message_count": 2,
+      "has_attachments": true,
+      "size_bytes": 48000,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Household"
+      ]
+    },
+    {
+      "id": "06s2n5o1-nnq0-6r7p-8s1t-0u7q3r8s9t2t",
+      "timestamp": "2024-11-01T11:30:00Z",
+      "subject": "Annual review preparation",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_6b7c8d9e",
+      "message_count": 4,
+      "has_attachments": true,
+      "size_bytes": 380000,
+      "labels": [
+        "Sent",
+        "Work",
+        "HR"
+      ]
+    },
+    {
+      "id": "17t3o6p2-oor1-7s8q-9t2u-1v8r4s9t0u3u",
+      "timestamp": "2024-11-08T14:45:00Z",
+      "subject": "Presentation slide deck",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "grace.lin@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_7c8d9e0f",
+      "message_count": 3,
+      "has_attachments": true,
+      "size_bytes": 15400000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Presentations"
+      ]
+    },
+    {
+      "id": "28u4p7q3-pps2-8t9r-0u3v-2w9s5t0u1v4v",
+      "timestamp": "2024-11-15T10:20:00Z",
+      "subject": "Family visit itinerary",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "theo.harris@meadowmail.co"
+      ],
+      "cc": [],
+      "thread_id": "thread_8d9e0f1a",
+      "message_count": 3,
+      "has_attachments": true,
+      "size_bytes": 112000,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Family"
+      ]
+    },
+    {
+      "id": "39v5q8r4-qqt3-9u0s-1v4w-3x0t6u1v2w5w",
+      "timestamp": "2024-11-22T16:00:00Z",
+      "subject": "Contract renewal terms",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "iris.romero@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_9e0f1a2b",
+      "message_count": 6,
+      "has_attachments": true,
+      "size_bytes": 890000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Legal"
+      ]
+    },
+    {
+      "id": "40w6r9s5-rru4-0v1t-2w5x-4y1u7v2w3x6x",
+      "timestamp": "2024-11-29T09:30:00Z",
+      "subject": "Thanksgiving leftovers party",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "nina.park@artificestudio.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_0f1a2b3c",
+      "message_count": 2,
+      "has_attachments": false,
+      "size_bytes": 9800,
+      "labels": [
+        "Sent",
+        "Personal",
+        "Social"
+      ]
+    },
+    {
+      "id": "51x7s0t6-ssv5-1w2u-3x6y-5z2v8w3x4y7y",
+      "timestamp": "2024-12-06T13:00:00Z",
+      "subject": "New Year event planning",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "malik.brooks@velocitech.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_1a2b3c4d",
+      "message_count": 2,
+      "has_attachments": false,
+      "size_bytes": 12300,
+      "labels": [
+        "Sent",
+        "Personal"
+      ]
+    },
+    {
+      "id": "62y8t1u7-ttw6-2x3v-4y7z-6a3w9x4y5z8z",
+      "timestamp": "2024-12-09T10:45:00Z",
+      "subject": "End of year data summary",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "calvin.price@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_2b3c4d5e",
+      "message_count": 3,
+      "has_attachments": true,
+      "size_bytes": 4500000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Data"
+      ]
+    },
+    {
+      "id": "73z9u2v8-uux7-3y4w-5z8a-7b4x0y5z6a9a",
+      "timestamp": "2024-12-13T15:15:00Z",
+      "subject": "Winter break schedule",
+      "from": "samir.okafor@meadowmail.co",
+      "to": [
+        "owen.reed@northridge.io"
+      ],
+      "cc": [],
+      "thread_id": "thread_3c4d5e6f",
+      "message_count": 4,
+      "has_attachments": false,
+      "size_bytes": 21500,
+      "labels": [
+        "Sent",
+        "Personal"
+      ]
+    },
+    {
+      "id": "84a0v3w9-vvy8-4z5x-6a9b-8c5y1z6a7b0b",
+      "timestamp": "2024-12-18T11:00:00Z",
+      "subject": "Re: Design system documentation",
+      "from": "samir.okafor@rivertonhealthlabs.com",
+      "to": [
+        "leah.morgan@brightlinesystems.com",
+        "iris.romero@brightlinesystems.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_4d5e6f7a",
+      "message_count": 7,
+      "has_attachments": true,
+      "size_bytes": 1200000,
+      "labels": [
+        "Sent",
+        "Work",
+        "Documentation"
+      ]
+    }
+  ]
+}

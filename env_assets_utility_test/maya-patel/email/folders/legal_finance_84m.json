@@ -1,0 +1,1076 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/folders/legal_finance_84m.json",
+    "time_span": "84m",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-20T16:45:32Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "<20240125100015.8a2f3c1d@brightlinesystems.com>",
+      "date": "2024-01-25T10:00:15-05:00",
+      "subject": "Important: Your 2023 W-2 is now available",
+      "from": "payroll@brightlinesystems.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "cc": [],
+      "thread_id": "thread_w2_2024",
+      "labels": [
+        "Tax",
+        "Work",
+        "IMPORTANT"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "W2_2023_Brightline_Patel.pdf"
+      ],
+      "size_bytes": 154000,
+      "content_preview": "Your 2023 W-2 wage and tax statement is attached. Box 1 shows $128,450.00. SSN: 412-88-4511. Please review and contact HR with discrepancies."
+    },
+    {
+      "id": "<20240120113000.5b1e4d2a@irs.gov>",
+      "date": "2024-01-20T11:30:00-05:00",
+      "subject": "Your 2023 Tax Return Acceptance",
+      "from": "noreply@irs.gov",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Government"
+      ],
+      "has_attachments": false,
+      "size_bytes": 42000,
+      "content_preview": "We have accepted your federal tax return for 2023. Your refund of $3,240 will be deposited to account ending in 4511 within 21 days."
+    },
+    {
+      "id": "<20240214120000.9c3d5e6f@vanguard.com>",
+      "date": "2024-02-14T12:00:00-05:00",
+      "subject": "401(k) Quarterly Statement - Q4 2023",
+      "from": "statements@vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Finance",
+        "Retirement"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Q4_2023_Stmt_8842.pdf"
+      ],
+      "size_bytes": 312000,
+      "content_preview": "Quarterly statement for plan 099415. Account ending in 8842. Current balance: $142,305.88. SSN: XXX-XX-4511. Personal return: 8.4%."
+    },
+    {
+      "id": "<20240301090000.1a2b3c4d@pnc.com>",
+      "date": "2024-03-01T09:00:00-05:00",
+      "subject": "Your PNC Bank Statement is Ready",
+      "from": "statements@pnc.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Banking",
+        "Monthly"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Stmt_Checking_4511_Feb2024.pdf"
+      ],
+      "size_bytes": 245000,
+      "content_preview": "Statement for account XXXXXX4511. Period: Feb 1-29, 2024. Opening: $12,405. Closing: $11,890. Items: 34."
+    },
+    {
+      "id": "<20240415143000.7e8f9g0h@highmark.com>",
+      "date": "2024-04-15T14:30:00-04:00",
+      "subject": "Explanation of Benefits - Claim #88234111",
+      "from": "claims@highmark.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Health",
+        "Insurance"
+      ],
+      "has_attachments": false,
+      "size_bytes": 88000,
+      "content_preview": "Claim for Nina Park, subscriber Maya Patel (SSN 412-88-4511). Date of service: 03/22/2024. Amount billed: $1,240.00. You owe: $145.00."
+    },
+    {
+      "id": "<20240110080000.2b3c4d5e@statefarm.com>",
+      "date": "2024-01-10T08:00:00-05:00",
+      "subject": "Homeowners Insurance Policy Renewal #PA-774512",
+      "from": "policy@statefarm.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Insurance",
+        "Home"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Renewal_Policy_PA774512_2024.pdf"
+      ],
+      "size_bytes": 520000,
+      "content_preview": "Renewal for 6452 Laurel Creek Court, Pittsburgh, PA 15233. Policy period: 2024-2025. Premium: $1,850.00. Deductible: $1,000."
+    },
+    {
+      "id": "<20240322110000.4d5e6f7g@schwab.com>",
+      "date": "2024-03-22T11:00:00-04:00",
+      "subject": "Wire Transfer Confirmation",
+      "from": "transfers@schwab.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Finance",
+        "Wire",
+        "Important"
+      ],
+      "has_attachments": false,
+      "size_bytes": 56000,
+      "content_preview": "Wire sent on 03/22/2024. Amount: $45,000.00. Confirmation: WF-2024-3389. From account ending 8842. Recipient: Allegheny County Treasurer."
+    },
+    {
+      "id": "<20240505160000.6f7g8h9i@turbotax.intuit.com>",
+      "date": "2024-05-05T16:00:00-04:00",
+      "subject": "Your PA State Tax Return Confirmation",
+      "from": "support@turbotax.intuit.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "State"
+      ],
+      "has_attachments": false,
+      "size_bytes": 38000,
+      "content_preview": "Your Pennsylvania state return has been filed. Refund amount: $1,250.00. Routing to account 4511. Estimated processing: 8-10 weeks."
+    },
+    {
+      "id": "<20231218120000.8h9i0j1k@brightlinesystems.com>",
+      "date": "2023-12-18T12:00:00-05:00",
+      "subject": "Annual Bonus Notification",
+      "from": "payroll@brightlinesystems.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "Payroll",
+        "Bonus"
+      ],
+      "has_attachments": false,
+      "size_bytes": 45000,
+      "content_preview": "Year-end bonus of $15,000.00 (gross) will be deposited 12/22/2023. Tax withholding: Federal 22%, State 3.07%, Local 1%. Net: $11,239.50."
+    },
+    {
+      "id": "<20231103093000.0j1k2l3m@vanguard.com>",
+      "date": "2023-11-03T09:30:00-04:00",
+      "subject": "Beneficiary Designation Update Confirmation",
+      "from": "participant@access.vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Beneficiary",
+        "Legal"
+      ],
+      "has_attachments": false,
+      "size_bytes": 32000,
+      "content_preview": "Your beneficiary has been updated for account ending 8842. Primary: Nina Park (SSN XXX-XX-9300) 100%. Effective: 11/03/2023."
+    },
+    {
+      "id": "<20230215084500.2l3m4n5o@alleghenycounty.us>",
+      "date": "2023-02-15T08:45:00-05:00",
+      "subject": "2023 Real Estate Tax Statement",
+      "from": "treasurer@alleghenycounty.us",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Property"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "RET_2023_6452_Laurel_Creek.pdf"
+      ],
+      "size_bytes": 180000,
+      "content_preview": "Property: 6452 Laurel Creek Court. Tax year 2023. Amount due: $4,850.00. School district: Pittsburgh Public. Parcel ID: 0489-A-001."
+    },
+    {
+      "id": "<20230120091500.4n5o6p7q@brightlinesystems.com>",
+      "date": "2023-01-20T09:15:00-05:00",
+      "subject": "Your 2022 W-2 Available",
+      "from": "payroll@brightlinesystems.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Work"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "W2_2022_Patel_Maya.pdf"
+      ],
+      "size_bytes": 148000,
+      "content_preview": "2022 W-2 attached. Wages: $122,000. SSN: 412-88-4511. Box 12 DD: $8,400. Local wages: $122,000. Local tax: $3,901."
+    },
+    {
+      "id": "<20230410013000.6p7q8r9s@irs.gov>",
+      "date": "2023-04-10T01:30:00-04:00",
+      "subject": "Notice CP2000 - Proposed Changes to Your 2021 Tax Return",
+      "from": "cp2000@irs.gov",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Urgent",
+        "IRS"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "CP2000_2023_4411.pdf"
+      ],
+      "size_bytes": 420000,
+      "content_preview": "We found a discrepancy between the income reported on your return and information from third parties. Amount due: $1,240.00 plus interest."
+    },
+    {
+      "id": "<20230628020000.8r9s0t1u@coinbase.com>",
+      "date": "2023-06-28T02:00:00-04:00",
+      "subject": "Your 2022 Form 1099-K is Available",
+      "from": "taxforms@coinbase.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Crypto"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "1099K_2022_Coinbase.pdf"
+      ],
+      "size_bytes": 92000,
+      "content_preview": "Form 1099-K for tax year 2022. Total transactions: $14,200.00. Taxpayer ID: 412-88-4511. Filer: Coinbase Inc."
+    },
+    {
+      "id": "<20221014110000.0t1u2v3w@morganassociates.law>",
+      "date": "2022-10-14T11:00:00-04:00",
+      "subject": "Executed Documents: Last Will and Testament",
+      "from": "joshua.morgan@morganassociates.law",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "cc": [
+        "nina.park@harborinbox.com"
+      ],
+      "labels": [
+        "Legal",
+        "Estate"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Executed_Will_Patel_2022.pdf"
+      ],
+      "size_bytes": 850000,
+      "content_preview": "Attached are the executed copies of your Will dated 10/14/2022. Executors: Nina Park. Witnesses: Owen Reed, Priya Shah. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20220809143000.2v3w4x5y@highmark.com>",
+      "date": "2022-08-09T14:30:00-04:00",
+      "subject": "Life Insurance Policy Update - Policy #LF88424511",
+      "from": "service@highmark.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Insurance",
+        "Life"
+      ],
+      "has_attachments": false,
+      "size_bytes": 28000,
+      "content_preview": "Policy update confirmation. Beneficiary change processed for policy 88424511. Primary: Nina Park 100%. Secondary: Malik Brooks."
+    },
+    {
+      "id": "<20220125093000.4x5y6z7a@innotech-solutions.com>",
+      "date": "2022-01-25T09:30:00-05:00",
+      "subject": "2021 W-2 from InnoTech Solutions",
+      "from": "hr@innotech-solutions.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Former Employer"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "W2_2021_InnoTech_Patel.pdf"
+      ],
+      "size_bytes": 146000,
+      "content_preview": "Former employee W-2. Wages: $85,000. SSN: 412-88-4511. Federal withholding: $17,000. Box 14: $500 transit benefit."
+    },
+    {
+      "id": "<20220310080000.6z7a8b9c@pnc.com>",
+      "date": "2022-03-10T08:00:00-05:00",
+      "subject": "Important: Your PNC Mortgage Statement",
+      "from": "mortgage@pnc.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Mortgage",
+        "Banking"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Mortgage_Stmt_Mar2022.pdf"
+      ],
+      "size_bytes": 198000,
+      "content_preview": "Statement for loan 8842451101. Property: 6452 Laurel Creek Court. Principal balance: $245,000. Interest rate: 3.25%. Escrow shortage: $340."
+    },
+    {
+      "id": "<20220522120000.8b9c0d1e@brightlinesystems.com>",
+      "date": "2022-05-22T12:00:00-04:00",
+      "subject": "Salary Adjustment Effective June 1",
+      "from": "hr@brightlinesystems.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "HR",
+        "Compensation"
+      ],
+      "has_attachments": false,
+      "size_bytes": 34000,
+      "content_preview": "Your salary will be adjusted to $130,000 annually. Retroactive to 05/01/2022. Net increase per pay period: $384.62. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20210915094500.0d1e2f3g@rocketmortgage.com>",
+      "date": "2021-09-15T09:45:00-04:00",
+      "subject": "Closing Disclosure - 6452 Laurel Creek Court",
+      "from": "closing@rocketmortgage.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "cc": [
+        "nina.park@harborinbox.com"
+      ],
+      "labels": [
+        "Mortgage",
+        "Closing",
+        "Legal"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "CD_6452_Laurel_Creek.pdf"
+      ],
+      "size_bytes": 1240000,
+      "content_preview": "CD for loan closing 09/20/2021. Loan amount: $320,000. Interest rate: 3.25%. Cash to close: $45,000. SSN: 412-88-4511. Nina Park co-borrower."
+    },
+    {
+      "id": "<20211005160000.2f3g4h5i@vanguard.com>",
+      "date": "2021-10-05T16:00:00-04:00",
+      "subject": "Direct Rollover Confirmation",
+      "from": "rollover@vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Retirement",
+        "Rollover"
+      ],
+      "has_attachments": false,
+      "size_bytes": 31000,
+      "content_preview": "Rollover of $42,500 from InnoTech 401k to Vanguard IRA completed on 10/04/2021. Check #: 998877. SSN ending 4511. Deposit confirmed."
+    },
+    {
+      "id": "<20211231110000.4h5i6j7k@venmo.com>",
+      "date": "2021-12-31T11:00:00-05:00",
+      "subject": "Your 2021 Venmo Tax Documents (1099-K)",
+      "from": "taxcenter@venmo.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "1099"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "1099K_2021_Venmo.pdf"
+      ],
+      "size_bytes": 88000,
+      "content_preview": "You received payments exceeding $600. Total: $2,400. TIN: 412-88-4511. Attached 1099-K form for your records."
+    },
+    {
+      "id": "<20210322083000.6j7k8l9m@schwab.com>",
+      "date": "2021-03-22T08:30:00-04:00",
+      "subject": "IRA Contribution Confirmation for 2020",
+      "from": "ira@schwab.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "IRA",
+        "Tax"
+      ],
+      "has_attachments": false,
+      "size_bytes": 26000,
+      "content_preview": "Contribution of $6,000 to Traditional IRA for tax year 2020 received 04/15/2021. Account ending 9923. SSN: 412-88-4511. Tax deductible."
+    },
+    {
+      "id": "<20210415120000.8l9m0n1o@turbotax.intuit.com>",
+      "date": "2021-04-15T12:00:00-04:00",
+      "subject": "Federal Return Filed - Extension Not Needed",
+      "from": "support@turbotax.intuit.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Federal"
+      ],
+      "has_attachments": false,
+      "size_bytes": 29000,
+      "content_preview": "Your 2020 federal and state returns have been submitted. You owe $2,100 to IRS and $450 to PA. Payment scheduled 04/15 from account 4511."
+    },
+    {
+      "id": "<20200130090000.0n1o2p3q@fedloanservicing.edu>",
+      "date": "2020-01-30T09:00:00-05:00",
+      "subject": "Paid in Full Confirmation - Account 8842451100",
+      "from": "servicing@fedloanservicing.edu",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Student Loans",
+        "Paid Off"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Paid_In_Full_Letter_2020.pdf"
+      ],
+      "size_bytes": 156000,
+      "content_preview": "Congratulations! Your student loan account has been paid in full. Final payment received 01/28/2020. Balance: $0.00. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20200612140000.2p3q4r5s@brightlinesystems.com>",
+      "date": "2020-06-12T14:00:00-04:00",
+      "subject": "Restricted Stock Unit Grant - Vesting Schedule",
+      "from": "equity@brightlinesystems.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "Equity",
+        "Compensation"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "RSU_Grant_Agreement_2020.pdf"
+      ],
+      "size_bytes": 680000,
+      "content_preview": "Grant of 500 RSUs granted 06/15/2020. Vesting: 25% per year. Grant price: $45.00. Employee ID: MP128450. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20200820113000.4r5s6t7u@paypal.com>",
+      "date": "2020-08-20T11:30:00-04:00",
+      "subject": "Invoice from Owen Reed - $2,400.00",
+      "from": "service@paypal.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Payment",
+        "Personal"
+      ],
+      "has_attachments": false,
+      "size_bytes": 24000,
+      "content_preview": "Owen Reed sent you an invoice for 'Joint Investment Property Expenses'. Amount: $2,400.00. Invoice #INV-2020-8842. SSN on file: XXX-XX-4511."
+    },
+    {
+      "id": "<20201208120000.6t7u8v9w@creditsesame.com>",
+      "date": "2020-12-08T12:00:00-05:00",
+      "subject": "Your Credit Score Changed",
+      "from": "alerts@creditsesame.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Credit",
+        "Alert"
+      ],
+      "has_attachments": false,
+      "size_bytes": 22000,
+      "content_preview": "Your TransUnion score dropped 12 points to 748. Reason: New inquiry. SSN ending 4511. Review your full report for details."
+    },
+    {
+      "id": "<20191220090000.8v9w0x1y@innotech-solutions.com>",
+      "date": "2019-12-20T09:00:00-05:00",
+      "subject": "Severance Package Offer",
+      "from": "hr@innotech-solutions.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Severance",
+        "Legal"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Severance_Offer_Patel_2019.pdf"
+      ],
+      "size_bytes": 445000,
+      "content_preview": "Severance offer attached. 8 weeks pay plus benefits. Requires signed release. Amount: $13,000 gross. Reference: SEP-2019-MP. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20191115100000.0x1y2z3a@brightlinesystems.com>",
+      "date": "2019-11-15T10:00:00-05:00",
+      "subject": "Offer Letter - Design Systems Manager",
+      "from": "talent@brightlinesystems.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Employment",
+        "Offer"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Offer_Letter_Patel_2019.pdf"
+      ],
+      "size_bytes": 380000,
+      "content_preview": "Offer for Design Systems Manager role. Base: $115,000. Start date: 12/02/2019. Please sign and return. Contact: Leah Morgan. Reference: OFF-128450."
+    },
+    {
+      "id": "<20191003093000.2z3a4b5c@pnc.com>",
+      "date": "2019-10-03T09:30:00-04:00",
+      "subject": "New Savings Account Opened",
+      "from": "accounts@pnc.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Banking",
+        "New Account"
+      ],
+      "has_attachments": false,
+      "size_bytes": 27000,
+      "content_preview": "Your new Reserve Savings account is active. Account number ending 7742. Initial deposit: $10,000. Online banking enrolled. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20190812153000.4b5c6d7e@experian.com>",
+      "date": "2019-08-12T15:30:00-04:00",
+      "subject": "Your Experian Credit Report",
+      "from": "reports@experian.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Credit",
+        "Annual"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Exp_Credit_Report_Aug2019.pdf"
+      ],
+      "size_bytes": 420000,
+      "content_preview": "Annual credit report for Maya Patel, SSN 412-88-4511. Report date: 08/12/2019. Score: 765. No significant changes detected."
+    },
+    {
+      "id": "<20190410080000.6d7e8f9g@irs.gov>",
+      "date": "2019-04-10T08:00:00-04:00",
+      "subject": "Refund Notification - 2018 Tax Year",
+      "from": "refunds@irs.gov",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Refund"
+      ],
+      "has_attachments": false,
+      "size_bytes": 18000,
+      "content_preview": "Your refund of $3,500 for tax year 2018 has been approved. Direct deposit to account ending 4511 scheduled for 04/17/2019."
+    },
+    {
+      "id": "<20180321090000.8f9g0h1i@innotech-solutions.com>",
+      "date": "2018-03-21T09:00:00-04:00",
+      "subject": "2017 W-2 Form Available",
+      "from": "payroll@innotech-solutions.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Work"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "W2_2017_Patel.pdf"
+      ],
+      "size_bytes": 144000,
+      "content_preview": "2017 W-2 attached. Wages: $78,000. SSN: 412-88-4511. Federal withholding: $12,480. Local tax: $2,340."
+    },
+    {
+      "id": "<20180514093000.0h1i2j3k@vanguard.com>",
+      "date": "2018-05-14T09:30:00-04:00",
+      "subject": "Quarterly Statement Q1 2018",
+      "from": "statements@vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Finance",
+        "Retirement"
+      ],
+      "has_attachments": false,
+      "size_bytes": 198000,
+      "content_preview": "401k balance: $34,200. Employer match: $1,200 this quarter. SSN ending 4511. Personal rate of return: 4.2%. Equity allocation: 80%."
+    },
+    {
+      "id": "<20180720110000.2j3k4l5m@creditkarma.com>",
+      "date": "2018-07-20T11:00:00-04:00",
+      "subject": "High Balance Alert on Chase Card",
+      "from": "alerts@creditkarma.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Credit",
+        "Alert"
+      ],
+      "has_attachments": false,
+      "size_bytes": 21000,
+      "content_preview": "Your Chase Freedom card ending 4511 has a high balance of $8,400. This is 84% of your credit limit. SSN: XXX-XX-4511."
+    },
+    {
+      "id": "<20181130120000.4l5m6n7o@statefarm.com>",
+      "date": "2018-11-30T12:00:00-05:00",
+      "subject": "Auto Policy Renewal - Premium Change",
+      "from": "policy@statefarm.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Insurance",
+        "Auto"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Auto_Renewal_2019.pdf"
+      ],
+      "size_bytes": 195000,
+      "content_preview": "Policy #PA-44511 renewal. Vehicle: 2017 Honda CRV. Premium increase to $980/year due to claim filed 09/2018. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20190115143000.6n7o8p9q@chase.com>",
+      "date": "2019-01-15T14:30:00-05:00",
+      "subject": "Chase Sapphire Reserve - Year End Summary",
+      "from": "creditcards@chase.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Credit Card",
+        "Annual"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "YearEnd_Summary_2018.pdf"
+      ],
+      "size_bytes": 680000,
+      "content_preview": "Total spending 2018: $42,500. Rewards earned: 45,000 points. Card ending 4511. Account holder: Maya Patel SSN 412-88-4511."
+    },
+    {
+      "id": "<20220710120000.8p9q0r1s@allstate.com>",
+      "date": "2022-07-10T12:00:00-04:00",
+      "subject": "Claim Settlement - Check Issued",
+      "from": "claims@allstate.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Insurance",
+        "Claim"
+      ],
+      "has_attachments": false,
+      "size_bytes": 34000,
+      "content_preview": "Claim #AL-2022-44511 settled. Payment of $3,200 issued for auto accident 06/15/2022. Check mailed to 6452 Laurel Creek Court, Pittsburgh."
+    },
+    {
+      "id": "<20210214090000.0r1s2t3u@fidelity.com>",
+      "date": "2021-02-14T09:00:00-05:00",
+      "subject": "HSA Contribution Limit Reminder",
+      "from": "hsa@fidelity.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "HSA",
+        "Health"
+      ],
+      "has_attachments": false,
+      "size_bytes": 26000,
+      "content_preview": "You have contributed $2,400 of the $3,600 limit to HSA ending 7723. SSN: 412-88-4511. Employer contributed $600. Remaining room: $600."
+    },
+    {
+      "id": "<20230722110000.2t3u4v5w@brightlinesystems.com>",
+      "date": "2023-07-22T11:00:00-04:00",
+      "subject": "RSU Vesting Notification - 125 Shares",
+      "from": "equity@brightlinesystems.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "Equity",
+        "Vesting"
+      ],
+      "has_attachments": false,
+      "size_bytes": 29000,
+      "content_preview": "125 shares vested on 07/15/2023. Tax withholding: 22% federal. Net shares deposited: 97. Value: $8,740. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20211103093000.4v5w6x7y@pnc.com>",
+      "date": "2021-11-03T09:30:00-04:00",
+      "subject": "Large Withdrawal Alert - $15,000",
+      "from": "alerts@pnc.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Security",
+        "Alert"
+      ],
+      "has_attachments": false,
+      "size_bytes": 19000,
+      "content_preview": "Withdrawal of $15,000 from checking ending 4511 on 11/02/2021. If unauthorized, call 1-888-762-2265 immediately. Location: Pittsburgh, PA."
+    },
+    {
+      "id": "<20171212080000.6x7y8z9a@innotech-solutions.com>",
+      "date": "2017-12-12T08:00:00-05:00",
+      "subject": "2017 W-2 Preview",
+      "from": "payroll@innotech-solutions.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Work"
+      ],
+      "has_attachments": false,
+      "size_bytes": 22000,
+      "content_preview": "W-2 for 2017 will be available 01/31/2018. Estimated wages: $72,000. Verify your address: 6452 Laurel Creek Court, Pittsburgh, PA 15233."
+    },
+    {
+      "id": "<20240501100000.8z9a0b1c@vanguard.com>",
+      "date": "2024-05-01T10:00:00-04:00",
+      "subject": "Password Reset Request",
+      "from": "security@vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Security",
+        "Password"
+      ],
+      "has_attachments": false,
+      "size_bytes": 15000,
+      "content_preview": "Temporary password: Xk9#mP2$vLqR. This expires in 24 hours. If you did not request this reset, call 1-800-523-1188. Account ending 8842."
+    },
+    {
+      "id": "<20230915120000.0b1c2d3e@irs.gov>",
+      "date": "2023-09-15T12:00:00-04:00",
+      "subject": "Estimated Tax Payment Received",
+      "from": "efile@irs.gov",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Estimated"
+      ],
+      "has_attachments": false,
+      "size_bytes": 16000,
+      "content_preview": "Third quarter 2023 estimated tax payment of $3,100 received 09/15/2023. Confirmation: PMT-2023-44511. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20220520093000.2d3e4f5g@morganassociates.law>",
+      "date": "2022-05-20T09:30:00-04:00",
+      "subject": "Durable Power of Attorney - Draft for Review",
+      "from": "joshua.morgan@morganassociates.law",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "cc": [
+        "nina.park@harborinbox.com"
+      ],
+      "labels": [
+        "Legal",
+        "POA"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "DPOA_Draft_Patel_2022.pdf"
+      ],
+      "size_bytes": 480000,
+      "content_preview": "Attached is the draft DPOA naming Nina Park as agent. Please review Section 4 regarding financial powers. SSN: 412-88-4511 referenced for notarization."
+    },
+    {
+      "id": "<20190610110000.4f5g6h7i@schneiderlaw.com>",
+      "date": "2019-06-10T11:00:00-04:00",
+      "subject": "Retainer Agreement for Real Estate Closing",
+      "from": "sarah.schneider@schneiderlaw.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Legal",
+        "Real Estate"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Retainer_Agreement_6452_Laurel.pdf"
+      ],
+      "size_bytes": 320000,
+      "content_preview": "Retainer for representation at closing on 6452 Laurel Creek Court. Fee: $850. Wire instructions attached. Reference: SCH-2019-8842."
+    },
+    {
+      "id": "<20201003143000.6h7i8j9k@brightlinesystems.com>",
+      "date": "2020-10-03T14:30:00-04:00",
+      "subject": "NDA for Project Horizon - Signed Copy",
+      "from": "legal@brightlinesystems.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "Legal",
+        "NDA",
+        "Work"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "NDA_Horizon_Signed.pdf"
+      ],
+      "size_bytes": 280000,
+      "content_preview": "Countersigned NDA returned. Client: Acme Corp. Effective date: 10/01/2020. Employee: Maya Patel (ID: MP128450). Keep for your records."
+    },
+    {
+      "id": "<20230128120000.8j9k0l1m@alleghenycounty.us>",
+      "date": "2023-01-28T12:00:00-05:00",
+      "subject": "Deed Recorded - Confirmation",
+      "from": "recorder@alleghenycounty.us",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Property",
+        "Recorded"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Deed_Recorded_6452_Laurel.pdf"
+      ],
+      "size_bytes": 890000,
+      "content_preview": "Deed for 6452 Laurel Creek Court recorded 01/25/2023. Instrument #88424511. Grantors: Maya Patel and Nina Park. Tax ID: 0489-A-001."
+    },
+    {
+      "id": "<20211231100000.0l1m2n3o@paypal.com>",
+      "date": "2021-12-31T10:00:00-05:00",
+      "subject": "You sent $1,200.00 to Priya Shah",
+      "from": "service@paypal.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Payment",
+        "Personal"
+      ],
+      "has_attachments": false,
+      "size_bytes": 24000,
+      "content_preview": "Transaction ID: 8XY12345. Sent to priya.shah@fastmail.net. For: Shared consulting equipment. SSN on file: XXX-XX-4511."
+    },
+    {
+      "id": "<20181205090000.2n3o4p5q@vanguard.com>",
+      "date": "2018-12-05T09:00:00-05:00",
+      "subject": "Year-End Investment Report 2018",
+      "from": "annualreports@vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Finance",
+        "Annual"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Annual_Report_2018_8842.pdf"
+      ],
+      "size_bytes": 1240000,
+      "content_preview": "Annual report for accounts ending 8842 and 9923. Total balance: $45,600. Tax lots harvested: $2,400 loss. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20220415120000.4p5q6r7s@pnc.com>",
+      "date": "2022-04-15T12:00:00-04:00",
+      "subject": "Important Tax Documents Ready",
+      "from": "taxforms@pnc.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax",
+        "Banking"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "1099_INT_MISC_2021.pdf"
+      ],
+      "size_bytes": 156000,
+      "content_preview": "1099-INT and 1099-MISC for account ending 4511 available. Interest income: $45.00. Sign in to download. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20220310113000.6r7s8t9u@highmark.com>",
+      "date": "2022-03-10T11:30:00-05:00",
+      "subject": "Flexible Spending Account Reimbursement",
+      "from": "fsa@highmark.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "FSA",
+        "Reimbursement"
+      ],
+      "has_attachments": false,
+      "size_bytes": 21000,
+      "content_preview": "Reimbursement of $340.00 approved. Claim: Dental work 02/28/2022. Deposit to account ending 4511. SSN: XXX-XX-4511."
+    },
+    {
+      "id": "<20210325093000.8t9u0v1w@chase.com>",
+      "date": "2021-03-25T09:30:00-04:00",
+      "subject": "New Card Issued - Expired Card Replacement",
+      "from": "cards@chase.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Credit Card"
+      ],
+      "has_attachments": false,
+      "size_bytes": 18000,
+      "content_preview": "New Chase Freedom card ending 7741 issued. Old card ending 4511 expires 04/30/2021. Activate new card upon receipt. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20200714140000.0v1w2x3y@innotech-solutions.com>",
+      "date": "2020-07-14T14:00:00-04:00",
+      "subject": "COBRA Enrollment Deadline Approaching",
+      "from": "benefits@innotech-solutions.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Benefits",
+        "COBRA"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "COBRA_Election_Form.pdf"
+      ],
+      "size_bytes": 245000,
+      "content_preview": "Your COBRA election period ends 07/30/2020. Monthly premium: $1,850. To elect, complete form with SSN 412-88-4511 attached."
+    },
+    {
+      "id": "<20171228120000.2x3y4z5a@taxact.com>",
+      "date": "2017-12-28T12:00:00-05:00",
+      "subject": "2017 Tax Return Draft",
+      "from": "support@taxact.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Tax"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Draft_Return_2017.pdf"
+      ],
+      "size_bytes": 380000,
+      "content_preview": "Draft return attached. Refund estimate: $2,100. Filing status: Single. SSN: 412-88-4511. Review before e-file on 01/15/2018."
+    },
+    {
+      "id": "<20230518100000.4z5a6b7c@brightlinesystems.com>",
+      "date": "2023-05-18T10:00:00-04:00",
+      "subject": "Expense Report Approved - Reimbursement $2,340",
+      "from": "expenses@brightlinesystems.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "Expense",
+        "Reimbursement"
+      ],
+      "has_attachments": false,
+      "size_bytes": 27000,
+      "content_preview": "Report #ER-2023-445 approved. Reimbursement for San Francisco client visit. Deposit to payroll account ending 4511 in 2 business days."
+    },
+    {
+      "id": "<20190322093000.6b7c8d9e@wellsfargo.com>",
+      "date": "2019-03-22T09:30:00-04:00",
+      "subject": "Mortgage Pre-Approval Letter",
+      "from": "mortgage@wellsfargo.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Mortgage",
+        "Pre-Approval"
+      ],
+      "has_attachments": true,
+      "attachment_names": [
+        "Preapproval_Letter_Patel_350k.pdf"
+      ],
+      "size_bytes": 180000,
+      "content_preview": "Pre-approval for $350,000. Rate lock available until 04/22/2019. SSN: 412-88-4511. Property search: Pittsburgh, PA 15233."
+    },
+    {
+      "id": "<20211115080000.8d9e0f1g@adp.com>",
+      "date": "2021-11-15T08:00:00-05:00",
+      "subject": "Payroll Advice - Bonus Payment",
+      "from": "payroll@adp.com",
+      "to": [
+        "maya.patel@brightlinesystems.com"
+      ],
+      "labels": [
+        "Payroll",
+        "Bonus"
+      ],
+      "has_attachments": false,
+      "size_bytes": 31000,
+      "content_preview": "Net pay: $8,920.00. Gross bonus: $12,000. Withholdings: Federal $2,640, Social Security $744. Deposit to account 4511. SSN: 412-88-4511."
+    },
+    {
+      "id": "<20240601090000.0f1g2h3i@vanguard.com>",
+      "date": "2024-06-01T09:00:00-04:00",
+      "subject": "Secure Message: Account Verification Required",
+      "from": "secure@vanguard.com",
+      "to": [
+        "maya.patel@harborinbox.com"
+      ],
+      "labels": [
+        "Security",
+        "Verification"
+      ],
+      "has_attachments": false,
+      "size_bytes": 12000,
+      "content_preview": "For security, verify your identity. Reference code: VG-4511-7782. Call 1-800-523-1188. Do not reply to email. Account ending 8842."
+    }
+  ]
+}

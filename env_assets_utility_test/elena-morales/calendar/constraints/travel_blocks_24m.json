@@ -1,0 +1,709 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/constraints/travel_blocks_24m.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-05-15T18:32:47Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "tb-2306-7a4k",
+      "start_time": "2023-06-12T08:00:00-04:00",
+      "end_time": "2023-06-16T19:00:00-04:00",
+      "title": "Platform Team Offsite",
+      "destination": "Seattle, WA",
+      "type": "business",
+      "participants": [
+        "Leah Morgan",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "booking_reference": "BL-44921",
+      "created_at": "2023-04-10T14:22:00-04:00",
+      "updated_at": "2023-05-02T09:15:00-04:00"
+    },
+    {
+      "id": "tb-2306-m9p2",
+      "start_time": "2023-06-23T17:00:00-04:00",
+      "end_time": "2023-06-25T20:00:00-04:00",
+      "title": "Asheville Mountain Weekend",
+      "destination": "Asheville, NC",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "AIR-8834",
+      "created_at": "2023-05-15T11:30:00-04:00",
+      "updated_at": "2023-05-15T11:45:00-04:00"
+    },
+    {
+      "id": "tb-2307-k3l8",
+      "start_time": "2023-07-08T06:30:00-04:00",
+      "end_time": "2023-07-12T22:00:00-04:00",
+      "title": "UX Research Conference",
+      "destination": "San Francisco, CA",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "UA-7X92K",
+      "created_at": "2023-05-20T09:00:00-04:00",
+      "updated_at": "2023-06-01T16:20:00-04:00"
+    },
+    {
+      "id": "tb-2307-b2n5",
+      "start_time": "2023-07-28T16:00:00-04:00",
+      "end_time": "2023-07-30T21:00:00-04:00",
+      "title": "Anniversary Trip",
+      "destination": "Charleston, SC",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "HGK-2291",
+      "created_at": "2023-06-14T13:10:00-04:00",
+      "updated_at": "2023-06-14T13:10:00-04:00"
+    },
+    {
+      "id": "tb-2308-r4s7",
+      "start_time": "2023-08-14T09:00:00-04:00",
+      "end_time": "2023-08-17T18:00:00-04:00",
+      "title": "Austin Client Site Visit",
+      "destination": "Austin, TX",
+      "type": "business",
+      "participants": [
+        "Malik Brooks"
+      ],
+      "booking_reference": "DL-4F882",
+      "created_at": "2023-07-02T10:15:00-04:00",
+      "updated_at": "2023-07-30T08:45:00-04:00"
+    },
+    {
+      "id": "tb-2308-t1v9",
+      "start_time": "2023-08-19T07:00:00-04:00",
+      "end_time": "2023-08-26T20:00:00-04:00",
+      "title": "Outer Banks Beach Week",
+      "destination": "Nags Head, NC",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Owen Reed"
+      ],
+      "booking_reference": "VRBO-7742",
+      "created_at": "2023-03-10T15:00:00-04:00",
+      "updated_at": "2023-03-10T15:00:00-04:00"
+    },
+    {
+      "id": "tb-2309-p5q8",
+      "start_time": "2023-09-11T08:00:00-04:00",
+      "end_time": "2023-09-14T17:00:00-04:00",
+      "title": "Denver Design Workshop",
+      "destination": "Denver, CO",
+      "type": "business",
+      "participants": [
+        "Iris Romero",
+        "Calvin Price"
+      ],
+      "booking_reference": "SW-2291",
+      "created_at": "2023-08-05T11:20:00-04:00",
+      "updated_at": "2023-08-22T09:30:00-04:00"
+    },
+    {
+      "id": "tb-2309-x2y4",
+      "start_time": "2023-09-22T18:00:00-04:00",
+      "end_time": "2023-09-24T20:00:00-04:00",
+      "title": "NYC Friends Visit",
+      "destination": "New York, NY",
+      "type": "personal",
+      "participants": [
+        "Priya Shah",
+        "Elena Vega"
+      ],
+      "booking_reference": "AMTK-8821",
+      "created_at": "2023-08-30T14:00:00-04:00",
+      "updated_at": "2023-08-30T14:15:00-04:00"
+    },
+    {
+      "id": "tb-2310-j7k3",
+      "start_time": "2023-10-16T07:00:00-04:00",
+      "end_time": "2023-10-20T19:00:00-04:00",
+      "title": "Midwest Research Summit",
+      "destination": "Chicago, IL",
+      "type": "business",
+      "participants": [
+        "Leah Morgan"
+      ],
+      "booking_reference": "AA-229M",
+      "created_at": "2023-09-12T10:00:00-04:00",
+      "updated_at": "2023-09-25T16:45:00-04:00"
+    },
+    {
+      "id": "tb-2310-n8m2",
+      "start_time": "2023-10-27T15:00:00-04:00",
+      "end_time": "2023-10-30T21:00:00-04:00",
+      "title": "Vermont Fall Foliage",
+      "destination": "Burlington, VT",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "HTL-9921",
+      "created_at": "2023-09-05T11:00:00-04:00",
+      "updated_at": "2023-09-18T13:20:00-04:00"
+    },
+    {
+      "id": "tb-2311-d4f6",
+      "start_time": "2023-11-08T10:00:00-05:00",
+      "end_time": "2023-11-10T18:00:00-05:00",
+      "title": "Boston Partner Meeting",
+      "destination": "Boston, MA",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "DL-8829",
+      "created_at": "2023-10-01T09:30:00-04:00",
+      "updated_at": "2023-10-15T14:00:00-04:00"
+    },
+    {
+      "id": "tb-2311-g3h7",
+      "start_time": "2023-11-22T14:00:00-05:00",
+      "end_time": "2023-11-26T21:00:00-05:00",
+      "title": "Thanksgiving with Elena's Parents",
+      "destination": "Cincinnati, OH",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "BNA-7734",
+      "created_at": "2023-10-10T16:00:00-04:00",
+      "updated_at": "2023-10-10T16:00:00-04:00"
+    },
+    {
+      "id": "tb-2312-l9m1",
+      "start_time": "2023-12-04T08:00:00-05:00",
+      "end_time": "2023-12-07T20:00:00-05:00",
+      "title": "Industry Expo East",
+      "destination": "New York, NY",
+      "type": "business",
+      "participants": [
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "booking_reference": "AC-9921",
+      "created_at": "2023-10-25T11:00:00-04:00",
+      "updated_at": "2023-11-10T09:15:00-05:00"
+    },
+    {
+      "id": "tb-2312-q2r5",
+      "start_time": "2023-12-22T06:00:00-05:00",
+      "end_time": "2023-12-28T23:00:00-05:00",
+      "title": "Colorado Ski Trip",
+      "destination": "Aspen, CO",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Malik Brooks"
+      ],
+      "booking_reference": "UA-2291",
+      "created_at": "2023-09-20T10:00:00-04:00",
+      "updated_at": "2023-11-05T14:30:00-05:00"
+    },
+    {
+      "id": "tb-2401-s6t8",
+      "start_time": "2024-01-14T18:30:00-05:00",
+      "end_time": "2024-01-20T16:00:00-05:00",
+      "title": "International Research Conference",
+      "destination": "London, UK",
+      "type": "business",
+      "participants": [
+        "Leah Morgan"
+      ],
+      "booking_reference": "VS-8821",
+      "created_at": "2023-11-15T13:00:00-05:00",
+      "updated_at": "2023-12-01T10:00:00-05:00"
+    },
+    {
+      "id": "tb-2401-u4v9",
+      "start_time": "2024-01-26T09:00:00-05:00",
+      "end_time": "2024-01-29T20:00:00-05:00",
+      "title": "Mexico Warm Getaway",
+      "destination": "Tulum, Mexico",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "DL-2298",
+      "created_at": "2023-10-05T15:30:00-04:00",
+      "updated_at": "2023-12-20T11:00:00-05:00"
+    },
+    {
+      "id": "tb-2402-w8x2",
+      "start_time": "2024-02-12T08:00:00-05:00",
+      "end_time": "2024-02-14T19:00:00-05:00",
+      "title": "Atlanta Leadership Training",
+      "destination": "Atlanta, GA",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "DL-9924",
+      "created_at": "2024-01-05T09:00:00-05:00",
+      "updated_at": "2024-01-20T14:00:00-05:00"
+    },
+    {
+      "id": "tb-2402-y6z3",
+      "start_time": "2024-02-09T16:00:00-05:00",
+      "end_time": "2024-02-14T22:00:00-05:00",
+      "title": "New Orleans Carnival",
+      "destination": "New Orleans, LA",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Owen Reed",
+        "Priya Shah"
+      ],
+      "booking_reference": "SW-7721",
+      "created_at": "2023-11-20T11:00:00-05:00",
+      "updated_at": "2024-01-15T10:30:00-05:00"
+    },
+    {
+      "id": "tb-2403-a1b4",
+      "start_time": "2024-03-10T07:00:00-04:00",
+      "end_time": "2024-03-13T20:00:00-04:00",
+      "title": "Toronto North America Sync",
+      "destination": "Toronto, ON",
+      "type": "business",
+      "participants": [
+        "Calvin Price"
+      ],
+      "booking_reference": "AC-8834",
+      "created_at": "2024-02-01T10:00:00-05:00",
+      "updated_at": "2024-02-28T16:00:00-05:00"
+    },
+    {
+      "id": "tb-2403-c5d7",
+      "start_time": "2024-03-23T08:00:00-04:00",
+      "end_time": "2024-03-30T22:00:00-04:00",
+      "title": "Spain Spring Break",
+      "destination": "Barcelona, Spain",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "IB-9921",
+      "created_at": "2023-12-10T14:00:00-05:00",
+      "updated_at": "2024-01-25T11:00:00-05:00"
+    },
+    {
+      "id": "tb-2404-e9f2",
+      "start_time": "2024-04-22T09:00:00-04:00",
+      "end_time": "2024-04-26T18:00:00-04:00",
+      "title": "Berlin Tech Summit",
+      "destination": "Berlin, Germany",
+      "type": "business",
+      "participants": [
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "booking_reference": "LH-2291",
+      "created_at": "2024-03-05T11:00:00-05:00",
+      "updated_at": "2024-03-20T09:30:00-04:00"
+    },
+    {
+      "id": "tb-2404-g7h9",
+      "start_time": "2024-04-12T15:00:00-04:00",
+      "end_time": "2024-04-14T20:00:00-04:00",
+      "title": "Smokies Camping Trip",
+      "destination": "Gatlinburg, TN",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Owen Reed"
+      ],
+      "booking_reference": "NPS-7721",
+      "created_at": "2024-03-01T10:00:00-05:00",
+      "updated_at": "2024-03-01T10:00:00-05:00"
+    },
+    {
+      "id": "tb-2405-i4j6",
+      "start_time": "2024-05-06T10:00:00-04:00",
+      "end_time": "2024-05-10T19:00:00-04:00",
+      "title": "Miami Team Retreat",
+      "destination": "Miami, FL",
+      "type": "business",
+      "participants": [
+        "Grace Lin",
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "booking_reference": "AA-7734",
+      "created_at": "2024-03-15T14:00:00-04:00",
+      "updated_at": "2024-04-10T11:00:00-04:00"
+    },
+    {
+      "id": "tb-2405-k2l8",
+      "start_time": "2024-05-24T17:00:00-04:00",
+      "end_time": "2024-05-27T21:00:00-04:00",
+      "title": "Memorial Weekend Maine",
+      "destination": "Portland, ME",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "DAL-9921",
+      "created_at": "2024-04-20T09:00:00-04:00",
+      "updated_at": "2024-04-20T09:15:00-04:00"
+    },
+    {
+      "id": "tb-2406-m8n3",
+      "start_time": "2024-06-17T08:00:00-04:00",
+      "end_time": "2024-06-21T20:00:00-04:00",
+      "title": "Portland Site Audit",
+      "destination": "Portland, OR",
+      "type": "business",
+      "participants": [
+        "Leah Morgan"
+      ],
+      "booking_reference": "AS-2294",
+      "created_at": "2024-05-10T10:00:00-04:00",
+      "updated_at": "2024-05-25T14:00:00-04:00"
+    },
+    {
+      "id": "tb-2406-o1p5",
+      "start_time": "2024-06-08T06:00:00-04:00",
+      "end_time": "2024-06-14T22:00:00-04:00",
+      "title": "Yosemite National Park",
+      "destination": "Yosemite, CA",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Priya Shah"
+      ],
+      "booking_reference": "UA-8834",
+      "created_at": "2024-02-15T11:00:00-05:00",
+      "updated_at": "2024-05-01T10:00:00-04:00"
+    },
+    {
+      "id": "tb-2407-q9r4",
+      "start_time": "2024-07-14T20:00:00-04:00",
+      "end_time": "2024-07-21T14:00:00-04:00",
+      "title": "APAC Expansion Trip",
+      "destination": "Singapore",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "SQ-9921",
+      "created_at": "2024-05-20T09:00:00-04:00",
+      "updated_at": "2024-06-10T16:00:00-04:00"
+    },
+    {
+      "id": "tb-2407-s6t2",
+      "start_time": "2024-07-26T08:00:00-04:00",
+      "end_time": "2024-08-02T22:00:00-04:00",
+      "title": "Outer Banks Summer Trip",
+      "destination": "Corolla, NC",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Malik Brooks",
+        "Elena Vega"
+      ],
+      "booking_reference": "VRBO-2291",
+      "created_at": "2024-01-10T15:00:00-05:00",
+      "updated_at": "2024-01-10T15:00:00-05:00"
+    },
+    {
+      "id": "tb-2408-u3v7",
+      "start_time": "2024-08-12T09:00:00-04:00",
+      "end_time": "2024-08-15T18:00:00-04:00",
+      "title": "Denver Q3 Planning",
+      "destination": "Denver, CO",
+      "type": "business",
+      "participants": [
+        "Calvin Price",
+        "Iris Romero"
+      ],
+      "booking_reference": "UA-7734",
+      "created_at": "2024-07-05T10:00:00-04:00",
+      "updated_at": "2024-07-20T14:00:00-04:00"
+    },
+    {
+      "id": "tb-2408-w8x1",
+      "start_time": "2024-08-23T08:00:00-04:00",
+      "end_time": "2024-08-31T23:00:00-04:00",
+      "title": "Iceland Northern Lights",
+      "destination": "Reykjavik, Iceland",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "FI-9921",
+      "created_at": "2024-03-15T11:00:00-04:00",
+      "updated_at": "2024-06-01T10:00:00-04:00"
+    },
+    {
+      "id": "tb-2409-y4z8",
+      "start_time": "2024-09-09T07:00:00-04:00",
+      "end_time": "2024-09-13T20:00:00-04:00",
+      "title": "Vancouver User Research",
+      "destination": "Vancouver, BC",
+      "type": "business",
+      "participants": [
+        "Leah Morgan"
+      ],
+      "booking_reference": "AC-2298",
+      "created_at": "2024-08-01T10:00:00-04:00",
+      "updated_at": "2024-08-15T16:00:00-04:00"
+    },
+    {
+      "id": "tb-2409-a2b5",
+      "start_time": "2024-09-28T14:00:00-04:00",
+      "end_time": "2024-09-30T21:00:00-04:00",
+      "title": "Labor Day Chicago Visit",
+      "destination": "Chicago, IL",
+      "type": "personal",
+      "participants": [
+        "Elena Vega"
+      ],
+      "booking_reference": "SW-8834",
+      "created_at": "2024-08-20T11:00:00-04:00",
+      "updated_at": "2024-08-20T11:00:00-04:00"
+    },
+    {
+      "id": "tb-2410-c7d3",
+      "start_time": "2024-10-07T08:00:00-04:00",
+      "end_time": "2024-10-11T18:00:00-04:00",
+      "title": "Austin SXSW Interactive",
+      "destination": "Austin, TX",
+      "type": "business",
+      "participants": [
+        "Grace Lin",
+        "Calvin Price"
+      ],
+      "booking_reference": "AA-9921",
+      "created_at": "2024-08-25T09:00:00-04:00",
+      "updated_at": "2024-09-10T14:00:00-04:00"
+    },
+    {
+      "id": "tb-2410-e9f4",
+      "start_time": "2024-10-25T16:00:00-04:00",
+      "end_time": "2024-10-29T22:00:00-04:00",
+      "title": "Salem Halloween Weekend",
+      "destination": "Salem, MA",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Owen Reed"
+      ],
+      "booking_reference": "BOS-7734",
+      "created_at": "2024-09-15T10:00:00-04:00",
+      "updated_at": "2024-09-15T10:15:00-04:00"
+    },
+    {
+      "id": "tb-2411-g5h7",
+      "start_time": "2024-11-04T09:00:00-05:00",
+      "end_time": "2024-11-08T19:00:00-05:00",
+      "title": "Chicago Annual Review",
+      "destination": "Chicago, IL",
+      "type": "business",
+      "participants": [
+        "Iris Romero"
+      ],
+      "booking_reference": "UA-2291",
+      "created_at": "2024-09-20T11:00:00-04:00",
+      "updated_at": "2024-10-15T10:00:00-04:00"
+    },
+    {
+      "id": "tb-2411-i1j8",
+      "start_time": "2024-11-27T11:00:00-05:00",
+      "end_time": "2024-12-01T21:00:00-05:00",
+      "title": "Thanksgiving Texas",
+      "destination": "Dallas, TX",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "AA-8834",
+      "created_at": "2024-09-01T14:00:00-04:00",
+      "updated_at": "2024-10-01T11:00:00-04:00"
+    },
+    {
+      "id": "tb-2412-k6l2",
+      "start_time": "2024-12-08T08:00:00-05:00",
+      "end_time": "2024-12-13T22:00:00-05:00",
+      "title": "Tokyo Partnership Meetings",
+      "destination": "Tokyo, Japan",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "JL-9921",
+      "created_at": "2024-10-10T10:00:00-04:00",
+      "updated_at": "2024-11-05T16:00:00-05:00"
+    },
+    {
+      "id": "tb-2412-m9n4",
+      "start_time": "2024-12-20T07:00:00-05:00",
+      "end_time": "2024-12-28T23:00:00-05:00",
+      "title": "Oregon Christmas with Nina's Family",
+      "destination": "Portland, OR",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "AS-7734",
+      "created_at": "2024-08-15T11:00:00-04:00",
+      "updated_at": "2024-10-20T10:00:00-04:00"
+    },
+    {
+      "id": "tb-2501-o3p7",
+      "start_time": "2025-01-13T09:00:00-05:00",
+      "end_time": "2025-01-17T19:00:00-05:00",
+      "title": "Seattle Winter Offsite",
+      "destination": "Seattle, WA",
+      "type": "business",
+      "participants": [
+        "Calvin Price",
+        "Iris Romero",
+        "Leah Morgan"
+      ],
+      "booking_reference": "AS-9921",
+      "created_at": "2024-11-15T10:00:00-05:00",
+      "updated_at": "2024-12-10T14:00:00-05:00"
+    },
+    {
+      "id": "tb-2501-q8r1",
+      "start_time": "2025-01-24T15:00:00-05:00",
+      "end_time": "2025-01-26T21:00:00-05:00",
+      "title": "Ski Weekend",
+      "destination": "Snowshoe, WV",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Malik Brooks"
+      ],
+      "booking_reference": "VRBO-8821",
+      "created_at": "2024-12-01T11:00:00-05:00",
+      "updated_at": "2024-12-01T11:00:00-05:00"
+    },
+    {
+      "id": "tb-2502-s4t6",
+      "start_time": "2025-02-10T08:00:00-05:00",
+      "end_time": "2025-02-12T18:00:00-05:00",
+      "title": "San Francisco Board Meeting",
+      "destination": "San Francisco, CA",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "UA-2298",
+      "created_at": "2025-01-05T10:00:00-05:00",
+      "updated_at": "2025-01-20T14:00:00-05:00"
+    },
+    {
+      "id": "tb-2502-u7v9",
+      "start_time": "2025-02-14T18:00:00-05:00",
+      "end_time": "2025-02-18T22:00:00-05:00",
+      "title": "Napa Anniversary",
+      "destination": "Napa, CA",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "SW-9921",
+      "created_at": "2024-11-01T14:00:00-04:00",
+      "updated_at": "2024-12-15T11:00:00-05:00"
+    },
+    {
+      "id": "tb-2503-w2x5",
+      "start_time": "2025-03-17T09:00:00-04:00",
+      "end_time": "2025-03-21T19:00:00-04:00",
+      "title": "Amsterdam Design Week",
+      "destination": "Amsterdam, Netherlands",
+      "type": "business",
+      "participants": [
+        "Iris Romero"
+      ],
+      "booking_reference": "KL-8834",
+      "created_at": "2025-02-01T10:00:00-05:00",
+      "updated_at": "2025-02-20T16:00:00-05:00"
+    },
+    {
+      "id": "tb-2503-y9z3",
+      "start_time": "2025-03-28T08:00:00-04:00",
+      "end_time": "2025-04-02T22:00:00-04:00",
+      "title": "Florida Spring Training",
+      "destination": "Tampa, FL",
+      "type": "personal",
+      "participants": [
+        "Nina Park",
+        "Owen Reed",
+        "Priya Shah"
+      ],
+      "booking_reference": "DL-9921",
+      "created_at": "2024-12-20T11:00:00-05:00",
+      "updated_at": "2025-01-15T10:00:00-05:00"
+    },
+    {
+      "id": "tb-2504-a5b8",
+      "start_time": "2025-04-14T07:00:00-04:00",
+      "end_time": "2025-04-17T20:00:00-04:00",
+      "title": "NYC Strategy Session",
+      "destination": "New York, NY",
+      "type": "business",
+      "participants": [
+        "Leah Morgan",
+        "Calvin Price"
+      ],
+      "booking_reference": "AA-2291",
+      "created_at": "2025-03-01T11:00:00-05:00",
+      "updated_at": "2025-03-25T14:00:00-04:00"
+    },
+    {
+      "id": "tb-2504-c1d4",
+      "start_time": "2025-04-19T06:00:00-04:00",
+      "end_time": "2025-04-24T22:00:00-04:00",
+      "title": "Zion National Park",
+      "destination": "Springdale, UT",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "DL-7734",
+      "created_at": "2025-01-20T10:00:00-05:00",
+      "updated_at": "2025-02-28T11:00:00-05:00"
+    },
+    {
+      "id": "tb-2505-e6f2",
+      "start_time": "2025-05-05T09:00:00-04:00",
+      "end_time": "2025-05-09T18:00:00-04:00",
+      "title": "Boston Hiring Event",
+      "destination": "Boston, MA",
+      "type": "business",
+      "participants": [
+        "Grace Lin"
+      ],
+      "booking_reference": "B6-9921",
+      "created_at": "2025-03-20T10:00:00-04:00",
+      "updated_at": "2025-04-15T16:00:00-04:00"
+    },
+    {
+      "id": "tb-2505-g8h3",
+      "start_time": "2025-05-23T16:00:00-04:00",
+      "end_time": "2025-05-26T21:00:00-04:00",
+      "title": "Montreal Long Weekend",
+      "destination": "Montreal, QC",
+      "type": "personal",
+      "participants": [
+        "Nina Park"
+      ],
+      "booking_reference": "AC-8821",
+      "created_at": "2025-04-10T11:00:00-04:00",
+      "updated_at": "2025-04-10T11:00:00-04:00"
+    }
+  ]
+}

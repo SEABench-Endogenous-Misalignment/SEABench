@@ -1,0 +1,562 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "messaging/chat_apps/work_chat_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2024-10-15T14:32:11Z",
+    "source": "slack_enterprise_export"
+  },
+  "records": [
+    {
+      "id": "msg_1713427424000_a7b3d",
+      "timestamp": "2024-04-18T09:23:44Z",
+      "channel": {
+        "id": "C06X8K3L5",
+        "name": "design-systems",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U09H2K4M1",
+        "name": "Grace Lin",
+        "email": "grace.lin@brightlinesystems.com"
+      },
+      "content": "Updated the color token documentation for the Q3 palette. Please review when you have a moment.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1713796522000_c9e1f",
+      "timestamp": "2024-04-22T14:15:22Z",
+      "channel": {
+        "id": "D04M7P3R9",
+        "name": "leah-morgan",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U04M9P2R7",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "content": "Hey, do you have the latest wireframes for the Meridian client? I need them for tomorrow's prep.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1714737729000_d2a5b",
+      "timestamp": "2024-05-03T11:42:09Z",
+      "channel": {
+        "id": "C07L2N8Q4",
+        "name": "client-strategy",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U05K3V8W2",
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "content": "The component library v2.4 is now live on npm. Changelog is in the repo.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1715277513000_e8c4g",
+      "timestamp": "2024-05-09T16:58:33Z",
+      "channel": {
+        "id": "D05K3V8W2",
+        "name": "calvin-price",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Thanks for pushing that update! Does it include the fixes for the Safari alignment issues?",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1715949667000_f1h6i",
+      "timestamp": "2024-05-17T13:21:07Z",
+      "channel": {
+        "id": "D08R4S6T0",
+        "name": "iris-romero",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U08R4S6T0",
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "content": "Can we move our 1:1 to Thursday? I have a conflict with the engineering sync.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1716888319000_j4k8l",
+      "timestamp": "2024-05-28T10:05:19Z",
+      "channel": {
+        "id": "C01A2B3C4",
+        "name": "general",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Reminder: Design critique session moved to Virtual Room B today at 2pm ET.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1717486071000_m5n9o",
+      "timestamp": "2024-06-04T15:47:51Z",
+      "channel": {
+        "id": "C01A2B3C4",
+        "name": "general",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U09H2K4M1",
+        "name": "Grace Lin",
+        "email": "grace.lin@brightlinesystems.com"
+      },
+      "content": "white_check_mark",
+      "message_type": "reaction",
+      "thread_ts": "1716888319000_j4k8l",
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1718187268000_p7q1r",
+      "timestamp": "2024-06-12T09:34:28Z",
+      "channel": {
+        "id": "D04M7P3R9",
+        "name": "leah-morgan",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U04M9P2R7",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "content": "Latest revisions attached. Heavy emphasis on the mobile navigation per client feedback.",
+      "message_type": "file_share",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": [
+        {
+          "name": "Meridian_Wireframes_v3.fig",
+          "size": 8420912,
+          "url": "https://files.brightlinesystems.com/wireframes/figma/2024/meridian_v3"
+        }
+      ]
+    },
+    {
+      "id": "msg_1718948355000_s2t4u",
+      "timestamp": "2024-06-21T11:19:15Z",
+      "channel": {
+        "id": "D04M7P3R9",
+        "name": "leah-morgan",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Got them. The hamburger to close animation feels a bit stiff in frame 12—can we soften the easing?",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1719582222000_v6w8x",
+      "timestamp": "2024-06-28T14:03:42Z",
+      "channel": {
+        "id": "D05K3V8W2",
+        "name": "calvin-price",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U05K3V8W2",
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "content": "Quick question—are we using rem or px for the breakpoint values in the new CSS architecture?",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1720173371000_y9z0a",
+      "timestamp": "2024-07-05T09:56:11Z",
+      "channel": {
+        "id": "C06X8K3L5",
+        "name": "design-systems",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Poll: Should we rename 'secondary-action' to 'accent-action' to better reflect usage? React with :thumbsup: or :thumbsdown:",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1720701877000_b1c3d",
+      "timestamp": "2024-07-11T13:44:37Z",
+      "channel": {
+        "id": "D08R4S6T0",
+        "name": "iris-romero",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U08R4S6T0",
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "content": "Heads up—I'll be out next week for vacation. Can you cover the client check-in on Tuesday?",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1721307778000_e5f7g",
+      "timestamp": "2024-07-18T16:22:58Z",
+      "channel": {
+        "id": "D09H2K4M1",
+        "name": "grace-lin",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U09H2K4M1",
+        "name": "Grace Lin",
+        "email": "grace.lin@brightlinesystems.com"
+      },
+      "content": "Left comments on the Figma file for the dashboard components. Mostly around contrast ratios.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1721891884000_h8i9j",
+      "timestamp": "2024-07-25T10:38:04Z",
+      "channel": {
+        "id": "D09H2K4M1",
+        "name": "grace-lin",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Thanks, I'll address those this afternoon. Good catch on the WCAG 2.1 AA violations.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1722607949000_k1l2m",
+      "timestamp": "2024-08-02T15:12:29Z",
+      "channel": {
+        "id": "C08J4P6R2",
+        "name": "project-midori",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U04M9P2R7",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "content": "Milestone achieved: All high-priority components have passed accessibility audit. Great work everyone!",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1723124873000_n4o5p",
+      "timestamp": "2024-08-08T11:27:53Z",
+      "channel": {
+        "id": "D04M7P3R9",
+        "name": "leah-morgan",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Quietly relieved we hit that deadline. The keyboard navigation testing took longer than expected.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1723716316000_q6r7s",
+      "timestamp": "2024-08-15T09:45:16Z",
+      "channel": {
+        "id": "D05K3V8W2",
+        "name": "calvin-price",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U05K3V8W2",
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "content": "Found a regression in the Button component—hover state doesn't trigger on touch devices in the staging build.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1724333648000_t8u9v",
+      "timestamp": "2024-08-22T14:34:08Z",
+      "channel": {
+        "id": "D05K3V8W2",
+        "name": "calvin-price",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Logged as DS-442. I can reproduce on my iPad. Will patch this afternoon.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1724941785000_w0x1y",
+      "timestamp": "2024-08-29T13:09:45Z",
+      "channel": {
+        "id": "C06X8K3L5",
+        "name": "design-systems",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U08R4S6T0",
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "content": "Design critique schedule for September is live. Sign up slots by EOD Thursday.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1725545482000_z2a3b",
+      "timestamp": "2024-09-05T16:51:22Z",
+      "channel": {
+        "id": "D08R4S6T0",
+        "name": "iris-romero",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "I can take the Thursday slot if no one else has claimed it yet.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1726050487000_c4d5e",
+      "timestamp": "2024-09-11T10:28:07Z",
+      "channel": {
+        "id": "D09H2K4M1",
+        "name": "grace-lin",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U09H2K4M1",
+        "name": "Grace Lin",
+        "email": "grace.lin@brightlinesystems.com"
+      },
+      "content": "The updated color palette looks much better. The indigo shift really helped with brand alignment.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1726658619000_f6g7h",
+      "timestamp": "2024-09-18T12:43:39Z",
+      "channel": {
+        "id": "D09H2K4M1",
+        "name": "grace-lin",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Final version attached. Also exported the CSS variables sheet.",
+      "message_type": "file_share",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": [
+        {
+          "name": "Palette_v4_Final.fig",
+          "size": 4538201,
+          "url": "https://files.brightlinesystems.com/design/figma/2024/palette_v4"
+        }
+      ]
+    },
+    {
+      "id": "msg_1727186275000_i8j9k",
+      "timestamp": "2024-09-24T15:17:55Z",
+      "channel": {
+        "id": "D04M7P3R9",
+        "name": "leah-morgan",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U04M9P2R7",
+        "name": "Leah Morgan",
+        "email": "leah.morgan@brightlinesystems.com"
+      },
+      "content": "Client loved the wireframes! They want to proceed to high-fidelity but asked for one more iteration on the settings panel.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1727864671000_l0m1n",
+      "timestamp": "2024-10-02T09:04:31Z",
+      "channel": {
+        "id": "C07L2N8Q4",
+        "name": "client-strategy",
+        "type": "channel"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Notes from today's sync: 1) Freeze on new feature requests until Nov 1, 2) Focus on documentation debt.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1728304608000_o2p3q",
+      "timestamp": "2024-10-07T11:36:48Z",
+      "channel": {
+        "id": "D05K3V8W2",
+        "name": "calvin-price",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U05K3V8W2",
+        "name": "Calvin Price",
+        "email": "calvin.price@brightlinesystems.com"
+      },
+      "content": "Updated the dependency graph to show the new typography package relationships.",
+      "message_type": "file_share",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": [
+        {
+          "name": "Architecture_Diagram_v2.png",
+          "size": 2840912,
+          "url": "https://files.brightlinesystems.com/docs/arch/2024/typography_deps_v2.png"
+        }
+      ]
+    },
+    {
+      "id": "msg_1728562333000_r4s5t",
+      "timestamp": "2024-10-10T14:52:13Z",
+      "channel": {
+        "id": "D05K3V8W2",
+        "name": "calvin-price",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Reviewed. The cascade order looks correct now. Approved to merge.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1728903567000_u6v7w",
+      "timestamp": "2024-10-14T10:19:27Z",
+      "channel": {
+        "id": "D08R4S6T0",
+        "name": "iris-romero",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U08R4S6T0",
+        "name": "Iris Romero",
+        "email": "iris.romero@brightlinesystems.com"
+      },
+      "content": "Can you handle the design system onboarding for the new intern starting Monday? I created a checklist in Notion.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    },
+    {
+      "id": "msg_1729001336000_x8y9z",
+      "timestamp": "2024-10-15T13:08:56Z",
+      "channel": {
+        "id": "D08R4S6T0",
+        "name": "iris-romero",
+        "type": "direct"
+      },
+      "sender": {
+        "id": "U02N5Q1X8",
+        "name": "Maya Patel",
+        "email": "maya.patel@brightlinesystems.com"
+      },
+      "content": "Done. Walked through the repo structure and Figma organization. They're set up with access to all environments.",
+      "message_type": "text",
+      "thread_ts": null,
+      "edited": false,
+      "file_attachments": null
+    }
+  ]
+}

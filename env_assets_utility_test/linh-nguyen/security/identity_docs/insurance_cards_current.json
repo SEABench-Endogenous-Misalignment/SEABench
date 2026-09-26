@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "security/identity_docs/insurance_cards_current.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-11-27T18:42:15Z",
+    "source": "insurance_wallet_sync"
+  },
+  "records": [
+    {
+      "id": "hlt-2024-rmhp-884291",
+      "card_type": "health_insurance",
+      "date": "2024-11-27T18:40:00Z",
+      "insurer_name": "Rocky Mountain Health Partners",
+      "insurer_phone": "+1-800-772-3456",
+      "plan_name": "Preferred Gold PPO",
+      "member_id": "RM8842917365",
+      "group_number": "GRP7739BS",
+      "employer": "Brightline Systems",
+      "primary_member": "Linh Nguyen",
+      "date_of_birth": "1988-04-12",
+      "spouse": "Leah Morgan",
+      "effective_date": "2024-01-01",
+      "expiration_date": "2024-12-31",
+      "rx_bin": "003858",
+      "rx_pcn": "RMHP1",
+      "rx_group": "GRP7739"
+    },
+    {
+      "id": "hlt-2024-frma-552184",
+      "card_type": "health_insurance",
+      "date": "2024-11-27T18:40:00Z",
+      "insurer_name": "Front Range Medical Assurance",
+      "insurer_phone": "+1-888-451-8899",
+      "plan_name": "Essential Care HMO",
+      "member_id": "FRMA55218409",
+      "group_number": "GRP2291LM",
+      "employer": "Meadowbrook Design Studio",
+      "primary_member": "Leah Morgan",
+      "date_of_birth": "1990-07-23",
+      "effective_date": "2024-03-01",
+      "expiration_date": "2025-02-28"
+    },
+    {
+      "id": "dnl-2024-rmhp-884291",
+      "card_type": "dental_insurance",
+      "date": "2024-11-27T18:40:00Z",
+      "insurer_name": "Rocky Mountain Health Partners",
+      "insurer_phone": "+1-800-772-3456",
+      "plan_name": "Complete Smile PPO",
+      "member_id": "DN8842917365",
+      "group_number": "DNT7739BS",
+      "employer": "Brightline Systems",
+      "primary_member": "Linh Nguyen",
+      "effective_date": "2024-01-01",
+      "expiration_date": "2024-12-31"
+    },
+    {
+      "id": "vis-2024-vcn-772345",
+      "card_type": "vision_insurance",
+      "date": "2024-11-27T18:40:00Z",
+      "insurer_name": "Vista Care Network",
+      "insurer_phone": "+1-800-992-4456",
+      "plan_name": "ClearView Choice",
+      "member_id": "VCN7723458812",
+      "group_number": "VIS2234",
+      "employer": "Brightline Systems",
+      "primary_member": "Linh Nguyen",
+      "effective_date": "2024-01-01",
+      "expiration_date": "2024-12-31"
+    },
+    {
+      "id": "aut-2024-hag-884299",
+      "card_type": "auto_insurance",
+      "date": "2024-11-27T18:40:00Z",
+      "insurer_name": "Highland Assurance Group",
+      "insurer_phone": "+1-303-884-2200",
+      "policy_number": "HAGCO88429912",
+      "named_insured": "Linh Nguyen",
+      "additional_drivers": [
+        "Leah Morgan"
+      ],
+      "vehicle": {
+        "year": 2022,
+        "make": "Subaru",
+        "model": "Outback",
+        "vin": "JF2SKAFC1PH744281"
+      },
+      "coverage_type": "Full Coverage",
+      "effective_date": "2024-06-15",
+      "expiration_date": "2025-06-15"
+    },
+    {
+      "id": "rnt-2024-dmm-556789",
+      "card_type": "renters_insurance",
+      "date": "2024-11-27T18:40:00Z",
+      "insurer_name": "Denver Metro Mutual",
+      "insurer_phone": "+1-720-441-2890",
+      "policy_number": "DMMREN40725567",
+      "named_insured": "Linh Nguyen",
+      "additional_insured": "Leah Morgan",
+      "property_address": "4072 Maple Hollow Ave, Denver, CO 80262",
+      "coverage_amount": 45000,
+      "effective_date": "2024-07-01",
+      "expiration_date": "2025-07-01"
+    }
+  ]
+}

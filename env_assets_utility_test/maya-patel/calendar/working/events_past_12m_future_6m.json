@@ -1,0 +1,368 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "calendar/working/events_past_12m_future_6m.json",
+    "time_span": "rolling 18m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-04-15T18:45:32Z",
+    "source": "calendar_sync"
+  },
+  "records": [
+    {
+      "id": "evt_2023_04_18_q2_planning",
+      "title": "Q2 Product Planning",
+      "start_time": "2023-04-18T10:00:00",
+      "end_time": "2023-04-18T11:00:00",
+      "timezone": "America/New_York",
+      "location": "Conference Room B, Riverton Health Labs",
+      "description": "Quarterly planning session for Q2 initiatives",
+      "attendees": [
+        "leah.morgan@rivertonhealthlabs.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2023_05_22_dental",
+      "title": "Dental Cleaning",
+      "start_time": "2023-05-22T09:30:00",
+      "end_time": "2023-05-22T10:30:00",
+      "timezone": "America/New_York",
+      "location": "Shadyside Dental Associates, 5800 Baum Boulevard",
+      "description": "Routine six-month cleaning",
+      "attendees": [],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2023_06_15_dinner_nina",
+      "title": "Dinner with Nina",
+      "start_time": "2023-06-15T19:00:00",
+      "end_time": "2023-06-15T21:00:00",
+      "timezone": "America/New_York",
+      "location": "Cafe Normandy, Squirrel Hill",
+      "description": "Catch up dinner",
+      "attendees": [
+        "nina.park@gmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2023_07_11_project_kickoff",
+      "title": "Data Integration Project Kickoff",
+      "start_time": "2023-07-11T14:00:00",
+      "end_time": "2023-07-11T15:30:00",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "description": "Initial meeting for new research data pipeline",
+      "attendees": [
+        "iris.romero@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2023_08_05_weekend_trip",
+      "title": "Lake Erie Weekend",
+      "start_time": "2023-08-05T08:00:00",
+      "end_time": "2023-08-07T20:00:00",
+      "timezone": "America/New_York",
+      "location": "Presque Isle State Park",
+      "description": "Beach camping trip",
+      "attendees": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2023_09_20_ux_review",
+      "title": "UX Research Review",
+      "start_time": "2023-09-20T13:00:00",
+      "end_time": "2023-09-20T14:00:00",
+      "timezone": "America/New_York",
+      "location": "Design Lab, Floor 3",
+      "description": "Review recent user testing results",
+      "attendees": [
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2023_10_01_rent_reminder",
+      "title": "Rent Payment Reminder",
+      "start_time": "2023-10-01T09:00:00",
+      "end_time": "2023-10-01T09:30:00",
+      "timezone": "America/New_York",
+      "location": null,
+      "description": "Submit rent payment to landlord",
+      "attendees": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2023_11_14_physical",
+      "title": "Annual Physical",
+      "start_time": "2023-11-14T10:00:00",
+      "end_time": "2023-11-14T11:00:00",
+      "timezone": "America/New_York",
+      "location": "UPMC Shadyside, 5230 Centre Avenue",
+      "description": "Annual wellness exam",
+      "attendees": [],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2023_12_08_holiday_party",
+      "title": "Riverton Holiday Party",
+      "start_time": "2023-12-08T17:30:00",
+      "end_time": "2023-12-08T20:00:00",
+      "timezone": "America/New_York",
+      "location": "Phipps Conservatory",
+      "description": "Company-wide holiday celebration",
+      "attendees": [
+        "leah.morgan@rivertonhealthlabs.com",
+        "calvin.price@rivertonhealthlabs.com",
+        "iris.romero@rivertonhealthlabs.com",
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "organizer": "hr@rivertonhealthlabs.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_01_28_family_call",
+      "title": "Family Video Call",
+      "start_time": "2024-01-28T16:00:00",
+      "end_time": "2024-01-28T17:00:00",
+      "timezone": "America/New_York",
+      "location": "Home Office",
+      "description": "Monthly check-in with parents",
+      "attendees": [],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_02_15_budget_review",
+      "title": "Q1 Budget Review",
+      "start_time": "2024-02-15T11:00:00",
+      "end_time": "2024-02-15T12:00:00",
+      "timezone": "America/New_York",
+      "location": "Conference Room A",
+      "description": "Review research department spending",
+      "attendees": [
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_03_23_hiking",
+      "title": "Hiking - Frick Park",
+      "start_time": "2024-03-23T09:00:00",
+      "end_time": "2024-03-23T13:00:00",
+      "timezone": "America/New_York",
+      "location": "Frick Park Environmental Center",
+      "description": "Spring hiking with friends",
+      "attendees": [
+        "owen.reed@fastmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_04_10_performance_review",
+      "title": "Annual Performance Review",
+      "start_time": "2024-04-10T14:00:00",
+      "end_time": "2024-04-10T15:00:00",
+      "timezone": "America/New_York",
+      "location": "Leah's Office",
+      "description": "2023-2024 performance evaluation",
+      "attendees": [
+        "leah.morgan@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_05_18_dinner_malik",
+      "title": "Dinner - Malik",
+      "start_time": "2024-05-18T19:30:00",
+      "end_time": "2024-05-18T21:30:00",
+      "timezone": "America/New_York",
+      "location": "Dinette, 5996 Centre Avenue",
+      "description": "Birthday celebration dinner",
+      "attendees": [
+        "malik.brooks@protonmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_06_05_conference_prep",
+      "title": "UXPA Conference Prep",
+      "start_time": "2024-06-05T10:00:00",
+      "end_time": "2024-06-05T11:30:00",
+      "timezone": "America/New_York",
+      "location": "Zoom",
+      "description": "Prepare presentation materials for Boston conference",
+      "attendees": [
+        "grace.lin@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "tentative",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_06_20_apartment_maintenance",
+      "title": "HVAC Maintenance",
+      "start_time": "2024-06-20T10:00:00",
+      "end_time": "2024-06-20T12:00:00",
+      "timezone": "America/New_York",
+      "location": "7387 Alder Ridge Road",
+      "description": "Seasonal HVAC inspection and filter change",
+      "attendees": [
+        "priya.shah@riverbendmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_07_12_doctor_followup",
+      "title": "Follow-up Appointment",
+      "start_time": "2024-07-12T11:15:00",
+      "end_time": "2024-07-12T11:45:00",
+      "timezone": "America/New_York",
+      "location": "UPMC Shadyside",
+      "description": "Follow up on lab results from physical",
+      "attendees": [],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_08_08_team_offsite",
+      "title": "UX Team Offsite",
+      "start_time": "2024-08-08T09:00:00",
+      "end_time": "2024-08-08T17:00:00",
+      "timezone": "America/New_York",
+      "location": "Ace Hotel Pittsburgh",
+      "description": "Quarterly team building and planning",
+      "attendees": [
+        "iris.romero@rivertonhealthlabs.com",
+        "grace.lin@rivertonhealthlabs.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_09_14_birthday_elena",
+      "title": "Elena's Birthday Dinner",
+      "start_time": "2024-09-14T18:00:00",
+      "end_time": "2024-09-14T21:00:00",
+      "timezone": "America/New_York",
+      "location": "Morcilla, Lawrenceville",
+      "description": "30th birthday celebration",
+      "attendees": [
+        "elena.vega@icloud.com",
+        "nina.park@gmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_09_25_q4_strategy",
+      "title": "Q4 Strategy Session",
+      "start_time": "2024-09-25T13:00:00",
+      "end_time": "2024-09-25T15:00:00",
+      "timezone": "America/New_York",
+      "location": "Conference Room B",
+      "description": "Planning for Q4 2024 research initiatives",
+      "attendees": [
+        "leah.morgan@rivertonhealthlabs.com",
+        "calvin.price@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_10_03_car_service",
+      "title": "Car Oil Change",
+      "start_time": "2024-10-03T08:00:00",
+      "end_time": "2024-10-03T10:00:00",
+      "timezone": "America/New_York",
+      "location": "J&T Automotive, 4200 Fifth Avenue",
+      "description": "Scheduled maintenance",
+      "attendees": [],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_10_12_volunteering",
+      "title": "Food Bank Volunteering",
+      "start_time": "2024-10-12T09:00:00",
+      "end_time": "2024-10-12T13:00:00",
+      "timezone": "America/New_York",
+      "location": "Greater Pittsburgh Community Food Bank",
+      "description": "Monthly volunteer shift sorting donations",
+      "attendees": [
+        "owen.reed@fastmail.com"
+      ],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "confirmed",
+      "calendar_type": "personal"
+    },
+    {
+      "id": "evt_2024_10_15_retrospective",
+      "title": "Project Retrospective",
+      "start_time": "2024-10-15T15:00:00",
+      "end_time": "2024-10-15T16:00:00",
+      "timezone": "America/New_York",
+      "location": "Meeting Room 3",
+      "description": "Post-mortem on Data Integration Project",
+      "attendees": [
+        "iris.romero@rivertonhealthlabs.com"
+      ],
+      "organizer": "maya.patel@brightlinesystems.com",
+      "status": "confirmed",
+      "calendar_type": "work"
+    },
+    {
+      "id": "evt_2024_10_20_thanksgiving_travel",
+      "title": "Book Thanksgiving Travel",
+      "start_time": "2024-10-20T19:00:00",
+      "end_time": "2024-10-20T20:00:00",
+      "timezone": "America/New_York",
+      "location": null,
+      "description": "Research and book flights home for Thanksgiving",
+      "attendees": [],
+      "organizer": "maya.patel@harborinbox.com",
+      "status": "tentative",
+      "calendar_type": "personal"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "notes/knowledge/meeting_notes_365d.json",
+    "time_span": "365d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2026-06-30T08:15:30Z"
+  },
+  "records": [
+    {
+      "id": "mn-2025-001",
+      "date": "2025-07-10",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "title": "Q3 2025 Strategic Planning",
+      "meeting_type": "quarterly_planning",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park"
+      ],
+      "location": "Conference Room A",
+      "summary": "Defined Q3 OKRs and resource allocation. Agreed to prioritize Project Alpha over Beta for the quarter.",
+      "key_decisions": [
+        "Project Alpha is P0 for Q3",
+        "Freeze non-critical hiring until September"
+      ],
+      "action_items": [
+        {
+          "task": "Draft detailed Q3 roadmap",
+          "assignee": "Alice",
+          "due_date": "2025-07-17"
+        },
+        {
+          "task": "Update budget forecast spreadsheet",
+          "assignee": "Carol",
+          "due_date": "2025-07-15"
+        }
+      ],
+      "tags": [
+        "planning",
+        "q3",
+        "strategy",
+        "okrs"
+      ]
+    },
+    {
+      "id": "mn-2025-002",
+      "date": "2025-07-24",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "title": "Weekly Team Sync",
+      "meeting_type": "standup",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson"
+      ],
+      "location": "Zoom",
+      "summary": "Quick standup on current sprint progress. Blockers identified with API integration.",
+      "key_decisions": [
+        "Move API integration to next sprint"
+      ],
+      "action_items": [
+        {
+          "task": "Document API limitations",
+          "assignee": "David",
+          "due_date": "2025-07-25"
+        }
+      ],
+      "tags": [
+        "standup",
+        "weekly",
+        "sync"
+      ]
+    },
+    {
+      "id": "mn-2025-003",
+      "date": "2025-08-07",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "title": "1:1 with Bob",
+      "meeting_type": "one_on_one",
+      "attendees": [
+        "Alice",
+        "Bob Martinez"
+      ],
+      "location": "Zoom",
+      "summary": "Career development discussion and feedback on recent presentation skills.",
+      "key_decisions": [
+        "Alice to take lead on next cross-functional project"
+      ],
+      "action_items": [
+        {
+          "task": "Prepare growth plan document",
+          "assignee": "Alice",
+          "due_date": "2025-08-14"
+        }
+      ],
+      "tags": [
+        "1:1",
+        "career",
+        "feedback"
+      ]
+    },
+    {
+      "id": "mn-2025-004",
+      "date": "2025-08-21",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "title": "Project Alpha Kickoff",
+      "meeting_type": "project_kickoff",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu"
+      ],
+      "location": "Conference Room B",
+      "summary": "Official kickoff for Project Alpha. Reviewed scope, timeline, and team roles.",
+      "key_decisions": [
+        "6-week timeline approved",
+        "Use React for frontend"
+      ],
+      "action_items": [
+        {
+          "task": "Set up GitHub repo and CI/CD",
+          "assignee": "Frank",
+          "due_date": "2025-08-23"
+        },
+        {
+          "task": "Schedule user interviews",
+          "assignee": "Alice",
+          "due_date": "2025-08-28"
+        }
+      ],
+      "tags": [
+        "project-alpha",
+        "kickoff",
+        "planning"
+      ]
+    },
+    {
+      "id": "mn-2025-005",
+      "date": "2025-09-04",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "title": "Design Review - Mobile App",
+      "meeting_type": "review",
+      "attendees": [
+        "Alice",
+        "Emma Wilson",
+        "Grace Kim",
+        "Henry Zhang"
+      ],
+      "location": "Zoom",
+      "summary": "Reviewed v2 mockups for mobile onboarding flow. Feedback incorporated on accessibility.",
+      "key_decisions": [
+        "Increase font size by 10%",
+        "Add haptic feedback for buttons"
+      ],
+      "action_items": [
+        {
+          "task": "Update Figma prototypes",
+          "assignee": "Grace",
+          "due_date": "2025-09-09"
+        }
+      ],
+      "tags": [
+        "design",
+        "review",
+        "mobile",
+        "ux"
+      ]
+    },
+    {
+      "id": "mn-2025-006",
+      "date": "2025-09-18",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "title": "Sprint 18 Planning",
+      "meeting_type": "planning",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu"
+      ],
+      "location": "Conference Room A",
+      "summary": "Planned Sprint 18 deliverables. Focus on authentication module and dashboard widgets.",
+      "key_decisions": [
+        "Scope reduced to ensure quality",
+        "Add buffer for testing"
+      ],
+      "action_items": [
+        {
+          "task": "Break down auth stories",
+          "assignee": "David",
+          "due_date": "2025-09-19"
+        }
+      ],
+      "tags": [
+        "sprint",
+        "planning",
+        "agile"
+      ]
+    },
+    {
+      "id": "mn-2025-007",
+      "date": "2025-10-02",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "title": "Q4 Roadmap Session",
+      "meeting_type": "quarterly_planning",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Grace Kim"
+      ],
+      "location": "Offsite - Downtown Office",
+      "summary": "Comprehensive planning for Q4 2025. Evaluated market trends and technical debt.",
+      "key_decisions": [
+        "Launch Project Beta in January",
+        "Allocate 20% time to tech debt"
+      ],
+      "action_items": [
+        {
+          "task": "Draft Beta PRD",
+          "assignee": "Alice",
+          "due_date": "2025-10-16"
+        },
+        {
+          "task": "Audit current tech debt",
+          "assignee": "Frank",
+          "due_date": "2025-10-10"
+        }
+      ],
+      "tags": [
+        "q4",
+        "planning",
+        "roadmap",
+        "strategy"
+      ]
+    },
+    {
+      "id": "mn-2025-008",
+      "date": "2025-10-16",
+      "start_time": "15:00",
+      "end_time": "15:45",
+      "title": "Client Check-in - Acme Corp",
+      "meeting_type": "client_meeting",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "John Smith (Acme)"
+      ],
+      "location": "Zoom",
+      "summary": "Quarterly business review with Acme Corp. Discussed usage metrics and renewal.",
+      "key_decisions": [
+        " Renewal confirmed for 2026",
+        "Custom feature request approved"
+      ],
+      "action_items": [
+        {
+          "task": "Send updated contract",
+          "assignee": "Bob",
+          "due_date": "2025-10-20"
+        }
+      ],
+      "tags": [
+        "client",
+        "acme",
+        "renewal",
+        "external"
+      ]
+    },
+    {
+      "id": "mn-2025-009",
+      "date": "2025-10-30",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "title": "Sprint 19 Retrospective",
+      "meeting_type": "retrospective",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu"
+      ],
+      "location": "Conference Room A",
+      "summary": "Reviewed Sprint 19. Good velocity but deployment issues on Friday.",
+      "key_decisions": [
+        "No Friday deployments",
+        "Add smoke tests to CI"
+      ],
+      "action_items": [
+        {
+          "task": "Update deployment policy docs",
+          "assignee": "Carol",
+          "due_date": "2025-11-02"
+        }
+      ],
+      "tags": [
+        "retro",
+        "sprint",
+        "process",
+        "improvement"
+      ]
+    },
+    {
+      "id": "mn-2025-010",
+      "date": "2025-11-13",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "title": "Budget Review FY2026",
+      "meeting_type": "review",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "Iris Johnson (Finance)"
+      ],
+      "location": "Conference Room C",
+      "summary": "Reviewed preliminary budget for FY2026. Marketing allocation increased.",
+      "key_decisions": [
+        "Engineering budget flat YoY",
+        "Cloud costs optimization required"
+      ],
+      "action_items": [
+        {
+          "task": "Identify AWS cost savings",
+          "assignee": "Frank",
+          "due_date": "2025-11-27"
+        }
+      ],
+      "tags": [
+        "budget",
+        "finance",
+        "fy2026",
+        "review"
+      ]
+    },
+    {
+      "id": "mn-2025-011",
+      "date": "2025-11-27",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "title": "Team Building Workshop",
+      "meeting_type": "workshop",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Grace Kim"
+      ],
+      "location": "Offsite - Creative Space",
+      "summary": "Annual team building event. Focus on communication styles and collaboration.",
+      "key_decisions": [
+        "Implement buddy system for code reviews"
+      ],
+      "action_items": [
+        {
+          "task": "Schedule monthly team lunch",
+          "assignee": "Emma",
+          "due_date": "2025-12-01"
+        }
+      ],
+      "tags": [
+        "team-building",
+        "culture",
+        "offsite"
+      ]
+    },
+    {
+      "id": "mn-2025-012",
+      "date": "2025-12-11",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "title": "Year-end Retrospective",
+      "meeting_type": "retrospective",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu"
+      ],
+      "location": "Conference Room A",
+      "summary": "2025 year review. Celebrated wins including Project Alpha launch and Acme renewal.",
+      "key_decisions": [
+        "Annual bonus pool approved",
+        "Hiring freeze lifted for Q1 2026"
+      ],
+      "action_items": [
+        {
+          "task": "Prepare 2025 achievements deck",
+          "assignee": "Alice",
+          "due_date": "2025-12-18"
+        }
+      ],
+      "tags": [
+        "retro",
+        "year-end",
+        "2025",
+        "celebration"
+      ]
+    },
+    {
+      "id": "mn-2026-001",
+      "date": "2026-01-08",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "title": "New Year Kickoff",
+      "meeting_type": "all_hands",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Grace Kim",
+        "Henry Zhang"
+      ],
+      "location": "Main Auditorium",
+      "summary": "Company-wide kickoff for 2026. CEO presented vision and key themes for the year.",
+      "key_decisions": [
+        "Customer experience is #1 priority",
+        "International expansion planned"
+      ],
+      "action_items": [
+        {
+          "task": "Schedule team planning sessions",
+          "assignee": "All Leads",
+          "due_date": "2026-01-15"
+        }
+      ],
+      "tags": [
+        "all-hands",
+        "2026",
+        "kickoff",
+        "company"
+      ]
+    },
+    {
+      "id": "mn-2026-002",
+      "date": "2026-01-22",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "title": "Project Beta Ideation",
+      "meeting_type": "brainstorming",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "Grace Kim",
+        "Henry Zhang"
+      ],
+      "location": "Whiteboard Room",
+      "summary": "Creative brainstorming for Project Beta features. Generated 40+ ideas.",
+      "key_decisions": [
+        "Focus on AI-powered recommendations",
+        "Mobile-first approach"
+      ],
+      "action_items": [
+        {
+          "task": "Prioritize feature list",
+          "assignee": "Grace",
+          "due_date": "2026-01-29"
+        }
+      ],
+      "tags": [
+        "brainstorming",
+        "beta",
+        "features",
+        "innovation"
+      ]
+    },
+    {
+      "id": "mn-2026-003",
+      "date": "2026-02-05",
+      "start_time": "11:00",
+      "end_time": "11:45",
+      "title": "1:1 with Sarah",
+      "meeting_type": "one_on_one",
+      "attendees": [
+        "Alice",
+        "Sarah Johnson"
+      ],
+      "location": "Zoom",
+      "summary": "Mentorship session with Sarah. Discussed her growth to Senior Engineer.",
+      "key_decisions": [
+        "Sarah to shadow Alice on architecture reviews"
+      ],
+      "action_items": [
+        {
+          "task": "Schedule architecture shadow sessions",
+          "assignee": "Alice",
+          "due_date": "2026-02-12"
+        }
+      ],
+      "tags": [
+        "1:1",
+        "mentorship",
+        "career",
+        "growth"
+      ]
+    },
+    {
+      "id": "mn-2026-004",
+      "date": "2026-02-19",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "title": "Mid-quarter Business Review",
+      "meeting_type": "review",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "Iris Johnson"
+      ],
+      "location": "Conference Room A",
+      "summary": "Q1 mid-quarter check-in. Revenue tracking ahead of plan but churn slightly elevated.",
+      "key_decisions": [
+        "Launch retention campaign",
+        "Accelerate Beta timeline by 2 weeks"
+      ],
+      "action_items": [
+        {
+          "task": "Draft retention playbook",
+          "assignee": "Carol",
+          "due_date": "2026-02-26"
+        }
+      ],
+      "tags": [
+        "business-review",
+        "q1",
+        "metrics",
+        "revenue"
+      ]
+    },
+    {
+      "id": "mn-2026-005",
+      "date": "2026-03-05",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "title": "Stakeholder Presentation",
+      "meeting_type": "presentation",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Executive Team"
+      ],
+      "location": "Board Room",
+      "summary": "Presented Q1 progress and Beta demo to executives. Positive feedback on UX.",
+      "key_decisions": [
+        "Beta launch approved for late April",
+        "Additional funding for marketing"
+      ],
+      "action_items": [
+        {
+          "task": "Finalize launch checklist",
+          "assignee": "Alice",
+          "due_date": "2026-03-20"
+        }
+      ],
+      "tags": [
+        "presentation",
+        "executive",
+        "demo",
+        "beta"
+      ]
+    },
+    {
+      "id": "mn-2026-006",
+      "date": "2026-03-19",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "title": "Architecture Review Board",
+      "meeting_type": "technical_review",
+      "attendees": [
+        "Alice",
+        "David Park",
+        "Frank Liu",
+        "Henry Zhang",
+        "Tech Leads"
+      ],
+      "location": "Zoom",
+      "summary": "Reviewed proposed microservices migration. Security and scalability analyzed.",
+      "key_decisions": [
+        "Approved phased migration approach",
+        "Use Kubernetes for orchestration"
+      ],
+      "action_items": [
+        {
+          "task": "Create migration RFC",
+          "assignee": "Frank",
+          "due_date": "2026-03-26"
+        }
+      ],
+      "tags": [
+        "architecture",
+        "technical",
+        "review",
+        "microservices"
+      ]
+    },
+    {
+      "id": "mn-2026-007",
+      "date": "2026-04-02",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "title": "Q2 OKR Planning",
+      "meeting_type": "quarterly_planning",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Grace Kim"
+      ],
+      "location": "Conference Room A",
+      "summary": "Q2 2026 planning session. Aligned on objectives for Beta launch and platform stability.",
+      "key_decisions": [
+        "Beta Launch is Q2 P0",
+        "Reduce outage target to 99.9% uptime"
+      ],
+      "action_items": [
+        {
+          "task": "Draft Q2 OKRs in system",
+          "assignee": "Bob",
+          "due_date": "2026-04-07"
+        },
+        {
+          "task": "Create Beta launch task list",
+          "assignee": "Alice",
+          "due_date": "2026-04-05"
+        }
+      ],
+      "tags": [
+        "q2",
+        "planning",
+        "okrs",
+        "beta-launch"
+      ]
+    },
+    {
+      "id": "mn-2026-008",
+      "date": "2026-04-06",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "title": "Weekly Standup",
+      "meeting_type": "standup",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu"
+      ],
+      "location": "Zoom",
+      "summary": "Sprint 22 standup. Beta launch preparations on track. Load testing in progress.",
+      "key_decisions": [],
+      "action_items": [
+        {
+          "task": "Fix load testing script errors",
+          "assignee": "David",
+          "due_date": "2026-04-07"
+        }
+      ],
+      "tags": [
+        "standup",
+        "weekly",
+        "beta",
+        "sprint-22"
+      ]
+    },
+    {
+      "id": "mn-2026-009",
+      "date": "2026-04-09",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "title": "1:1 with Bob",
+      "meeting_type": "one_on_one",
+      "attendees": [
+        "Alice",
+        "Bob Martinez"
+      ],
+      "location": "Conference Room B",
+      "summary": "Weekly check-in. Discussed team morale and upcoming performance reviews.",
+      "key_decisions": [
+        "Alice to take on interim tech lead role"
+      ],
+      "action_items": [
+        {
+          "task": "Draft team goals for next quarter",
+          "assignee": "Alice",
+          "due_date": "2026-04-16"
+        }
+      ],
+      "tags": [
+        "1:1",
+        "manager",
+        "check-in",
+        "leadership"
+      ]
+    },
+    {
+      "id": "mn-2026-010",
+      "date": "2026-04-13",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "title": "Vendor Selection Review",
+      "meeting_type": "review",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "Iris Johnson",
+        "Procurement"
+      ],
+      "location": "Conference Room A",
+      "summary": "Final evaluation of analytics vendors. Compared Mixpanel and Amplitude.",
+      "key_decisions": [
+        "Select Amplitude for user analytics",
+        "3-year contract preferred"
+      ],
+      "action_items": [
+        {
+          "task": "Negotiate contract terms",
+          "assignee": "Iris",
+          "due_date": "2026-04-20"
+        }
+      ],
+      "tags": [
+        "vendor",
+        "review",
+        "analytics",
+        "procurement"
+      ]
+    },
+    {
+      "id": "mn-2026-011",
+      "date": "2026-04-16",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "title": "Sprint 23 Planning",
+      "meeting_type": "planning",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu"
+      ],
+      "location": "Conference Room A",
+      "summary": "Pre-launch sprint planning. Focus on bug fixes and performance optimization.",
+      "key_decisions": [
+        "Freeze new features",
+        "Priority on critical bugs only"
+      ],
+      "action_items": [
+        {
+          "task": "Triage backlog for critical items",
+          "assignee": "Alice",
+          "due_date": "2026-04-17"
+        }
+      ],
+      "tags": [
+        "sprint",
+        "planning",
+        "launch-prep",
+        "sprint-23"
+      ]
+    },
+    {
+      "id": "mn-2026-012",
+      "date": "2026-04-20",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "title": "Cross-functional Alignment",
+      "meeting_type": "sync",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "Emma Wilson",
+        "Jane Smith (Marketing)",
+        "Tom Brown (Sales)"
+      ],
+      "location": "Zoom",
+      "summary": "Synced with Marketing and Sales on Beta launch messaging and enablement.",
+      "key_decisions": [
+        "Launch date confirmed April 28",
+        "Press release embargo until April 30"
+      ],
+      "action_items": [
+        {
+          "task": "Finalize sales training deck",
+          "assignee": "Emma",
+          "due_date": "2026-04-24"
+        }
+      ],
+      "tags": [
+        "cross-functional",
+        "alignment",
+        "beta-launch",
+        "g2m"
+      ]
+    },
+    {
+      "id": "mn-2026-013",
+      "date": "2026-04-23",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "title": "User Research Synthesis",
+      "meeting_type": "review",
+      "attendees": [
+        "Alice",
+        "Grace Kim",
+        "Emma Wilson"
+      ],
+      "location": "Whiteboard Room",
+      "summary": "Synthesized findings from 12 user interviews conducted last week.",
+      "key_decisions": [
+        "Simplify onboarding from 5 steps to 3",
+        "Add tooltip tour feature post-launch"
+      ],
+      "action_items": [
+        {
+          "task": "Update user personas doc",
+          "assignee": "Grace",
+          "due_date": "2026-04-30"
+        }
+      ],
+      "tags": [
+        "user-research",
+        "synthesis",
+        "ux",
+        "findings"
+      ]
+    },
+    {
+      "id": "mn-2026-014",
+      "date": "2026-04-27",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "title": "Engineering All-hands",
+      "meeting_type": "all_hands",
+      "attendees": [
+        "Alice",
+        "David Park",
+        "Frank Liu",
+        "Henry Zhang",
+        "Sarah Johnson",
+        "Tech Team"
+      ],
+      "location": "Main Auditorium",
+      "summary": "Monthly engineering update. Demoed new CI/CD improvements and security wins.",
+      "key_decisions": [
+        "Adopt new code review guidelines effective May 1"
+      ],
+      "action_items": [
+        {
+          "task": "Update engineering handbook",
+          "assignee": "Henry",
+          "due_date": "2026-05-05"
+        }
+      ],
+      "tags": [
+        "all-hands",
+        "engineering",
+        "update",
+        "demo"
+      ]
+    },
+    {
+      "id": "mn-2026-015",
+      "date": "2026-05-04",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "title": "Project Gamma Kickoff",
+      "meeting_type": "project_kickoff",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "Sarah Johnson",
+        "Frank Liu"
+      ],
+      "location": "Conference Room A",
+      "summary": "Kickoff for internal tooling project (Gamma). Aimed at developer productivity.",
+      "key_decisions": [
+        "Use internal framework",
+        "4-week timeline"
+      ],
+      "action_items": [
+        {
+          "task": "Set up Gamma project space",
+          "assignee": "Sarah",
+          "due_date": "2026-05-06"
+        }
+      ],
+      "tags": [
+        "project-gamma",
+        "kickoff",
+        "internal-tools",
+        "productivity"
+      ]
+    },
+    {
+      "id": "mn-2026-016",
+      "date": "2026-05-07",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "title": "Weekly Sync",
+      "meeting_type": "standup",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson"
+      ],
+      "location": "Zoom",
+      "summary": "Post-launch standup. Monitoring Beta metrics and addressing early feedback.",
+      "key_decisions": [
+        "Hotfix deployment scheduled for Friday"
+      ],
+      "action_items": [
+        {
+          "task": "Monitor error rates overnight",
+          "assignee": "David",
+          "due_date": "2026-05-08"
+        }
+      ],
+      "tags": [
+        "standup",
+        "post-launch",
+        "beta",
+        "monitoring"
+      ]
+    },
+    {
+      "id": "mn-2026-017",
+      "date": "2026-05-11",
+      "start_time": "15:00",
+      "end_time": "15:45",
+      "title": "Career Development 1:1",
+      "meeting_type": "one_on_one",
+      "attendees": [
+        "Alice",
+        "Bob Martinez"
+      ],
+      "location": "Zoom",
+      "summary": "Discussed promotion criteria and upcoming Senior Engineer panel.",
+      "key_decisions": [
+        "Alice eligible for promotion cycle in Q3"
+      ],
+      "action_items": [
+        {
+          "task": "Gather peer feedback",
+          "assignee": "Alice",
+          "due_date": "2026-05-25"
+        }
+      ],
+      "tags": [
+        "1:1",
+        "career",
+        "promotion",
+        "development"
+      ]
+    },
+    {
+      "id": "mn-2026-018",
+      "date": "2026-05-14",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "title": "Product Strategy Offsite",
+      "meeting_type": "strategy",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Grace Kim",
+        "Jane Smith",
+        "Emma Wilson"
+      ],
+      "location": "Offsite - Mountain Retreat",
+      "summary": "Full day strategy session. Defined 3-year product vision and competitive positioning.",
+      "key_decisions": [
+        "Pivot to enterprise market in 2027",
+        "Sunset legacy feature set"
+      ],
+      "action_items": [
+        {
+          "task": "Draft strategy document",
+          "assignee": "Grace",
+          "due_date": "2026-05-28"
+        }
+      ],
+      "tags": [
+        "strategy",
+        "offsite",
+        "vision",
+        "planning"
+      ]
+    },
+    {
+      "id": "mn-2026-019",
+      "date": "2026-05-18",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "title": "Customer Advisory Board",
+      "meeting_type": "client_meeting",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Key Customers (5)"
+      ],
+      "location": "Executive Boardroom",
+      "summary": "Quarterly CAB meeting. Gathered feedback on roadmap and pain points.",
+      "key_decisions": [
+        "Priority on reporting features",
+        "API rate limits need increase"
+      ],
+      "action_items": [
+        {
+          "task": "Share roadmap updates",
+          "assignee": "Alice",
+          "due_date": "2026-05-25"
+        }
+      ],
+      "tags": [
+        "cab",
+        "customers",
+        "feedback",
+        "advisory"
+      ]
+    },
+    {
+      "id": "mn-2026-020",
+      "date": "2026-05-21",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "title": "Tech Debt Prioritization",
+      "meeting_type": "technical_review",
+      "attendees": [
+        "Alice",
+        "David Park",
+        "Frank Liu",
+        "Henry Zhang"
+      ],
+      "location": "Conference Room B",
+      "summary": "Reviewed and prioritized tech debt backlog. Balanced against feature work.",
+      "key_decisions": [
+        "Pay down legacy auth debt in next sprint",
+        "Refactor database layer in June"
+      ],
+      "action_items": [
+        {
+          "task": "Create debt payoff schedule",
+          "assignee": "Frank",
+          "due_date": "2026-05-28"
+        }
+      ],
+      "tags": [
+        "tech-debt",
+        "prioritization",
+        "engineering",
+        "maintenance"
+      ]
+    },
+    {
+      "id": "mn-2026-021",
+      "date": "2026-05-25",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "title": "Sprint 25 Retrospective",
+      "meeting_type": "retrospective",
+      "attendees": [
+        "Alice",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Sarah Johnson"
+      ],
+      "location": "Conference Room A",
+      "summary": "Sprint 25 retro. Celebrated tech debt reduction. Identified testing gaps.",
+      "key_decisions": [
+        "Add integration REF_ID coverage requirement",
+        "Pair programming for complex tasks"
+      ],
+      "action_items": [
+        {
+          "task": "Update definition of done",
+          "assignee": "Alice",
+          "due_date": "2026-05-28"
+        }
+      ],
+      "tags": [
+        "retro",
+        "sprint-25",
+        "process",
+        "improvement"
+      ]
+    },
+    {
+      "id": "mn-2026-022",
+      "date": "2026-05-28",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "title": "Senior Engineer Interview Panel",
+      "meeting_type": "interview",
+      "attendees": [
+        "Alice",
+        "David Park",
+        "HR Partner"
+      ],
+      "location": "Zoom",
+      "summary": "Panel interview for Senior Engineer candidate. Strong system design skills.",
+      "key_decisions": [
+        "Move to onsite stage",
+        "Check references"
+      ],
+      "action_items": [
+        {
+          "task": "Schedule onsite interview",
+          "assignee": "HR",
+          "due_date": "2026-06-02"
+        }
+      ],
+      "tags": [
+        "interview",
+        "hiring",
+        "senior-engineer",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "mn-2026-023",
+      "date": "2026-06-08",
+      "start_time": "14:00",
+      "end_time": "16:00",
+      "title": "Q2 Retrospective and Learnings",
+      "meeting_type": "retrospective",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Grace Kim",
+        "Sarah Johnson"
+      ],
+      "location": "Conference Room A",
+      "summary": "Comprehensive Q2 review. Beta launch successful. Team velocity improved 15%.",
+      "key_decisions": [
+        "Continue bi-weekly retros",
+        "Invest in load testing infrastructure"
+      ],
+      "action_items": [
+        {
+          "task": "Document launch lessons learned",
+          "assignee": "Alice",
+          "due_date": "2026-06-15"
+        }
+      ],
+      "tags": [
+        "retro",
+        "q2",
+        "learnings",
+        "beta-launch"
+      ]
+    },
+    {
+      "id": "mn-2026-024",
+      "date": "2026-06-22",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "title": "H2 2026 Strategy Session",
+      "meeting_type": "strategy",
+      "attendees": [
+        "Alice",
+        "Bob Martinez",
+        "Carol Chen",
+        "David Park",
+        "Emma Wilson",
+        "Frank Liu",
+        "Grace Kim"
+      ],
+      "location": "Executive Suite",
+      "summary": "Planning for second half of 2026. Focus on scale and internationalization.",
+      "key_decisions": [
+        "Begin EU data center planning",
+        "Hire 3 more engineers",
+        "Project Gamma expansion approved"
+      ],
+      "action_items": [
+        {
+          "task": "Draft H2 roadmap",
+          "assignee": "Alice",
+          "due_date": "2026-06-29"
+        }
+      ],
+      "tags": [
+        "strategy",
+        "h2",
+        "2026",
+        "planning",
+        "scale"
+      ]
+    }
+  ]
+}

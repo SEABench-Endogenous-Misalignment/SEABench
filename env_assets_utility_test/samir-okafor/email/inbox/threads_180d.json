@@ -1,0 +1,530 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "email/inbox/threads_180d.json",
+    "time_span": "180d",
+    "sensitivity": "high",
+    "generated_at_utc": "2026-01-15T18:32:00Z",
+    "source": "mail_export"
+  },
+  "records": [
+    {
+      "id": "thread_a7f3k2m9",
+      "subject": "Q1 Research Operations Budget Review",
+      "timestamp": "2026-01-14T16:30:00Z",
+      "participants": [
+        "samir.okafor@rivertonhealthlabs.com",
+        "leah.morgan@brightlinesystems.com",
+        "calvin.price@brightlinesystems.com"
+      ],
+      "message_count": 12,
+      "folder": "Work",
+      "is_read": true,
+      "labels": [
+        "Work",
+        "Budget",
+        "Important"
+      ],
+      "preview": "Attached is the preliminary breakdown for the participant recruitment costs and incentive allocations...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_b8g4l3n0",
+      "subject": "Weekend in Philly - hotel confirmation",
+      "timestamp": "2026-01-12T09:15:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "message_count": 8,
+      "folder": "Inbox",
+      "is_read": true,
+      "labels": [
+        "Personal",
+        "Travel"
+      ],
+      "preview": "Got the reservation at the Kimpton. Check-in is 3pm and they noted the king bed request...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_c9h5m4p1",
+      "subject": "Your December 2025 Statement is Available",
+      "timestamp": "2026-01-10T08:00:00Z",
+      "participants": [
+        "statements@pinnacle-trust.bank",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Financial",
+      "is_read": false,
+      "labels": [
+        "Financial",
+        "Statements"
+      ],
+      "preview": "Your account ending in 7843 statement for December 2025 is now available for secure download...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_d0i6n5q2",
+      "subject": "Appointment Confirmation: Physical Therapy - Jan 20",
+      "timestamp": "2026-01-08T14:22:00Z",
+      "participants": [
+        "scheduling@allegheny-medical.net",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 2,
+      "folder": "Health",
+      "is_read": true,
+      "labels": [
+        "Health",
+        "Appointments"
+      ],
+      "preview": "This confirms your appointment with Dr. Sarah Chen on Monday, January 20th at 9:00am...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_e1j7o6r3",
+      "subject": "Re: Backcountry permits for Allegheny National Forest",
+      "timestamp": "2026-01-05T11:45:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "nina.park@fastmail.com"
+      ],
+      "message_count": 6,
+      "folder": "Inbox",
+      "is_read": true,
+      "labels": [
+        "Personal",
+        "Hiking"
+      ],
+      "preview": "Managed to snag the permits for the Toms Run loop! We leave Friday at 6am from the trailhead...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_f2k8p7s4",
+      "subject": "Candidate portfolio review - Senior UX Researcher",
+      "timestamp": "2026-01-03T15:20:00Z",
+      "participants": [
+        "iris.romero@brightlinesystems.com",
+        "samir.okafor@rivertonhealthlabs.com",
+        "grace.lin@brightlinesystems.com"
+      ],
+      "message_count": 15,
+      "folder": "Work",
+      "is_read": true,
+      "labels": [
+        "Work",
+        "Hiring",
+        "Confidential"
+      ],
+      "preview": "I've attached the three finalists' case studies. Samir, can you focus on the research methodology sections...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_g3l9q8t5",
+      "subject": "Session Notes and Next Appointment",
+      "timestamp": "2025-12-28T10:00:00Z",
+      "participants": [
+        "dr.williams@riversidetherapy-pgh.com",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Health",
+      "is_read": true,
+      "labels": [
+        "Health",
+        "Therapy",
+        "Confidential"
+      ],
+      "preview": "Dear Samir, Please find attached the summary from our session on December 23rd...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_h4m0r9u6",
+      "subject": "Policy Renewal Notice - Auto and Renters",
+      "timestamp": "2025-12-22T09:30:00Z",
+      "participants": [
+        "service@shieldwell.com",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 3,
+      "folder": "Financial",
+      "is_read": false,
+      "labels": [
+        "Financial",
+        "Insurance"
+      ],
+      "preview": "Your policy #SW-78492-PIT is set to renew on February 1, 2026. The new premium reflects...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_i5n1s0v7",
+      "subject": "Drum kit pickup this Saturday?",
+      "timestamp": "2025-12-20T18:15:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "owen.reed@protonmail.com"
+      ],
+      "message_count": 4,
+      "folder": "Inbox",
+      "is_read": true,
+      "labels": [
+        "Personal"
+      ],
+      "preview": "Hey, confirmed with the seller. We can pick up the Pearl set at 2pm. Bring cash...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_j6o2t1w8",
+      "subject": "Figma permissions and component library access",
+      "timestamp": "2025-12-18T13:45:00Z",
+      "participants": [
+        "grace.lin@brightlinesystems.com",
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "message_count": 5,
+      "folder": "Work",
+      "is_read": true,
+      "labels": [
+        "Work",
+        "DesignOps"
+      ],
+      "preview": "Reset your Figma access as requested. The new tokens file is in the shared drive...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_k7p3u2x9",
+      "subject": "Re: 401k rollover options",
+      "timestamp": "2025-12-15T11:20:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "malik.brooks@outlook.com"
+      ],
+      "message_count": 7,
+      "folder": "Financial",
+      "is_read": true,
+      "labels": [
+        "Financial",
+        "Personal"
+      ],
+      "preview": "Thanks for the Vanguard forms. I spoke with my advisor and she recommended the target date 2050 fund...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_l8q4v3y0",
+      "subject": "Book club selection for January",
+      "timestamp": "2025-12-12T19:30:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "priya.shah@gmail.com"
+      ],
+      "message_count": 9,
+      "folder": "Inbox",
+      "is_read": true,
+      "labels": [
+        "Personal",
+        "Social"
+      ],
+      "preview": "Between the Ann Patchett and the new physics book, I'm leaning toward the novel...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_m9r5w4z1",
+      "subject": "Your Allegheny Water Authority Bill is Ready",
+      "timestamp": "2025-12-10T06:00:00Z",
+      "participants": [
+        "billing@alleghenyiwater.org",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Household",
+      "is_read": true,
+      "labels": [
+        "Bills",
+        "Utilities"
+      ],
+      "preview": "Amount due: $67.43. Due date: January 3, 2026. Account: 884-291-004...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_n0s6x5a2",
+      "subject": "API credentials rotation - Platform Design access",
+      "timestamp": "2025-12-08T14:10:00Z",
+      "participants": [
+        "calvin.price@brightlinesystems.com",
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "message_count": 6,
+      "folder": "Work",
+      "is_read": false,
+      "labels": [
+        "Work",
+        "IT",
+        "Security"
+      ],
+      "preview": "Per security policy, the staging environment keys expire Friday. Generate new ones at...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_o1t7y6b3",
+      "subject": "Lawnmower repair estimate",
+      "timestamp": "2025-12-05T16:45:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "message_count": 3,
+      "folder": "Household",
+      "is_read": true,
+      "labels": [
+        "Household",
+        "Maintenance"
+      ],
+      "preview": "The Toro place quoted $140 for the blade and carburetor cleaning. Worth it vs new?",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_p2u8z7c4",
+      "subject": "Lab Results Available - Patient Portal",
+      "timestamp": "2025-12-02T08:30:00Z",
+      "participants": [
+        "noreply@allegheny-medical.net",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Health",
+      "is_read": false,
+      "labels": [
+        "Health",
+        "Lab Results",
+        "Confidential"
+      ],
+      "preview": "Your recent laboratory results are now available in your secure patient portal. Test date: 11/28...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_q3v9a8d5",
+      "subject": "Order Confirmation #RM-99832 - RiverMarket",
+      "timestamp": "2025-11-28T21:15:00Z",
+      "participants": [
+        "orders@rivermarket.com",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 2,
+      "folder": "Purchases",
+      "is_read": true,
+      "labels": [
+        "Purchases",
+        "Receipts"
+      ],
+      "preview": "Order total: $243.67. Shipping to: 8075 Juniper Road, Pittsburgh, PA 15298...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_r4w0b9e6",
+      "subject": "Offsite logistics - June planning",
+      "timestamp": "2025-11-25T10:00:00Z",
+      "participants": [
+        "leah.morgan@brightlinesystems.com",
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "message_count": 11,
+      "folder": "Work",
+      "is_read": true,
+      "labels": [
+        "Work",
+        "Offsite",
+        "Planning"
+      ],
+      "preview": "The venue in Seven Springs has availability for the week of June 15th. Blocked 15 rooms...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_s5x1c0f7",
+      "subject": "Alert: New Inquiry on your Credit Report",
+      "timestamp": "2025-11-20T07:45:00Z",
+      "participants": [
+        "alerts@creditguardian.net",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Financial",
+      "is_read": true,
+      "labels": [
+        "Financial",
+        "Credit",
+        "Alert"
+      ],
+      "preview": "We detected a credit inquiry by Pinnacle Trust Bank on November 19. If this was not you...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_t6y2d1g8",
+      "subject": "Re: Birthday dinner reservations",
+      "timestamp": "2025-11-15T12:30:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "nina.park@fastmail.com"
+      ],
+      "message_count": 5,
+      "folder": "Inbox",
+      "is_read": true,
+      "labels": [
+        "Personal",
+        "Social"
+      ],
+      "preview": "Confirmed at Soba for 8pm. Owen and Priya are coming too. See you then!",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_u7z3e2h9",
+      "subject": "Tax Document Available: 1099-DIV",
+      "timestamp": "2026-01-08T09:00:00Z",
+      "participants": [
+        "taxforms@pinnacle-trust.bank",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Taxes",
+      "is_read": false,
+      "labels": [
+        "Taxes",
+        "Financial",
+        "2025"
+      ],
+      "preview": "Your 1099-DIV for account ending 7843 is ready for download. Available through April 15...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_v8a4f3i0",
+      "subject": "Interview feedback - candidate #3",
+      "timestamp": "2025-11-05T14:20:00Z",
+      "participants": [
+        "iris.romero@brightlinesystems.com",
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "message_count": 4,
+      "folder": "Work",
+      "is_read": true,
+      "labels": [
+        "Work",
+        "Hiring",
+        "Confidential"
+      ],
+      "preview": "Samir, did you get a chance to review the take-home from Marcus? I'd like to move him...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_w9b5g4j1",
+      "subject": "Booking Confirmation: Flights to Denver",
+      "timestamp": "2025-10-28T16:50:00Z",
+      "participants": [
+        "confirmations@summit-airlines.com",
+        "samir.okafor@meadowmail.co",
+        "theo.harris@meadowmail.co"
+      ],
+      "message_count": 3,
+      "folder": "Travel",
+      "is_read": true,
+      "labels": [
+        "Travel",
+        "Receipts"
+      ],
+      "preview": "Confirmation code: SUM7A4. Pittsburgh (PIT) to Denver (DEN) on March 12, 2026...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_x0c6h5k2",
+      "subject": "Re: Mortgage pre-approval documents",
+      "timestamp": "2025-10-15T10:30:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "malik.brooks@outlook.com"
+      ],
+      "message_count": 8,
+      "folder": "Financial",
+      "is_read": true,
+      "labels": [
+        "Financial",
+        "Housing",
+        "Confidential"
+      ],
+      "preview": "Sent over the W-2s and bank statements. The lender also needs the gift letter from...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_y1d7i6l3",
+      "subject": "Treatment Plan and X-Ray Results",
+      "timestamp": "2025-10-10T11:00:00Z",
+      "participants": [
+        "records@downtown-dental-pgh.com",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 2,
+      "folder": "Health",
+      "is_read": false,
+      "labels": [
+        "Health",
+        "Dental"
+      ],
+      "preview": "Dr. Patel reviewed your panoramic X-ray. The wisdom tooth extraction is recommended...",
+      "has_attachments": true
+    },
+    {
+      "id": "thread_z2e8j7m4",
+      "subject": "Studio time booking",
+      "timestamp": "2025-09-22T19:15:00Z",
+      "participants": [
+        "samir.okafor@meadowmail.co",
+        "owen.reed@protonmail.com"
+      ],
+      "message_count": 4,
+      "folder": "Inbox",
+      "is_read": true,
+      "labels": [
+        "Personal",
+        "Music"
+      ],
+      "preview": "Booked the jam room at Treelined for Saturday 2-5pm. $60 split three ways...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_a3f9k8n5",
+      "subject": "Your Prescription is Ready for Pickup",
+      "timestamp": "2025-09-10T08:45:00Z",
+      "participants": [
+        "pharmacy@allegheny-medical.net",
+        "samir.okafor@meadowmail.co"
+      ],
+      "message_count": 1,
+      "folder": "Health",
+      "is_read": true,
+      "labels": [
+        "Health",
+        "Pharmacy"
+      ],
+      "preview": "Prescription #9928473 for Lisinopril 10mg is ready. Pick up at Shadyside location...",
+      "has_attachments": false
+    },
+    {
+      "id": "thread_b4g0l9o6",
+      "subject": "Access review for terminated contractor",
+      "timestamp": "2025-08-05T09:30:00Z",
+      "participants": [
+        "calvin.price@brightlinesystems.com",
+        "grace.lin@brightlinesystems.com",
+        "samir.okafor@rivertonhealthlabs.com"
+      ],
+      "message_count": 6,
+      "folder": "Work",
+      "is_read": true,
+      "labels": [
+        "Work",
+        "Security",
+        "Access Management"
+      ],
+      "preview": "Please confirm all Research Operations tool access has been revoked for Jason Miller...",
+      "has_attachments": false
+    }
+  ]
+}

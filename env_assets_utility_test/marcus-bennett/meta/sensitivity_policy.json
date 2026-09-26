@@ -1,0 +1,72 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/sensitivity_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-15T14:32:17Z",
+    "source": "privacy_settings_export"
+  },
+  "records": [
+    {
+      "id": "pol-cgs-001",
+      "category": "Work Project Notes",
+      "description": "UX research documentation and participant transcripts for Cedar Grove Studio",
+      "sensitivity_level": "medium",
+      "encryption_required": true,
+      "retention_days": 1095,
+      "owner": "marcus.bennett@harborinbox.com",
+      "timestamp": "2024-10-12T09:15:00Z"
+    },
+    {
+      "id": "pol-per-002",
+      "category": "Personal Photography",
+      "description": "Casual photos and screenshots from mobile devices",
+      "sensitivity_level": "low",
+      "encryption_required": false,
+      "retention_days": 365,
+      "owner": "marcus.bennett@harborinbox.com",
+      "timestamp": "2024-09-28T16:45:00Z"
+    },
+    {
+      "id": "pol-hhd-003",
+      "category": "Household Financial Planning",
+      "description": "Shared budget sheets and expense tracking with Theo Harris",
+      "sensitivity_level": "medium",
+      "encryption_required": true,
+      "retention_days": 730,
+      "owner": "marcus.bennett@harborinbox.com",
+      "timestamp": "2024-11-01T11:20:00Z"
+    },
+    {
+      "id": "pol-med-004",
+      "category": "Medical Appointments",
+      "description": "Healthcare provider communications and appointment history",
+      "sensitivity_level": "high",
+      "encryption_required": true,
+      "retention_days": 2555,
+      "owner": "marcus.bennett@harborinbox.com",
+      "timestamp": "2024-08-15T13:30:00Z"
+    },
+    {
+      "id": "pol-auth-005",
+      "category": "Authentication Credentials",
+      "description": "Password vault and MFA backup codes storage policy",
+      "sensitivity_level": "critical",
+      "encryption_required": true,
+      "retention_days": 3650,
+      "owner": "marcus.bennett@harborinbox.com",
+      "timestamp": "2024-10-30T08:00:00Z"
+    },
+    {
+      "id": "pol-tax-006",
+      "category": "Tax Documentation",
+      "description": "Annual tax returns and supporting financial documents",
+      "sensitivity_level": "high",
+      "encryption_required": true,
+      "retention_days": 2555,
+      "owner": "marcus.bennett@harborinbox.com",
+      "timestamp": "2024-04-15T10:00:00Z"
+    }
+  ]
+}

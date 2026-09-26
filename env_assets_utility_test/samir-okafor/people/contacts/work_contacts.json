@@ -1,0 +1,492 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "people/contacts/work_contacts.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-02T18:30:00Z",
+    "source": "contact_sync"
+  },
+  "records": [
+    {
+      "id": "cnt-a7f3k9d2",
+      "name": "Leah Morgan",
+      "email": "leah.morgan@rivertonhealthlabs.com",
+      "phone": "+1-303-412-8947",
+      "organization": "Riverton Health Labs",
+      "job_title": "Clinical Research Director",
+      "department": "Clinical Operations",
+      "date": "2023-01-20T14:30:00Z"
+    },
+    {
+      "id": "cnt-b8g2h1j4",
+      "name": "Calvin Price",
+      "email": "calvin.price@rivertonhealthlabs.com",
+      "phone": "+1-720-334-5678",
+      "organization": "Riverton Health Labs",
+      "job_title": "VP of Engineering",
+      "department": "Engineering",
+      "date": "2022-12-05T09:15:00Z"
+    },
+    {
+      "id": "cnt-c9i3k2l5",
+      "name": "Iris Romero",
+      "email": "iris.romero@rivertonhealthlabs.com",
+      "phone": "+1-303-445-7890",
+      "organization": "Riverton Health Labs",
+      "job_title": "Regulatory Affairs Manager",
+      "department": "Compliance",
+      "date": "2023-06-14T11:20:00Z"
+    },
+    {
+      "id": "cnt-d0j4l3m6",
+      "name": "Grace Lin",
+      "email": "grace.lin@rivertonhealthlabs.com",
+      "phone": "+1-720-556-1234",
+      "organization": "Riverton Health Labs",
+      "job_title": "Data Science Lead",
+      "department": "Data Science & Analytics",
+      "date": "2023-09-08T16:45:00Z"
+    },
+    {
+      "id": "cnt-e1k5m4n7",
+      "name": "Sarah Kim",
+      "email": "sarah.kim@rivertonhealthlabs.com",
+      "phone": "+1-303-678-9012",
+      "organization": "Riverton Health Labs",
+      "job_title": "UX Designer",
+      "department": "Platform Design",
+      "date": "2023-05-30T13:10:00Z"
+    },
+    {
+      "id": "cnt-f2l6n5o8",
+      "name": "David Park",
+      "email": "david.park@rivertonhealthlabs.com",
+      "phone": "+1-720-789-2345",
+      "organization": "Riverton Health Labs",
+      "job_title": "Software Engineer",
+      "department": "Platform Design",
+      "date": "2024-03-12T10:00:00Z"
+    },
+    {
+      "id": "cnt-g3m7o6p9",
+      "name": "Marcus Chen",
+      "email": "marcus.chen@summitmedical.org",
+      "phone": "+1-415-334-8765",
+      "organization": "Summit Medical Partners",
+      "job_title": "Chief of Cardiology",
+      "department": "Cardiology",
+      "date": "2023-04-22T08:45:00Z"
+    },
+    {
+      "id": "cnt-h4n8p7q0",
+      "name": "Diana Vasquez",
+      "email": "diana.vasquez@alpinebiotech.com",
+      "phone": "+1-617-445-3210",
+      "organization": "Alpine Biotech",
+      "job_title": "VP Product",
+      "department": "Product",
+      "date": "2024-01-10T15:30:00Z"
+    },
+    {
+      "id": "cnt-i5o9q8r1",
+      "name": "Robert O'Neil",
+      "email": "robert.oneil@denvergeneralpartners.com",
+      "phone": "+1-303-556-7891",
+      "organization": "Denver General Partners",
+      "job_title": "Managing Director",
+      "department": "Investment",
+      "date": "2023-11-03T14:00:00Z"
+    },
+    {
+      "id": "cnt-j6p0r9s2",
+      "name": "Jennifer Walsh",
+      "email": "jennifer.walsh@peakanalytics.com",
+      "phone": "+1-206-667-4321",
+      "organization": "Peak Analytics Co",
+      "job_title": "Senior Consultant",
+      "department": "Healthcare Strategy",
+      "date": "2024-02-15T09:00:00Z"
+    },
+    {
+      "id": "cnt-k7q1s0t3",
+      "name": "Amir Hassan",
+      "email": "amir.hassan@frontrangeit.com",
+      "phone": "+1-720-778-3456",
+      "organization": "Front Range IT",
+      "job_title": "Solutions Architect",
+      "department": "Cloud Services",
+      "date": "2023-07-19T11:30:00Z"
+    },
+    {
+      "id": "cnt-l8r2t1u4",
+      "name": "Thomas Blake",
+      "email": "thomas.blake@rivertonhealthlabs.com",
+      "phone": "+1-303-889-0123",
+      "organization": "Riverton Health Labs",
+      "job_title": "Clinical Data Manager",
+      "department": "Clinical Operations",
+      "date": "2023-10-01T10:15:00Z"
+    },
+    {
+      "id": "cnt-m9s3u2v5",
+      "name": "Elena Rodriguez",
+      "email": "elena.rodriguez@mountainviewlabs.com",
+      "phone": "+1-415-223-4567",
+      "organization": "Mountain View Labs",
+      "job_title": "Lab Director",
+      "department": "Diagnostics",
+      "date": "2023-08-24T13:45:00Z"
+    },
+    {
+      "id": "cnt-n0t4v3w6",
+      "name": "Priya Desai",
+      "email": "priya.desai@rivertonhealthlabs.com",
+      "phone": "+1-720-901-4567",
+      "organization": "Riverton Health Labs",
+      "job_title": "QA Engineer",
+      "department": "Platform Design",
+      "date": "2024-05-20T16:00:00Z"
+    },
+    {
+      "id": "cnt-o1u5w4x7",
+      "name": "James Wilson",
+      "email": "james.wilson@uchealth.org",
+      "phone": "+1-303-112-7890",
+      "organization": "UCHealth",
+      "job_title": "Procurement Specialist",
+      "department": "Supply Chain",
+      "date": "2024-04-05T08:30:00Z"
+    },
+    {
+      "id": "cnt-p2v6x5y8",
+      "name": "Fatima Al-Rashid",
+      "email": "fatima.alrashid@clearskydiagnostics.com",
+      "phone": "+1-617-334-5678",
+      "organization": "Clear Sky Diagnostics",
+      "job_title": "CEO",
+      "department": "Executive",
+      "date": "2022-11-18T11:00:00Z"
+    },
+    {
+      "id": "cnt-q3w7y6z9",
+      "name": "Michael Torres",
+      "email": "m.torres@rockymountainhealth.net",
+      "phone": "+1-720-445-8901",
+      "organization": "Rocky Mountain Health Network",
+      "job_title": "Network Administrator",
+      "department": "IT Infrastructure",
+      "date": "2023-02-28T14:20:00Z"
+    },
+    {
+      "id": "cnt-r4x8z7a0",
+      "name": "Linda Brooks",
+      "email": "linda.brooks@rivertonhealthlabs.com",
+      "phone": "+1-303-556-2345",
+      "organization": "Riverton Health Labs",
+      "job_title": "HR Business Partner",
+      "department": "Human Resources",
+      "date": "2022-12-14T09:45:00Z"
+    },
+    {
+      "id": "cnt-s5y9a8b1",
+      "name": "Kevin Murphy",
+      "email": "kevin.murphy@stellarinformatics.com",
+      "phone": "+1-415-778-9012",
+      "organization": "Stellar Informatics",
+      "job_title": "Account Executive",
+      "department": "Sales",
+      "date": "2024-06-08T15:15:00Z"
+    },
+    {
+      "id": "cnt-t6z0b9c2",
+      "name": "Rachel Foster",
+      "email": "rachel.foster@rivertonhealthlabs.com",
+      "phone": "+1-720-667-3456",
+      "organization": "Riverton Health Labs",
+      "job_title": "Product Manager",
+      "department": "Platform Design",
+      "date": "2023-12-11T10:30:00Z"
+    },
+    {
+      "id": "cnt-u7a1c0d3",
+      "name": "Ahmad Johnson",
+      "email": "ahmad.johnson@denverhealth.org",
+      "phone": "+1-303-889-4567",
+      "organization": "Denver Health",
+      "job_title": "Compliance Officer",
+      "department": "Regulatory",
+      "date": "2024-01-25T13:00:00Z"
+    },
+    {
+      "id": "cnt-v8b2d1e4",
+      "name": "Sofia Petrov",
+      "email": "sofia.petrov@vertexpharma.com",
+      "phone": "+1-617-001-2345",
+      "organization": "Vertex Pharma",
+      "job_title": "Research Scientist",
+      "department": "R&D",
+      "date": "2023-03-08T11:45:00Z"
+    },
+    {
+      "id": "cnt-w9c3e2f5",
+      "name": "Brian Holloway",
+      "email": "brian.holloway@rivertonhealthlabs.com",
+      "phone": "+1-720-112-5678",
+      "organization": "Riverton Health Labs",
+      "job_title": "DevOps Engineer",
+      "department": "Engineering",
+      "date": "2024-07-14T09:30:00Z"
+    },
+    {
+      "id": "cnt-x0d4f3g6",
+      "name": "Yuki Tanaka",
+      "email": "yuki.tanaka@meridianhealthcare.com",
+      "phone": "+1-415-334-6789",
+      "organization": "Meridian Healthcare",
+      "job_title": "Director of Operations",
+      "department": "Operations",
+      "date": "2023-09-29T16:00:00Z"
+    },
+    {
+      "id": "cnt-y1e5g4h7",
+      "name": "Carlos Mendez",
+      "email": "carlos.mendez@rivertonhealthlabs.com",
+      "phone": "+1-303-445-7891",
+      "organization": "Riverton Health Labs",
+      "job_title": "Security Analyst",
+      "department": "Security & Compliance",
+      "date": "2024-08-03T14:00:00Z"
+    },
+    {
+      "id": "cnt-z2f6h5i8",
+      "name": "Natalia Volkov",
+      "email": "natalia.volkov@biosyncllc.com",
+      "phone": "+1-206-556-8902",
+      "organization": "BioSync LLC",
+      "job_title": "CTO",
+      "department": "Technology",
+      "date": "2023-01-15T10:00:00Z"
+    },
+    {
+      "id": "cnt-a3g7i6j9",
+      "name": "Greg Phillips",
+      "email": "greg.phillips@rivertonhealthlabs.com",
+      "phone": "+1-720-667-9013",
+      "organization": "Riverton Health Labs",
+      "job_title": "Facilities Manager",
+      "department": "Operations",
+      "date": "2024-09-12T08:15:00Z"
+    },
+    {
+      "id": "cnt-b4h8j7k0",
+      "name": "Aisha Washington",
+      "email": "aisha.washington@pinnaclebiometrics.com",
+      "phone": "+1-617-778-0124",
+      "organization": "Pinnacle Biometrics",
+      "job_title": "Sales Director",
+      "department": "Commercial",
+      "date": "2023-04-01T15:45:00Z"
+    },
+    {
+      "id": "cnt-c5i9k8l1",
+      "name": "Henry Zhang",
+      "email": "henry.zhang@rivertonhealthlabs.com",
+      "phone": "+1-303-889-1235",
+      "organization": "Riverton Health Labs",
+      "job_title": "Backend Developer",
+      "department": "Platform Design",
+      "date": "2024-10-22T11:00:00Z"
+    },
+    {
+      "id": "cnt-d6j0l9m2",
+      "name": "Olivia Grant",
+      "email": "olivia.grant@centuramed.com",
+      "phone": "+1-415-001-2346",
+      "organization": "Centura Health",
+      "job_title": "Project Coordinator",
+      "department": "Administration",
+      "date": "2023-06-30T09:00:00Z"
+    },
+    {
+      "id": "cnt-e7k1m0n3",
+      "name": "Sam Turner",
+      "email": "sam.turner@rivertonhealthlabs.com",
+      "phone": "+1-720-112-3457",
+      "organization": "Riverton Health Labs",
+      "job_title": "Clinical Research Associate",
+      "department": "Clinical Operations",
+      "date": "2022-11-05T13:30:00Z"
+    },
+    {
+      "id": "cnt-f8l2n1o4",
+      "name": "Mei Lin",
+      "email": "mei.lin@goldenstatemed.com",
+      "phone": "+1-617-334-4568",
+      "organization": "Golden State Medical",
+      "job_title": "VP Operations",
+      "department": "Operations",
+      "date": "2024-02-28T16:30:00Z"
+    },
+    {
+      "id": "cnt-g9m3o2p5",
+      "name": "Diego Rivera",
+      "email": "diego.rivera@rivertonhealthlabs.com",
+      "phone": "+1-303-445-5679",
+      "organization": "Riverton Health Labs",
+      "job_title": "Frontend Developer",
+      "department": "Platform Design",
+      "date": "2023-07-07T10:45:00Z"
+    },
+    {
+      "id": "cnt-h0n4p3q6",
+      "name": "Victoria Chen",
+      "email": "victoria.chen@highlandtech.com",
+      "phone": "+1-206-556-6780",
+      "organization": "Highland Technologies",
+      "job_title": "Integration Specialist",
+      "department": "Professional Services",
+      "date": "2024-03-19T14:15:00Z"
+    },
+    {
+      "id": "cnt-i1o5q4r7",
+      "name": "Russell Greene",
+      "email": "russell.greene@rivertonhealthlabs.com",
+      "phone": "+1-720-667-7892",
+      "organization": "Riverton Health Labs",
+      "job_title": "Biostatistician",
+      "department": "Data Science & Analytics",
+      "date": "2023-11-11T09:00:00Z"
+    },
+    {
+      "id": "cnt-j2p6r5s8",
+      "name": "Ananya Gupta",
+      "email": "ananya.gupta@northexpand.com",
+      "phone": "+1-415-778-8903",
+      "organization": "North Expand",
+      "job_title": "Strategy Consultant",
+      "department": "Healthcare",
+      "date": "2024-04-24T11:30:00Z"
+    },
+    {
+      "id": "cnt-k3q7s6t9",
+      "name": "Chris Morales",
+      "email": "chris.morales@rivertonhealthlabs.com",
+      "phone": "+1-303-889-0124",
+      "organization": "Riverton Health Labs",
+      "job_title": "Technical Writer",
+      "department": "Platform Design",
+      "date": "2023-08-16T15:00:00Z"
+    },
+    {
+      "id": "cnt-l4r8t7u0",
+      "name": "Hannah Fischer",
+      "email": "hannah.fischer@precisiongenomics.org",
+      "phone": "+1-617-001-1235",
+      "organization": "Precision Genomics",
+      "job_title": "Lab Manager",
+      "department": "Research",
+      "date": "2024-05-01T10:00:00Z"
+    },
+    {
+      "id": "cnt-m5s9u8v1",
+      "name": "Jordan Blake",
+      "email": "jordan.blake@rivertonhealthlabs.com",
+      "phone": "+1-720-112-2346",
+      "organization": "Riverton Health Labs",
+      "job_title": "Systems Analyst",
+      "department": "IT",
+      "date": "2022-12-22T13:15:00Z"
+    },
+    {
+      "id": "cnt-n6t0v9w2",
+      "name": "Zara Ahmed",
+      "email": "zara.ahmed@innovatehealth.io",
+      "phone": "+1-415-334-3457",
+      "organization": "InnovateHealth.io",
+      "job_title": "Customer Success Manager",
+      "department": "Client Services",
+      "date": "2023-10-05T16:45:00Z"
+    },
+    {
+      "id": "cnt-o7u1w0x3",
+      "name": "Tyler Nguyen",
+      "email": "tyler.nguyen@rivertonhealthlabs.com",
+      "phone": "+1-303-445-4568",
+      "organization": "Riverton Health Labs",
+      "job_title": "Mobile Developer",
+      "department": "Platform Design",
+      "date": "2024-06-15T09:30:00Z"
+    },
+    {
+      "id": "cnt-p8v2x1y4",
+      "name": "Fiona Walsh",
+      "email": "fiona.walsh@apexclinical.com",
+      "phone": "+1-206-556-5679",
+      "organization": "Apex Clinical",
+      "job_title": "Clinical Director",
+      "department": "Medical Affairs",
+      "date": "2023-05-14T14:00:00Z"
+    },
+    {
+      "id": "cnt-q9w3y2z5",
+      "name": "Marcus Webb",
+      "email": "marcus.webb@rivertonhealthlabs.com",
+      "phone": "+1-617-778-6780",
+      "organization": "Riverton Health Labs",
+      "job_title": "Database Administrator",
+      "department": "Engineering",
+      "date": "2024-07-22T11:15:00Z"
+    },
+    {
+      "id": "cnt-r0x4z3a6",
+      "name": "Sophie Laurent",
+      "email": "sophie.laurent@eurotechmed.com",
+      "phone": "+1-415-001-7891",
+      "organization": "EuroTech Medical",
+      "job_title": "Business Development",
+      "department": "Europe Region",
+      "date": "2023-09-03T08:45:00Z"
+    },
+    {
+      "id": "cnt-s1y5a4b7",
+      "name": "Raj Patel",
+      "email": "raj.patel@rivertonhealthlabs.com",
+      "phone": "+1-720-112-8902",
+      "organization": "Riverton Health Labs",
+      "job_title": "Cloud Architect",
+      "department": "Engineering",
+      "date": "2024-08-09T15:30:00Z"
+    },
+    {
+      "id": "cnt-t2z6b5c8",
+      "name": "Maya Johnson",
+      "email": "maya.johnson@caresynchealth.com",
+      "phone": "+1-303-334-9013",
+      "organization": "CareSync Health",
+      "job_title": "Implementation Lead",
+      "department": "Deployment",
+      "date": "2023-12-01T10:00:00Z"
+    },
+    {
+      "id": "cnt-u3a7c6d9",
+      "name": "Lucas Wright",
+      "email": "lucas.wright@rivertonhealthlabs.com",
+      "phone": "+1-617-445-0124",
+      "organization": "Riverton Health Labs",
+      "job_title": "Privacy Officer",
+      "department": "Legal & Compliance",
+      "date": "2024-09-18T13:45:00Z"
+    },
+    {
+      "id": "cnt-v4b8d7e0",
+      "name": "Emma Sullivan",
+      "email": "emma.sullivan@capitalcitymed.com",
+      "phone": "+1-206-667-1235",
+      "organization": "Capital City Medical",
+      "job_title": "Contract Manager",
+      "department": "Procurement",
+      "date": "2023-02-11T11:30:00Z"
+    }
+  ]
+}

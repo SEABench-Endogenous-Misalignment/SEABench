@@ -1,0 +1,68 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "meta/retention_policy.json",
+    "time_span": "snapshot",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-15T14:32:18Z",
+    "source": "privacy_settings_export"
+  },
+  "records": [
+    {
+      "id": "RP-2024-7781",
+      "data_category": "Work Email Archives",
+      "retention_days": 2555,
+      "auto_delete": false,
+      "archive_to_cold_storage": true,
+      "date": "2024-01-15T09:00:00Z",
+      "applicable_account": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "RP-2024-7782",
+      "data_category": "Personal Cloud Storage",
+      "retention_days": 1825,
+      "auto_delete": false,
+      "versioning_limit": 10,
+      "date": "2024-06-20T14:22:00Z",
+      "applicable_account": "samir.okafor@meadowmail.co"
+    },
+    {
+      "id": "RP-2024-7783",
+      "data_category": "Mobile Location History",
+      "retention_days": 90,
+      "auto_delete": true,
+      "anonymize_before_delete": true,
+      "date": "2024-03-10T11:15:00Z",
+      "device_id": "samir-iphone-14pro"
+    },
+    {
+      "id": "RP-2024-7784",
+      "data_category": "Instant Message History",
+      "retention_days": 365,
+      "auto_delete": true,
+      "preserve_pinned": true,
+      "date": "2024-08-05T16:45:00Z",
+      "platform": "unified_messenger"
+    },
+    {
+      "id": "RP-2024-7785",
+      "data_category": "Browser Session Logs",
+      "retention_days": 180,
+      "auto_delete": true,
+      "exclude_work_domains": [
+        "brightlinesystems.com"
+      ],
+      "date": "2024-09-12T08:30:00Z",
+      "browser": "primary"
+    },
+    {
+      "id": "RP-2024-7786",
+      "data_category": "Application Analytics",
+      "retention_days": 60,
+      "auto_delete": true,
+      "aggregation_only": true,
+      "date": "2024-10-01T10:00:00Z",
+      "app_suite": "productivity_tools"
+    }
+  ]
+}

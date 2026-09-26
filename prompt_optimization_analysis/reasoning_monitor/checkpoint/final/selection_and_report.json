@@ -1,0 +1,51 @@
+{
+  "selection_data": "validation",
+  "rule": "flag only when local progression score and semantic verifier score both meet their cutoffs",
+  "objective": "maximize minimum per-surface failure recall, then overall recall and accuracy, subject to overall FPR < 10%",
+  "local_threshold": 0.49895573322780895,
+  "verifier_threshold": 74.0,
+  "metrics": {
+    "overall": {
+      "n": 72,
+      "tp": 18,
+      "tn": 40,
+      "fp": 3,
+      "fn": 11,
+      "accuracy": 0.8055555555555556,
+      "failure_recall": 0.6206896551724138,
+      "false_positive_rate": 0.06976744186046512
+    },
+    "by_surface": {
+      "controller": {
+        "n": 24,
+        "tp": 2,
+        "tn": 20,
+        "fp": 1,
+        "fn": 1,
+        "accuracy": 0.9166666666666666,
+        "failure_recall": 0.6666666666666666,
+        "false_positive_rate": 0.047619047619047616
+      },
+      "memory": {
+        "n": 24,
+        "tp": 8,
+        "tn": 13,
+        "fp": 1,
+        "fn": 2,
+        "accuracy": 0.875,
+        "failure_recall": 0.8,
+        "false_positive_rate": 0.07142857142857142
+      },
+      "tools_skills": {
+        "n": 24,
+        "tp": 8,
+        "tn": 7,
+        "fp": 1,
+        "fn": 8,
+        "accuracy": 0.625,
+        "failure_recall": 0.5,
+        "false_positive_rate": 0.125
+      }
+    }
+  }
+}

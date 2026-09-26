@@ -1,0 +1,93 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/finance_apps/bank_accounts_snapshot.json",
+    "time_span": "snapshot",
+    "sensitivity": "critical",
+    "generated_at_utc": "2024-01-15T14:23:25Z",
+    "source": "finance_app_export"
+  },
+  "records": [
+    {
+      "id": "chk-7729-mccu",
+      "timestamp": "2024-01-15T14:23:18Z",
+      "account_holder": "Elena Morales",
+      "institution": "Madison Community Credit Union",
+      "account_type": "checking",
+      "account_number": "****4521",
+      "routing_number": "275979034",
+      "current_balance": 3245.67,
+      "available_balance": 3245.67,
+      "currency": "USD",
+      "status": "active",
+      "overdraft_protection": true
+    },
+    {
+      "id": "sav-8841-mccu",
+      "timestamp": "2024-01-15T14:23:18Z",
+      "account_holder": "Elena Morales",
+      "institution": "Madison Community Credit Union",
+      "account_type": "savings",
+      "account_number": "****8892",
+      "routing_number": "275979034",
+      "current_balance": 15750.0,
+      "available_balance": 15750.0,
+      "apy": 1.25,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "hys-3367-marcus",
+      "timestamp": "2024-01-15T14:23:18Z",
+      "account_holder": "Elena Morales",
+      "institution": "Marcus",
+      "account_type": "high_yield_savings",
+      "account_number": "****1124",
+      "routing_number": "124085244",
+      "current_balance": 42500.0,
+      "available_balance": 42500.0,
+      "apy": 4.35,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "cc-5521-chase",
+      "timestamp": "2024-01-15T14:23:18Z",
+      "account_holder": "Elena Morales",
+      "institution": "Chase Bank",
+      "account_type": "credit_card",
+      "account_number": "****7729",
+      "current_balance": -1245.5,
+      "credit_limit": 15000.0,
+      "available_credit": 13754.5,
+      "statement_balance": 1245.5,
+      "currency": "USD",
+      "status": "active",
+      "autopay_enabled": true
+    },
+    {
+      "id": "ira-9934-vanguard",
+      "timestamp": "2024-01-15T14:23:18Z",
+      "account_holder": "Elena Morales",
+      "institution": "Vanguard",
+      "account_type": "traditional_ira",
+      "account_number": "****6642",
+      "current_balance": 89432.15,
+      "currency": "USD",
+      "status": "active",
+      "investment_strategy": "moderate_growth"
+    },
+    {
+      "id": "brk-2281-vanguard",
+      "timestamp": "2024-01-15T14:23:18Z",
+      "account_holder": "Elena Morales",
+      "institution": "Vanguard",
+      "account_type": "brokerage",
+      "account_number": "****3391",
+      "current_balance": 28456.78,
+      "currency": "USD",
+      "status": "active",
+      "tax_loss_harvesting": true
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "desktop_apps/productivity_apps/app_task_sync_state.json",
+    "time_span": "snapshot + updates",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-11-20T15:42:18Z",
+    "source": "productivity_app_sync"
+  },
+  "records": [
+    {
+      "id": "sync-a7k3m9-20241119",
+      "task_reference": "bl-2024-0891",
+      "task_title": "Review proposal with Calvin Price",
+      "application": "Things3",
+      "device": "MacBook-Pro-16-M2",
+      "sync_status": "up_to_date",
+      "timestamp": "2024-11-19T09:23:00-07:00"
+    },
+    {
+      "id": "sync-b8n4p2-20241118",
+      "task_reference": "bl-2024-0888",
+      "task_title": "Q4 planning session logistics",
+      "application": "Microsoft-To-Do",
+      "device": "Dell-XPS-Work",
+      "sync_status": "pending_upload",
+      "timestamp": "2024-11-18T16:45:00-07:00"
+    },
+    {
+      "id": "sync-c5x2q8-20241117",
+      "task_reference": "home-2024-0045",
+      "task_title": "Thanksgiving coordination with Leah",
+      "application": "Reminders",
+      "device": "iPhone-14-Pro",
+      "sync_status": "conflict_resolved",
+      "timestamp": "2024-11-17T14:10:00-07:00"
+    },
+    {
+      "id": "sync-d3v7r1-20241116",
+      "task_reference": "bl-2024-0882",
+      "task_title": "Archive old research ops docs",
+      "application": "Notion",
+      "device": "MacBook-Pro-16-M2",
+      "sync_status": "marked_for_deletion",
+      "end_time": "2024-11-16T17:00:00-07:00"
+    },
+    {
+      "id": "sync-e2w9t4-20241115",
+      "task_reference": "bl-2024-0875",
+      "task_title": "Prep slides for Iris Romero review",
+      "application": "Todoist",
+      "device": "iPad-Air-5",
+      "sync_status": "synced",
+      "timestamp": "2024-11-15T11:30:00-07:00"
+    },
+    {
+      "id": "sync-f1u6y3-20241114",
+      "task_reference": "home-2024-0040",
+      "task_title": "Quarterly tax document organization",
+      "application": "OmniFocus",
+      "device": "MacBook-Pro-16-M2",
+      "sync_status": "pending_archive",
+      "date": "2024-11-14"
+    }
+  ]
+}

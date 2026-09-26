@@ -1,0 +1,510 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "tasks/todo_manager/recurring_tasks.json",
+    "time_span": "24m",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-01-15T14:32:18Z",
+    "source": "todo_manager_sync"
+  },
+  "records": [
+    {
+      "id": "rec_8f3a9b2c1d5e",
+      "title": "Daily standup check-in",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "timestamp": "2023-01-15T09:00:00Z"
+    },
+    {
+      "id": "rec_7g4h8i3j2k6l",
+      "title": "Weekly research operations review",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=FR",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "period_start": "2023-01-06",
+      "period_end": "2023-01-12"
+    },
+    {
+      "id": "rec_9m5n0o4p3q7r",
+      "title": "Bi-weekly 1:1 with Leah Morgan",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=TU",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "start_time": "2023-01-10T14:00:00Z",
+      "end_time": "2023-01-10T14:30:00Z"
+    },
+    {
+      "id": "rec_1s8t2u6v4w0x",
+      "title": "Bi-weekly 1:1 with Calvin Price",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=TH",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-01-12"
+    },
+    {
+      "id": "rec_3y9z4a8b2c6d",
+      "title": "Monthly platform metrics audit",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=1",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "timestamp": "2023-01-01T08:30:00Z"
+    },
+    {
+      "id": "rec_5e0f4g9h3i7j",
+      "title": "Monthly sync with Iris Romero",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=15",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-01-15"
+    },
+    {
+      "id": "rec_7k1l5m9n4o8p",
+      "title": "Quarterly roadmap review",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "period_start": "2023-01-01",
+      "period_end": "2023-03-31"
+    },
+    {
+      "id": "rec_9q3r7s2t6u0v",
+      "title": "Annual performance review preparation",
+      "recurrence_rule": "FREQ=YEARLY",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "date": "2023-11-15"
+    },
+    {
+      "id": "rec_2w8x3y7z5a9b",
+      "title": "Weekly team status update",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "timestamp": "2023-01-09T10:00:00Z"
+    },
+    {
+      "id": "rec_4c0d5e1f6g2h",
+      "title": "Monthly budget reconciliation",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=28",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "period_start": "2023-01-01",
+      "period_end": "2023-01-31"
+    },
+    {
+      "id": "rec_6i4j8k3l7m1n",
+      "title": "Quarterly user research synthesis",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "date": "2023-03-15"
+    },
+    {
+      "id": "rec_8o5p9q4r8s2t",
+      "title": "Weekly design critique attendance",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=WE",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "low",
+      "status": "active",
+      "start_time": "2023-01-11T15:00:00Z",
+      "end_time": "2023-01-11T16:00:00Z"
+    },
+    {
+      "id": "rec_0u6v1w5x9y3z",
+      "title": "Bi-weekly check-in with Grace Lin",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=FR",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "timestamp": "2023-01-13T11:00:00Z"
+    },
+    {
+      "id": "rec_2a7b3c8d4e9f",
+      "title": "Monthly documentation update",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=20",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "low",
+      "status": "active",
+      "date": "2023-01-20"
+    },
+    {
+      "id": "rec_4g0h5i1j6k2l",
+      "title": "Quarterly vendor evaluation",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "medium",
+      "status": "active",
+      "period_start": "2023-02-01",
+      "period_end": "2023-02-28"
+    },
+    {
+      "id": "rec_6m4n8o3p7q1r",
+      "title": "Annual security training renewal",
+      "recurrence_rule": "FREQ=YEARLY",
+      "assigned_to": "Samir Okafor",
+      "category": "work",
+      "priority": "high",
+      "status": "active",
+      "timestamp": "2023-02-01T09:00:00Z"
+    },
+    {
+      "id": "rec_8s5t9u4v8w2x",
+      "title": "Weekly grocery planning with Theo",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=SU",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-01-08"
+    },
+    {
+      "id": "rec_0y6z1a5b9c3d",
+      "title": "Bi-weekly deep clean",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SA",
+      "assigned_to": "Samir Okafor, Theo Harris",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "period_start": "2023-01-07",
+      "period_end": "2023-01-08"
+    },
+    {
+      "id": "rec_2e7f3g8h4i9j",
+      "title": "Monthly date night planning",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=14",
+      "assigned_to": "Samir Okafor, Theo Harris",
+      "category": "household",
+      "priority": "high",
+      "status": "active",
+      "start_time": "2023-02-14T19:00:00Z",
+      "end_time": "2023-02-14T22:00:00Z"
+    },
+    {
+      "id": "rec_4k0l5m1n6o2p",
+      "title": "Quarterly financial review with Theo",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor, Theo Harris",
+      "category": "household",
+      "priority": "high",
+      "status": "active",
+      "period_start": "2023-01-01",
+      "period_end": "2023-03-31"
+    },
+    {
+      "id": "rec_6q4r8s3t7u1v",
+      "title": "Annual home maintenance inspection",
+      "recurrence_rule": "FREQ=YEARLY",
+      "assigned_to": "Samir Okafor, Theo Harris",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-04-15"
+    },
+    {
+      "id": "rec_8w5x9y4z8a2b",
+      "title": "Theo birthday reminder",
+      "recurrence_rule": "FREQ=YEARLY",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "high",
+      "status": "active",
+      "timestamp": "2023-06-12T08:00:00Z"
+    },
+    {
+      "id": "rec_0c6d1e5f9g3h",
+      "title": "Weekly meal prep Sunday",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=SU",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-01-08"
+    },
+    {
+      "id": "rec_2i7j3k8l4m9n",
+      "title": "Bi-weekly lawn care",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SA",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "low",
+      "status": "active",
+      "timestamp": "2023-04-01T10:00:00Z"
+    },
+    {
+      "id": "rec_4o0p5q1r6s2t",
+      "title": "Monthly utility bill review",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=5",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "period_start": "2023-01-05",
+      "period_end": "2023-02-04"
+    },
+    {
+      "id": "rec_6u4v8w3x7y1z",
+      "title": "Quarterly investment portfolio check",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "high",
+      "status": "active",
+      "date": "2023-01-31"
+    },
+    {
+      "id": "rec_8a5b9c4d8e2f",
+      "title": "Annual insurance policy review",
+      "recurrence_rule": "FREQ=YEARLY",
+      "assigned_to": "Samir Okafor",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "timestamp": "2023-05-01T14:00:00Z"
+    },
+    {
+      "id": "rec_0g6h1i5j9k3l",
+      "title": "Weekly call with Theo's family",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=SU",
+      "assigned_to": "Samir Okafor, Theo Harris",
+      "category": "household",
+      "priority": "medium",
+      "status": "active",
+      "start_time": "2023-01-08T18:00:00Z",
+      "end_time": "2023-01-08T19:00:00Z"
+    },
+    {
+      "id": "rec_2m7n3o8p4q9r",
+      "title": "Daily medication reminder",
+      "recurrence_rule": "FREQ=DAILY",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "high",
+      "status": "active",
+      "timestamp": "2023-01-15T08:00:00Z"
+    },
+    {
+      "id": "rec_4s0t5u1v6w2x",
+      "title": "Monday gym session",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=MO",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "medium",
+      "status": "active",
+      "start_time": "2023-01-09T07:00:00Z",
+      "end_time": "2023-01-09T08:30:00Z"
+    },
+    {
+      "id": "rec_6y4z8a3b7c1d",
+      "title": "Monthly therapy appointment",
+      "recurrence_rule": "FREQ=MONTHLY",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "high",
+      "status": "active",
+      "date": "2023-01-20"
+    },
+    {
+      "id": "rec_8e5f9g4h8i2j",
+      "title": "Quarterly dental cleaning",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "medium",
+      "status": "active",
+      "timestamp": "2023-02-15T10:30:00Z"
+    },
+    {
+      "id": "rec_0k6l1m5n9o3p",
+      "title": "Annual physical examination",
+      "recurrence_rule": "FREQ=YEARLY",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "high",
+      "status": "active",
+      "date": "2023-09-10"
+    },
+    {
+      "id": "rec_2q7r3s8t4u9v",
+      "title": "Bi-weekly yoga class",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=WE",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "low",
+      "status": "active",
+      "start_time": "2023-01-11T18:30:00Z",
+      "end_time": "2023-01-11T19:30:00Z"
+    },
+    {
+      "id": "rec_4w0x5y1z6a2b",
+      "title": "Monthly nutrition log review",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=25",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "low",
+      "status": "active",
+      "timestamp": "2023-01-25T20:00:00Z"
+    },
+    {
+      "id": "rec_6c4d8e3f7g1h",
+      "title": "Daily step goal verification",
+      "recurrence_rule": "FREQ=DAILY",
+      "assigned_to": "Samir Okafor",
+      "category": "health",
+      "priority": "low",
+      "status": "active",
+      "period_start": "2023-01-15",
+      "period_end": "2023-01-16"
+    },
+    {
+      "id": "rec_8i5j9k4l8m2n",
+      "title": "Weekly check-in with Nina Park",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=TH",
+      "assigned_to": "Samir Okafor",
+      "category": "social",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-01-12"
+    },
+    {
+      "id": "rec_0o6p1q5r9s3t",
+      "title": "Bi-weekly coffee with Owen Reed",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=FR",
+      "assigned_to": "Samir Okafor",
+      "category": "social",
+      "priority": "medium",
+      "status": "active",
+      "start_time": "2023-01-13T16:00:00Z",
+      "end_time": "2023-01-13T17:30:00Z"
+    },
+    {
+      "id": "rec_2u7v3w8x4y9z",
+      "title": "Monthly book club with Priya Shah",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=10",
+      "assigned_to": "Samir Okafor",
+      "category": "social",
+      "priority": "medium",
+      "status": "active",
+      "timestamp": "2023-01-10T19:00:00Z"
+    },
+    {
+      "id": "rec_4a0b5c1d6e2f",
+      "title": "Quarterly hiking trip with Malik Brooks",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor, Malik Brooks",
+      "category": "social",
+      "priority": "medium",
+      "status": "active",
+      "period_start": "2023-03-01",
+      "period_end": "2023-05-31"
+    },
+    {
+      "id": "rec_6g4h8i3j7k1l",
+      "title": "Monthly team dinner",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=5",
+      "assigned_to": "Samir Okafor, Leah Morgan, Calvin Price, Iris Romero, Grace Lin",
+      "category": "social",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-02-05"
+    },
+    {
+      "id": "rec_8m5n9o4p8q2r",
+      "title": "Weekly family video call",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=SU",
+      "assigned_to": "Samir Okafor",
+      "category": "social",
+      "priority": "high",
+      "status": "active",
+      "start_time": "2023-01-15T17:00:00Z",
+      "end_time": "2023-01-15T18:00:00Z"
+    },
+    {
+      "id": "rec_0s6t1u5v9w3x",
+      "title": "Bi-weekly board game night",
+      "recurrence_rule": "FREQ=WEEKLY;INTERVAL=2;BYDAY=SA",
+      "assigned_to": "Samir Okafor, Theo Harris",
+      "category": "social",
+      "priority": "low",
+      "status": "active",
+      "timestamp": "2023-01-14T19:00:00Z"
+    },
+    {
+      "id": "rec_2y7z3a8b4c9d",
+      "title": "Monthly volunteer shelter shift",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=22",
+      "assigned_to": "Samir Okafor",
+      "category": "social",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-01-22"
+    },
+    {
+      "id": "rec_4e0f5g1h6i2j",
+      "title": "Weekly Spanish language study",
+      "recurrence_rule": "FREQ=WEEKLY;BYDAY=TU",
+      "assigned_to": "Samir Okafor",
+      "category": "personal",
+      "priority": "low",
+      "status": "active",
+      "period_start": "2023-01-03",
+      "period_end": "2023-01-09"
+    },
+    {
+      "id": "rec_6k4l8m3n7o1p",
+      "title": "Monthly portfolio website update",
+      "recurrence_rule": "FREQ=MONTHLY;BYMONTHDAY=30",
+      "assigned_to": "Samir Okafor",
+      "category": "personal",
+      "priority": "low",
+      "status": "active",
+      "timestamp": "2023-01-30T21:00:00Z"
+    },
+    {
+      "id": "rec_8q5r9s4t8u2v",
+      "title": "Quarterly professional skills assessment",
+      "recurrence_rule": "FREQ=QUARTERLY",
+      "assigned_to": "Samir Okafor",
+      "category": "personal",
+      "priority": "medium",
+      "status": "active",
+      "date": "2023-04-01"
+    },
+    {
+      "id": "rec_0w6x1y5z9a3b",
+      "title": "Daily evening journaling",
+      "recurrence_rule": "FREQ=DAILY",
+      "assigned_to": "Samir Okafor",
+      "category": "personal",
+      "priority": "low",
+      "status": "active",
+      "start_time": "2023-01-15T21:30:00Z"
+    }
+  ]
+}

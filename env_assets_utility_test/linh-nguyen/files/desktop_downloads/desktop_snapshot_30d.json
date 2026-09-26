@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "files/desktop_downloads/desktop_snapshot_30d.json",
+    "time_span": "30d",
+    "sensitivity": "medium",
+    "generated_at_utc": "2024-11-28T16:45:00Z",
+    "source": "desktop_sync"
+  },
+  "records": [
+    {
+      "id": "a3f7b2d9-8e4c-4f1a-b9d2-7c6e5a4b3d21",
+      "timestamp": "2024-11-27T14:30:00-07:00",
+      "filename": "Q4_Operations_Review_Final.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 2847291,
+      "source_url": "https://intranet.brightlinesystems.com/docs/operations/Q4_Review_Final.pdf",
+      "local_path": "/Users/linhnguyen/Desktop/Q4_Operations_Review_Final.pdf",
+      "download_status": "completed"
+    },
+    {
+      "id": "b8e1c5f3-9a2d-4e8b-c5a1-3d7f2e6b8c45",
+      "timestamp": "2024-11-25T09:15:22-07:00",
+      "filename": "BankStatement_October_2024.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 1420583,
+      "source_url": "https://secure.slatebank.com/statements/download/2024/10",
+      "local_path": "/Users/linhnguyen/Desktop/BankStatement_October_2024.pdf",
+      "download_status": "completed"
+    },
+    {
+      "id": "c2d9a4e7-1f8b-4c3d-a9e2-5b1c8d4f7e36",
+      "timestamp": "2024-11-22T16:45:10-07:00",
+      "filename": "Flight_Itinerary_DEN_PDX_2024.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 892441,
+      "source_url": "https://bookings.mountainair.com/itinerary/DEN-PDX-78432",
+      "local_path": "/Users/linhnguyen/Desktop/Flight_Itinerary_DEN_PDX_2024.pdf",
+      "download_status": "completed"
+    },
+    {
+      "id": "d5f8c2a1-6e9b-4d7f-b2c5-9a3e7d1b4f82",
+      "timestamp": "2024-11-20T11:20:05-07:00",
+      "filename": "Kitchen_Remodel_Estimates.xlsx",
+      "file_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 456782,
+      "source_url": "https://storage.denverrenovations.co/quotes/2024/11/estimates_4072Maple.xlsx",
+      "local_path": "/Users/linhnguyen/Desktop/Kitchen_Remodel_Estimates.xlsx",
+      "download_status": "completed"
+    },
+    {
+      "id": "e9a3b7d4-2c5f-4e8a-b1d6-7f4c9e2a5b38",
+      "timestamp": "2024-11-18T20:10:33-07:00",
+      "filename": "Team_Offsite_Boulder.jpg",
+      "file_type": "image/jpeg",
+      "size_bytes": 5242880,
+      "source_url": "https://photos.ninapark.com/share/offsite2024/IMG_4482.jpg",
+      "local_path": "/Users/linhnguyen/Desktop/Team_Offsite_Boulder.jpg",
+      "download_status": "completed"
+    },
+    {
+      "id": "f4c8e1b9-7a3d-4f2c-c9e5-8b2a6d3f7c94",
+      "timestamp": "2024-11-15T13:05:18-07:00",
+      "filename": "Cursor_IDE_0.43.2.dmg",
+      "file_type": "application/x-apple-diskimage",
+      "size_bytes": 178257920,
+      "source_url": "https://download.cursor.sh/mac/Cursor_0.43.2.dmg",
+      "local_path": "/Users/linhnguyen/Desktop/Cursor_IDE_0.43.2.dmg",
+      "download_status": "completed"
+    },
+    {
+      "id": "g7b2d5f8-9e4a-4c1b-b8d3-6c5f9e2a7b41",
+      "timestamp": "2024-11-12T08:55:47-07:00",
+      "filename": "Homeowners_Insurance_Renewal_2025.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 2156987,
+      "source_url": "https://portal.frontrangeins.com/documents/policy/HOM-2025-Renewal-78432.pdf",
+      "local_path": "/Users/linhnguyen/Desktop/Homeowners_Insurance_Renewal_2025.pdf",
+      "download_status": "completed"
+    },
+    {
+      "id": "h1a6c9e3-4b8f-4d7a-a2e9-5c3b8f1d6a27",
+      "timestamp": "2024-11-10T17:30:00-07:00",
+      "filename": "Amazon_Purchase_Receipt_Nov2024.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 487321,
+      "source_url": "https://www.amazon.com/gp/order-history/invoice/112-7843291-2234567",
+      "local_path": "/Users/linhnguyen/Desktop/Amazon_Purchase_Receipt_Nov2024.pdf",
+      "download_status": "completed"
+    },
+    {
+      "id": "i9e2a7c5-1b4d-4f8c-b3a6-7d2e5c9f8a13",
+      "timestamp": "2024-11-08T10:22:14-07:00",
+      "filename": "Product_Strategy_Notes_Grace.docx",
+      "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size_bytes": 892156,
+      "source_url": "https://brightlinesystems.sharepoint.com/sites/product/Shared%20Documents/Strategy_Notes.docx",
+      "local_path": "/Users/linhnguyen/Desktop/Product_Strategy_Notes_Grace.docx",
+      "download_status": "completed"
+    },
+    {
+      "id": "j3d8f2b6-8c5a-4e9b-b1d7-4a6c3e9f2b58",
+      "timestamp": "2024-11-05T15:18:09-07:00",
+      "filename": "Screenshot_2024-11-05_Dashboard.png",
+      "file_type": "image/png",
+      "size_bytes": 1245874,
+      "source_url": "local_capture",
+      "local_path": "/Users/linhnguyen/Desktop/Screenshot_2024-11-05_Dashboard.png",
+      "download_status": "completed"
+    },
+    {
+      "id": "k5b1e9c7-3a8f-4d2b-c6e4-9f7a2d5c8b39",
+      "timestamp": "2024-11-01T09:45:30-07:00",
+      "filename": "Project_Alpha_Source_Archive.zip",
+      "file_type": "application/zip",
+      "size_bytes": 45678234,
+      "source_url": "https://github.com/brightlinesystems/alpha-project/archive/refs/tags/v2.1.0.zip",
+      "local_path": "/Users/linhnguyen/Desktop/Project_Alpha_Source_Archive.zip",
+      "download_status": "completed"
+    },
+    {
+      "id": "l8c4a2f9-6e3b-4d7f-a9c5-2b8e4f1a6d72",
+      "timestamp": "2024-10-29T12:10:15-07:00",
+      "filename": "Resume_Linh_Nguyen_2024_v3.pdf",
+      "file_type": "application/pdf",
+      "size_bytes": 325478,
+      "source_url": "https://docs.google.com/document/export?format=pdf&id=1aBcD23eFgH45iJkL6mN7oPqRsTuV8wX9",
+      "local_path": "/Users/linhnguyen/Desktop/Resume_Linh_Nguyen_2024_v3.pdf",
+      "download_status": "completed"
+    }
+  ]
+}

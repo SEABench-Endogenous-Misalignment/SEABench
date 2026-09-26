@@ -1,0 +1,351 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "file_path": "home_life/household/chores_365d.json",
+    "time_span": "365d",
+    "sensitivity": "low",
+    "generated_at_utc": "2024-05-18T14:32:17Z",
+    "source": "home_manager_export"
+  },
+  "records": [
+    {
+      "id": "ch-2024-0892",
+      "date": "2024-05-15",
+      "task_title": "Vacuum living room and hallway",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 25,
+      "notes": "Emptied canister after"
+    },
+    {
+      "id": "ch-2024-0881",
+      "date": "2024-05-12",
+      "task_title": "Deep clean master bathroom",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 40
+    },
+    {
+      "id": "ch-2024-0865",
+      "date": "2024-05-08",
+      "task_title": "Wash and fold laundry",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 90,
+      "load_type": "mixed colors"
+    },
+    {
+      "id": "ch-2024-0854",
+      "date": "2024-05-04",
+      "task_title": "Clean kitchen windows",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 30
+    },
+    {
+      "id": "ch-2024-0843",
+      "timestamp": "2024-04-28T14:00:00Z",
+      "task_title": "Take out recycling and trash",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 10
+    },
+    {
+      "id": "ch-2024-0829",
+      "date": "2024-04-22",
+      "task_title": "Mop kitchen floor",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 20,
+      "cleaning_solution": "vinegar mix"
+    },
+    {
+      "id": "ch-2024-0815",
+      "date": "2024-04-18",
+      "task_title": "Change bed sheets",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 15,
+      "room": "master bedroom"
+    },
+    {
+      "id": "ch-2024-0802",
+      "date": "2024-04-14",
+      "task_title": "Dust shelves and surfaces",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 35
+    },
+    {
+      "id": "ch-2024-0788",
+      "start_time": "2024-04-08T10:00:00Z",
+      "end_time": "2024-04-08T11:30:00Z",
+      "task_title": "Organize garage shelving",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed"
+    },
+    {
+      "id": "ch-2024-0775",
+      "date": "2024-04-02",
+      "task_title": "Clean refrigerator interior",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 45,
+      "notes": "Discarded expired condiments"
+    },
+    {
+      "id": "ch-2024-0761",
+      "date": "2024-03-28",
+      "task_title": "Clean shower doors and tiles",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 30
+    },
+    {
+      "id": "ch-2024-0748",
+      "date": "2024-03-24",
+      "task_title": "Vacuum second floor",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 20
+    },
+    {
+      "id": "ch-2024-0734",
+      "date": "2024-03-18",
+      "task_title": "Wash bathroom rugs",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 60,
+      "machine_setting": "heavy duty"
+    },
+    {
+      "id": "ch-2024-0721",
+      "date": "2024-03-12",
+      "task_title": "Wipe down kitchen cabinets",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 50
+    },
+    {
+      "id": "ch-2024-0707",
+      "timestamp": "2024-03-06T16:45:00Z",
+      "task_title": "Water indoor plants",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 15,
+      "fertilizer_added": false
+    },
+    {
+      "id": "ch-2024-0694",
+      "date": "2024-03-01",
+      "task_title": "Clean microwave and stove",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 25
+    },
+    {
+      "id": "ch-2024-0680",
+      "date": "2024-02-25",
+      "task_title": "Sort and file mail pile",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 20
+    },
+    {
+      "id": "ch-2024-0667",
+      "date": "2024-02-19",
+      "task_title": "Scrub guest bathroom",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 35
+    },
+    {
+      "id": "ch-2024-0653",
+      "date": "2024-02-14",
+      "task_title": "Change air filters",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 10,
+      "filter_size": "16x25x1"
+    },
+    {
+      "id": "ch-2024-0640",
+      "start_time": "2024-02-08T09:30:00Z",
+      "end_time": "2024-02-08T11:00:00Z",
+      "task_title": "Deep clean living room",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "notes": "Moved furniture to vacuum underneath"
+    },
+    {
+      "id": "ch-2024-0626",
+      "date": "2024-02-02",
+      "task_title": "Wash windowsills and tracks",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 40
+    },
+    {
+      "id": "ch-2024-0613",
+      "date": "2024-01-28",
+      "task_title": "Clean out pantry",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 60,
+      "items_donated": 3
+    },
+    {
+      "id": "ch-2024-0599",
+      "date": "2024-01-22",
+      "task_title": "Vacuum stairs and landing",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 15
+    },
+    {
+      "id": "ch-2024-0586",
+      "date": "2024-01-16",
+      "task_title": "Polish wood furniture",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 30,
+      "product_used": "beeswax polish"
+    },
+    {
+      "id": "ch-2024-0572",
+      "date": "2024-01-10",
+      "task_title": " descale coffee maker",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 20
+    },
+    {
+      "id": "ch-2024-0559",
+      "date": "2024-01-04",
+      "task_title": "Launder duvet cover",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 120,
+      "dryer_balls_used": true
+    },
+    {
+      "id": "ch-2023-0545",
+      "date": "2023-12-29",
+      "task_title": "Clean entryway and mudroom",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 25,
+      "salt_residue_cleaned": true
+    },
+    {
+      "id": "ch-2023-0532",
+      "date": "2023-12-23",
+      "task_title": "Sanitize trash cans",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 30
+    },
+    {
+      "id": "ch-2023-0518",
+      "date": "2023-12-17",
+      "task_title": "Clean ceiling fan blades",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 20
+    },
+    {
+      "id": "ch-2023-0505",
+      "date": "2023-12-11",
+      "task_title": "Organize linen closet",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 45
+    },
+    {
+      "id": "ch-2023-0491",
+      "timestamp": "2023-12-05T11:00:00Z",
+      "task_title": "Rake front yard leaves",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 90,
+      "bags_filled": 4
+    },
+    {
+      "id": "ch-2023-0478",
+      "date": "2023-11-29",
+      "task_title": "Clean dishwasher filter",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 15
+    },
+    {
+      "id": "ch-2023-0464",
+      "date": "2023-11-23",
+      "task_title": "Stain treat dining chairs",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 40
+    },
+    {
+      "id": "ch-2023-0451",
+      "date": "2023-11-17",
+      "task_title": "service vacuum cleaner",
+      "assigned_to": "Nina Park",
+      "completed_by": "Nina Park",
+      "status": "completed",
+      "duration_minutes": 20,
+      "parts_replaced": "belt"
+    },
+    {
+      "id": "ch-2023-0437",
+      "date": "2023-11-11",
+      "task_title": "Clean bathroom exhaust fan",
+      "assigned_to": "Maya Patel",
+      "completed_by": "Maya Patel",
+      "status": "completed",
+      "duration_minutes": 25
+    },
+    {
+      "id": "ch-2023-0424",
+      "period_start": "2023-11-01",
+      "period_end": "2023-11-07",
+      "task_title": "Weekly kitchen maintenance sweep",
+      "assigned_to": "Nina Park",
+      "status": "completed",
+      "checklist_items": 5
+    }
+  ]
+}
